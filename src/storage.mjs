@@ -1,0 +1,5 @@
+import {empty} from './model.mjs';
+const channel=typeof BroadcastChannel==='function'?new BroadcastChannel('words-static-updates'):null;
+function open(){return new Promise((resolve,reject)=>{const r=indexedDB.open('words-static-v1',1);r.onupgradeneeded=()=>r.result.createObjectStore('state');r.onsuccess=()=>resolve(r.result);r.onerror=()=>reject(Error('浏览器无法打开本地学习库，请检查存储权限。'))})}
+export async function transact(change){const db=await open();try{return await new Promise((resolve,reject)=>{const tx=db.transaction('state',change?'readwrite':'readonly'),store=tx.objectStore('state');let result,error;const r=store.get('current');r.onsuccess=()=>{try{result=r.result||empty();if(change){result=change(result)||result;store.put(result,'current')}}catch(e){error=e;tx.abort()}};tx.oncomplete=()=>{if(change)channel?.postMessage('updated');resolve(result)};tx.onerror=()=>reject(error||Error('保存失败，记录未确认。请先导出备份。'));tx.onabort=()=>reject(error||Error('保存被取消'))})}finally{db.close()}}
+export function onExternalChange(fn){if(channel)channel.onmessage=fn}
