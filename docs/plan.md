@@ -11,10 +11,10 @@
 **Spec:** docs/design.md
 
 ## Tasks
-- [ ] Test then implement scheduling, idempotent events, undo and import conflict validation in src/model.mjs; verify node --test.
-- [ ] Build validated vocabulary ingestion from every supplied dated entries.json; count and hash source inputs, whitelist learning fields; keep source files unchanged.
-- [ ] Implement responsive study/library/statistics/backup screens, local persistence and speech; test browser reload, grades, export/import, concurrent-tab conflicts and mobile overflow.
-- [ ] One fresh whole-branch review, fix important findings with reproducing tests, build, audit, deploy GitHub Pages, verify real public URL.
+- [x] Test then implement scheduling, idempotent events, undo and import conflict validation in src/model.mjs; verify node --test.
+- [x] Build validated vocabulary ingestion from every supplied dated entries.json; count and hash source inputs, whitelist learning fields; keep source files unchanged.
+- [x] Implement responsive study/library/statistics/backup screens, local persistence and speech; test browser reload, grades, export/import, concurrent-tab conflicts and mobile overflow.
+- [x] One fresh whole-branch review, fix important findings with reproducing tests, build, audit, deploy GitHub Pages, verify real public URL.
 
 ## Review Focus
 Lost local records, concurrent tab overwrite, malicious backup import/XSS, update stability, accidental private metadata publication. No automatic cloud synchronization or full offline guarantee.

@@ -9,3 +9,5 @@ The malformed second import-file preview issue was treated as a data-selection r
 Learning data is browser-local. Publication can be verified without exposing learning history because browser tests use disposable profiles. No old connector/server setup is required for users; server application and network restoration were paused at user request.
 
 Rulings: GitHub Pages selected explicitly instead of Sites hosting; public static learning fields only. All recent dated batches included instead of initial20. Source files remain read-only. Build bundle pins FSRS6 and does not load a third-party runtime script. No cloud sync, account, or full offline promise.
+
+Release: https://decidedtang-source.github.io/words-static/ . Initial deployment run40808514503 succeeded. Public HTTPS returned200; downloaded vocabulary confirmed1875 entries/15batches/latest2026-10-29. Fresh Chromium profile verified grading and reload at the actual public subpath;0page errors and no horizontal overflow at390px. Local5model tests and integrated browser flow passed; npm audit0vulnerabilities. Public smoke-test progress existed only in a disposable browser profile.
