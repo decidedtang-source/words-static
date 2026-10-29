@@ -1,0 +1,8 @@
+import {readFileSync} from 'node:fs';import {join} from 'node:path';
+export function enrichVocabulary(data,contentDirectory='content'){
+ const annotations=new Map();
+ for(const batch of data.batches){const file=JSON.parse(readFileSync(join(contentDirectory,batch.date+'.json'),'utf8'));if(!file||Array.isArray(file)||typeof file!=='object')throw Error('Invalid editorial batch '+batch.date);for(const [id,entry] of Object.entries(file)){if(annotations.has(id))throw Error('Duplicate editorial ID '+id);annotations.set(id,entry)}}
+ if(annotations.size!==data.words.length)throw Error('Editorial coverage must match all source entries');
+ const words=data.words.map(w=>{const entry=annotations.get(w.id);if(!entry||typeof entry.gloss!=='string'||!entry.gloss.trim()||entry.gloss.length>40)throw Error('Missing/long gloss '+w.id);if(!Array.isArray(entry.examples)||entry.examples.length<2||entry.examples[0].en!==w.example)throw Error('Examples must preserve original '+w.id);const seen=new Set();const examples=entry.examples.map(e=>{if(typeof e.en!=='string'||typeof e.zh!=='string'||!e.en.trim()||!e.zh.trim()||e.en.length>2000||e.zh.length>2000||seen.has(e.en)||/<\/?[a-z]|javascript:/i.test(e.en+e.zh))throw Error('Invalid bilingual example '+w.id);seen.add(e.en);return {en:e.en,zh:e.zh}});if(entry.editorialNote!==undefined&&(typeof entry.editorialNote!=='string'||!entry.editorialNote.trim()||entry.editorialNote.length>1000||/<\/?[a-z]|javascript:/i.test(entry.editorialNote)))throw Error('Invalid editorial note '+w.id);return {...w,gloss:entry.gloss,explanation:w.meaning,examples,...(entry.editorialNote?{editorialNote:entry.editorialNote}:{})}});
+ return {...data,contentVersion:2,words};
+}

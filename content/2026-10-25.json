@@ -1,0 +1,1627 @@
+{
+  "V20261025-001": {
+    "gloss": "决策备忘录",
+    "examples": [
+      {
+        "en": "We issued a decision memo before the steering review.",
+        "zh": "我们在指导委员会审查前发布了决策备忘录。"
+      },
+      {
+        "en": "Attach the cost estimate to the decision memo.",
+        "zh": "将成本估算附在决策备忘录后。"
+      }
+    ]
+  },
+  "V20261025-002": {
+    "gloss": "决策期限",
+    "examples": [
+      {
+        "en": "We need the answer by the decision deadline.",
+        "zh": "我们需要在决策期限前得到答复。"
+      },
+      {
+        "en": "Friday is our decision deadline.",
+        "zh": "周五是我们的决策期限。"
+      }
+    ]
+  },
+  "V20261025-003": {
+    "gloss": "批准法定人数",
+    "examples": [
+      {
+        "en": "Confirm the approval quorum before scheduling the vote.",
+        "zh": "安排投票前确认批准所需的最低人数。"
+      },
+      {
+        "en": "Three directors form the approval quorum.",
+        "zh": "三名董事构成批准法定人数。"
+      }
+    ]
+  },
+  "V20261025-004": {
+    "gloss": "获授权限",
+    "examples": [
+      {
+        "en": "She approved the change under delegated authority.",
+        "zh": "她依据获授权限批准了变更。"
+      },
+      {
+        "en": "The manager acted within her delegated authority.",
+        "zh": "经理在获授权限内行事。"
+      }
+    ]
+  },
+  "V20261025-005": {
+    "gloss": "批准条件",
+    "examples": [
+      {
+        "en": "The team satisfied every approval condition.",
+        "zh": "团队满足了每项批准条件。"
+      },
+      {
+        "en": "Payment is the final approval condition.",
+        "zh": "付款是最后一项批准条件。"
+      }
+    ]
+  },
+  "V20261025-006": {
+    "gloss": "批准到期时间",
+    "examples": [
+      {
+        "en": "Check the approval expiry before releasing the order.",
+        "zh": "下达订单前检查批准到期时间。"
+      },
+      {
+        "en": "The approval expiry falls on Monday.",
+        "zh": "该批准于周一到期。"
+      }
+    ]
+  },
+  "V20261025-007": {
+    "gloss": "决策复议",
+    "examples": [
+      {
+        "en": "New evidence justified decision reconsideration.",
+        "zh": "新证据证明有理由重新考虑决定。"
+      },
+      {
+        "en": "The revised forecast prompted decision reconsideration.",
+        "zh": "更新后的预测促使重新审议决定。"
+      }
+    ]
+  },
+  "V20261025-008": {
+    "gloss": "决策证据包",
+    "examples": [
+      {
+        "en": "Compile the evidence pack before asking for approval.",
+        "zh": "申请批准前汇总证据包。"
+      },
+      {
+        "en": "The decision evidence pack lacks test results.",
+        "zh": "决策证据包缺少测试结果。"
+      }
+    ]
+  },
+  "V20261025-009": {
+    "gloss": "豁免批准权",
+    "examples": [
+      {
+        "en": "Confirm the waiver authority before submitting the request.",
+        "zh": "提交申请前确认谁有豁免批准权。"
+      },
+      {
+        "en": "Only the director holds waiver authority.",
+        "zh": "只有主管拥有豁免批准权。"
+      }
+    ]
+  },
+  "V20261025-010": {
+    "gloss": "治理决策时段",
+    "examples": [
+      {
+        "en": "Secure a decision window before the deadline.",
+        "zh": "在截止日期前争取到决策时段。"
+      },
+      {
+        "en": "The governance decision window closes tomorrow.",
+        "zh": "治理决策时段明天结束。"
+      }
+    ]
+  },
+  "V20261025-011": {
+    "gloss": "接口要求",
+    "examples": [
+      {
+        "en": "Document each interface requirement before design freeze.",
+        "zh": "设计冻结前记录每项接口要求。"
+      },
+      {
+        "en": "This interface requirement specifies the file format.",
+        "zh": "这项接口要求规定了文件格式。"
+      }
+    ]
+  },
+  "V20261025-012": {
+    "gloss": "接口负责人",
+    "examples": [
+      {
+        "en": "Assign an interface owner for the shared data feed.",
+        "zh": "为共享数据流指定接口负责人。"
+      },
+      {
+        "en": "Ask the interface owner about missing fields.",
+        "zh": "向接口负责人询问缺失字段。"
+      }
+    ]
+  },
+  "V20261025-013": {
+    "gloss": "接口协议",
+    "examples": [
+      {
+        "en": "Both teams signed the interface agreement.",
+        "zh": "两个团队都签署了接口协议。"
+      },
+      {
+        "en": "The interface agreement requires daily updates.",
+        "zh": "接口协议要求每日更新。"
+      }
+    ]
+  },
+  "V20261025-014": {
+    "gloss": "配置基线",
+    "examples": [
+      {
+        "en": "Establish the baseline before testing starts.",
+        "zh": "测试开始前建立基线。"
+      },
+      {
+        "en": "Compare the build with the configuration baseline.",
+        "zh": "将构建版本与配置基线比较。"
+      }
+    ]
+  },
+  "V20261025-015": {
+    "gloss": "配置状态记录",
+    "examples": [
+      {
+        "en": "Maintain status accounting through the release cycle.",
+        "zh": "整个发布周期都要维护状态记录。"
+      },
+      {
+        "en": "Configuration status accounting tracks approved revisions.",
+        "zh": "配置状态记录追踪已批准的修订。"
+      }
+    ]
+  },
+  "V20261025-016": {
+    "gloss": "配置审核",
+    "examples": [
+      {
+        "en": "The team performed a configuration audit before shipment.",
+        "zh": "团队在发货前进行了配置审核。"
+      },
+      {
+        "en": "The configuration audit found an outdated drawing.",
+        "zh": "配置审核发现了一份旧版图纸。"
+      }
+    ]
+  },
+  "V20261025-017": {
+    "gloss": "变更追溯记录",
+    "examples": [
+      {
+        "en": "Maintain a clear change trace for every revision.",
+        "zh": "为每次修订保留清晰的变更追溯记录。"
+      },
+      {
+        "en": "The change trace links approval to testing.",
+        "zh": "变更追溯记录将批准与测试关联起来。"
+      }
+    ]
+  },
+  "V20261025-018": {
+    "gloss": "需求依据",
+    "examples": [
+      {
+        "en": "Record the rationale while the decision is fresh.",
+        "zh": "趁决定还记得清楚时记录依据。"
+      },
+      {
+        "en": "The requirement rationale explains the pressure limit.",
+        "zh": "需求依据解释了压力限制的原因。"
+      }
+    ]
+  },
+  "V20261025-019": {
+    "gloss": "需求歧义",
+    "examples": [
+      {
+        "en": "The workshop removed ambiguity from the interface clause.",
+        "zh": "研讨会消除了接口条款中的歧义。"
+      },
+      {
+        "en": "Requirement ambiguity delayed the acceptance test.",
+        "zh": "需求歧义耽误了验收测试。"
+      }
+    ]
+  },
+  "V20261025-020": {
+    "gloss": "功能意图",
+    "examples": [
+      {
+        "en": "The alternative material must protect the functional intent.",
+        "zh": "替代材料必须保留原有功能意图。"
+      },
+      {
+        "en": "The redesign preserves the functional intent.",
+        "zh": "重新设计保留了原有功能意图。"
+      }
+    ]
+  },
+  "V20261025-021": {
+    "gloss": "产能分布",
+    "examples": [
+      {
+        "en": "Build a weekly capacity profile by product family.",
+        "zh": "按产品系列建立每周产能分布。"
+      },
+      {
+        "en": "The capacity profile shows a Friday peak.",
+        "zh": "产能分布显示周五达到峰值。"
+      }
+    ]
+  },
+  "V20261025-022": {
+    "gloss": "产能缺口",
+    "examples": [
+      {
+        "en": "The second shift will close the capacity shortfall.",
+        "zh": "增加第二班将填补产能缺口。"
+      },
+      {
+        "en": "One extra machine closes the capacity shortfall.",
+        "zh": "增加一台机器即可填补产能缺口。"
+      }
+    ]
+  },
+  "V20261025-023": {
+    "gloss": "产能余量",
+    "examples": [
+      {
+        "en": "Maintain some headroom for demand spikes.",
+        "zh": "留出一些余量来应对需求激增。"
+      },
+      {
+        "en": "We have little capacity headroom this month.",
+        "zh": "本月我们的产能余量很小。"
+      }
+    ]
+  },
+  "V20261025-024": {
+    "gloss": "人员配置比例",
+    "examples": [
+      {
+        "en": "We adjusted the staffing ratio for the night shift.",
+        "zh": "我们调整了夜班的人员配置比例。"
+      },
+      {
+        "en": "The staffing ratio is two operators per machine.",
+        "zh": "人员配置比例为每台机器两名操作员。"
+      }
+    ]
+  },
+  "V20261025-025": {
+    "gloss": "技能覆盖",
+    "examples": [
+      {
+        "en": "Review skill coverage before approving overtime.",
+        "zh": "批准加班前检查技能覆盖情况。"
+      },
+      {
+        "en": "Skill coverage is weak on the late shift.",
+        "zh": "晚班的技能覆盖不足。"
+      }
+    ]
+  },
+  "V20261025-026": {
+    "gloss": "排班模式",
+    "examples": [
+      {
+        "en": "The new shift pattern reduced weekend gaps.",
+        "zh": "新的排班模式减少了周末空缺。"
+      },
+      {
+        "en": "The shift pattern rotates every two weeks.",
+        "zh": "排班模式每两周轮换一次。"
+      }
+    ]
+  },
+  "V20261025-027": {
+    "gloss": "加班依赖",
+    "examples": [
+      {
+        "en": "The hiring plan should reduce overtime dependency.",
+        "zh": "招聘计划应减少对加班的依赖。"
+      },
+      {
+        "en": "Overtime dependency makes the schedule fragile.",
+        "zh": "加班依赖使排程难以稳定。"
+      }
+    ]
+  },
+  "V20261025-028": {
+    "gloss": "交叉培训计划",
+    "examples": [
+      {
+        "en": "We launched a cross-training plan for critical stations.",
+        "zh": "我们为关键工位启动了交叉培训计划。"
+      },
+      {
+        "en": "The cross-training plan covers three stations.",
+        "zh": "交叉培训计划涵盖三个工位。"
+      }
+    ]
+  },
+  "V20261025-029": {
+    "gloss": "爬坡学习速度",
+    "examples": [
+      {
+        "en": "Estimate the learning rate using the pilot data.",
+        "zh": "用试点数据估算学习速度。"
+      },
+      {
+        "en": "Simpler instructions improved the ramp learning rate.",
+        "zh": "简化说明提高了爬坡学习速度。"
+      }
+    ]
+  },
+  "V20261025-030": {
+    "gloss": "人力约束",
+    "examples": [
+      {
+        "en": "We cannot solve this workforce constraint with inventory.",
+        "zh": "库存无法解决这项人力约束。"
+      },
+      {
+        "en": "Limited welding skills create a workforce constraint.",
+        "zh": "焊接技能不足形成了人力约束。"
+      }
+    ]
+  },
+  "V20261025-031": {
+    "gloss": "商务澄清",
+    "examples": [
+      {
+        "en": "The bidder submitted a commercial clarification.",
+        "zh": "投标方提交了一份商务澄清。"
+      },
+      {
+        "en": "Request commercial clarification on freight charges.",
+        "zh": "请对运费作出商务澄清。"
+      }
+    ]
+  },
+  "V20261025-032": {
+    "gloss": "报价拉平比较",
+    "examples": [
+      {
+        "en": "Complete bid leveling before recommending a supplier.",
+        "zh": "推荐供应商前完成报价拉平比较。"
+      },
+      {
+        "en": "Bid leveling revealed an excluded installation fee.",
+        "zh": "报价拉平比较发现漏报的安装费。"
+      }
+    ]
+  },
+  "V20261025-033": {
+    "gloss": "报价到期日",
+    "examples": [
+      {
+        "en": "Confirm the expiry before placing the order.",
+        "zh": "下订单前确认到期日。"
+      },
+      {
+        "en": "The quotation expiry is next Thursday.",
+        "zh": "报价下周四到期。"
+      }
+    ]
+  },
+  "V20261025-034": {
+    "gloss": "价格明细",
+    "examples": [
+      {
+        "en": "We requested a price breakdown for the revised scope.",
+        "zh": "我们要求提供调整范围后的价格明细。"
+      },
+      {
+        "en": "The price breakdown separates labor and materials.",
+        "zh": "价格明细分列人工和材料费用。"
+      }
+    ]
+  },
+  "V20261025-035": {
+    "gloss": "基础成本",
+    "examples": [
+      {
+        "en": "Validate the cost base before applying escalation.",
+        "zh": "计算涨价前核实基础成本。"
+      },
+      {
+        "en": "Freight belongs in the cost base.",
+        "zh": "运费应计入基础成本。"
+      }
+    ]
+  },
+  "V20261025-036": {
+    "gloss": "调价公式",
+    "examples": [
+      {
+        "en": "Apply the formula only to eligible costs.",
+        "zh": "仅对符合条件的成本使用该公式。"
+      },
+      {
+        "en": "The escalation formula uses a steel index.",
+        "zh": "调价公式采用钢材价格指数。"
+      }
+    ]
+  },
+  "V20261025-037": {
+    "gloss": "开票触发条件",
+    "examples": [
+      {
+        "en": "Define each invoice trigger in the payment schedule.",
+        "zh": "在付款计划中定义每项开票触发条件。"
+      },
+      {
+        "en": "Signed delivery proof is the invoice trigger.",
+        "zh": "签收凭证是开票触发条件。"
+      }
+    ]
+  },
+  "V20261025-038": {
+    "gloss": "保留款支付条件",
+    "examples": [
+      {
+        "en": "The supplier met every retention release condition.",
+        "zh": "供应商满足了所有保留款支付条件。"
+      },
+      {
+        "en": "Defect closure is a retention release condition.",
+        "zh": "缺陷关闭是保留款支付条件之一。"
+      }
+    ]
+  },
+  "V20261025-039": {
+    "gloss": "保修风险敞口",
+    "examples": [
+      {
+        "en": "Estimate the warranty exposure before closing the deal.",
+        "zh": "成交前估算保修风险敞口。"
+      },
+      {
+        "en": "Longer coverage increases our warranty exposure.",
+        "zh": "延长保障期限扩大了我们的保修风险敞口。"
+      }
+    ]
+  },
+  "V20261025-040": {
+    "gloss": "索赔举证",
+    "examples": [
+      {
+        "en": "The supplier must provide claim substantiation.",
+        "zh": "供应商必须提供索赔举证。"
+      },
+      {
+        "en": "Claim substantiation requires dated site records.",
+        "zh": "索赔举证需要注明日期的现场记录。"
+      }
+    ]
+  },
+  "V20261025-041": {
+    "gloss": "测量能力研究",
+    "examples": [
+      {
+        "en": "Conduct the study before releasing the gauge.",
+        "zh": "量具放行前开展这项研究。"
+      },
+      {
+        "en": "The measurement capability study includes repeated trials.",
+        "zh": "测量能力研究包含重复试验。"
+      }
+    ]
+  },
+  "V20261025-042": {
+    "gloss": "操作员间一致性",
+    "examples": [
+      {
+        "en": "The revised fixture improved between-operator agreement.",
+        "zh": "改良后的夹具提高了操作员间一致性。"
+      },
+      {
+        "en": "Training improved between-operator agreement on visual checks.",
+        "zh": "培训提高了目视检查的操作员间一致性。"
+      }
+    ]
+  },
+  "V20261025-043": {
+    "gloss": "校准周期",
+    "examples": [
+      {
+        "en": "Review the interval after any abnormal drift.",
+        "zh": "出现异常漂移后审查校准周期。"
+      },
+      {
+        "en": "We shortened the calibration interval to six months.",
+        "zh": "我们将校准周期缩短至六个月。"
+      }
+    ]
+  },
+  "V20261025-044": {
+    "gloss": "检查间隔",
+    "examples": [
+      {
+        "en": "Shorten the interval during temporary containment.",
+        "zh": "临时遏制期间缩短检查间隔。"
+      },
+      {
+        "en": "The inspection interval is every fifty pieces.",
+        "zh": "检查间隔为每五十件一次。"
+      }
+    ]
+  },
+  "V20261025-045": {
+    "gloss": "批次接收规则",
+    "examples": [
+      {
+        "en": "Apply the same rule to every incoming lot.",
+        "zh": "每批来料都采用相同规则。"
+      },
+      {
+        "en": "The lot acceptance rule rejects cracked parts.",
+        "zh": "批次接收规则不允许接收有裂纹的零件。"
+      }
+    ]
+  },
+  "V20261025-046": {
+    "gloss": "缺陷流出",
+    "examples": [
+      {
+        "en": "The layered audit should prevent another defect escape.",
+        "zh": "分层审核应防止再次发生缺陷流出。"
+      },
+      {
+        "en": "A missing sensor caused the defect escape.",
+        "zh": "传感器缺失导致缺陷流出。"
+      }
+    ]
+  },
+  "V20261025-047": {
+    "gloss": "误接收",
+    "examples": [
+      {
+        "en": "Tighten the method without increasing false acceptance.",
+        "zh": "收紧方法时不要增加误接收。"
+      },
+      {
+        "en": "False acceptance sent faulty seals to assembly.",
+        "zh": "误接收使有缺陷的密封件进入装配。"
+      }
+    ]
+  },
+  "V20261025-048": {
+    "gloss": "误拒收",
+    "examples": [
+      {
+        "en": "We investigated the spike in false rejection.",
+        "zh": "我们调查了误拒收激增的原因。"
+      },
+      {
+        "en": "Dirty lenses caused false rejection of good parts.",
+        "zh": "镜片脏污导致合格件被误拒收。"
+      }
+    ]
+  },
+  "V20261025-049": {
+    "gloss": "测量不确定度",
+    "examples": [
+      {
+        "en": "Report the uncertainty with the test result.",
+        "zh": "报告测试结果时同时报告不确定度。"
+      },
+      {
+        "en": "Temperature changes increased the measurement uncertainty.",
+        "zh": "温度变化增加了测量不确定度。"
+      }
+    ]
+  },
+  "V20261025-050": {
+    "gloss": "参考标准",
+    "examples": [
+      {
+        "en": "Compare the sensor against a traceable reference standard.",
+        "zh": "将传感器与可追溯的参考标准比较。"
+      },
+      {
+        "en": "Keep the reference standard in its case.",
+        "zh": "将参考标准保存在盒中。"
+      }
+    ]
+  },
+  "V20261025-051": {
+    "gloss": "工艺窗口",
+    "examples": [
+      {
+        "en": "Define the process window before ramp-up.",
+        "zh": "产能爬坡前确定工艺窗口。"
+      },
+      {
+        "en": "The process window allows only small temperature changes.",
+        "zh": "工艺窗口仅允许小幅温度变化。"
+      }
+    ]
+  },
+  "V20261025-052": {
+    "gloss": "参数限值",
+    "examples": [
+      {
+        "en": "Set a clear limit for curing temperature.",
+        "zh": "为固化温度设定明确限值。"
+      },
+      {
+        "en": "The parameter limit prevents overheating.",
+        "zh": "参数限值可防止过热。"
+      }
+    ]
+  },
+  "V20261025-053": {
+    "gloss": "设置验证",
+    "examples": [
+      {
+        "en": "Complete setup verification before the first piece.",
+        "zh": "生产首件前完成设置验证。"
+      },
+      {
+        "en": "Setup verification caught the wrong drill size.",
+        "zh": "设置验证发现钻头尺寸错误。"
+      }
+    ]
+  },
+  "V20261025-054": {
+    "gloss": "换型时长",
+    "examples": [
+      {
+        "en": "Measure the duration from last good piece to first good piece.",
+        "zh": "从上一合格件到下一合格件测量时长。"
+      },
+      {
+        "en": "Preloaded tools reduced the changeover duration.",
+        "zh": "预装工具缩短了换型时长。"
+      }
+    ]
+  },
+  "V20261025-055": {
+    "gloss": "产线平衡",
+    "examples": [
+      {
+        "en": "We moved one task to improve line balance.",
+        "zh": "我们调整一项任务以改善产线平衡。"
+      },
+      {
+        "en": "Line balance improved after tasks were redistributed.",
+        "zh": "重新分配任务后产线平衡得到改善。"
+      }
+    ]
+  },
+  "V20261025-056": {
+    "gloss": "瓶颈转移",
+    "examples": [
+      {
+        "en": "Monitor bottleneck drift after the product mix changes.",
+        "zh": "产品组合变化后监控瓶颈转移。"
+      },
+      {
+        "en": "Bottleneck drift moved the queue to packaging.",
+        "zh": "瓶颈转移使排队集中在包装环节。"
+      }
+    ]
+  },
+  "V20261025-057": {
+    "gloss": "一次通过损失",
+    "examples": [
+      {
+        "en": "Track the loss by station and defect type.",
+        "zh": "按工位和缺陷类型追踪这项损失。"
+      },
+      {
+        "en": "First-time-through loss rose after the material change.",
+        "zh": "材料变更后一次通过损失增加了。"
+      }
+    ]
+  },
+  "V20261025-058": {
+    "gloss": "返工路线",
+    "examples": [
+      {
+        "en": "Quality approved the rework routing before use.",
+        "zh": "质量部门批准后才使用该返工路线。"
+      },
+      {
+        "en": "The rework routing includes a second leak test.",
+        "zh": "返工路线包含第二次泄漏测试。"
+      }
+    ]
+  },
+  "V20261025-059": {
+    "gloss": "报废处置",
+    "examples": [
+      {
+        "en": "Quality must approve the scrap disposition.",
+        "zh": "报废处置必须由质量部门批准。"
+      },
+      {
+        "en": "Record the weight before scrap disposition.",
+        "zh": "报废处置前记录重量。"
+      }
+    ]
+  },
+  "V20261025-060": {
+    "gloss": "生产工装就绪度",
+    "examples": [
+      {
+        "en": "Confirm tool readiness before the pilot run.",
+        "zh": "试生产前确认工装就绪情况。"
+      },
+      {
+        "en": "Production tool readiness depends on fixture repairs.",
+        "zh": "生产工装就绪取决于夹具维修。"
+      }
+    ]
+  },
+  "V20261025-061": {
+    "gloss": "客户影响说明",
+    "examples": [
+      {
+        "en": "Prepare the impact statement before the customer call.",
+        "zh": "致电客户前准备影响说明。"
+      },
+      {
+        "en": "The customer impact statement lists delayed deliveries.",
+        "zh": "客户影响说明列出了延迟交付事项。"
+      }
+    ]
+  },
+  "V20261025-062": {
+    "gloss": "服务恢复计划",
+    "examples": [
+      {
+        "en": "We activated the service recovery plan within an hour.",
+        "zh": "我们在一小时内启动了服务恢复计划。"
+      },
+      {
+        "en": "The service recovery plan assigns a backup technician.",
+        "zh": "服务恢复计划指定了一名备用技术员。"
+      }
+    ]
+  },
+  "V20261025-063": {
+    "gloss": "恢复承诺",
+    "examples": [
+      {
+        "en": "Do not make a recovery commitment without capacity proof.",
+        "zh": "没有产能证明就不要作出恢复承诺。"
+      },
+      {
+        "en": "Our recovery commitment covers all urgent orders.",
+        "zh": "我们的恢复承诺涵盖所有紧急订单。"
+      }
+    ]
+  },
+  "V20261025-064": {
+    "gloss": "投诉分级处理",
+    "examples": [
+      {
+        "en": "Complete triage before assigning investigators.",
+        "zh": "分派调查人员前完成初步分流。"
+      },
+      {
+        "en": "Complaint triage put safety issues first.",
+        "zh": "投诉分级处理将安全问题列为首要事项。"
+      }
+    ]
+  },
+  "V20261025-065": {
+    "gloss": "严重程度分级",
+    "examples": [
+      {
+        "en": "Confirm the classification with the quality lead.",
+        "zh": "与质量负责人确认分级。"
+      },
+      {
+        "en": "Severity classification determines the response time.",
+        "zh": "严重程度分级决定响应时间。"
+      }
+    ]
+  },
+  "V20261025-066": {
+    "gloss": "答复期限",
+    "examples": [
+      {
+        "en": "We met the response deadline with an interim update.",
+        "zh": "我们通过阶段性更新按时作出了答复。"
+      },
+      {
+        "en": "The response deadline is noon tomorrow.",
+        "zh": "答复期限是明天中午。"
+      }
+    ]
+  },
+  "V20261025-067": {
+    "gloss": "预期重设",
+    "examples": [
+      {
+        "en": "We need an expectation reset before the next shipment.",
+        "zh": "下次发货前我们需要重新调整预期。"
+      },
+      {
+        "en": "An expectation reset prevented another unrealistic promise.",
+        "zh": "预期重设避免了再次作出不切实际的承诺。"
+      }
+    ]
+  },
+  "V20261025-068": {
+    "gloss": "临时变通措施",
+    "examples": [
+      {
+        "en": "Deploy the workaround only after a safety check.",
+        "zh": "安全检查后才能实施变通措施。"
+      },
+      {
+        "en": "The interim workaround uses a manual checklist.",
+        "zh": "临时变通措施采用人工检查清单。"
+      }
+    ]
+  },
+  "V20261025-069": {
+    "gloss": "客户验收",
+    "examples": [
+      {
+        "en": "Obtain customer acceptance before closing the project.",
+        "zh": "关闭项目前取得客户验收。"
+      },
+      {
+        "en": "Customer acceptance requires a signed test report.",
+        "zh": "客户验收需要签署测试报告。"
+      }
+    ]
+  },
+  "V20261025-070": {
+    "gloss": "关闭确认",
+    "examples": [
+      {
+        "en": "Request closure confirmation in writing.",
+        "zh": "要求提供书面关闭确认。"
+      },
+      {
+        "en": "The supplier sent closure confirmation yesterday.",
+        "zh": "供应商昨天发来了关闭确认。"
+      }
+    ]
+  },
+  "V20261025-071": {
+    "gloss": "证据等级体系",
+    "examples": [
+      {
+        "en": "Apply the same evidence hierarchy to every claim.",
+        "zh": "对每项主张采用相同的证据等级体系。"
+      },
+      {
+        "en": "The evidence hierarchy ranks direct measurements highest.",
+        "zh": "证据等级体系将直接测量列为最高等级。"
+      }
+    ]
+  },
+  "V20261025-072": {
+    "gloss": "来源可靠性",
+    "examples": [
+      {
+        "en": "Assess source reliability before using the estimate.",
+        "zh": "采用估算前评估来源可靠性。"
+      },
+      {
+        "en": "Check source reliability against the raw records.",
+        "zh": "对照原始记录检查来源可靠性。"
+      }
+    ]
+  },
+  "V20261025-073": {
+    "gloss": "源数据转换链",
+    "examples": [
+      {
+        "en": "Preserve the trail for every reported metric.",
+        "zh": "为每项报告指标保留转换链。"
+      },
+      {
+        "en": "The source transformation trail explains removed duplicates.",
+        "zh": "源数据转换链说明了删除重复项的过程。"
+      }
+    ]
+  },
+  "V20261025-074": {
+    "gloss": "分析假设",
+    "examples": [
+      {
+        "en": "Challenge the assumption before approving the model.",
+        "zh": "批准模型前质疑其假设。"
+      },
+      {
+        "en": "Constant demand is our main analytical assumption.",
+        "zh": "需求不变是我们的主要分析假设。"
+      }
+    ]
+  },
+  "V20261025-075": {
+    "gloss": "敏感性区间",
+    "examples": [
+      {
+        "en": "Define the range using observed variation.",
+        "zh": "用观察到的变化确定区间。"
+      },
+      {
+        "en": "The sensitivity range covers a ten-percent price increase.",
+        "zh": "敏感性区间涵盖百分之十的涨价。"
+      }
+    ]
+  },
+  "V20261025-076": {
+    "gloss": "情景边界",
+    "examples": [
+      {
+        "en": "Test the plan across the full scenario envelope.",
+        "zh": "在完整情景边界内测试计划。"
+      },
+      {
+        "en": "The scenario envelope includes a delayed launch.",
+        "zh": "情景边界包含延迟上市的情况。"
+      }
+    ]
+  },
+  "V20261025-077": {
+    "gloss": "建议确定程度",
+    "examples": [
+      {
+        "en": "Calibrate the recommendation strength to the evidence.",
+        "zh": "根据证据调整建议的确定程度。"
+      },
+      {
+        "en": "Limited trials reduced our recommendation strength.",
+        "zh": "试验有限使我们降低了建议的确定程度。"
+      }
+    ]
+  },
+  "V20261025-078": {
+    "gloss": "置信限定语",
+    "examples": [
+      {
+        "en": "Add a qualifier to the early estimate.",
+        "zh": "为早期估算加上限定语。"
+      },
+      {
+        "en": "Use a confidence qualifier for unverified figures.",
+        "zh": "对未经核实的数字使用置信限定语。"
+      }
+    ]
+  },
+  "V20261025-079": {
+    "gloss": "决策影响",
+    "examples": [
+      {
+        "en": "State the implication, not just the data trend.",
+        "zh": "说明对决策的意义，而不只是数据趋势。"
+      },
+      {
+        "en": "The report explains the decision implication of rising costs.",
+        "zh": "报告解释了成本上涨对决策的影响。"
+      }
+    ]
+  },
+  "V20261025-080": {
+    "gloss": "佐证缺口",
+    "examples": [
+      {
+        "en": "An external test will close the corroboration gap.",
+        "zh": "外部测试将填补佐证缺口。"
+      },
+      {
+        "en": "A second interview closed the corroboration gap.",
+        "zh": "第二次访谈填补了佐证缺口。"
+      }
+    ]
+  },
+  "V20261025-081": {
+    "gloss": "商业论证更新",
+    "examples": [
+      {
+        "en": "Complete the refresh before releasing more funding.",
+        "zh": "拨付更多资金前完成更新。"
+      },
+      {
+        "en": "The business case refresh includes higher rent.",
+        "zh": "商业论证更新纳入了租金上涨因素。"
+      }
+    ]
+  },
+  "V20261025-082": {
+    "gloss": "收益发起人",
+    "examples": [
+      {
+        "en": "Appoint a sponsor for each strategic benefit.",
+        "zh": "为每项战略收益指定发起人。"
+      },
+      {
+        "en": "The benefit sponsor secured training resources.",
+        "zh": "收益发起人争取到了培训资源。"
+      }
+    ]
+  },
+  "V20261025-083": {
+    "gloss": "价值基线",
+    "examples": [
+      {
+        "en": "Finance approved the value baseline.",
+        "zh": "财务部门批准了价值基线。"
+      },
+      {
+        "en": "Measure savings against the value baseline.",
+        "zh": "对照价值基线衡量节省额。"
+      }
+    ]
+  },
+  "V20261025-084": {
+    "gloss": "价值实现日期",
+    "examples": [
+      {
+        "en": "Set a realistic realization date for each benefit.",
+        "zh": "为每项收益设定现实的实现日期。"
+      },
+      {
+        "en": "The value realization date follows operator training.",
+        "zh": "价值实现日期安排在操作员培训之后。"
+      }
+    ]
+  },
+  "V20261025-085": {
+    "gloss": "成本预防",
+    "examples": [
+      {
+        "en": "Separate cost prevention from booked savings.",
+        "zh": "区分成本预防与已入账的节省额。"
+      },
+      {
+        "en": "Preventive maintenance supports cost prevention.",
+        "zh": "预防性维护有助于成本预防。"
+      }
+    ]
+  },
+  "V20261025-086": {
+    "gloss": "现金转换周期",
+    "examples": [
+      {
+        "en": "Lower inventory can shorten the cash conversion cycle.",
+        "zh": "降低库存可以缩短现金转换周期。"
+      },
+      {
+        "en": "Faster collections shortened our cash conversion cycle.",
+        "zh": "加快收款缩短了我们的现金转换周期。"
+      }
+    ]
+  },
+  "V20261025-087": {
+    "gloss": "投资回收观察期",
+    "examples": [
+      {
+        "en": "The long-life asset needs a longer payback horizon.",
+        "zh": "长寿命资产需要更长的回收观察期。"
+      },
+      {
+        "en": "Use a five-year payback horizon for this proposal.",
+        "zh": "这项提案采用五年的投资回收观察期。"
+      }
+    ]
+  },
+  "V20261025-088": {
+    "gloss": "资金释放",
+    "examples": [
+      {
+        "en": "The sponsor authorized the funding release.",
+        "zh": "发起人批准了资金释放。"
+      },
+      {
+        "en": "Funding release depends on the pilot results.",
+        "zh": "资金释放取决于试点结果。"
+      }
+    ]
+  },
+  "V20261025-089": {
+    "gloss": "预算差异动因",
+    "examples": [
+      {
+        "en": "Explain each material variance driver in the report.",
+        "zh": "在报告中解释每项重大差异动因。"
+      },
+      {
+        "en": "Higher freight was the main budget variance driver.",
+        "zh": "运费上涨是主要预算差异动因。"
+      }
+    ]
+  },
+  "V20261025-090": {
+    "gloss": "财务敏感性",
+    "examples": [
+      {
+        "en": "Test the sensitivity to energy prices.",
+        "zh": "测试对能源价格的敏感性。"
+      },
+      {
+        "en": "Financial sensitivity is greatest at low sales volumes.",
+        "zh": "销量较低时财务敏感性最高。"
+      }
+    ]
+  },
+  "V20261025-091": {
+    "gloss": "角色边界",
+    "examples": [
+      {
+        "en": "Clarify the boundary before assigning the task.",
+        "zh": "分派任务前明确边界。"
+      },
+      {
+        "en": "The role boundary excludes contract approval.",
+        "zh": "该角色边界不包含合同批准。"
+      }
+    ]
+  },
+  "V20261025-092": {
+    "gloss": "授权限额",
+    "examples": [
+      {
+        "en": "Do not sign beyond your delegation limit.",
+        "zh": "签署时不得超出授权限额。"
+      },
+      {
+        "en": "This purchase exceeds my delegation limit.",
+        "zh": "这笔采购超出我的授权限额。"
+      }
+    ]
+  },
+  "V20261025-093": {
+    "gloss": "监督负荷",
+    "examples": [
+      {
+        "en": "Rebalance the supervisory load after the merger.",
+        "zh": "合并后重新平衡监督负荷。"
+      },
+      {
+        "en": "Two new trainees increased the supervisory load.",
+        "zh": "两名新学员增加了监督负荷。"
+      }
+    ]
+  },
+  "V20261025-094": {
+    "gloss": "运营节奏",
+    "examples": [
+      {
+        "en": "Establish a weekly operating cadence for the program.",
+        "zh": "为项目群建立每周运营节奏。"
+      },
+      {
+        "en": "The operating cadence includes a Monday risk review.",
+        "zh": "运营节奏包含周一风险审查。"
+      }
+    ]
+  },
+  "V20261025-095": {
+    "gloss": "升级处理规程",
+    "examples": [
+      {
+        "en": "Follow the protocol for any safety risk.",
+        "zh": "任何安全风险都应按规程处理。"
+      },
+      {
+        "en": "The escalation protocol names the duty manager.",
+        "zh": "升级处理规程指定了值班经理。"
+      }
+    ]
+  },
+  "V20261025-096": {
+    "gloss": "例外记录表",
+    "examples": [
+      {
+        "en": "Maintain an exception log for temporary deviations.",
+        "zh": "为临时偏离维护例外记录表。"
+      },
+      {
+        "en": "The exception log shows two expired waivers.",
+        "zh": "例外记录表显示两项豁免已到期。"
+      }
+    ]
+  },
+  "V20261025-097": {
+    "gloss": "政策解释",
+    "examples": [
+      {
+        "en": "Request a formal interpretation before proceeding.",
+        "zh": "继续前先取得正式解释。"
+      },
+      {
+        "en": "Policy interpretation rests with the compliance team.",
+        "zh": "政策解释由合规团队负责。"
+      }
+    ]
+  },
+  "V20261025-098": {
+    "gloss": "程序遵守程度",
+    "examples": [
+      {
+        "en": "The audit sampled procedure adherence on every shift.",
+        "zh": "审核抽查了各班次的程序遵守情况。"
+      },
+      {
+        "en": "Procedure adherence improved after practical training.",
+        "zh": "实操培训提高了程序遵守程度。"
+      }
+    ]
+  },
+  "V20261025-099": {
+    "gloss": "管理评审",
+    "examples": [
+      {
+        "en": "Conduct the review before setting next year's objectives.",
+        "zh": "设定明年目标前进行评审。"
+      },
+      {
+        "en": "Management review identified a maintenance funding gap.",
+        "zh": "管理评审发现维护资金不足。"
+      }
+    ]
+  },
+  "V20261025-100": {
+    "gloss": "责任移交",
+    "examples": [
+      {
+        "en": "Document the handoff at every phase transition.",
+        "zh": "每次阶段转换时都记录责任移交。"
+      },
+      {
+        "en": "The accountability handoff needs both managers' signatures.",
+        "zh": "责任移交需要双方经理签字。"
+      }
+    ]
+  },
+  "V20261025-101": {
+    "gloss": "资本支出",
+    "examples": [
+      {
+        "en": "The proposal requires large capital expenditure.",
+        "zh": "该提案需要大量资本支出。"
+      },
+      {
+        "en": "The new furnace counts as capital expenditure.",
+        "zh": "新熔炉属于资本支出。"
+      }
+    ]
+  },
+  "V20261025-102": {
+    "gloss": "资本密集的",
+    "examples": [
+      {
+        "en": "The new process is highly capital-intensive.",
+        "zh": "新工艺高度资本密集。"
+      },
+      {
+        "en": "A capital-intensive plant needs careful cash planning.",
+        "zh": "资本密集型工厂需要仔细规划现金。"
+      }
+    ]
+  },
+  "V20261025-103": {
+    "gloss": "投入巨额资本",
+    "examples": [
+      {
+        "en": "The sector can deploy vast amounts of capital quickly.",
+        "zh": "该行业能迅速投入巨额资本。"
+      },
+      {
+        "en": "Few small firms can deploy vast amounts of capital.",
+        "zh": "很少有小企业能投入巨额资本。"
+      }
+    ]
+  },
+  "V20261025-104": {
+    "gloss": "把投资转离",
+    "examples": [
+      {
+        "en": "The boom may divert investment away from housing.",
+        "zh": "这股热潮可能使投资离开住房领域。"
+      },
+      {
+        "en": "Higher returns could divert investment away from farming.",
+        "zh": "更高回报可能使投资离开农业。"
+      }
+    ]
+  },
+  "V20261025-105": {
+    "gloss": "总体劳动需求",
+    "examples": [
+      {
+        "en": "Automation may reduce overall demand for labor.",
+        "zh": "自动化可能减少总体劳动需求。"
+      },
+      {
+        "en": "Our forecast assumes stable overall demand for labor.",
+        "zh": "我们的预测假设总体劳动需求稳定。"
+      }
+    ]
+  },
+  "V20261025-106": {
+    "gloss": "与原本会达到的水平相比",
+    "examples": [
+      {
+        "en": "Output was lower relative to what it would have been.",
+        "zh": "产出低于若未发生该变化时本来会达到的水平。"
+      },
+      {
+        "en": "Sales improved relative to what they would have been.",
+        "zh": "销量比原本会有的水平有所改善。"
+      }
+    ]
+  },
+  "V20261025-107": {
+    "gloss": "压低劳动需求",
+    "examples": [
+      {
+        "en": "The shift could depress the demand for labor.",
+        "zh": "这种转变可能压低劳动需求。"
+      },
+      {
+        "en": "A hiring freeze could depress the demand for labor.",
+        "zh": "招聘冻结可能压低劳动需求。"
+      }
+    ]
+  },
+  "V20261025-108": {
+    "gloss": "可能",
+    "examples": [
+      {
+        "en": "The shift could conceivably lead to lower wages.",
+        "zh": "这种转变可能会导致工资降低。"
+      },
+      {
+        "en": "The delay could conceivably last another week.",
+        "zh": "延误可能还会持续一周。"
+      }
+    ]
+  },
+  "V20261025-109": {
+    "gloss": "使工作岗位消失",
+    "examples": [
+      {
+        "en": "The author doubts that AI will wipe out jobs on a massive scale.",
+        "zh": "作者不认为人工智能会大规模消灭工作岗位。"
+      },
+      {
+        "en": "The closure could wipe out jobs locally.",
+        "zh": "关闭工厂可能使当地工作岗位消失。"
+      }
+    ]
+  },
+  "V20261025-110": {
+    "gloss": "大规模失业",
+    "examples": [
+      {
+        "en": "The shift is unlikely to lead to mass unemployment.",
+        "zh": "这种转变不太可能导致大规模失业。"
+      },
+      {
+        "en": "The town fears mass unemployment after the closure.",
+        "zh": "工厂关闭后小镇担心出现大规模失业。"
+      }
+    ]
+  },
+  "V20261025-111": {
+    "gloss": "工资增长放缓",
+    "examples": [
+      {
+        "en": "Weaker demand can cause slower wage growth.",
+        "zh": "需求减弱可能导致工资增长放缓。"
+      },
+      {
+        "en": "Slower wage growth has tightened our household budget.",
+        "zh": "工资增长放缓使我们的家庭预算吃紧。"
+      }
+    ]
+  },
+  "V20261025-112": {
+    "gloss": "实际工资下降",
+    "examples": [
+      {
+        "en": "Workers may face falling real wages.",
+        "zh": "劳动者可能面临实际工资下降。"
+      },
+      {
+        "en": "Falling real wages reduced her purchasing power.",
+        "zh": "实际工资下降削弱了她的购买力。"
+      }
+    ]
+  },
+  "V20261025-113": {
+    "gloss": "回报财富而非劳动",
+    "examples": [
+      {
+        "en": "The author says the system increasingly rewards wealth rather than work.",
+        "zh": "作者说该体系日益回报财富而非劳动。"
+      },
+      {
+        "en": "These tax rules may reward wealth rather than work.",
+        "zh": "这些税收规则可能回报财富而非劳动。"
+      }
+    ]
+  },
+  "V20261025-114": {
+    "gloss": "国民收入份额",
+    "examples": [
+      {
+        "en": "The chart tracks labor's share of national income.",
+        "zh": "图表追踪劳动所得占国民收入的份额。"
+      },
+      {
+        "en": "What share of national income goes to wages?",
+        "zh": "国民收入中有多大份额用于工资？"
+      }
+    ]
+  },
+  "V20261025-115": {
+    "gloss": "呈下降趋势",
+    "examples": [
+      {
+        "en": "The ratio is on track to decline further.",
+        "zh": "该比率呈进一步下降趋势。"
+      },
+      {
+        "en": "The error rate is on track to decline.",
+        "zh": "错误率呈下降趋势。"
+      }
+    ]
+  },
+  "V20261025-116": {
+    "gloss": "利益竞争阶层",
+    "examples": [
+      {
+        "en": "The essay questions a simple model of competing classes.",
+        "zh": "文章质疑利益竞争阶层的简单模型。"
+      },
+      {
+        "en": "The debate framed tenants and landlords as competing classes.",
+        "zh": "辩论将租户与房东描述为利益竞争阶层。"
+      }
+    ]
+  },
+  "V20261025-117": {
+    "gloss": "削弱某方的相对优势",
+    "examples": [
+      {
+        "en": "The policy may shift the balance away from labor.",
+        "zh": "该政策可能削弱劳方的相对优势。"
+      },
+      {
+        "en": "The merger could shift the balance away from suppliers.",
+        "zh": "合并可能削弱供应商的相对优势。"
+      }
+    ]
+  },
+  "V20261025-118": {
+    "gloss": "收入再分配",
+    "examples": [
+      {
+        "en": "The author describes a redistribution of income toward capital.",
+        "zh": "作者描述了收入向资本转移的再分配。"
+      },
+      {
+        "en": "The proposal changes the redistribution of income.",
+        "zh": "这项提案改变了收入再分配方式。"
+      }
+    ]
+  },
+  "V20261025-119": {
+    "gloss": "经济不平等",
+    "examples": [
+      {
+        "en": "The shift could increase economic inequality.",
+        "zh": "这种转变可能加剧经济不平等。"
+      },
+      {
+        "en": "The survey measures economic inequality between regions.",
+        "zh": "该调查衡量地区间的经济不平等。"
+      }
+    ]
+  },
+  "V20261025-120": {
+    "gloss": "社会动荡",
+    "examples": [
+      {
+        "en": "Severe inequality can fuel social unrest.",
+        "zh": "严重不平等可能激起社会动荡。"
+      },
+      {
+        "en": "The novel depicts a period of social unrest.",
+        "zh": "小说描绘了一段社会动荡时期。"
+      }
+    ]
+  },
+  "V20261025-121": {
+    "gloss": "两阶层模型",
+    "examples": [
+      {
+        "en": "A two-class model can hide important differences.",
+        "zh": "两阶层模型可能掩盖重要差异。"
+      },
+      {
+        "en": "Her paper tests a two-class model.",
+        "zh": "她的论文检验了一个两阶层模型。"
+      }
+    ]
+  },
+  "V20261025-122": {
+    "gloss": "同质阶层",
+    "examples": [
+      {
+        "en": "Do not treat workers as a homogeneous class.",
+        "zh": "不要把劳动者视为同质阶层。"
+      },
+      {
+        "en": "Retirees do not form a homogeneous class.",
+        "zh": "退休者并非同质阶层。"
+      }
+    ]
+  },
+  "V20261025-123": {
+    "gloss": "资本所有者",
+    "examples": [
+      {
+        "en": "The essay highlights differences among owners of capital.",
+        "zh": "文章强调了资本所有者之间的差异。"
+      },
+      {
+        "en": "Owners of capital may face different investment risks.",
+        "zh": "资本所有者可能面临不同投资风险。"
+      }
+    ]
+  },
+  "V20261025-124": {
+    "gloss": "财富与政治支配地位",
+    "examples": [
+      {
+        "en": "The author warns about growing financial and political dominance.",
+        "zh": "作者警告金融与政治支配力不断增强。"
+      },
+      {
+        "en": "The study examines financial and political dominance.",
+        "zh": "这项研究考察金融与政治支配力。"
+      }
+    ]
+  },
+  "V20261025-125": {
+    "gloss": "恶性下行循环",
+    "examples": [
+      {
+        "en": "Weak trust can accelerate a downward spiral.",
+        "zh": "信任薄弱会加速恶性下行循环。"
+      },
+      {
+        "en": "Falling sales triggered a downward spiral.",
+        "zh": "销量下降引发了恶性下行循环。"
+      }
+    ]
+  }
+}

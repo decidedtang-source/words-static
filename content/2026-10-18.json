@@ -1,0 +1,1627 @@
+{
+  "V20261018-001": {
+    "examples": [
+      {
+        "zh": "委员会在拨款前评估了提案的战略契合度。",
+        "en": "The committee assessed the proposal's strategic fit before funding it."
+      },
+      {
+        "zh": "这项收购与我们的服务业务战略契合度不高。",
+        "en": "The acquisition has little strategic fit with our service business."
+      }
+    ],
+    "gloss": "战略契合度"
+  },
+  "V20261018-002": {
+    "examples": [
+      {
+        "zh": "财务核查假设后，发起人批准了商业论证。",
+        "en": "The sponsor approved the business case after finance checked the assumptions."
+      },
+      {
+        "zh": "商业论证包含维护成本和预期节省额。",
+        "en": "The business case includes maintenance costs and expected savings."
+      }
+    ],
+    "gloss": "商业论证"
+  },
+  "V20261018-003": {
+    "examples": [
+      {
+        "zh": "我们将在上线后六个月内追踪收益实现情况。",
+        "en": "We will track benefits realization for six months after launch."
+      },
+      {
+        "zh": "收益实现取决于员工真正使用新流程。",
+        "en": "Benefits realization depends on staff actually using the new process."
+      }
+    ],
+    "gloss": "收益实现"
+  },
+  "V20261018-004": {
+    "examples": [
+      {
+        "zh": "新的维护项目改善了项目组合的平衡。",
+        "en": "The new maintenance project improves the portfolio balance."
+      },
+      {
+        "zh": "项目组合平衡需要一些回收期较短的项目。",
+        "en": "Portfolio balance requires some projects with shorter payback periods."
+      }
+    ],
+    "gloss": "项目组合平衡"
+  },
+  "V20261018-005": {
+    "examples": [
+      {
+        "zh": "发起人在详细规划前签发了项目章程。",
+        "en": "The sponsor issued a project charter before detailed planning."
+      },
+      {
+        "zh": "项目章程列明了发起人和初始预算。",
+        "en": "The project charter names the sponsor and initial budget."
+      }
+    ],
+    "gloss": "项目章程"
+  },
+  "V20261018-006": {
+    "examples": [
+      {
+        "zh": "放行试点模具前，我们举行了阶段关卡评审。",
+        "en": "We held a stage-gate review before releasing the pilot tooling."
+      },
+      {
+        "zh": "阶段关卡评审需要耐久测试的证据。",
+        "en": "The stage-gate review requires evidence from the durability test."
+      }
+    ],
+    "gloss": "阶段关卡评审"
+  },
+  "V20261018-007": {
+    "examples": [
+      {
+        "zh": "团队将在安全测试后作出继续或停止的决定。",
+        "en": "The team will make a go-no-go decision after the safety test."
+      },
+      {
+        "zh": "继续或停止的决策取决于最终泄漏测试结果。",
+        "en": "The go-no-go decision depends on the final leakage results."
+      }
+    ],
+    "gloss": "继续或停止决策"
+  },
+  "V20261018-008": {
+    "examples": [
+      {
+        "zh": "所有未结风险都必须满足阶段退出标准或有获批计划。",
+        "en": "All open risks must meet the phase exit criteria or have an approved plan."
+      },
+      {
+        "zh": "开发开始前记录阶段退出标准。",
+        "en": "Document the phase exit criteria before development begins."
+      }
+    ],
+    "gloss": "阶段退出标准"
+  },
+  "V20261018-009": {
+    "examples": [
+      {
+        "zh": "两个职能部门无法达成一致时，我们请项目发起人介入。",
+        "en": "We engaged the project sponsor when the two functions could not agree."
+      },
+      {
+        "zh": "项目发起人为额外试验争取到了资金。",
+        "en": "The project sponsor secured funding for the additional trial."
+      }
+    ],
+    "gloss": "项目发起人"
+  },
+  "V20261018-010": {
+    "examples": [
+      {
+        "zh": "该项目群附带两项条件通过了治理检查点。",
+        "en": "The program passed the governance checkpoint with two conditions."
+      },
+      {
+        "zh": "治理检查点确认了谁有权批准进一步支出。",
+        "en": "The governance checkpoint confirmed who could authorize further spending."
+      }
+    ],
+    "gloss": "治理检查点"
+  },
+  "V20261018-011": {
+    "examples": [
+      {
+        "zh": "我们启动了针对过程控制的供应商发展计划。",
+        "en": "We launched a supplier development plan for process control."
+      },
+      {
+        "zh": "供应商发展计划包含测量技术培训。",
+        "en": "The supplier development plan includes training on measurement techniques."
+      }
+    ],
+    "gloss": "供应商发展计划"
+  },
+  "V20261018-012": {
+    "examples": [
+      {
+        "zh": "采购方在分配采购量前进行了产能审核。",
+        "en": "The buyer conducted a capacity audit before awarding the volume."
+      },
+      {
+        "zh": "产能审核发现了最终检验的瓶颈。",
+        "en": "The capacity audit found a bottleneck in final inspection."
+      }
+    ],
+    "gloss": "产能审核"
+  },
+  "V20261018-013": {
+    "examples": [
+      {
+        "zh": "供应商在新生产线上完成了按节拍试生产。",
+        "en": "The supplier completed a run-at-rate on the new line."
+      },
+      {
+        "zh": "按节拍试生产暴露了补料时频繁停机的问题。",
+        "en": "The run-at-rate exposed frequent stops during material replenishment."
+      }
+    ],
+    "gloss": "按节拍试生产"
+  },
+  "V20261018-014": {
+    "examples": [
+      {
+        "zh": "出货前我们必须完成生产件批准程序。",
+        "en": "We must complete the production part approval process before shipment."
+      },
+      {
+        "zh": "生产件批准程序需要有代表性的量产样件。",
+        "en": "The production part approval process requires representative production samples."
+      }
+    ],
+    "gloss": "生产件批准程序"
+  },
+  "V20261018-015": {
+    "examples": [
+      {
+        "zh": "质量部门针对重复缺陷发出了供应商纠正措施请求。",
+        "en": "Quality issued a supplier corrective action request for the repeat defect."
+      },
+      {
+        "zh": "将缺陷照片附在供应商纠正措施请求中。",
+        "en": "Attach defect photographs to the supplier corrective action request."
+      }
+    ],
+    "gloss": "供应商纠正措施请求"
+  },
+  "V20261018-016": {
+    "examples": [
+      {
+        "zh": "我们为前三批安排了源头检验。",
+        "en": "We arranged source inspection for the first three lots."
+      },
+      {
+        "zh": "源头检验在货物离厂前发现了密封件损坏。",
+        "en": "Source inspection detected damaged seals before the goods left."
+      }
+    ],
+    "gloss": "源头检验"
+  },
+  "V20261018-017": {
+    "examples": [
+      {
+        "zh": "合同明确了工装所有权和存储义务。",
+        "en": "The contract clarifies tooling ownership and storage obligations."
+      },
+      {
+        "zh": "将模具转至另一家工厂前先解决工装所有权问题。",
+        "en": "Resolve tooling ownership before transferring molds to another factory."
+      }
+    ],
+    "gloss": "工装所有权"
+  },
+  "V20261018-018": {
+    "examples": [
+      {
+        "zh": "我们在最终设计评审前下单采购了长交期物项。",
+        "en": "We released the long-lead item before the final design review."
+      },
+      {
+        "zh": "定制电机是本次制造的长交期物项。",
+        "en": "The custom motor is a long-lead item for this build."
+      }
+    ],
+    "gloss": "长交期物项"
+  },
+  "V20261018-019": {
+    "examples": [
+      {
+        "zh": "计划员批准了列明每周数量的供应商交付恢复计划。",
+        "en": "The planner approved a supplier recovery schedule with weekly quantities."
+      },
+      {
+        "zh": "供应商交付恢复计划优先处理已逾期订单。",
+        "en": "The supplier recovery schedule prioritizes orders already past due."
+      }
+    ],
+    "gloss": "供应商交付恢复计划"
+  },
+  "V20261018-020": {
+    "examples": [
+      {
+        "zh": "采购部门按商品类别解释了采购价格差异。",
+        "en": "Procurement explained the purchase price variance by commodity."
+      },
+      {
+        "zh": "汇率造成了部分采购价格差异。",
+        "en": "Exchange rates contributed to the purchase price variance."
+      }
+    ],
+    "gloss": "采购价格差异"
+  },
+  "V20261018-021": {
+    "examples": [
+      {
+        "zh": "我们冻结了未来两周的主生产计划。",
+        "en": "We froze the master production schedule for the next two weeks."
+      },
+      {
+        "zh": "主生产计划反映了客户修订后的预测。",
+        "en": "The master production schedule reflects the revised customer forecast."
+      }
+    ],
+    "gloss": "主生产计划"
+  },
+  "V20261018-022": {
+    "examples": [
+      {
+        "zh": "系统每晚运行物料需求计划。",
+        "en": "The system runs material requirements planning every night."
+      },
+      {
+        "zh": "物料需求计划标出了铜端子短缺。",
+        "en": "Material requirements planning flagged a shortage of copper terminals."
+      }
+    ],
+    "gloss": "物料需求计划"
+  },
+  "V20261018-023": {
+    "examples": [
+      {
+        "zh": "销售在确认订单前核查了可承诺数量。",
+        "en": "Sales checked the available-to-promise quantity before confirming the order."
+      },
+      {
+        "zh": "可承诺库存低于仓库总库存。",
+        "en": "The available-to-promise stock is lower than total warehouse stock."
+      }
+    ],
+    "gloss": "可承诺的"
+  },
+  "V20261018-024": {
+    "examples": [
+      {
+        "zh": "工厂对热处理生产线采用有限产能排程。",
+        "en": "The plant uses finite capacity scheduling for the heat-treatment line."
+      },
+      {
+        "zh": "有限产能排程考虑了烘箱的维护停机。",
+        "en": "Finite capacity scheduling accounts for the oven's maintenance shutdown."
+      }
+    ],
+    "gloss": "有限产能排程"
+  },
+  "V20261018-025": {
+    "examples": [
+      {
+        "zh": "计划部门在确认物料后下达了生产工单。",
+        "en": "Planning released the production order after material confirmation."
+      },
+      {
+        "zh": "生产工单规定制造五百个蓝色外壳。",
+        "en": "The production order specifies five hundred blue housings."
+      }
+    ],
+    "gloss": "生产工单"
+  },
+  "V20261018-026": {
+    "examples": [
+      {
+        "zh": "主管在每班开始时检查派工清单。",
+        "en": "The supervisor reviews the dispatch list at the start of each shift."
+      },
+      {
+        "zh": "派工清单将逾期维修任务排在首位。",
+        "en": "The dispatch list puts the overdue repair job first."
+      }
+    ],
+    "gloss": "派工清单"
+  },
+  "V20261018-027": {
+    "examples": [
+      {
+        "zh": "排程员将紧急任务安排到一个合格的工作中心。",
+        "en": "The scheduler loaded the urgent job onto a qualified work center."
+      },
+      {
+        "zh": "这个工作中心可以进行钻孔和攻丝。",
+        "en": "This work center can handle both drilling and tapping."
+      }
+    ],
+    "gloss": "工作中心"
+  },
+  "V20261018-028": {
+    "examples": [
+      {
+        "zh": "工程部门在工艺试验后更新了工艺路线表。",
+        "en": "Engineering updated the routing sheet after the process trial."
+      },
+      {
+        "zh": "工艺路线表现在包含最终装配前的清洁。",
+        "en": "The routing sheet now includes cleaning before final assembly."
+      }
+    ],
+    "gloss": "工艺路线表"
+  },
+  "V20261018-029": {
+    "examples": [
+      {
+        "zh": "我们对照已发布图纸验证了物料清单。",
+        "en": "We validated the bill of materials against the released drawing."
+      },
+      {
+        "zh": "物料清单规定每套组件使用两个垫圈。",
+        "en": "The bill of materials lists two washers per assembly."
+      }
+    ],
+    "gloss": "物料清单"
+  },
+  "V20261018-030": {
+    "examples": [
+      {
+        "zh": "计划员发布了下周生产的缺料报告。",
+        "en": "The planner issued a shortage report for next week's builds."
+      },
+      {
+        "zh": "缺料报告按订单列出短缺零件。",
+        "en": "The shortage report identifies missing parts for each order."
+      }
+    ],
+    "gloss": "缺料报告"
+  },
+  "V20261018-031": {
+    "examples": [
+      {
+        "zh": "质量部门在风险研讨会前审查了工艺流程图。",
+        "en": "Quality reviewed the process flow diagram before the risk workshop."
+      },
+      {
+        "zh": "工艺流程图显示了零件进入清洁工序的位置。",
+        "en": "The process flow diagram shows where parts enter cleaning."
+      }
+    ],
+    "gloss": "工艺流程图"
+  },
+  "V20261018-032": {
+    "examples": [
+      {
+        "zh": "团队在试验后更新了过程失效模式与影响分析。",
+        "en": "The team updated the process failure mode and effects analysis after the trial."
+      },
+      {
+        "zh": "过程失效模式与影响分析涵盖错误装配。",
+        "en": "The process failure mode and effects analysis covers incorrect assembly."
+      }
+    ],
+    "gloss": "过程失效模式与影响分析"
+  },
+  "V20261018-033": {
+    "examples": [
+      {
+        "zh": "增加探测控制后，我们重新计算了风险优先数。",
+        "en": "We recalculated the risk priority number after adding detection controls."
+      },
+      {
+        "zh": "风险优先数帮助确定问题的评审优先顺序。",
+        "en": "The risk priority number helps prioritize issues for review."
+      }
+    ],
+    "gloss": "风险优先数"
+  },
+  "V20261018-034": {
+    "examples": [
+      {
+        "zh": "操作员对每个生产批次都遵循控制计划。",
+        "en": "Operators follow the control plan for every production lot."
+      },
+      {
+        "zh": "控制计划规定每小时检查焊接强度。",
+        "en": "The control plan specifies hourly checks of weld strength."
+      }
+    ],
+    "gloss": "控制计划"
+  },
+  "V20261018-035": {
+    "examples": [
+      {
+        "zh": "图纸将扭矩标为特殊特性。",
+        "en": "The drawing identifies torque as a special characteristic."
+      },
+      {
+        "zh": "密封直径是这张图纸上的特殊特性。",
+        "en": "Seal diameter is a special characteristic on this drawing."
+      }
+    ],
+    "gloss": "特殊特性"
+  },
+  "V20261018-036": {
+    "examples": [
+      {
+        "zh": "失控点触发了反应计划。",
+        "en": "The out-of-control point triggered the reaction plan."
+      },
+      {
+        "zh": "反应计划要求停产并隔离零件。",
+        "en": "The reaction plan requires stopping production and isolating parts."
+      }
+    ],
+    "gloss": "反应计划"
+  },
+  "V20261018-037": {
+    "examples": [
+      {
+        "zh": "厂长在夜班执行了一次分层过程审核。",
+        "en": "The plant manager performed a layered process audit on the night shift."
+      },
+      {
+        "zh": "分层过程审核检查操作员是否遵循换线指导。",
+        "en": "The layered process audit checks whether operators follow setup instructions."
+      }
+    ],
+    "gloss": "分层过程审核"
+  },
+  "V20261018-038": {
+    "examples": [
+      {
+        "zh": "工程部门用三个月的数据计算了过程绩效指数。",
+        "en": "Engineering calculated the process performance index from three months of data."
+      },
+      {
+        "zh": "材料更换后，过程绩效指数下降了。",
+        "en": "The process performance index fell after the material change."
+      }
+    ],
+    "gloss": "过程绩效指数"
+  },
+  "V20261018-039": {
+    "examples": [
+      {
+        "zh": "该研究使用认证参考件估算了量具偏倚。",
+        "en": "The study estimated gauge bias with certified reference parts."
+      },
+      {
+        "zh": "量具偏倚解释了读数为何持续高于参考值。",
+        "en": "Gauge bias explains why readings consistently exceed the reference value."
+      }
+    ],
+    "gloss": "量具偏倚"
+  },
+  "V20261018-040": {
+    "examples": [
+      {
+        "zh": "实验室在整个量程内验证了量具线性。",
+        "en": "The laboratory verified gauge linearity across the full range."
+      },
+      {
+        "zh": "量具线性研究使用了不同尺寸的参考块。",
+        "en": "The gauge linearity study used reference blocks of different sizes."
+      }
+    ],
+    "gloss": "量具线性"
+  },
+  "V20261018-041": {
+    "examples": [
+      {
+        "zh": "我们在两小时内建立了问题遏制措施。",
+        "en": "We established problem containment within two hours."
+      },
+      {
+        "zh": "问题遏制措施包括装货前检查每个纸箱。",
+        "en": "Problem containment included checking every carton before loading."
+      }
+    ],
+    "gloss": "问题遏制"
+  },
+  "V20261018-042": {
+    "examples": [
+      {
+        "zh": "团队在包装线上实施了一项临时对策。",
+        "en": "The team implemented a temporary countermeasure on the packing line."
+      },
+      {
+        "zh": "第二次人工检查充当了临时对策。",
+        "en": "A second manual check served as a temporary countermeasure."
+      }
+    ],
+    "gloss": "临时对策"
+  },
+  "V20261018-043": {
+    "examples": [
+      {
+        "zh": "质量部门在试验后批准了永久纠正措施。",
+        "en": "Quality approved the permanent corrective action after the trial."
+      },
+      {
+        "zh": "永久纠正措施是更换不可靠的定位销。",
+        "en": "The permanent corrective action replaces the unreliable locating pin."
+      }
+    ],
+    "gloss": "永久纠正措施"
+  },
+  "V20261018-044": {
+    "examples": [
+      {
+        "zh": "三十批稳定生产后，我们完成了有效性验证。",
+        "en": "We completed verification of effectiveness after thirty stable lots."
+      },
+      {
+        "zh": "有效性验证包括检查是否再次收到同类投诉。",
+        "en": "Verification of effectiveness includes checking for repeat complaints."
+      }
+    ],
+    "gloss": "有效性验证"
+  },
+  "V20261018-045": {
+    "examples": [
+      {
+        "zh": "评审加强了所有生产线的再发防止措施。",
+        "en": "The review strengthened recurrence prevention across all lines."
+      },
+      {
+        "zh": "再发防止要求更新其他厂区的培训。",
+        "en": "Recurrence prevention requires updating training at the other sites."
+      }
+    ],
+    "gloss": "再发防止"
+  },
+  "V20261018-046": {
+    "examples": [
+      {
+        "zh": "安全工程师针对断电进行了故障树分析。",
+        "en": "The safety engineer built a fault tree analysis for loss of power."
+      },
+      {
+        "zh": "故障树分析识别了两种可能同时作用的故障。",
+        "en": "Fault tree analysis identified two failures that could combine."
+      }
+    ],
+    "gloss": "故障树分析"
+  },
+  "V20261018-047": {
+    "examples": [
+      {
+        "zh": "我们用帕累托分析聚焦两类最大的缺陷。",
+        "en": "We used Pareto analysis to focus on the two largest defect families."
+      },
+      {
+        "zh": "帕累托分析显示划伤占不合格面板的大多数。",
+        "en": "Pareto analysis showed scratches accounted for most rejected panels."
+      }
+    ],
+    "gloss": "帕累托分析"
+  },
+  "V20261018-048": {
+    "examples": [
+      {
+        "zh": "团队在验证原因前绘制了因果图。",
+        "en": "The team drew a cause-and-effect diagram before testing causes."
+      },
+      {
+        "zh": "因果图按过程类别归纳了可能原因。",
+        "en": "The cause-and-effect diagram grouped possible causes by process category."
+      }
+    ],
+    "gloss": "因果图"
+  },
+  "V20261018-049": {
+    "examples": [
+      {
+        "zh": "我们通过是与非分析锁定了受影响的配置。",
+        "en": "We performed an is-is not analysis to isolate the affected configuration."
+      },
+      {
+        "zh": "是与非分析比较了受影响与未受影响的班次。",
+        "en": "The is-is not analysis compared affected and unaffected shifts."
+      }
+    ],
+    "gloss": "是与非分析"
+  },
+  "V20261018-050": {
+    "examples": [
+      {
+        "zh": "报告同时确定了发生原因和缺陷流出根因。",
+        "en": "The report identifies both the occurrence cause and the escape root cause."
+      },
+      {
+        "zh": "缺陷流出根因是检验方法灵敏度不足。",
+        "en": "The escape root cause was an inspection method lacking sensitivity."
+      }
+    ],
+    "gloss": "缺陷流出根因"
+  },
+  "V20261018-051": {
+    "examples": [
+      {
+        "zh": "服务部门在一小时内登记了客户投诉。",
+        "en": "Service logged the customer complaint within one hour."
+      },
+      {
+        "zh": "客户投诉描述了正常运行期间的噪声。",
+        "en": "The customer complaint describes noise during normal operation."
+      }
+    ],
+    "gloss": "客户投诉"
+  },
+  "V20261018-052": {
+    "examples": [
+      {
+        "zh": "团队对照序列号历史记录审查了保修索赔。",
+        "en": "The team reviewed the warranty claim against the serial history."
+      },
+      {
+        "zh": "提交保修索赔时附上购买收据。",
+        "en": "Submit the purchase receipt with your warranty claim."
+      }
+    ],
+    "gloss": "保修索赔"
+  },
+  "V20261018-053": {
+    "examples": [
+      {
+        "zh": "我们为故障设备签发了退料授权。",
+        "en": "We issued a return material authorization for the failed unit."
+      },
+      {
+        "zh": "退料授权包含预付运费的运输标签。",
+        "en": "The return material authorization includes a prepaid shipping label."
+      }
+    ],
+    "gloss": "退料授权"
+  },
+  "V20261018-054": {
+    "examples": [
+      {
+        "zh": "工程部门利用退回样品调查了现场失效。",
+        "en": "Engineering investigated the field failure using the returned sample."
+      },
+      {
+        "zh": "这次现场失效发生在使用数周后。",
+        "en": "The field failure occurred after several weeks of use."
+      }
+    ],
+    "gloss": "现场失效"
+  },
+  "V20261018-055": {
+    "examples": [
+      {
+        "zh": "公司发布了关于连接器检查的服务通告。",
+        "en": "The company released a service bulletin for the connector inspection."
+      },
+      {
+        "zh": "服务通告说明了如何更换密封件。",
+        "en": "The service bulletin explains how to replace the seal."
+      }
+    ],
+    "gloss": "服务通告"
+  },
+  "V20261018-056": {
+    "examples": [
+      {
+        "zh": "供应商提交了一份附有证据的纠正措施报告。",
+        "en": "The supplier submitted a corrective action report with evidence."
+      },
+      {
+        "zh": "纠正措施报告包含改进前后的检验结果。",
+        "en": "The corrective action report includes before-and-after inspection results."
+      }
+    ],
+    "gloss": "纠正措施报告"
+  },
+  "V20261018-057": {
+    "examples": [
+      {
+        "zh": "我们在返工批次出货前取得了客户让步许可。",
+        "en": "We obtained a customer concession before shipping the reworked lot."
+      },
+      {
+        "zh": "客户让步许可仅涵盖列明的序列号。",
+        "en": "The customer concession covers only the listed serial numbers."
+      }
+    ],
+    "gloss": "客户让步许可"
+  },
+  "V20261018-058": {
+    "examples": [
+      {
+        "zh": "恢复计划改善了第二季度的交付绩效。",
+        "en": "The recovery plan improved delivery performance in the second quarter."
+      },
+      {
+        "zh": "承运人减少收货频率后，交付绩效恶化了。",
+        "en": "Delivery performance deteriorated when the carrier reduced collection frequency."
+      }
+    ],
+    "gloss": "交付绩效"
+  },
+  "V20261018-059": {
+    "examples": [
+      {
+        "zh": "仪表板按客户衡量准时足量交付情况。",
+        "en": "The dashboard measures on-time-in-full delivery by customer."
+      },
+      {
+        "zh": "我们在每周物流会议上审查准时足量交付结果。",
+        "en": "We review on-time-in-full results at the weekly logistics meeting."
+      }
+    ],
+    "gloss": "准时足量的"
+  },
+  "V20261018-060": {
+    "examples": [
+      {
+        "zh": "供应商发来了载有确认日期的订单确认书。",
+        "en": "The supplier sent an order acknowledgment with the confirmed date."
+      },
+      {
+        "zh": "订单确认书上的价格与我们的要求不同。",
+        "en": "The order acknowledgment shows a different price from our request."
+      }
+    ],
+    "gloss": "订单确认书"
+  },
+  "V20261018-061": {
+    "examples": [
+      {
+        "zh": "工厂增加了周末班次以清理欠交订单。",
+        "en": "The plant added a weekend shift to clear the backorder."
+      },
+      {
+        "zh": "欠交订单包含三箱替换滤芯。",
+        "en": "The backorder includes three cartons of replacement filters."
+      }
+    ],
+    "gloss": "欠交订单"
+  },
+  "V20261018-062": {
+    "examples": [
+      {
+        "zh": "客户接受了分批交付以保障安装。",
+        "en": "The customer accepted a split delivery to protect installation."
+      },
+      {
+        "zh": "分批交付让安装人员可以先用已有零件开工。",
+        "en": "A split delivery lets the installer start with available parts."
+      }
+    ],
+    "gloss": "分批交付"
+  },
+  "V20261018-063": {
+    "examples": [
+      {
+        "zh": "承运人预约了周二上午到货。",
+        "en": "The carrier booked a delivery appointment for Tuesday morning."
+      },
+      {
+        "zh": "仓库拒绝了未预约到货的卡车。",
+        "en": "The warehouse rejected trucks without a delivery appointment."
+      }
+    ],
+    "gloss": "到货预约"
+  },
+  "V20261018-064": {
+    "examples": [
+      {
+        "zh": "报关代理在提货前提交了出口申报单。",
+        "en": "The broker filed the export declaration before pickup."
+      },
+      {
+        "zh": "出口申报单必须与商业发票一致。",
+        "en": "The export declaration must match the commercial invoice."
+      }
+    ],
+    "gloss": "出口申报单"
+  },
+  "V20261018-065": {
+    "examples": [
+      {
+        "zh": "我们指定了一家熟悉医疗器械的报关代理。",
+        "en": "We appointed a customs broker familiar with medical devices."
+      },
+      {
+        "zh": "报关代理要求提供更清晰的产品描述。",
+        "en": "The customs broker requested a clearer product description."
+      }
+    ],
+    "gloss": "报关代理"
+  },
+  "V20261018-066": {
+    "examples": [
+      {
+        "zh": "快速放行单据帮助我们避免了滞箱费。",
+        "en": "Fast document release helped us avoid a demurrage charge."
+      },
+      {
+        "zh": "集装箱滞留港口期间，滞箱费不断增加。",
+        "en": "The demurrage charge increased while the container remained at port."
+      }
+    ],
+    "gloss": "滞箱费"
+  },
+  "V20261018-067": {
+    "examples": [
+      {
+        "zh": "物流部门用闸口记录对超期用箱费提出异议。",
+        "en": "Logistics disputed the detention charge with gate records."
+      },
+      {
+        "zh": "空箱归还过迟产生了超期用箱费。",
+        "en": "Returning the empty container late caused a detention charge."
+      }
+    ],
+    "gloss": "超期用箱费"
+  },
+  "V20261018-068": {
+    "examples": [
+      {
+        "zh": "仓库附上损坏照片提交了货运索赔。",
+        "en": "The warehouse filed a freight claim with photos of the damage."
+      },
+      {
+        "zh": "货运索赔解决前保留包装。",
+        "en": "Keep the packaging until the freight claim is resolved."
+      }
+    ],
+    "gloss": "货运索赔"
+  },
+  "V20261018-069": {
+    "examples": [
+      {
+        "zh": "我们为原型设备购买了货物运输保险。",
+        "en": "We purchased cargo insurance for the prototype equipment."
+      },
+      {
+        "zh": "检查货物运输保险是否涵盖卸货时的损坏。",
+        "en": "Check whether cargo insurance covers damage during unloading."
+      }
+    ],
+    "gloss": "货物运输保险"
+  },
+  "V20261018-070": {
+    "examples": [
+      {
+        "zh": "货件在清关后未按时到达一个运输追踪节点。",
+        "en": "The shipment missed a tracking milestone after customs release."
+      },
+      {
+        "zh": "到达中转枢纽是我们的下一个运输追踪节点。",
+        "en": "Arrival at the transfer hub is our next tracking milestone."
+      }
+    ],
+    "gloss": "运输追踪节点"
+  },
+  "V20261018-071": {
+    "examples": [
+      {
+        "zh": "人力资源部门在推广前进行了培训需求分析。",
+        "en": "HR conducted a training needs analysis before the rollout."
+      },
+      {
+        "zh": "培训需求分析突出了故障诊断方面的差距。",
+        "en": "The training needs analysis highlighted gaps in fault diagnosis."
+      }
+    ],
+    "gloss": "培训需求分析"
+  },
+  "V20261018-072": {
+    "examples": [
+      {
+        "zh": "主管为关键操作维护一份能力矩阵。",
+        "en": "The supervisor maintains a competency matrix for critical operations."
+      },
+      {
+        "zh": "能力矩阵显示了谁可以批准最终检验。",
+        "en": "The competency matrix shows who can approve final inspections."
+      }
+    ],
+    "gloss": "能力矩阵"
+  },
+  "V20261018-073": {
+    "examples": [
+      {
+        "zh": "辅导计划弥补了换线核查方面的技能差距。",
+        "en": "The coaching plan closed the skill gap in setup verification."
+      },
+      {
+        "zh": "用真实样品练习帮助她弥补了技能差距。",
+        "en": "Practice on real samples helped close her skill gap."
+      }
+    ],
+    "gloss": "技能差距"
+  },
+  "V20261018-074": {
+    "examples": [
+      {
+        "zh": "爬坡计划考虑了新操作员的学习曲线。",
+        "en": "The ramp plan accounts for the learning curve of new operators."
+      },
+      {
+        "zh": "学习曲线显示，随着反复练习，装配时间逐渐缩短。",
+        "en": "The learning curve shows assembly times falling with repeated practice."
+      }
+    ],
+    "gloss": "学习曲线"
+  },
+  "V20261018-075": {
+    "examples": [
+      {
+        "zh": "各厂区为新流程指定了一位变革推动者。",
+        "en": "Each site appointed a change champion for the new workflow."
+      },
+      {
+        "zh": "我们的变革推动者在班会上演示新表单。",
+        "en": "Our change champion demonstrates the new form during shift meetings."
+      }
+    ],
+    "gloss": "变革推动者"
+  },
+  "V20261018-076": {
+    "examples": [
+      {
+        "zh": "简化登录消除了一大采用障碍。",
+        "en": "Simpler login removed a major adoption barrier."
+      },
+      {
+        "zh": "不可靠的无线网络仍是车间采用新系统的障碍。",
+        "en": "Unreliable wireless access remains an adoption barrier on the floor."
+      }
+    ],
+    "gloss": "采用障碍"
+  },
+  "V20261018-077": {
+    "examples": [
+      {
+        "zh": "系统切换前，我们评估了用户准备度。",
+        "en": "We assessed user readiness before the system cutover."
+      },
+      {
+        "zh": "用户准备度包括能使用正常工作的手持扫描器。",
+        "en": "User readiness includes access to a working handheld scanner."
+      }
+    ],
+    "gloss": "用户准备度"
+  },
+  "V20261018-078": {
+    "examples": [
+      {
+        "zh": "团队利用一个周末执行了过渡计划。",
+        "en": "The team executed the transition plan over one weekend."
+      },
+      {
+        "zh": "过渡计划保留旧系统以应对紧急情况。",
+        "en": "The transition plan keeps the old system available for emergencies."
+      }
+    ],
+    "gloss": "过渡计划"
+  },
+  "V20261018-079": {
+    "examples": [
+      {
+        "zh": "经理与新任组长商定了一份辅导计划。",
+        "en": "The manager agreed on a coaching plan with the new team lead."
+      },
+      {
+        "zh": "她的辅导计划包括观摩两位资深主管。",
+        "en": "Her coaching plan includes observing two experienced supervisors."
+      }
+    ],
+    "gloss": "辅导计划"
+  },
+  "V20261018-080": {
+    "examples": [
+      {
+        "zh": "我们通过跟岗学习和每周沟通管理角色交接。",
+        "en": "We managed the role transition with shadowing and weekly check-ins."
+      },
+      {
+        "zh": "角色交接将排程职责移交给计划团队。",
+        "en": "The role transition transferred scheduling duties to the planning team."
+      }
+    ],
+    "gloss": "角色交接"
+  },
+  "V20261018-081": {
+    "examples": [
+      {
+        "zh": "该项目群为供应商主数据指定了数据负责人。",
+        "en": "The program assigned a data owner for supplier master records."
+      },
+      {
+        "zh": "数据负责人批准对客户定义的更改。",
+        "en": "The data owner approves changes to the customer definition."
+      }
+    ],
+    "gloss": "数据负责人"
+  },
+  "V20261018-082": {
+    "examples": [
+      {
+        "zh": "财务为成本中心数据指定了一位数据管理员。",
+        "en": "Finance named a data steward for cost-center data."
+      },
+      {
+        "zh": "数据管理员每天早上调查重复的供应商代码。",
+        "en": "The data steward investigates duplicate supplier codes each morning."
+      }
+    ],
+    "gloss": "数据管理员"
+  },
+  "V20261018-083": {
+    "examples": [
+      {
+        "zh": "团队在迁移订单前清理了主数据。",
+        "en": "The team cleaned master data before migrating orders."
+      },
+      {
+        "zh": "错误的主数据导致订单使用了旧地址。",
+        "en": "Incorrect master data caused orders to use obsolete addresses."
+      }
+    ],
+    "gloss": "主数据"
+  },
+  "V20261018-084": {
+    "examples": [
+      {
+        "zh": "一个团队负责管理所有工厂的参考数据。",
+        "en": "One team governs reference data for all plants."
+      },
+      {
+        "zh": "国家代码作为共享参考数据维护。",
+        "en": "Country codes are maintained as shared reference data."
+      }
+    ],
+    "gloss": "参考数据"
+  },
+  "V20261018-085": {
+    "examples": [
+      {
+        "zh": "分析员记录了从源头到仪表板的数据血缘。",
+        "en": "The analyst documented data lineage from source to dashboard."
+      },
+      {
+        "zh": "数据血缘帮助我们将总额追溯到发票。",
+        "en": "Data lineage helps us trace a total back to invoices."
+      }
+    ],
+    "gloss": "数据血缘"
+  },
+  "V20261018-086": {
+    "examples": [
+      {
+        "zh": "法务为检验记录制定了数据保留规则。",
+        "en": "Legal defined data retention rules for inspection records."
+      },
+      {
+        "zh": "数据保留政策规定了何时删除归档日志。",
+        "en": "The data retention policy specifies when archived logs are deleted."
+      }
+    ],
+    "gloss": "数据保留"
+  },
+  "V20261018-087": {
+    "examples": [
+      {
+        "zh": "基于角色的权限加强了访问控制。",
+        "en": "Role-based permissions strengthened access control."
+      },
+      {
+        "zh": "访问控制防止受训人员更改已批准规格。",
+        "en": "Access control prevents trainees from changing approved specifications."
+      }
+    ],
+    "gloss": "访问控制"
+  },
+  "V20261018-088": {
+    "examples": [
+      {
+        "zh": "财务对总账与报告进行了数据对账。",
+        "en": "Finance performed data reconciliation between the ledger and the report."
+      },
+      {
+        "zh": "数据对账发现月度汇总缺少收货记录。",
+        "en": "Data reconciliation revealed missing receipts in the monthly summary."
+      }
+    ],
+    "gloss": "数据对账"
+  },
+  "V20261018-089": {
+    "examples": [
+      {
+        "zh": "政策将ERP规定为库存的权威记录系统。",
+        "en": "The policy defines the ERP as the system of record for inventory."
+      },
+      {
+        "zh": "使用权威记录系统核实当前余额。",
+        "en": "Use the system of record to verify the current balance."
+      }
+    ],
+    "gloss": "权威记录系统"
+  },
+  "V20261018-090": {
+    "examples": [
+      {
+        "zh": "该表单对承诺日期应用了一项数据验证规则。",
+        "en": "The form applies a data validation rule to the promised date."
+      },
+      {
+        "zh": "数据验证规则阻止输入负数订单量。",
+        "en": "A data validation rule blocks negative order quantities."
+      }
+    ],
+    "gloss": "数据验证规则"
+  },
+  "V20261018-091": {
+    "examples": [
+      {
+        "zh": "供应商为模具费设定了很高的锚定点。",
+        "en": "The supplier set a high anchor point for the tooling fee."
+      },
+      {
+        "zh": "他们的首次报价成为后续报价的锚定点。",
+        "en": "Their opening quote became the anchor point for later offers."
+      }
+    ],
+    "gloss": "锚定点"
+  },
+  "V20261018-092": {
+    "examples": [
+      {
+        "zh": "我们在会议前估算了议价区间。",
+        "en": "We estimated the bargaining range before the meeting."
+      },
+      {
+        "zh": "双方修改底线后，议价区间缩小了。",
+        "en": "The bargaining range narrowed after both sides revised their limits."
+      }
+    ],
+    "gloss": "议价区间"
+  },
+  "V20261018-093": {
+    "examples": [
+      {
+        "zh": "谈判代表守住了保留价格，避免了不划算的交易。",
+        "en": "The negotiator protected the reservation price and avoided an uneconomic deal."
+      },
+      {
+        "zh": "我们的保留价格考虑了更换供应商的成本。",
+        "en": "Our reservation price includes the cost of switching suppliers."
+      }
+    ],
+    "gloss": "保留价格"
+  },
+  "V20261018-094": {
+    "examples": [
+      {
+        "zh": "我们准备了与采购量和付款条件挂钩的让步策略。",
+        "en": "We prepared a concession strategy linked to volume and payment terms."
+      },
+      {
+        "zh": "让步策略以更长合同期换取更低单价。",
+        "en": "The concession strategy exchanges longer contracts for lower unit prices."
+      }
+    ],
+    "gloss": "让步策略"
+  },
+  "V20261018-095": {
+    "examples": [
+      {
+        "zh": "我们提出在交期与订单稳定性之间进行价值交换。",
+        "en": "We proposed a value trade between lead time and order stability."
+      },
+      {
+        "zh": "价值交换让我们获得更快服务，让对方获得可预测需求。",
+        "en": "A value trade gave us faster service and them predictable demand."
+      }
+    ],
+    "gloss": "价值交换"
+  },
+  "V20261018-096": {
+    "examples": [
+      {
+        "zh": "供应商提出了涵盖价格、保修和培训的一揽子协议。",
+        "en": "The vendor offered a package deal covering price, warranty, and training."
+      },
+      {
+        "zh": "一揽子协议包含安装和两次维护上门服务。",
+        "en": "The package deal includes installation and two maintenance visits."
+      }
+    ],
+    "gloss": "一揽子协议"
+  },
+  "V20261018-097": {
+    "examples": [
+      {
+        "zh": "管理层在最终谈判前确定了退出底线。",
+        "en": "Management defined a walk-away point before final negotiation."
+      },
+      {
+        "zh": "退出底线避免我们接受无限责任。",
+        "en": "The walk-away point protects us from accepting unlimited liability."
+      }
+    ],
+    "gloss": "退出底线"
+  },
+  "V20261018-098": {
+    "examples": [
+      {
+        "zh": "团队与总监确认了谈判授权范围。",
+        "en": "The team confirmed the negotiation mandate with the director."
+      },
+      {
+        "zh": "我的谈判授权范围不包含知识产权变更。",
+        "en": "My negotiation mandate excludes changes to intellectual property rights."
+      }
+    ],
+    "gloss": "谈判授权范围"
+  },
+  "V20261018-099": {
+    "examples": [
+      {
+        "zh": "我们通过议题联动，以更快付款换取较低价格。",
+        "en": "We used issue linkage to exchange faster payment for lower price."
+      },
+      {
+        "zh": "议题联动将保修范围与维护合同联系起来。",
+        "en": "Issue linkage connected warranty coverage with the maintenance contract."
+      }
+    ],
+    "gloss": "议题联动"
+  },
+  "V20261018-100": {
+    "examples": [
+      {
+        "zh": "双方团队采用原则式谈判，将人与问题分开。",
+        "en": "The teams used principled negotiation to separate people from the problem."
+      },
+      {
+        "zh": "原则式谈判帮助双方团队聚焦可衡量的服务需求。",
+        "en": "Principled negotiation helped both teams focus on measurable service needs."
+      }
+    ],
+    "gloss": "原则式谈判"
+  },
+  "V20261018-101": {
+    "examples": [
+      {
+        "zh": "市场突然将该国称为该地区的经济病夫。",
+        "en": "Markets abruptly labeled the country the economic sick man of the region."
+      },
+      {
+        "zh": "这篇文章质疑经济病夫这一标签。",
+        "en": "The essay challenges the label of economic sick man."
+      }
+    ],
+    "gloss": "经济病夫"
+  },
+  "V20261018-102": {
+    "examples": [
+      {
+        "zh": "风险感知的加剧推高了融资成本。",
+        "en": "Heightened perceptions of risk raised financing costs."
+      },
+      {
+        "zh": "对危险更强烈的感知改变了投资者行为。",
+        "en": "A heightened perception of danger changed investors' behavior."
+      }
+    ],
+    "gloss": "加剧的感知"
+  },
+  "V20261018-103": {
+    "examples": [
+      {
+        "zh": "该情景考虑政府是否可能发生国家债务违约。",
+        "en": "The scenario considers whether a government could default on national debt."
+      },
+      {
+        "zh": "该模型假定这个国家不会发生国家债务违约。",
+        "en": "The model assumes the country will not default on national debt."
+      }
+    ],
+    "gloss": "国家债务违约"
+  },
+  "V20261018-104": {
+    "examples": [
+      {
+        "zh": "随着担忧加剧，投资者购买了违约保险。",
+        "en": "Investors bought insurance against default as concern increased."
+      },
+      {
+        "zh": "感知风险上升时，违约保险会变贵。",
+        "en": "Insurance against default becomes costly when perceived risk rises."
+      }
+    ],
+    "gloss": "违约保险"
+  },
+  "V20261018-105": {
+    "examples": [
+      {
+        "zh": "公告发布后，示威席卷了这座城市。",
+        "en": "The city was swept by demonstrations after the announcement."
+      },
+      {
+        "zh": "相互矛盾的公告可能使恐慌席卷市场。",
+        "en": "The market could be swept by panic after contradictory announcements."
+      }
+    ],
+    "gloss": "被席卷"
+  },
+  "V20261018-106": {
+    "examples": [
+      {
+        "zh": "反对党候选人继续在民调中领先。",
+        "en": "The opposition candidate continued to lead in the polls."
+      },
+      {
+        "zh": "候选人可能在民调中领先却仍然败选。",
+        "en": "A candidate can lead in the polls and still lose."
+      }
+    ],
+    "gloss": "在民调中领先"
+  },
+  "V20261018-107": {
+    "examples": [
+      {
+        "zh": "评审应避免意识形态驱动的推理。",
+        "en": "The review should avoid ideologically motivated reasoning."
+      },
+      {
+        "zh": "意识形态驱动的推理可能扭曲读者对证据的解读。",
+        "en": "Ideologically motivated reasoning can distort how readers interpret evidence."
+      }
+    ],
+    "gloss": "意识形态驱动的推理"
+  },
+  "V20261018-108": {
+    "examples": [
+      {
+        "zh": "这篇评论表现出对该机构的明显敌意。",
+        "en": "The commentary showed clear animus toward the institution."
+      },
+      {
+        "zh": "他对委员会的敌意削弱了原本严谨的论证。",
+        "en": "His animus toward the committee weakened an otherwise careful argument."
+      }
+    ],
+    "gloss": "敌意"
+  },
+  "V20261018-109": {
+    "examples": [
+      {
+        "zh": "宣传活动用无数据支持的说法对读者狂轰滥炸。",
+        "en": "The campaign bombarded readers with claims unsupported by data."
+      },
+      {
+        "zh": "广告向观众密集灌输轻松减重的说法。",
+        "en": "Advertisements bombard viewers with claims about effortless weight loss."
+      }
+    ],
+    "gloss": "用说法狂轰滥炸"
+  },
+  "V20261018-110": {
+    "examples": [
+      {
+        "zh": "分析员质疑较小的供应商是否会成为下一个倒下的多米诺骨牌。",
+        "en": "Analysts asked whether the smaller supplier would be the next domino to fall."
+      },
+      {
+        "zh": "投资者担心这家银行会成为下一个倒下的多米诺骨牌。",
+        "en": "Investors feared the bank was the next domino to fall."
+      }
+    ],
+    "gloss": "下一个倒下的多米诺骨牌"
+  },
+  "V20261018-111": {
+    "examples": [
+      {
+        "zh": "快速回应限制了这次失败带来的政治余波。",
+        "en": "The rapid response limited the political fallout from the failure."
+      },
+      {
+        "zh": "召回的负面余波包括经销商取消订单。",
+        "en": "The fallout from the recall included canceled distributor orders."
+      }
+    ],
+    "gloss": "负面余波"
+  },
+  "V20261018-112": {
+    "examples": [
+      {
+        "zh": "该提案触犯了保守派关于公共支出的价值观。",
+        "en": "The proposal offended conservative sensibilities about public spending."
+      },
+      {
+        "zh": "这篇社论呼应了保守派对于政府债务的价值观。",
+        "en": "The editorial appealed to conservative sensibilities about government debt."
+      }
+    ],
+    "gloss": "保守派价值观"
+  },
+  "V20261018-113": {
+    "examples": [
+      {
+        "zh": "领导者不应为避免批评而淡化严重问题。",
+        "en": "Leaders should not underplay a serious problem to avoid criticism."
+      },
+      {
+        "zh": "摘要不得淡化涉及患者安全的问题。",
+        "en": "The summary must not underplay a problem with patient safety."
+      }
+    ],
+    "gloss": "淡化问题"
+  },
+  "V20261018-114": {
+    "examples": [
+      {
+        "zh": "预测显示该计划仍处于财政不可持续的路径上。",
+        "en": "The projection shows the program remains on a fiscally unsustainable path."
+      },
+      {
+        "zh": "收入下降可能使该市走上财政不可持续的路径。",
+        "en": "Falling revenue could put the city on a fiscally unsustainable path."
+      }
+    ],
+    "gloss": "财政不可持续路径"
+  },
+  "V20261018-115": {
+    "examples": [
+      {
+        "zh": "政府继续维持巨额预算赤字。",
+        "en": "The government continued to run a large budget deficit."
+      },
+      {
+        "zh": "该预测预计政府将出现预算赤字。",
+        "en": "The forecast expects the government to run a budget deficit."
+      }
+    ],
+    "gloss": "出现预算赤字"
+  },
+  "V20261018-116": {
+    "examples": [
+      {
+        "zh": "这家工厂在同业中以交付可靠性脱颖而出。",
+        "en": "The plant stands out among peers for delivery reliability."
+      },
+      {
+        "zh": "她的提案以清晰的成本估算在提交方案中脱颖而出。",
+        "en": "Her proposal stands out among entries for its clear cost estimates."
+      }
+    ],
+    "gloss": "在其中脱颖而出"
+  },
+  "V20261018-117": {
+    "examples": [
+      {
+        "zh": "接受订单前，我们需要现实地看待产能。",
+        "en": "We need to get realistic about capacity before accepting the order."
+      },
+      {
+        "zh": "我们必须现实地看待能完成多少项评审。",
+        "en": "We must get realistic about how many reviews we can finish."
+      }
+    ],
+    "gloss": "现实地看待"
+  },
+  "V20261018-118": {
+    "examples": [
+      {
+        "zh": "改革将逐步提高法定年龄。",
+        "en": "The reform would gradually raise the statutory age."
+      },
+      {
+        "zh": "该提案改变了领取这项福利的法定年龄。",
+        "en": "The proposal changes the statutory age for receiving this benefit."
+      }
+    ],
+    "gloss": "法定年龄"
+  },
+  "V20261018-119": {
+    "examples": [
+      {
+        "zh": "团队有望按进度于五月完成资格验证。",
+        "en": "The team is on track to finish qualification in May."
+      },
+      {
+        "zh": "我们有望按进度在周五前清完积压订单。",
+        "en": "We are on track to clear the backlog by Friday."
+      }
+    ],
+    "gloss": "有望按进度达到"
+  },
+  "V20261018-120": {
+    "examples": [
+      {
+        "zh": "不要以牺牲质量为代价提高速度。",
+        "en": "Do not improve speed at the expense of quality."
+      },
+      {
+        "zh": "这些节省是以牺牲可靠的客户支持为代价的。",
+        "en": "The savings came at the expense of reliable customer support."
+      }
+    ],
+    "gloss": "以牺牲……为代价"
+  },
+  "V20261018-121": {
+    "examples": [
+      {
+        "zh": "反复的例外可能是治理薄弱的征兆。",
+        "en": "Repeated exceptions may be symptomatic of weak governance."
+      },
+      {
+        "zh": "签名缺失可能是放行程序仓促的征兆。",
+        "en": "Missing signatures may be symptomatic of rushed release procedures."
+      }
+    ],
+    "gloss": "是……的征兆"
+  },
+  "V20261018-122": {
+    "examples": [
+      {
+        "zh": "一次未经解释的数据修订引发了信心丧失。",
+        "en": "An unexplained data revision triggered a loss of confidence."
+      },
+      {
+        "zh": "退款延迟导致客户信心丧失。",
+        "en": "Delayed refunds caused a loss of confidence among customers."
+      }
+    ],
+    "gloss": "信心丧失"
+  },
+  "V20261018-123": {
+    "examples": [
+      {
+        "zh": "拍卖失败引发了对违约的恐惧。",
+        "en": "The failed auction raised the specter of default."
+      },
+      {
+        "zh": "反复停电引发了对长期停产的恐惧。",
+        "en": "Repeated outages raise the specter of a prolonged production shutdown."
+      }
+    ],
+    "gloss": "引发对……的恐惧"
+  },
+  "V20261018-124": {
+    "examples": [
+      {
+        "zh": "紧急融资帮助打破了恶性循环。",
+        "en": "Emergency financing helped break the vicious circle."
+      },
+      {
+        "zh": "打折和利润率下降使店铺陷入恶性循环。",
+        "en": "Discounting and falling margins trapped the store in a vicious circle."
+      }
+    ],
+    "gloss": "恶性循环"
+  },
+  "V20261018-125": {
+    "examples": [
+      {
+        "zh": "该机构已经从大到不能倒发展成大到无力救助。",
+        "en": "The institution had grown from too big to fail to too big to save."
+      },
+      {
+        "zh": "该情景探讨合并后的银行是否大到无力救助。",
+        "en": "The scenario asks whether the merged bank is too big to save."
+      }
+    ],
+    "gloss": "大到无力救助的"
+  }
+}

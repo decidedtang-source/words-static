@@ -1,0 +1,1627 @@
+{
+  "V20261015-001": {
+    "gloss": "总拥有成本",
+    "examples": [
+      {
+        "zh": "我们比较了总拥有成本，而非仅比较购买价。",
+        "en": "We compared total cost of ownership, not just the purchase price."
+      },
+      {
+        "zh": "维护增加了总拥有成本。",
+        "en": "Maintenance raises the total cost of ownership."
+      }
+    ]
+  },
+  "V20261015-002": {
+    "gloss": "成本驱动因素",
+    "examples": [
+      {
+        "zh": "材料等级是这份报价的主要成本驱动因素。",
+        "en": "Material grade is the main cost driver in this quote."
+      },
+      {
+        "zh": "能源是主要成本驱动因素。",
+        "en": "Energy is a major cost driver."
+      }
+    ]
+  },
+  "V20261015-003": {
+    "gloss": "成本明细",
+    "examples": [
+      {
+        "zh": "请提供修订报价的成本明细。",
+        "en": "Please provide a cost breakdown for the revised quote."
+      },
+      {
+        "zh": "成本明细将人工与材料分开。",
+        "en": "The cost breakdown separates labor and materials."
+      }
+    ]
+  },
+  "V20261015-004": {
+    "gloss": "单位成本",
+    "examples": [
+      {
+        "zh": "增加数量可能降低单位成本。",
+        "en": "Higher volume may reduce the unit cost."
+      },
+      {
+        "zh": "单位成本包含包装。",
+        "en": "Unit cost includes packaging."
+      }
+    ]
+  },
+  "V20261015-005": {
+    "gloss": "固定成本",
+    "examples": [
+      {
+        "zh": "设置费涵盖试验的固定成本。",
+        "en": "The setup fee covers the fixed cost of the trial."
+      },
+      {
+        "zh": "租金属于固定成本。",
+        "en": "Rent is a fixed cost."
+      }
+    ]
+  },
+  "V20261015-006": {
+    "gloss": "变动成本",
+    "examples": [
+      {
+        "zh": "我们估算了每多生产一件的变动成本。",
+        "en": "We estimated the variable cost per additional unit."
+      },
+      {
+        "zh": "燃料属于变动成本。",
+        "en": "Fuel is a variable cost."
+      }
+    ]
+  },
+  "V20261015-007": {
+    "gloss": "沉没成本",
+    "examples": [
+      {
+        "zh": "我们不应仅因沉没成本而继续。",
+        "en": "We should not continue only because of the sunk cost."
+      },
+      {
+        "zh": "过去的设计费属于沉没成本。",
+        "en": "Past design fees are sunk costs."
+      }
+    ]
+  },
+  "V20261015-008": {
+    "gloss": "预算上限",
+    "examples": [
+      {
+        "zh": "修订方案未超过预算上限。",
+        "en": "The revised option stays below the budget ceiling."
+      },
+      {
+        "zh": "不得超过预算上限。",
+        "en": "The budget ceiling cannot be exceeded."
+      }
+    ]
+  },
+  "V20261015-009": {
+    "gloss": "成本超支",
+    "examples": [
+      {
+        "zh": "尽早控制范围可防止成本超支。",
+        "en": "Early scope control can prevent a cost overrun."
+      },
+      {
+        "zh": "成本超支需要解释。",
+        "en": "The cost overrun requires an explanation."
+      }
+    ]
+  },
+  "V20261015-010": {
+    "gloss": "成本规避",
+    "examples": [
+      {
+        "zh": "重新设计避免了未来成本，而非节省现金。",
+        "en": "The redesign created cost avoidance rather than a cash saving."
+      },
+      {
+        "zh": "预防性维护可避免未来成本。",
+        "en": "Preventive maintenance can deliver cost avoidance."
+      }
+    ]
+  },
+  "V20261015-011": {
+    "gloss": "需求预测",
+    "examples": [
+      {
+        "zh": "销售部门更新了下季度需求预测。",
+        "en": "Sales updated the demand forecast for the next quarter."
+      },
+      {
+        "zh": "需求预测包含季节性高峰。",
+        "en": "The demand forecast includes seasonal peaks."
+      }
+    ]
+  },
+  "V20261015-012": {
+    "gloss": "滚动预测",
+    "examples": [
+      {
+        "zh": "我们维持未来十二个月的滚动预测。",
+        "en": "We maintain a rolling forecast for the next twelve months."
+      },
+      {
+        "zh": "每月更新滚动预测。",
+        "en": "Update the rolling forecast every month."
+      }
+    ]
+  },
+  "V20261015-013": {
+    "gloss": "计划期",
+    "examples": [
+      {
+        "zh": "我们延长了计划期，以纳入工装交期。",
+        "en": "We extended the planning horizon to include tooling lead time."
+      },
+      {
+        "zh": "计划期跨越两年。",
+        "en": "The planning horizon spans two years."
+      }
+    ]
+  },
+  "V20261015-014": {
+    "gloss": "情景范围",
+    "examples": [
+      {
+        "zh": "计划采用800至1200件的情景范围。",
+        "en": "The plan uses a scenario range of 800 to 1,200 units."
+      },
+      {
+        "zh": "需求不确定时扩大情景范围。",
+        "en": "Widen the scenario range for uncertain demand."
+      }
+    ]
+  },
+  "V20261015-015": {
+    "gloss": "基准情景",
+    "examples": [
+      {
+        "zh": "按基准情景配置人员，另列风险。",
+        "en": "Use the base case for staffing and show the risks separately."
+      },
+      {
+        "zh": "基准情景假设价格稳定。",
+        "en": "The base case assumes stable prices."
+      }
+    ]
+  },
+  "V20261015-016": {
+    "gloss": "乐观情景",
+    "examples": [
+      {
+        "zh": "乐观情景假设客户审批更快。",
+        "en": "The upside case assumes faster customer approval."
+      },
+      {
+        "zh": "乐观情景需要额外产能。",
+        "en": "The upside case needs additional capacity."
+      }
+    ]
+  },
+  "V20261015-017": {
+    "gloss": "悲观情景",
+    "examples": [
+      {
+        "zh": "我们为两周延误准备了悲观情景。",
+        "en": "We prepared a downside case for a two-week delay."
+      },
+      {
+        "zh": "悲观情景假设订单减少。",
+        "en": "The downside case assumes fewer orders."
+      }
+    ]
+  },
+  "V20261015-018": {
+    "gloss": "敏感性分析",
+    "examples": [
+      {
+        "zh": "对价格与需求进行敏感性分析。",
+        "en": "Run a sensitivity analysis on price and demand."
+      },
+      {
+        "zh": "敏感性分析揭示主要风险。",
+        "en": "Sensitivity analysis reveals the main risks."
+      }
+    ]
+  },
+  "V20261015-019": {
+    "gloss": "压力测试",
+    "examples": [
+      {
+        "zh": "团队对供应计划进行了压力测试。",
+        "en": "The team performed a stress test on the supply plan."
+      },
+      {
+        "zh": "压力测试假设港口关闭。",
+        "en": "The stress test assumes a port closure."
+      }
+    ]
+  },
+  "V20261015-020": {
+    "gloss": "预测准确度",
+    "examples": [
+      {
+        "zh": "我们按产品系列跟踪预测准确度。",
+        "en": "We track forecast accuracy by product family."
+      },
+      {
+        "zh": "本季度预测准确度提高了。",
+        "en": "Forecast accuracy improved this quarter."
+      }
+    ]
+  },
+  "V20261015-021": {
+    "gloss": "风险偏好",
+    "examples": [
+      {
+        "zh": "董事会选择战略前确定了风险偏好。",
+        "en": "The board defined its risk appetite before choosing the strategy."
+      },
+      {
+        "zh": "我们的风险偏好限制投机投资。",
+        "en": "Our risk appetite limits speculative investment."
+      }
+    ]
+  },
+  "V20261015-022": {
+    "gloss": "风险容忍度",
+    "examples": [
+      {
+        "zh": "为交付波动设定风险容忍度。",
+        "en": "Set a risk tolerance for delivery variation."
+      },
+      {
+        "zh": "延误超过了我们的风险容忍度。",
+        "en": "The delay exceeds our risk tolerance."
+      }
+    ]
+  },
+  "V20261015-023": {
+    "gloss": "固有风险",
+    "examples": [
+      {
+        "zh": "计入控制作用前，先评估固有风险。",
+        "en": "Assess the inherent risk before crediting any controls."
+      },
+      {
+        "zh": "化学品储存带有固有风险。",
+        "en": "Chemical storage carries inherent risk."
+      }
+    ]
+  },
+  "V20261015-024": {
+    "gloss": "剩余风险",
+    "examples": [
+      {
+        "zh": "管理层在评审后接受了剩余风险。",
+        "en": "Management accepted the residual risk after the review."
+      },
+      {
+        "zh": "剩余风险仍需监测。",
+        "en": "Residual risk still needs monitoring."
+      }
+    ]
+  },
+  "V20261015-025": {
+    "gloss": "风险登记册",
+    "examples": [
+      {
+        "zh": "供应商通话后，请更新风险登记册。",
+        "en": "Please update the risk register after the supplier call."
+      },
+      {
+        "zh": "风险登记册列出了各项负责人。",
+        "en": "The risk register names each owner."
+      }
+    ]
+  },
+  "V20261015-026": {
+    "gloss": "控制措施",
+    "examples": [
+      {
+        "zh": "我们增加了第二次检查作为控制措施。",
+        "en": "We added a second check as a control measure."
+      },
+      {
+        "zh": "控制措施减少了搬运错误。",
+        "en": "The control measure reduced handling errors."
+      }
+    ]
+  },
+  "V20261015-027": {
+    "gloss": "控制有效性",
+    "examples": [
+      {
+        "zh": "审计将检验实际控制效果，而非只审设计。",
+        "en": "The audit will test control effectiveness, not just design."
+      },
+      {
+        "zh": "控制有效性取决于执行的一致性。",
+        "en": "Control effectiveness depends on consistent execution."
+      }
+    ]
+  },
+  "V20261015-028": {
+    "gloss": "风险转移",
+    "examples": [
+      {
+        "zh": "保险将运输损坏风险部分转移给保险方。",
+        "en": "Insurance provides partial risk transfer for transit damage."
+      },
+      {
+        "zh": "风险转移不等于责任消失。",
+        "en": "Risk transfer does not eliminate responsibility."
+      }
+    ]
+  },
+  "V20261015-029": {
+    "gloss": "风险接受",
+    "examples": [
+      {
+        "zh": "项目发起人必须书面记录风险接受决定。",
+        "en": "The sponsor must document risk acceptance in writing."
+      },
+      {
+        "zh": "风险接受需要授权人员签名。",
+        "en": "Risk acceptance requires an authorized signature."
+      }
+    ]
+  },
+  "V20261015-030": {
+    "gloss": "风险处置",
+    "examples": [
+      {
+        "zh": "选择与风险敞口相匹配的风险处置方式。",
+        "en": "Select a risk treatment that matches the exposure."
+      },
+      {
+        "zh": "风险处置结合了保险和检查。",
+        "en": "The risk treatment combines insurance and checks."
+      }
+    ]
+  },
+  "V20261015-031": {
+    "gloss": "治理结构",
+    "examples": [
+      {
+        "zh": "章程规定了此项目群的治理结构。",
+        "en": "The charter defines the governance structure for the program."
+      },
+      {
+        "zh": "治理结构包含独立监督。",
+        "en": "The governance structure includes independent oversight."
+      }
+    ]
+  },
+  "V20261015-032": {
+    "gloss": "决策权",
+    "examples": [
+      {
+        "zh": "指导委员会会议前，明确决策权。",
+        "en": "Clarify decision rights before the steering meeting."
+      },
+      {
+        "zh": "决策权仍属于项目发起人。",
+        "en": "Decision rights remain with the project sponsor."
+      }
+    ]
+  },
+  "V20261015-033": {
+    "gloss": "审批权限",
+    "examples": [
+      {
+        "zh": "财务部门确认了这项采购的审批权限。",
+        "en": "Finance confirmed the approval authority for this purchase."
+      },
+      {
+        "zh": "她的审批权限涵盖日常费用。",
+        "en": "Her approval authority covers routine expenses."
+      }
+    ]
+  },
+  "V20261015-034": {
+    "gloss": "职责分离",
+    "examples": [
+      {
+        "zh": "付款流程保持了职责分离。",
+        "en": "The workflow maintains segregation of duties for payments."
+      },
+      {
+        "zh": "职责分离防止自行审批。",
+        "en": "Segregation of duties prevents self-approval."
+      }
+    ]
+  },
+  "V20261015-035": {
+    "gloss": "利益冲突",
+    "examples": [
+      {
+        "zh": "评审者必须披露任何利益冲突。",
+        "en": "Reviewers must disclose any conflict of interest."
+      },
+      {
+        "zh": "亲属关系构成利益冲突。",
+        "en": "A family connection creates a conflict of interest."
+      }
+    ]
+  },
+  "V20261015-036": {
+    "gloss": "透明度要求",
+    "examples": [
+      {
+        "zh": "摘要满足透明度要求，同时未暴露私人数据。",
+        "en": "The summary meets the transparency requirement without exposing private data."
+      },
+      {
+        "zh": "透明度要求涵盖遴选标准。",
+        "en": "The transparency requirement covers selection criteria."
+      }
+    ]
+  },
+  "V20261015-037": {
+    "gloss": "评审节奏",
+    "examples": [
+      {
+        "zh": "我们为项目组合设定了每月评审节奏。",
+        "en": "We set a monthly review cadence for the portfolio."
+      },
+      {
+        "zh": "启动期间评审节奏会改变。",
+        "en": "The review cadence changes during launch."
+      }
+    ]
+  },
+  "V20261015-038": {
+    "gloss": "上报标准",
+    "examples": [
+      {
+        "zh": "延误两天就是此任务的上报标准。",
+        "en": "A two-day slip is the escalation criterion for this task."
+      },
+      {
+        "zh": "上报标准有明确记录。",
+        "en": "The escalation criterion is clearly documented."
+      }
+    ]
+  },
+  "V20261015-039": {
+    "gloss": "政策例外",
+    "examples": [
+      {
+        "zh": "法务部门批准了仅限试点的政策例外。",
+        "en": "Legal approved a narrow policy exception for the pilot."
+      },
+      {
+        "zh": "政策例外仅适用一个月。",
+        "en": "The policy exception applies for one month."
+      }
+    ]
+  },
+  "V20261015-040": {
+    "gloss": "正式决策记录",
+    "examples": [
+      {
+        "zh": "评审后，我们发布了正式决策记录。",
+        "en": "We published a record of decision after the review."
+      },
+      {
+        "zh": "保留签署后的正式决策记录。",
+        "en": "Keep the signed record of decision."
+      }
+    ]
+  },
+  "V20261015-041": {
+    "gloss": "流程图",
+    "examples": [
+      {
+        "zh": "团队绘制了审批流程图。",
+        "en": "The team drew a process map of the approval flow."
+      },
+      {
+        "zh": "流程图揭示重复检查。",
+        "en": "The process map reveals repeated checks."
+      }
+    ]
+  },
+  "V20261015-042": {
+    "gloss": "泳道图",
+    "examples": [
+      {
+        "zh": "泳道图显示交接发生的位置。",
+        "en": "A swimlane diagram shows where the handoffs occur."
+      },
+      {
+        "zh": "每张泳道图都区分部门职责。",
+        "en": "Each swimlane diagram separates departmental responsibilities."
+      }
+    ]
+  },
+  "V20261015-043": {
+    "gloss": "标准作业",
+    "examples": [
+      {
+        "zh": "操作员在试验期间遵循标准作业。",
+        "en": "Operators follow standard work during the trial."
+      },
+      {
+        "zh": "标准作业包含安全顺序。",
+        "en": "Standard work includes the safe sequence."
+      }
+    ]
+  },
+  "V20261015-044": {
+    "gloss": "返工循环",
+    "examples": [
+      {
+        "zh": "一份清晰模板消除了高成本的返工循环。",
+        "en": "One clear template removed a costly rework loop."
+      },
+      {
+        "zh": "申请不完整会形成返工循环。",
+        "en": "Incomplete requests create a rework loop."
+      }
+    ]
+  },
+  "V20261015-045": {
+    "gloss": "排队等待时间",
+    "examples": [
+      {
+        "zh": "我们每天分两次审批，缩短了等待时间。",
+        "en": "We reduced queue time by approving batches twice a day."
+      },
+      {
+        "zh": "排队等待时间超过实际处理时间。",
+        "en": "Queue time exceeds actual processing time."
+      }
+    ]
+  },
+  "V20261015-046": {
+    "gloss": "周期时间",
+    "examples": [
+      {
+        "zh": "从申请到批准衡量周期时间。",
+        "en": "Measure cycle time from request to approval."
+      },
+      {
+        "zh": "重新设计后周期时间缩短了。",
+        "en": "Cycle time fell after the redesign."
+      }
+    ]
+  },
+  "V20261015-047": {
+    "gloss": "吞吐量；产出率",
+    "examples": [
+      {
+        "zh": "新夹具在未增员的情况下提高了产出率。",
+        "en": "The new fixture increased throughput without adding staff."
+      },
+      {
+        "zh": "产出率达到每小时八十件。",
+        "en": "Throughput reached eighty units per hour."
+      }
+    ]
+  },
+  "V20261015-048": {
+    "gloss": "在制品；在办工作",
+    "examples": [
+      {
+        "zh": "限制在办工作数量，以暴露瓶颈。",
+        "en": "Limit work in progress to expose bottlenecks."
+      },
+      {
+        "zh": "在制品占用现金。",
+        "en": "Work in progress ties up cash."
+      }
+    ]
+  },
+  "V20261015-049": {
+    "gloss": "生产节拍",
+    "examples": [
+      {
+        "zh": "我们根据可用工时和需求计算了生产节拍。",
+        "en": "We calculated takt time from available hours and demand."
+      },
+      {
+        "zh": "生产节拍指导工位平衡。",
+        "en": "Takt time guides workstation balancing."
+      }
+    ]
+  },
+  "V20261015-050": {
+    "gloss": "过程能力",
+    "examples": [
+      {
+        "zh": "研究评估了三个班次的过程能力。",
+        "en": "The study evaluates process capability across three shifts."
+      },
+      {
+        "zh": "校准后过程能力提高了。",
+        "en": "Process capability improved after calibration."
+      }
+    ]
+  },
+  "V20261015-051": {
+    "gloss": "缺陷率",
+    "examples": [
+      {
+        "zh": "这项变更降低了试点批次的缺陷率。",
+        "en": "The change lowered the defect rate in the pilot batch."
+      },
+      {
+        "zh": "缺陷率因供应商而异。",
+        "en": "The defect rate varies by supplier."
+      }
+    ]
+  },
+  "V20261015-052": {
+    "gloss": "缺陷模式",
+    "examples": [
+      {
+        "zh": "更改流程前，先寻找缺陷模式。",
+        "en": "Look for a defect pattern before changing the process."
+      },
+      {
+        "zh": "缺陷模式表明压力不均。",
+        "en": "The defect pattern suggests uneven pressure."
+      }
+    ]
+  },
+  "V20261015-053": {
+    "gloss": "失效模式",
+    "examples": [
+      {
+        "zh": "评审发现了一种低温下的失效模式。",
+        "en": "The review identified a failure mode at low temperature."
+      },
+      {
+        "zh": "密封泄漏是常见失效模式。",
+        "en": "Seal leakage is a common failure mode."
+      }
+    ]
+  },
+  "V20261015-054": {
+    "gloss": "缺陷漏检点",
+    "examples": [
+      {
+        "zh": "我们在最终评审步骤发现了漏检点。",
+        "en": "We found the escape point in the final review step."
+      },
+      {
+        "zh": "漏检点是目视检查环节。",
+        "en": "The escape point was the visual check."
+      }
+    ]
+  },
+  "V20261015-055": {
+    "gloss": "临时遏制措施",
+    "examples": [
+      {
+        "zh": "我们针对所有现有库存采取了临时遏制措施。",
+        "en": "We launched a containment action for all open stock."
+      },
+      {
+        "zh": "临时遏制措施在调查期间保护客户。",
+        "en": "Containment action protects customers during investigation."
+      }
+    ]
+  },
+  "V20261015-056": {
+    "gloss": "全检筛选",
+    "examples": [
+      {
+        "zh": "供应商今早开始了全检筛选。",
+        "en": "The supplier started sorting inspection this morning."
+      },
+      {
+        "zh": "全检筛选分离了损坏零件。",
+        "en": "Sorting inspection separated damaged parts."
+      }
+    ]
+  },
+  "V20261015-057": {
+    "gloss": "不合格品处置决定",
+    "examples": [
+      {
+        "zh": "质量部门记录了被隔离批次的处置决定。",
+        "en": "Quality recorded the disposition decision for the blocked lot."
+      },
+      {
+        "zh": "处置决定需要工程部门参与。",
+        "en": "The disposition decision requires engineering input."
+      }
+    ]
+  },
+  "V20261015-058": {
+    "gloss": "返工作业指导",
+    "examples": [
+      {
+        "zh": "工程部门发布了含检查步骤的返工作业指导。",
+        "en": "Engineering issued a rework instruction with inspection steps."
+      },
+      {
+        "zh": "严格遵循返工作业指导。",
+        "en": "Follow the rework instruction exactly."
+      }
+    ]
+  },
+  "V20261015-059": {
+    "gloss": "报废率",
+    "examples": [
+      {
+        "zh": "我们按缺陷类别监测报废率。",
+        "en": "We monitor the scrap rate by defect category."
+      },
+      {
+        "zh": "重新培训后报废率下降了。",
+        "en": "The scrap rate dropped after retraining."
+      }
+    ]
+  },
+  "V20261015-060": {
+    "gloss": "良率损失",
+    "examples": [
+      {
+        "zh": "报告量化了涂层问题造成的良率损失。",
+        "en": "The report quantifies yield loss from the coating issue."
+      },
+      {
+        "zh": "对位不良增加良率损失。",
+        "en": "Poor alignment increases yield loss."
+      }
+    ]
+  },
+  "V20261015-061": {
+    "gloss": "询价单",
+    "examples": [
+      {
+        "zh": "采购部门向三家供应商发出了询价单。",
+        "en": "Purchasing issued a request for quotation to three suppliers."
+      },
+      {
+        "zh": "询价单注明了年需求量。",
+        "en": "The request for quotation specifies annual volume."
+      }
+    ]
+  },
+  "V20261015-062": {
+    "gloss": "报价有效期",
+    "examples": [
+      {
+        "zh": "提交订单前，检查报价有效期。",
+        "en": "Check quotation validity before submitting the order."
+      },
+      {
+        "zh": "报价有效期于下周五结束。",
+        "en": "Quotation validity ends next Friday."
+      }
+    ]
+  },
+  "V20261015-063": {
+    "gloss": "最低订购量",
+    "examples": [
+      {
+        "zh": "预测数量未达到最低订购量。",
+        "en": "The forecast does not meet the minimum order quantity."
+      },
+      {
+        "zh": "最低订购量可以协商。",
+        "en": "The minimum order quantity is negotiable."
+      }
+    ]
+  },
+  "V20261015-064": {
+    "gloss": "付款条件",
+    "examples": [
+      {
+        "zh": "签约前，我们协商了付款条件。",
+        "en": "We negotiated payment terms before signing the contract."
+      },
+      {
+        "zh": "付款条件要求支付订金。",
+        "en": "Payment terms require a deposit."
+      }
+    ]
+  },
+  "V20261015-065": {
+    "gloss": "国际贸易术语规则",
+    "examples": [
+      {
+        "zh": "采购订单必须明确注明国际贸易术语规则。",
+        "en": "The purchase order must state the Incoterms rule clearly."
+      },
+      {
+        "zh": "比较运费前确认国际贸易术语规则。",
+        "en": "Confirm the Incoterms rule before comparing freight."
+      }
+    ]
+  },
+  "V20261015-066": {
+    "gloss": "工装费",
+    "examples": [
+      {
+        "zh": "请把工装费与单价分开。",
+        "en": "Please separate the tooling charge from the unit price."
+      },
+      {
+        "zh": "工装费涵盖两套模具。",
+        "en": "The tooling charge covers two molds."
+      }
+    ]
+  },
+  "V20261015-067": {
+    "gloss": "一次性成本",
+    "examples": [
+      {
+        "zh": "项目批准了一笔认证的一次性成本。",
+        "en": "The project approved a non-recurring cost for certification."
+      },
+      {
+        "zh": "设置涉及一次性成本。",
+        "en": "Setup involves a non-recurring cost."
+      }
+    ]
+  },
+  "V20261015-068": {
+    "gloss": "数量折扣价",
+    "examples": [
+      {
+        "zh": "订购5000件可获得数量折扣价。",
+        "en": "An order of 5,000 units qualifies for a price break."
+      },
+      {
+        "zh": "下一档折扣从一万件起算。",
+        "en": "The next price break starts at ten thousand units."
+      }
+    ]
+  },
+  "V20261015-069": {
+    "gloss": "框架采购订单",
+    "examples": [
+      {
+        "zh": "我们下了框架采购订单，每月释放数量。",
+        "en": "We placed a blanket order with monthly releases."
+      },
+      {
+        "zh": "框架采购订单涵盖全年需求。",
+        "en": "The blanket order covers annual demand."
+      }
+    ]
+  },
+  "V20261015-070": {
+    "gloss": "采购承诺",
+    "examples": [
+      {
+        "zh": "试点将采购承诺限制为一个批次。",
+        "en": "The pilot limits the purchase commitment to one batch."
+      },
+      {
+        "zh": "采购承诺不能取消。",
+        "en": "The purchase commitment cannot be canceled."
+      }
+    ]
+  },
+  "V20261015-071": {
+    "gloss": "客户之声",
+    "examples": [
+      {
+        "zh": "访谈收集了客户之声。",
+        "en": "The interviews capture the voice of the customer."
+      },
+      {
+        "zh": "问卷补充了客户之声信息。",
+        "en": "Surveys supplement the voice of the customer."
+      }
+    ]
+  },
+  "V20261015-072": {
+    "gloss": "用户需求",
+    "examples": [
+      {
+        "zh": "编写要求前，我们必须了解用户需求。",
+        "en": "We must understand the user need before writing requirements."
+      },
+      {
+        "zh": "用户需求是更快完成设置。",
+        "en": "The user need is faster setup."
+      }
+    ]
+  },
+  "V20261015-073": {
+    "gloss": "明示要求",
+    "examples": [
+      {
+        "zh": "图纸验证了明确说明的宽度要求。",
+        "en": "The drawing verifies the stated requirement for width."
+      },
+      {
+        "zh": "明示要求不含外观特征。",
+        "en": "The stated requirement excludes cosmetic features."
+      }
+    ]
+  },
+  "V20261015-074": {
+    "gloss": "隐含要求",
+    "examples": [
+      {
+        "zh": "安全操作是此使用场景中的隐含要求。",
+        "en": "Safe handling is an implied requirement in this use case."
+      },
+      {
+        "zh": "标签可读是一项隐含要求。",
+        "en": "Readable labels are an implied requirement."
+      }
+    ]
+  },
+  "V20261015-075": {
+    "gloss": "需求层级",
+    "examples": [
+      {
+        "zh": "团队为平台建立了需求层级。",
+        "en": "The team built a requirement hierarchy for the platform."
+      },
+      {
+        "zh": "需求层级将目标与细节相连。",
+        "en": "The requirement hierarchy links goals to details."
+      }
+    ]
+  },
+  "V20261015-076": {
+    "gloss": "验收测试",
+    "examples": [
+      {
+        "zh": "客户下周将进行验收测试。",
+        "en": "The customer will run the acceptance test next week."
+      },
+      {
+        "zh": "验收测试包含满载运行。",
+        "en": "The acceptance test includes full-load operation."
+      }
+    ]
+  },
+  "V20261015-077": {
+    "gloss": "服务水平",
+    "examples": [
+      {
+        "zh": "团队达到了紧急请求的服务水平要求。",
+        "en": "The team met the service level for urgent requests."
+      },
+      {
+        "zh": "服务水平约定涵盖周末支持。",
+        "en": "The service level covers weekend support."
+      }
+    ]
+  },
+  "V20261015-078": {
+    "gloss": "响应时间目标",
+    "examples": [
+      {
+        "zh": "我们设定了四个工作小时的响应时间目标。",
+        "en": "We set a response-time target of four working hours."
+      },
+      {
+        "zh": "响应时间目标不计公共假日。",
+        "en": "The response-time target excludes public holidays."
+      }
+    ]
+  },
+  "V20261015-079": {
+    "gloss": "痛点",
+    "examples": [
+      {
+        "zh": "新表单消除了计划人员的一大痛点。",
+        "en": "The new form removes a major pain point for planners."
+      },
+      {
+        "zh": "手动复制是常见痛点。",
+        "en": "Manual copying is a common pain point."
+      }
+    ]
+  },
+  "V20261015-080": {
+    "gloss": "关键质量特性",
+    "examples": [
+      {
+        "zh": "密封强度是一项关键质量特性。",
+        "en": "Seal strength is a critical-to-quality characteristic."
+      },
+      {
+        "zh": "单独跟踪每项关键质量特性。",
+        "en": "Track every critical-to-quality characteristic separately."
+      }
+    ]
+  },
+  "V20261015-081": {
+    "gloss": "管理摘要",
+    "examples": [
+      {
+        "zh": "准备一份管理摘要，先列待决策请求。",
+        "en": "Prepare a management summary with the decision request first."
+      },
+      {
+        "zh": "管理摘要突出交付风险。",
+        "en": "The management summary highlights delivery risks."
+      }
+    ]
+  },
+  "V20261015-082": {
+    "gloss": "偏差解释",
+    "examples": [
+      {
+        "zh": "报告解释了人工成本偏差。",
+        "en": "The report provides a variance explanation for labor cost."
+      },
+      {
+        "zh": "偏差解释提到了加班成本。",
+        "en": "The variance explanation cites overtime costs."
+      }
+    ]
+  },
+  "V20261015-083": {
+    "gloss": "先行指标",
+    "examples": [
+      {
+        "zh": "未结行动是启动就绪程度的先行指标。",
+        "en": "Open actions are a leading indicator of launch readiness."
+      },
+      {
+        "zh": "培训完成率是一项先行指标。",
+        "en": "Training completion is a leading indicator."
+      }
+    ]
+  },
+  "V20261015-084": {
+    "gloss": "滞后指标",
+    "examples": [
+      {
+        "zh": "保修退货是现场质量的滞后指标。",
+        "en": "Warranty returns are a lagging indicator of field quality."
+      },
+      {
+        "zh": "年度投诉量是一项滞后指标。",
+        "en": "Annual complaints are a lagging indicator."
+      }
+    ]
+  },
+  "V20261015-085": {
+    "gloss": "绩效阈值",
+    "examples": [
+      {
+        "zh": "审阅数据前设定绩效阈值。",
+        "en": "Set a performance threshold before reviewing the data."
+      },
+      {
+        "zh": "越过绩效阈值就触发评审。",
+        "en": "Crossing the performance threshold triggers review."
+      }
+    ]
+  },
+  "V20261015-086": {
+    "gloss": "补救行动",
+    "examples": [
+      {
+        "zh": "错过评审后，负责人采取了补救行动。",
+        "en": "The owner took remedial action after the missed review."
+      },
+      {
+        "zh": "补救行动恢复了缺失记录。",
+        "en": "Remedial action restored the missing records."
+      }
+    ]
+  },
+  "V20261015-087": {
+    "gloss": "决策请求",
+    "examples": [
+      {
+        "zh": "在幻灯片顶部写明决策请求。",
+        "en": "State the decision request at the top of the slide."
+      },
+      {
+        "zh": "决策请求涉及增配人员。",
+        "en": "The decision request concerns extra staffing."
+      }
+    ]
+  },
+  "V20261015-088": {
+    "gloss": "状态概览",
+    "examples": [
+      {
+        "zh": "仪表板让人一眼看懂当前状态。",
+        "en": "The dashboard shows status at a glance."
+      },
+      {
+        "zh": "封面提供状态概览。",
+        "en": "The cover page gives status at a glance."
+      }
+    ]
+  },
+  "V20261015-089": {
+    "gloss": "异常报告",
+    "examples": [
+      {
+        "zh": "系统每周一生成异常报告。",
+        "en": "The system issues an exception report every Monday."
+      },
+      {
+        "zh": "异常报告列出逾期审批。",
+        "en": "The exception report lists overdue approvals."
+      }
+    ]
+  },
+  "V20261015-090": {
+    "gloss": "决策资料包",
+    "examples": [
+      {
+        "zh": "我们为指导委员会整理了决策资料包。",
+        "en": "We assembled a decision packet for the steering committee."
+      },
+      {
+        "zh": "决策资料包包含三个选项。",
+        "en": "The decision packet contains three options."
+      }
+    ]
+  },
+  "V20261015-091": {
+    "gloss": "方向性粗估",
+    "examples": [
+      {
+        "zh": "这是方向性粗估，并非最终报价。",
+        "en": "This is a directional estimate, not a final quote."
+      },
+      {
+        "zh": "方向性粗估支持早期规划。",
+        "en": "A directional estimate supports early planning."
+      }
+    ]
+  },
+  "V20261015-092": {
+    "gloss": "数量级",
+    "examples": [
+      {
+        "zh": "细化小数前，先检查数量级。",
+        "en": "First check the order of magnitude before refining decimals."
+      },
+      {
+        "zh": "误差达一个数量级。",
+        "en": "The error spans an order of magnitude."
+      }
+    ]
+  },
+  "V20261015-093": {
+    "gloss": "置信区间",
+    "examples": [
+      {
+        "zh": "报告平均值时，同时提供置信区间。",
+        "en": "Report a confidence interval with the average."
+      },
+      {
+        "zh": "数据增加后置信区间缩窄了。",
+        "en": "The confidence interval narrowed with more data."
+      }
+    ]
+  },
+  "V20261015-094": {
+    "gloss": "阈值效应",
+    "examples": [
+      {
+        "zh": "数据显示温度超过60度后存在阈值效应。",
+        "en": "The data show a threshold effect above 60 degrees."
+      },
+      {
+        "zh": "模型体现了一种阈值效应。",
+        "en": "The model captures a threshold effect."
+      }
+    ]
+  },
+  "V20261015-095": {
+    "gloss": "边际收益递减",
+    "examples": [
+      {
+        "zh": "额外检查很快就会遇到边际收益递减。",
+        "en": "Extra inspections soon face diminishing returns."
+      },
+      {
+        "zh": "增加广告最终会面临边际收益递减。",
+        "en": "More advertising eventually faces diminishing returns."
+      }
+    ]
+  },
+  "V20261015-096": {
+    "gloss": "对假设的敏感性",
+    "examples": [
+      {
+        "zh": "推荐方案前，检验结论对假设的敏感性。",
+        "en": "Test sensitivity to assumptions before recommending the option."
+      },
+      {
+        "zh": "模型对假设高度敏感。",
+        "en": "The model shows high sensitivity to assumptions."
+      }
+    ]
+  },
+  "V20261015-097": {
+    "gloss": "变异来源",
+    "examples": [
+      {
+        "zh": "班次安排可能是变异来源之一。",
+        "en": "Shift pattern may be a source of variation."
+      },
+      {
+        "zh": "温度是另一个变异来源。",
+        "en": "Temperature is another source of variation."
+      }
+    ]
+  },
+  "V20261015-098": {
+    "gloss": "实际意义",
+    "examples": [
+      {
+        "zh": "差异真实存在，但实际意义不大。",
+        "en": "The difference is real, but its practical significance is small."
+      },
+      {
+        "zh": "结合统计结果讨论实际意义。",
+        "en": "Discuss practical significance alongside statistical results."
+      }
+    ]
+  },
+  "V20261015-099": {
+    "gloss": "因果机制",
+    "examples": [
+      {
+        "zh": "提案应清楚描述因果机制。",
+        "en": "The proposal should describe the causal mechanism clearly."
+      },
+      {
+        "zh": "因果机制仍不确定。",
+        "en": "The causal mechanism remains uncertain."
+      }
+    ]
+  },
+  "V20261015-100": {
+    "gloss": "反事实问题",
+    "examples": [
+      {
+        "zh": "声称存在因果关系前，先问一个反事实问题。",
+        "en": "Ask a counterfactual question before claiming causation."
+      },
+      {
+        "zh": "反事实问题考虑没有补贴的情形。",
+        "en": "The counterfactual question considers life without the subsidy."
+      }
+    ]
+  },
+  "V20261015-101": {
+    "gloss": "叙述；讲述",
+    "examples": [
+      {
+        "zh": "作者先叙述历史，再作比较。",
+        "en": "The author recounts the history before making his comparison."
+      },
+      {
+        "zh": "她按顺序讲述了事件。",
+        "en": "She recounted the events in order."
+      }
+    ]
+  },
+  "V20261015-102": {
+    "gloss": "种种迹象表明",
+    "examples": [
+      {
+        "zh": "种种迹象表明评审将按时完成。",
+        "en": "All indications are that the review will finish on time."
+      },
+      {
+        "zh": "种种迹象表明需求正在恢复。",
+        "en": "All indications are that demand is recovering."
+      }
+    ]
+  },
+  "V20261015-103": {
+    "gloss": "正走向",
+    "examples": [
+      {
+        "zh": "没有补救步骤，项目正走向延误。",
+        "en": "Without a recovery step, the project is headed for a delay."
+      },
+      {
+        "zh": "工厂正面临即将发生的短缺。",
+        "en": "The factory is headed for a shortage."
+      }
+    ]
+  },
+  "V20261015-104": {
+    "gloss": "公民投票；总体评判",
+    "examples": [
+      {
+        "zh": "这次选举变成了对领导人政绩的总体评判。",
+        "en": "The election became a referendum on the leader's record."
+      },
+      {
+        "zh": "城市就计划举行了公民投票。",
+        "en": "The city held a referendum on the plan."
+      }
+    ]
+  },
+  "V20261015-105": {
+    "gloss": "被操纵的",
+    "examples": [
+      {
+        "zh": "声称流程被操纵需要有力证据。",
+        "en": "A claim that a process was rigged requires strong evidence."
+      },
+      {
+        "zh": "他们指称投标被操纵了。",
+        "en": "They alleged that the bidding was rigged."
+      }
+    ]
+  },
+  "V20261015-106": {
+    "gloss": "推翻结果",
+    "examples": [
+      {
+        "zh": "在无证据情况下，法院拒绝推翻结果。",
+        "en": "The court refused to overturn the results without evidence."
+      },
+      {
+        "zh": "上诉试图推翻结果。",
+        "en": "The appeal sought to overturn the results."
+      }
+    ]
+  },
+  "V20261015-107": {
+    "gloss": "绝不；远非",
+    "examples": [
+      {
+        "zh": "评审有用，但远未完成。",
+        "en": "The review is useful but by no means complete."
+      },
+      {
+        "zh": "维修绝不简单。",
+        "en": "The repair is by no means simple."
+      }
+    ]
+  },
+  "V20261015-108": {
+    "gloss": "保有……的能力",
+    "examples": [
+      {
+        "zh": "团队保有响应紧急需求的能力。",
+        "en": "The team retains the capacity to respond to urgent demand."
+      },
+      {
+        "zh": "我们保有增加班次的能力。",
+        "en": "We retain the capacity to add shifts."
+      }
+    ]
+  },
+  "V20261015-109": {
+    "gloss": "使遭受",
+    "examples": [
+      {
+        "zh": "仓促变更可能严重损害信任。",
+        "en": "A rushed change could inflict serious damage on trust."
+      },
+      {
+        "zh": "停电造成了重大损失。",
+        "en": "The outage inflicted heavy losses."
+      }
+    ]
+  },
+  "V20261015-110": {
+    "gloss": "即将发生的",
+    "examples": [
+      {
+        "zh": "供应商警告我们即将发生供应中断。",
+        "en": "The supplier warned us about an impending disruption."
+      },
+      {
+        "zh": "为即将到来的检查作准备。",
+        "en": "Prepare for the impending inspection."
+      }
+    ]
+  },
+  "V20261015-111": {
+    "gloss": "反映技术问题",
+    "examples": [
+      {
+        "zh": "信号缺失可能反映技术问题。",
+        "en": "The missing signal may reflect a technical problem."
+      },
+      {
+        "zh": "反复故障可能反映技术问题。",
+        "en": "The repeated failure may reflect a technical problem."
+      }
+    ]
+  },
+  "V20261015-112": {
+    "gloss": "因某行为惩罚某人",
+    "examples": [
+      {
+        "zh": "不要因为员工及早报告问题而惩罚他们。",
+        "en": "Do not punish people for reporting problems early."
+      },
+      {
+        "zh": "他们因他无视指示而惩罚他。",
+        "en": "They punished him for ignoring instructions."
+      }
+    ]
+  },
+  "V20261015-113": {
+    "gloss": "恶意报复行为",
+    "examples": [
+      {
+        "zh": "作者将破坏描述为恶意报复行为。",
+        "en": "The author describes the destruction as an act of spite."
+      },
+      {
+        "zh": "删除文件是一种恶意报复行为。",
+        "en": "Deleting the files was an act of spite."
+      }
+    ]
+  },
+  "V20261015-114": {
+    "gloss": "未来趋势的预兆",
+    "examples": [
+      {
+        "zh": "试点可能预示未来趋势。",
+        "en": "The pilot may show the shape of things to come."
+      },
+      {
+        "zh": "这次试验暗示未来的发展趋势。",
+        "en": "This trial hints at the shape of things to come."
+      }
+    ]
+  },
+  "V20261015-115": {
+    "gloss": "国家象征",
+    "examples": [
+      {
+        "zh": "这座建筑被视为国家象征。",
+        "en": "The building is regarded as a national icon."
+      },
+      {
+        "zh": "纪念碑成为了国家象征。",
+        "en": "The monument became a national icon."
+      }
+    ]
+  },
+  "V20261015-116": {
+    "gloss": "……主导的时期",
+    "examples": [
+      {
+        "zh": "突如其来的政策变化带来了一段不确定时期。",
+        "en": "The sudden policy changes created a reign of uncertainty."
+      },
+      {
+        "zh": "审计结束了保密主导的时期。",
+        "en": "The audit ended a reign of secrecy."
+      }
+    ]
+  },
+  "V20261015-117": {
+    "gloss": "援引",
+    "examples": [
+      {
+        "zh": "法院在判决中援引了一项法律原则。",
+        "en": "The court invoked a legal principle in its ruling."
+      },
+      {
+        "zh": "买方援引了取消条款。",
+        "en": "The buyer invoked the cancellation clause."
+      }
+    ]
+  },
+  "V20261015-118": {
+    "gloss": "不受约束的",
+    "examples": [
+      {
+        "zh": "任何经理都不应拥有不受约束的付款权力。",
+        "en": "No manager should have untrammeled authority over payments."
+      },
+      {
+        "zh": "提案给予董事不受约束的裁量权。",
+        "en": "The proposal gives directors untrammeled discretion."
+      }
+    ]
+  },
+  "V20261015-119": {
+    "gloss": "爪牙；奴才",
+    "examples": [
+      {
+        "zh": "minion一词显示作者强烈的负面立场。",
+        "en": "The word minion signals the author's strongly negative stance."
+      },
+      {
+        "zh": "他把唯命是从的助手称为爪牙。",
+        "en": "He called the obedient aides minions."
+      }
+    ]
+  },
+  "V20261015-120": {
+    "gloss": "消极顺从的",
+    "examples": [
+      {
+        "zh": "社论批评了委员会消极顺从的回应。",
+        "en": "The editorial criticized the committee's supine response."
+      },
+      {
+        "zh": "批评者称董事会消极顺从。",
+        "en": "Critics described the board as supine."
+      }
+    ]
+  },
+  "V20261015-121": {
+    "gloss": "协助并唆使",
+    "examples": [
+      {
+        "zh": "明知而协助可能构成帮助和唆使不法行为。",
+        "en": "A person who knowingly helps may aid and abet wrongdoing."
+      },
+      {
+        "zh": "他们被指控协助并唆使欺诈。",
+        "en": "They were accused of aiding and abetting fraud."
+      }
+    ]
+  },
+  "V20261015-122": {
+    "gloss": "党派多数派",
+    "examples": [
+      {
+        "zh": "作者将法院描绘为按党派立场行动的多数派。",
+        "en": "The author portrays the court as a partisan majority."
+      },
+      {
+        "zh": "党派多数派阻止了修正案。",
+        "en": "A partisan majority blocked the amendment."
+      }
+    ]
+  },
+  "V20261015-123": {
+    "gloss": "在法律允许的最大范围内",
+    "examples": [
+      {
+        "zh": "通知称，违规行为可能受到法律最大限度的追究。",
+        "en": "The notice says violations may be pursued to the full extent of the law."
+      },
+      {
+        "zh": "他们寻求法律允许的最大限度赔偿。",
+        "en": "They sought damages to the full extent of the law."
+      }
+    ]
+  },
+  "V20261015-124": {
+    "gloss": "执行命令",
+    "examples": [
+      {
+        "zh": "官员拒绝执行违法命令。",
+        "en": "Officials refused to carry out an unlawful order."
+      },
+      {
+        "zh": "员工执行了疏散命令。",
+        "en": "Staff carried out the evacuation order."
+      }
+    ]
+  },
+  "V20261015-125": {
+    "gloss": "故意地",
+    "examples": [
+      {
+        "zh": "作者认为这是有意作出的选择。",
+        "en": "The author argues that the choice was made deliberately."
+      },
+      {
+        "zh": "有人故意篡改了记录。",
+        "en": "Someone deliberately altered the records."
+      }
+    ]
+  }
+}
