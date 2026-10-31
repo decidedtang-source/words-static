@@ -1,5 +1,10 @@
 # UI-V3 总规划与执行入口
 
+## 新增内容质量要求：Semantic Bridge
+
+阅读 [SEMANTIC-BRIDGE.md](SEMANTIC-BRIDGE.md)。它要求词典义项、当前选义、语义分解、词组组合、原句解释与语言实践之间有可说明的连续推导。working definition 是完整金样；当前五项旧审核回执不自动覆盖按新标准修改后的内容，任何候选改动须重新计算hash并独立复审。
+
+
 日期：2026-11-01（Asia/Taipei）。状态：**READY_FOR_OWNER_REVIEW**。
 已接受的设计不需要重复确认；本轮已完成V3候选实现及自动验证；未部署V3，实机UAT待Owner。详见 [DELIVERY](DELIVERY.md)。
 
