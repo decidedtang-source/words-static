@@ -1,5 +1,9 @@
 # UI-V3 总规划与执行入口
 
+## Semantic Bridge 已按项目指令收敛为四部分
+
+[SEMANTIC-BRIDGE.md](SEMANTIC-BRIDGE.md) 是既有 Project Instructions 的网页简化版，不是替代框架。展示结构统一为四部分：① Dictionary；② Memory + Semantic Connection；③ Context（Syntax / Concept / Contrast）；④ Language Game（English Neighbors / Pragmatic Action / Workplace Use）。**一个目标词组只做一套完整四部分分析**；组成词只作为解释整体意义的支点，不为每个词分别复制四部分。V3 schema 允许4–5组 displayGroups，默认优先四组；不得因分组数量而删掉原项目步骤。
+
 ## 新增内容质量要求：Semantic Bridge
 
 阅读 [SEMANTIC-BRIDGE.md](SEMANTIC-BRIDGE.md)。它要求词典义项、当前选义、语义分解、词组组合、原句解释与语言实践之间有可说明的连续推导。working definition 是完整金样；当前五项旧审核回执不自动覆盖按新标准修改后的内容，任何候选改动须重新计算hash并独立复审。
