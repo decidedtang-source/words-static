@@ -1,5 +1,10 @@
 # V3 QA与验收矩阵
 
+## Q2 新增：Semantic Bridge 连续性
+
+按 [SEMANTIC-BRIDGE.md](SEMANTIC-BRIDGE.md) 做逐卡审查：词典事实→语境选义→义项内部语义分解→组合/句法关系→原句含义→交际动作。每个转换都必须说明为什么成立；只在每段各自正确但中间逻辑跳跃，判为 REVISE。对 working definition，必须解释 adopted / temporary basis / further work 如何共同支持“当前采用的工作依据”，再说明 working 修饰 definition 后如何形成当前组合义；不能只写 working=暂时的。修改已审内容后，旧 candidateHash/回执不再适用，必须独立复审。
+
+
 本文件是待执行标准，不是PASS报告。实际候选执行结果见DELIVERY.md；生产V3未发布，实机UAT待验。
 
 | Gate | 必须验证 | 失败处理 |
