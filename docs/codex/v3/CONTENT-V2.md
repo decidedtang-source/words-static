@@ -1,5 +1,12 @@
 # V3 数据合同增量 — 候选已实现
 
+## 内容连续性要求：Semantic Bridge
+
+v2 当前 presentation 字段提供 displayGloss、contextSenseRefs 与 contextTakeaway，但**没有独立的 semanticBridge 字段**。当前先把桥接作为 Writer/Reviewer 的必需内容标准：在 g1 明确完成“词典所选义项→语义分解→组合意义”，g2 接续解释当前句法/概念，g3–g5 继续承接，而不是各写各的。完整示例见 [SEMANTIC-BRIDGE.md](SEMANTIC-BRIDGE.md)。
+
+本轮不应为了增加字段而立即升级 schema 或重做 UI。如果后续确实需要将桥接步骤结构化，须另提 schema 设计、迁移兼容、逐阶段证据和独立回执版本变更；不可把新增字段默认视为内容质量已经改善。
+
+
 候选并行支持v1和v2；新增schema与独立v2回执，不覆写旧v1回执。真实批次见content/reviewed/v3-goldens.json；证据见DELIVERY.md。
 
 ## 最小新增对象
