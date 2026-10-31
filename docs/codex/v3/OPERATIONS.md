@@ -1,5 +1,13 @@
 # 内容更新、Agent分工与发布运行手册
 
+## Writer 内容合同更新：四部分完整框架＋整体分析单位
+
+请严格遵循 [SEMANTIC-BRIDGE.md](SEMANTIC-BRIDGE.md)，并以 [CHATGPT_PROJECT_INSTRUCTIONS.md](../../CHATGPT_PROJECT_INSTRUCTIONS.md) 为上位教学框架。简析统一按四部分生成：① Dictionary；② Memory + Semantic Connection；③ Context（Syntax→Concept→Contrast）；④ Language Game（English Neighbors→Pragmatic Action→Workplace Use）。信息量可短，但原项目所有核心步骤都必须在四部分中实际体现。
+
+**分析单位是整个用户目标**。如 working definition，先把整个词组作为一个学习对象；第一部分引用 working/definition 的必要词性和义项，第二部分解释所选 working 义如何修饰 definition 并形成整体意义，第三、四部分继续分析整个词组在原句中的含义和作用。不得为 working 和 definition 各自分别写一套一二三四，再拼接起来。习语先讲整体义；技术术语以整个术语为单位；整句以整句为单位。
+
+当前 V3 的 displayGroups schema 允许4–5组，优先生成四组；如某条确实需要第五组，只能为可读性拆分，不能增加或删减分析步骤。新要求不自动增加 UI 或 JSON 字段。
+
 ## Writer 新增要求：Semantic Bridge
 
 每条候选必须按 [SEMANTIC-BRIDGE.md](SEMANTIC-BRIDGE.md) 说明从词典义项到当前用法的连续路径。至少回答：为什么选这个义项、义项内部哪些语义成分重要、它如何与词组/句法结构组合、原句如何进一步限定意义。五组显示内容之间也必须承接前一组的结论。只列义项和五段彼此独立的正确说明，仍应退回 REVISE。新要求不自动增加 UI 或 JSON 字段；先用现有 presentation 与 g1–g5 写出真实桥接，再由 Owner 审阅是否需要结构化字段。
