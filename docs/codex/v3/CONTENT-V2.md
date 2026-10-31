@@ -1,6 +1,6 @@
-# V3 数据合同增量 — 设计规格，尚未实现
+# V3 数据合同增量 — 候选已实现
 
-当前可运行合同仍是 ../CONTENT-CONTRACT.md 的v1。现有schemas不得在本次规划中直接改成v2；旧审核回执保持原字节与历史含义。
+候选并行支持v1和v2；新增schema与独立v2回执，不覆写旧v1回执。真实批次见content/reviewed/v3-goldens.json；证据见DELIVERY.md。
 
 ## 最小新增对象
 

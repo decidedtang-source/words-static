@@ -1,4 +1,7 @@
 {
   "schema": 1,
-  "manifests": ["content/manifests/2026-10-31-goldens.json"]
+  "manifests": [
+    "content/manifests/2026-10-31-goldens.json",
+    "content/manifests/v3-goldens.json"
+  ]
 }

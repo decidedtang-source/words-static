@@ -1,6 +1,6 @@
 # Codex working contract — Words Static / English Vocabulary
 
-**Status: UI-V3 design is Owner-approved and registered; current assignment is full V3 planning/document consolidation. Runtime V3 integration is pending; release remains separately gated.**
+**Status: UI-V3 design is Owner-approved and registered; V3 candidate implementation is complete pending Owner UAT; release remains separately gated.**
 
 This repository is the user's **official vocabulary website**, published at https://decidedtang-source.github.io/words-static/ . Its **main** branch triggers GitHub Pages deployment. Do not switch the product to the separate experimental Node/SQLite app, invent a second daily generator, or treat documentation commits as product delivery.
 
@@ -11,7 +11,7 @@ This repository is the user's **official vocabulary website**, published at http
 ## Before doing any work
 
 1. Read **docs/CURRENT_OFFICIAL_BASELINE.md** and **README.md**.
-2. Read **docs/codex/START-HERE.md**, **docs/codex/v3/README.md** and their current product/contract/implementation/QA links; distinguish implemented v1 schemas from planned v2.
+2. Read **docs/codex/START-HERE.md**, **docs/codex/v3/README.md** and their current product/contract/implementation/QA links; distinguish preserved v1 schemas from implemented v2.
 3. Inspect the current code rather than presuming all planned features exist: **src/app.mjs**, **src/lexical-ui.mjs**, **src/lexical.mjs**, **src/copy.mjs**, **scripts/update-vocabulary.mjs**, **scripts/enrich-vocabulary.mjs**, **scripts/build.mjs**, **dictionary/catalog.json**, **dictionary/bridges.json**, and the tests.
 4. Check current main SHA / Pages status and PR/issue changes before declaring a requirement complete; recorded baselines (1,875 cards, 21 OEWN headwords, 40 senses) are historical snapshots, **not permanent limits**.
 5. For new content, use only input the user has authorized, retain selection provenance privately, and never publish private Notion links, customer records, notes, credentials, or personal data.
@@ -27,7 +27,7 @@ This repository is the user's **official vocabulary website**, published at http
 
 ## Delivery and approval gates
 
-**Current assignment is V3 planning consolidation.** The next implementation authority is docs/codex/v3/IMPLEMENTATION-PLAN.md, not the historical P1–P3 checklist. On explicit execution of that plan, complete Tasks 1–5 in an isolated branch. Use a Draft PR and retain explicit review evidence. Another release approval is required before anything reaches **main** (which auto-publishes). P4, new automation and any Notion connector need separate scope review.
+**Current assignment executed V3 Tasks 1–5 on the candidate branch; see docs/codex/v3/DELIVERY.md for evidence and remaining UAT.** The next implementation authority is docs/codex/v3/IMPLEMENTATION-PLAN.md, not the historical P1–P3 checklist. On explicit execution of that plan, complete Tasks 1–5 in an isolated branch. Use a Draft PR and retain explicit review evidence. Another release approval is required before anything reaches **main** (which auto-publishes). P4, new automation and any Notion connector need separate scope review.
 
 Do not claim PASS when only prose, source templates, mock screenshots, static tests or a draft workflow exist. Report **IMPLEMENTED / PARTIAL / NOT_VERIFIED / BLOCKED / NOT_STARTED** with evidence and a specific next step.
 

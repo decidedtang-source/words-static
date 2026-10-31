@@ -18,7 +18,7 @@ export function buildReviewedBatch({baseVocabulary,baseVocabularyBytes=jsonBytes
  vocabulary.batches.sort((a,b)=>a.date.localeCompare(b.date));vocabulary.updated=vocabulary.batches.at(-1)?.date||baseVocabulary.updated;
  const bundle=createContentBundle({vocabulary,analysis,catalog,previous:previousManifest,retiredIds});
  const reviewed=Object.keys(bundle.analysis.entries).filter(id=>!bundle.manifest.retiredIds.includes(id)).length;
- return {vocabulary,analysis:bundle.analysis,catalog,contentManifest:bundle.manifest,files:bundle.files,coverage:{total:vocabulary.words.length,dictionary:reviewed,analysis:reviewed,copy:reviewed},batchId:projection.batchId};
+ return {vocabulary,analysis:bundle.analysis,catalog,contentManifest:bundle.manifest,files:bundle.files,coverage:{total:vocabulary.words.length,dictionary:reviewed,analysis:reviewed,copy:reviewed,contextSenseBound:Object.values(bundle.analysis.entries).filter(a=>a.presentation&&!bundle.manifest.retiredIds.includes(a.cardId)).length},batchId:projection.batchId};
 }
 function publicPath(root,path,prefix){if(typeof path!=='string'||!path.startsWith(prefix)||path.includes('..')||path.includes('\\')||!path.endsWith('.json'))throw Error('Invalid public input path');const full=resolve(root,path);if(!full.startsWith(resolve(root)+requireSeparator()))throw Error('Path escapes repo');return full;}
 function requireSeparator(){return process.platform==='win32'?'\\':'/'}
@@ -30,7 +30,7 @@ export function loadReviewedRelease(root=process.cwd(),manifestPaths=null){
   result=buildReviewedBatch({baseVocabulary:vocabulary,baseVocabularyBytes:vocabularyBytes,baseAnalysis:analysis,baseCatalog:catalog,manifest,approvedProjection:readFileSync(publicPath(root,manifest.projectionPath,'content/reviewed/')),receipt:read(publicPath(root,manifest.receiptPath,'content/reviews/')),sourceManifest:read(publicPath(root,manifest.sourcePath,'content/sources/')),previousManifest:previous});
   vocabulary=result.vocabulary;vocabularyBytes=jsonBytes(vocabulary);analysis=result.analysis;catalog=result.catalog;previous=result.contentManifest;
  }
- if(!result){const bundle=createContentBundle({vocabulary,analysis,catalog});result={vocabulary,analysis:bundle.analysis,catalog,contentManifest:bundle.manifest,files:bundle.files,coverage:{total:vocabulary.words.length,dictionary:0,analysis:0,copy:0}};}
+ if(!result){const bundle=createContentBundle({vocabulary,analysis,catalog});result={vocabulary,analysis:bundle.analysis,catalog,contentManifest:bundle.manifest,files:bundle.files,coverage:{total:vocabulary.words.length,dictionary:0,analysis:0,copy:0,contextSenseBound:0}};}
  return result;
 }
 if(process.argv[1]&&import.meta.url===pathToFileURL(process.argv[1]).href){

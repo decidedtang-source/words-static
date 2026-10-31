@@ -13,5 +13,5 @@ export async function startSite(initial=loadReviewedRelease()){
  });
  await new Promise(r=>server.listen(0,'127.0.0.1',r));return {server,url:`http://127.0.0.1:${server.address().port}/words-static/`,setRelease(value){release=value;},setMode(value){mode=value;},close:()=>new Promise(r=>server.close(r))};
 }
-export const executablePath=process.env.CHROMIUM_PATH||(process.env.LOCALAPPDATA+'/ms-playwright/chromium-1234/chrome-win64/chrome.exe');
+export const executablePath=process.env.CHROMIUM_PATH||undefined;
 export const snapshot=page=>page.evaluate(()=>new Promise((resolve,reject)=>{const r=indexedDB.open('words-static-v1',1);r.onsuccess=()=>{const db=r.result,q=db.transaction('state').objectStore('state').get('current');q.onsuccess=()=>{resolve(q.result||null);db.close()};q.onerror=reject}}));

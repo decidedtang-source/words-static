@@ -8,7 +8,7 @@
 
 **Tech Stack:** 现有Node 24、JavaScript ESM、esbuild、ts-fsrs 6.0.0、IndexedDB、node:test、Playwright；不新增服务端或付费API。
 
-**Spec:** [PRODUCT](PRODUCT.md)、[CONTENT-V2](CONTENT-V2.md)、[冻结V3](../../design/words-ui-v3/README.md)。状态：计划可执行，Task 1–6均未执行。
+**Spec:** [PRODUCT](PRODUCT.md)、[CONTENT-V2](CONTENT-V2.md)、[冻结V3](../../design/words-ui-v3/README.md)。状态：Tasks1–4实现完成；Task5工程验证完成、Owner实机UAT待验；Task6未执行。逐项证据以DELIVERY.md及EXECUTION-LEDGER.md为准，以下保留原始执行检查单。
 
 ## Global Constraints
 

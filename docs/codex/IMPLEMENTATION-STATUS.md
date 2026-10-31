@@ -1,6 +1,6 @@
 # P1–P3 implementation — READY_FOR_OWNER_REVIEW
 
-**规划整理完成：见 [V3总规划](v3/README.md)。下方30/9为旧P1–P3历史结果，不是V3运行验收。Task1–6尚未执行。**
+**当前V3候选已实现，详见 [V3交付与QA](v3/DELIVERY.md)。下方P1–P3内容为历史记录，不替代V3证据；main/Pages未发布。**
 
 **2026-11-01：新版 UI-V3 已获 Owner 正式确认并注册。** [以此冻结版为实施基线](../design/words-ui-v3/README.md)。V1/V2 布局被取代；此前候选运行代码尚待整合 V3，历史测试不代表 V3 已上线。
 

@@ -28,3 +28,4 @@ test('second-batch CLI replays explicit predecessors for add revise and withdraw
   }finally{rmSync(root,{recursive:true,force:true})}
  }
 });
+test('real mixed v1-v2 chain keeps all cards, binds five contexts and changes display identity',()=>{const first=loadReviewedRelease(process.cwd(),['content/manifests/2026-10-31-goldens.json']),both=loadReviewedRelease(process.cwd(),['content/manifests/2026-10-31-goldens.json','content/manifests/v3-goldens.json']);assert.deepEqual(both.vocabulary,first.vocabulary);assert.equal(both.coverage.contextSenseBound,5);for(const id of Object.keys(both.analysis.entries)){assert.notEqual(both.contentManifest.renderHashes[id],first.contentManifest.renderHashes[id]);}assert.deepEqual(both,loadReviewedRelease(process.cwd(),['content/manifests/2026-10-31-goldens.json','content/manifests/v3-goldens.json']));});

@@ -1,6 +1,6 @@
 # V3 QA与验收矩阵
 
-本文件是待执行标准，不是PASS报告。唯一已完成的是V3设计接受、原样预览登记和历史尺寸模拟；生产V3尚未实施。
+本文件是待执行标准，不是PASS报告。实际候选执行结果见DELIVERY.md；生产V3未发布，实机UAT待验。
 
 | Gate | 必须验证 | 失败处理 |
 |---|---|---|
@@ -18,7 +18,7 @@
 |---|---|---|
 | A shift | 当前句的名词班次义 | 其他名词/动词义在展开中，不能当作本句义 |
 | B working definition | working暂定基础义+definition意义说明义 | 六个已选义项可展开；组合解释标明；不自动拼入work |
-| C outcome framing | 审核后的名词framing及相关组成词 | 不把名词framing全都当进行时动词 |
+| C outcome framing | 审核后的frame表达动词义作为名词化组成依据 | 不把名词framing全都当进行时动词 |
 | D take into account | 存在的整短语义 | 不通过银行account推导含义 |
 | E functional seating surface | 缺工程证据，隔离样例待核 | 不进入active批次，不伪造术语定义 |
 | F 条件排程句 | 句子翻译+经审关键词义项 | whether语法解释不是伪造OEWN词条；by Friday包含周五 |

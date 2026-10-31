@@ -1,3 +1,6 @@
+import batchV2 from '../schemas/reviewed-batch-v2.schema.json' with {type:'json'};
+import receiptV2 from '../schemas/content-review-v2.schema.json' with {type:'json'};
+import {resolvePresentation} from '../src/presentation.mjs';
 import {createHash} from 'node:crypto';
 import {readFileSync} from 'node:fs';
 import {pathToFileURL} from 'node:url';
@@ -15,7 +18,7 @@ export function validateReviewedContent({projectionBytes,receipt,sourceManifest,
   check(projectionBytes.byteLength<=500*1024,'Projection exceeds 500KiB');
   const text=new TextDecoder('utf-8',{fatal:true}).decode(projectionBytes);projection=JSON.parse(text);
   check(Buffer.from(projectionBytes).equals(jsonBytes(projection)),'Projection must be canonical UTF-8 LF bytes');
-  checkSchema(projection,batchSchema,'projection',errors);checkSchema(receipt,receiptSchema,'receipt',errors);
+  const v2=projection.schema===2;checkSchema(projection,v2?batchV2:batchSchema,'projection',errors);checkSchema(receipt,v2?receiptV2:receiptSchema,'receipt',errors);check(receipt.rulesVersion===('reviewed-content-v'+projection.schema),'Unsupported rule version');
   if(errors.length)return {ok:false,errors,coverage:null};
   safeText(projection);
   const candidateHash=sha256(projectionBytes);
@@ -67,6 +70,7 @@ export function validateReviewedContent({projectionBytes,receipt,sourceManifest,
    else{check(analyses.has(op.cardId),'Missing analysis');if(op.operation==='analysis-only')check(existing.has(op.cardId)&&!cards.has(op.cardId),'Invalid analysis-only operation');}
   }
   check(Object.keys(receipt.stages).length===analyses.size,'Receipt contains unselected stage reviews');
+  if(projection.schema===2){check(Object.keys(receipt.presentationChecks).length===analyses.size,'Unexpected presentation reviews');for(const a of projection.analysis){check(resolvePresentation({card:cards.get(a.cardId)||existing.get(a.cardId),analysis:a,catalog:{entries:projection.dictionaryEntries}}).status==='reviewed','Invalid context sense binding');check(['displayGloss','contextSenseRefs','contextTakeaway'].every(k=>receipt.presentationChecks[a.cardId]?.[k]==='PASS'),'Presentation not reviewed');}}
  }catch(e){errors.push(e.message)}
  return {ok:errors.length===0,errors,coverage:errors.length?null:{dictionary:projection.analysis.length,analysis:projection.analysis.length,copy:projection.analysis.length}};
 }

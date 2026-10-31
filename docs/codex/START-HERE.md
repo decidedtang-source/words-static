@@ -1,6 +1,6 @@
 # 从这里开始 — Words Static UI-V3
 
-**唯一当前计划：[V3总入口](v3/README.md)。** Owner已确认设计，不再重复V1/V2讨论。V3运行整合仍未开始；本轮是规划整理。
+**唯一当前计划：[V3总入口](v3/README.md)。** Owner已确认设计，不再重复V1/V2讨论。V3已接入候选应用；见 [交付与QA证据](v3/DELIVERY.md)。正式发布仍待G2。
 
 先读仓库AGENTS与[正式产品基线](../CURRENT_OFFICIAL_BASELINE.md)，再按以下顺序：
 

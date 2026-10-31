@@ -1,7 +1,7 @@
 # UI-V3 总规划与执行入口
 
-日期：2026-11-01（Asia/Taipei）。状态：**PLAN_READY_FOR_OWNER_REVIEW**。
-已接受的设计不需要重复确认；本轮完成规划整理，没有实施或部署 V3。
+日期：2026-11-01（Asia/Taipei）。状态：**READY_FOR_OWNER_REVIEW**。
+已接受的设计不需要重复确认；本轮已完成V3候选实现及自动验证；未部署V3，实机UAT待Owner。详见 [DELIVERY](DELIVERY.md)。
 
 ## 唯一权威与实际状态
 
@@ -15,14 +15,14 @@
 | 正式网站 | GitHub Pages；main cfa2ecc19fddf2fac7508c642f8580b1b5a85838 | 本机服务器只供开发预览 |
 | P1–P3候选 | PR #5，内容构建1878卡，5项独立审核，历史30单元/9浏览器通过 | 不等于V3实现通过，不等于全词库审核 |
 | V3设计 | Owner已接受，已在GitHub登记，六种尺寸模拟 | 非macOS/iOS实机验收 |
-| V3运行整合 | NOT_STARTED；src仍是旧的全义项直显布局 | 不得把静态HTML复制到dist当交付 |
-| 本轮 | 文档、可执行计划、验收/分工/运行手册整理 | 未变更src、schemas、内容批次、main或任务 |
+| V3运行整合 | IMPLEMENTED；共享组件已接入真实学习/查词 | 不得把静态HTML复制到dist当交付 |
+| 本轮 | 版本化合同、共享布局、五卡批次、自动QA和独立审查 | 未改main、Pages发布任务、Notion或定时任务 |
 
 ## 阅读路径
 
 - [PRODUCTION-AUDIT.md](PRODUCTION-AUDIT.md)：正式线上1875卡证据、生产与QA实际缺口。
 - [PRODUCT.md](PRODUCT.md)：目标、布局、三种页面状态、降级与适配。
-- [CONTENT-V2.md](CONTENT-V2.md)：拟实施的版本化语境义项绑定与审核合同；v2目前不是可运行schema。
+- [CONTENT-V2.md](CONTENT-V2.md)：已实施的v2语境义项绑定与审核合同；v1回执仍严格保留。
 - [IMPLEMENTATION-PLAN.md](IMPLEMENTATION-PLAN.md)：Task 1–6，文件/接口/失败测试/依赖/回滚。
 - [OPERATIONS.md](OPERATIONS.md)：选词、Writer、独立Reviewer、构建、发布与ChatGPT手动交接。
 - [QA.md](QA.md)：六设备、旧记录、异步与回滚矩阵和Owner验收表。
@@ -33,6 +33,6 @@
 
 Task 1合同 → Task 2共享渲染 → Task 3真实学习集成；Task 4五项内容迁移依赖Task 1并与Task 2/3集成；Task 5总验收依赖1–4；Task 6发布依赖5及明确G2。
 
-下一业务节点是**按本计划实施V3分支集成**，而不是再设计V1/V2。本轮未消耗发布授权。后续Owner一句明确的“执行此计划”即可按Task 1–5推进，不为每个常规步骤重复请示；main/Pages发布仍需G2。
+下一业务节点是Owner验收真实候选并决定G2发布。Tasks1–4完成；Task5工程验证完成、实机UAT待验；Task6未执行。
 
 保留GitHub Pages、稳定ID、FSRS、学习记录与双备份。Notion仅选词；历史整理、71深析页、旧发布器/定时任务及云盘均暂停变更。自动跨设备进度同步、私有账户与服务端不在V3内。
