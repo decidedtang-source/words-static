@@ -1,5 +1,9 @@
 # UI-V3 产品规格
 
+## 简要解析的固定四部分结构
+
+简析遵循项目指令完整流程，但压缩为四部分：**① Dictionary；② Memory + Semantic Connection；③ Context（Syntax / Concept / Contrast）；④ Language Game（English Neighbors / Pragmatic Action / Workplace Use）**。四部分是展示分组，不是删减原步骤。一个词组始终作为一个完整目标解释；组成词义项只在帮助推导整体词组意义时出现，不为每个组成词分别重复四阶段。默认使用四个displayGroups；现有schema允许4–5组，只有为可读性确有必要时才拆为五组。
+
 ## 内容呈现的连续性
 
 五组分析不是五个互不相关的栏目。g1 应把当前词典义项推导到组合/记忆意义；g2 从该意义解释句法与概念；g3 比较与该意义真正相邻的表达；g4 由原句含义推导交际动作；g5 提供沿用同一意义的实际表达。必须显式解释组与组之间的关系。具体方法和 working definition 样例见 [SEMANTIC-BRIDGE.md](SEMANTIC-BRIDGE.md)。
