@@ -1,5 +1,10 @@
 # V3 candidate delivery — READY_FOR_OWNER_REVIEW
 
+## Latest Owner content-direction update (2026-11-01)
+
+Owner has clarified that the concise analysis must preserve the entire original Project Instructions, compressed into four unified parts; the whole phrase is one analysis unit. See [SEMANTIC-BRIDGE.md](SEMANTIC-BRIDGE.md), [OPERATIONS.md](OPERATIONS.md) and [QA.md](QA.md). This is a **new content-quality requirement**, not a UI redesign. The earlier five-entry independent approval applies only to its exact old candidate hash. **Working definition and the other four entries have not yet been re-reviewed against the new four-part/whole-phrase bridge standard**. PR #5 remains awaiting this content revision and Owner UAT; no production release implied.
+
+
 Date: 2026-11-01. Official product remains GitHub Pages words-static. This is the actual application candidate in Draft PR #5, not a replacement local product. Main remains cfa2ecc19fddf2fac7508c642f8580b1b5a85838; G2 absent; Task6 NOT_STARTED.
 
 ## Delivered
