@@ -1,5 +1,13 @@
 # V3 QA与验收矩阵
 
+## 新增 Q2：项目指令一致性与整体分析单位
+
+按 [SEMANTIC-BRIDGE.md](SEMANTIC-BRIDGE.md) 检查：四部分必须依次为 Dictionary → Memory/Semantic Connection → Context(Syntax/Concept/Contrast) → Language Game(English Neighbors/Pragmatic Action/Workplace Use)。这四部分必须实际覆盖原项目指令所有核心环节；篇幅短不等于删掉方法。
+
+对于词组，**一个完整词组是一条分析对象、一套四部分解释**。例如 working definition 不允许分别给 working 写四段、definition 写四段，再另写组合结论。可以在 Dictionary 段分别引用两个组成词的相关义项，但 Memory/Bridge 段必须把两者如何组合解释成一个整体；后两段也都围绕整个词组。固定习语先讲整体意义，句子以整句为分析单位。
+
+QA FAIL：缺失原项目步骤；拆词重复生成多套完整流程；只有组件义项列表而没有整体意义桥；g2/g3/g4各自正确却与整体目标脱节。QA PASS：四部分连贯，读者能从词典依据推导到整体词组含义，再理解原句与实践作用。schema允许4–5 displayGroups，默认4组；第五组仅可作可读性拆分，不能当作额外步骤。
+
 ## Q2 新增：Semantic Bridge 连续性
 
 按 [SEMANTIC-BRIDGE.md](SEMANTIC-BRIDGE.md) 做逐卡审查：词典事实→语境选义→义项内部语义分解→组合/句法关系→原句含义→交际动作。每个转换都必须说明为什么成立；只在每段各自正确但中间逻辑跳跃，判为 REVISE。对 working definition，必须解释 adopted / temporary basis / further work 如何共同支持“当前采用的工作依据”，再说明 working 修饰 definition 后如何形成当前组合义；不能只写 working=暂时的。修改已审内容后，旧 candidateHash/回执不再适用，必须独立复审。
