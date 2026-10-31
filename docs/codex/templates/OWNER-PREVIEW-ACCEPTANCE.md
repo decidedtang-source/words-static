@@ -1,34 +1,18 @@
-# Template — Owner preview acceptance for Words Static UI
+# V3真实实现验收单
 
-User reviews a **preview**, not a production Pages release.
+设计基线WORDS-STATIC-UI-V3已接受；本单验收运行实现，不重复确认设计。
 
-PR / preview link: [URL]
-Main baseline SHA protected: [SHA]
-Preview commit SHA: [SHA]
-Date/device/browser: [details]
-Preview contents: [six golden cases + type and source statuses]
+Candidate SHA / base / releaseId:
+实际设备、OS、浏览器、日期:
 
-## Readability/learning fit
+- [ ] 短义醒目，当前语境词典义项立即可读；本句理解就近。
+- [ ] 更多已核义项默认收起、可展开收起；完整方法解析仍可读。
+- [ ] 正面不泄答案；揭晓、三档评分、撤销、发音保持可用。
+- [ ] 顶底双复制一致且不评分；失败可手工复制。
+- [ ] 六设备适配/真实实机状态明确，长句与固定栏不遮内容。
+- [ ] legacy/无语境/缺证据/撤回状态诚实；五卡通过不代表全历史。
+- [ ] 学习与收藏备份、原ID和事件保持；不要求本机服务器或Notion迁移。
 
-- [ ] Looks and functions like a mature vocabulary app, not a raw data table with extra modals.
-- [ ] Lookup opens with all allowed common dictionary POS/senses, pronunciation, morphology and examples **visible by scrolling**.
-- [ ] In study mode the front conceals answers; **one reveal** shows the whole available dictionary content.
-- [ ] **Our concise analysis is already readable on the same page**, covering every applicable core stage (not seven empty labels; not only an AI-copy button).
-- [ ] For shift, working definition, outcome framing, take into account, functional seating surface and condition statement, the meaning, syntax, comparison and suggested language action are actually helpful.
-- [ ] The user can locate source/provenance and distinguish real dictionary definition from project teaching gloss.
-- [ ] The word or phrase and **Copy Original / Copy 【深析】** are easy to reach. Copied example label is correct. No copy triggers rating.
-- [ ] Mobile viewport has readable font/spacing, no horizontally cut text and no bottom controls hiding the last definition.
-- [ ] Back/return keeps the same card and study state; prior grades, due dates, export/import, audio and bookmarks continue working.
-- [ ] Missing unreviewed senses are labelled as gaps, not replaced with invented meanings.
-- [ ] New features do not demand a local server, registration or Notion migration.
-
-## Owner decision (choose explicitly)
-
-- [ ] REJECT — explain 1–3 concrete issues in reading or interaction.
-- [ ] REVISE_PREVIEW — limited scope UI/content revision, no production release.
-- [ ] ACCEPT_DESIGN — authorizes the design as a target only, **NOT implementation or release**.
-- [ ] AUTHORIZE_BRANCH_IMPLEMENTATION — specify exact scope, may change only non-main isolated branch.
-- [ ] AUTHORIZE_RELEASE — separate decision after implemented code/QA results, only then may trigger main/Pages.
-
-Comments and examples: [text]
-Next review checkpoint: [specific artifact link]
+实现结果：ACCEPT / REVISE（写具体问题）。
+发布决定单列：G2_NOT_GRANTED / G2_GRANTED（精确范围与候选SHA）。
+公开URL回读单列：NOT_DEPLOYED / LIVE_VERIFIED / FAILED。

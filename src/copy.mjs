@@ -28,7 +28,7 @@ export function mountCopy(container,payload,isCurrent=()=>true){
    const valid=()=>group.isConnected&&isCurrent()&&request===sequence;
    copyText(result.text).then(()=>{if(valid())status.textContent=['已复制',...result.omissions].join('；');},()=>{
     if(!valid())return;status.textContent=['复制受阻，请选择下方文本手工复制',...result.omissions].join('；');
-    group.querySelector('textarea')?.remove();const area=document.createElement('textarea');area.readOnly=true;area.value=result.text;area.setAttribute('aria-label','手工复制文本');group.append(area);area.focus();area.select();
+    group.querySelector('textarea')?.remove();const area=document.createElement('textarea');area.readOnly=true;area.value=result.text;area.setAttribute('aria-label','手工复制文本');group.append(area);area.focus({preventScroll:true});area.select();area.scrollIntoView({block:'center'});
    });
   };group.append(button);
  }
