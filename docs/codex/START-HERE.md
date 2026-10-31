@@ -1,5 +1,7 @@
 # Codex handoff: templates, goals and future update workflow
 
+**2026-11-01：新版 UI-V3 已获 Owner 正式确认并注册。** [以此冻结版为实施基线](../design/words-ui-v3/README.md)。V1/V2 布局被取代；此前候选运行代码尚待整合 V3，历史测试不代表 V3 已上线。
+
 **Latest scope: Owner authorized P1–P3 branch implementation. See [implementation status](IMPLEMENTATION-STATUS.md) and [candidate runbook](P1-P3-RUNBOOK.md). This branch is not deployed; main/Pages release remains a separate Owner gate.**
 
 **2026-10-31 independent review:** Start with [review results, six page previews and implementation plan](review-2026-10-31/README.md). The review records template/schema conflicts and proposed resolutions; the original proposals are design history; implemented gates and remaining gaps are recorded in IMPLEMENTATION-STATUS. Terminal: **READY_FOR_OWNER_REVIEW**. No main update, Pages deployment, Notion write or schedule change is authorized by these planning artifacts.

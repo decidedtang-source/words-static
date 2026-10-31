@@ -1,5 +1,7 @@
 # P1–P3 implementation — READY_FOR_OWNER_REVIEW
 
+**2026-11-01：新版 UI-V3 已获 Owner 正式确认并注册。** [以此冻结版为实施基线](../design/words-ui-v3/README.md)。V1/V2 布局被取代；此前候选运行代码尚待整合 V3，历史测试不代表 V3 已上线。
+
 Owner authorized non-main implementation with “执行” after the preview handoff. Planning base: `dd4eee9ac661ba91acf1ca5a6948332db4b1c383`. Production main rechecked on 2026-10-31: `cfa2ecc19fddf2fac7508c642f8580b1b5a85838`, unchanged. This is a working application candidate, not a deployed version. G2 release is NOT_AUTHORIZED; P4 is NOT_STARTED.
 
 | Phase | Delivered | Evidence |
