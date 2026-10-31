@@ -1,5 +1,11 @@
 # V3 数据合同增量 — 候选已实现
 
+## 简析结构与整体分析单位（最新）
+
+按 [SEMANTIC-BRIDGE.md](SEMANTIC-BRIDGE.md) 采用四部分：Dictionary；Memory + Semantic Connection；Context（Syntax / Concept / Contrast）；Language Game（English Neighbors / Pragmatic Action / Workplace Use）。它是现有项目指令的紧凑显示版，不能漏掉原有步骤。
+
+整个用户目标（尤其多词组成的词组）是唯一分析单位。组成词的词典义项可以作为 Dictionary/Bridge 的证据，但不得对每个组成词重复一整套四阶段解释。现有 displayGroups 4–5 项结构足够承载该内容，默认四组，不需先增加schema字段。
+
 ## 内容连续性要求：Semantic Bridge
 
 v2 当前 presentation 字段提供 displayGloss、contextSenseRefs 与 contextTakeaway，但**没有独立的 semanticBridge 字段**。当前先把桥接作为 Writer/Reviewer 的必需内容标准：在 g1 明确完成“词典所选义项→语义分解→组合意义”，g2 接续解释当前句法/概念，g3–g5 继续承接，而不是各写各的。完整示例见 [SEMANTIC-BRIDGE.md](SEMANTIC-BRIDGE.md)。
