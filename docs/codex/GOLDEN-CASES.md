@@ -55,7 +55,7 @@ Every example must appear in three product modes (lookup showing answers, concea
 
 ## D. TAKE INTO ACCOUNT — idiom, non-literal composition
 
-**Dictionary**: take X into account / take into account X = **consider/include a factor when judging**. Needs attested phrase evidence before assigning a source ID. The current OEWN selected dictionary includes senses of account as an independent word but that **does not authorize fake OEWN whole-idiom definition**.
+**Dictionary**: take X into account / take into account X = **consider/include a factor when judging**. The current selected OEWN 2025 catalog already contains the whole expression, anchored at `take_into_account%2:31:00::` (allow or plan for a certain possibility; concede the truth or validity of something). Use this attested phrase evidence; independent senses of account, including a bank account, do not replace the idiom. Verified against main `cfa2ecc` in the [independent review](review-2026-10-31/INDEPENDENT-REVIEW.md).
 
 **本文自编学习例句**: We need to take the measurement uncertainty into account before approving the change.
 

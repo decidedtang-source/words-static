@@ -2,6 +2,8 @@
 
 **This directory is executable planning guidance, not deployed software.**
 
+**2026-10-31 independent review:** Start with [review results, six page previews and implementation plan](review-2026-10-31/README.md). The review records template/schema conflicts and proposed resolutions; these remain Owner-review proposals, not implemented gates. Terminal: **READY_FOR_OWNER_REVIEW**. No main update, Pages deployment, Notion write or schedule change is authorized by these planning artifacts.
+
 ## 1. The target outcome (what the user actually sees)
 
 The product is **the already deployed GitHub Pages vocabulary website**, not a new server. It should feel as complete and fluent as a mature MaiMemo-style vocabulary app, while adding the user's own English-explanation method.

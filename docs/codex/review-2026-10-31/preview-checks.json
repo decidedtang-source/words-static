@@ -1,0 +1,555 @@
+{
+  "scope": "ISOLATED_PROTOTYPE_ONLY",
+  "candidateSha256": "7ef1d7d48c2bdf4bcf1b3114129574f147c3fced48fc06f2819b05884bd95354",
+  "browser": "151.0.7922.34",
+  "states": 90,
+  "results": [
+    {
+      "case": "A",
+      "width": 320,
+      "mode": "lookup",
+      "result": "PASS"
+    },
+    {
+      "case": "A",
+      "width": 320,
+      "mode": "front",
+      "result": "PASS"
+    },
+    {
+      "case": "A",
+      "width": 320,
+      "mode": "revealed",
+      "result": "PASS"
+    },
+    {
+      "case": "B",
+      "width": 320,
+      "mode": "lookup",
+      "result": "PASS"
+    },
+    {
+      "case": "B",
+      "width": 320,
+      "mode": "front",
+      "result": "PASS"
+    },
+    {
+      "case": "B",
+      "width": 320,
+      "mode": "revealed",
+      "result": "PASS"
+    },
+    {
+      "case": "C",
+      "width": 320,
+      "mode": "lookup",
+      "result": "PASS"
+    },
+    {
+      "case": "C",
+      "width": 320,
+      "mode": "front",
+      "result": "PASS"
+    },
+    {
+      "case": "C",
+      "width": 320,
+      "mode": "revealed",
+      "result": "PASS"
+    },
+    {
+      "case": "D",
+      "width": 320,
+      "mode": "lookup",
+      "result": "PASS"
+    },
+    {
+      "case": "D",
+      "width": 320,
+      "mode": "front",
+      "result": "PASS"
+    },
+    {
+      "case": "D",
+      "width": 320,
+      "mode": "revealed",
+      "result": "PASS"
+    },
+    {
+      "case": "E",
+      "width": 320,
+      "mode": "lookup",
+      "result": "PASS"
+    },
+    {
+      "case": "E",
+      "width": 320,
+      "mode": "front",
+      "result": "PASS"
+    },
+    {
+      "case": "E",
+      "width": 320,
+      "mode": "revealed",
+      "result": "PASS"
+    },
+    {
+      "case": "F",
+      "width": 320,
+      "mode": "lookup",
+      "result": "PASS"
+    },
+    {
+      "case": "F",
+      "width": 320,
+      "mode": "front",
+      "result": "PASS"
+    },
+    {
+      "case": "F",
+      "width": 320,
+      "mode": "revealed",
+      "result": "PASS"
+    },
+    {
+      "case": "A",
+      "width": 390,
+      "mode": "lookup",
+      "result": "PASS"
+    },
+    {
+      "case": "A",
+      "width": 390,
+      "mode": "front",
+      "result": "PASS"
+    },
+    {
+      "case": "A",
+      "width": 390,
+      "mode": "revealed",
+      "result": "PASS"
+    },
+    {
+      "case": "B",
+      "width": 390,
+      "mode": "lookup",
+      "result": "PASS"
+    },
+    {
+      "case": "B",
+      "width": 390,
+      "mode": "front",
+      "result": "PASS"
+    },
+    {
+      "case": "B",
+      "width": 390,
+      "mode": "revealed",
+      "result": "PASS"
+    },
+    {
+      "case": "C",
+      "width": 390,
+      "mode": "lookup",
+      "result": "PASS"
+    },
+    {
+      "case": "C",
+      "width": 390,
+      "mode": "front",
+      "result": "PASS"
+    },
+    {
+      "case": "C",
+      "width": 390,
+      "mode": "revealed",
+      "result": "PASS"
+    },
+    {
+      "case": "D",
+      "width": 390,
+      "mode": "lookup",
+      "result": "PASS"
+    },
+    {
+      "case": "D",
+      "width": 390,
+      "mode": "front",
+      "result": "PASS"
+    },
+    {
+      "case": "D",
+      "width": 390,
+      "mode": "revealed",
+      "result": "PASS"
+    },
+    {
+      "case": "E",
+      "width": 390,
+      "mode": "lookup",
+      "result": "PASS"
+    },
+    {
+      "case": "E",
+      "width": 390,
+      "mode": "front",
+      "result": "PASS"
+    },
+    {
+      "case": "E",
+      "width": 390,
+      "mode": "revealed",
+      "result": "PASS"
+    },
+    {
+      "case": "F",
+      "width": 390,
+      "mode": "lookup",
+      "result": "PASS"
+    },
+    {
+      "case": "F",
+      "width": 390,
+      "mode": "front",
+      "result": "PASS"
+    },
+    {
+      "case": "F",
+      "width": 390,
+      "mode": "revealed",
+      "result": "PASS"
+    },
+    {
+      "case": "A",
+      "width": 768,
+      "mode": "lookup",
+      "result": "PASS"
+    },
+    {
+      "case": "A",
+      "width": 768,
+      "mode": "front",
+      "result": "PASS"
+    },
+    {
+      "case": "A",
+      "width": 768,
+      "mode": "revealed",
+      "result": "PASS"
+    },
+    {
+      "case": "B",
+      "width": 768,
+      "mode": "lookup",
+      "result": "PASS"
+    },
+    {
+      "case": "B",
+      "width": 768,
+      "mode": "front",
+      "result": "PASS"
+    },
+    {
+      "case": "B",
+      "width": 768,
+      "mode": "revealed",
+      "result": "PASS"
+    },
+    {
+      "case": "C",
+      "width": 768,
+      "mode": "lookup",
+      "result": "PASS"
+    },
+    {
+      "case": "C",
+      "width": 768,
+      "mode": "front",
+      "result": "PASS"
+    },
+    {
+      "case": "C",
+      "width": 768,
+      "mode": "revealed",
+      "result": "PASS"
+    },
+    {
+      "case": "D",
+      "width": 768,
+      "mode": "lookup",
+      "result": "PASS"
+    },
+    {
+      "case": "D",
+      "width": 768,
+      "mode": "front",
+      "result": "PASS"
+    },
+    {
+      "case": "D",
+      "width": 768,
+      "mode": "revealed",
+      "result": "PASS"
+    },
+    {
+      "case": "E",
+      "width": 768,
+      "mode": "lookup",
+      "result": "PASS"
+    },
+    {
+      "case": "E",
+      "width": 768,
+      "mode": "front",
+      "result": "PASS"
+    },
+    {
+      "case": "E",
+      "width": 768,
+      "mode": "revealed",
+      "result": "PASS"
+    },
+    {
+      "case": "F",
+      "width": 768,
+      "mode": "lookup",
+      "result": "PASS"
+    },
+    {
+      "case": "F",
+      "width": 768,
+      "mode": "front",
+      "result": "PASS"
+    },
+    {
+      "case": "F",
+      "width": 768,
+      "mode": "revealed",
+      "result": "PASS"
+    },
+    {
+      "case": "A",
+      "width": 1024,
+      "mode": "lookup",
+      "result": "PASS"
+    },
+    {
+      "case": "A",
+      "width": 1024,
+      "mode": "front",
+      "result": "PASS"
+    },
+    {
+      "case": "A",
+      "width": 1024,
+      "mode": "revealed",
+      "result": "PASS"
+    },
+    {
+      "case": "B",
+      "width": 1024,
+      "mode": "lookup",
+      "result": "PASS"
+    },
+    {
+      "case": "B",
+      "width": 1024,
+      "mode": "front",
+      "result": "PASS"
+    },
+    {
+      "case": "B",
+      "width": 1024,
+      "mode": "revealed",
+      "result": "PASS"
+    },
+    {
+      "case": "C",
+      "width": 1024,
+      "mode": "lookup",
+      "result": "PASS"
+    },
+    {
+      "case": "C",
+      "width": 1024,
+      "mode": "front",
+      "result": "PASS"
+    },
+    {
+      "case": "C",
+      "width": 1024,
+      "mode": "revealed",
+      "result": "PASS"
+    },
+    {
+      "case": "D",
+      "width": 1024,
+      "mode": "lookup",
+      "result": "PASS"
+    },
+    {
+      "case": "D",
+      "width": 1024,
+      "mode": "front",
+      "result": "PASS"
+    },
+    {
+      "case": "D",
+      "width": 1024,
+      "mode": "revealed",
+      "result": "PASS"
+    },
+    {
+      "case": "E",
+      "width": 1024,
+      "mode": "lookup",
+      "result": "PASS"
+    },
+    {
+      "case": "E",
+      "width": 1024,
+      "mode": "front",
+      "result": "PASS"
+    },
+    {
+      "case": "E",
+      "width": 1024,
+      "mode": "revealed",
+      "result": "PASS"
+    },
+    {
+      "case": "F",
+      "width": 1024,
+      "mode": "lookup",
+      "result": "PASS"
+    },
+    {
+      "case": "F",
+      "width": 1024,
+      "mode": "front",
+      "result": "PASS"
+    },
+    {
+      "case": "F",
+      "width": 1024,
+      "mode": "revealed",
+      "result": "PASS"
+    },
+    {
+      "case": "A",
+      "width": 1440,
+      "mode": "lookup",
+      "result": "PASS"
+    },
+    {
+      "case": "A",
+      "width": 1440,
+      "mode": "front",
+      "result": "PASS"
+    },
+    {
+      "case": "A",
+      "width": 1440,
+      "mode": "revealed",
+      "result": "PASS"
+    },
+    {
+      "case": "B",
+      "width": 1440,
+      "mode": "lookup",
+      "result": "PASS"
+    },
+    {
+      "case": "B",
+      "width": 1440,
+      "mode": "front",
+      "result": "PASS"
+    },
+    {
+      "case": "B",
+      "width": 1440,
+      "mode": "revealed",
+      "result": "PASS"
+    },
+    {
+      "case": "C",
+      "width": 1440,
+      "mode": "lookup",
+      "result": "PASS"
+    },
+    {
+      "case": "C",
+      "width": 1440,
+      "mode": "front",
+      "result": "PASS"
+    },
+    {
+      "case": "C",
+      "width": 1440,
+      "mode": "revealed",
+      "result": "PASS"
+    },
+    {
+      "case": "D",
+      "width": 1440,
+      "mode": "lookup",
+      "result": "PASS"
+    },
+    {
+      "case": "D",
+      "width": 1440,
+      "mode": "front",
+      "result": "PASS"
+    },
+    {
+      "case": "D",
+      "width": 1440,
+      "mode": "revealed",
+      "result": "PASS"
+    },
+    {
+      "case": "E",
+      "width": 1440,
+      "mode": "lookup",
+      "result": "PASS"
+    },
+    {
+      "case": "E",
+      "width": 1440,
+      "mode": "front",
+      "result": "PASS"
+    },
+    {
+      "case": "E",
+      "width": 1440,
+      "mode": "revealed",
+      "result": "PASS"
+    },
+    {
+      "case": "F",
+      "width": 1440,
+      "mode": "lookup",
+      "result": "PASS"
+    },
+    {
+      "case": "F",
+      "width": 1440,
+      "mode": "front",
+      "result": "PASS"
+    },
+    {
+      "case": "F",
+      "width": 1440,
+      "mode": "revealed",
+      "result": "PASS"
+    }
+  ],
+  "pageErrors": [],
+  "externalRequests": [],
+  "storageWrites": 0,
+  "copyFailureFallback": "PASS",
+  "oneReveal": "PASS",
+  "productionRegression": "NOT_RUN",
+  "ownerUat": "PENDING"
+}
