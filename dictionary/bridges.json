@@ -1,0 +1,126 @@
+{
+  "working definition": {
+    "gloss": "供当前工作采用、可随认识修订的定义",
+    "components": [
+      "working",
+      "definition"
+    ],
+    "bridge": "working 在这里表示供当前工作采用的，也可以带暂定基础的意思；不等于它在所有语境中都表示‘临时的’。这是组合解释，不是整条词组已被此词典收录。",
+    "contrast": "working machine 中 working 是‘正常运转的’，不能套用暂定定义的意思。",
+    "foundation": [
+      {
+        "word": "working",
+        "senseId": "working%5:00:02:operative:00"
+      },
+      {
+        "word": "definition",
+        "senseId": "definition%1:10:00::"
+      }
+    ]
+  },
+  "working hypothesis": {
+    "gloss": "为继续研究或工作而暂定的假设",
+    "components": [
+      "working",
+      "hypothesis"
+    ],
+    "bridge": "working 的暂定基础义与 hypothesis 的解释性设想组合；假设是待检验的，不是已经证实的结论。",
+    "contrast": "可修订不等于随意猜测，仍需证据检验。",
+    "foundation": [
+      {
+        "word": "working",
+        "senseId": "working%5:00:00:impermanent:00"
+      },
+      {
+        "word": "hypothesis",
+        "senseId": "hypothesis%1:10:00::"
+      }
+    ]
+  },
+  "outcome framing": {
+    "gloss": "围绕结果组织和表述问题",
+    "components": [
+      "outcome",
+      "frame",
+      "framing"
+    ],
+    "bridge": "本组合中 framing 是名词性核心，outcome 作名词修饰语。这里的‘组织表述’联系 frame 的动词义；OEWN 的 framing 名词条目并未直接证明本组合的完整含义。",
+    "contrast": "不是把 framing 一律标成动词，也不是物理画框；本项为语境组合解释，不冒称固定习语。",
+    "foundation": [
+      {
+        "word": "outcome",
+        "senseId": "outcome%1:11:00::"
+      },
+      {
+        "word": "frame",
+        "senseId": "frame%2:32:00::",
+        "related": true
+      }
+    ]
+  },
+  "reversible decision": {
+    "gloss": "可以撤回或改变的决定",
+    "components": [
+      "reversible"
+    ],
+    "bridge": "reversible 描述改变方向或恢复的可能性；这里用于决定是否可以撤回。",
+    "contrast": "可撤回不代表没有成本或后果。"
+  },
+  "reversible choice": {
+    "gloss": "可以撤回或改变的选择",
+    "components": [
+      "reversible"
+    ],
+    "bridge": "reversible 描述选择是否仍能改变，不保证所有后果都能完全消除。",
+    "contrast": "不要把 reversible 的发音直接写成 reverse 的读音。"
+  },
+  "stated requirement": {
+    "gloss": "明确说明的要求",
+    "components": [
+      "stated"
+    ],
+    "bridge": "stated 在这里修饰 requirement，表示要求已经明示。",
+    "contrast": "stated 是实际显示词形，不能借用 state 的音标作为已核读音。"
+  },
+  "take into account": {
+    "gloss": "考虑到；纳入考量",
+    "components": [
+      "take into account",
+      "account"
+    ],
+    "bridge": "先记住整个表达‘考虑到’。词典收录整体义，不能用 account 的‘账户’义逐字拼出它。",
+    "contrast": "bank account 中 account 可以指账户，两种语境要分开。"
+  },
+  "tentative": {
+    "gloss": "暂定的；尚未最终商定的",
+    "components": [
+      "tentative"
+    ],
+    "bridge": "重点在尚未定案，可能调整。",
+    "contrast": "preliminary 强调前期阶段；initial 强调顺序上的最初。"
+  },
+  "preliminary": {
+    "gloss": "初步的；正式或主要阶段之前的",
+    "components": [
+      "preliminary"
+    ],
+    "bridge": "重点在过程阶段，常用于初步结果或准备工作。",
+    "contrast": "并不自动表示结果不正确；也不完全等于 tentative 的未定案。"
+  },
+  "verification method": {
+    "gloss": "核实要求是否满足的方法",
+    "components": [
+      "verification"
+    ],
+    "bridge": "在本工程学习语境中，指核实规定要求是否满足的方法。词典基础是证据核实，具体工程区分需要行业规范。",
+    "contrast": "与 validation 的区分是此处学习说明，不冒称所有行业的统一定义。"
+  },
+  "validation method": {
+    "gloss": "确认是否适合预定用途的方法",
+    "components": [
+      "validation"
+    ],
+    "bridge": "在本工程学习语境中，强调是否满足预定使用目的。词典基础是检验有效性或真实性，具体流程由领域规范确定。",
+    "contrast": "不要把这种工程用法推广为 validation 的所有词典意义。"
+  }
+}
