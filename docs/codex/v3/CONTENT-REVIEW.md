@@ -1,5 +1,10 @@
 # V3 independent content review
 
+## 2026-11-01 Owner clarification after this review: four-part full-method structure
+
+The previous APPROVE is limited to the exact candidate hash and content claims documented above. The new [SEMANTIC-BRIDGE.md](SEMANTIC-BRIDGE.md) now requires the original Project Instructions to be preserved in a compact four-part structure: Dictionary; Memory + Semantic Connection; Context (Syntax / Concept / Contrast); Language Game (English Neighbors / Pragmatic Action / Workplace Use). The whole selected phrase is one analysis unit; component words are cited only as support, not given separate repeated four-stage analyses. The current candidate's prior approval does **not** automatically verify that new authoring standard. Any revision must create a new exact candidate hash and receive independent review. Status of this new standard against current content: **REVIEW_REQUIRED**.
+
+
 ## 后续内容修订注意：Semantic Bridge
 
 本文件的 APPROVE 仅针对上述 exact candidate hash 与当时检查范围。新增 [SEMANTIC-BRIDGE.md](SEMANTIC-BRIDGE.md) 是进一步的内容连续性标准，不会追溯性地让旧候选自动通过，也不否定当时已完成的源义项/十阶段审核。若依此修改 working definition 或其他金样，必须重算候选hash，并由独立 Reviewer 对新的完整语义链重新审阅；旧回执不得复用。
