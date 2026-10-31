@@ -1,0 +1,139 @@
+{
+  "schemaVersion": "lexical-candidate/v0.1-proposal",
+  "publicationStatus": "CANDIDATE_EXAMPLE_NOT_APPROVED",
+  "selectionKey": "DEMO:shift:001",
+  "existingCardId": null,
+  "entryType": "word",
+  "surface": "shift",
+  "lemma": "shift",
+  "dictionary": {
+    "sourceName": "Open English Wordnet",
+    "release": "2025",
+    "snapshotId": "oewn:2025:094517cfd433d7f9",
+    "sourceLocation": "dictionary/catalog.json",
+    "licenceEvidenceLocation": "public/licenses/",
+    "rightsForPublicDisplay": "REVERIFY_BEFORE_USE",
+    "posEntries": [
+      {
+        "pos": "n",
+        "senses": [
+          {
+            "sourceSenseId": "shift%1:11:01::",
+            "teachingGlossZh": "性质上的变化"
+          },
+          {
+            "sourceSenseId": "shift%1:28:00::",
+            "teachingGlossZh": "班次；一段当班时间"
+          }
+        ]
+      },
+      {
+        "pos": "v",
+        "senses": [
+          {
+            "sourceSenseId": "shift%2:38:00::",
+            "teachingGlossZh": "移动；改变位置或方向"
+          },
+          {
+            "sourceSenseId": "shift%2:30:03::",
+            "teachingGlossZh": "转移到另一场景或语境"
+          }
+        ]
+      }
+    ],
+    "pronunciation": {
+      "surface": "shift",
+      "accent": "US",
+      "ipa": "/ʃɪft/",
+      "evidence": "NOT_REVIEWED_IN_THIS_EXAMPLE",
+      "status": "CANDIDATE"
+    },
+    "selectedContextSenseId": "shift%1:28:00::",
+    "dictionaryOriginNote": "English source senses from existing selected OEWN snapshot; Chinese meanings are project-authored teaching glosses, not official Cambridge/Oxford/Collins definitions."
+  },
+  "example": {
+    "text": "The supplier needs a work instruction before the next shift.",
+    "kind": "generated_example",
+    "shareClass": "public",
+    "sourceLabel": "illustrative learning sentence",
+    "originalSourceVerified": false
+  },
+  "compactAnalysis": {
+    "status": "UNREVIEWED_CANDIDATE",
+    "stages": {
+      "dictionary": {
+        "disposition": "PRESENT_PENDING_REVIEW",
+        "textZh": "本句 shift 是名词，选择“班次”义；独立词条还有转变/移动等名词及动词义。"
+      },
+      "memory": {
+        "disposition": "PRESENT_PENDING_REVIEW",
+        "textZh": "记住 shift 的“班次”与“转变、转移”两组高价值意思。"
+      },
+      "semanticConnection": {
+        "disposition": "PRESENT_PENDING_REVIEW",
+        "textZh": "这几组义项不能强行用单一相框式类比或虚构词源推导。"
+      },
+      "syntax": {
+        "disposition": "PRESENT_PENDING_REVIEW",
+        "textZh": "before the next shift 中 shift 是名词，next 修饰它，整组由 before 引出时间条件。"
+      },
+      "concept": {
+        "disposition": "PRESENT_PENDING_REVIEW",
+        "textZh": "下一班开始前需准备好作业指导书；没有确定具体钟点或说明已正式批准。"
+      },
+      "contrast": {
+        "disposition": "PRESENT_PENDING_REVIEW",
+        "textZh": "shift 是班次，handover 是交接，changeover 是切换过程，三者不可等同。"
+      },
+      "languageGame": {
+        "disposition": "PRESENT_PENDING_REVIEW",
+        "textZh": "在生产交接安排中，团队可能进一步讨论人员准备、文件版本及班次衔接；并非 shift 的词典定义。"
+      },
+      "englishNeighbors": {
+        "disposition": "PRESENT_PENDING_REVIEW",
+        "textZh": "night shift、shift handover、work instruction、operator readiness：班次时间常涉及文件和人员交接的准备。"
+      },
+      "pragmaticAction": {
+        "disposition": "PRESENT_PENDING_REVIEW",
+        "textZh": "说话者说明下一班前的文件需求，不是授予生产或变更批准。"
+      },
+      "workplaceUse": {
+        "disposition": "PRESENT_PENDING_REVIEW",
+        "sentences": [
+          {
+            "en": "Please confirm the work instruction before the next shift.",
+            "zh": "请在下一班前确认作业指导书。",
+            "kind": "generated_example"
+          }
+        ]
+      }
+    },
+    "displayGroups": [
+      {
+        "label": "记忆与语义联系",
+        "textZh": "shift 要分别记住“变化、转移”和“班次”。此处使用班次义，不编造可以推导全部义项的词源。"
+      },
+      {
+        "label": "句法与概念",
+        "textZh": "before the next shift 中 shift 是名词，next 修饰它；句子说明下一班开始前需要作业指导书，但未指定精确钟点。"
+      },
+      {
+        "label": "辨析",
+        "textZh": "shift 指班次；handover 指交接；changeover 侧重切换活动。"
+      },
+      {
+        "label": "语言游戏与英文邻居",
+        "textZh": "在生产交接语境中，work instruction、operator readiness、shift handover 关联到班次开始前的执行准备。"
+      },
+      {
+        "label": "交际动作与使用",
+        "textZh": "这句话表达一项时间要求，不代表正式批准。例：Please confirm the work instruction before the next shift."
+      }
+    ]
+  },
+  "contentRevision": "demo-v0",
+  "sourcePacketHash": null,
+  "candidateHash": null,
+  "independentReviewReceipt": null,
+  "warning": "This file is NOT automatically read by the current site, has NOT passed independent review and MUST NOT be published as verified content."
+}
