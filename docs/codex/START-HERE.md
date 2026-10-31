@@ -1,8 +1,8 @@
 # Codex handoff: templates, goals and future update workflow
 
-**This directory is executable planning guidance, not deployed software.**
+**Latest scope: Owner authorized P1–P3 branch implementation. See [implementation status](IMPLEMENTATION-STATUS.md) and [candidate runbook](P1-P3-RUNBOOK.md). This branch is not deployed; main/Pages release remains a separate Owner gate.**
 
-**2026-10-31 independent review:** Start with [review results, six page previews and implementation plan](review-2026-10-31/README.md). The review records template/schema conflicts and proposed resolutions; these remain Owner-review proposals, not implemented gates. Terminal: **READY_FOR_OWNER_REVIEW**. No main update, Pages deployment, Notion write or schedule change is authorized by these planning artifacts.
+**2026-10-31 independent review:** Start with [review results, six page previews and implementation plan](review-2026-10-31/README.md). The review records template/schema conflicts and proposed resolutions; the original proposals are design history; implemented gates and remaining gaps are recorded in IMPLEMENTATION-STATUS. Terminal: **READY_FOR_OWNER_REVIEW**. No main update, Pages deployment, Notion write or schedule change is authorized by these planning artifacts.
 
 ## 1. The target outcome (what the user actually sees)
 

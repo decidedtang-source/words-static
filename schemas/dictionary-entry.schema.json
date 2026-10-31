@@ -1,0 +1,94 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 100,
+      "pattern": "^[A-Za-z0-9:_-]+$"
+    },
+    "lemma": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 200
+    },
+    "pos": {
+      "type": "string",
+      "enum": [
+        "n",
+        "v",
+        "a",
+        "s",
+        "r"
+      ]
+    },
+    "sourceEntryId": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 300
+    },
+    "release": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 30
+    },
+    "source": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 100
+    },
+    "senses": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 200
+          },
+          "definitionEn": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 4000
+          },
+          "glossZh": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 400
+          },
+          "sourceExamples": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "minLength": 1,
+              "maxLength": 4000
+            },
+            "minItems": 0,
+            "maxItems": 100
+          }
+        },
+        "required": [
+          "id",
+          "definitionEn",
+          "glossZh",
+          "sourceExamples"
+        ],
+        "additionalProperties": false
+      },
+      "minItems": 1,
+      "maxItems": 100
+    }
+  },
+  "required": [
+    "id",
+    "lemma",
+    "pos",
+    "sourceEntryId",
+    "release",
+    "source",
+    "senses"
+  ],
+  "additionalProperties": false
+}

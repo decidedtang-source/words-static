@@ -1,0 +1,15 @@
+import test from 'node:test';import assert from 'node:assert/strict';
+import {validateReviewedContent} from '../scripts/validate-reviewed-content.mjs';
+import {loadAnalysis} from '../src/analysis.mjs';
+import {fixture,input,rehash,hash,bytes} from './reviewed-fixture.mjs';
+test('review gate accepts complete independent review and missing IPA without inventing source',()=>{const f=fixture(),r=validateReviewedContent(input(f));assert.deepEqual(r.errors,[]);assert.equal(r.ok,true);assert.equal(r.coverage.analysis,1)});
+test('stale receipt, CRLF, self review and unreviewed stages cannot pass',()=>{
+ for(const mutate of [f=>f.projection.analysis[0].memoryGloss='新解释',f=>f.receipt.reviewerId=f.receipt.writerId,f=>f.receipt.stages['NEW-001'].syntax='NEEDS_EVIDENCE',f=>delete f.receipt.stages['NEW-001'].concept,f=>f.receipt.verdict='PREVIEW_APPROVE_WITH_EXPLICIT_GAPS']){const f=fixture();mutate(f);assert.equal(validateReviewedContent(input(f)).ok,false)}
+ const f=fixture(),arg=input(f);arg.projectionBytes=Buffer.from(arg.projectionBytes.toString().replaceAll('\n','\r\n'));assert.equal(validateReviewedContent(arg).ok,false);
+});
+test('structural approval does not allow private fields, URLs, wrong source or empty content',()=>{
+ for(const mutate of [f=>f.projection.sourceRef='private',f=>f.projection.cards[0].notes='private',f=>f.projection.analysis[0].memoryGloss='https://notion.so/private',f=>f.projection.dictionaryEntries[0].senses[0].definitionEn='bank account',f=>f.projection.cards[0].gloss='',f=>f.projection.analysis[0].stageEvidence.syntax.refs=['missing-group'],f=>delete f.projection.analysis[0].stageEvidence.concept,f=>f.projection.analysis[0].displayGroups[0].text='<script>alert(1)</script>',f=>f.projection.analysis[0].context.kind='original_sentence']){const f=fixture();mutate(f);rehash(f);assert.equal(validateReviewedContent(input(f)).ok,false)}
+});
+test('same source card ID cannot become a different recall target',()=>{const f=fixture();f.baseManifest.operations[0].operation='revise';f.baseManifest.existingCards=[{id:'NEW-001',term:'account'}];assert.equal(validateReviewedContent(input(f)).ok,false)});
+test('legitimate N/A requires reason and matching review; analysis binds card revision',()=>{const f=fixture(),a=f.projection.analysis[0];a.stageEvidence.languageGame={refs:[],applicability:'NOT_APPLICABLE',reason:'只有孤立词，未提供真实工作场景。'};f.receipt.stages['NEW-001'].languageGame='NOT_APPLICABLE_WITH_REASON';rehash(f);assert.equal(validateReviewedContent(input(f)).ok,true);assert.equal(loadAnalysis('NEW-001',1,{schema:1,entries:{'NEW-001':a}}),a);assert.equal(loadAnalysis('NEW-001',2,{schema:1,entries:{'NEW-001':a}}),null);assert.equal(loadAnalysis('other',1,{schema:1,entries:{'NEW-001':a}}),null)});
+test('source attestation and selection allowlist bind the actual public projection',()=>{const f=fixture();f.sourceManifest.entries[0].senses[0].definitionEn='different';assert.equal(validateReviewedContent(input(f)).ok,false);const g=fixture();g.baseManifest.operations=[];assert.equal(validateReviewedContent(input(g)).ok,false)});

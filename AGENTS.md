@@ -1,6 +1,6 @@
 # Codex working contract — Words Static / English Vocabulary
 
-**Status: planning-branch proposal; no production implementation approved.**
+**Status: Owner authorized P1–P3 non-main implementation after PR #4 preview review. Production release remains separately gated.**
 
 This repository is the user's **official vocabulary website**, published at https://decidedtang-source.github.io/words-static/ . Its **main** branch triggers GitHub Pages deployment. Do not switch the product to the separate experimental Node/SQLite app, invent a second daily generator, or treat documentation commits as product delivery.
 
@@ -23,7 +23,7 @@ This repository is the user's **official vocabulary website**, published at http
 
 ## Delivery and approval gates
 
-**Current assignment is to plan, create templates and propose workflows, not to edit live website behavior or content**. Use an isolated branch and Draft PR. A later explicit owner decision is needed to implement UI/pipeline changes; another release approval is required before anything reaches **main** (which auto-publishes). New automation and any Notion read/write connector need separate scope review.
+**Current assignment is P1–P3 implementation in an isolated branch**, following docs/codex/review-2026-10-31/IMPLEMENTATION-PLAN.md. Use a Draft PR and retain explicit review evidence. Another release approval is required before anything reaches **main** (which auto-publishes). P4, new automation and any Notion connector need separate scope review.
 
 Do not claim PASS when only prose, source templates, mock screenshots, static tests or a draft workflow exist. Report **IMPLEMENTED / PARTIAL / NOT_VERIFIED / BLOCKED / NOT_STARTED** with evidence and a specific next step.
 

@@ -1,0 +1,57 @@
+{
+  "schema": 1,
+  "batchId": "reviewed-20261031-goldens",
+  "projectionPath": "content/reviewed/2026-10-31-goldens.json",
+  "receiptPath": "content/reviews/2026-10-31-goldens.json",
+  "sourcePath": "content/sources/oewn-2025-goldens.json",
+  "baseContentHash": "ec65d33d6da99ebad2577f6c9f9938499823d29d117f43532302cf964a4c60a3",
+  "baseAnalysisHash": "c77ebd8164dc059d12d8edad2f730074b26f21006a083bef9040e4690b6bda82",
+  "baseCatalogHash": "c5cd3ef162ef19db61bb2bafb2f955af5528aa2109e3fce365857e48a6288ea6",
+  "sourceSnapshotHash": "a78e8615e519ed24c9af58482159230f49c558be89104d8d511f3c7939ec5eb0",
+  "sourceManifestHash": "54e6fa2e6fcb3aadcd9e9b081a2004eff34ad238d355f56335d9ffb2ddee8f5e",
+  "rulesVersion": "reviewed-content-v1",
+  "reviewedProjectionHash": "b304b951e246a37e9261ceb515d4b53697f74f911131c544348435ac487cd2ee",
+  "writerId": "codex-writer-p1-p3-20261031",
+  "operations": [
+    {
+      "cardId": "WS20261031-001",
+      "operation": "add",
+      "selectionId": "owner-selected-golden-a",
+      "semanticChange": false
+    },
+    {
+      "cardId": "V20261029-005",
+      "operation": "analysis-only",
+      "selectionId": "owner-selected-golden-b",
+      "semanticChange": false
+    },
+    {
+      "cardId": "V20261029-006",
+      "operation": "analysis-only",
+      "selectionId": "owner-selected-golden-c",
+      "semanticChange": false
+    },
+    {
+      "cardId": "WS20261031-004",
+      "operation": "add",
+      "selectionId": "owner-selected-golden-d",
+      "semanticChange": false
+    },
+    {
+      "cardId": "WS20261031-006",
+      "operation": "add",
+      "selectionId": "owner-selected-golden-f",
+      "semanticChange": false
+    }
+  ],
+  "existingCards": [
+    {
+      "id": "V20261029-005",
+      "term": "working definition"
+    },
+    {
+      "id": "V20261029-006",
+      "term": "outcome framing"
+    }
+  ]
+}

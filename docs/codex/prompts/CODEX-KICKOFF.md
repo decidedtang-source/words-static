@@ -1,5 +1,8 @@
 # Paste to Codex — initial implementation planning / independent review
 
+**Implementation v1:** Follow ../CONTENT-CONTRACT.md and repository schemas/*.schema.json. These supersede old illustrative field names: ten lower-camel-case stage keys, stageEvidence references displayGroups, generated_example-only new production context, exact LF candidate bytes and sourceManifestHash. Template/BLOCK never approves. P1–P3 branch work is authorized; main/Pages release is not.
+
+
 You are the **Codex planning and review lead** for the *official Words Static vocabulary website*.
 
 ## Repository and scope

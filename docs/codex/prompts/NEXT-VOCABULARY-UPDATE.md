@@ -1,5 +1,8 @@
 # Reusable Codex prompt — next vocabulary update (after workflow implementation)
 
+**Implementation v1:** Follow ../CONTENT-CONTRACT.md and repository schemas/*.schema.json. These supersede old illustrative field names: ten lower-camel-case stage keys, stageEvidence references displayGroups, generated_example-only new production context, exact LF candidate bytes and sourceManifestHash. Template/BLOCK never approves. P1–P3 branch work is authorized; main/Pages release is not.
+
+
 **Use only after the user has specifically approved the applicable implementation/update scope.** The prompt is a template for each future batch; it does not schedule or start a recurring job by itself.
 
 ~~~text

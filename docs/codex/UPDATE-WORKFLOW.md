@@ -1,6 +1,6 @@
 # Future GitHub-first update workflow
 
-**Planning only.** This describes what Codex must be able to build, test and document in a later, separately authorized implementation. It does **not** install or change the existing external 09:00 vocabulary generator, Notion, GitHub Pages main, Google Drive, OneDrive, or any active scheduled task.
+**Workflow design, with the manual P1–P3 subset now implemented on a non-main branch.** See [candidate runbook](P1-P3-RUNBOOK.md) for actual commands and boundaries. Remaining automation/importer steps are planning only. This describes what Codex must be able to build, test and document in a later, separately authorized implementation. It does **not** install or change the existing external 09:00 vocabulary generator, Notion, GitHub Pages main, Google Drive, OneDrive, or any active scheduled task.
 
 ## Workflow overview
 
