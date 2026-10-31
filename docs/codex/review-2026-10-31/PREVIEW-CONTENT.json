@@ -1,0 +1,1020 @@
+{
+  "schema": "planning-preview-v1",
+  "status": "PREVIEW_ONLY",
+  "baselineMain": "cfa2ecc19fddf2fac7508c642f8580b1b5a85838",
+  "source": {
+    "name": "Open English Wordnet 2025",
+    "url": "https://en-word.net/",
+    "license": "CC BY 4.0 + Princeton WordNet notice",
+    "snapshotId": "oewn:2025:094517cfd433d7f9",
+    "sha256": "a78e8615e519ed24c9af58482159230f49c558be89104d8d511f3c7939ec5eb0",
+    "changes": "Selected source senses; independently reviewed Chinese teaching summaries added; not official Chinese dictionary text."
+  },
+  "notice": "所有中文释义、简析、教学词形和例句标签为本项目编辑内容。无真实客户记录。未核音标不补写。选义不是频率排名。全部内容仅供 Owner 审阅，不是生产候选放行。",
+  "cases": [
+    {
+      "id": "A",
+      "target": "shift",
+      "context": "The supplier needs a work instruction before the next shift.",
+      "meaning": "本句指下一班次：供应商需要在下一班开始前拿到作业指导书。",
+      "cardId": null,
+      "groups": [
+        {
+          "id": "g1",
+          "title": "先记住，再联系",
+          "text": "本句先记 shift＝班次。另一常见名词义是“变化”，动词可表示移动或转移。可用“换班时段／方向变化”帮助区分，但这只是记忆联系，不是词源解释。"
+        },
+        {
+          "id": "g2",
+          "title": "句法与概念",
+          "text": "before the next shift 是时间介词短语，shift 是名词，next 限定下一班。needs 表达需求；句中没有给出具体时刻，也没有说明指导书已经获批。"
+        },
+        {
+          "id": "g3",
+          "title": "辨析与英文邻居",
+          "text": "shift 指班次，handover 偏重交接活动，changeover 偏重转换或换线，不宜互换。work instruction、operator readiness、handover 可帮助讨论指导书和人员准备，均为教学关联。"
+        },
+        {
+          "id": "g4",
+          "title": "这句话在做什么",
+          "text": "在假设的生产准备沟通中，这句话把需求绑定到一个时间边界。可追问哪一班、谁提供哪版指导书；这些是可选澄清方向，不是句子隐含的正式责任指派。"
+        },
+        {
+          "id": "g5",
+          "title": "工作中可以这样说",
+          "text": "Please confirm the work instruction before the next shift.（请在下一班前确认作业指导书。）这是自编学习例句；confirm 在此仍需语境说明确认版本、内容还是批准状态。"
+        }
+      ],
+      "morphology": "shift → shifts；shifted；shifting（项目教学词形，非本包所附音标或词源证据）。",
+      "gap": "本预览完整显示当前词典包的 shift 名词与动词共 4 个已选义项；并非 OEWN 全部义项或频率排序。",
+      "contextKind": "generated_example",
+      "shareClass": "public",
+      "pronunciation": null,
+      "dictionaryEntries": [
+        {
+          "id": "223a739affd6ab021c0688656fd61bb89d6992400de4386f8aecdf90c9dd7785",
+          "lemma": "shift",
+          "pos": "n",
+          "sourceEntryId": "entries-s.json/shift/n",
+          "release": "2025",
+          "senses": [
+            {
+              "id": "shift%1:11:01::",
+              "definitionEn": "a qualitative change",
+              "glossZh": "性质上的变化",
+              "sourceExamples": []
+            },
+            {
+              "id": "shift%1:28:00::",
+              "definitionEn": "the time period during which you are at work",
+              "glossZh": "班次；一段当班时间",
+              "sourceExamples": []
+            }
+          ],
+          "source": "Open English Wordnet 2025"
+        },
+        {
+          "id": "5b738a6ecd447e24f561ed817d84b8fdfc53db54c659f6167e69a22fabbe9d1e",
+          "lemma": "shift",
+          "pos": "v",
+          "sourceEntryId": "entries-s.json/shift/v",
+          "release": "2025",
+          "senses": [
+            {
+              "id": "shift%2:38:00::",
+              "definitionEn": "change place or direction",
+              "glossZh": "移动；改变位置或方向",
+              "sourceExamples": [
+                "Shift one's position"
+              ]
+            },
+            {
+              "id": "shift%2:30:03::",
+              "definitionEn": "move from one setting or context to another",
+              "glossZh": "转移到另一场景或语境",
+              "sourceExamples": [
+                "shift the emphasis",
+                "shift one's attention"
+              ]
+            }
+          ],
+          "source": "Open English Wordnet 2025"
+        }
+      ],
+      "stageEvidence": {
+        "Dictionary": {
+          "refs": [
+            "dictionaryEntries",
+            "gap"
+          ]
+        },
+        "Memory": {
+          "refs": [
+            "groups/g1"
+          ]
+        },
+        "Semantic Connection": {
+          "refs": [
+            "groups/g1"
+          ]
+        },
+        "Syntax": {
+          "refs": [
+            "groups/g2"
+          ]
+        },
+        "Concept": {
+          "refs": [
+            "groups/g2"
+          ]
+        },
+        "Contrast": {
+          "refs": [
+            "groups/g3"
+          ]
+        },
+        "Language Game": {
+          "refs": [
+            "groups/g4"
+          ]
+        },
+        "English Neighbors": {
+          "refs": [
+            "groups/g3"
+          ]
+        },
+        "Pragmatic Action": {
+          "refs": [
+            "groups/g4"
+          ]
+        },
+        "Workplace Use": {
+          "refs": [
+            "groups/g5"
+          ]
+        }
+      },
+      "copyOriginal": "shift",
+      "copyDeep": "【深析】shift\n学习例句：The supplier needs a work instruction before the next shift.\n来源：项目自编教学例句",
+      "releaseEligibility": "PREVIEW_ONLY_REQUIRES_OWNER_AND_RELEASE_GATES"
+    },
+    {
+      "id": "B",
+      "target": "working definition",
+      "context": "Let us agree on a working definition of a critical defect.",
+      "meaning": "先约定一个可用于当前讨论和判断的“严重缺陷”定义；它可以是暂定的。",
+      "cardId": "V20261029-005",
+      "groups": [
+        {
+          "id": "g1",
+          "title": "先记住，再联系",
+          "text": "working definition 可记为“当前先拿来用的定义”。working 有实用、暂作依据、运转正常和用于某项活动等义；在这里与 definition 组合，不等于任何 working 都是 temporary。"
+        },
+        {
+          "id": "g2",
+          "title": "句法与概念",
+          "text": "working 是修饰 definition 的形容词；of a critical defect 说明要定义什么。Let us agree on… 是共同约定的提议，不是“大家已经同意”的报告。"
+        },
+        {
+          "id": "g3",
+          "title": "辨析与英文邻居",
+          "text": "tentative 强调暂未定案；formal 强调正式形式或地位；final 强调最终确定。working 强调当前可据以工作，几者并非总互斥。criteria、defect classification、working hypothesis、revision 可用于继续界定判据。"
+        },
+        {
+          "id": "g4",
+          "title": "这句话在做什么",
+          "text": "在假设的质量讨论中，说话人希望先建立共同判断基础，再推进讨论。可问边界案例与何时修订；不能由一句提议推导出客户批准、正式生效或组织授权。"
+        },
+        {
+          "id": "g5",
+          "title": "工作中可以这样说",
+          "text": "For now, use this working definition when classifying defects.（目前先按这个工作定义分类缺陷。）自编例句；for now 明示阶段性，后续是否修订仍需另说。"
+        }
+      ],
+      "morphology": "definition → definitions；working 在本词组中按形容词解读，不按进行时动词解读。",
+      "gap": "完整显示现有包中 working 4 义、definition 2 义；组合解释是项目简析，不冒充整条词典定义。",
+      "contextKind": "generated_example",
+      "shareClass": "public",
+      "pronunciation": null,
+      "dictionaryEntries": [
+        {
+          "id": "9fd40d3b3c8a2a28b1acbe3770accd14ba29dd0fb1c17f4b952bb3440946c5f7",
+          "lemma": "definition",
+          "pos": "n",
+          "sourceEntryId": "entries-d.json/definition/n",
+          "release": "2025",
+          "senses": [
+            {
+              "id": "definition%1:10:00::",
+              "definitionEn": "a concise explanation of the meaning of a word or phrase or symbol",
+              "glossZh": "定义；对词语或符号意义的简要说明",
+              "sourceExamples": []
+            },
+            {
+              "id": "definition%1:07:00::",
+              "definitionEn": "clarity of outline",
+              "glossZh": "轮廓的清晰度",
+              "sourceExamples": [
+                "exercise had given his muscles superior definition"
+              ]
+            }
+          ],
+          "source": "Open English Wordnet 2025"
+        },
+        {
+          "id": "b81aa348e22416a20b9978db1fa709bbdeee49a62e6dd3118fe79f5d48b0d076",
+          "lemma": "working",
+          "pos": "a",
+          "sourceEntryId": "entries-w.json/working/a",
+          "release": "2025",
+          "senses": [
+            {
+              "id": "working%5:00:00:practical:00",
+              "definitionEn": "adequate for practical use; especially sufficient in strength or numbers to accomplish something",
+              "glossZh": "实用的；足以用于实际工作的",
+              "sourceExamples": [
+                "the party has a working majority in the House",
+                "a working knowledge of Spanish"
+              ]
+            },
+            {
+              "id": "working%5:00:00:impermanent:00",
+              "definitionEn": "adopted as a temporary basis for further work",
+              "glossZh": "暂定用作进一步工作基础的",
+              "sourceExamples": [
+                "a working draft",
+                "a working hypothesis"
+              ]
+            },
+            {
+              "id": "working%5:00:00:functioning:00",
+              "definitionEn": "(of e.g. a machine) performing or capable of performing",
+              "glossZh": "正常运转的；能工作的",
+              "sourceExamples": [
+                "in running (or working) order",
+                "a functional set of brakes"
+              ]
+            },
+            {
+              "id": "working%5:00:02:operative:00",
+              "definitionEn": "serving to permit or facilitate further work or activity",
+              "glossZh": "供进一步工作或活动使用的",
+              "sourceExamples": [
+                "discussed the working draft of a peace treaty",
+                "they need working agreements with their neighbor states on interstate projects"
+              ]
+            }
+          ],
+          "source": "Open English Wordnet 2025"
+        }
+      ],
+      "stageEvidence": {
+        "Dictionary": {
+          "refs": [
+            "dictionaryEntries",
+            "gap"
+          ]
+        },
+        "Memory": {
+          "refs": [
+            "groups/g1"
+          ]
+        },
+        "Semantic Connection": {
+          "refs": [
+            "groups/g1"
+          ]
+        },
+        "Syntax": {
+          "refs": [
+            "groups/g2"
+          ]
+        },
+        "Concept": {
+          "refs": [
+            "groups/g2"
+          ]
+        },
+        "Contrast": {
+          "refs": [
+            "groups/g3"
+          ]
+        },
+        "Language Game": {
+          "refs": [
+            "groups/g4"
+          ]
+        },
+        "English Neighbors": {
+          "refs": [
+            "groups/g3"
+          ]
+        },
+        "Pragmatic Action": {
+          "refs": [
+            "groups/g4"
+          ]
+        },
+        "Workplace Use": {
+          "refs": [
+            "groups/g5"
+          ]
+        }
+      },
+      "copyOriginal": "working definition",
+      "copyDeep": "【深析】working definition\n学习例句：Let us agree on a working definition of a critical defect.\n来源：项目自编教学例句",
+      "releaseEligibility": "PREVIEW_ONLY_REQUIRES_OWNER_AND_RELEASE_GATES"
+    },
+    {
+      "id": "C",
+      "target": "outcome framing",
+      "context": "Better outcome framing will help management see why the change matters.",
+      "meaning": "从预期结果的角度组织说明，让管理层看出变更为何重要。",
+      "cardId": "V20261029-006",
+      "groups": [
+        {
+          "id": "g1",
+          "title": "先记住，再联系",
+          "text": "可把 frame 的“框架／组织表达”和 outcome 的“结果”连起来记：围绕结果来组织表述。这里是组合意义，不是声称 outcome framing 已被词典收为固定习语。"
+        },
+        {
+          "id": "g2",
+          "title": "句法与概念",
+          "text": "outcome 是名词修饰语，framing 在这里是名词性中心；整个短语作主语。will help 表达预期作用，不能据此断言管理层已经认可变更。"
+        },
+        {
+          "id": "g3",
+          "title": "辨析与英文邻居",
+          "text": "framing 关注如何组织问题与信息；description 偏描述，outcome measurement 偏结果测量。expected impact、success criteria、decision basis、trade-off 能帮助具体说明预期影响和判断依据，不等于承诺一定达到结果。"
+        },
+        {
+          "id": "g4",
+          "title": "这句话在做什么",
+          "text": "在假设的提案沟通中，说话人建议改善解释方式。可先讲期望改善什么、凭什么判断，再交代限制；这是一种表达选择，不是操纵事实或通用管理流程。"
+        },
+        {
+          "id": "g5",
+          "title": "工作中可以这样说",
+          "text": "Frame the proposal around the expected outcome.（围绕预期结果来组织提案。）自编例句；此处 Frame 是祈使句动词，与目标词组中的名词性 framing 不同。"
+        }
+      ],
+      "morphology": "frame → frames / framed / framing；-ing 形式的句法功能由所在句子决定。",
+      "gap": "完整显示当前 frame n./v.、framing n.、outcome n. 的 7 个已选义项。framing 的词典“计划细节拟定”义不是本句全部含义；语境组织之义由 frame 的相关义及组合分析说明。",
+      "contextKind": "generated_example",
+      "shareClass": "public",
+      "pronunciation": null,
+      "dictionaryEntries": [
+        {
+          "id": "2e8444cdf2c29dcdc710d010435b2d5bc060c809a65b31979baac8e34c143602",
+          "lemma": "frame",
+          "pos": "n",
+          "sourceEntryId": "entries-f.json/frame/n",
+          "release": "2025",
+          "senses": [
+            {
+              "id": "frame%1:09:00::",
+              "definitionEn": "a system of assumptions and standards that sanction behavior and give it meaning",
+              "glossZh": "理解或判断事物的观念框架",
+              "sourceExamples": []
+            },
+            {
+              "id": "frame%1:06:00::",
+              "definitionEn": "a framework that supports and protects a picture or a mirror",
+              "glossZh": "画框；镜框",
+              "sourceExamples": [
+                "the frame enhances but is not itself the subject of attention",
+                "the frame was much more valuable than the mirror it held"
+              ]
+            }
+          ],
+          "source": "Open English Wordnet 2025"
+        },
+        {
+          "id": "4ac923b3215f4cc9fde1a69740df725edbdbc3cca17a17f996c27540178a35ff",
+          "lemma": "framing",
+          "pos": "n",
+          "sourceEntryId": "entries-f.json/framing/n",
+          "release": "2025",
+          "senses": [
+            {
+              "id": "framing%1:04:00::",
+              "definitionEn": "formulation of the plans and important details",
+              "glossZh": "计划及重要细节的拟定",
+              "sourceExamples": [
+                "the framing of judicial decrees"
+              ]
+            },
+            {
+              "id": "framing%1:06:00::",
+              "definitionEn": "a framework that supports and protects a picture or a mirror",
+              "glossZh": "画框；镜框的框架",
+              "sourceExamples": [
+                "the frame enhances but is not itself the subject of attention",
+                "the frame was much more valuable than the mirror it held"
+              ]
+            }
+          ],
+          "source": "Open English Wordnet 2025"
+        },
+        {
+          "id": "93042d54aa456527b0958f4ada07717fb2b93231b37e23049f10bf1706e45379",
+          "lemma": "frame",
+          "pos": "v",
+          "sourceEntryId": "entries-f.json/frame/v",
+          "release": "2025",
+          "senses": [
+            {
+              "id": "frame%2:32:00::",
+              "definitionEn": "formulate in a particular style or language",
+              "glossZh": "以某种方式组织、表述",
+              "sourceExamples": [
+                "I wouldn't put it that way",
+                "She cast her request in very polite language"
+              ]
+            },
+            {
+              "id": "frame%2:31:00::",
+              "definitionEn": "make up plans or basic details for",
+              "glossZh": "拟定计划或基本细节",
+              "sourceExamples": [
+                "frame a policy"
+              ]
+            }
+          ],
+          "source": "Open English Wordnet 2025"
+        },
+        {
+          "id": "f2f6f733f036bb3b2d57c0b34299fa8e8cfdff48329f928b307555f6f6ef43cc",
+          "lemma": "outcome",
+          "pos": "n",
+          "sourceEntryId": "entries-o.json/outcome/n",
+          "release": "2025",
+          "senses": [
+            {
+              "id": "outcome%1:11:00::",
+              "definitionEn": "something that results",
+              "glossZh": "结果；某事产生的后果",
+              "sourceExamples": [
+                "he listened for the results on the radio"
+              ]
+            }
+          ],
+          "source": "Open English Wordnet 2025"
+        }
+      ],
+      "stageEvidence": {
+        "Dictionary": {
+          "refs": [
+            "dictionaryEntries",
+            "gap"
+          ]
+        },
+        "Memory": {
+          "refs": [
+            "groups/g1"
+          ]
+        },
+        "Semantic Connection": {
+          "refs": [
+            "groups/g1"
+          ]
+        },
+        "Syntax": {
+          "refs": [
+            "groups/g2"
+          ]
+        },
+        "Concept": {
+          "refs": [
+            "groups/g2"
+          ]
+        },
+        "Contrast": {
+          "refs": [
+            "groups/g3"
+          ]
+        },
+        "Language Game": {
+          "refs": [
+            "groups/g4"
+          ]
+        },
+        "English Neighbors": {
+          "refs": [
+            "groups/g3"
+          ]
+        },
+        "Pragmatic Action": {
+          "refs": [
+            "groups/g4"
+          ]
+        },
+        "Workplace Use": {
+          "refs": [
+            "groups/g5"
+          ]
+        }
+      },
+      "copyOriginal": "outcome framing",
+      "copyDeep": "【深析】outcome framing\n学习例句：Better outcome framing will help management see why the change matters.\n来源：项目自编教学例句",
+      "releaseEligibility": "PREVIEW_ONLY_REQUIRES_OWNER_AND_RELEASE_GATES"
+    },
+    {
+      "id": "D",
+      "target": "take into account",
+      "context": "We need to take the measurement uncertainty into account before approving the change.",
+      "meaning": "批准变更之前，需要把测量不确定度纳入判断。",
+      "cardId": null,
+      "groups": [
+        {
+          "id": "g1",
+          "title": "先记住，再联系",
+          "text": "把 take into account 整体记成“把某因素考虑进去”。当前 OEWN 包确实收录整条表达；不能从 account 的银行账户义硬拆。独立 account 的叙述、账户和解释义仍可分别学习。"
+        },
+        {
+          "id": "g2",
+          "title": "句法与概念",
+          "text": "take X into account 与 take into account X 都可用。本句 X 是 the measurement uncertainty；before approving… 设定先后条件，need 表示必要性，不表示批准已经发生。"
+        },
+        {
+          "id": "g3",
+          "title": "辨析与英文邻居",
+          "text": "consider 用途较广；take X into account 更突出把某项因素纳入判断，两者可有重叠。measurement uncertainty、risk assessment、decision basis、approval conditions 是可用于继续讨论的教学关联。"
+        },
+        {
+          "id": "g4",
+          "title": "这句话在做什么",
+          "text": "在假设的技术评审中，说话人提醒先考虑一个影响判断的因素。下一步可明确其影响和处理依据；句子没有指定具体阈值、审批人或已经接受的风险。"
+        },
+        {
+          "id": "g5",
+          "title": "工作中可以这样说",
+          "text": "Please take this uncertainty into account when reviewing the results.（审查结果时，请把这一不确定度考虑进去。）自编例句，仍未给出审批结论。"
+        }
+      ],
+      "morphology": "take → takes / took / taken / taking；过去式示例 took X into account。",
+      "gap": "整条表达证据：take_into_account%2:31:00::。完整显示当前包中整条 1 义及 account n./v. 3 义；不声称覆盖该词所有义项。",
+      "contextKind": "generated_example",
+      "shareClass": "public",
+      "pronunciation": null,
+      "dictionaryEntries": [
+        {
+          "id": "14fd87b97888f56f57cba79887a771c693d71b5878afb977ada89b90725c8be9",
+          "lemma": "account",
+          "pos": "n",
+          "sourceEntryId": "entries-a.json/account/n",
+          "release": "2025",
+          "senses": [
+            {
+              "id": "account%1:10:00::",
+              "definitionEn": "a record or narrative description of past events",
+              "glossZh": "对事情的叙述、记述",
+              "sourceExamples": [
+                "a history of France",
+                "he gave an inaccurate account of the plot to kill the president",
+                "the story of exposure to lead"
+              ]
+            },
+            {
+              "id": "account%1:26:00::",
+              "definitionEn": "a formal contractual relationship established to provide for regular banking or brokerage or business services",
+              "glossZh": "账户；与银行等建立的业务关系",
+              "sourceExamples": [
+                "he asked to see the executive who handled his account"
+              ]
+            }
+          ],
+          "source": "Open English Wordnet 2025"
+        },
+        {
+          "id": "ad853e2948f9d088c4f79b524a7442bfd9d1def46d7136e34125a4dd5ebc6c55",
+          "lemma": "take into account",
+          "pos": "v",
+          "sourceEntryId": "entries-t.json/take%20into%20account/v",
+          "release": "2025",
+          "senses": [
+            {
+              "id": "take_into_account%2:31:00::",
+              "definitionEn": "allow or plan for a certain possibility; concede the truth or validity of something",
+              "glossZh": "考虑到；把某种可能性或事实纳入考量",
+              "sourceExamples": [
+                "I allow for this possibility",
+                "The seamstress planned for 5% shrinkage after the first wash"
+              ]
+            }
+          ],
+          "source": "Open English Wordnet 2025"
+        },
+        {
+          "id": "dd3dce2fc9ddfe4a50ade593c1bb7419e68c142337bc9001add0a6edfab57a0f",
+          "lemma": "account",
+          "pos": "v",
+          "sourceEntryId": "entries-a.json/account/v",
+          "release": "2025",
+          "senses": [
+            {
+              "id": "account%2:32:00::",
+              "definitionEn": "furnish a justifying analysis or explanation",
+              "glossZh": "作出说明或解释",
+              "sourceExamples": [
+                "I can't account for the missing money"
+              ]
+            }
+          ],
+          "source": "Open English Wordnet 2025"
+        }
+      ],
+      "stageEvidence": {
+        "Dictionary": {
+          "refs": [
+            "dictionaryEntries",
+            "gap"
+          ]
+        },
+        "Memory": {
+          "refs": [
+            "groups/g1"
+          ]
+        },
+        "Semantic Connection": {
+          "refs": [
+            "groups/g1"
+          ]
+        },
+        "Syntax": {
+          "refs": [
+            "groups/g2"
+          ]
+        },
+        "Concept": {
+          "refs": [
+            "groups/g2"
+          ]
+        },
+        "Contrast": {
+          "refs": [
+            "groups/g3"
+          ]
+        },
+        "Language Game": {
+          "refs": [
+            "groups/g4"
+          ]
+        },
+        "English Neighbors": {
+          "refs": [
+            "groups/g3"
+          ]
+        },
+        "Pragmatic Action": {
+          "refs": [
+            "groups/g4"
+          ]
+        },
+        "Workplace Use": {
+          "refs": [
+            "groups/g5"
+          ]
+        }
+      },
+      "copyOriginal": "take into account",
+      "copyDeep": "【深析】take into account\n学习例句：We need to take the measurement uncertainty into account before approving the change.\n来源：项目自编教学例句",
+      "releaseEligibility": "PREVIEW_ONLY_REQUIRES_OWNER_AND_RELEASE_GATES"
+    },
+    {
+      "id": "E",
+      "target": "functional seating surface",
+      "context": "Please confirm the functional seating surface.",
+      "meaning": "请明确承担承靠／就位作用的表面是哪一个；具体工程含义仍需图纸与装配语境。",
+      "cardId": null,
+      "groups": [
+        {
+          "id": "g1",
+          "title": "先记住，再联系",
+          "text": "先用“承担承靠／就位功能的面”形成暂时理解。functional 与 surface 有基础词典证据；seating 的工程用法和整条术语尚缺领域证据，不能用普通“座位”义来假装完成锚定。"
+        },
+        {
+          "id": "g2",
+          "title": "句法与概念",
+          "text": "核心名词是 surface，functional 修饰其功能属性，seating 在组合中起修饰作用。Please confirm… 是确认请求；没有图纸时，既不能确定哪个面，也不能确定 confirm 要核实身份还是认可某项选择。"
+        },
+        {
+          "id": "g3",
+          "title": "辨析与英文邻居",
+          "text": "seating surface、contact surface、reference surface、datum surface 的工程角色可能不同，不能无条件画等号。drawing reference、contact area、assembly context 可用于索取依据；轴向定位或预紧只在相应装配确实相关时讨论。"
+        },
+        {
+          "id": "g4",
+          "title": "这句话在做什么",
+          "text": "可先请求对方在图纸上标出所指表面，并说明装配关系。当前状态是 NEEDS_DOMAIN_EVIDENCE：不判断实际接触面、基准、公差、预紧或批准结果，也不把该例变成所有工程场景的固定流程。"
+        },
+        {
+          "id": "g5",
+          "title": "工作中可以这样说",
+          "text": "Please identify the functional seating surface on the drawing.（请在图纸上标出承担就位功能的表面。）自编练习句；它只请求定位信息，不证明该术语已有统一的行业定义。"
+        }
+      ],
+      "morphology": "surface → surfaces；seating 的 -ing 外形本身不能证明它是本句的谓语动词。",
+      "gap": "预览新增 functional 2 义、surface 名词 2 义（仅冻结于本预览）。整条工程表达及 seating 工程义未核；此组是有明确缺口的教学预览，不能放行为已核工程术语卡。",
+      "contextKind": "generated_example",
+      "shareClass": "public",
+      "pronunciation": null,
+      "dictionaryEntries": [
+        {
+          "id": "206d43ab7fdb50cc1236755fc55bb099da7ffd992fa60e53efb9bcc6dfa14045",
+          "lemma": "functional",
+          "pos": "a",
+          "sourceEntryId": "entries-f.json/functional/a",
+          "release": "2025",
+          "source": "Open English Wordnet 2025",
+          "senses": [
+            {
+              "id": "functional%3:00:00::",
+              "definitionEn": "designed for or capable of a particular function or use",
+              "glossZh": "为特定功能或用途设计的；能发挥该功能的",
+              "sourceExamples": [
+                "a style of writing in which every word is functional",
+                "functional architecture"
+              ]
+            },
+            {
+              "id": "functional%5:00:00:serviceable:00",
+              "definitionEn": "fit or ready for use or service",
+              "glossZh": "可用的；可供使用的",
+              "sourceExamples": [
+                "the toaster was still functional even after being dropped",
+                "the lawnmower is a bit rusty but still usable",
+                "an operational aircraft"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "d2a09ec096c2213101224060c83c78545b2c5cd4d753ccf81a1f064003d3287d",
+          "lemma": "surface",
+          "pos": "n",
+          "sourceEntryId": "entries-s.json/surface/n",
+          "release": "2025",
+          "source": "Open English Wordnet 2025",
+          "senses": [
+            {
+              "id": "surface%1:06:00::",
+              "definitionEn": "the outer boundary of an artifact or a material layer constituting or resembling such a boundary",
+              "glossZh": "物体的外表面；构成这种边界的表层",
+              "sourceExamples": [
+                "there is a special cleaner for these surfaces",
+                "the cloth had a pattern of red dots on a white surface"
+              ]
+            },
+            {
+              "id": "surface%1:15:00::",
+              "definitionEn": "the extended two-dimensional outer boundary of a three-dimensional object",
+              "glossZh": "三维物体的二维外边界；表面",
+              "sourceExamples": [
+                "they skimmed over the surface of the water",
+                "a brush small enough to clean every dental surface",
+                "the sun has no distinct surface"
+              ]
+            }
+          ]
+        }
+      ],
+      "stageEvidence": {
+        "Dictionary": {
+          "refs": [
+            "dictionaryEntries",
+            "gap"
+          ]
+        },
+        "Memory": {
+          "refs": [
+            "groups/g1"
+          ]
+        },
+        "Semantic Connection": {
+          "refs": [
+            "groups/g1"
+          ]
+        },
+        "Syntax": {
+          "refs": [
+            "groups/g2"
+          ]
+        },
+        "Concept": {
+          "refs": [
+            "groups/g2"
+          ]
+        },
+        "Contrast": {
+          "refs": [
+            "groups/g3"
+          ]
+        },
+        "Language Game": {
+          "refs": [
+            "groups/g4"
+          ]
+        },
+        "English Neighbors": {
+          "refs": [
+            "groups/g3"
+          ]
+        },
+        "Pragmatic Action": {
+          "refs": [
+            "groups/g4"
+          ]
+        },
+        "Workplace Use": {
+          "refs": [
+            "groups/g5"
+          ]
+        }
+      },
+      "copyOriginal": "functional seating surface",
+      "copyDeep": "【深析】functional seating surface\n学习例句：Please confirm the functional seating surface.\n来源：项目自编教学例句",
+      "releaseEligibility": "QUARANTINE_DOMAIN_TERM"
+    },
+    {
+      "id": "F",
+      "target": "If management asks whether the schedule is safe, answer with conditions.",
+      "context": "If management asks whether the schedule is safe, answer with conditions.",
+      "meaning": "如果管理层问排程是否稳妥，回答时说明成立条件，而不是作无条件保证。",
+      "cardId": null,
+      "groups": [
+        {
+          "id": "g1",
+          "title": "先记住，再联系",
+          "text": "本句不是整条词典词目。safe 从“无危险／无风险”联系到排程是否稳妥；condition 在这里指条件，不是身体状况。具体哪些风险可接受，原句没有定义。"
+        },
+        {
+          "id": "g2",
+          "title": "句法与概念",
+          "text": "If 引导条件从句；whether the schedule is safe 是 asks 的间接疑问补语，whether 表示“是否”。主句 answer with conditions 是祈使句，指示如何回答。whether 的说明是项目语法分析，本 OEWN 快照未提供其词条证据。"
+        },
+        {
+          "id": "g3",
+          "title": "辨析与英文邻居",
+          "text": "safe 在此不是保证没有任何风险；achievable 强调可实现，on track 强调当前进展符合计划，不能不加条件地替换。material readiness、constraints、fallback plan、decision gate 可帮助组织条件，但都是示例方向。"
+        },
+        {
+          "id": "g4",
+          "title": "这句话在做什么",
+          "text": "说话人建议在沟通中限缩承诺：给出判断及前提，并指出前提变化时要重评。它不是管理层已经提问的记录，也不授权更改排程；实际条件须由具体项目证据支持。"
+        },
+        {
+          "id": "g5",
+          "title": "工作中可以这样说",
+          "text": "The schedule is achievable provided that materials arrive by Friday.（如果物料周五前到达，排程就可以实现。）自编例句；周五是演示条件，不是本项目真实交期。"
+        }
+      ],
+      "morphology": "condition → conditions；schedule → schedules；本句 safe 为表语形容词。",
+      "gap": "预览展示 safe 2 义、condition 3 义、schedule 2 义。是否 whether 的语法解释经项目审阅，不伪造词典来源；整句不建假词典条目。",
+      "contextKind": "generated_example",
+      "shareClass": "public",
+      "pronunciation": null,
+      "dictionaryEntries": [
+        {
+          "id": "0ba75357e579c8ef0f87bd9cffefa91b0691ab01480111256816bef7e9049bfd",
+          "lemma": "safe",
+          "pos": "a",
+          "sourceEntryId": "entries-s.json/safe/a",
+          "release": "2025",
+          "source": "Open English Wordnet 2025",
+          "senses": [
+            {
+              "id": "safe%3:00:01::",
+              "definitionEn": "free from danger or the risk of harm",
+              "glossZh": "安全的；没有危险或受伤害风险的",
+              "sourceExamples": [
+                "a safe trip",
+                "you will be safe here",
+                "a safe place",
+                "a safe bet"
+              ]
+            },
+            {
+              "id": "safe%5:00:00:unadventurous:00",
+              "definitionEn": "(of an undertaking) secure from risk",
+              "glossZh": "（事业或行动）没有风险的；稳妥的",
+              "sourceExamples": []
+            }
+          ]
+        },
+        {
+          "id": "62abdf82e2303154b8f597bbda8226eb1182a93a3f3afd8f2fc760bc36665710",
+          "lemma": "condition",
+          "pos": "n",
+          "sourceEntryId": "entries-c.json/condition/n",
+          "release": "2025",
+          "source": "Open English Wordnet 2025",
+          "senses": [
+            {
+              "id": "condition%1:26:00::",
+              "definitionEn": "a state at a particular time",
+              "glossZh": "某一时刻的状态；状况",
+              "sourceExamples": [
+                "a condition (or state) of disrepair",
+                "the current status of the arms negotiations"
+              ]
+            },
+            {
+              "id": "condition%1:10:01::",
+              "definitionEn": "an assumption on which rests the validity or effect of something else",
+              "glossZh": "使另一事物成立或生效的前提；条件",
+              "sourceExamples": []
+            },
+            {
+              "id": "condition%1:10:02::",
+              "definitionEn": "(usually plural) a statement of what is required as part of an agreement",
+              "glossZh": "（通常用复数）协议规定的要求；条款",
+              "sourceExamples": [
+                "the contract set out the conditions of the lease",
+                "the terms of the treaty were generous"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "c5b74f50da1408ba1edc4c390b7a340561df60865e07165290e708c08ce2e22c",
+          "lemma": "schedule",
+          "pos": "n",
+          "sourceEntryId": "entries-s.json/schedule/n",
+          "release": "2025",
+          "source": "Open English Wordnet 2025",
+          "senses": [
+            {
+              "id": "schedule%1:09:00::",
+              "definitionEn": "a temporally organized plan for matters to be attended to",
+              "glossZh": "按时间组织的工作或事项计划",
+              "sourceExamples": []
+            },
+            {
+              "id": "schedule%1:10:00::",
+              "definitionEn": "an ordered list of times at which things are planned to occur",
+              "glossZh": "预定事项的时间表",
+              "sourceExamples": []
+            }
+          ]
+        }
+      ],
+      "stageEvidence": {
+        "Dictionary": {
+          "refs": [
+            "dictionaryEntries",
+            "gap"
+          ]
+        },
+        "Memory": {
+          "refs": [
+            "groups/g1"
+          ]
+        },
+        "Semantic Connection": {
+          "refs": [
+            "groups/g1"
+          ]
+        },
+        "Syntax": {
+          "refs": [
+            "groups/g2"
+          ]
+        },
+        "Concept": {
+          "refs": [
+            "groups/g2"
+          ]
+        },
+        "Contrast": {
+          "refs": [
+            "groups/g3"
+          ]
+        },
+        "Language Game": {
+          "refs": [
+            "groups/g4"
+          ]
+        },
+        "English Neighbors": {
+          "refs": [
+            "groups/g3"
+          ]
+        },
+        "Pragmatic Action": {
+          "refs": [
+            "groups/g4"
+          ]
+        },
+        "Workplace Use": {
+          "refs": [
+            "groups/g5"
+          ]
+        }
+      },
+      "copyOriginal": "If management asks whether the schedule is safe, answer with conditions.",
+      "copyDeep": "【深析】If management asks whether the schedule is safe, answer with conditions.\n来源：项目自编教学例句",
+      "releaseEligibility": "PREVIEW_ONLY_REQUIRES_OWNER_AND_RELEASE_GATES"
+    }
+  ]
+}
