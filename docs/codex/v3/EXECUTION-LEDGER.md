@@ -20,3 +20,5 @@ Final: Ruling: reviewer declined actual devices/accessibility/GitHub/Owner accep
 Final: Ruling: initial-load timeout repair was added during review and independently unreviewed — bounded 20s first-load asset setting has actual slow-network RED→GREEN plus full regressions; refresh5s unchanged. Cost: independent reviewer did not assess this narrow fix.
 
 Task5 final verification: npm test 34/34 exit0; npm run build exit0; npm run test:browser 15/15 exit0 (90-cell matrix included). One important review issue fixed; one minor deferred. Owner UAT, remote CI enforcement and Task6 remain separate.
+
+Ruling: first remote CI failed before tests because ubuntu-latest resolved26.04 unsupported by pinned Playwright1.56.1. Pin candidate runner ubuntu-24.04; no dependency or production workflow change. Cost: runner OS needs deliberate future upgrades. Run41224875813 preserves failure evidence.
