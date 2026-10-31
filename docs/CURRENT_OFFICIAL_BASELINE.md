@@ -1,5 +1,7 @@
 # 当前正式运行基线 — GitHub Pages（2026-10-31）
 
+**当前实施依据：[UI-V3完整规划](codex/v3/README.md)。** 正式产品身份保持GitHub Pages，V3是已接受的新UI目标，未部署。
+
 **2026-11-01：新版 UI-V3 已获 Owner 正式确认并注册。** [以此冻结版为实施基线](design/words-ui-v3/README.md)。V1/V2 布局被取代；此前候选运行代码尚待整合 V3，历史测试不代表 V3 已上线。
 
 状态：**CURRENT_OFFICIAL_BASELINE_FROZEN**。本文件记录Owner最新明确决策，优先于此前把Node/SQLite试用工程作为当前产品主线的规划。

@@ -1,6 +1,6 @@
 # Codex working contract — Words Static / English Vocabulary
 
-**Status: Owner authorized P1–P3 non-main implementation after PR #4 preview review. Production release remains separately gated.**
+**Status: UI-V3 design is Owner-approved and registered; current assignment is full V3 planning/document consolidation. Runtime V3 integration is pending; release remains separately gated.**
 
 This repository is the user's **official vocabulary website**, published at https://decidedtang-source.github.io/words-static/ . Its **main** branch triggers GitHub Pages deployment. Do not switch the product to the separate experimental Node/SQLite app, invent a second daily generator, or treat documentation commits as product delivery.
 
@@ -11,7 +11,7 @@ This repository is the user's **official vocabulary website**, published at http
 ## Before doing any work
 
 1. Read **docs/CURRENT_OFFICIAL_BASELINE.md** and **README.md**.
-2. Read **docs/codex/START-HERE.md**; then its linked **PRODUCT-ACCEPTANCE**, **CONTENT-CONTRACT**, **UPDATE-WORKFLOW**, **QA-AND-RELEASE**, and **GOLDEN-CASES**.
+2. Read **docs/codex/START-HERE.md**, **docs/codex/v3/README.md** and their current product/contract/implementation/QA links; distinguish implemented v1 schemas from planned v2.
 3. Inspect the current code rather than presuming all planned features exist: **src/app.mjs**, **src/lexical-ui.mjs**, **src/lexical.mjs**, **src/copy.mjs**, **scripts/update-vocabulary.mjs**, **scripts/enrich-vocabulary.mjs**, **scripts/build.mjs**, **dictionary/catalog.json**, **dictionary/bridges.json**, and the tests.
 4. Check current main SHA / Pages status and PR/issue changes before declaring a requirement complete; recorded baselines (1,875 cards, 21 OEWN headwords, 40 senses) are historical snapshots, **not permanent limits**.
 5. For new content, use only input the user has authorized, retain selection provenance privately, and never publish private Notion links, customer records, notes, credentials, or personal data.
@@ -27,13 +27,13 @@ This repository is the user's **official vocabulary website**, published at http
 
 ## Delivery and approval gates
 
-**Current assignment is P1–P3 implementation in an isolated branch**, following docs/codex/review-2026-10-31/IMPLEMENTATION-PLAN.md. Use a Draft PR and retain explicit review evidence. Another release approval is required before anything reaches **main** (which auto-publishes). P4, new automation and any Notion connector need separate scope review.
+**Current assignment is V3 planning consolidation.** The next implementation authority is docs/codex/v3/IMPLEMENTATION-PLAN.md, not the historical P1–P3 checklist. On explicit execution of that plan, complete Tasks 1–5 in an isolated branch. Use a Draft PR and retain explicit review evidence. Another release approval is required before anything reaches **main** (which auto-publishes). P4, new automation and any Notion connector need separate scope review.
 
 Do not claim PASS when only prose, source templates, mock screenshots, static tests or a draft workflow exist. Report **IMPLEMENTED / PARTIAL / NOT_VERIFIED / BLOCKED / NOT_STARTED** with evidence and a specific next step.
 
 ## Codex execution pattern
 
-- Start with a **source-and-UX gap assessment** against the live repository and MaiMemo Web evidence.
-- Next produce **six independently reviewed, real-text golden examples** with dictionary, concise complete-method analysis, and deep-copy string; create mobile+desktop preview in isolation.
+- Start from the accepted V3 baseline and current v3 plan; recheck actual code/source gaps without restarting the accepted design.
+- Reuse the five reviewed golden candidates, add independently reviewed V3 context bindings, and keep E quarantined. Verify six device layouts on the actual application; frozen previews are reference only.
 - Do not skip a separate content reviewer: Writer ≠ Reviewer; deterministic checks ≠ semantic truth; source license ≠ unlimited permission to reproduce texts.
 - Only after the user accepts the preview and explicitly authorizes code: implement the smallest incremental change with tests and rollback, preserve prior data, and keep release separate.

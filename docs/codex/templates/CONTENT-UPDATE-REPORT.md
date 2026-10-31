@@ -10,6 +10,10 @@ Run time/date: [timezone, ISO]
 Workflow version: [commit/hash]
 Dictionary snapshot / license receipt: [source/ref/hash/rights]
 
+UI baseline: WORDS-STATIC-UI-V3
+Projection schema / receipt schema / rulesVersion: [exact supported versions]
+V3 contextSenseBound coverage: [N / total cards]
+
 ## Intake and identity
 
 - Selected target count: [N]
@@ -25,6 +29,7 @@ Dictionary snapshot / license receipt: [source/ref/hash/rights]
 |---|---:|---:|---:|---|
 | Source & rights | | | | |
 | Lemma/form/POS/sense | | | | |
+| V3 displayGloss/contextSenseRefs/contextTakeaway | | | | |
 | IPA/form | | | | |
 | Memory + semantic | | | | |
 | Syntax + concept + contrast | | | | |

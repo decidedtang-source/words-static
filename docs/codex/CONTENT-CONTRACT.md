@@ -1,5 +1,7 @@
 # Reviewed content v1 — implemented contract
 
+**v1为当前可执行合同。V3拟新增presentation与v2回执见 [CONTENT-V2](v3/CONTENT-V2.md)，尚未实施；旧schema/回执不作静默升级。**
+
 Authoritative machine shapes: schemas/reviewed-batch.schema.json, analysis.schema.json, dictionary-entry.schema.json, content-review.schema.json. Validator: scripts/validate-reviewed-content.mjs. Accepted rationale: review-2026-10-31/CONTRACT-DECISIONS.md. This replaces earlier PRESENT/NEEDS_SOURCE and duplicate stage prose formats; old receipts cannot be promoted by renaming fields.
 
 ## Public input
@@ -12,7 +14,7 @@ English definitions/examples/POS are matched against the licensed source manifes
 
 One authoritative text in 4–5 displayGroups. Ten ordered stage keys: dictionary, memory, semanticConnection, syntax, concept, contrast, languageGame, englishNeighbors, pragmaticAction, workplaceUse. Each stageEvidence references dictionaryEntryIds or existing group IDs. APPLICABLE requires evidence and reviewer PASS; NOT_APPLICABLE requires a substantive reason and matching NOT_APPLICABLE_WITH_REASON. Presence of keys is not semantic QA.
 
-Coverage records REVIEWED_SELECTED_SENSES / REVIEWED / READY with an honest scope. All selected reviewed senses display directly; never claim exhaustive dictionary coverage. Domain-unverified E remains outside the production projection. Dictionary/analysis/copy coverage denominators are card counts; lexeme/POS/sense counts are separate.
+Coverage records REVIEWED_SELECTED_SENSES / REVIEWED / READY with an honest scope. V3 display policy supersedes the old all-senses-direct rule: reviewed context senses display directly; additional reviewed senses are expandable. Legacy v1 has no approved context binding and must use the explicit fallback in v3/PRODUCT.md. Never claim exhaustive dictionary coverage. Domain-unverified E remains outside the production projection. Dictionary/analysis/copy coverage denominators are card counts; lexeme/POS/sense counts are separate.
 
 ## Byte binding and independence
 
