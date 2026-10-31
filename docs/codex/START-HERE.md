@@ -29,9 +29,13 @@ The normal study sequence is:
 | **templates/selection-packet.example.json** | A safe **illustrative** selected-target input |
 | **templates/entry-with-analysis.example.json** | Candidate dictionary anchors + full-stage short analysis |
 | **templates/reviewer-verdict.example.json** | Separate reviewer verdict schema; NOT actual signed approval |
+| **templates/MAIMEMO-WEB-PARITY-REVIEW.md** | Evidence-based feature-by-feature mature-Web comparison |
+| **templates/CONTENT-UPDATE-REPORT.md** | Repeatable per-batch counts, reviewer evidence and publication status |
+| **templates/OWNER-PREVIEW-ACCEPTANCE.md** | User-visible real-content UAT and separate design/implementation/release permissions |
 | **prompts/CODEX-KICKOFF.md** | Copy/paste first-turn request for future Codex |
 | **prompts/CONTENT-WRITER.md** | Writer's responsibilities, required draft output and no-hallucination rule |
 | **prompts/INDEPENDENT-REVIEWER.md** | Separate reviewer checklist and stop/fail rules |
+| **prompts/NEXT-VOCABULARY-UPDATE.md** | Copy/paste prompt for future authorized manual batches |
 | **workflows/PR-QUALITY-GATE.proposed.yml** | **Proposal only** for a safe pull-request quality check; not installed as a production GitHub Action |
 
 All sample JSON and sample interpretations are **training examples, not production-ready semantic QA receipts**. Never publish sample entries as if an independent reviewer approved them.
