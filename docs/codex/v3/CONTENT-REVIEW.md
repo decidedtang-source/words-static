@@ -1,5 +1,10 @@
 # V3 independent content review
 
+## 后续内容修订注意：Semantic Bridge
+
+本文件的 APPROVE 仅针对上述 exact candidate hash 与当时检查范围。新增 [SEMANTIC-BRIDGE.md](SEMANTIC-BRIDGE.md) 是进一步的内容连续性标准，不会追溯性地让旧候选自动通过，也不否定当时已完成的源义项/十阶段审核。若依此修改 working definition 或其他金样，必须重算候选hash，并由独立 Reviewer 对新的完整语义链重新审阅；旧回执不得复用。
+
+
 Date: 2026-11-01. Verdict: **APPROVE** for these five candidate analysis entries only.
 
 Writer: codex-v3-writer-20261101. Independent reviewer: codex-independent-reviewer:/root/v3_content_review. Review ID: v3-content-20261101-ba0293bd-dcb6-49a7-ba87-a41f1b9af546. This reviewer inspected the candidate and the actual read-only OEWN 2025 SQLite source; prior approval was not inherited.
