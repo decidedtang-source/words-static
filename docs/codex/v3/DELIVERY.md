@@ -1,8 +1,10 @@
 # V3 candidate delivery — READY_FOR_OWNER_REVIEW
 
-## Latest Owner content-direction update (2026-11-01)
+## Latest Owner content-direction update: Semantic Bridge is an added transition, NOT a replacement
 
-Owner has clarified that the concise analysis must preserve the entire original Project Instructions, compressed into four unified parts; the whole phrase is one analysis unit. See [SEMANTIC-BRIDGE.md](SEMANTIC-BRIDGE.md), [OPERATIONS.md](OPERATIONS.md) and [QA.md](QA.md). This is a **new content-quality requirement**, not a UI redesign. The earlier five-entry independent approval applies only to its exact old candidate hash. **Working definition and the other four entries have not yet been re-reviewed against the new four-part/whole-phrase bridge standard**. PR #5 remains awaiting this content revision and Owner UAT; no production release implied.
+The latest instruction supersedes the previous four-part replacement proposal. **Preserve all existing V3 dictionary/sentence UI and all five original analysis sections. Insert a separate, unnumbered Semantic Bridge between them.** See [SEMANTIC-BRIDGE.md](SEMANTIC-BRIDGE.md), [OPERATIONS.md](OPERATIONS.md), [PRODUCT.md](PRODUCT.md) and [QA.md](QA.md). One phrase remains one analysis target; the Bridge explains context sense→semantic decomposition→whole phrase→current sentence, and the five original sections still teach memory, syntax/concept, contrast/neighbors, language game/pragmatics and workplace use.
+
+Only an **offline static HTML comparative preview** has been generated in the conversation; this branch has **not** integrated the Bridge into production UI or changed the five content entries. The previous five-entry content receipt approves the prior exact hash only and does **not** approve a future added Bridge. Any future approved UI/content implementation must regenerate content hashes and obtain independent semantic review plus Owner UAT. PR #5 remains Draft / NOT_DEPLOYED.
 
 
 Date: 2026-11-01. Official product remains GitHub Pages words-static. This is the actual application candidate in Draft PR #5, not a replacement local product. Main remains cfa2ecc19fddf2fac7508c642f8580b1b5a85838; G2 absent; Task6 NOT_STARTED.
