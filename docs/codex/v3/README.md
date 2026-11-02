@@ -1,5 +1,8 @@
 # UI-V3 总规划与执行入口
 
+> **最新 Owner 决定**：[B 默认、C1 按需切换｜Codex 自行决定具体实施](OWNER-B-C1-PRODUCT-BRIEF.md)。V3 原词典与原五区完全保留；新增 Bridge 默认 B 场景式讲解，C1 是同一块里的可选深入证据/词义探索；A 仅可留作内部基线，不是用户模式。Codex 先复现 B/C1、评分、独立核对，再在隔离分支实施候选，不经额外授权不合并/部署。本入口下面旧 A/B/C 三模式比较仅作为历史试验记录，**不是最新产品需求**。
+
+
 ## 最新实验：双模块 Workflow + 五种词类 × A/B/C 共15个语义桥版本
 
 先读 [双模块完整 Workflow](https://github.com/decidedtang-source/words-static/blob/feature/words-static-p1-p3/docs/codex/v3/TWO-PART-LEXICAL-WORKFLOW.md)，再看 [15个版本的初评与QA范围](https://github.com/decidedtang-source/words-static/blob/feature/words-static-p1-p3/docs/codex/v3/TWO-PART-WORKFLOW-REVIEW.md)。用户要求 **模块A：成熟学习词典式现代基本义/词典证据/当前义/独立 Bridge；模块B：原 01–05 五区全部保留**。不能把桥替换五区，也不能只要求一套万能“原意推导”。本轮用 shift、working definition、outcome framing、take into account、条件式排程句各试三版（词典直连/基本义＋画面/来源核对），建议候选分别 B/B/C/A/B。15版分数属于助手预审，不是独立 reviewer PASS，也没有修改运行时 JSON/正式页面；该 HTML 原型在本对话附件供 Owner 试读。
