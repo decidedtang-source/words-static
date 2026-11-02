@@ -1,5 +1,9 @@
 # 内容更新、Agent分工与发布运行手册
 
+## 新增 Writer 风格要求：先讲常用基本义，再自然联系当前义
+
+请读 [WORD-SENSE-PATH.md](WORD-SENSE-PATH.md) 的 shift 金样。对独立多义词，优先给学习者一个有帮助的现代常见义（例如 shift＝移动、改变），再借一个具体自然场景说明为什么在当前语境中选另一个义项（人员轮换→班次）。必要时提供可核词源旁注，但不能把这种现代记忆链写成有确定证据的历史发展链。对于没有自然联系的义项，承认需要分别记忆；固定习语先讲整体义。整篇必须仍是 V3 词典/本句 → 独立 Bridge → 原 01–05 五区，不增加新的编号，也不拆成各组成词的重复五区。
+
 ## Writer 内容合同更新：单独一段 Bridge，然后原五区全部保留
 
 [SEMANTIC-BRIDGE.md](SEMANTIC-BRIDGE.md) 与 [CHATGPT_PROJECT_INSTRUCTIONS.md](../../CHATGPT_PROJECT_INSTRUCTIONS.md) 是上位要求：**V3 前半词典/本句区域保持现状；增加独立、未编号的 semantic bridge；继续原 01–05 五区。** Bridge 说明选择哪个词典义项、其中什么意义成分重要、这些成分如何形成整个词组意义，并交代本句为何这样说。
