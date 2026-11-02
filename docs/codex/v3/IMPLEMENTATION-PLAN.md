@@ -1,5 +1,10 @@
 # Words Static UI-V3 Implementation Plan
 
+## New content extension: semantic transition BETWEEN dictionary and existing five groups
+
+This latest Owner requirement **adds** a task; it does not reopen accepted V3 UI design or replace the five groups. See [SEMANTIC-BRIDGE.md](SEMANTIC-BRIDGE.md). In an isolated implementation branch, propose a reviewed/hashed bridge data field (v2-compatible extension with new receipt; no silent upgrade), render it **after the original V3 current-sense/example/extra dictionary block and before the original five groups**, and test that all old five groups remain visible in the same order. Do not derive unreviewed bridge content in browser JS, or substitute g1 for the bridge. First revise the working definition candidate and independently re-review its exact new content hash; then examine other four reviewed cases. **This paragraph does not authorize modifying production main or triggering Pages.**
+
+
 > **For agentic workers:** REQUIRED SUB-SKILL: use superpowers:executing-plans for task-by-task implementation. Preserve one independent whole-branch code review and a separate content reviewer. Do not restart the accepted UI design.
 
 **Goal:** 将已冻结V3接入真实词汇学习系统，准确显示语境义项，安全展开其他义项，并保留全部学习数据。
