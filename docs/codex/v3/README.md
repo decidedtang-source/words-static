@@ -1,12 +1,10 @@
 # UI-V3 总规划与执行入口
 
-## Semantic Bridge 已按项目指令收敛为四部分
+## Owner 最新校正：保留 V3 前半与五区，只在中间新增语义桥
 
-[SEMANTIC-BRIDGE.md](SEMANTIC-BRIDGE.md) 是既有 Project Instructions 的网页简化版，不是替代框架。展示结构统一为四部分：① Dictionary；② Memory + Semantic Connection；③ Context（Syntax / Concept / Contrast）；④ Language Game（English Neighbors / Pragmatic Action / Workplace Use）。**一个目标词组只做一套完整四部分分析**；组成词只作为解释整体意义的支点，不为每个词分别复制四部分。V3 schema 允许4–5组 displayGroups，默认优先四组；不得因分组数量而删掉原项目步骤。
+[SEMANTIC-BRIDGE.md](SEMANTIC-BRIDGE.md) 是当前最新内容位置与连续性规范，**优先于此前“四部分替代五区”的规划**。正确顺序：V3 原词典及本句提示 → 单独一段默认直显的 Semantic Bridge（不编号）→ 原 01–05 五区（记忆、句法概念、辨析邻居、语言游戏/言语动作、工作使用）→ 学习例句及双复制。五区原方法与先后顺序全部保留，整个词组只分析一次，组成词只提供证据。
 
-## 新增内容质量要求：Semantic Bridge
-
-阅读 [SEMANTIC-BRIDGE.md](SEMANTIC-BRIDGE.md)。它要求词典义项、当前选义、语义分解、词组组合、原句解释与语言实践之间有可说明的连续推导。working definition 是完整金样；当前五项旧审核回执不自动覆盖按新标准修改后的内容，任何候选改动须重新计算hash并独立复审。
+Bridge 必须解释所选义项为何能组合成当前词组义，以及该意义怎样用于原句。不能把桥替换成 g1，也不能让 g1–g5 消失。原五项旧内容及旧审核回执不自动覆盖新桥；任何正式候选正文更改均须重新计算 hash 并独立复审。HTML 样机是独立文件，不属于已部署正式网页。
 
 
 日期：2026-11-01（Asia/Taipei）。状态：**READY_FOR_OWNER_REVIEW**。
