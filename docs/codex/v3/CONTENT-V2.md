@@ -1,16 +1,14 @@
 # V3 数据合同增量 — 候选已实现
 
-## 简析结构与整体分析单位（最新）
+## 最新内容合同：词典/本句 → 单独桥接 → 原五组
 
-按 [SEMANTIC-BRIDGE.md](SEMANTIC-BRIDGE.md) 采用四部分：Dictionary；Memory + Semantic Connection；Context（Syntax / Concept / Contrast）；Language Game（English Neighbors / Pragmatic Action / Workplace Use）。它是现有项目指令的紧凑显示版，不能漏掉原有步骤。
-
-整个用户目标（尤其多词组成的词组）是唯一分析单位。组成词的词典义项可以作为 Dictionary/Bridge 的证据，但不得对每个组成词重复一整套四阶段解释。现有 displayGroups 4–5 项结构足够承载该内容，默认四组，不需先增加schema字段。
+[SEMANTIC-BRIDGE.md](SEMANTIC-BRIDGE.md) 已纠正此前把四部分替换五区的误解。网页上现有 V3 词典与本句区不动；新增语义桥**作为独立非编号段落**；原 displayGroups 01–05 五组全部保留，完整承担原项目的 Memory/Semantic、Syntax/Concept、Contrast/Neighbors、Language Game/Pragmatic Action、Workplace Use。整个词组/整句是唯一分析单位，组成词只是桥接证据。旧 v2 schema 4–5组是兼容范围；新带语境候选业务 QA 应要求五区。
 
 ## 内容连续性要求：Semantic Bridge
 
-v2 当前 presentation 字段提供 displayGloss、contextSenseRefs 与 contextTakeaway，但**没有独立的 semanticBridge 字段**。当前先把桥接作为 Writer/Reviewer 的必需内容标准：在 g1 明确完成“词典所选义项→语义分解→组合意义”，g2 接续解释当前句法/概念，g3–g5 继续承接，而不是各写各的。完整示例见 [SEMANTIC-BRIDGE.md](SEMANTIC-BRIDGE.md)。
+v2 当前 presentation 字段提供 displayGloss、contextSenseRefs 与 contextTakeaway，**没有可单独持久化、展示、审核的 semanticBridge 字段**。要在上方 V3 词典与下方五区之间真实插入独立桥，Codex 应提出最小新增字段/sidecar 与严格来源 refs、内容 hash、独立 review receipt；不得仅把 g1 移到上方，造成五区缺失。完整示例见 [SEMANTIC-BRIDGE.md](SEMANTIC-BRIDGE.md)。
 
-本轮不应为了增加字段而立即升级 schema 或重做 UI。如果后续确实需要将桥接步骤结构化，须另提 schema 设计、迁移兼容、逐阶段证据和独立回执版本变更；不可把新增字段默认视为内容质量已经改善。
+本轮先把独立 Bridge 的位置/内容/QA 规范交给 Owner。后续代码实施必须遵循**版本兼容 schema、真实桥接内容与独立审核回执**，避免改动既有 v1/v2 字段与 FSRS。仅增加一个空桥字段，不能算内容质量达标。
 
 
 候选并行支持v1和v2；新增schema与独立v2回执，不覆写旧v1回执。真实批次见content/reviewed/v3-goldens.json；证据见DELIVERY.md。
