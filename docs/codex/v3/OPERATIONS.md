@@ -1,5 +1,10 @@
 # 内容更新、Agent分工与发布运行手册
 
+## 新增双模块生成/审核入口（必须读）
+
+[完整 Workflow](https://github.com/decidedtang-source/words-static/blob/feature/words-static-p1-p3/docs/codex/v3/TWO-PART-LEXICAL-WORKFLOW.md)：W0 选词/隐私 → W1 合法词典源核对 → W2 现代基本义/当前选义/可选历史词源分离 → W3 按词类分流 → W4 为难词起草A词典直连/B基本义场景/C来源核对三种桥 → W5 独立事实核查 → W6 独立教学核查 → W7 Owner V3真实页面对照 → W8 新数据字段/hash/receipt → W9 G2发布。再读 [5个词类15版的初评](https://github.com/decidedtang-source/words-static/blob/feature/words-static-p1-p3/docs/codex/v3/TWO-PART-WORKFLOW-REVIEW.md)。Bridge **独立未编号**，后面 01–05 全保留，词组只分析一次。普通词不必每次生成三版；三版用于难词与内容基线的对比验证。墨墨与商业词典数据不能未经许可复制到公开仓库；原有定时任务/Notion/FSRS不动。
+
+
 ## 新增 Writer 风格要求：先讲常用基本义，再自然联系当前义
 
 请读 [WORD-SENSE-PATH.md](WORD-SENSE-PATH.md) 的 shift 金样。对独立多义词，优先给学习者一个有帮助的现代常见义（例如 shift＝移动、改变），再借一个具体自然场景说明为什么在当前语境中选另一个义项（人员轮换→班次）。必要时提供可核词源旁注，但不能把这种现代记忆链写成有确定证据的历史发展链。对于没有自然联系的义项，承认需要分别记忆；固定习语先讲整体义。整篇必须仍是 V3 词典/本句 → 独立 Bridge → 原 01–05 五区，不增加新的编号，也不拆成各组成词的重复五区。
