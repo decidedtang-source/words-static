@@ -1,5 +1,11 @@
 # V3 QA与验收矩阵
 
+## 新增 Q2：学习词典式“基本义到当前义”是否真实、自然
+
+见 [WORD-SENSE-PATH.md](WORD-SENSE-PATH.md)。独立审阅须确认 Bridge 首先让学习者抓住一个可靠、可记的**现代基本义**，并通过一个具体场景连接当前义；如果语义联系不自然，要明确分开记，而不是强制所有义项属于单一原义。审核时严格区分：**词典中的现代义项 / 教学用语义联想 / 经核实的历史词源**。对 shift，合理教学路径是“移动/改变 → 工作中人员轮换 → 轮到某组工作的时段＝班次”；但不能冒充其词源的唯一历史演化。词源资料表明更早的 Old English sciftan 包含安排/划分/分配义，工作时段义见于十九世纪早期记录。与 shift＝班次、handover＝交接、changeover＝切换区分。
+
+QA FAIL：只有独立词义清单无联系；宣称 shift 原始义必定就是“移动”；把记忆链说成必然历史；把 Bridge 当成旧五区的替代或其 01 号章节。
+
 ## 新增 Q2：Bridge 仅作过渡、V3 原五区必须全部保留
 
 对 [SEMANTIC-BRIDGE.md](SEMANTIC-BRIDGE.md) 的验收顺序：**① V3 词典/本句（不变）→ ② Semantic Bridge（独立未编号）→ ③ 原 01–05 五区（全部存在、按原序）→ ④ 学习例句/复制**。五区分别对应 Memory/Semantic、Syntax/Concept、Contrast/English Neighbors、Language Game/Pragmatic Action、Workplace Use，完整覆盖既有项目指令。只压缩文字长度，不删结构。
