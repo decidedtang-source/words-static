@@ -1,8 +1,8 @@
 # V3 independent content review
 
-## 2026-11-01 Owner clarification after this review: four-part full-method structure
+## Latest Owner clarification: keep the five analysis groups and insert the Bridge before them
 
-The previous APPROVE is limited to the exact candidate hash and content claims documented above. The new [SEMANTIC-BRIDGE.md](SEMANTIC-BRIDGE.md) now requires the original Project Instructions to be preserved in a compact four-part structure: Dictionary; Memory + Semantic Connection; Context (Syntax / Concept / Contrast); Language Game (English Neighbors / Pragmatic Action / Workplace Use). The whole selected phrase is one analysis unit; component words are cited only as support, not given separate repeated four-stage analyses. The current candidate's prior approval does **not** automatically verify that new authoring standard. Any revision must create a new exact candidate hash and receive independent review. Status of this new standard against current content: **REVIEW_REQUIRED**.
+The previous APPROVE applies only to the exact content hash reviewed below. The corrected [SEMANTIC-BRIDGE.md](SEMANTIC-BRIDGE.md) requires a **separate unnumbered transition** between the existing V3 dictionary/sentence section and **all five original 01–05 analysis groups**, which must not be replaced or shortened to three/four. The whole selected expression is one analysis unit; components only support the Bridge. The reviewed v3 content does **not** yet contain a separately validated/published Bridge, so this new requirement remains **REVIEW_REQUIRED**; any later candidate change must be independently re-reviewed with a new exact hash and matching receipt.
 
 
 ## 后续内容修订注意：Semantic Bridge
