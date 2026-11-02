@@ -1,12 +1,12 @@
 # V3 QA与验收矩阵
 
-## 新增 Q2：项目指令一致性与整体分析单位
+## 新增 Q2：Bridge 仅作过渡、V3 原五区必须全部保留
 
-按 [SEMANTIC-BRIDGE.md](SEMANTIC-BRIDGE.md) 检查：四部分必须依次为 Dictionary → Memory/Semantic Connection → Context(Syntax/Concept/Contrast) → Language Game(English Neighbors/Pragmatic Action/Workplace Use)。这四部分必须实际覆盖原项目指令所有核心环节；篇幅短不等于删掉方法。
+对 [SEMANTIC-BRIDGE.md](SEMANTIC-BRIDGE.md) 的验收顺序：**① V3 词典/本句（不变）→ ② Semantic Bridge（独立未编号）→ ③ 原 01–05 五区（全部存在、按原序）→ ④ 学习例句/复制**。五区分别对应 Memory/Semantic、Syntax/Concept、Contrast/English Neighbors、Language Game/Pragmatic Action、Workplace Use，完整覆盖既有项目指令。只压缩文字长度，不删结构。
 
-对于词组，**一个完整词组是一条分析对象、一套四部分解释**。例如 working definition 不允许分别给 working 写四段、definition 写四段，再另写组合结论。可以在 Dictionary 段分别引用两个组成词的相关义项，但 Memory/Bridge 段必须把两者如何组合解释成一个整体；后两段也都围绕整个词组。固定习语先讲整体意义，句子以整句为分析单位。
+词组（如 working definition）是唯一分析对象，组成词仅作语义桥依据，不给 working、definition 各自重复五区。桥必须解释所选 sense→义内成分→组合意义→放回本句；五区要继续处理记忆、句法、辨析、言语动作与使用，而非被桥替代。
 
-QA FAIL：缺失原项目步骤；拆词重复生成多套完整流程；只有组件义项列表而没有整体意义桥；g2/g3/g4各自正确却与整体目标脱节。QA PASS：四部分连贯，读者能从词典依据推导到整体词组含义，再理解原句与实践作用。schema允许4–5 displayGroups，默认4组；第五组仅可作可读性拆分，不能当作额外步骤。
+QA FAIL：把五区换成三/四区，桥被编号01，缺少某一区，逐词生成多套五区，桥和 g1 机械重复，桥无法说明当前义为什么成立，旧 review hash 被用于新桥。Q2 PASS 需要真实桥内容与新候选 hash/独立 Reviewer，不能只通过 schema 的 minItems=4。
 
 ## Q2 新增：Semantic Bridge 连续性
 
