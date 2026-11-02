@@ -6,3 +6,5 @@
 **追加的 Shift 教学风格硬门**：读 [WORD-SENSE-PATH.md](../v3/WORD-SENSE-PATH.md)。对多义词先用现代熟悉义作记忆锚点，再借自然的具体场景连接到本句所选义项；区别这一教学链与真实历史词源。shift 可以用“移动/改变 → 班组轮换 → 一段当班时间”作记忆解释，但最早古英语义不是“移动”，不能制造历史断言。词义无法自然联系时请分别记；原五区不可被桥代替。
 
 权威：[总入口](../v3/README.md) · [计划](../v3/IMPLEMENTATION-PLAN.md)。
+
+**新增双模块多版试验**：参考 [TWO-PART-LEXICAL-WORKFLOW.md](../v3/TWO-PART-LEXICAL-WORKFLOW.md) 和 [TWO-PART-WORKFLOW-REVIEW.md](../v3/TWO-PART-WORKFLOW-REVIEW.md)。难词可用相同来源证据起草A词典直连/B现代基本义＋具体画面/C来源核对三种独立桥；**原V3词典及 01–05 五区不变**。对多义词展示自然的现代学习义，再有根据地联系当句义；古语原意须有专门词源证据；对习语先解释整条义。Bridge草稿不得由Writer给自己签名，必须交新上下文Reviewer。
