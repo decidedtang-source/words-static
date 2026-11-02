@@ -1,5 +1,10 @@
 # UI-V3 总规划与执行入口
 
+## 最新实验：双模块 Workflow + 五种词类 × A/B/C 共15个语义桥版本
+
+先读 [双模块完整 Workflow](https://github.com/decidedtang-source/words-static/blob/feature/words-static-p1-p3/docs/codex/v3/TWO-PART-LEXICAL-WORKFLOW.md)，再看 [15个版本的初评与QA范围](https://github.com/decidedtang-source/words-static/blob/feature/words-static-p1-p3/docs/codex/v3/TWO-PART-WORKFLOW-REVIEW.md)。用户要求 **模块A：成熟学习词典式现代基本义/词典证据/当前义/独立 Bridge；模块B：原 01–05 五区全部保留**。不能把桥替换五区，也不能只要求一套万能“原意推导”。本轮用 shift、working definition、outcome framing、take into account、条件式排程句各试三版（词典直连/基本义＋画面/来源核对），建议候选分别 B/B/C/A/B。15版分数属于助手预审，不是独立 reviewer PASS，也没有修改运行时 JSON/正式页面；该 HTML 原型在本对话附件供 Owner 试读。
+
+
 ## Owner 最新校正：保留 V3 前半与五区，只在中间新增语义桥
 
 [SEMANTIC-BRIDGE.md](SEMANTIC-BRIDGE.md) 是当前最新内容位置与连续性规范，**优先于此前“四部分替代五区”的规划**。正确顺序：V3 原词典及本句提示 → 单独一段默认直显的 Semantic Bridge（不编号）→ 原 01–05 五区（记忆、句法概念、辨析邻居、语言游戏/言语动作、工作使用）→ 学习例句及双复制。五区原方法与先后顺序全部保留，整个词组只分析一次，组成词只提供证据。
