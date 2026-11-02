@@ -1,5 +1,10 @@
 # V3 QA与验收矩阵
 
+## 双模块 Workflow 的新增审查门
+
+本次研究见 [Workflow](https://github.com/decidedtang-source/words-static/blob/feature/words-static-p1-p3/docs/codex/v3/TWO-PART-LEXICAL-WORKFLOW.md) 与 [A/B/C 预评审](https://github.com/decidedtang-source/words-static/blob/feature/words-static-p1-p3/docs/codex/v3/TWO-PART-WORKFLOW-REVIEW.md)。五维评分为 source/POS真实性、现代意义锚点的记忆价值、语义联系连续性、原句承诺边界、与原五区分工；每项0–5、总25。**重大义项或历史词源错误、版权/隐私失控一票否决，不可用平均分遮盖**。同一词的A/B/C必须保持前半V3词典/本句和后半01–05正文逐字相同，仅更换独立Bridge，以隔离评估原因。15候选已完成助手初评和离线HTML模拟（60组显示，四宽度零水平溢出），但没完成独立语义审查，不得标APPROVED；更不能把旧v2 review receipt当新桥批准。
+
+
 ## 新增 Q2：学习词典式“基本义到当前义”是否真实、自然
 
 见 [WORD-SENSE-PATH.md](WORD-SENSE-PATH.md)。独立审阅须确认 Bridge 首先让学习者抓住一个可靠、可记的**现代基本义**，并通过一个具体场景连接当前义；如果语义联系不自然，要明确分开记，而不是强制所有义项属于单一原义。审核时严格区分：**词典中的现代义项 / 教学用语义联想 / 经核实的历史词源**。对 shift，合理教学路径是“移动/改变 → 工作中人员轮换 → 轮到某组工作的时段＝班次”；但不能冒充其词源的唯一历史演化。词源资料表明更早的 Old English sciftan 包含安排/划分/分配义，工作时段义见于十九世纪早期记录。与 shift＝班次、handover＝交接、changeover＝切换区分。
