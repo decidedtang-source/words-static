@@ -1,5 +1,10 @@
 # Codex working contract — Words Static / English Vocabulary
 
+## Latest Owner instruction — preserve V3, add Bridge before the original five groups
+
+Read [the corrected V3 Semantic Bridge specification](docs/codex/v3/SEMANTIC-BRIDGE.md) first. The previously suggested "four sections replacing five" and the sample "three sections replacing five" are **rejected**. **Keep all existing V3 header/dictionary/current sense/example/expanded-dictionary behavior. Add one independent, unnumbered semantic transition immediately before all five original analysis groups (01 memory, 02 syntax/concept, 03 contrast/neighbors, 04 language game/pragmatics, 05 workplace use). Do not delete or renumber them.** One phrase has one Bridge and one full five-group explanation, not one per component word. The new bridge has to be independently source-anchored, versioned and reviewed; the old hash receipt does not approve it. Only planning and demo changed so far; not the live site.
+
+
 **Status: UI-V3 design is Owner-approved and registered; V3 candidate implementation is complete pending Owner UAT; release remains separately gated.**
 
 This repository is the user's **official vocabulary website**, published at https://decidedtang-source.github.io/words-static/ . Its **main** branch triggers GitHub Pages deployment. Do not switch the product to the separate experimental Node/SQLite app, invent a second daily generator, or treat documentation commits as product delivery.
