@@ -1,0 +1,22 @@
+{
+  "status": "ILLUSTRATIVE_NOT_APPROVED",
+  "note": "Planned v2 presentation fragment; not a production projection or receipt. Resolve real entry IDs before use.",
+  "presentation": {
+    "version": 1,
+    "displayGloss": "工作定义；暂定采用的定义",
+    "glossKind": "compositional",
+    "contextTakeaway": "这里先约定用于当前判断的定义；这是提议而不是已经达成共识。",
+    "contextSenseRefs": [
+      {
+        "entryId": "REPLACE_WITH_REVIEWED_WORKING_ENTRY_ID",
+        "senseId": "working%5:00:00:impermanent:00",
+        "role": "component"
+      },
+      {
+        "entryId": "REPLACE_WITH_REVIEWED_DEFINITION_ENTRY_ID",
+        "senseId": "definition%1:10:00::",
+        "role": "component"
+      }
+    ]
+  }
+}

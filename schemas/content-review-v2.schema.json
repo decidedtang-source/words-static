@@ -1,0 +1,224 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "properties": {
+    "schema": {
+      "const": 2
+    },
+    "candidateHash": {
+      "type": "string",
+      "pattern": "^[a-f0-9]{64}$"
+    },
+    "sourceSnapshotHash": {
+      "type": "string",
+      "pattern": "^[a-f0-9]{64}$"
+    },
+    "sourceManifestHash": {
+      "type": "string",
+      "pattern": "^[a-f0-9]{64}$"
+    },
+    "rulesVersion": {
+      "const": "reviewed-content-v2"
+    },
+    "writerId": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 200
+    },
+    "reviewerId": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 200
+    },
+    "reviewId": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 200
+    },
+    "verdict": {
+      "type": "string",
+      "enum": [
+        "APPROVE",
+        "REVISE",
+        "QUARANTINE",
+        "BLOCK"
+      ]
+    },
+    "privacy": {
+      "type": "string",
+      "enum": [
+        "PASS",
+        "FAIL"
+      ]
+    },
+    "rights": {
+      "type": "string",
+      "enum": [
+        "PASS",
+        "FAIL"
+      ]
+    },
+    "stages": {
+      "type": "object",
+      "additionalProperties": {
+        "type": "object",
+        "properties": {
+          "dictionary": {
+            "type": "string",
+            "enum": [
+              "PASS",
+              "NOT_APPLICABLE_WITH_REASON",
+              "NEEDS_EVIDENCE",
+              "FAIL"
+            ]
+          },
+          "memory": {
+            "type": "string",
+            "enum": [
+              "PASS",
+              "NOT_APPLICABLE_WITH_REASON",
+              "NEEDS_EVIDENCE",
+              "FAIL"
+            ]
+          },
+          "semanticConnection": {
+            "type": "string",
+            "enum": [
+              "PASS",
+              "NOT_APPLICABLE_WITH_REASON",
+              "NEEDS_EVIDENCE",
+              "FAIL"
+            ]
+          },
+          "syntax": {
+            "type": "string",
+            "enum": [
+              "PASS",
+              "NOT_APPLICABLE_WITH_REASON",
+              "NEEDS_EVIDENCE",
+              "FAIL"
+            ]
+          },
+          "concept": {
+            "type": "string",
+            "enum": [
+              "PASS",
+              "NOT_APPLICABLE_WITH_REASON",
+              "NEEDS_EVIDENCE",
+              "FAIL"
+            ]
+          },
+          "contrast": {
+            "type": "string",
+            "enum": [
+              "PASS",
+              "NOT_APPLICABLE_WITH_REASON",
+              "NEEDS_EVIDENCE",
+              "FAIL"
+            ]
+          },
+          "languageGame": {
+            "type": "string",
+            "enum": [
+              "PASS",
+              "NOT_APPLICABLE_WITH_REASON",
+              "NEEDS_EVIDENCE",
+              "FAIL"
+            ]
+          },
+          "englishNeighbors": {
+            "type": "string",
+            "enum": [
+              "PASS",
+              "NOT_APPLICABLE_WITH_REASON",
+              "NEEDS_EVIDENCE",
+              "FAIL"
+            ]
+          },
+          "pragmaticAction": {
+            "type": "string",
+            "enum": [
+              "PASS",
+              "NOT_APPLICABLE_WITH_REASON",
+              "NEEDS_EVIDENCE",
+              "FAIL"
+            ]
+          },
+          "workplaceUse": {
+            "type": "string",
+            "enum": [
+              "PASS",
+              "NOT_APPLICABLE_WITH_REASON",
+              "NEEDS_EVIDENCE",
+              "FAIL"
+            ]
+          }
+        },
+        "required": [
+          "dictionary",
+          "memory",
+          "semanticConnection",
+          "syntax",
+          "concept",
+          "contrast",
+          "languageGame",
+          "englishNeighbors",
+          "pragmaticAction",
+          "workplaceUse"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "presentationChecks": {
+      "type": "object",
+      "additionalProperties": {
+        "type": "object",
+        "properties": {
+          "displayGloss": {
+            "enum": [
+              "PASS",
+              "FAIL",
+              "NEEDS_EVIDENCE"
+            ]
+          },
+          "contextSenseRefs": {
+            "enum": [
+              "PASS",
+              "FAIL",
+              "NEEDS_EVIDENCE"
+            ]
+          },
+          "contextTakeaway": {
+            "enum": [
+              "PASS",
+              "FAIL",
+              "NEEDS_EVIDENCE"
+            ]
+          }
+        },
+        "required": [
+          "displayGloss",
+          "contextSenseRefs",
+          "contextTakeaway"
+        ],
+        "additionalProperties": false
+      }
+    }
+  },
+  "required": [
+    "schema",
+    "candidateHash",
+    "sourceSnapshotHash",
+    "sourceManifestHash",
+    "rulesVersion",
+    "writerId",
+    "reviewerId",
+    "reviewId",
+    "verdict",
+    "privacy",
+    "rights",
+    "stages",
+    "presentationChecks"
+  ],
+  "additionalProperties": false
+}

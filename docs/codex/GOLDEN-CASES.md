@@ -1,5 +1,7 @@
 # Six real-text golden teaching examples for Codex
 
+**语义案例保留；默认展示规则以 [V3产品](v3/PRODUCT.md) 与 [QA案例矩阵](v3/QA.md) 为准。历史“全部直显”不再有效；E仍隔离。**
+
 **Purpose**: fill the future page with the actual kinds of content the user requested, not empty UI mockups. The following are **candidate pedagogical drafts**, not a licence grant, official dictionary quotation, or independent semantic QA receipt. A sentence labelled "学习例句" must never be relabelled "客户原句" without evidence.
 
 Every example must appear in three product modes (lookup showing answers, concealed study front, revealed study back). The dictionary senses must be sourced separately from our own explanations; the four/five short paragraphs should answer **all applicable** original Syntax→Concept→Contrast→Language Game→English Neighbors→Pragmatic Action→Workplace Use questions.

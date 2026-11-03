@@ -1,5 +1,7 @@
 # Words Static 产品规划审阅包
 
+**HISTORICAL：本目录为2026-10-31设计/评审证据。当前计划从 [V3](../v3/README.md) 开始；不要按本目录旧UI规则重新实施。**
+
 **READY_FOR_OWNER_REVIEW · IMPLEMENTATION_NOT_STARTED · NO_PAGES_DEPLOYMENT**
 
 当前正式产品继续是 [Words Static GitHub Pages](https://decidedtang-source.github.io/words-static/)。本轮基于正式 main `cfa2ecc19fddf2fac7508c642f8580b1b5a85838`、Draft PR #4 `9858886dafecbab22d55c980d160a54bd6a98a06`，完成独立审阅、六组完整选义范围的内容预览和可执行分阶段计划。保留GitHub Pages、FSRS和本地学习记录；Notion仅选词，历史整理全部暂停。

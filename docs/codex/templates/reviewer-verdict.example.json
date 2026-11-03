@@ -1,86 +1,27 @@
 {
-  "schemaVersion": "independent-review/v0.1-proposal",
-  "status": "EXAMPLE_ONLY_NOT_AN_ACTUAL_REVIEW",
-  "candidateKey": "DEMO:shift:001",
-  "candidateHash": null,
-  "reviewerRunId": null,
-  "reviewContext": "MUST_BE_SEPARATE_FROM_WRITER",
-  "dictionarySourceSnapshot": "oewn:2025:094517cfd433d7f9",
-  "sourceVerification": "NOT_EXECUTED",
-  "rightsVerification": "NOT_EXECUTED",
-  "privacyVerification": "NOT_EXECUTED",
-  "idUniquenessVerification": "NOT_EXECUTED",
-  "stageVerdicts": {
-    "Dictionary": {
-      "verdict": "NOT_REVIEWED",
-      "evidence": [],
-      "findings": []
-    },
-    "Memory": {
-      "verdict": "NOT_REVIEWED",
-      "evidence": [],
-      "findings": []
-    },
-    "Semantic Connection": {
-      "verdict": "NOT_REVIEWED",
-      "evidence": [],
-      "findings": []
-    },
-    "Syntax": {
-      "verdict": "NOT_REVIEWED",
-      "evidence": [],
-      "findings": []
-    },
-    "Concept": {
-      "verdict": "NOT_REVIEWED",
-      "evidence": [],
-      "findings": []
-    },
-    "Contrast": {
-      "verdict": "NOT_REVIEWED",
-      "evidence": [],
-      "findings": []
-    },
-    "Language Game": {
-      "verdict": "NOT_REVIEWED",
-      "evidence": [],
-      "findings": []
-    },
-    "English Neighbors": {
-      "verdict": "NOT_REVIEWED",
-      "evidence": [],
-      "findings": []
-    },
-    "Pragmatic Action": {
-      "verdict": "NOT_REVIEWED",
-      "evidence": [],
-      "findings": []
-    },
-    "Workplace Use": {
-      "verdict": "NOT_REVIEWED",
-      "evidence": [],
-      "findings": []
+  "schema": 1,
+  "candidateHash": "e663578a88be9681cc16241eb93f3c37efee4633f29619c3ce806960a9f41f92",
+  "sourceSnapshotHash": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+  "sourceManifestHash": "c4b888b95a667959d30f27abd8c3ab630baabeebd21781ccb0c96ae47d621e6f",
+  "rulesVersion": "reviewed-content-v1",
+  "writerId": "writer-test",
+  "reviewerId": "reviewer-test",
+  "reviewId": "template-not-reviewed",
+  "verdict": "BLOCK",
+  "privacy": "PASS",
+  "rights": "PASS",
+  "stages": {
+    "NEW-001": {
+      "dictionary": "PASS",
+      "memory": "PASS",
+      "semanticConnection": "PASS",
+      "syntax": "PASS",
+      "concept": "PASS",
+      "contrast": "PASS",
+      "languageGame": "PASS",
+      "englishNeighbors": "PASS",
+      "pragmaticAction": "PASS",
+      "workplaceUse": "PASS"
     }
-  },
-  "negativeTests": [
-    {
-      "id": "shift-not-change-in-next-shift",
-      "verdict": "NOT_RUN",
-      "mustReject": "Translate the next shift as next change/transition"
-    },
-    {
-      "id": "no-fake-approval",
-      "verdict": "NOT_RUN",
-      "mustReject": "Interpret requirement as a formal customer approval"
-    },
-    {
-      "id": "no-fake-source",
-      "verdict": "NOT_RUN",
-      "mustReject": "Attribute self-authored teaching gloss to Cambridge/Oxford"
-    }
-  ],
-  "overallDisposition": "REVIEW_NOT_STARTED",
-  "reviewerDecision": "CANNOT_APPROVE_WITHOUT_SOURCE_AND_EXACT_HASH",
-  "approvedContentHash": null,
-  "reviewedAt": null
+  }
 }

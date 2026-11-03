@@ -1,0 +1,2 @@
+import {fixture,rehash} from './reviewed-fixture.mjs';
+export function v2fixture(){const f=fixture();f.projection.schema=f.receipt.schema=2;f.receipt.rulesVersion=f.baseManifest.rulesVersion='reviewed-content-v2';f.projection.analysis[0].presentation={version:1,displayGloss:'班次',glossKind:'source_summary',contextTakeaway:'这里指下一班的工作时段。',contextSenseRefs:[{entryId:'entry-shift',senseId:'shift%1:28:00::',role:'whole'}]};f.receipt.presentationChecks={'NEW-001':{displayGloss:'PASS',contextSenseRefs:'PASS',contextTakeaway:'PASS'}};return rehash(f)}

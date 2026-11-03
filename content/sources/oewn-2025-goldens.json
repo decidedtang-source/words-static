@@ -1,0 +1,372 @@
+{
+  "schema": 1,
+  "snapshotHash": "a78e8615e519ed24c9af58482159230f49c558be89104d8d511f3c7939ec5eb0",
+  "source": "Open English Wordnet 2025",
+  "license": "CC BY 4.0 + Princeton WordNet notice",
+  "entries": [
+    {
+      "id": "223a739affd6ab021c0688656fd61bb89d6992400de4386f8aecdf90c9dd7785",
+      "lemma": "shift",
+      "pos": "n",
+      "sourceEntryId": "entries-s.json/shift/n",
+      "release": "2025",
+      "senses": [
+        {
+          "id": "shift%1:11:01::",
+          "definitionEn": "a qualitative change",
+          "glossZh": "性质上的变化",
+          "sourceExamples": []
+        },
+        {
+          "id": "shift%1:28:00::",
+          "definitionEn": "the time period during which you are at work",
+          "glossZh": "班次；一段当班时间",
+          "sourceExamples": []
+        }
+      ],
+      "source": "Open English Wordnet 2025"
+    },
+    {
+      "id": "5b738a6ecd447e24f561ed817d84b8fdfc53db54c659f6167e69a22fabbe9d1e",
+      "lemma": "shift",
+      "pos": "v",
+      "sourceEntryId": "entries-s.json/shift/v",
+      "release": "2025",
+      "senses": [
+        {
+          "id": "shift%2:38:00::",
+          "definitionEn": "change place or direction",
+          "glossZh": "移动；改变位置或方向",
+          "sourceExamples": [
+            "Shift one's position"
+          ]
+        },
+        {
+          "id": "shift%2:30:03::",
+          "definitionEn": "move from one setting or context to another",
+          "glossZh": "转移到另一场景或语境",
+          "sourceExamples": [
+            "shift the emphasis",
+            "shift one's attention"
+          ]
+        }
+      ],
+      "source": "Open English Wordnet 2025"
+    },
+    {
+      "id": "9fd40d3b3c8a2a28b1acbe3770accd14ba29dd0fb1c17f4b952bb3440946c5f7",
+      "lemma": "definition",
+      "pos": "n",
+      "sourceEntryId": "entries-d.json/definition/n",
+      "release": "2025",
+      "senses": [
+        {
+          "id": "definition%1:10:00::",
+          "definitionEn": "a concise explanation of the meaning of a word or phrase or symbol",
+          "glossZh": "定义；对词语或符号意义的简要说明",
+          "sourceExamples": []
+        },
+        {
+          "id": "definition%1:07:00::",
+          "definitionEn": "clarity of outline",
+          "glossZh": "轮廓的清晰度",
+          "sourceExamples": [
+            "exercise had given his muscles superior definition"
+          ]
+        }
+      ],
+      "source": "Open English Wordnet 2025"
+    },
+    {
+      "id": "b81aa348e22416a20b9978db1fa709bbdeee49a62e6dd3118fe79f5d48b0d076",
+      "lemma": "working",
+      "pos": "a",
+      "sourceEntryId": "entries-w.json/working/a",
+      "release": "2025",
+      "senses": [
+        {
+          "id": "working%5:00:00:practical:00",
+          "definitionEn": "adequate for practical use; especially sufficient in strength or numbers to accomplish something",
+          "glossZh": "实用的；足以用于实际工作的",
+          "sourceExamples": [
+            "the party has a working majority in the House",
+            "a working knowledge of Spanish"
+          ]
+        },
+        {
+          "id": "working%5:00:00:impermanent:00",
+          "definitionEn": "adopted as a temporary basis for further work",
+          "glossZh": "暂定用作进一步工作基础的",
+          "sourceExamples": [
+            "a working draft",
+            "a working hypothesis"
+          ]
+        },
+        {
+          "id": "working%5:00:00:functioning:00",
+          "definitionEn": "(of e.g. a machine) performing or capable of performing",
+          "glossZh": "正常运转的；能工作的",
+          "sourceExamples": [
+            "in running (or working) order",
+            "a functional set of brakes"
+          ]
+        },
+        {
+          "id": "working%5:00:02:operative:00",
+          "definitionEn": "serving to permit or facilitate further work or activity",
+          "glossZh": "供进一步工作或活动使用的",
+          "sourceExamples": [
+            "discussed the working draft of a peace treaty",
+            "they need working agreements with their neighbor states on interstate projects"
+          ]
+        }
+      ],
+      "source": "Open English Wordnet 2025"
+    },
+    {
+      "id": "2e8444cdf2c29dcdc710d010435b2d5bc060c809a65b31979baac8e34c143602",
+      "lemma": "frame",
+      "pos": "n",
+      "sourceEntryId": "entries-f.json/frame/n",
+      "release": "2025",
+      "senses": [
+        {
+          "id": "frame%1:09:00::",
+          "definitionEn": "a system of assumptions and standards that sanction behavior and give it meaning",
+          "glossZh": "理解或判断事物的观念框架",
+          "sourceExamples": []
+        },
+        {
+          "id": "frame%1:06:00::",
+          "definitionEn": "a framework that supports and protects a picture or a mirror",
+          "glossZh": "画框；镜框",
+          "sourceExamples": [
+            "the frame enhances but is not itself the subject of attention",
+            "the frame was much more valuable than the mirror it held"
+          ]
+        }
+      ],
+      "source": "Open English Wordnet 2025"
+    },
+    {
+      "id": "4ac923b3215f4cc9fde1a69740df725edbdbc3cca17a17f996c27540178a35ff",
+      "lemma": "framing",
+      "pos": "n",
+      "sourceEntryId": "entries-f.json/framing/n",
+      "release": "2025",
+      "senses": [
+        {
+          "id": "framing%1:04:00::",
+          "definitionEn": "formulation of the plans and important details",
+          "glossZh": "计划及重要细节的拟定",
+          "sourceExamples": [
+            "the framing of judicial decrees"
+          ]
+        },
+        {
+          "id": "framing%1:06:00::",
+          "definitionEn": "a framework that supports and protects a picture or a mirror",
+          "glossZh": "画框；镜框的框架",
+          "sourceExamples": [
+            "the frame enhances but is not itself the subject of attention",
+            "the frame was much more valuable than the mirror it held"
+          ]
+        }
+      ],
+      "source": "Open English Wordnet 2025"
+    },
+    {
+      "id": "93042d54aa456527b0958f4ada07717fb2b93231b37e23049f10bf1706e45379",
+      "lemma": "frame",
+      "pos": "v",
+      "sourceEntryId": "entries-f.json/frame/v",
+      "release": "2025",
+      "senses": [
+        {
+          "id": "frame%2:32:00::",
+          "definitionEn": "formulate in a particular style or language",
+          "glossZh": "以某种方式组织、表述",
+          "sourceExamples": [
+            "I wouldn't put it that way",
+            "She cast her request in very polite language"
+          ]
+        },
+        {
+          "id": "frame%2:31:00::",
+          "definitionEn": "make up plans or basic details for",
+          "glossZh": "拟定计划或基本细节",
+          "sourceExamples": [
+            "frame a policy"
+          ]
+        }
+      ],
+      "source": "Open English Wordnet 2025"
+    },
+    {
+      "id": "f2f6f733f036bb3b2d57c0b34299fa8e8cfdff48329f928b307555f6f6ef43cc",
+      "lemma": "outcome",
+      "pos": "n",
+      "sourceEntryId": "entries-o.json/outcome/n",
+      "release": "2025",
+      "senses": [
+        {
+          "id": "outcome%1:11:00::",
+          "definitionEn": "something that results",
+          "glossZh": "结果；某事产生的后果",
+          "sourceExamples": [
+            "he listened for the results on the radio"
+          ]
+        }
+      ],
+      "source": "Open English Wordnet 2025"
+    },
+    {
+      "id": "14fd87b97888f56f57cba79887a771c693d71b5878afb977ada89b90725c8be9",
+      "lemma": "account",
+      "pos": "n",
+      "sourceEntryId": "entries-a.json/account/n",
+      "release": "2025",
+      "senses": [
+        {
+          "id": "account%1:10:00::",
+          "definitionEn": "a record or narrative description of past events",
+          "glossZh": "对事情的叙述、记述",
+          "sourceExamples": [
+            "a history of France",
+            "he gave an inaccurate account of the plot to kill the president",
+            "the story of exposure to lead"
+          ]
+        },
+        {
+          "id": "account%1:26:00::",
+          "definitionEn": "a formal contractual relationship established to provide for regular banking or brokerage or business services",
+          "glossZh": "账户；与银行等建立的业务关系",
+          "sourceExamples": [
+            "he asked to see the executive who handled his account"
+          ]
+        }
+      ],
+      "source": "Open English Wordnet 2025"
+    },
+    {
+      "id": "ad853e2948f9d088c4f79b524a7442bfd9d1def46d7136e34125a4dd5ebc6c55",
+      "lemma": "take into account",
+      "pos": "v",
+      "sourceEntryId": "entries-t.json/take%20into%20account/v",
+      "release": "2025",
+      "senses": [
+        {
+          "id": "take_into_account%2:31:00::",
+          "definitionEn": "allow or plan for a certain possibility; concede the truth or validity of something",
+          "glossZh": "考虑到；把某种可能性或事实纳入考量",
+          "sourceExamples": [
+            "I allow for this possibility",
+            "The seamstress planned for 5% shrinkage after the first wash"
+          ]
+        }
+      ],
+      "source": "Open English Wordnet 2025"
+    },
+    {
+      "id": "dd3dce2fc9ddfe4a50ade593c1bb7419e68c142337bc9001add0a6edfab57a0f",
+      "lemma": "account",
+      "pos": "v",
+      "sourceEntryId": "entries-a.json/account/v",
+      "release": "2025",
+      "senses": [
+        {
+          "id": "account%2:32:00::",
+          "definitionEn": "furnish a justifying analysis or explanation",
+          "glossZh": "作出说明或解释",
+          "sourceExamples": [
+            "I can't account for the missing money"
+          ]
+        }
+      ],
+      "source": "Open English Wordnet 2025"
+    },
+    {
+      "id": "0ba75357e579c8ef0f87bd9cffefa91b0691ab01480111256816bef7e9049bfd",
+      "lemma": "safe",
+      "pos": "a",
+      "sourceEntryId": "entries-s.json/safe/a",
+      "release": "2025",
+      "source": "Open English Wordnet 2025",
+      "senses": [
+        {
+          "id": "safe%3:00:01::",
+          "definitionEn": "free from danger or the risk of harm",
+          "glossZh": "安全的；没有危险或受伤害风险的",
+          "sourceExamples": [
+            "a safe trip",
+            "you will be safe here",
+            "a safe place",
+            "a safe bet"
+          ]
+        },
+        {
+          "id": "safe%5:00:00:unadventurous:00",
+          "definitionEn": "(of an undertaking) secure from risk",
+          "glossZh": "（事业或行动）没有风险的；稳妥的",
+          "sourceExamples": []
+        }
+      ]
+    },
+    {
+      "id": "62abdf82e2303154b8f597bbda8226eb1182a93a3f3afd8f2fc760bc36665710",
+      "lemma": "condition",
+      "pos": "n",
+      "sourceEntryId": "entries-c.json/condition/n",
+      "release": "2025",
+      "source": "Open English Wordnet 2025",
+      "senses": [
+        {
+          "id": "condition%1:26:00::",
+          "definitionEn": "a state at a particular time",
+          "glossZh": "某一时刻的状态；状况",
+          "sourceExamples": [
+            "a condition (or state) of disrepair",
+            "the current status of the arms negotiations"
+          ]
+        },
+        {
+          "id": "condition%1:10:01::",
+          "definitionEn": "an assumption on which rests the validity or effect of something else",
+          "glossZh": "使另一事物成立或生效的前提；条件",
+          "sourceExamples": []
+        },
+        {
+          "id": "condition%1:10:02::",
+          "definitionEn": "(usually plural) a statement of what is required as part of an agreement",
+          "glossZh": "（通常用复数）协议规定的要求；条款",
+          "sourceExamples": [
+            "the contract set out the conditions of the lease",
+            "the terms of the treaty were generous"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c5b74f50da1408ba1edc4c390b7a340561df60865e07165290e708c08ce2e22c",
+      "lemma": "schedule",
+      "pos": "n",
+      "sourceEntryId": "entries-s.json/schedule/n",
+      "release": "2025",
+      "source": "Open English Wordnet 2025",
+      "senses": [
+        {
+          "id": "schedule%1:09:00::",
+          "definitionEn": "a temporally organized plan for matters to be attended to",
+          "glossZh": "按时间组织的工作或事项计划",
+          "sourceExamples": []
+        },
+        {
+          "id": "schedule%1:10:00::",
+          "definitionEn": "an ordered list of times at which things are planned to occur",
+          "glossZh": "预定事项的时间表",
+          "sourceExamples": []
+        }
+      ]
+    }
+  ]
+}

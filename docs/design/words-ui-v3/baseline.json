@@ -1,0 +1,106 @@
+{
+  "id": "WORDS-STATIC-UI-V3",
+  "version": "UI-V3",
+  "status": "OWNER_APPROVED_DESIGN_BASELINE",
+  "approvedDate": "2026-11-01",
+  "timezone": "Asia/Taipei",
+  "ownerDecision": "漂亮，已经是很好的版本了，固定，马上固定一下基线，现在就按照这个版本来作为新版本。",
+  "registrationInstruction": "再github仓正式确认与注册为新版本！！！就是这一个版本",
+  "supersedes": [
+    "UI-V1",
+    "UI-V2"
+  ],
+  "productionDeployment": "NOT_DEPLOYED",
+  "runtimeImplementation": "PENDING_V3_INTEGRATION",
+  "entry": "index.html",
+  "assets": {
+    "devices.json": {
+      "sha256": "1ddd303f186dc70835a0b1e81ab3f97c22efd47d9ebaa98158fc6e8ba69b262f",
+      "bytes": 256
+    },
+    "gallery.html": {
+      "sha256": "08f425a9fa3f11630f44b7a62c265312ba2b9a655ebea17f18afa7c2d86e531c",
+      "bytes": 4089
+    },
+    "index.html": {
+      "sha256": "54b67149fe4ea5bf4c46c7922c9e58b56b65c0858c8fac62cc8d9db2d816524a",
+      "bytes": 48373
+    },
+    "mac-expanded.png": {
+      "sha256": "9dd30cdc86c92d844907725198e554678b8d4e90d5dec122ad6de8440b990b72",
+      "bytes": 221833
+    },
+    "mac-full.png": {
+      "sha256": "52a2ee0518f91a93035dd976c6e6b3fb639646e02ccdb3dcdf98a22d46324b25",
+      "bytes": 149254
+    },
+    "mac.png": {
+      "sha256": "7f840922262e7fb62ff4f3aa1927c70d368cdfc28afe091ed8223c25f9c9967c",
+      "bytes": 101346
+    },
+    "phone-landscape-expanded.png": {
+      "sha256": "aaf508ac9a2677ae98140db1bb47d147b4c01e7ed244ff7deaf5b4435aeaa5f1",
+      "bytes": 208753
+    },
+    "phone-landscape-full.png": {
+      "sha256": "9a995509fc01ea568ddd6d29604e36ec98cf702dc5c7e6f25889b801f6b74a76",
+      "bytes": 140841
+    },
+    "phone-landscape.png": {
+      "sha256": "76fd2623bf5f1ced3c08a4da56ca4903188bfa70359a6853ea130f8831719f50",
+      "bytes": 36069
+    },
+    "phone-portrait-expanded.png": {
+      "sha256": "06f75d02279963c13db9ee2bfc9c3764952c0a195e4e0767f7fbe7f46a29ee26",
+      "bytes": 197573
+    },
+    "phone-portrait-full.png": {
+      "sha256": "791c967813dcedea0c3258f0dee379858f10e0aceb33285622ca605a57209c47",
+      "bytes": 135313
+    },
+    "phone-portrait.png": {
+      "sha256": "caca7ab1177743695228c98450f1964d7256f453bf1d1afdf1df403dcdc83b22",
+      "bytes": 57783
+    },
+    "qa.json": {
+      "sha256": "bdf564a81605b25165acb82b6263c6825e1b81bfcb6650314594ec286e8ee616",
+      "bytes": 618
+    },
+    "tablet-landscape-expanded.png": {
+      "sha256": "1c13afa26245b82443870fba70519509c27c133e4727ec6765af14fa006bebb6",
+      "bytes": 219991
+    },
+    "tablet-landscape-full.png": {
+      "sha256": "0a82346b54fd6dba2f9767b5c86a76a4dbddcdadc768c77823752e522dcadc40",
+      "bytes": 148300
+    },
+    "tablet-landscape.png": {
+      "sha256": "4b3a40bfa79bc0aaa3508b167662f2bab2e9cefdeda0c105b52ba9c9b517da88",
+      "bytes": 82003
+    },
+    "tablet-portrait-expanded.png": {
+      "sha256": "6da6a4cca25f8613921f1f3925368a1f0b795bc51173b7619fd438c34bfeb835",
+      "bytes": 212616
+    },
+    "tablet-portrait-full.png": {
+      "sha256": "b677c9c10452a36507ca77b4865cb6fd7d8f22f08c095d6487da0c57724c59fc",
+      "bytes": 142344
+    },
+    "tablet-portrait.png": {
+      "sha256": "666582339f23b3dd3978f348ccffc1071e2ddb386b96a49a8234d813f53c7720",
+      "bytes": 122738
+    },
+    "windows-expanded.png": {
+      "sha256": "9dd30cdc86c92d844907725198e554678b8d4e90d5dec122ad6de8440b990b72",
+      "bytes": 221833
+    },
+    "windows-full.png": {
+      "sha256": "52a2ee0518f91a93035dd976c6e6b3fb639646e02ccdb3dcdf98a22d46324b25",
+      "bytes": 149254
+    },
+    "windows.png": {
+      "sha256": "ae970d545f5d8168ce75fbce48aee62c7a107e255e90364552d3074c4e933e40",
+      "bytes": 84346
+    }
+  }
+}

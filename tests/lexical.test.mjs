@@ -1,6 +1,7 @@
 import test from 'node:test';import assert from 'node:assert/strict';import {readFileSync} from 'node:fs';
-import {lookup,cardLexical,validateCatalog,bookmarkKey,validateBookmarks} from '../src/lexical.mjs';
+import {setCatalog,lookup,cardLexical,validateCatalog,bookmarkKey,validateBookmarks} from '../src/lexical.mjs';
 import {copyOriginal,buildDeepAnalysisCopy} from '../src/copy.mjs';
+setCatalog(JSON.parse(readFileSync('dictionary/catalog.json','utf8')));
 const vocabulary=JSON.parse(readFileSync('public/vocabulary.json','utf8'));
 test('dictionary evidence separates Chinese senses, phrase context and old card identities',()=>{
  assert.equal(validateCatalog(),true);assert.ok(lookup('working').length);const w=lookup('working')[0];assert.ok(w.senses.some(s=>s.glossZh.includes('暂定')));assert.ok(w.senses.some(s=>s.glossZh.includes('运转')));

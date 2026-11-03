@@ -1,0 +1,81 @@
+# 内容更新、Agent分工与发布运行手册
+
+## 新增双模块生成/审核入口（必须读）
+
+[完整 Workflow](https://github.com/decidedtang-source/words-static/blob/feature/words-static-p1-p3/docs/codex/v3/TWO-PART-LEXICAL-WORKFLOW.md)：W0 选词/隐私 → W1 合法词典源核对 → W2 现代基本义/当前选义/可选历史词源分离 → W3 按词类分流 → W4 为难词起草A词典直连/B基本义场景/C来源核对三种桥 → W5 独立事实核查 → W6 独立教学核查 → W7 Owner V3真实页面对照 → W8 新数据字段/hash/receipt → W9 G2发布。再读 [5个词类15版的初评](https://github.com/decidedtang-source/words-static/blob/feature/words-static-p1-p3/docs/codex/v3/TWO-PART-WORKFLOW-REVIEW.md)。Bridge **独立未编号**，后面 01–05 全保留，词组只分析一次。普通词不必每次生成三版；三版用于难词与内容基线的对比验证。墨墨与商业词典数据不能未经许可复制到公开仓库；原有定时任务/Notion/FSRS不动。
+
+
+## 新增 Writer 风格要求：先讲常用基本义，再自然联系当前义
+
+请读 [WORD-SENSE-PATH.md](WORD-SENSE-PATH.md) 的 shift 金样。对独立多义词，优先给学习者一个有帮助的现代常见义（例如 shift＝移动、改变），再借一个具体自然场景说明为什么在当前语境中选另一个义项（人员轮换→班次）。必要时提供可核词源旁注，但不能把这种现代记忆链写成有确定证据的历史发展链。对于没有自然联系的义项，承认需要分别记忆；固定习语先讲整体义。整篇必须仍是 V3 词典/本句 → 独立 Bridge → 原 01–05 五区，不增加新的编号，也不拆成各组成词的重复五区。
+
+## Writer 内容合同更新：单独一段 Bridge，然后原五区全部保留
+
+[SEMANTIC-BRIDGE.md](SEMANTIC-BRIDGE.md) 与 [CHATGPT_PROJECT_INSTRUCTIONS.md](../../CHATGPT_PROJECT_INSTRUCTIONS.md) 是上位要求：**V3 前半词典/本句区域保持现状；增加独立、未编号的 semantic bridge；继续原 01–05 五区。** Bridge 说明选择哪个词典义项、其中什么意义成分重要、这些成分如何形成整个词组意义，并交代本句为何这样说。
+
+原五区分别承担 Memory/Semantic Connection、Syntax/Concept、Contrast/English Neighbors、Language Game/Pragmatic Action、Workplace Use；每区内容短但有实质，整个原项目方法仍走全。**整个 working definition 才是一条目标**，working 和 definition 的义项仅用作桥的证据，不给每个组成词重复一整套五区。数据结构旧 v2 允许4–5组作为兼容范围；按新要求生成的带实际语境 V3 候选五区必须齐全，不因兼容约束而改为四区。
+
+当前候选数据尚无单独持久化的桥字段。要真实接入必须提出安全的字段/内容审查版本与逐卡回执，不允许浏览器运行时从词典定义临时生成未审桥；修改候选后重新计算 hash，独立 Review。未经单独授权不更改正式 main。
+
+## Bridge 与五区的内容关系
+
+Bridge 必须能连接“所选词典义→整体词组义→当前原句”。原五区仍各有职责且彼此承接；桥与 g1 如有语句重复，可精简 g1 的重复部分，但**不能删除 g1**。固定习语先讲有依据的整体意义，不能为了填桥而拼造词源；工程术语/无场景材料按来源与适用性诚实处理。Bridge 从 V3 词典/本句区通往五区，不应只把所有旧段落标题重写。
+
+
+适用：候选已支持v1/v2的人工批次流程。命令见../P1-P3-RUNBOOK.md；v2必须经过新独立审核回执验证。实际首批证据见DELIVERY.md。Notion仅选词，禁止整理/回写/迁移。
+
+## 角色与交付
+
+| 角色 | 输入→输出 | 不得做 |
+|---|---|---|
+| 总控 | authority/base/计划→范围、依赖、验收与提交报告 | 把候选或设计通过当部署 |
+| Selector | 用户明确选词→私有selection packet＋公开opaque token | 扫全Notion、重复造ID、公开私有来源 |
+| Writer | 目标/语境/源快照→严格公开投影、义项绑定、简析 | 给自己出独立APPROVE；猜IPA/来源 |
+| Independent Reviewer | 精确候选与实际源→逐项语义/权利/隐私结论及新回执 | 复用旧回执批准新增presentation |
+| Builder | 已审manifest链→确定性staging及内容hash | glob所有输入、写Notion、改任务 |
+| QA/代码审查 | 真实运行候选→反例/兼容/设备/缺口证据 | 用mock或静态截图代替学习流程 |
+| Owner | 已证候选→实现接受与独立G2 | 不承担日常工程修复/内容核源工作 |
+
+角色是职责分离，不要求常驻Agent平台。Writer与内容Reviewer必须独立上下文；实现者可兼Builder/QA操作。代码审查与语义审查互不代替。
+
+## 每批实际步骤
+
+1. **SELECTED**：初期5–10项人工批次；选词可来自Notion，但本项目不写Notion。保留授权范围与私有来源，公开文件仅使用允许字段。
+2. **SOURCE_CHECKED**：检查原目标、类型、现有cardId、源snapshot/license/entry/sense。相同拼写不是同学习身份。短语整词义优先真实来源，组合解释明确标注。
+3. **DRAFTED**：Writer保留短义、明确语境义项、本句提示，另写**独立桥接内容＋原五组正文**，十阶段证据及copyPayload照旧；查不到对应义项不自动代用，缺工程证据隔离。Bridge 须单独核源、hash 和复审。
+4. **VALIDATED**：canonical UTF-8/LF字节、schema/rules/source/base/allowlist检查。构建拒绝未知字段、私有URL、混版本及模板回执。验证器不能代替语义判断。
+5. **INDEPENDENTLY_REVIEWED**：新上下文逐项核源、绑定和简析，给APPROVE/REVISE/QUARANTINE/BLOCK。修改候选后重算hash并复核；记录退修原因/耗时以决定未来更新频率。
+6. **STAGED**：只有APPROVE才进入active-batches候选变更。CLI重放明确前序链到目标，两次产出相同；失败不覆盖既有目录。历史基线变化时重新核对base并重审，不改hash蒙混。
+7. **BRANCH_REVIEW**：commit并提交内容PR；列新增/修订/analysis-only/退役/隔离、三类旧覆盖及contextSenseBound、来源许可、QA、回滚。没有额外新增学习任务或自动模型调用。
+8. **OWNER_ACCEPTED → RELEASE_AUTHORIZED → LIVE_VERIFIED**：分开记录。无G2只停在READY；明确授权后按既有Pages发布并回读精确版本。
+
+正常命令（v2支持实施后）：
+
+```text
+npm ci
+npm test
+npm run build
+node scripts/build-reviewed-batch.mjs --manifest content/manifests/v3-goldens.json --out local-evidence/v3-batch
+node scripts/build-reviewed-batch.mjs --manifest content/manifests/v3-goldens.json --out local-evidence/v3-batch
+npm run test:browser
+```
+
+## ChatGPT Project交接
+
+复用src/copy.mjs。原文复制保持目标文本；深析为【深析】目标＋允许分享且来源标明的上下文/来源标签。用户自己粘贴发送，不自动打开/提交、不调用付费模型。
+
+项目指令建议稿：先判断词/组合/整句与实际语境，区分可靠词典事实与教学推断；依Syntax → Concept → Contrast → Language Game → English Neighbors → Pragmatic Action → Workplace Use递进；缺语境先明确不确定，不编真实工作事件、词源、标准或授权。深入分析不替代网页基础词义。网页按钮不自动安装/修改ChatGPT项目指令。
+
+## 风险和回滚
+
+| 风险 | 预防/触发 | 回滚 |
+|---|---|---|
+| 词义绑定错 | 严格ID+源比对+独立语义review | 修订/退役对应内容，保留事件，重新揭晓 |
+| 旧自动publisher改base | 链base哈希失败即止 | 保持线上旧成功版本，rebase重审；不接管任务 |
+| 卡在旧正文评分 | renderHash/revision/pending guard | 保留完整旧bundle或阻断待评分，不混装 |
+| UI不兼容 | 六设备+备份fixture+Owner实机 | 撤销UI改动，学习数据库不变 |
+| v2内容回退 | 删除active引用可能丢掉本次新卡资料 | 优先兼容壳下显式withdraw/revise及retiredIds；退役ID保留在新的完整manifest |
+| 整版紧急回退 | 回到曾验证的完整git版本 | 明确旧UI可能无退役占位，但事件/收藏仍须可导出；不删IndexedDB |
+| 私有信息误发布 | 白名单与独立隐私核验 | 停止进一步发布并通知Owner；不能保证Git revert消除缓存/历史 |
+
+发布在现有main/Pages上，PR5当前base是规划分支。最终集成要核对PR4+PR5整体diff、最新main和准确候选SHA，不得在规划分支merge后宣称上线。公开回读与分支提交分别汇报。

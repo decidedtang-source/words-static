@@ -1,0 +1,139 @@
+{
+  "date": "2026-11-03",
+  "engine": "Chromium",
+  "mode": "local frozen prototype",
+  "checks": [
+    {
+      "label": "windows-viewport",
+      "width": 1440,
+      "height": 810,
+      "cardIndex": 0,
+      "pass": true
+    },
+    {
+      "label": "windows-viewport",
+      "width": 1440,
+      "height": 810,
+      "cardIndex": 1,
+      "pass": true
+    },
+    {
+      "label": "windows-viewport",
+      "width": 1440,
+      "height": 810,
+      "cardIndex": 2,
+      "pass": true
+    },
+    {
+      "label": "mac-viewport",
+      "width": 1512,
+      "height": 982,
+      "cardIndex": 0,
+      "pass": true
+    },
+    {
+      "label": "mac-viewport",
+      "width": 1512,
+      "height": 982,
+      "cardIndex": 1,
+      "pass": true
+    },
+    {
+      "label": "mac-viewport",
+      "width": 1512,
+      "height": 982,
+      "cardIndex": 2,
+      "pass": true
+    },
+    {
+      "label": "phone-portrait",
+      "width": 390,
+      "height": 844,
+      "cardIndex": 0,
+      "pass": true
+    },
+    {
+      "label": "phone-portrait",
+      "width": 390,
+      "height": 844,
+      "cardIndex": 1,
+      "pass": true
+    },
+    {
+      "label": "phone-portrait",
+      "width": 390,
+      "height": 844,
+      "cardIndex": 2,
+      "pass": true
+    },
+    {
+      "label": "phone-landscape",
+      "width": 844,
+      "height": 390,
+      "cardIndex": 0,
+      "pass": true
+    },
+    {
+      "label": "phone-landscape",
+      "width": 844,
+      "height": 390,
+      "cardIndex": 1,
+      "pass": true
+    },
+    {
+      "label": "phone-landscape",
+      "width": 844,
+      "height": 390,
+      "cardIndex": 2,
+      "pass": true
+    },
+    {
+      "label": "tablet-portrait",
+      "width": 820,
+      "height": 1180,
+      "cardIndex": 0,
+      "pass": true
+    },
+    {
+      "label": "tablet-portrait",
+      "width": 820,
+      "height": 1180,
+      "cardIndex": 1,
+      "pass": true
+    },
+    {
+      "label": "tablet-portrait",
+      "width": 820,
+      "height": 1180,
+      "cardIndex": 2,
+      "pass": true
+    },
+    {
+      "label": "tablet-landscape",
+      "width": 1180,
+      "height": 820,
+      "cardIndex": 0,
+      "pass": true
+    },
+    {
+      "label": "tablet-landscape",
+      "width": 1180,
+      "height": 820,
+      "cardIndex": 1,
+      "pass": true
+    },
+    {
+      "label": "tablet-landscape",
+      "width": 1180,
+      "height": 820,
+      "cardIndex": 2,
+      "pass": true
+    }
+  ],
+  "pageErrors": [],
+  "copyPayloadVerified": false,
+  "realDeviceVerified": false,
+  "fsrsVerified": false,
+  "semanticReviewPassed": false,
+  "previewSha256": "588a7bc2c632600af50d115675c2616ecca5f2d75c18c4dd337df0a2611078be"
+}
