@@ -2,6 +2,8 @@
 
 # Codex working contract — Words Static / English Vocabulary
 
+> **整页QA范围纠正**：后五区仅是讲解子模块。按 [WHOLE-CARD-QA](docs/codex/v3/five-zone-v3.1/WHOLE-CARD-QA.md)逐一生产和审核整页13模块，必须包括词源切换、词头及例句，不可用五区PASS声称整页完整。版式不变，不发布。此范围纠正优先于历史“词源可省略”说明。
+
 > **最新 Owner 产品方向（2026-11-03）**：先读 [B 默认、C1 按需切换的产品总纲](docs/codex/v3/OWNER-B-C1-PRODUCT-BRIEF.md)。保留现有 V3 词典/本句与完整原 01–05 五区，桥接区域默认展示 B（现代常见义＋具体使用场景＋当前义），C1 提供按需深入的词典来源、义项关联及有据词源；A 不作为用户可见模式。**Codex 自行决定架构和 UI、版本/审核/测试方案，先复现和评分，再在隔离分支实施；不可未经单独许可合并 main 或发布。** 这优先于历史 A/B/C 三选一、把五区改为三/四区的探索文档。
 
 

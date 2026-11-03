@@ -1,5 +1,9 @@
 # 五区内容工作流 v2
 
+> 当前范围为 **整页工作流whole-card/1**。五区只是子门禁；默认命令要求whole-card-supplement.json与whole-card-reviews.json，词源、词头、当前义、直接讲解、本句、更多义项、例句、复制负载各自审核。整页契约见docs/codex/v3/five-zone-v3.1/WHOLE-CARD-QA.md。`--zones-only`仅诊断五区，禁止build。
+
+完整执行命令：`node scripts/five-zone-workflow/verify.mjs content/trials/five-zone-calibration-20261103`。先全卡独立门禁及封包，再跑六视口、词源切换、精确音标/POS/搭配/例句、四复制按钮成功与拒绝降级；全部通过才生成带当前产物hash的evidence/acceptance.json。Clipboard为受控浏览器模拟，不冒充真实系统剪贴板或生产集成。
+
 本实现是Agent辅助流水线：检索与教学写作由Agent使用浏览工具执行，独立Reviewer负责语义判断；CLI负责完整性、分区门禁、失效检测、断点恢复、评分报告及冻结模板封包。没有后台模型API或定时任务，不宣称CLI能自动理解网页或独立判定教学质量。
 
 输入 `entries.json`：保留原cardId/context；sources记录实际可见证据；claims区分source_fact/teaching_inference/authored_example；五区引用claims并填写anchor/explanation/example/boundary，具体含义按QUALITY-REASSESSMENT中每区教学要求解释，不在学习页面额外展示。dictionaryEntries保留已核验不同义项；focusedEntries指定前方当前义与适用拆词义。

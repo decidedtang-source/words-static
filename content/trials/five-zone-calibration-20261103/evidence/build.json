@@ -1,5 +1,5 @@
 {
-  "ruleVersion": "five-zone/2",
+  "ruleVersion": "whole-card/1",
   "count": 5,
   "layoutUnchanged": true,
   "frozenLayoutHash": "8e11080ec6efdfd5d23aa9edfab51b7ac84854ad6b4e536899088044ea2543fb",
@@ -40,5 +40,33 @@
       "hash": "20629cd3dfeff8e51359b26fc1652e39bd836e66b23fb25dbefe5cda5d157b37"
     }
   ],
+  "wholeCardHashes": [
+    {
+      "cardId": "V20261012-001",
+      "fingerprint": "03a56c85c422b8daf0c28a614d0f46dfbd62c10bb471459ffafb76ea2f904ceb",
+      "receiptHash": "e1a60e28ed2826dbf96e3540c144c1ea0e8c2e75a3127a43e09fd2a81f8a253d"
+    },
+    {
+      "cardId": "V20261012-016",
+      "fingerprint": "ec5d548f648985e4ed1ba0986c9dff4a5635cdd7284d4bda634048d8d463023e",
+      "receiptHash": "3fc3ff36251eaac8d9a71abef2e717b916dee78d31dd8ad52b41bc392a07a529"
+    },
+    {
+      "cardId": "V20261012-055",
+      "fingerprint": "2ec5762c0fc7368581f5c1eb8e043fbe673182a563589a84ad04f4be9843e2d5",
+      "receiptHash": "469dba40eed7dcd43f8a3152823a08f5be6c16c49d8d59ca8ffda7e1d7a38f42"
+    },
+    {
+      "cardId": "V20261012-067",
+      "fingerprint": "6f7e64e8b469a7d540f73debc294cd41f9c268081b36743791d52b5d3e560473",
+      "receiptHash": "ec5d0cd9b0b9e218689585dd787b8b3cf222cc4fd65fb0fc2533fc03100dcedc"
+    },
+    {
+      "cardId": "V20261012-069",
+      "fingerprint": "eb9ed96ecf44859957076bd94e53454db760aa6718d208a7302b6bcbfb5402eb",
+      "receiptHash": "0c1bf7fb383a206a8bdc2209dc3ab50e24e5feb81ec8830d4679708dcee196f8"
+    }
+  ],
+  "renderedCardsHash": "41e256b4e2ff937c71335db6cabaddd2b5aab6a252ce1cc23c90d627569d8b40",
   "productionActivated": false
 }

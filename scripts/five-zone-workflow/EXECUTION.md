@@ -1,5 +1,9 @@
 # Execution ledger — QUALITY-REASSESSMENT.md, five-card calibration
 
+Owner correction: zone QA means the entire card, not only g1—g5. Implemented whole-card/1 default gate, 8 additional module receipts per card, mandatory sourced etymology and reviewed headword/examples. Historical five-zone-only delivery is not full-card approval.
+
+Whole-card verification: 11 added negative/positive tests (including a missing-writer test observed RED with recomputed hash then GREEN), plus zone-only bypass regression. verify.mjs now clears previous acceptance, builds only after all modules pass, checks six viewports including exact etymology text/source switching and four copy buttons in success/denied modes, and binds acceptance to current artifacts. Frozen DOM/CSS remains unchanged; source attribution corrections only. No main/Pages/learning-state changes.
+
 Base: 376190b67da994c645b481ba791a5f8a9e76c600. Owner explicitly authorized implementation, five full previews and zone scores; no publishing and no layout change.
 
 Preflight interfaces: Writer supplies entries/claims/source evidence/front senses; validator checks structure; independent Reviewer supplies per-claim checks, front verdict and 5×4 scores bound to a canonical hash. Renderer uses only frozen template data slots. Scores are separate artifacts.

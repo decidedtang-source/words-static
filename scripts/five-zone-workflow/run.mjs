@@ -3,6 +3,7 @@ import {readFileSync,writeFileSync,existsSync,mkdirSync,renameSync} from 'node:f
 import {resolve,dirname} from 'node:path';
 import {fileURLToPath} from 'node:url';
 import {RULE,fingerprint,runBatch,additionalEntries} from './core.mjs';
+import {checkWholeCard,WHOLE_RULE} from './whole-card.mjs';
 const root=resolve(dirname(fileURLToPath(import.meta.url)),'../..');
 const dir=resolve(process.argv[2]||'content/trials/five-zone-calibration-20261103');
 const limitArg=process.argv.find(a=>a.startsWith('--limit='));
@@ -40,21 +41,33 @@ for(const [i,c] of result.cards.entries()){
 }
 for(const c of result.cards)result.counts[c.status]=(result.counts[c.status]||0)+1;
 write('report.json',result);
+const zonesOnly=process.argv.includes('--zones-only');
+if(zonesOnly&&process.argv.includes('--build'))throw Error('Partial zone-only checks cannot build a complete page');
+const supplements=existsSync(resolve(dir,'whole-card-supplement.json'))?read('whole-card-supplement.json'):[];
+const wholeReviews=existsSync(resolve(dir,'whole-card-reviews.json'))?read('whole-card-reviews.json'):[];
+for(const list of [supplements,wholeReviews])if(new Set(list.map(x=>x.cardId)).size!==list.length)throw Error('Duplicate whole-card artifact ID');
+const whole={ruleVersion:WHOLE_RULE,productionActivated:false,cards:entries.map(e=>{
+ const checked=checkWholeCard(e,supplements.find(s=>s.cardId===e.cardId),receipts.find(r=>r.cardId===e.cardId),wholeReviews.find(r=>r.cardId===e.cardId));
+ const zone=result.cards.find(c=>c.cardId===e.cardId);return {cardId:e.cardId,term:e.term,...checked,zoneStatus:zone.status,status:zone.status==='CANDIDATE'?checked.status:zone.status};
+})};
+if(!zonesOnly)write('whole-card-report.json',whole);
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 let md=`# 五词逐区评分\n\n规则 ${RULE}；独立编辑判断，不代表实测学习成绩。不发布。\n\n|词条|01|02|03|04|05|加权总分|状态|\n|---|---:|---:|---:|---:|---:|---:|---|\n`;
 for(const c of result.cards)md+=`|${c.term}|${Array.from({length:5},(_,i)=>c.zones?.[i]?.score??'未评').join('|')}|${c.total??'未评'}|${c.status}|\n`;
 for(const c of result.cards){md+=`\n## ${c.term}\n\n${c.errors?.join('；')||'当前门禁无未解决问题'}\n`;for(const z of c.zones||[])md+=`\n### ${z.id} — ${z.score}\n\n`+Object.keys(z.scores||{}).map(k=>`- ${k}: ${z.scores[k]}/4 — ${z.reasons[k]}`).join('\n')+'\n'+(z.issues||[]).map(x=>`- 改进建议：${typeof x==='string'?x:x.message}`).join('\n')+'\n';}
+if(!zonesOnly){md='# 整页分区 QA（后五区只是其中一部分）\n\n'+whole.cards.map(c=>`- ${c.term}: ${c.status}；${c.errors.join('；')||'整页内容模块已审，页面功能另见browser证据'}`).join('\n')+'\n\n'+whole.cards.map(c=>`## ${c.term}：前区、例句和复制负载\n\n`+c.modules.map(m=>`### ${m.id} — ${m.score}\n\n`+Object.keys(m.scores||{}).map(k=>`- ${k}: ${m.scores[k]}/4 — ${m.reasons[k]}`).join('\n')).join('\n\n')).join('\n\n')+'\n\n'+md;}
 write('SCORES.md',md);
 write('scores.html','<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width"><title>五词逐区评分</title><style>body{max-width:1000px;margin:30px auto;padding:16px;font:16px/1.8 system-ui}pre{white-space:pre-wrap;overflow-wrap:anywhere;font:inherit}</style><h1>五词逐区评分</h1><p><a href="preview.html">返回完整学习页面</a> · 独立编辑审核，非实测学习成绩</p><pre>'+esc(md)+'</pre>');
 if(process.argv.includes('--build')){
- if(!result.complete||result.cards.some(c=>c.status!=='CANDIDATE'))throw Error('Build blocked: all five-zone independent gates must pass');
+ if(!result.complete||whole.cards.some(c=>c.status!=='CANDIDATE'))throw Error('Build blocked: every whole-card module must pass');
  const selection=JSON.parse(readFileSync(resolve(root,'content/trials/five-zone-50-20261103/selection.json'),'utf8'));
  const original=new Map(selection.cards.map(w=>[w.id,w]));
  const cards=entries.map(e=>{
   const w=structuredClone(original.get(e.cardId));if(!w||w.term!==e.term||w.example!==e.context)throw Error('Original identity/context mismatch');
-  w.pos=e.pos;w.examples=(w.examples||[]).map(x=>x.en===e.context?{...x,zh:e.contextZh}:x);
+  const s=supplements.find(s=>s.cardId===e.cardId);
+  w.pos=s.headword.pos;w.ipa=s.headword.ipa;w.chunk=s.headword.chunk;w.examples=[{en:e.context,zh:e.contextZh},...s.examples.filter(x=>x.en!==e.context)];
   const focused=e.focusedEntries||[{entry:e.dictionaryEntries[0],sense:e.dictionaryEntries[0].senses[0]}];
-  return {w,a:{context:{text:e.context,kind:'existing_public_learning_example'},displayGroups:e.groups.map(g=>({...g,sources:g.sourceIds.map(id=>{const s=e.sources.find(s=>s.id===id);return [s.title,s.url]})}))},p:{displayGloss:e.gloss,focused,allEntries:additionalEntries(e),contextTakeaway:e.contextTakeaway},x:{short:e.gloss,cue:'当前用法',b:e.bridgeText,quote:'',source:'原创教学转述；当前义、拆词义及讲解依据见本页来源与本批研究记录。',url:'research.md',c:[]}};
+  return {w,a:{context:{text:e.context,kind:'existing_public_learning_example'},displayGroups:e.groups.map(g=>({...g,sources:g.sourceIds.map(id=>{const s=e.sources.find(s=>s.id===id);return [s.title,s.url]})}))},p:{displayGloss:e.gloss,focused,allEntries:additionalEntries(e),contextTakeaway:e.contextTakeaway},x:{short:e.gloss,cue:'当前用法',b:e.bridgeText,quote:'',source:'原创教学转述；当前义、拆词义及讲解依据见本页来源与本批研究记录。',url:'research.md',c:s.etymology.map(x=>[x.title,x.text,s.sources.find(source=>source.id===x.sourceId).url])}};
  });
  const frozen=readFileSync(resolve(root,'docs/codex/v3/five-zone-v3.1/preview.html'),'utf8');
  const replaceData=s=>s.replace(/const cards=.*?;let index=0/s,'__CONTENT__');
@@ -63,7 +76,7 @@ if(process.argv.includes('--build')){
  for(const [from,to] of changes){if(!html.includes(from))throw Error('Frozen attribution changed');html=html.replace(from,to)}
  let normalized=replaceData(html);for(const [from,to] of changes)normalized=normalized.replace(to,from);
  if(replaceData(normalized)!==replaceData(frozen))throw Error('Frozen layout changed');
- write('preview.html',html);write('evidence/build.json',{ruleVersion:RULE,count:cards.length,layoutUnchanged:true,frozenLayoutHash:fingerprint(replaceData(frozen)),normalizedLayoutHash:fingerprint(replaceData(normalized)),allowedTextChanges:changes,entryHashes:entries.map(e=>({cardId:e.cardId,hash:fingerprint(e)})),productionActivated:false});
+ write('preview.html',html);write('evidence/build.json',{ruleVersion:WHOLE_RULE,count:cards.length,layoutUnchanged:true,frozenLayoutHash:fingerprint(replaceData(frozen)),normalizedLayoutHash:fingerprint(replaceData(normalized)),allowedTextChanges:changes,entryHashes:entries.map(e=>({cardId:e.cardId,hash:fingerprint(e)})),wholeCardHashes:wholeReviews.map(r=>({cardId:r.cardId,fingerprint:r.fingerprint,receiptHash:fingerprint(r)})),renderedCardsHash:fingerprint(cards),productionActivated:false});
 }
-console.log(JSON.stringify({processed,counts:result.counts,complete:result.complete,productionActivated:false}));
-if(process.argv.includes('--validate-only')&&(!result.complete||result.cards.some(c=>c.status!=='CANDIDATE')))process.exitCode=1;
+console.log(JSON.stringify({scope:zonesOnly?'five-zones-only':'whole-card',processed,counts:(zonesOnly?result.cards:whole.cards).reduce((a,c)=>(a[c.status]=(a[c.status]||0)+1,a),{}),complete:result.complete,productionActivated:false}));
+if(process.argv.includes('--validate-only')&&(!result.complete||(zonesOnly?result.cards:whole.cards).some(c=>c.status!=='CANDIDATE')))process.exitCode=1;

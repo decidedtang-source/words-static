@@ -34,8 +34,11 @@ test('limited validation cannot reuse stale unprocessed scores',()=>{
  const dir=mkdtempSync(join(tmpdir(),'words-zone-test-')),entries=[fixture(),{...fixture(),cardId:'second'}];
  const write=(p,x)=>writeFileSync(join(dir,p),JSON.stringify(x));
  write('entries.json',entries);write('reviews.json',entries.map(receipt));
- const run=(...args)=>spawnSync(process.execPath,[resolve('scripts/five-zone-workflow/run.mjs'),dir,...args],{encoding:'utf8'});
- assert.equal(run('--validate-only').status,0);entries[1].groups[0].text+=' changed';write('entries.json',entries);
+ const run=(...args)=>spawnSync(process.execPath,[resolve('scripts/five-zone-workflow/run.mjs'),dir,'--zones-only',...args],{encoding:'utf8'});
+ assert.equal(run('--validate-only').status,0);
+ assert.notEqual(spawnSync(process.execPath,[resolve('scripts/five-zone-workflow/run.mjs'),dir,'--validate-only','--build']).status,0,'five zones alone cannot build whole card');
+ assert.notEqual(run('--build').status,0,'diagnostic flag cannot bypass whole card gate');
+ entries[1].groups[0].text+=' changed';write('entries.json',entries);
  assert.notEqual(run('--limit=1','--validate-only').status,0);
  const report=JSON.parse(readFileSync(join(dir,'report.json'),'utf8'));assert.notEqual(report.cards[1].status,'CANDIDATE');assert.equal(report.cards[1].total,undefined);
 });

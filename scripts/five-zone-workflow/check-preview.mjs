@@ -5,6 +5,7 @@ import {pathToFileURL} from 'node:url';
 import {additionalEntries} from './core.mjs';
 const dir=resolve(process.argv[2]||'content/trials/five-zone-calibration-20261103');
 const entries=JSON.parse(readFileSync(resolve(dir,'entries.json'),'utf8'));
+const supplements=JSON.parse(readFileSync(resolve(dir,'whole-card-supplement.json'),'utf8'));
 const browser=await chromium.launch({executablePath:process.env.PLAYWRIGHT_CHROMIUM_EXECUTABLE||undefined});
 const page=await browser.newPage(),errors=[],checks=[];page.on('pageerror',e=>errors.push(e.message));
 try{
@@ -20,11 +21,28 @@ try{
      groups:[...document.querySelectorAll('.group>p')].map(x=>x.textContent),context:b.querySelector('.sentence').textContent,contextZh:b.querySelector('.zh').textContent,
      overflow:document.documentElement.scrollWidth>innerWidth,bridge:document.querySelector('#bridge-content>p').textContent};
    });
-   const e=entries[i],expected=(e.focusedEntries||[{sense:e.dictionaryEntries[0].senses[0]}]).map(f=>f.sense.glossZh);
-   if(s.term!==e.term||!s.meta.startsWith(e.pos)||!s.order||s.overflow||s.context!==e.context||s.contextZh!==e.contextZh||s.bridge!==e.bridgeText||JSON.stringify(s.focused)!==JSON.stringify(expected)||JSON.stringify(s.dictionary)!==JSON.stringify(additionalEntries(e).flatMap(x=>x.senses.map(s=>s.glossZh)))||JSON.stringify(s.groups)!==JSON.stringify(e.groups.map(g=>g.text)))throw Error(`${device}/${e.term}: content/layout mismatch`);
+   const e=entries[i],supp=supplements.find(x=>x.cardId===e.cardId),expected=(e.focusedEntries||[{sense:e.dictionaryEntries[0].senses[0]}]).map(f=>f.sense.glossZh);
+   if(s.term!==e.term||!s.meta.startsWith(supp.headword.pos)||!s.meta.includes(supp.headword.ipa)||!s.order||s.overflow||s.context!==e.context||s.contextZh!==e.contextZh||s.bridge!==e.bridgeText||JSON.stringify(s.focused)!==JSON.stringify(expected)||JSON.stringify(s.dictionary)!==JSON.stringify(additionalEntries(e).flatMap(x=>x.senses.map(s=>s.glossZh)))||JSON.stringify(s.groups)!==JSON.stringify(e.groups.map(g=>g.text)))throw Error(`${device}/${e.term}: content/layout mismatch`);
+   if(!(await page.locator('.chunk').innerText()).includes(supp.headword.chunk))throw Error('chunk mismatch');
+   const ex=await page.locator('.example').evaluateAll(nodes=>nodes.map(n=>({en:n.querySelector('p[lang=en]').textContent,zh:n.querySelector('.zh').textContent})));
+   if(JSON.stringify(ex)!==JSON.stringify(supp.examples.filter(x=>x.en!==e.context).map(x=>({en:x.en,zh:x.zh}))))throw Error('example mismatch');
+   await page.locator('#depth').click();
+   const depth=await page.locator('.deeper').evaluate(n=>({text:[...n.querySelectorAll('p')].map(x=>x.textContent),links:[...n.querySelectorAll('a')].map(x=>x.href)}));
+   if(JSON.stringify(depth.text)!==JSON.stringify(supp.etymology.map(x=>x.text))||JSON.stringify(depth.links)!==JSON.stringify(supp.etymology.map(x=>supp.sources.find(s=>s.id===x.sourceId).url)))throw Error('etymology mismatch');
+   if(await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth))throw Error('etymology overflow');
+   await page.locator('#depth').click();if(await page.locator('#depth').getAttribute('aria-pressed')!=='false')throw Error('return direct failed');
    await page.locator('#entry>details>summary').click();if(!await page.locator('#entry>details').evaluate(x=>x.open))throw Error('expand failed');
    await page.locator('#entry>details>summary').click();
-   checks.push({device,width,height,term:e.term,pass:true});
+   // Controlled clipboard success/rejection verifies the frozen prototype's exact behavior.
+   for(const reject of [false,true]){
+    await page.evaluate(reject=>Object.defineProperty(navigator,'clipboard',{configurable:true,value:{writeText:async text=>{if(reject)throw Error('denied');window.__copied=text;}}}),reject);
+    const buttons=page.locator('[data-copy]');if(await buttons.count()!==4)throw Error('copy button count');
+    for(let j=0;j<4;j++){const button=buttons.nth(j),expected=(await button.getAttribute('data-copy')==='deep'?'【深析】':'')+e.term;await button.click();
+     if(reject){if(await page.locator('.status textarea').inputValue()!==expected)throw Error('copy fallback mismatch')}
+     else if(await page.evaluate(()=>window.__copied)!==expected)throw Error('copy payload mismatch');
+    }
+   }
+   checks.push({device,width,height,term:e.term,pass:true,etymologyToggle:true,examples:true,copySuccessAndDenial:true});
   }
  }
  mkdirSync(resolve(dir,'evidence'),{recursive:true});
