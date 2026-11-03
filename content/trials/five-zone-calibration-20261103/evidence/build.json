@@ -1,0 +1,44 @@
+{
+  "ruleVersion": "five-zone/2",
+  "count": 5,
+  "layoutUnchanged": true,
+  "frozenLayoutHash": "8e11080ec6efdfd5d23aa9edfab51b7ac84854ad6b4e536899088044ea2543fb",
+  "normalizedLayoutHash": "8e11080ec6efdfd5d23aa9edfab51b7ac84854ad6b4e536899088044ea2543fb",
+  "allowedTextChanges": [
+    [
+      "OEWN 2025 已选义项，不代表完整词典；中文为教学摘要。",
+      "已核验的相关义项；中英文为原创教学转述，不是完整词典或词典原文。"
+    ],
+    [
+      "https://github.com/decidedtang-source/words-static/blob/feature/words-static-p1-p3/public/licenses/LICENSE.md",
+      "research.md"
+    ],
+    [
+      "来源与许可</a>",
+      "本批来源与范围</a>"
+    ]
+  ],
+  "entryHashes": [
+    {
+      "cardId": "V20261012-001",
+      "hash": "16d3c4a126ecd91a1f2d697a04e2a9beb08bf3a34e83fa82992e7ae4dd8543ad"
+    },
+    {
+      "cardId": "V20261012-016",
+      "hash": "7f521b61467d53833de1943d319313afbb874aab6287fbbb4c58b96332f68bf6"
+    },
+    {
+      "cardId": "V20261012-055",
+      "hash": "a485dbc93a0ca217bb23160ed59a0c96a1a4dadf2de0e9eda9ecd6f4bf03f8b9"
+    },
+    {
+      "cardId": "V20261012-067",
+      "hash": "1093390bae366a38b0cddf14c07b70dbd7f5de94554ecd48bd6b6d1585a7377f"
+    },
+    {
+      "cardId": "V20261012-069",
+      "hash": "20629cd3dfeff8e51359b26fc1652e39bd836e66b23fb25dbefe5cda5d157b37"
+    }
+  ],
+  "productionActivated": false
+}

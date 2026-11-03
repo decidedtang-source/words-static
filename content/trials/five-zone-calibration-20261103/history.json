@@ -1,0 +1,102 @@
+[
+  {
+    "at": "2026-11-03T15:23:53.786Z",
+    "processed": 2,
+    "transitions": [
+      {
+        "cardId": "V20261012-001",
+        "from": "NOT_STARTED",
+        "to": "REVIEW",
+        "key": "ce2ca4f53431366ea6cfb90eb9bb787df54ab57ba0291186d10cb1fedf8b5b5f"
+      },
+      {
+        "cardId": "V20261012-016",
+        "from": "NOT_STARTED",
+        "to": "REVIEW",
+        "key": "4b1da25719eefec45dfc69a31ea14fa9c45f2c1af368b1c84df631614ab3cba4"
+      }
+    ]
+  },
+  {
+    "at": "2026-11-03T15:23:53.977Z",
+    "processed": 5,
+    "transitions": [
+      {
+        "cardId": "V20261012-055",
+        "from": "NOT_STARTED",
+        "to": "REVIEW",
+        "key": "8e2118dd2188bbf4b47a57e870fd05c76913a9b7500e5a06af687ae9035007df"
+      },
+      {
+        "cardId": "V20261012-067",
+        "from": "NOT_STARTED",
+        "to": "REVIEW",
+        "key": "4af29453751f5d5804d4004ba5d8216ea8995db90c83894821d6cfcb6f25f962"
+      },
+      {
+        "cardId": "V20261012-069",
+        "from": "NOT_STARTED",
+        "to": "REVIEW",
+        "key": "20407a817ef0adb9d40e9a69b6d2a1c19af3ccacee59bd3557fee08de8f876ed"
+      }
+    ]
+  },
+  {
+    "at": "2026-11-03T15:24:48.707Z",
+    "processed": 5,
+    "transitions": [
+      {
+        "cardId": "V20261012-055",
+        "from": "REVIEW",
+        "to": "REVIEW",
+        "key": "65c75d21b3c3e4052651235b772af736d081147a2738eb039cbfc37dd8f77761"
+      }
+    ]
+  },
+  {
+    "at": "2026-11-03T15:27:14.358Z",
+    "processed": 5,
+    "transitions": [
+      {
+        "cardId": "V20261012-001",
+        "from": "REVIEW",
+        "to": "CANDIDATE",
+        "key": "9284f3716bc18a6115c550a95cdf768d246919bd2fb00b2d3d3791a2f91b9fac"
+      },
+      {
+        "cardId": "V20261012-016",
+        "from": "REVIEW",
+        "to": "CANDIDATE",
+        "key": "5bbbeb45fb1bb2e674012fcca2d2b83854d84dcccbc80fe8ca9cb97d1bda6914"
+      },
+      {
+        "cardId": "V20261012-055",
+        "from": "REVIEW",
+        "to": "CANDIDATE",
+        "key": "6e614b1420324a69356c08e6ca2d33997b0e2dcb47c8237f8243ff21ac20233e"
+      },
+      {
+        "cardId": "V20261012-067",
+        "from": "REVIEW",
+        "to": "CANDIDATE",
+        "key": "164865a865d57cdf548986e7ba5f85624dfd7a2f9e60c7748b8ac1cd46524f44"
+      },
+      {
+        "cardId": "V20261012-069",
+        "from": "REVIEW",
+        "to": "CANDIDATE",
+        "key": "824053dcf8c824013d6114a043a6fc0fc69cadd20dfee66e12bcb4b277285b20"
+      }
+    ]
+  },
+  {
+    "at": "2026-11-03T15:27:15.245Z",
+    "processed": 5,
+    "transitions": []
+  },
+  {
+    "at": "2026-11-03T15:27:27.421Z",
+    "processed": 5,
+    "transitions": []
+  }
+]

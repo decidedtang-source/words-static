@@ -1,0 +1,1522 @@
+[
+  {
+    "cardId": "V20261012-001",
+    "term": "scope",
+    "context": "We need to define the scope before estimating the cost.",
+    "contextZh": "估算成本前，我们需要界定范围。",
+    "contextKind": "existing_public_learning_example",
+    "contextSource": "input-1.json；既有公开词卡教学例句，非工作事件纪实",
+    "gloss": "范围",
+    "glossKind": "source_summary",
+    "pos": "n.",
+    "definitionEn": "the work and results included in a project",
+    "definitionZh": "项目包含和不包含的工作范围",
+    "contextTakeaway": "先说清做哪些工作，再估算费用。",
+    "bridgeText": "把它想成这次工作要覆盖的边界：同样说“做测试”，只测功能还是也测性能，工作量会不同。谈费用前先说明 scope，双方才是在估同一件事。",
+    "groups": [
+      {
+        "id": "g1",
+        "title": "先记住，再联系",
+        "text": "先记“画边界”：这次做哪些，哪些先不做。把 define the scope（界定范围）和 out of scope（不在范围内）连起来记。例如，安装设备在范围内，培训暂不包含；这个画框的类比帮助记忆，不是词源。",
+        "requirements": {
+          "anchor": "画边界",
+          "explanation": "这次做哪些",
+          "example": "安装设备在范围内",
+          "boundary": "不是词源"
+        },
+        "claimIds": [
+          "lexical",
+          "connection"
+        ],
+        "sourceIds": [
+          "lex",
+          "method"
+        ]
+      },
+      {
+        "id": "g2",
+        "title": "句法与概念",
+        "text": "本句可以分成两步：define the scope 是先把工作边界说清楚，before estimating the cost 是再估费用。before 后的 estimating 表示动作，这里做两件事的都是 we。“先后顺序”很重要：不知道要做多少工作，就难以估出相应成本。",
+        "requirements": {
+          "anchor": "两步",
+          "explanation": "先把工作边界说清楚",
+          "example": "before estimating the cost",
+          "boundary": "做两件事的都是 we"
+        },
+        "claimIds": [
+          "lexical",
+          "syntax"
+        ],
+        "sourceIds": [
+          "lex"
+        ]
+      },
+      {
+        "id": "g3",
+        "title": "辨析与英文邻居",
+        "text": "scope 问“这次包含什么”，objective 问“希望达到什么结果”。以培训项目为例，安排两场培训可写进范围，提高新人操作熟练度可作为目标；目标也可以直接写成要交付的成果。说 in scope / out of scope，是在判断某项工作是否包含其中。",
+        "requirements": {
+          "anchor": "scope 问",
+          "explanation": "objective 问",
+          "example": "以培训项目为例",
+          "boundary": "目标也可以直接写成要交付的成果"
+        },
+        "claimIds": [
+          "lexical",
+          "contrast"
+        ],
+        "sourceIds": [
+          "lex",
+          "contrast"
+        ]
+      },
+      {
+        "id": "g4",
+        "title": "这句话在做什么",
+        "text": "这句话在安排估价前的准备，不是在直接报价格。We need to 表明说话者认为这一步必要，before 把次序说清楚。自编回应：Does the scope include training?（范围包括培训吗？）问清这一项后，就能把相应培训工作算进或排除出估价。",
+        "requirements": {
+          "anchor": "安排估价前的准备",
+          "explanation": "We need to",
+          "example": "Does the scope include training?",
+          "boundary": "不是在直接报价格"
+        },
+        "claimIds": [
+          "lexical",
+          "action"
+        ],
+        "sourceIds": [
+          "lex",
+          "method"
+        ]
+      },
+      {
+        "id": "g5",
+        "title": "工作中可以这样说",
+        "text": "对方临时提出一项新任务时，可以先核对范围。自编：Is user training included in the scope?（用户培训包含在范围内吗？）把 user training 换成 installation 或 data migration，就能询问安装或数据迁移是否包含；先问是否包含，再讨论增加任务的安排。",
+        "requirements": {
+          "anchor": "临时提出一项新任务",
+          "explanation": "先核对范围",
+          "example": "Is user training included in the scope?",
+          "boundary": "把 user training 换成"
+        },
+        "claimIds": [
+          "lexical",
+          "use"
+        ],
+        "sourceIds": [
+          "lex",
+          "method"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "lex",
+        "url": "https://dictionary.cambridge.org/dictionary/english/scope?topic=analysing-and-evaluating",
+        "title": "scope — Cambridge Dictionary",
+        "publisher": "Cambridge University Press & Assessment",
+        "section": "RANGE; OPPORTUNITY",
+        "retrievalStatus": "index_excerpt",
+        "accessedAt": "2026-11-03",
+        "evidence": "原站索引可见范围义、机会义及outside/within the scope、scope for搭配；本次直接打开403，未按完整页面取证。",
+        "summaryZh": "原站索引可见范围义、机会义及outside/within the scope、scope for搭配；本次直接打开403，未按完整页面取证。",
+        "supportedClaims": [
+          "原站索引可见范围义、机会义及outside/within the scope、scope for搭配；本次直接打开403，未按完整页面取证。"
+        ],
+        "adaptationType": "paraphrase",
+        "useAssessment": "仅保存原创教学转述及原站链接；未保存来源全文；例句另标自编。"
+      },
+      {
+        "id": "method",
+        "url": "https://www.apm.org.uk/resources/what-is-project-management/what-is-scope-management/",
+        "title": "What is scope management?",
+        "publisher": "Association for Project Management",
+        "section": "Definition; Project scope, lines 26–40",
+        "retrievalStatus": "full_page",
+        "accessedAt": "2026-11-03",
+        "evidence": "APM将项目scope说明为产出、成果、效益及实现所需工作；Project scope小节要求说明边界及范围内外。",
+        "summaryZh": "APM将项目scope说明为产出、成果、效益及实现所需工作；Project scope小节要求说明边界及范围内外。",
+        "supportedClaims": [
+          "APM将项目scope说明为产出、成果、效益及实现所需工作；Project scope小节要求说明边界及范围内外。"
+        ],
+        "adaptationType": "paraphrase",
+        "useAssessment": "仅保存原创教学转述及原站链接；未保存来源全文；例句另标自编。"
+      },
+      {
+        "id": "contrast",
+        "url": "https://www.apm.org.uk/resources/find-a-resource/major-differences-between-project-scope-and-objectives/",
+        "title": "Major differences between project scope and objectives",
+        "publisher": "Association for Project Management",
+        "section": "Definition; General",
+        "retrievalStatus": "index_excerpt",
+        "accessedAt": "2026-11-03",
+        "evidence": "原站搜索可见scope总范围与objectives预期结果的对照；也说明目标可以用产出、成果、效益表示，二者非完全互斥。",
+        "summaryZh": "原站搜索可见scope总范围与objectives预期结果的对照；也说明目标可以用产出、成果、效益表示，二者非完全互斥。",
+        "supportedClaims": [
+          "原站搜索可见scope总范围与objectives预期结果的对照；也说明目标可以用产出、成果、效益表示，二者非完全互斥。"
+        ],
+        "adaptationType": "paraphrase",
+        "useAssessment": "仅保存原创教学转述及原站链接；未保存来源全文；例句另标自编。"
+      }
+    ],
+    "sourceLimitations": [
+      "前区释义、五区说明均为原创教学转述；语境沿用原公开词卡，回应、类比及工作例句为教学编写。",
+      "本次不新增词源；原卡音标沿用，未作专项读音审核。",
+      "更多区域只列已核实的不同义项或明确标注的同族词，不是完整词典。",
+      "部分来源仅核查原站搜索索引的可见片段，证据范围见来源表，未标为全文。"
+    ],
+    "writer": "five_content",
+    "templateVersion": "WORDS-STATIC-V3.1-FIVE-ZONE-SOURCE-FIRST",
+    "contentRevision": 2,
+    "claims": [
+      {
+        "id": "lexical",
+        "text": "scope的范围/机会义；APM项目范围包含工作及成果，范围与目标侧重点不同但可涉及相同产出。",
+        "kind": "source_fact",
+        "sourceIds": [
+          "lex",
+          "method",
+          "contrast"
+        ],
+        "evidenceNote": "见对应sources.evidence的义项定位；定义为原创转述，不是逐字词典原文。"
+      },
+      {
+        "id": "connection",
+        "text": "先记“画边界”：这次做哪些，哪些先不做。把 define the scope（界定范围）和 out of scope（不在范围内）连起来记。例如，安装设备在范围内，培训暂不包含；这个画框的类比帮助记忆，不是词源。",
+        "kind": "teaching_inference",
+        "sourceIds": [
+          "lex"
+        ],
+        "evidenceNote": "按已核实词义整理的记忆联系，正文标明类比或同族关联，不推断历史词源。"
+      },
+      {
+        "id": "syntax",
+        "text": "本句可以分成两步：define the scope 是先把工作边界说清楚，before estimating the cost 是再估费用。before 后的 estimating 表示动作，这里做两件事的都是 we。“先后顺序”很重要：不知道要做多少工作，就难以估出相应成本。",
+        "kind": "teaching_inference",
+        "sourceIds": [
+          "lex"
+        ],
+        "evidenceNote": "以保留的完整例句分析结构；结构与解释对应，未把来源说成收录该自编句。"
+      },
+      {
+        "id": "contrast",
+        "text": "scope/objective对照取自APM，培训项目是为说明侧重点而自编；不把二者设成互斥分类。",
+        "kind": "teaching_inference",
+        "sourceIds": [
+          "lex",
+          "contrast"
+        ],
+        "evidenceNote": "区分词典明确事实与用于解释的情境对照；不把常见倾向写成绝对规则。"
+      },
+      {
+        "id": "action",
+        "text": "这句话在安排估价前的准备，不是在直接报价格。We need to 表明说话者认为这一步必要，before 把次序说清楚。自编回应：Does the scope include training?（范围包括培训吗？）问清这一项后，就能把相应培训工作算进或排除出估价。",
+        "kind": "teaching_inference",
+        "sourceIds": [
+          "lex"
+        ],
+        "evidenceNote": "从原句措辞提出话语行动解释，回应是显式自编；未编造用户业务事实。"
+      },
+      {
+        "id": "use",
+        "text": "对方临时提出一项新任务时，可以先核对范围。自编：Is user training included in the scope?（用户培训包含在范围内吗？）把 user training 换成 installation 或 data migration，就能询问安装或数据迁移是否包含；先问是否包含，再讨论增加任务的安排。",
+        "kind": "authored_example",
+        "sourceIds": [
+          "lex"
+        ],
+        "evidenceNote": "自编工作表达及替换槽，需Reviewer核查英语自然度与当前义，不宣称来源提供这个原句。"
+      }
+    ],
+    "focusedEntries": [
+      {
+        "entry": {
+          "lemma": "scope",
+          "pos": "n.",
+          "senses": [
+            {
+              "id": "scope:current",
+              "glossZh": "项目包含和不包含的工作范围",
+              "definitionEn": "the work and results included in a project",
+              "sourceIds": [
+                "lex",
+                "method"
+              ]
+            }
+          ],
+          "source": "已核对来源的原创教学转述"
+        },
+        "sense": {
+          "id": "scope:current",
+          "glossZh": "项目包含和不包含的工作范围",
+          "definitionEn": "the work and results included in a project",
+          "sourceIds": [
+            "lex",
+            "method"
+          ]
+        }
+      }
+    ],
+    "dictionaryEntries": [
+      {
+        "lemma": "scope",
+        "pos": "n.",
+        "senses": [
+          {
+            "id": "scope:current",
+            "glossZh": "项目包含和不包含的工作范围",
+            "definitionEn": "the work and results included in a project",
+            "sourceIds": [
+              "lex",
+              "method"
+            ]
+          }
+        ],
+        "source": "已核对来源的原创教学转述"
+      },
+      {
+        "lemma": "scope",
+        "pos": "名词",
+        "senses": [
+          {
+            "id": "scope:opportunity",
+            "glossZh": "做某事的机会或发挥余地",
+            "definitionEn": "room or opportunity to do something",
+            "sourceIds": [
+              "lex"
+            ]
+          }
+        ],
+        "source": "已核对来源的原创教学转述"
+      }
+    ]
+  },
+  {
+    "cardId": "V20261012-016",
+    "term": "accountable",
+    "context": "One person must be accountable for the final decision.",
+    "contextZh": "必须有一个人对最终决定负责。",
+    "contextKind": "existing_public_learning_example",
+    "contextSource": "input-1.json；既有公开词卡教学例句，非工作事件纪实",
+    "gloss": "须对结果负责的",
+    "glossKind": "source_summary",
+    "pos": "adj.",
+    "definitionEn": "responsible for an action or result and required to explain it",
+    "definitionZh": "需要对最终结果作出解释并承担责任的",
+    "contextTakeaway": "最终决定需要有明确的负责者。",
+    "bridgeText": "重点不只是“有人做了”，而是“谁需要交代这个决定及其理由”。别人问起为何这样决定时，被指定 accountable 的人要能说明。",
+    "groups": [
+      {
+        "id": "g1",
+        "title": "先记住，再联系",
+        "text": "先记“要负责，也要说得清”。联系 account for 在“解释原因”这个用法：能说明为什么这样做，就容易记起 accountable 的交代责任。它不是 account 的“银行账户”义；这个联系用于记忆，不是历史词源解释。",
+        "requirements": {
+          "anchor": "要负责，也要说得清",
+          "explanation": "解释原因",
+          "example": "account for",
+          "boundary": "不是历史词源解释"
+        },
+        "claimIds": [
+          "lexical",
+          "connection"
+        ],
+        "sourceIds": [
+          "lex"
+        ]
+      },
+      {
+        "id": "g2",
+        "title": "句法与概念",
+        "text": "be accountable for 后面说“对什么负责”：本句是 the final decision，最终决定。若写 accountable to the manager，则是“向谁交代”。must be 把它说成要求，One person 则要求本次明确一个人；换成别的团队，负责人安排要看实际制度。",
+        "requirements": {
+          "anchor": "be accountable for",
+          "explanation": "对什么负责",
+          "example": "accountable to the manager",
+          "boundary": "本次明确一个人"
+        },
+        "claimIds": [
+          "lexical",
+          "syntax"
+        ],
+        "sourceIds": [
+          "lex"
+        ]
+      },
+      {
+        "id": "g3",
+        "title": "辨析与英文邻居",
+        "text": "responsible for 和 accountable for 都可以谈责任，不能简单分成“干活的人”和“背锅的人”。假设你负责报告，responsible for the report 可以说明这是你的职责；accountable for the report 更把重点放在你需要说明报告及其问题。常见 hold someone accountable，就是要求某人承担并交代责任。",
+        "requirements": {
+          "anchor": "都可以谈责任",
+          "explanation": "更把重点放在",
+          "example": "假设你负责报告",
+          "boundary": "不能简单分成"
+        },
+        "claimIds": [
+          "lexical",
+          "contrast"
+        ],
+        "sourceIds": [
+          "lex",
+          "contrast"
+        ]
+      },
+      {
+        "id": "g4",
+        "title": "这句话在做什么",
+        "text": "本句在要求明确最终决定由谁负责。must 表明这不是随意建议，One person 把责任人范围收紧，但句子还没指名。自编回应：Who will be accountable for that decision?（谁来对那个决定负责？）下一步是确认具体的人，而不是继续泛泛地说“团队负责”。",
+        "requirements": {
+          "anchor": "要求明确最终决定由谁负责",
+          "explanation": "must 表明",
+          "example": "Who will be accountable for that decision?",
+          "boundary": "句子还没指名"
+        },
+        "claimIds": [
+          "lexical",
+          "action"
+        ],
+        "sourceIds": [
+          "lex"
+        ]
+      },
+      {
+        "id": "g5",
+        "title": "工作中可以这样说",
+        "text": "交接工作、需要确认汇报关系时可以这样问。自编：Who am I accountable to for this project?（这个项目我需要向谁负责？）to 后接人，for 后接负责的事项；可以把 this project 换成 the budget，询问预算工作应向谁交代。",
+        "requirements": {
+          "anchor": "交接工作",
+          "explanation": "to 后接人",
+          "example": "Who am I accountable to for this project?",
+          "boundary": "for 后接负责的事项"
+        },
+        "claimIds": [
+          "lexical",
+          "use"
+        ],
+        "sourceIds": [
+          "lex",
+          "lesson"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "lex",
+        "url": "https://assets.cambridge.org/97805211/22504/excerpt/9780521122504_excerpt.pdf",
+        "title": "Cambridge Business English Dictionary — accountable",
+        "publisher": "Cambridge University Press",
+        "section": "PDF page 6, accountable / accountability / account for, lines 776–796",
+        "retrievalStatus": "full_page",
+        "accessedAt": "2026-11-03",
+        "evidence": "官方摘录可见accountable须对行为负责并能说明理由，accountable for (doing) sth、accountable to sb；accountability名词及account for解释原因义。",
+        "summaryZh": "官方摘录可见accountable须对行为负责并能说明理由，accountable for (doing) sth、accountable to sb；accountability名词及account for解释原因义。",
+        "supportedClaims": [
+          "官方摘录可见accountable须对行为负责并能说明理由，accountable for (doing) sth、accountable to sb；accountability名词及account for解释原因义。"
+        ],
+        "adaptationType": "paraphrase",
+        "useAssessment": "仅保存原创教学转述及原站链接；未保存来源全文；例句另标自编。"
+      },
+      {
+        "id": "contrast",
+        "url": "https://ahdictionary.com/word/search.html?q=responsible",
+        "title": "responsible — Synonyms",
+        "publisher": "American Heritage Dictionary / HarperCollins",
+        "section": "Synonyms, lines 51–54",
+        "retrievalStatus": "full_page",
+        "accessedAt": "2026-11-03",
+        "evidence": "同义词说明将responsible等归为须交代行为的一组；responsible偏履责，accountable特别突出说明职责履行情况，支持重叠而非绝对二分。",
+        "summaryZh": "同义词说明将responsible等归为须交代行为的一组；responsible偏履责，accountable特别突出说明职责履行情况，支持重叠而非绝对二分。",
+        "supportedClaims": [
+          "同义词说明将responsible等归为须交代行为的一组；responsible偏履责，accountable特别突出说明职责履行情况，支持重叠而非绝对二分。"
+        ],
+        "adaptationType": "paraphrase",
+        "useAssessment": "仅保存原创教学转述及原站链接；未保存来源全文；例句另标自编。"
+      },
+      {
+        "id": "lesson",
+        "url": "https://learningenglish.voanews.com/a/accountability-responsibility-liability/7955472.html",
+        "title": "Accountability, Responsibility, Liability",
+        "publisher": "VOA Learning English",
+        "section": "Ask a Teacher, responsibility and accountability, lines 97–119",
+        "retrievalStatus": "full_page",
+        "accessedAt": "2026-11-03",
+        "evidence": "教学文章先用任务解释responsibility，再举hold someone accountable。这里只借用任务→交代责任的教学顺序，不采纳所有accountability必然受罚的概括。",
+        "summaryZh": "教学文章先用任务解释responsibility，再举hold someone accountable。这里只借用任务→交代责任的教学顺序，不采纳所有accountability必然受罚的概括。",
+        "supportedClaims": [
+          "教学文章先用任务解释responsibility，再举hold someone accountable。这里只借用任务→交代责任的教学顺序，不采纳所有accountability必然受罚的概括。"
+        ],
+        "adaptationType": "paraphrase",
+        "useAssessment": "仅保存原创教学转述及原站链接；未保存来源全文；例句另标自编。"
+      }
+    ],
+    "sourceLimitations": [
+      "前区释义、五区说明均为原创教学转述；语境沿用原公开词卡，回应、类比及工作例句为教学编写。",
+      "本次不新增词源；原卡音标沿用，未作专项读音审核。",
+      "更多区域只列已核实的不同义项或明确标注的同族词，不是完整词典。"
+    ],
+    "writer": "five_content",
+    "templateVersion": "WORDS-STATIC-V3.1-FIVE-ZONE-SOURCE-FIRST",
+    "contentRevision": 2,
+    "claims": [
+      {
+        "id": "lexical",
+        "text": "accountable含负责及说明理由；for指事项、to指对象；accountability为同族名词；responsible与accountable有重叠。",
+        "kind": "source_fact",
+        "sourceIds": [
+          "lex"
+        ],
+        "evidenceNote": "见对应sources.evidence的义项定位；定义为原创转述，不是逐字词典原文。"
+      },
+      {
+        "id": "connection",
+        "text": "先记“要负责，也要说得清”。联系 account for 在“解释原因”这个用法：能说明为什么这样做，就容易记起 accountable 的交代责任。它不是 account 的“银行账户”义；这个联系用于记忆，不是历史词源解释。",
+        "kind": "teaching_inference",
+        "sourceIds": [
+          "lex"
+        ],
+        "evidenceNote": "按已核实词义整理的记忆联系，正文标明类比或同族关联，不推断历史词源。"
+      },
+      {
+        "id": "syntax",
+        "text": "be accountable for 后面说“对什么负责”：本句是 the final decision，最终决定。若写 accountable to the manager，则是“向谁交代”。must be 把它说成要求，One person 则要求本次明确一个人；换成别的团队，负责人安排要看实际制度。",
+        "kind": "teaching_inference",
+        "sourceIds": [
+          "lex"
+        ],
+        "evidenceNote": "以保留的完整例句分析结构；结构与解释对应，未把来源说成收录该自编句。"
+      },
+      {
+        "id": "contrast",
+        "text": "同义词对照来自American Heritage Synonyms；报告例子为自编，不采用RACI固定一人规则。",
+        "kind": "teaching_inference",
+        "sourceIds": [
+          "lex",
+          "contrast"
+        ],
+        "evidenceNote": "区分词典明确事实与用于解释的情境对照；不把常见倾向写成绝对规则。"
+      },
+      {
+        "id": "action",
+        "text": "本句在要求明确最终决定由谁负责。must 表明这不是随意建议，One person 把责任人范围收紧，但句子还没指名。自编回应：Who will be accountable for that decision?（谁来对那个决定负责？）下一步是确认具体的人，而不是继续泛泛地说“团队负责”。",
+        "kind": "teaching_inference",
+        "sourceIds": [
+          "lex"
+        ],
+        "evidenceNote": "从原句措辞提出话语行动解释，回应是显式自编；未编造用户业务事实。"
+      },
+      {
+        "id": "use",
+        "text": "交接工作、需要确认汇报关系时可以这样问。自编：Who am I accountable to for this project?（这个项目我需要向谁负责？）to 后接人，for 后接负责的事项；可以把 this project 换成 the budget，询问预算工作应向谁交代。",
+        "kind": "authored_example",
+        "sourceIds": [
+          "lex"
+        ],
+        "evidenceNote": "自编工作表达及替换槽，需Reviewer核查英语自然度与当前义，不宣称来源提供这个原句。"
+      }
+    ],
+    "focusedEntries": [
+      {
+        "entry": {
+          "lemma": "accountable",
+          "pos": "adj.",
+          "senses": [
+            {
+              "id": "accountable:current",
+              "glossZh": "需要对最终结果作出解释并承担责任的",
+              "definitionEn": "responsible for an action or result and required to explain it",
+              "sourceIds": [
+                "lex"
+              ]
+            }
+          ],
+          "source": "已核对来源的原创教学转述"
+        },
+        "sense": {
+          "id": "accountable:current",
+          "glossZh": "需要对最终结果作出解释并承担责任的",
+          "definitionEn": "responsible for an action or result and required to explain it",
+          "sourceIds": [
+            "lex"
+          ]
+        }
+      }
+    ],
+    "dictionaryEntries": [
+      {
+        "lemma": "accountable",
+        "pos": "adj.",
+        "senses": [
+          {
+            "id": "accountable:current",
+            "glossZh": "需要对最终结果作出解释并承担责任的",
+            "definitionEn": "responsible for an action or result and required to explain it",
+            "sourceIds": [
+              "lex"
+            ]
+          }
+        ],
+        "source": "已核对来源的原创教学转述"
+      },
+      {
+        "lemma": "accountability",
+        "pos": "同族名词",
+        "senses": [
+          {
+            "id": "accountability:responsibility",
+            "glossZh": "需要承担责任并说明所作所为的状态或制度",
+            "definitionEn": "responsibility that includes explaining actions and results",
+            "sourceIds": [
+              "lex"
+            ]
+          }
+        ],
+        "source": "已核对来源的原创教学转述"
+      }
+    ]
+  },
+  {
+    "cardId": "V20261012-055",
+    "term": "proposal",
+    "context": "Please review the proposal before tomorrow's discussion.",
+    "contextZh": "请在明天讨论前审阅提案。",
+    "gloss": "提案；建议方案",
+    "glossKind": "source_summary",
+    "pos": "n.",
+    "definitionEn": "an idea or plan offered for others to consider",
+    "definitionZh": "供他人考虑的建议或方案",
+    "contextTakeaway": "提案还在讨论阶段，审阅不等于批准。",
+    "bridgeText": "在工作讨论里，proposal 是拿出来请别人考虑的方案。它通常不只说“我有个想法”，还会说明准备做什么、为什么值得做，让别人有内容可以审阅和讨论。",
+    "groups": [
+      {
+        "id": "g1",
+        "title": "先记住，再联系",
+        "text": "记住“把方案摆到桌上，让别人考虑”。propose 是提出，proposal 是提出的建议或方案；工作中连着记 review a proposal（审阅提案）。摆到桌上的东西还要讨论，所以 proposal 本身不表示大家已经同意。",
+        "requirements": {
+          "anchor": "把方案摆到桌上",
+          "explanation": "让别人考虑",
+          "example": "review a proposal",
+          "boundary": "不表示大家已经同意"
+        },
+        "claimIds": [
+          "lexical",
+          "connection"
+        ],
+        "sourceIds": [
+          "lex"
+        ]
+      },
+      {
+        "id": "g2",
+        "title": "句法与概念",
+        "text": "Please review the proposal 是“请审阅这份方案”，review 是要做的动作，the proposal 是对象。before tomorrow’s discussion 给出时间要求：审阅应在明天讨论前完成。读这句时抓“做什么＋什么时候”，就不会只看到 proposal 而漏掉会前准备。",
+        "requirements": {
+          "anchor": "做什么＋什么时候",
+          "explanation": "审阅应在明天讨论前完成",
+          "example": "Please review the proposal",
+          "boundary": "漏掉会前准备"
+        },
+        "claimIds": [
+          "lexical",
+          "syntax"
+        ],
+        "sourceIds": [
+          "lex"
+        ]
+      },
+      {
+        "id": "g3",
+        "title": "辨析与英文邻居",
+        "text": "proposal 与 suggestion 都能表示建议。比如“改在周五开会”可以是一条 suggestion；把调整后的会议安排及理由整理给大家考虑，就常称 a proposal。区别是这里 proposal 更让人想到可审阅的方案，不是 suggestion 一定随意或 proposal 必须写成长文。常见搭配：submit a proposal（提交方案）。",
+        "requirements": {
+          "anchor": "都能表示建议",
+          "explanation": "更让人想到可审阅的方案",
+          "example": "改在周五开会",
+          "boundary": "proposal 必须写成长文"
+        },
+        "claimIds": [
+          "lexical",
+          "contrast"
+        ],
+        "sourceIds": [
+          "lex"
+        ]
+      },
+      {
+        "id": "g4",
+        "title": "这句话在做什么",
+        "text": "明天要讨论这份方案，说话者希望大家先看过再来。Please review 是请对方审阅，before tomorrow’s discussion 把时间要求说清楚；这句话是在安排会前准备。自编回应：I’ll read it tonight and bring my questions tomorrow.（我今晚看，明天带着问题来。）这样既接下任务，也说明准备如何完成。",
+        "requirements": {
+          "anchor": "明天要讨论这份方案",
+          "explanation": "安排会前准备",
+          "example": "I’ll read it tonight and bring my questions tomorrow.",
+          "boundary": "自编回应"
+        },
+        "claimIds": [
+          "lexical",
+          "action"
+        ],
+        "sourceIds": [
+          "lex"
+        ]
+      },
+      {
+        "id": "g5",
+        "title": "工作中可以这样说",
+        "text": "方案只有做法、没有理由时，可以请对方补充依据。自编：Could you add the reasons for this change to the proposal?（你能把这次改动的理由补进方案吗？）需要费用信息时，把 the reasons for this change 换成 the estimated cost；明确缺哪项信息，别人更容易补齐。",
+        "requirements": {
+          "anchor": "方案只有做法、没有理由",
+          "explanation": "请对方补充依据",
+          "example": "Could you add the reasons for this change to the proposal?",
+          "boundary": "把 the reasons for this change 换成"
+        },
+        "claimIds": [
+          "lexical",
+          "use"
+        ],
+        "sourceIds": [
+          "lex",
+          "lesson"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "lex",
+        "url": "https://www.collinsdictionary.com/us/dictionary/english/proposal",
+        "title": "proposal — Collins COBUILD",
+        "publisher": "HarperCollins",
+        "section": "COBUILD senses 1–2, lines 223–238",
+        "retrievalStatus": "full_page",
+        "accessedAt": "2026-11-03",
+        "evidence": "当前义为供人考虑决定的计划或想法，常正式或书面；可数名词。第二义为求婚。",
+        "summaryZh": "当前义为供人考虑决定的计划或想法，常正式或书面；可数名词。第二义为求婚。",
+        "supportedClaims": [
+          "当前义为供人考虑决定的计划或想法，常正式或书面；可数名词。第二义为求婚。"
+        ],
+        "adaptationType": "paraphrase",
+        "useAssessment": "仅保存原创教学转述及原站链接；未保存来源全文；例句另标自编。"
+      },
+      {
+        "id": "lesson",
+        "url": "https://www.cambridge.org/sites/default/files/media/documents/Complete%20Advanced%203rd%20Ed%20Unit%205%20Sample.pdf",
+        "title": "Complete Advanced — Writing Part 2: A proposal",
+        "publisher": "Cambridge University Press",
+        "section": "PDF page 10 / textbook page 60, Exam info lines 712–723",
+        "retrievalStatus": "full_page",
+        "accessedAt": "2026-11-03",
+        "evidence": "写作教材要求proposal提出建议并用事实支持，使读者考虑采取某行动；组织清楚，正式程度随读者而变。这里转为工作学习例子，不把考试要求说成所有proposal的强制定义。",
+        "summaryZh": "写作教材要求proposal提出建议并用事实支持，使读者考虑采取某行动；组织清楚，正式程度随读者而变。这里转为工作学习例子，不把考试要求说成所有proposal的强制定义。",
+        "supportedClaims": [
+          "写作教材要求proposal提出建议并用事实支持，使读者考虑采取某行动；组织清楚，正式程度随读者而变。这里转为工作学习例子，不把考试要求说成所有proposal的强制定义。"
+        ],
+        "adaptationType": "paraphrase",
+        "useAssessment": "仅保存原创教学转述及原站链接；未保存来源全文；例句另标自编。"
+      }
+    ],
+    "sourceLimitations": [
+      "前区释义、五区说明均为原创教学转述；语境沿用原公开词卡，回应、类比及工作例句为教学编写。",
+      "本次不新增词源；原卡音标沿用，未作专项读音审核。",
+      "更多区域只列已核实的不同义项或明确标注的同族词，不是完整词典。"
+    ],
+    "writer": "five_content",
+    "contextKind": "existing_public_learning_example",
+    "templateVersion": "WORDS-STATIC-V3.1-FIVE-ZONE-SOURCE-FIRST",
+    "contentRevision": 2,
+    "claims": [
+      {
+        "id": "lexical",
+        "text": "proposal可数，当前指供考虑的方案或想法，也可表示求婚；正式或书面是常见倾向而非必要条件。",
+        "kind": "source_fact",
+        "sourceIds": [
+          "lex"
+        ],
+        "evidenceNote": "见对应sources.evidence的义项定位；定义为原创转述，不是逐字词典原文。"
+      },
+      {
+        "id": "connection",
+        "text": "记住“把方案摆到桌上，让别人考虑”。propose 是提出，proposal 是提出的建议或方案；工作中连着记 review a proposal（审阅提案）。摆到桌上的东西还要讨论，所以 proposal 本身不表示大家已经同意。",
+        "kind": "teaching_inference",
+        "sourceIds": [
+          "lex"
+        ],
+        "evidenceNote": "按已核实词义整理的记忆联系，正文标明类比或同族关联，不推断历史词源。"
+      },
+      {
+        "id": "syntax",
+        "text": "Please review the proposal 是“请审阅这份方案”，review 是要做的动作，the proposal 是对象。before tomorrow’s discussion 给出时间要求：审阅应在明天讨论前完成。读这句时抓“做什么＋什么时候”，就不会只看到 proposal 而漏掉会前准备。",
+        "kind": "teaching_inference",
+        "sourceIds": [
+          "lex"
+        ],
+        "evidenceNote": "以保留的完整例句分析结构；结构与解释对应，未把来源说成收录该自编句。"
+      },
+      {
+        "id": "contrast",
+        "text": "proposal与suggestion重叠依据Collins；较完整的工作方案说明参考Cambridge写作教材，例子及措辞比较为教学归纳。",
+        "kind": "teaching_inference",
+        "sourceIds": [
+          "lex",
+          "lesson"
+        ],
+        "evidenceNote": "区分词典明确事实与用于解释的情境对照；不把常见倾向写成绝对规则。"
+      },
+      {
+        "id": "action",
+        "text": "明天要讨论这份方案，说话者希望大家先看过再来。Please review 是请对方审阅，before tomorrow’s discussion 把时间要求说清楚；这句话是在安排会前准备。自编回应：I’ll read it tonight and bring my questions tomorrow.（我今晚看，明天带着问题来。）这样既接下任务，也说明准备如何完成。",
+        "kind": "teaching_inference",
+        "sourceIds": [
+          "lex"
+        ],
+        "evidenceNote": "从原句措辞提出话语行动解释，回应是显式自编；未编造用户业务事实。"
+      },
+      {
+        "id": "use",
+        "text": "方案只有做法、没有理由时，可以请对方补充依据。自编：Could you add the reasons for this change to the proposal?（你能把这次改动的理由补进方案吗？）需要费用信息时，把 the reasons for this change 换成 the estimated cost；明确缺哪项信息，别人更容易补齐。",
+        "kind": "authored_example",
+        "sourceIds": [
+          "lex",
+          "lesson"
+        ],
+        "evidenceNote": "自编工作表达及替换槽，需Reviewer核查英语自然度与当前义，不宣称来源提供这个原句。"
+      }
+    ],
+    "focusedEntries": [
+      {
+        "entry": {
+          "lemma": "proposal",
+          "pos": "n.",
+          "senses": [
+            {
+              "id": "proposal:current",
+              "glossZh": "供他人考虑的建议或方案",
+              "definitionEn": "an idea or plan offered for others to consider",
+              "sourceIds": [
+                "lex"
+              ]
+            }
+          ],
+          "source": "已核对来源的原创教学转述"
+        },
+        "sense": {
+          "id": "proposal:current",
+          "glossZh": "供他人考虑的建议或方案",
+          "definitionEn": "an idea or plan offered for others to consider",
+          "sourceIds": [
+            "lex"
+          ]
+        }
+      }
+    ],
+    "dictionaryEntries": [
+      {
+        "lemma": "proposal",
+        "pos": "n.",
+        "senses": [
+          {
+            "id": "proposal:current",
+            "glossZh": "供他人考虑的建议或方案",
+            "definitionEn": "an idea or plan offered for others to consider",
+            "sourceIds": [
+              "lex"
+            ]
+          }
+        ],
+        "source": "已核对来源的原创教学转述"
+      },
+      {
+        "lemma": "proposal",
+        "pos": "名词",
+        "senses": [
+          {
+            "id": "proposal:marriage",
+            "glossZh": "求婚；提出结婚的请求",
+            "definitionEn": "a request asking someone to marry you",
+            "sourceIds": [
+              "lex"
+            ]
+          }
+        ],
+        "source": "已核对来源的原创教学转述"
+      }
+    ]
+  },
+  {
+    "cardId": "V20261012-067",
+    "term": "work around",
+    "context": "Can we work around this constraint without changing the scope?",
+    "contextZh": "我们能在不改范围的情况下应对这项限制吗？",
+    "gloss": "设法绕过障碍",
+    "glossKind": "source_summary",
+    "pos": "短语动词",
+    "definitionEn": "find a way to continue despite a problem without removing it",
+    "definitionZh": "在问题未消除时找到避开其影响的做法",
+    "contextTakeaway": "寻找不改范围、仍能应对限制的办法。",
+    "bridgeText": "限制暂时还在，先换一种做法让工作继续。例如文件太大不能一次发送，就分成几份发；这改变了做法，没有改变每份文件的大小限制。",
+    "groups": [
+      {
+        "id": "g1",
+        "title": "先记住，再联系",
+        "text": "用“路障没搬走，先换条路”来记。work around a problem 是设法绕开问题，a workaround 是那个变通办法：一个说动作，一个给办法起名字。路障只是帮助理解的类比，不是在说每次都要真的绕路。",
+        "requirements": {
+          "anchor": "路障没搬走，先换条路",
+          "explanation": "一个说动作",
+          "example": "a workaround",
+          "boundary": "只是帮助理解的类比"
+        },
+        "claimIds": [
+          "lexical",
+          "connection"
+        ],
+        "sourceIds": [
+          "lex"
+        ]
+      },
+      {
+        "id": "g2",
+        "title": "句法与概念",
+        "text": "Can we work around this constraint? 问“我们能找到变通办法吗？”without changing the scope 又加了一道条件：工作范围不能变。work around 要连起来理解，后面接要应对的限制；不能把 around 单独译成“在周围”，否则整句会变成在限制旁边工作。",
+        "requirements": {
+          "anchor": "Can we work around this constraint?",
+          "explanation": "工作范围不能变",
+          "example": "without changing the scope",
+          "boundary": "不能把 around 单独译成"
+        },
+        "claimIds": [
+          "lexical",
+          "syntax"
+        ],
+        "sourceIds": [
+          "lex",
+          "grammar"
+        ]
+      },
+      {
+        "id": "g3",
+        "title": "辨析与英文邻居",
+        "text": "solve a problem 着眼于把问题解决；work around a problem 着眼于避开影响、让事情继续。自编对照：软件导出功能坏了，复制数据到别的工具继续做，是 workaround；修好导出功能，才是在解决这个故障。两种做法可以先后使用，并不互相排斥。",
+        "requirements": {
+          "anchor": "solve a problem",
+          "explanation": "避开影响、让事情继续",
+          "example": "软件导出功能坏了",
+          "boundary": "并不互相排斥"
+        },
+        "claimIds": [
+          "lexical",
+          "contrast"
+        ],
+        "sourceIds": [
+          "lex"
+        ]
+      },
+      {
+        "id": "g4",
+        "title": "这句话在做什么",
+        "text": "本句是在邀请大家找“范围不变”的可行办法。Can we 留出一起讨论的空间，without changing the scope 则把条件说清楚。自编回应：Could we split the work into smaller batches?（可以把工作分成更小批次吗？）这先提出一个候选做法，接下来再核对它是否满足那项限制。",
+        "requirements": {
+          "anchor": "邀请大家找",
+          "explanation": "Can we 留出",
+          "example": "Could we split the work into smaller batches?",
+          "boundary": "候选做法"
+        },
+        "claimIds": [
+          "lexical",
+          "action"
+        ],
+        "sourceIds": [
+          "lex"
+        ]
+      },
+      {
+        "id": "g5",
+        "title": "工作中可以这样说",
+        "text": "发送文件碰到单个文件大小限制时，可以说明具体的变通办法。自编：We could work around the file-size limit by sending separate files.（我们可以试着分开文件发送，来绕开大小限制。）by 后的 sending 说明怎么做；could 适合提出待尝试的办法，已经确认可行时可用 can。",
+        "requirements": {
+          "anchor": "单个文件大小限制",
+          "explanation": "by 后的 sending",
+          "example": "We could work around the file-size limit by sending separate files.",
+          "boundary": "could 适合提出待尝试的办法"
+        },
+        "claimIds": [
+          "lexical",
+          "use"
+        ],
+        "sourceIds": [
+          "lex"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "lex",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/work-around",
+        "title": "work around — Oxford Advanced Learner’s Dictionary",
+        "publisher": "Oxford University Press",
+        "section": "work around something, lines 95–99",
+        "retrievalStatus": "full_page",
+        "accessedAt": "2026-11-03",
+        "evidence": "短语表示找到避开某问题的工作方法，而未真正解决问题；结构work around something，关联名词workaround。",
+        "summaryZh": "短语表示找到避开某问题的工作方法，而未真正解决问题；结构work around something，关联名词workaround。",
+        "supportedClaims": [
+          "短语表示找到避开某问题的工作方法，而未真正解决问题；结构work around something，关联名词workaround。"
+        ],
+        "adaptationType": "paraphrase",
+        "useAssessment": "仅保存原创教学转述及原站链接；未保存来源全文；例句另标自编。"
+      },
+      {
+        "id": "noun",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/workaround",
+        "title": "workaround — Oxford Advanced Learner’s Dictionary",
+        "publisher": "Oxford University Press",
+        "section": "noun sense 1",
+        "retrievalStatus": "full_page",
+        "accessedAt": "2026-11-03",
+        "evidence": "名词workaround指避开问题而未实际解决问题的工作办法，软件情境尤常见。",
+        "summaryZh": "名词workaround指避开问题而未实际解决问题的工作办法，软件情境尤常见。",
+        "supportedClaims": [
+          "名词workaround指避开问题而未实际解决问题的工作办法，软件情境尤常见。"
+        ],
+        "adaptationType": "paraphrase",
+        "useAssessment": "仅保存原创教学转述及原站链接；未保存来源全文；例句另标自编。"
+      },
+      {
+        "id": "word",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/work_1",
+        "title": "work — Oxford Advanced Learner’s Dictionary",
+        "publisher": "Oxford University Press",
+        "section": "do job/task, sense 1, lines 113–126",
+        "retrievalStatus": "full_page",
+        "accessedAt": "2026-11-03",
+        "evidence": "work基本动词义为用体力或脑力做事，常用于工作；仅用于组词联系，不能据此独立推出work around的整体义。",
+        "summaryZh": "work基本动词义为用体力或脑力做事，常用于工作；仅用于组词联系，不能据此独立推出work around的整体义。",
+        "supportedClaims": [
+          "work基本动词义为用体力或脑力做事，常用于工作；仅用于组词联系，不能据此独立推出work around的整体义。"
+        ],
+        "adaptationType": "paraphrase",
+        "useAssessment": "仅保存原创教学转述及原站链接；未保存来源全文；例句另标自编。"
+      },
+      {
+        "id": "grammar",
+        "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/phrasal-verbs",
+        "title": "Phrasal verbs",
+        "publisher": "British Council",
+        "section": "Grammar explanation; Separable / Non-separable",
+        "retrievalStatus": "full_page",
+        "accessedAt": "2026-11-03",
+        "evidence": "正文23—63行解释动词与小品词形成整体、可分和不可分结构；小品词经常改变动词意义。只支持教学框架，具体短语结构由对应词典核对。",
+        "summaryZh": "正文23—63行解释动词与小品词形成整体、可分和不可分结构；小品词经常改变动词意义。只支持教学框架，具体短语结构由对应词典核对。",
+        "supportedClaims": [
+          "正文23—63行解释动词与小品词形成整体、可分和不可分结构；小品词经常改变动词意义。只支持教学框架，具体短语结构由对应词典核对。"
+        ],
+        "adaptationType": "paraphrase",
+        "useAssessment": "仅保存原创教学转述及原站链接；未保存来源全文；例句另标自编。"
+      }
+    ],
+    "sourceLimitations": [
+      "前区释义、五区说明均为原创教学转述；语境沿用原公开词卡，回应、类比及工作例句为教学编写。",
+      "本次不新增词源；原卡音标沿用，未作专项读音审核。",
+      "更多区域只列已核实的不同义项或明确标注的同族词，不是完整词典。"
+    ],
+    "writer": "five_content",
+    "contextKind": "existing_public_learning_example",
+    "templateVersion": "WORDS-STATIC-V3.1-FIVE-ZONE-SOURCE-FIRST",
+    "contentRevision": 2,
+    "claims": [
+      {
+        "id": "lexical",
+        "text": "Oxford明确work around未消除问题、结构work around something；workaround为关联名词，work基本义只作联系。",
+        "kind": "source_fact",
+        "sourceIds": [
+          "lex",
+          "noun",
+          "word"
+        ],
+        "evidenceNote": "见对应sources.evidence的义项定位；定义为原创转述，不是逐字词典原文。"
+      },
+      {
+        "id": "connection",
+        "text": "用“路障没搬走，先换条路”来记。work around a problem 是设法绕开问题，a workaround 是那个变通办法：一个说动作，一个给办法起名字。路障只是帮助理解的类比，不是在说每次都要真的绕路。",
+        "kind": "teaching_inference",
+        "sourceIds": [
+          "lex"
+        ],
+        "evidenceNote": "按已核实词义整理的记忆联系，正文标明类比或同族关联，不推断历史词源。"
+      },
+      {
+        "id": "syntax",
+        "text": "Can we work around this constraint? 问“我们能找到变通办法吗？”without changing the scope 又加了一道条件：工作范围不能变。work around 要连起来理解，后面接要应对的限制；不能把 around 单独译成“在周围”，否则整句会变成在限制旁边工作。",
+        "kind": "teaching_inference",
+        "sourceIds": [
+          "lex",
+          "grammar"
+        ],
+        "evidenceNote": "以保留的完整例句分析结构；结构与解释对应，未把来源说成收录该自编句。"
+      },
+      {
+        "id": "contrast",
+        "text": "solve/work around是按Oxford未解决问题这一边界作出的教学对照；软件与文件场景均自编。",
+        "kind": "teaching_inference",
+        "sourceIds": [
+          "lex"
+        ],
+        "evidenceNote": "区分词典明确事实与用于解释的情境对照；不把常见倾向写成绝对规则。"
+      },
+      {
+        "id": "action",
+        "text": "本句是在邀请大家找“范围不变”的可行办法。Can we 留出一起讨论的空间，without changing the scope 则把条件说清楚。自编回应：Could we split the work into smaller batches?（可以把工作分成更小批次吗？）这先提出一个候选做法，接下来再核对它是否满足那项限制。",
+        "kind": "teaching_inference",
+        "sourceIds": [
+          "lex"
+        ],
+        "evidenceNote": "从原句措辞提出话语行动解释，回应是显式自编；未编造用户业务事实。"
+      },
+      {
+        "id": "use",
+        "text": "发送文件碰到单个文件大小限制时，可以说明具体的变通办法。自编：We could work around the file-size limit by sending separate files.（我们可以试着分开文件发送，来绕开大小限制。）by 后的 sending 说明怎么做；could 适合提出待尝试的办法，已经确认可行时可用 can。",
+        "kind": "authored_example",
+        "sourceIds": [
+          "lex"
+        ],
+        "evidenceNote": "自编工作表达及替换槽，需Reviewer核查英语自然度与当前义，不宣称来源提供这个原句。"
+      }
+    ],
+    "focusedEntries": [
+      {
+        "entry": {
+          "lemma": "work around",
+          "pos": "短语动词",
+          "senses": [
+            {
+              "id": "work-around:current",
+              "glossZh": "在问题未消除时找到避开其影响的做法",
+              "definitionEn": "find a way to continue despite a problem without removing it",
+              "sourceIds": [
+                "lex"
+              ]
+            }
+          ],
+          "source": "已核对来源的原创教学转述"
+        },
+        "sense": {
+          "id": "work-around:current",
+          "glossZh": "在问题未消除时找到避开其影响的做法",
+          "definitionEn": "find a way to continue despite a problem without removing it",
+          "sourceIds": [
+            "lex"
+          ]
+        }
+      },
+      {
+        "entry": {
+          "lemma": "work",
+          "pos": "动词 · 组词联系",
+          "senses": [
+            {
+              "id": "work:task",
+              "glossZh": "做事；进行需要体力或脑力的工作（整体短语义见上）",
+              "definitionEn": "carry out a task using physical or mental effort",
+              "sourceIds": [
+                "word"
+              ]
+            }
+          ],
+          "source": "已核对来源的原创教学转述"
+        },
+        "sense": {
+          "id": "work:task",
+          "glossZh": "做事；进行需要体力或脑力的工作（整体短语义见上）",
+          "definitionEn": "carry out a task using physical or mental effort",
+          "sourceIds": [
+            "word"
+          ]
+        }
+      }
+    ],
+    "dictionaryEntries": [
+      {
+        "lemma": "work around",
+        "pos": "短语动词",
+        "senses": [
+          {
+            "id": "work-around:current",
+            "glossZh": "在问题未消除时找到避开其影响的做法",
+            "definitionEn": "find a way to continue despite a problem without removing it",
+            "sourceIds": [
+              "lex"
+            ]
+          }
+        ],
+        "source": "已核对来源的原创教学转述"
+      },
+      {
+        "lemma": "work",
+        "pos": "动词 · 组词联系",
+        "senses": [
+          {
+            "id": "work:task",
+            "glossZh": "做事；进行需要体力或脑力的工作（整体短语义见上）",
+            "definitionEn": "carry out a task using physical or mental effort",
+            "sourceIds": [
+              "word"
+            ]
+          }
+        ],
+        "source": "已核对来源的原创教学转述"
+      },
+      {
+        "lemma": "workaround",
+        "pos": "名词",
+        "senses": [
+          {
+            "id": "workaround:method",
+            "glossZh": "绕开问题使工作继续的变通办法",
+            "definitionEn": "an alternative method that avoids a problem rather than removing it",
+            "sourceIds": [
+              "noun"
+            ]
+          }
+        ],
+        "source": "已核对来源的原创教学转述"
+      }
+    ]
+  },
+  {
+    "cardId": "V20261012-069",
+    "term": "weigh up",
+    "context": "We need to weigh up the options before choosing a supplier.",
+    "contextZh": "选择供应商前，我们需要权衡各个选项。",
+    "gloss": "权衡",
+    "glossKind": "source_summary",
+    "pos": "短语动词",
+    "definitionEn": "consider choices or their advantages and disadvantages carefully",
+    "definitionZh": "在决定前仔细比较选择及其利弊",
+    "contextTakeaway": "选择供应商之前先仔细比较各选项。",
+    "bridgeText": "不只是把选项看一遍，而是比较每个选项值得什么、要付出什么。例如一家报价低但交期长，另一家价格高但更快；weigh up 就是把这些取舍想清楚，再作选择。",
+    "groups": [
+      {
+        "id": "g1",
+        "title": "先记住，再联系",
+        "text": "借天平记：把好处和代价放上去比较。weigh 可以说称重量，也可以说衡量事情；weigh up the options 就把这种衡量用在几个选择上。这个图像是记忆联系，不是词源结论；真正要比较的可能是价格、时间或风险。",
+        "requirements": {
+          "anchor": "借天平记",
+          "explanation": "把好处和代价放上去比较",
+          "example": "weigh up the options",
+          "boundary": "不是词源结论"
+        },
+        "claimIds": [
+          "lexical",
+          "connection"
+        ],
+        "sourceIds": [
+          "lex"
+        ]
+      },
+      {
+        "id": "g2",
+        "title": "句法与概念",
+        "text": "weigh up the options 是先比较选项，before choosing a supplier 是后选供应商。need to 表示说话者认为比较是必要步骤。up 在这里属于短语，不是“往上”；也可以说 weigh the options up，用 them 代替 options 时说 weigh them up。",
+        "requirements": {
+          "anchor": "先比较选项",
+          "explanation": "before choosing a supplier",
+          "example": "weigh them up",
+          "boundary": "不是“往上”"
+        },
+        "claimIds": [
+          "lexical",
+          "syntax"
+        ],
+        "sourceIds": [
+          "lex",
+          "grammar"
+        ]
+      },
+      {
+        "id": "g3",
+        "title": "辨析与英文邻居",
+        "text": "consider the options 是考虑选项；weigh up the options 更突出把利弊拿来衡量。例如甲便宜但慢，乙贵但快：weigh up 提醒我们比较两种得失。choose 则是作出选择。常见 weigh the benefits against the costs，是把收益与成本放在一起比较。",
+        "requirements": {
+          "anchor": "consider the options",
+          "explanation": "更突出把利弊拿来衡量",
+          "example": "甲便宜但慢，乙贵但快",
+          "boundary": "choose 则是作出选择"
+        },
+        "claimIds": [
+          "lexical",
+          "contrast"
+        ],
+        "sourceIds": [
+          "lex"
+        ]
+      },
+      {
+        "id": "g4",
+        "title": "这句话在做什么",
+        "text": "这句话在提出一个选择前的步骤：先比，再定。We need to 明确提出要求，before choosing 把选择放在比较之后。自编回应：Let’s compare cost, quality and lead time first.（我们先比较成本、质量和交期吧。）回应把“权衡”落实成可讨论的标准；这些标准是例子，原句并没有列出它们。",
+        "requirements": {
+          "anchor": "先比，再定",
+          "explanation": "before choosing",
+          "example": "Let’s compare cost, quality and lead time first.",
+          "boundary": "原句并没有列出它们"
+        },
+        "claimIds": [
+          "lexical",
+          "action"
+        ],
+        "sourceIds": [
+          "lex"
+        ]
+      },
+      {
+        "id": "g5",
+        "title": "工作中可以这样说",
+        "text": "需要说明一项改动是否值得做时，可以把两面的因素说出来。自编：We need to weigh the time saved against the extra cost.（我们需要权衡节省的时间和额外成本。）weigh A against B 是把两者放在一起衡量；可把两项换成 benefits 和 risks，用于收益与风险的讨论。",
+        "requirements": {
+          "anchor": "改动是否值得做",
+          "explanation": "把两面的因素说出来",
+          "example": "We need to weigh the time saved against the extra cost.",
+          "boundary": "weigh A against B"
+        },
+        "claimIds": [
+          "lexical",
+          "use"
+        ],
+        "sourceIds": [
+          "lex"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "lex",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/weigh",
+        "title": "weigh — Oxford Advanced Learner’s Dictionary",
+        "publisher": "Oxford University Press",
+        "section": "senses 2–3, lines 125–137",
+        "retrievalStatus": "full_page",
+        "accessedAt": "2026-11-03",
+        "evidence": "weigh第2义称重量，第3义决定前仔细考虑；明确weigh something (up)、weigh (up) something against something，例有options、pros and cons。",
+        "summaryZh": "weigh第2义称重量，第3义决定前仔细考虑；明确weigh something (up)、weigh (up) something against something，例有options、pros and cons。",
+        "supportedClaims": [
+          "weigh第2义称重量，第3义决定前仔细考虑；明确weigh something (up)、weigh (up) something against something，例有options、pros and cons。"
+        ],
+        "adaptationType": "paraphrase",
+        "useAssessment": "仅保存原创教学转述及原站链接；未保存来源全文；例句另标自编。"
+      },
+      {
+        "id": "person",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/weigh-up",
+        "title": "weigh somebody up — Oxford Advanced Learner’s Dictionary",
+        "publisher": "Oxford University Press",
+        "section": "weigh somebody up, sense 1",
+        "retrievalStatus": "index_excerpt",
+        "accessedAt": "2026-11-03",
+        "evidence": "原站索引可见通过观察或交谈形成对某人的看法；只用于更多义项，不把这一条误当weigh options的定义。",
+        "summaryZh": "原站索引可见通过观察或交谈形成对某人的看法；只用于更多义项，不把这一条误当weigh options的定义。",
+        "supportedClaims": [
+          "原站索引可见通过观察或交谈形成对某人的看法；只用于更多义项，不把这一条误当weigh options的定义。"
+        ],
+        "adaptationType": "paraphrase",
+        "useAssessment": "仅保存原创教学转述及原站链接；未保存来源全文；例句另标自编。"
+      },
+      {
+        "id": "grammar",
+        "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/phrasal-verbs",
+        "title": "Phrasal verbs",
+        "publisher": "British Council",
+        "section": "Grammar explanation; Separable / Non-separable",
+        "retrievalStatus": "full_page",
+        "accessedAt": "2026-11-03",
+        "evidence": "正文23—63行解释动词与小品词形成整体、可分和不可分结构；小品词经常改变动词意义。只支持教学框架，具体短语结构由对应词典核对。",
+        "summaryZh": "正文23—63行解释动词与小品词形成整体、可分和不可分结构；小品词经常改变动词意义。只支持教学框架，具体短语结构由对应词典核对。",
+        "supportedClaims": [
+          "正文23—63行解释动词与小品词形成整体、可分和不可分结构；小品词经常改变动词意义。只支持教学框架，具体短语结构由对应词典核对。"
+        ],
+        "adaptationType": "paraphrase",
+        "useAssessment": "仅保存原创教学转述及原站链接；未保存来源全文；例句另标自编。"
+      }
+    ],
+    "sourceLimitations": [
+      "前区释义、五区说明均为原创教学转述；语境沿用原公开词卡，回应、类比及工作例句为教学编写。",
+      "本次不新增词源；原卡音标沿用，未作专项读音审核。",
+      "更多区域只列已核实的不同义项或明确标注的同族词，不是完整词典。",
+      "部分来源仅核查原站搜索索引的可见片段，证据范围见来源表，未标为全文。"
+    ],
+    "writer": "five_content",
+    "contextKind": "existing_public_learning_example",
+    "templateVersion": "WORDS-STATIC-V3.1-FIVE-ZONE-SOURCE-FIRST",
+    "contentRevision": 2,
+    "claims": [
+      {
+        "id": "lexical",
+        "text": "Oxford weigh第3义明列权衡用法及可分结构，第二义称重；weigh somebody up判断人的义项与选项权衡分开。",
+        "kind": "source_fact",
+        "sourceIds": [
+          "lex",
+          "person"
+        ],
+        "evidenceNote": "见对应sources.evidence的义项定位；定义为原创转述，不是逐字词典原文。"
+      },
+      {
+        "id": "connection",
+        "text": "借天平记：把好处和代价放上去比较。weigh 可以说称重量，也可以说衡量事情；weigh up the options 就把这种衡量用在几个选择上。这个图像是记忆联系，不是词源结论；真正要比较的可能是价格、时间或风险。",
+        "kind": "teaching_inference",
+        "sourceIds": [
+          "lex"
+        ],
+        "evidenceNote": "按已核实词义整理的记忆联系，正文标明类比或同族关联，不推断历史词源。"
+      },
+      {
+        "id": "syntax",
+        "text": "weigh up the options 是先比较选项，before choosing a supplier 是后选供应商。need to 表示说话者认为比较是必要步骤。up 在这里属于短语，不是“往上”；也可以说 weigh the options up，用 them 代替 options 时说 weigh them up。",
+        "kind": "teaching_inference",
+        "sourceIds": [
+          "lex",
+          "grammar"
+        ],
+        "evidenceNote": "以保留的完整例句分析结构；结构与解释对应，未把来源说成收录该自编句。"
+      },
+      {
+        "id": "contrast",
+        "text": "consider/weigh up/choose对照为基于权衡义与原句before choosing的教学分析；价格交期对照为自编。",
+        "kind": "teaching_inference",
+        "sourceIds": [
+          "lex"
+        ],
+        "evidenceNote": "区分词典明确事实与用于解释的情境对照；不把常见倾向写成绝对规则。"
+      },
+      {
+        "id": "action",
+        "text": "这句话在提出一个选择前的步骤：先比，再定。We need to 明确提出要求，before choosing 把选择放在比较之后。自编回应：Let’s compare cost, quality and lead time first.（我们先比较成本、质量和交期吧。）回应把“权衡”落实成可讨论的标准；这些标准是例子，原句并没有列出它们。",
+        "kind": "teaching_inference",
+        "sourceIds": [
+          "lex"
+        ],
+        "evidenceNote": "从原句措辞提出话语行动解释，回应是显式自编；未编造用户业务事实。"
+      },
+      {
+        "id": "use",
+        "text": "需要说明一项改动是否值得做时，可以把两面的因素说出来。自编：We need to weigh the time saved against the extra cost.（我们需要权衡节省的时间和额外成本。）weigh A against B 是把两者放在一起衡量；可把两项换成 benefits 和 risks，用于收益与风险的讨论。",
+        "kind": "authored_example",
+        "sourceIds": [
+          "lex"
+        ],
+        "evidenceNote": "自编工作表达及替换槽，需Reviewer核查英语自然度与当前义，不宣称来源提供这个原句。"
+      }
+    ],
+    "focusedEntries": [
+      {
+        "entry": {
+          "lemma": "weigh up",
+          "pos": "短语动词",
+          "senses": [
+            {
+              "id": "weigh-up:current",
+              "glossZh": "在决定前仔细比较选择及其利弊",
+              "definitionEn": "consider choices or their advantages and disadvantages carefully",
+              "sourceIds": [
+                "lex"
+              ]
+            }
+          ],
+          "source": "已核对来源的原创教学转述"
+        },
+        "sense": {
+          "id": "weigh-up:current",
+          "glossZh": "在决定前仔细比较选择及其利弊",
+          "definitionEn": "consider choices or their advantages and disadvantages carefully",
+          "sourceIds": [
+            "lex"
+          ]
+        }
+      },
+      {
+        "entry": {
+          "lemma": "weigh",
+          "pos": "动词 · 本句相关义",
+          "senses": [
+            {
+              "id": "weigh:consider",
+              "glossZh": "仔细考虑；衡量（up 与它构成当前表达，不译成“向上”）",
+              "definitionEn": "think carefully about something in preparation for a decision",
+              "sourceIds": [
+                "lex",
+                "grammar"
+              ]
+            }
+          ],
+          "source": "已核对来源的原创教学转述"
+        },
+        "sense": {
+          "id": "weigh:consider",
+          "glossZh": "仔细考虑；衡量（up 与它构成当前表达，不译成“向上”）",
+          "definitionEn": "think carefully about something in preparation for a decision",
+          "sourceIds": [
+            "lex",
+            "grammar"
+          ]
+        }
+      }
+    ],
+    "dictionaryEntries": [
+      {
+        "lemma": "weigh up",
+        "pos": "短语动词",
+        "senses": [
+          {
+            "id": "weigh-up:current",
+            "glossZh": "在决定前仔细比较选择及其利弊",
+            "definitionEn": "consider choices or their advantages and disadvantages carefully",
+            "sourceIds": [
+              "lex"
+            ]
+          }
+        ],
+        "source": "已核对来源的原创教学转述"
+      },
+      {
+        "lemma": "weigh",
+        "pos": "动词 · 本句相关义",
+        "senses": [
+          {
+            "id": "weigh:consider",
+            "glossZh": "仔细考虑；衡量（up 与它构成当前表达，不译成“向上”）",
+            "definitionEn": "think carefully about something in preparation for a decision",
+            "sourceIds": [
+              "lex",
+              "grammar"
+            ]
+          }
+        ],
+        "source": "已核对来源的原创教学转述"
+      },
+      {
+        "lemma": "weigh",
+        "pos": "动词",
+        "senses": [
+          {
+            "id": "weigh:measure",
+            "glossZh": "称重量；测出某人或某物有多重",
+            "definitionEn": "measure the weight of a person or thing",
+            "sourceIds": [
+              "lex"
+            ]
+          }
+        ],
+        "source": "已核对来源的原创教学转述"
+      },
+      {
+        "lemma": "weigh somebody up",
+        "pos": "短语动词",
+        "senses": [
+          {
+            "id": "weigh-up:person",
+            "glossZh": "通过观察或交谈来判断一个人",
+            "definitionEn": "form a judgment of someone through observation or conversation",
+            "sourceIds": [
+              "person"
+            ]
+          }
+        ],
+        "source": "已核对来源的原创教学转述"
+      }
+    ]
+  }
+]
