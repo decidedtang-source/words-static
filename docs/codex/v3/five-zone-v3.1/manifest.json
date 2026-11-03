@@ -1,0 +1,19 @@
+{
+  "version": "WORDS-STATIC-V3.1-FIVE-ZONE-SOURCE-FIRST",
+  "date": "2026-11-03",
+  "status": "OWNER_APPROVED_TEMPLATE_AND_WORKFLOW",
+  "terminal": "READY_FOR_OWNER_REVIEW",
+  "productionDeployed": false,
+  "previewSha256": "588a7bc2c632600af50d115675c2616ecca5f2d75c18c4dd337df0a2611078be",
+  "layoutSha256": "740207e56dec0f82508b02dfc0fe7863bd81845e999168d636f1d5a72993050a",
+  "newFiveZoneExample": "working definition",
+  "legacyComparisonExamples": [
+    "shift",
+    "outcome framing"
+  ],
+  "independentSemanticReview": "PENDING",
+  "runtimeIntegration": "NOT_STARTED",
+  "parentCommit": "a260208b6c8fc5aeba772d7e2f998d1290aa0011",
+  "embeddedReviewMetadataValid": false,
+  "productionImportAllowed": false
+}

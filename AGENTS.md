@@ -1,3 +1,5 @@
+> **2026-11-03 最新正式登记：WORDS-STATIC-V3.1-FIVE-ZONE-SOURCE-FIRST**。先读 [五区来源整理版基线、工作流与QA](docs/codex/v3/five-zone-v3.1/README.md)。Owner已确认模板和“按五区需求检索成熟解释→整理→必要补写→独立QA”的内容生产方法。保留展开的当前拆词释义，随后直接释义区→本句先记→更多词典义项，再进入完整01—05。冻结HTML不可覆盖。此登记优先于下方历史规划中冲突的排序和讲解方法；仅模板/规划新版本，不是生产发布或内容独立审核通过。GitHub Pages、FSRS、学习记录、Notion选词和定时任务边界保持。状态 **READY_FOR_OWNER_REVIEW / NOT_DEPLOYED**。
+
 # Codex working contract — Words Static / English Vocabulary
 
 > **最新 Owner 产品方向（2026-11-03）**：先读 [B 默认、C1 按需切换的产品总纲](docs/codex/v3/OWNER-B-C1-PRODUCT-BRIEF.md)。保留现有 V3 词典/本句与完整原 01–05 五区，桥接区域默认展示 B（现代常见义＋具体使用场景＋当前义），C1 提供按需深入的词典来源、义项关联及有据词源；A 不作为用户可见模式。**Codex 自行决定架构和 UI、版本/审核/测试方案，先复现和评分，再在隔离分支实施；不可未经单独许可合并 main 或发布。** 这优先于历史 A/B/C 三选一、把五区改为三/四区的探索文档。

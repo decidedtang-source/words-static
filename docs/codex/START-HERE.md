@@ -1,3 +1,5 @@
+> **2026-11-03 最新正式登记：WORDS-STATIC-V3.1-FIVE-ZONE-SOURCE-FIRST**。先读 [五区来源整理版基线、工作流与QA](v3/five-zone-v3.1/README.md)。Owner已确认模板和“按五区需求检索成熟解释→整理→必要补写→独立QA”的内容生产方法。保留展开的当前拆词释义，随后直接释义区→本句先记→更多词典义项，再进入完整01—05。冻结HTML不可覆盖。此登记优先于下方历史规划中冲突的排序和讲解方法；仅模板/规划新版本，不是生产发布或内容独立审核通过。GitHub Pages、FSRS、学习记录、Notion选词和定时任务边界保持。状态 **READY_FOR_OWNER_REVIEW / NOT_DEPLOYED**。
+
 # 从这里开始 — Words Static UI-V3
 
 **唯一当前计划：[V3总入口](v3/README.md)。** Owner已确认设计，不再重复V1/V2讨论。V3已接入候选应用；见 [交付与QA证据](v3/DELIVERY.md)。正式发布仍待G2。
