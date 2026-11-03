@@ -1,5 +1,7 @@
 # 试产交付结果
 
+> 后续质量复查覆盖下方历史交付状态：当前 **NEEDS_ZONE_REASSESSMENT / NOT_DEPLOYED**。50条通过的是旧规则，分区完整性与教学质量尚未通过新审查。[问题证据及修订方案](../../../docs/codex/v3/five-zone-v3.1/QUALITY-REASSESSMENT.md)。以下保留历史结果供追溯。
+
 状态：READY_FOR_OWNER_REVIEW / TRIAL_CONTENT_REVIEWED / NOT_DEPLOYED。
 
 50条现有词卡、250区讲解；3个Writer与3个独立Reviewer分开。初审48条通过、2条退修；修改contingency与specify的无据前提后，同一Reviewer定点复核，最终50条通过试产内容审核。逐条hash与回执匹配，无旧生产回执复用。
