@@ -1,0 +1,4797 @@
+{
+  "ruleVersion": "dictionary-full/1",
+  "cards": [
+    {
+      "cardId": "V20261012-001",
+      "term": "scope",
+      "sourceId": "oewn-2025",
+      "entries": [
+        {
+          "lemma": "scope",
+          "entryKey": "n",
+          "pos": "n",
+          "sourceId": "oewn-2025",
+          "forms": [],
+          "pronunciation": [],
+          "senses": [
+            {
+              "id": "scope%1:07:00::",
+              "number": 1,
+              "synset": "05132642-n",
+              "definitions": [
+                "an area in which something acts or operates or has power or control:"
+              ],
+              "examples": [
+                "a piano has a greater range than the human voice",
+                "the ambit of municipal legislation",
+                "within the compass of this article",
+                "within the scope of an investigation",
+                "outside the reach of the law",
+                "in the political orbit of a world power"
+              ],
+              "lexicalExamples": [],
+              "usageFrames": [],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "作用、运作、权力或控制所及的范围"
+            },
+            {
+              "id": "scope%1:26:00::",
+              "number": 2,
+              "synset": "14536861-n",
+              "definitions": [
+                "the state of the environment in which a situation exists"
+              ],
+              "examples": [
+                "you can't do that in a university setting"
+              ],
+              "lexicalExamples": [],
+              "usageFrames": [],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "某种情况所处的环境状态或范围"
+            },
+            {
+              "id": "scope%1:06:02::",
+              "number": 3,
+              "synset": "04410773-n",
+              "definitions": [
+                "a magnifier of images of distant objects"
+              ],
+              "examples": [],
+              "lexicalExamples": [],
+              "usageFrames": [],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "放大远处物体影像的望远镜"
+            },
+            {
+              "id": "scope%1:06:01::",
+              "number": 4,
+              "synset": "03863348-n",
+              "definitions": [
+                "electronic equipment that provides visual images of varying electrical quantities"
+              ],
+              "examples": [],
+              "lexicalExamples": [],
+              "usageFrames": [],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "把变化的电学量显示为图像的示波器"
+            }
+          ]
+        }
+      ],
+      "writer": "dictionary-full-author",
+      "scope": "All senses of exact headword in the named source release/English revision; not all dictionaries"
+    },
+    {
+      "cardId": "V20261012-002",
+      "term": "objective",
+      "sourceId": "oewn-2025",
+      "entries": [
+        {
+          "lemma": "objective",
+          "entryKey": "a",
+          "pos": "a",
+          "sourceId": "oewn-2025",
+          "forms": [],
+          "pronunciation": [
+            {
+              "value": "ɒbˈd͡ʒɛk.tɪv",
+              "variety": "GB"
+            },
+            {
+              "value": "əbˈd͡ʒɛk.tɪv",
+              "variety": "US"
+            }
+          ],
+          "senses": [
+            {
+              "id": "objective%3:00:00::",
+              "number": 1,
+              "synset": "01619332-a",
+              "definitions": [
+                "undistorted by emotion or personal bias; based on observable phenomena"
+              ],
+              "examples": [
+                "an objective appraisal",
+                "objective evidence"
+              ],
+              "lexicalExamples": [],
+              "usageFrames": [],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "客观的：不受情绪或个人偏见歪曲，以可观察现象为依据"
+            },
+            {
+              "id": "objective%3:01:00::",
+              "number": 2,
+              "synset": "02873086-a",
+              "definitions": [
+                "serving as or indicating the object of a verb or of certain prepositions and used for certain other purposes"
+              ],
+              "examples": [
+                "objective case",
+                "accusative endings"
+              ],
+              "lexicalExamples": [],
+              "usageFrames": [],
+              "labels": [],
+              "sourceDomains": [
+                {
+                  "relation": "domain_topic",
+                  "id": "06184139-n",
+                  "labels": [
+                    "grammar"
+                  ]
+                }
+              ],
+              "usageLabels": [],
+              "glossZh": "宾格的：充当或表示动词、某些介词的宾语等"
+            },
+            {
+              "id": "objective%5:00:00:real:00",
+              "number": 3,
+              "synset": "01940682-s",
+              "definitions": [
+                "emphasizing or expressing things as perceived without distortion of personal feelings or interpretation"
+              ],
+              "examples": [
+                "objective art"
+              ],
+              "lexicalExamples": [],
+              "usageFrames": [],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "客观表现的：按事物被感知的样子表达，不掺入个人感情或解释"
+            },
+            {
+              "id": "objective%5:00:00:concrete:00",
+              "number": 4,
+              "synset": "00013461-s",
+              "definitions": [
+                "belonging to immediate experience of actual things or events"
+              ],
+              "examples": [
+                "objective benefits",
+                "an objective example",
+                "there is no objective evidence of anything of the kind"
+              ],
+              "lexicalExamples": [],
+              "usageFrames": [],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "属于对真实事物或事件的直接经验的"
+            }
+          ]
+        },
+        {
+          "lemma": "objective",
+          "entryKey": "n",
+          "pos": "n",
+          "sourceId": "oewn-2025",
+          "forms": [],
+          "pronunciation": [
+            {
+              "value": "ɒbˈd͡ʒɛk.tɪv",
+              "variety": "GB"
+            },
+            {
+              "value": "əbˈd͡ʒɛk.tɪv",
+              "variety": "US"
+            }
+          ],
+          "senses": [
+            {
+              "id": "objective%1:09:00::",
+              "number": 1,
+              "synset": "05990115-n",
+              "definitions": [
+                "the goal intended to be attained (and which is believed to be attainable)"
+              ],
+              "examples": [
+                "the sole object of her trip was to see her children"
+              ],
+              "lexicalExamples": [],
+              "usageFrames": [],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "希望达到且认为可以达到的目标"
+            },
+            {
+              "id": "objective%1:06:00::",
+              "number": 2,
+              "synset": "03843818-n",
+              "definitions": [
+                "the lens or system of lenses in a telescope or microscope that is nearest the object being viewed"
+              ],
+              "examples": [],
+              "lexicalExamples": [],
+              "usageFrames": [],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "物镜：望远镜或显微镜中最靠近被观察物体的透镜或透镜组"
+            }
+          ]
+        }
+      ],
+      "writer": "dictionary-full-author",
+      "scope": "All senses of exact headword in the named source release/English revision; not all dictionaries"
+    },
+    {
+      "cardId": "V20261012-003",
+      "term": "deliverable",
+      "sourceId": "oewn-2025",
+      "entries": [
+        {
+          "lemma": "deliverable",
+          "entryKey": "a",
+          "pos": "a",
+          "sourceId": "oewn-2025",
+          "forms": [],
+          "pronunciation": [
+            {
+              "value": "dɪˈlɪvɹəbəɫ",
+              "variety": "GB"
+            }
+          ],
+          "senses": [
+            {
+              "id": "deliverable%3:01:00::",
+              "number": 1,
+              "synset": "02721174-a",
+              "definitions": [
+                "suitable for or ready for delivery"
+              ],
+              "examples": [],
+              "lexicalExamples": [],
+              "usageFrames": [],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "适合交付或已经可以交付的"
+            }
+          ]
+        },
+        {
+          "lemma": "deliverable",
+          "entryKey": "n",
+          "pos": "n",
+          "sourceId": "oewn-2025",
+          "forms": [],
+          "pronunciation": [
+            {
+              "value": "dɪˈlɪvɹəbəɫ",
+              "variety": "GB"
+            }
+          ],
+          "senses": [
+            {
+              "id": "deliverable%1:06:00::",
+              "number": 1,
+              "synset": "03178402-n",
+              "definitions": [
+                "something that can be provided as the product of development"
+              ],
+              "examples": [
+                "under this contract the deliverables include both software and hardware"
+              ],
+              "lexicalExamples": [],
+              "usageFrames": [],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "可作为开发成果提供的交付物"
+            }
+          ]
+        }
+      ],
+      "writer": "dictionary-full-author",
+      "scope": "All senses of exact headword in the named source release/English revision; not all dictionaries"
+    },
+    {
+      "cardId": "V20261012-004",
+      "term": "milestone",
+      "sourceId": "oewn-2025",
+      "entries": [
+        {
+          "lemma": "milestone",
+          "entryKey": "n",
+          "pos": "n",
+          "sourceId": "oewn-2025",
+          "forms": [],
+          "pronunciation": [],
+          "senses": [
+            {
+              "id": "milestone%1:10:01::",
+              "number": 1,
+              "synset": "07285872-n",
+              "definitions": [
+                "stone post at side of a road to show distances"
+              ],
+              "examples": [],
+              "lexicalExamples": [],
+              "usageFrames": [],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "路旁标示距离的里程碑"
+            },
+            {
+              "id": "milestone%1:11:00::",
+              "number": 2,
+              "synset": "07433316-n",
+              "definitions": [
+                "a significant event in your life (or in a project)"
+              ],
+              "examples": [],
+              "lexicalExamples": [],
+              "usageFrames": [],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "人生或项目中的重大事件；里程碑"
+            }
+          ]
+        }
+      ],
+      "writer": "dictionary-full-author",
+      "scope": "All senses of exact headword in the named source release/English revision; not all dictionaries"
+    },
+    {
+      "cardId": "V20261012-005",
+      "term": "priority",
+      "sourceId": "oewn-2025",
+      "entries": [
+        {
+          "lemma": "priority",
+          "entryKey": "n",
+          "pos": "n",
+          "sourceId": "oewn-2025",
+          "forms": [],
+          "pronunciation": [
+            {
+              "value": "pɹaɪˈɒɹɨti",
+              "variety": "GB"
+            },
+            {
+              "value": "pɹaɪˈɔɹɪ̈ti",
+              "variety": "US"
+            }
+          ],
+          "senses": [
+            {
+              "id": "priority%1:26:00::",
+              "number": 1,
+              "synset": "13973020-n",
+              "definitions": [
+                "status established in order of importance or urgency"
+              ],
+              "examples": [
+                "… its precedence as the world's leading manufacturer of pharmaceuticals",
+                "national independence takes priority over class struggle"
+              ],
+              "lexicalExamples": [],
+              "usageFrames": [],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "按重要性或紧迫性确定的优先地位"
+            },
+            {
+              "id": "priority%1:07:00::",
+              "number": 2,
+              "synset": "05054430-n",
+              "definitions": [
+                "preceding in time"
+              ],
+              "examples": [],
+              "lexicalExamples": [],
+              "usageFrames": [],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "时间上的在先、先于其他事物"
+            }
+          ]
+        }
+      ],
+      "writer": "dictionary-full-author",
+      "scope": "All senses of exact headword in the named source release/English revision; not all dictionaries"
+    },
+    {
+      "cardId": "V20261012-006",
+      "term": "constraint",
+      "sourceId": "oewn-2025",
+      "entries": [
+        {
+          "lemma": "constraint",
+          "entryKey": "n",
+          "pos": "n",
+          "sourceId": "oewn-2025",
+          "forms": [],
+          "pronunciation": [
+            {
+              "value": "kənˈstɹeɪnt"
+            }
+          ],
+          "senses": [
+            {
+              "id": "constraint%1:26:00::",
+              "number": 1,
+              "synset": "14022266-n",
+              "definitions": [
+                "the state of being physically constrained"
+              ],
+              "examples": [
+                "dogs should be kept under restraint"
+              ],
+              "lexicalExamples": [],
+              "usageFrames": [],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "身体或物体受到限制的状态"
+            },
+            {
+              "id": "constraint%1:06:00::",
+              "number": 2,
+              "synset": "04088956-n",
+              "definitions": [
+                "a device that retards something's motion"
+              ],
+              "examples": [
+                "the car did not have proper restraints fitted"
+              ],
+              "lexicalExamples": [],
+              "usageFrames": [],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "限制或减缓物体运动的装置"
+            },
+            {
+              "id": "constraint%1:04:00::",
+              "number": 3,
+              "synset": "01152116-n",
+              "definitions": [
+                "the act of constraining; the threat or use of force to control the thoughts or behavior of others"
+              ],
+              "examples": [],
+              "lexicalExamples": [],
+              "usageFrames": [],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "约束行为；威胁或使用武力来控制他人的思想或行为"
+            }
+          ]
+        }
+      ],
+      "writer": "dictionary-full-author",
+      "scope": "All senses of exact headword in the named source release/English revision; not all dictionaries"
+    },
+    {
+      "cardId": "V20261012-007",
+      "term": "dependency",
+      "sourceId": "oewn-2025",
+      "entries": [
+        {
+          "lemma": "dependency",
+          "entryKey": "n",
+          "pos": "n",
+          "sourceId": "oewn-2025",
+          "forms": [],
+          "pronunciation": [
+            {
+              "value": "dɪˈpɛndənsi",
+              "variety": "GB"
+            }
+          ],
+          "senses": [
+            {
+              "id": "dependency%1:26:00::",
+              "number": 1,
+              "synset": "14024833-n",
+              "definitions": [
+                "the state of relying on or being controlled by someone or something else"
+              ],
+              "examples": [],
+              "lexicalExamples": [],
+              "usageFrames": [],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "依赖或受他人、其他事物控制的状态"
+            },
+            {
+              "id": "dependency%1:26:01::",
+              "number": 2,
+              "synset": "14086207-n",
+              "definitions": [
+                "being abnormally tolerant to and dependent on something that is psychologically or physically habit-forming (especially alcohol or narcotic drugs)"
+              ],
+              "examples": [],
+              "lexicalExamples": [],
+              "usageFrames": [],
+              "labels": [],
+              "sourceDomains": [
+                {
+                  "relation": "domain_topic",
+                  "id": "03814104-n",
+                  "labels": [
+                    "narcotic"
+                  ]
+                }
+              ],
+              "usageLabels": [],
+              "glossZh": "对易成瘾物质产生异常耐受并在心理或身体上依赖的状态"
+            },
+            {
+              "id": "dependency%1:15:00::",
+              "number": 3,
+              "synset": "08516868-n",
+              "definitions": [
+                "a geographical area politically controlled by a distant country"
+              ],
+              "examples": [],
+              "lexicalExamples": [],
+              "usageFrames": [],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "政治上受远方国家控制的属地"
+            }
+          ]
+        }
+      ],
+      "writer": "dictionary-full-author",
+      "scope": "All senses of exact headword in the named source release/English revision; not all dictionaries"
+    },
+    {
+      "cardId": "V20261012-008",
+      "term": "assumption",
+      "sourceId": "oewn-2025",
+      "entries": [
+        {
+          "lemma": "assumption",
+          "entryKey": "n",
+          "pos": "n",
+          "sourceId": "oewn-2025",
+          "forms": [],
+          "pronunciation": [
+            {
+              "value": "əˈsʌmp.ʃən"
+            }
+          ],
+          "senses": [
+            {
+              "id": "assumption%1:10:00::",
+              "number": 1,
+              "synset": "06766514-n",
+              "definitions": [
+                "a statement that is assumed to be true and from which a conclusion can be drawn"
+              ],
+              "examples": [
+                "on the assumption that he has been injured, we can infer that he will not play"
+              ],
+              "lexicalExamples": [],
+              "usageFrames": [],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "被当作真的、可据以推出结论的陈述；前提"
+            },
+            {
+              "id": "assumption%1:09:00::",
+              "number": 2,
+              "synset": "05900703-n",
+              "definitions": [
+                "a hypothesis that is taken for granted"
+              ],
+              "examples": [
+                "any society is built upon certain assumptions"
+              ],
+              "lexicalExamples": [],
+              "usageFrames": [],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "被视为理所当然的假设"
+            },
+            {
+              "id": "assumption%1:04:00::",
+              "number": 3,
+              "synset": "00083690-n",
+              "definitions": [
+                "the act of taking possession of or power over something"
+              ],
+              "examples": [
+                "his assumption of office coincided with the trouble in Cuba",
+                "the Nazi assumption of power in 1934",
+                "he acquired all the company's assets for ten million dollars and the assumption of the company's debts"
+              ],
+              "lexicalExamples": [],
+              "usageFrames": [],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "取得某事物的占有权或控制权的行为"
+            },
+            {
+              "id": "assumption%1:07:00::",
+              "number": 4,
+              "synset": "04845958-n",
+              "definitions": [
+                "audacious (even arrogant) behavior that you have no right to"
+              ],
+              "examples": [
+                "he despised them for their presumptuousness"
+              ],
+              "lexicalExamples": [],
+              "usageFrames": [],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "无权如此却表现出的大胆甚至傲慢行为"
+            },
+            {
+              "id": "assumption%1:04:01::",
+              "number": 5,
+              "synset": "00084080-n",
+              "definitions": [
+                "the act of assuming or taking for granted"
+              ],
+              "examples": [
+                "your assumption that I would agree was unwarranted"
+              ],
+              "lexicalExamples": [],
+              "usageFrames": [],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "假定或将某事视为当然的行为"
+            }
+          ]
+        }
+      ],
+      "writer": "dictionary-full-author",
+      "scope": "All senses of exact headword in the named source release/English revision; not all dictionaries"
+    },
+    {
+      "cardId": "V20261012-009",
+      "term": "baseline",
+      "sourceId": "oewn-2025",
+      "entries": [
+        {
+          "lemma": "baseline",
+          "entryKey": "n",
+          "pos": "n",
+          "sourceId": "oewn-2025",
+          "forms": [],
+          "pronunciation": [
+            {
+              "value": "ˈbeɪslaɪn"
+            }
+          ],
+          "senses": [
+            {
+              "id": "baseline%1:24:00::",
+              "number": 1,
+              "synset": "13876515-n",
+              "definitions": [
+                "an imaginary line or standard by which things are measured or compared"
+              ],
+              "examples": [
+                "they established a baseline for the budget"
+              ],
+              "lexicalExamples": [],
+              "usageFrames": [],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "用于测量或比较的假想线或标准；基线"
+            },
+            {
+              "id": "baseline%1:15:01::",
+              "number": 2,
+              "synset": "08668494-n",
+              "definitions": [
+                "the back line bounding each end of a tennis or handball court; when serving the server must not step over this line"
+              ],
+              "examples": [],
+              "lexicalExamples": [],
+              "usageFrames": [],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "网球或手球场两端的底线，发球者发球时不得越线"
+            },
+            {
+              "id": "baseline%1:15:00::",
+              "number": 3,
+              "synset": "08590687-n",
+              "definitions": [
+                "the lines a baseball player must follow while running the bases"
+              ],
+              "examples": [],
+              "lexicalExamples": [],
+              "usageFrames": [],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "棒球运动员跑垒时必须遵循的垒线"
+            }
+          ]
+        }
+      ],
+      "writer": "dictionary-full-author",
+      "scope": "All senses of exact headword in the named source release/English revision; not all dictionaries"
+    },
+    {
+      "cardId": "V20261012-010",
+      "term": "buffer",
+      "sourceId": "oewn-2025",
+      "entries": [
+        {
+          "lemma": "buffer",
+          "entryKey": "n",
+          "pos": "n",
+          "sourceId": "oewn-2025",
+          "forms": [],
+          "pronunciation": [
+            {
+              "value": "ˈbʌfə(ɹ)",
+              "variety": "GB"
+            },
+            {
+              "value": "ˈbʌfɚ",
+              "variety": "US"
+            },
+            {
+              "value": "ˈbafə(ɹ)",
+              "variety": "AU"
+            }
+          ],
+          "senses": [
+            {
+              "id": "buffer%1:27:00::",
+              "number": 1,
+              "synset": "14810100-n",
+              "definitions": [
+                "(chemistry) an ionic compound that resists changes in its pH"
+              ],
+              "examples": [],
+              "lexicalExamples": [],
+              "usageFrames": [],
+              "labels": [],
+              "sourceDomains": [
+                {
+                  "relation": "domain_topic",
+                  "id": "06094057-n",
+                  "labels": [
+                    "chemistry",
+                    "chemical science"
+                  ]
+                }
+              ],
+              "usageLabels": [],
+              "glossZh": "化学：能抵抗自身pH变化的离子化合物；缓冲物质"
+            },
+            {
+              "id": "buffer%1:15:00::",
+              "number": 2,
+              "synset": "08706162-n",
+              "definitions": [
+                "a neutral zone between two rival powers that is created in order to diminish the danger of conflict"
+              ],
+              "examples": [],
+              "lexicalExamples": [],
+              "usageFrames": [],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "为降低冲突风险而在两个敌对势力之间设立的中立缓冲区"
+            },
+            {
+              "id": "buffer%1:06:02::",
+              "number": 3,
+              "synset": "03333146-n",
+              "definitions": [
+                "an inclined metal frame at the front of a locomotive to clear the track"
+              ],
+              "examples": [],
+              "lexicalExamples": [],
+              "usageFrames": [],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "机车前端用于清除轨道障碍的倾斜金属架；排障器"
+            },
+            {
+              "id": "buffer%1:06:03::",
+              "number": 4,
+              "synset": "02914831-n",
+              "definitions": [
+                "(computer science) a part of RAM used for temporary storage of data that is waiting to be sent to a device; used to compensate for differences in the rate of flow of data between components of a computer system"
+              ],
+              "examples": [],
+              "lexicalExamples": [],
+              "usageFrames": [],
+              "labels": [],
+              "sourceDomains": [
+                {
+                  "relation": "domain_topic",
+                  "id": "06138021-n",
+                  "labels": [
+                    "computer science",
+                    "computing"
+                  ]
+                }
+              ],
+              "usageLabels": [],
+              "glossZh": "计算机：暂存待传送数据的内存区，用来补偿部件间数据流速差异"
+            },
+            {
+              "id": "buffer%1:06:01::",
+              "number": 5,
+              "synset": "02914678-n",
+              "definitions": [
+                "a power tool used to buff surfaces"
+              ],
+              "examples": [],
+              "lexicalExamples": [],
+              "usageFrames": [],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "用于抛光表面的电动工具"
+            },
+            {
+              "id": "buffer%1:06:00::",
+              "number": 6,
+              "synset": "02914504-n",
+              "definitions": [
+                "a cushion-like device that reduces shock due to an impact"
+              ],
+              "examples": [],
+              "lexicalExamples": [],
+              "usageFrames": [],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "减少撞击冲击的垫状装置；缓冲器"
+            },
+            {
+              "id": "buffer%1:06:04::",
+              "number": 7,
+              "synset": "02914310-n",
+              "definitions": [
+                "an implement consisting of soft material mounted on a block; used for polishing (as in manicuring)"
+              ],
+              "examples": [],
+              "lexicalExamples": [],
+              "usageFrames": [],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "软材料装在块体上、用于美甲等抛光的工具"
+            }
+          ]
+        },
+        {
+          "lemma": "buffer",
+          "entryKey": "v",
+          "pos": "v",
+          "sourceId": "oewn-2025",
+          "forms": [],
+          "pronunciation": [
+            {
+              "value": "ˈbʌfə(ɹ)",
+              "variety": "GB"
+            },
+            {
+              "value": "ˈbʌfɚ",
+              "variety": "US"
+            },
+            {
+              "value": "ˈbafə(ɹ)",
+              "variety": "AU"
+            }
+          ],
+          "senses": [
+            {
+              "id": "buffer%2:30:00::",
+              "number": 1,
+              "synset": "00514425-v",
+              "definitions": [
+                "add a buffer (a solution)"
+              ],
+              "examples": [
+                "buffered saline solution for the eyes"
+              ],
+              "lexicalExamples": [],
+              "usageFrames": [
+                "Somebody ----s something"
+              ],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "加入缓冲液"
+            },
+            {
+              "id": "buffer%2:35:00::",
+              "number": 2,
+              "synset": "01579748-v",
+              "definitions": [
+                "protect from impact"
+              ],
+              "examples": [
+                "cushion the blow"
+              ],
+              "lexicalExamples": [],
+              "usageFrames": [
+                "Something ----s something"
+              ],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "保护，使免受冲击"
+            }
+          ]
+        }
+      ],
+      "writer": "dictionary-full-author",
+      "scope": "All senses of exact headword in the named source release/English revision; not all dictionaries"
+    },
+    {
+      "cardId": "V20261012-011",
+      "term": "sequence",
+      "sourceId": "oewn-2025",
+      "entries": [
+        {
+          "lemma": "sequence",
+          "entryKey": "n",
+          "pos": "n",
+          "sourceId": "oewn-2025",
+          "forms": [],
+          "pronunciation": [
+            {
+              "value": "ˈsiːkwəns"
+            }
+          ],
+          "senses": [
+            {
+              "id": "sequence%1:14:00::",
+              "number": 1,
+              "synset": "08476263-n",
+              "definitions": [
+                "serial arrangement in which things follow in logical order or a recurrent pattern"
+              ],
+              "examples": [
+                "the sequence of names was alphabetical",
+                "he invented a technique to determine the sequence of base pairs in DNA"
+              ],
+              "lexicalExamples": [],
+              "usageFrames": [],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "按逻辑顺序或重复规律排列的序列"
+            },
+            {
+              "id": "sequence%1:07:00::",
+              "number": 2,
+              "synset": "05051973-n",
+              "definitions": [
+                "a following of one thing after another in time"
+              ],
+              "examples": [
+                "the doctor saw a sequence of patients"
+              ],
+              "lexicalExamples": [],
+              "usageFrames": [],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "时间上一件接着一件的先后次序"
+            },
+            {
+              "id": "sequence%1:06:00::",
+              "number": 3,
+              "synset": "04180233-n",
+              "definitions": [
+                "film consisting of a succession of related shots that develop a given subject in a movie"
+              ],
+              "examples": [],
+              "lexicalExamples": [],
+              "usageFrames": [],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "电影中围绕同一主题的一组连续相关镜头"
+            },
+            {
+              "id": "sequence%1:04:00::",
+              "number": 4,
+              "synset": "01012400-n",
+              "definitions": [
+                "the action of following in order"
+              ],
+              "examples": [
+                "he played the trumps in sequence"
+              ],
+              "lexicalExamples": [],
+              "usageFrames": [],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "依次跟随的行为"
+            },
+            {
+              "id": "sequence%1:11:00::",
+              "number": 5,
+              "synset": "07356983-n",
+              "definitions": [
+                "several repetitions of a melodic phrase in different keys"
+              ],
+              "examples": [],
+              "lexicalExamples": [],
+              "usageFrames": [],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "音乐：同一旋律乐句在不同调上重复数次；模进"
+            }
+          ]
+        },
+        {
+          "lemma": "sequence",
+          "entryKey": "v",
+          "pos": "v",
+          "sourceId": "oewn-2025",
+          "forms": [],
+          "pronunciation": [
+            {
+              "value": "ˈsiːkwəns"
+            }
+          ],
+          "senses": [
+            {
+              "id": "sequence%2:31:00::",
+              "number": 1,
+              "synset": "00662242-v",
+              "definitions": [
+                "arrange in a sequence"
+              ],
+              "examples": [],
+              "lexicalExamples": [],
+              "usageFrames": [
+                "Somebody ----s something"
+              ],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "按顺序排列"
+            },
+            {
+              "id": "sequence%2:32:00::",
+              "number": 2,
+              "synset": "00922096-v",
+              "definitions": [
+                "determine the order of constituents in"
+              ],
+              "examples": [
+                "They sequenced the human genome"
+              ],
+              "lexicalExamples": [],
+              "usageFrames": [
+                "Somebody ----s something"
+              ],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "确定组成成分的顺序；测序"
+            }
+          ]
+        }
+      ],
+      "writer": "dictionary-full-author",
+      "scope": "All senses of exact headword in the named source release/English revision; not all dictionaries"
+    },
+    {
+      "cardId": "V20261012-012",
+      "term": "capacity",
+      "sourceId": "oewn-2025",
+      "entries": [
+        {
+          "lemma": "capacity",
+          "entryKey": "n",
+          "pos": "n",
+          "sourceId": "oewn-2025",
+          "forms": [],
+          "pronunciation": [
+            {
+              "value": "kəˈpæsɪti"
+            }
+          ],
+          "senses": [
+            {
+              "id": "capacity%1:07:00::",
+              "number": 1,
+              "synset": "05210665-n",
+              "definitions": [
+                "capability to perform or produce"
+              ],
+              "examples": [
+                "among his gifts is his capacity for true altruism",
+                "limited runway capacity",
+                "a great capacity for growth"
+              ],
+              "lexicalExamples": [],
+              "usageFrames": [],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "执行或生产的能力"
+            },
+            {
+              "id": "capacity%1:26:00::",
+              "number": 2,
+              "synset": "14554438-n",
+              "definitions": [
+                "the susceptibility of something to a particular treatment"
+              ],
+              "examples": [
+                "the capability of a metal to be fused"
+              ],
+              "lexicalExamples": [],
+              "usageFrames": [],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "某物接受特定处理的可能性或易受影响程度"
+            },
+            {
+              "id": "capacity%1:23:00::",
+              "number": 3,
+              "synset": "13801586-n",
+              "definitions": [
+                "the amount that can be contained"
+              ],
+              "examples": [
+                "the gas tank has a capacity of 12 gallons"
+              ],
+              "lexicalExamples": [],
+              "usageFrames": [],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "可以容纳的数量；容量"
+            },
+            {
+              "id": "capacity%1:04:00::",
+              "number": 4,
+              "synset": "00916626-n",
+              "definitions": [
+                "the maximum production possible"
+              ],
+              "examples": [
+                "the plant is working at 80 per cent capacity"
+              ],
+              "lexicalExamples": [],
+              "usageFrames": [],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "可能达到的最高产量；产能"
+            },
+            {
+              "id": "capacity%1:04:01::",
+              "number": 5,
+              "synset": "00722203-n",
+              "definitions": [
+                "a specified function"
+              ],
+              "examples": [
+                "he was employed in the capacity of director",
+                "he should be retained in his present capacity at a higher salary"
+              ],
+              "lexicalExamples": [],
+              "usageFrames": [],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "特定职能或身份"
+            },
+            {
+              "id": "capacity%1:23:01::",
+              "number": 6,
+              "synset": "13777193-n",
+              "definitions": [
+                "(computer science) the amount of information (in bytes) that can be stored on a disk drive"
+              ],
+              "examples": [
+                "the capacity of a hard disk drive is usually expressed in megabytes"
+              ],
+              "lexicalExamples": [],
+              "usageFrames": [],
+              "labels": [],
+              "sourceDomains": [
+                {
+                  "relation": "domain_topic",
+                  "id": "06138021-n",
+                  "labels": [
+                    "computer science",
+                    "computing"
+                  ]
+                }
+              ],
+              "usageLabels": [],
+              "glossZh": "计算机：磁盘驱动器可存储的信息量，以字节计"
+            },
+            {
+              "id": "capacity%1:19:00::",
+              "number": 7,
+              "synset": "11453660-n",
+              "definitions": [
+                "an electrical phenomenon whereby an electric charge is stored"
+              ],
+              "examples": [],
+              "lexicalExamples": [],
+              "usageFrames": [],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "储存电荷的电学现象；电容"
+            },
+            {
+              "id": "capacity%1:09:00::",
+              "number": 8,
+              "synset": "05630739-n",
+              "definitions": [
+                "the power to learn or retain knowledge; in law, the ability to understand the facts and significance of your behavior"
+              ],
+              "examples": [],
+              "lexicalExamples": [],
+              "usageFrames": [],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "学习或记忆知识的能力；法律上理解自己行为的事实与意义的能力"
+            },
+            {
+              "id": "capacity%1:07:01::",
+              "number": 9,
+              "synset": "05040724-n",
+              "definitions": [
+                "tolerance for alcohol"
+              ],
+              "examples": [
+                "he had drunk beyond his capacity"
+              ],
+              "lexicalExamples": [],
+              "usageFrames": [],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "对酒精的耐受力；酒量"
+            }
+          ]
+        }
+      ],
+      "writer": "dictionary-full-author",
+      "scope": "All senses of exact headword in the named source release/English revision; not all dictionaries"
+    },
+    {
+      "cardId": "V20261012-013",
+      "term": "allocate",
+      "sourceId": "oewn-2025",
+      "entries": [
+        {
+          "lemma": "allocate",
+          "entryKey": "v",
+          "pos": "v",
+          "sourceId": "oewn-2025",
+          "forms": [],
+          "pronunciation": [
+            {
+              "value": "ˈæl.ə.keɪt"
+            }
+          ],
+          "senses": [
+            {
+              "id": "allocate%2:40:00::",
+              "number": 1,
+              "synset": "02238869-v",
+              "definitions": [
+                "distribute according to a plan or set apart for a special purpose"
+              ],
+              "examples": [
+                "I am allocating a loaf of bread to everyone on a daily basis",
+                "I'm allocating the rations for the camping trip"
+              ],
+              "lexicalExamples": [
+                "They allocate the money to them",
+                "They allocate them the money"
+              ],
+              "usageFrames": [
+                "Somebody ----s something",
+                "Somebody ----s something to somebody"
+              ],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "按计划分配，或拨出作特定用途"
+            }
+          ]
+        }
+      ],
+      "writer": "dictionary-full-author",
+      "scope": "All senses of exact headword in the named source release/English revision; not all dictionaries"
+    },
+    {
+      "cardId": "V20261012-014",
+      "term": "delegate",
+      "sourceId": "oewn-2025",
+      "entries": [
+        {
+          "lemma": "delegate",
+          "entryKey": "n",
+          "pos": "n",
+          "sourceId": "oewn-2025",
+          "forms": [],
+          "pronunciation": [
+            {
+              "value": "ˈdɛlɪɡət"
+            }
+          ],
+          "senses": [
+            {
+              "id": "delegate%1:18:00::",
+              "number": 1,
+              "synset": "10020380-n",
+              "definitions": [
+                "a person appointed or elected to represent others"
+              ],
+              "examples": [],
+              "lexicalExamples": [],
+              "usageFrames": [],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "经任命或选举代表他人的代表"
+            }
+          ]
+        },
+        {
+          "lemma": "delegate",
+          "entryKey": "v",
+          "pos": "v",
+          "sourceId": "oewn-2025",
+          "forms": [],
+          "pronunciation": [
+            {
+              "value": "ˈdɛlɪɡət"
+            }
+          ],
+          "senses": [
+            {
+              "id": "delegate%2:41:01::",
+              "number": 1,
+              "synset": "02400537-v",
+              "definitions": [
+                "transfer power to someone"
+              ],
+              "examples": [],
+              "lexicalExamples": [],
+              "usageFrames": [
+                "Somebody ----s something to somebody"
+              ],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "把权力授予他人"
+            },
+            {
+              "id": "delegate%2:41:00::",
+              "number": 2,
+              "synset": "02396945-v",
+              "definitions": [
+                "give an assignment to (a person) to a post, or assign a task to (a person)"
+              ],
+              "examples": [],
+              "lexicalExamples": [
+                "They delegate him to write the letter"
+              ],
+              "usageFrames": [
+                "Somebody ----s somebody something",
+                "Somebody ----s somebody PP",
+                "Somebody ----s something to somebody"
+              ],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "指派某人担任职务或执行任务"
+            }
+          ]
+        }
+      ],
+      "writer": "dictionary-full-author",
+      "scope": "All senses of exact headword in the named source release/English revision; not all dictionaries"
+    },
+    {
+      "cardId": "V20261012-015",
+      "term": "ownership",
+      "sourceId": "oewn-2025",
+      "entries": [
+        {
+          "lemma": "ownership",
+          "entryKey": "n",
+          "pos": "n",
+          "sourceId": "oewn-2025",
+          "forms": [],
+          "pronunciation": [
+            {
+              "value": "ˈoʊnɚʃɪp",
+              "variety": "US"
+            },
+            {
+              "value": "ˈəʊnəʃɪp",
+              "variety": "GB"
+            }
+          ],
+          "senses": [
+            {
+              "id": "ownership%1:21:00::",
+              "number": 1,
+              "synset": "13261412-n",
+              "definitions": [
+                "the relation of an owner to the thing possessed; possession with the right to transfer possession to others"
+              ],
+              "examples": [],
+              "lexicalExamples": [],
+              "usageFrames": [],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "所有人与所拥有物之间的关系，包含转让占有的权利；所有权"
+            },
+            {
+              "id": "ownership%1:04:00::",
+              "number": 2,
+              "synset": "00811126-n",
+              "definitions": [
+                "the act of having and controlling property"
+              ],
+              "examples": [],
+              "lexicalExamples": [],
+              "usageFrames": [],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "拥有并控制财产的行为"
+            },
+            {
+              "id": "ownership%1:26:00::",
+              "number": 3,
+              "synset": "14503072-n",
+              "definitions": [
+                "the state or fact of being an owner"
+              ],
+              "examples": [],
+              "lexicalExamples": [],
+              "usageFrames": [],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "身为所有人的状态或事实"
+            }
+          ]
+        }
+      ],
+      "writer": "dictionary-full-author",
+      "scope": "All senses of exact headword in the named source release/English revision; not all dictionaries"
+    },
+    {
+      "cardId": "V20261012-016",
+      "term": "accountable",
+      "sourceId": "oewn-2025",
+      "entries": [
+        {
+          "lemma": "accountable",
+          "entryKey": "a",
+          "pos": "a",
+          "sourceId": "oewn-2025",
+          "forms": [],
+          "pronunciation": [
+            {
+              "value": "əˈkaʊntəbl̩"
+            }
+          ],
+          "senses": [
+            {
+              "id": "accountable%5:00:00:responsible:00",
+              "number": 1,
+              "synset": "02003975-s",
+              "definitions": [
+                "liable to account for one's actions"
+              ],
+              "examples": [
+                "governments must be accountable to someone beside themselves",
+                "fully accountable for what they did",
+                "the court held the parents answerable for their minor child's acts of vandalism",
+                "he was answerable to no one"
+              ],
+              "lexicalExamples": [],
+              "usageFrames": [],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "有义务说明自己的行为并为之负责的"
+            }
+          ]
+        }
+      ],
+      "writer": "dictionary-full-author",
+      "scope": "All senses of exact headword in the named source release/English revision; not all dictionaries"
+    },
+    {
+      "cardId": "V20261012-017",
+      "term": "deadline",
+      "sourceId": "oewn-2025",
+      "entries": [
+        {
+          "lemma": "deadline",
+          "entryKey": "n",
+          "pos": "n",
+          "sourceId": "oewn-2025",
+          "forms": [],
+          "pronunciation": [
+            {
+              "value": "ˈdɛdˌlaɪn"
+            }
+          ],
+          "senses": [
+            {
+              "id": "deadline%1:28:00::",
+              "number": 1,
+              "synset": "15204935-n",
+              "definitions": [
+                "the point in time at which something must be completed"
+              ],
+              "examples": [],
+              "lexicalExamples": [],
+              "usageFrames": [],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "某事必须完成的时间点；截止时间"
+            }
+          ]
+        }
+      ],
+      "writer": "dictionary-full-author",
+      "scope": "All senses of exact headword in the named source release/English revision; not all dictionaries"
+    },
+    {
+      "cardId": "V20261012-018",
+      "term": "commitment",
+      "sourceId": "oewn-2025",
+      "entries": [
+        {
+          "lemma": "commitment",
+          "entryKey": "n",
+          "pos": "n",
+          "sourceId": "oewn-2025",
+          "forms": [],
+          "pronunciation": [],
+          "senses": [
+            {
+              "id": "commitment%1:07:01::",
+              "number": 1,
+              "synset": "04654347-n",
+              "definitions": [
+                "the trait of sincere and steadfast fixity of purpose"
+              ],
+              "examples": [
+                "a man of energy and commitment"
+              ],
+              "lexicalExamples": [],
+              "usageFrames": [],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "真诚而坚定地坚持目标的品质"
+            },
+            {
+              "id": "commitment%1:04:00::",
+              "number": 2,
+              "synset": "01208643-n",
+              "definitions": [
+                "the act of binding yourself (intellectually or emotionally) to a course of action"
+              ],
+              "examples": [
+                "his long commitment to public service",
+                "they felt no loyalty to a losing team"
+              ],
+              "lexicalExamples": [],
+              "usageFrames": [],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "在思想或情感上使自己投入某项行动的行为"
+            },
+            {
+              "id": "commitment%1:04:02::",
+              "number": 3,
+              "synset": "01242433-n",
+              "definitions": [
+                "an engagement by contract involving financial obligation"
+              ],
+              "examples": [
+                "his business commitments took him to London"
+              ],
+              "lexicalExamples": [],
+              "usageFrames": [],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "合同约定的、涉及财务义务的承诺"
+            },
+            {
+              "id": "commitment%1:10:00::",
+              "number": 4,
+              "synset": "06697128-n",
+              "definitions": [
+                "a message that makes a pledge"
+              ],
+              "examples": [],
+              "lexicalExamples": [],
+              "usageFrames": [],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "作出保证的表述；承诺"
+            },
+            {
+              "id": "commitment%1:04:01::",
+              "number": 5,
+              "synset": "01168182-n",
+              "definitions": [
+                "the official act of consigning a person to confinement (as in a prison or mental hospital)"
+              ],
+              "examples": [],
+              "lexicalExamples": [],
+              "usageFrames": [],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "将某人正式送往监狱或精神医疗机构等处收容的行为"
+            }
+          ]
+        }
+      ],
+      "writer": "dictionary-full-author",
+      "scope": "All senses of exact headword in the named source release/English revision; not all dictionaries"
+    },
+    {
+      "cardId": "V20261012-019",
+      "term": "contingency",
+      "sourceId": "oewn-2025",
+      "entries": [
+        {
+          "lemma": "contingency",
+          "entryKey": "n",
+          "pos": "n",
+          "sourceId": "oewn-2025",
+          "forms": [],
+          "pronunciation": [
+            {
+              "value": "kənˈtɪndʒənsi"
+            }
+          ],
+          "senses": [
+            {
+              "id": "contingency%1:11:00::",
+              "number": 1,
+              "synset": "07305484-n",
+              "definitions": [
+                "a possible event or occurrence or result"
+              ],
+              "examples": [],
+              "lexicalExamples": [],
+              "usageFrames": [],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "可能发生的事件、情况或结果"
+            },
+            {
+              "id": "contingency%1:26:00::",
+              "number": 2,
+              "synset": "14025458-n",
+              "definitions": [
+                "the state of being contingent on something"
+              ],
+              "examples": [],
+              "lexicalExamples": [],
+              "usageFrames": [],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "取决于某事物的状态；条件依存性"
+            }
+          ]
+        }
+      ],
+      "writer": "dictionary-full-author",
+      "scope": "All senses of exact headword in the named source release/English revision; not all dictionaries"
+    },
+    {
+      "cardId": "V20261012-020",
+      "term": "trade-off",
+      "sourceId": "oewn-2025",
+      "entries": [
+        {
+          "lemma": "trade-off",
+          "entryKey": "n",
+          "pos": "n",
+          "sourceId": "oewn-2025",
+          "forms": [],
+          "pronunciation": [],
+          "senses": [
+            {
+              "id": "trade-off%1:04:00::",
+              "number": 1,
+              "synset": "01169250-n",
+              "definitions": [
+                "an exchange that occurs as a compromise"
+              ],
+              "examples": [
+                "I faced a tradeoff between eating and buying my medicine"
+              ],
+              "lexicalExamples": [],
+              "usageFrames": [],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "作为妥协而进行的交换；取舍"
+            }
+          ]
+        }
+      ],
+      "writer": "dictionary-full-author",
+      "scope": "All senses of exact headword in the named source release/English revision; not all dictionaries"
+    },
+    {
+      "cardId": "V20261012-041",
+      "term": "agenda",
+      "sourceId": "oewn-2025",
+      "entries": [
+        {
+          "lemma": "agenda",
+          "entryKey": "n",
+          "pos": "n",
+          "sourceId": "oewn-2025",
+          "forms": [],
+          "pronunciation": [
+            {
+              "value": "əˈdʒɛn.də"
+            }
+          ],
+          "senses": [
+            {
+              "id": "agenda%1:09:00::",
+              "number": 1,
+              "synset": "05919534-n",
+              "definitions": [
+                "a temporally organized plan for matters to be attended to"
+              ],
+              "examples": [],
+              "lexicalExamples": [],
+              "usageFrames": [],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "按时间安排需要处理事项的计划"
+            },
+            {
+              "id": "agenda%1:10:00::",
+              "number": 2,
+              "synset": "06496950-n",
+              "definitions": [
+                "a list of matters to be taken up (as at a meeting)"
+              ],
+              "examples": [],
+              "lexicalExamples": [],
+              "usageFrames": [],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "会议等场合要讨论或处理的事项清单；议程"
+            }
+          ]
+        }
+      ],
+      "writer": "dictionary-full-author",
+      "scope": "All senses of exact headword in the named source release/English revision; not all dictionaries"
+    },
+    {
+      "cardId": "V20261012-042",
+      "term": "context",
+      "sourceId": "oewn-2025",
+      "entries": [
+        {
+          "lemma": "context",
+          "entryKey": "n",
+          "pos": "n",
+          "sourceId": "oewn-2025",
+          "forms": [],
+          "pronunciation": [
+            {
+              "value": "ˈ kɒn.tɛkst",
+              "variety": "GB"
+            },
+            {
+              "value": "ˈ kɑːn.tɛkst",
+              "variety": "US"
+            }
+          ],
+          "senses": [
+            {
+              "id": "context%1:10:00::",
+              "number": 1,
+              "synset": "06295551-n",
+              "definitions": [
+                "discourse that surrounds a language unit and helps to determine its interpretation"
+              ],
+              "examples": [],
+              "lexicalExamples": [],
+              "usageFrames": [],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "围绕某个语言单位、帮助确定其含义的上下文"
+            },
+            {
+              "id": "context%1:26:00::",
+              "number": 2,
+              "synset": "14536419-n",
+              "definitions": [
+                "the set of facts or circumstances that surround a situation or event"
+              ],
+              "examples": [
+                "the historical context"
+              ],
+              "lexicalExamples": [],
+              "usageFrames": [],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "围绕某种情况或事件的事实与环境；背景"
+            }
+          ]
+        }
+      ],
+      "writer": "dictionary-full-author",
+      "scope": "All senses of exact headword in the named source release/English revision; not all dictionaries"
+    },
+    {
+      "cardId": "V20261012-043",
+      "term": "clarify",
+      "sourceId": "oewn-2025",
+      "entries": [
+        {
+          "lemma": "clarify",
+          "entryKey": "v",
+          "pos": "v",
+          "sourceId": "oewn-2025",
+          "forms": [
+            "clarified"
+          ],
+          "pronunciation": [
+            {
+              "value": "ˈklæɹɪfaɪ"
+            }
+          ],
+          "senses": [
+            {
+              "id": "clarify%2:32:00::",
+              "number": 1,
+              "synset": "00941888-v",
+              "definitions": [
+                "make clear and (more) comprehensible"
+              ],
+              "examples": [
+                "clarify the mystery surrounding her death"
+              ],
+              "lexicalExamples": [],
+              "usageFrames": [
+                "Somebody ----s something",
+                "Something ----s something"
+              ],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "使清楚、使更容易理解；澄清"
+            },
+            {
+              "id": "clarify%2:30:02::",
+              "number": 2,
+              "synset": "00506232-v",
+              "definitions": [
+                "make clear by removing impurities or solids, as by heating"
+              ],
+              "examples": [
+                "clarify the butter",
+                "clarify beer"
+              ],
+              "lexicalExamples": [],
+              "usageFrames": [
+                "Somebody ----s something"
+              ],
+              "labels": [],
+              "sourceDomains": [
+                {
+                  "relation": "domain_topic",
+                  "id": "00244785-n",
+                  "labels": [
+                    "cooking",
+                    "cookery",
+                    "preparation"
+                  ]
+                }
+              ],
+              "usageLabels": [],
+              "glossZh": "通过加热等方法去除杂质或固体，使液体澄清"
+            }
+          ]
+        }
+      ],
+      "writer": "dictionary-full-author",
+      "scope": "All senses of exact headword in the named source release/English revision; not all dictionaries"
+    },
+    {
+      "cardId": "V20261012-044",
+      "term": "confirm",
+      "sourceId": "oewn-2025",
+      "entries": [
+        {
+          "lemma": "confirm",
+          "entryKey": "v",
+          "pos": "v",
+          "sourceId": "oewn-2025",
+          "forms": [],
+          "pronunciation": [
+            {
+              "value": "kənˈfɜːm",
+              "variety": "GB"
+            },
+            {
+              "value": "kənˈfɝm",
+              "variety": "US"
+            }
+          ],
+          "senses": [
+            {
+              "id": "confirm%2:31:00::",
+              "number": 1,
+              "synset": "00667804-v",
+              "definitions": [
+                "establish or strengthen as with new evidence or facts"
+              ],
+              "examples": [
+                "his story confirmed my doubts",
+                "The evidence supports the defendant"
+              ],
+              "lexicalExamples": [],
+              "usageFrames": [
+                "Somebody ----s that CLAUSE",
+                "Somebody ----s something",
+                "Something ----s something"
+              ],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "用新证据或事实确立、加强或证实"
+            },
+            {
+              "id": "confirm%2:32:00::",
+              "number": 2,
+              "synset": "01014100-v",
+              "definitions": [
+                "strengthen or make more firm"
+              ],
+              "examples": [
+                "The witnesses confirmed the victim's account"
+              ],
+              "lexicalExamples": [
+                "They confirm that there was a traffic accident"
+              ],
+              "usageFrames": [
+                "Somebody ----s that CLAUSE",
+                "Somebody ----s something"
+              ],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "加强，使更加坚定"
+            },
+            {
+              "id": "confirm%2:30:00::",
+              "number": 3,
+              "synset": "00222266-v",
+              "definitions": [
+                "make more firm"
+              ],
+              "examples": [
+                "Confirm thy soul in self-control!"
+              ],
+              "lexicalExamples": [],
+              "usageFrames": [
+                "Somebody ----s something",
+                "Something ----s something"
+              ],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "使更加稳固"
+            },
+            {
+              "id": "confirm%2:41:01::",
+              "number": 4,
+              "synset": "02481941-v",
+              "definitions": [
+                "support a person for a position"
+              ],
+              "examples": [
+                "The Senate confirmed the President's candidate for Secretary of Defense"
+              ],
+              "lexicalExamples": [],
+              "usageFrames": [
+                "Somebody ----s somebody",
+                "Somebody ----s something",
+                "Something ----s somebody",
+                "Something ----s something"
+              ],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "支持某人担任某个职位；确认任命"
+            },
+            {
+              "id": "confirm%2:41:00::",
+              "number": 5,
+              "synset": "02480026-v",
+              "definitions": [
+                "administer the rite of confirmation to"
+              ],
+              "examples": [
+                "the children were confirmed in their mother's faith"
+              ],
+              "lexicalExamples": [],
+              "usageFrames": [
+                "Somebody ----s somebody"
+              ],
+              "labels": [],
+              "sourceDomains": [
+                {
+                  "relation": "domain_topic",
+                  "id": "08098545-n",
+                  "labels": [
+                    "religion",
+                    "faith",
+                    "organized religion"
+                  ]
+                }
+              ],
+              "usageLabels": [],
+              "glossZh": "为某人施行坚振礼"
+            }
+          ]
+        }
+      ],
+      "writer": "dictionary-full-author",
+      "scope": "All senses of exact headword in the named source release/English revision; not all dictionaries"
+    },
+    {
+      "cardId": "V20261012-045",
+      "term": "specify",
+      "sourceId": "oewn-2025",
+      "entries": [
+        {
+          "lemma": "specify",
+          "entryKey": "v",
+          "pos": "v",
+          "sourceId": "oewn-2025",
+          "forms": [
+            "specified"
+          ],
+          "pronunciation": [
+            {
+              "value": "ˈspɛs.ɪ.faɪ",
+              "variety": "GB"
+            },
+            {
+              "value": "ˈspɛs.əˌfaɪ",
+              "variety": "US"
+            }
+          ],
+          "senses": [
+            {
+              "id": "specify%2:32:03::",
+              "number": 1,
+              "synset": "01020937-v",
+              "definitions": [
+                "specify as a condition or requirement in a contract or agreement; make an express demand or provision in an agreement"
+              ],
+              "examples": [
+                "The will stipulates that she can live in the house for the rest of her life",
+                "The contract stipulates the dates of the payments"
+              ],
+              "lexicalExamples": [],
+              "usageFrames": [
+                "Somebody ----s",
+                "Somebody ----s that CLAUSE",
+                "Somebody ----s something"
+              ],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "在合同或协议中明确规定条件、要求或条款"
+            },
+            {
+              "id": "specify%2:32:02::",
+              "number": 2,
+              "synset": "00949109-v",
+              "definitions": [
+                "decide upon or fix definitely"
+              ],
+              "examples": [
+                "fix the variables",
+                "specify the parameters"
+              ],
+              "lexicalExamples": [],
+              "usageFrames": [
+                "Somebody ----s something"
+              ],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "明确决定或确定"
+            },
+            {
+              "id": "specify%2:42:00::",
+              "number": 3,
+              "synset": "02617665-v",
+              "definitions": [
+                "determine the essential quality of"
+              ],
+              "examples": [],
+              "lexicalExamples": [],
+              "usageFrames": [
+                "Something ----s something"
+              ],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "确定某事物的本质特征"
+            },
+            {
+              "id": "specify%2:32:00::",
+              "number": 4,
+              "synset": "01023982-v",
+              "definitions": [
+                "be specific about"
+              ],
+              "examples": [
+                "Could you please specify your criticism of my paper?"
+              ],
+              "lexicalExamples": [
+                "They specify that there was a traffic accident"
+              ],
+              "usageFrames": [
+                "Somebody ----s that CLAUSE",
+                "Somebody ----s something",
+                "Something ----s something"
+              ],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "具体说明"
+            },
+            {
+              "id": "specify%2:31:02::",
+              "number": 5,
+              "synset": "00717446-v",
+              "definitions": [
+                "define clearly"
+              ],
+              "examples": [
+                "I cannot narrow down the rules for this game"
+              ],
+              "lexicalExamples": [],
+              "usageFrames": [
+                "Somebody ----s something",
+                "Somebody ----s something PP"
+              ],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "清楚界定"
+            },
+            {
+              "id": "specify%2:31:00::",
+              "number": 6,
+              "synset": "00711208-v",
+              "definitions": [
+                "design or destine"
+              ],
+              "examples": [
+                "She was intended to become the director"
+              ],
+              "lexicalExamples": [],
+              "usageFrames": [
+                "Somebody ----s somebody to INFINITIVE"
+              ],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "拟定用途或指定归宿"
+            },
+            {
+              "id": "specify%2:31:05::",
+              "number": 7,
+              "synset": "00679602-v",
+              "definitions": [
+                "select something or someone for a specific purpose"
+              ],
+              "examples": [
+                "The teacher assigned him to lead his classmates in the exercise"
+              ],
+              "lexicalExamples": [],
+              "usageFrames": [
+                "Somebody ----s somebody PP",
+                "Somebody ----s something PP"
+              ],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "为特定目的选定某物或某人"
+            }
+          ]
+        }
+      ],
+      "writer": "dictionary-full-author",
+      "scope": "All senses of exact headword in the named source release/English revision; not all dictionaries"
+    },
+    {
+      "cardId": "V20261012-046",
+      "term": "elaborate",
+      "sourceId": "oewn-2025",
+      "entries": [
+        {
+          "lemma": "elaborate",
+          "entryKey": "a",
+          "pos": "a",
+          "sourceId": "oewn-2025",
+          "forms": [],
+          "pronunciation": [],
+          "senses": [
+            {
+              "id": "elaborate%5:00:00:fancy:00",
+              "number": 1,
+              "synset": "01800442-s",
+              "definitions": [
+                "marked by complexity and richness of detail"
+              ],
+              "examples": [
+                "an elaborate lace pattern"
+              ],
+              "lexicalExamples": [],
+              "usageFrames": [],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "复杂且细节丰富的"
+            },
+            {
+              "id": "elaborate%5:00:00:careful:00",
+              "number": 2,
+              "synset": "00311231-s",
+              "definitions": [
+                "developed or executed with care and in minute detail"
+              ],
+              "examples": [
+                "a detailed plan",
+                {
+                  "source": "John Buchan",
+                  "text": "the elaborate register of the inhabitants prevented tax evasion"
+                },
+                "the carefully elaborated theme"
+              ],
+              "lexicalExamples": [],
+              "usageFrames": [],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "精心构思或实施、细致入微的"
+            }
+          ]
+        },
+        {
+          "lemma": "elaborate",
+          "entryKey": "v",
+          "pos": "v",
+          "sourceId": "oewn-2025",
+          "forms": [],
+          "pronunciation": [],
+          "senses": [
+            {
+              "id": "elaborate%2:32:00::",
+              "number": 1,
+              "synset": "00957633-v",
+              "definitions": [
+                "add details, as to an account or idea; clarify the meaning of and discourse in a learned way, usually in writing"
+              ],
+              "examples": [
+                "She elaborated on the main ideas in her dissertation"
+              ],
+              "lexicalExamples": [
+                "They elaborate that there was a traffic accident"
+              ],
+              "usageFrames": [
+                "Somebody ----s",
+                "Somebody ----s PP",
+                "Somebody ----s something",
+                "Something ----s something"
+              ],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "为叙述或想法增加细节、阐明含义并作深入论述，通常见于书面表达"
+            },
+            {
+              "id": "elaborate%2:36:00::",
+              "number": 2,
+              "synset": "01628380-v",
+              "definitions": [
+                "produce from basic elements or sources; change into a more developed product"
+              ],
+              "examples": [
+                "The bee elaborates honey"
+              ],
+              "lexicalExamples": [],
+              "usageFrames": [
+                "Somebody ----s something"
+              ],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "从基本元素或来源加工成更成熟的产物"
+            },
+            {
+              "id": "elaborate%2:30:00::",
+              "number": 3,
+              "synset": "00401789-v",
+              "definitions": [
+                "make more complex, intricate, or richer"
+              ],
+              "examples": [
+                "refine a design or pattern"
+              ],
+              "lexicalExamples": [],
+              "usageFrames": [
+                "Somebody ----s something",
+                "Something ----s something"
+              ],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "使更复杂、更精细或更丰富"
+            },
+            {
+              "id": "elaborate%2:30:01::",
+              "number": 4,
+              "synset": "00252349-v",
+              "definitions": [
+                "work out in detail"
+              ],
+              "examples": [
+                "elaborate a plan"
+              ],
+              "lexicalExamples": [],
+              "usageFrames": [
+                "Somebody ----s something"
+              ],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "详细制订或推敲"
+            }
+          ]
+        }
+      ],
+      "writer": "dictionary-full-author",
+      "scope": "All senses of exact headword in the named source release/English revision; not all dictionaries"
+    },
+    {
+      "cardId": "V20261012-047",
+      "term": "summarize",
+      "sourceId": "oewn-2025",
+      "entries": [
+        {
+          "lemma": "summarize",
+          "entryKey": "v",
+          "pos": "v",
+          "sourceId": "oewn-2025",
+          "forms": [],
+          "pronunciation": [
+            {
+              "value": "ˈsʌməˌɹaɪz"
+            }
+          ],
+          "senses": [
+            {
+              "id": "summarize%2:32:00::",
+              "number": 1,
+              "synset": "01009951-v",
+              "definitions": [
+                "give a summary (of)"
+              ],
+              "examples": [
+                "he summed up his results",
+                "I will now summarize"
+              ],
+              "lexicalExamples": [],
+              "usageFrames": [
+                "Somebody ----s",
+                "Somebody ----s something",
+                "Something ----s something"
+              ],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [
+                {
+                  "id": "american_spelling%1:10:01::",
+                  "label": "american spelling"
+                }
+              ],
+              "glossZh": "概括，作摘要"
+            },
+            {
+              "id": "summarize%2:42:00::",
+              "number": 2,
+              "synset": "02758570-v",
+              "definitions": [
+                "be a summary of"
+              ],
+              "examples": [
+                "The abstract summarizes the main ideas in the paper"
+              ],
+              "lexicalExamples": [],
+              "usageFrames": [
+                "Something ----s something"
+              ],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [
+                {
+                  "id": "american_spelling%1:10:01::",
+                  "label": "american spelling"
+                }
+              ],
+              "glossZh": "构成或成为某事物的摘要"
+            }
+          ]
+        }
+      ],
+      "writer": "dictionary-full-author",
+      "scope": "All senses of exact headword in the named source release/English revision; not all dictionaries"
+    },
+    {
+      "cardId": "V20261012-048",
+      "term": "recap",
+      "sourceId": "oewn-2025",
+      "entries": [
+        {
+          "lemma": "recap",
+          "entryKey": "n-1",
+          "pos": "n",
+          "sourceId": "oewn-2025",
+          "forms": [],
+          "pronunciation": [
+            {
+              "value": "ˈɹiːkæp"
+            }
+          ],
+          "senses": [
+            {
+              "id": "recap%1:10:00::",
+              "number": 1,
+              "synset": "06481048-n",
+              "definitions": [
+                "a summary at the end that repeats the substance of a longer discussion"
+              ],
+              "examples": [],
+              "lexicalExamples": [],
+              "usageFrames": [],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "在结尾重述较长讨论主要内容的总结"
+            }
+          ]
+        },
+        {
+          "lemma": "recap",
+          "entryKey": "n-2",
+          "pos": "n",
+          "sourceId": "oewn-2025",
+          "forms": [],
+          "pronunciation": [
+            {
+              "value": "ɹiːˈkæp"
+            }
+          ],
+          "senses": [
+            {
+              "id": "recap%1:06:00::",
+              "number": 1,
+              "synset": "04091054-n",
+              "definitions": [
+                "a used automobile tire that has been remolded to give it new treads"
+              ],
+              "examples": [],
+              "lexicalExamples": [],
+              "usageFrames": [],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "重新模制胎面花纹的旧汽车轮胎；翻新胎"
+            }
+          ]
+        },
+        {
+          "lemma": "recap",
+          "entryKey": "v",
+          "pos": "v",
+          "sourceId": "oewn-2025",
+          "forms": [
+            "recapped",
+            "recapping"
+          ],
+          "pronunciation": [
+            {
+              "value": "ɹiːˈkæp"
+            }
+          ],
+          "senses": [
+            {
+              "id": "recap%2:32:00::",
+              "number": 1,
+              "synset": "01010930-v",
+              "definitions": [
+                "summarize briefly"
+              ],
+              "examples": [
+                "Let's recapitulate the main ideas"
+              ],
+              "lexicalExamples": [],
+              "usageFrames": [
+                "Somebody ----s",
+                "Somebody ----s something"
+              ],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "简要概括；回顾要点"
+            }
+          ]
+        }
+      ],
+      "writer": "dictionary-full-author",
+      "scope": "All senses of exact headword in the named source release/English revision; not all dictionaries"
+    },
+    {
+      "cardId": "V20261012-049",
+      "term": "align",
+      "sourceId": "oewn-2025",
+      "entries": [
+        {
+          "lemma": "align",
+          "entryKey": "v",
+          "pos": "v",
+          "sourceId": "oewn-2025",
+          "forms": [],
+          "pronunciation": [
+            {
+              "value": "əˈlaɪn",
+              "variety": "GB"
+            }
+          ],
+          "senses": [
+            {
+              "id": "align%2:30:00::",
+              "number": 1,
+              "synset": "00465234-v",
+              "definitions": [
+                "place in a line or arrange so as to be parallel or straight"
+              ],
+              "examples": [
+                "align the car with the curb",
+                "align the sheets of paper on the table"
+              ],
+              "lexicalExamples": [],
+              "usageFrames": [
+                "Somebody ----s something"
+              ],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "排成一直线，或调整成平行、笔直的状态"
+            },
+            {
+              "id": "align%2:42:00::",
+              "number": 2,
+              "synset": "02664945-v",
+              "definitions": [
+                "be or come into adjustment with"
+              ],
+              "examples": [],
+              "lexicalExamples": [],
+              "usageFrames": [
+                "Something is ----ing PP"
+              ],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "与某事物相适应或相吻合"
+            },
+            {
+              "id": "align%2:31:00::",
+              "number": 3,
+              "synset": "00735655-v",
+              "definitions": [
+                "align oneself with a group or a way of thinking"
+              ],
+              "examples": [],
+              "lexicalExamples": [],
+              "usageFrames": [
+                "Somebody ----s somebody"
+              ],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "使自己与某个群体或思想方式站在一起"
+            },
+            {
+              "id": "align%2:30:01::",
+              "number": 4,
+              "synset": "00466966-v",
+              "definitions": [
+                "bring (components or parts) into proper or desirable coordination correlation"
+              ],
+              "examples": [
+                "align the wheels of my car",
+                "ordinate similar parts"
+              ],
+              "lexicalExamples": [],
+              "usageFrames": [
+                "Somebody ----s something"
+              ],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "使部件或部分达到适当的协调关系"
+            }
+          ]
+        }
+      ],
+      "writer": "dictionary-full-author",
+      "scope": "All senses of exact headword in the named source release/English revision; not all dictionaries"
+    },
+    {
+      "cardId": "V20261012-050",
+      "term": "consensus",
+      "sourceId": "oewn-2025",
+      "entries": [
+        {
+          "lemma": "consensus",
+          "entryKey": "n",
+          "pos": "n",
+          "sourceId": "oewn-2025",
+          "forms": [],
+          "pronunciation": [],
+          "senses": [
+            {
+              "id": "consensus%1:26:00::",
+              "number": 1,
+              "synset": "13995348-n",
+              "definitions": [
+                "agreement in the judgment or opinion reached by a group as a whole"
+              ],
+              "examples": [
+                "the lack of consensus reflected differences in theoretical positions",
+                "those rights and obligations are based on an unstated consensus"
+              ],
+              "lexicalExamples": [],
+              "usageFrames": [],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "整个群体在判断或意见上达成的一致；共识"
+            }
+          ]
+        }
+      ],
+      "writer": "dictionary-full-author",
+      "scope": "All senses of exact headword in the named source release/English revision; not all dictionaries"
+    },
+    {
+      "cardId": "V20261012-051",
+      "term": "concern",
+      "sourceId": "oewn-2025",
+      "entries": [
+        {
+          "lemma": "concern",
+          "entryKey": "n",
+          "pos": "n",
+          "sourceId": "oewn-2025",
+          "forms": [],
+          "pronunciation": [
+            {
+              "value": "kənˈsɝn",
+              "variety": "US"
+            },
+            {
+              "value": "kənˈsɜːn",
+              "variety": "GB"
+            }
+          ],
+          "senses": [
+            {
+              "id": "concern%1:09:00::",
+              "number": 1,
+              "synset": "05678554-n",
+              "definitions": [
+                "something that interests you because it is important or affects you"
+              ],
+              "examples": [
+                "the safety of the ship is the captain's concern"
+              ],
+              "lexicalExamples": [],
+              "usageFrames": [],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "因重要或影响自己而关注的事物"
+            },
+            {
+              "id": "concern%1:12:01::",
+              "number": 2,
+              "synset": "07539768-n",
+              "definitions": [
+                "an anxious feeling"
+              ],
+              "examples": [
+                "care had aged him",
+                "they hushed it up out of fear of public reaction"
+              ],
+              "lexicalExamples": [],
+              "usageFrames": [],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "焦虑、担心的感觉"
+            },
+            {
+              "id": "concern%1:12:00::",
+              "number": 3,
+              "synset": "07520080-n",
+              "definitions": [
+                "a feeling of sympathy for someone or something"
+              ],
+              "examples": [
+                "She felt strong concern for those less fortunate"
+              ],
+              "lexicalExamples": [],
+              "usageFrames": [],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "对某人或某事的同情、关心"
+            },
+            {
+              "id": "concern%1:09:01::",
+              "number": 4,
+              "synset": "05840588-n",
+              "definitions": [
+                "something or someone that causes anxiety; a source of unhappiness"
+              ],
+              "examples": [
+                "New York traffic is a constant concern",
+                "it's a major worry"
+              ],
+              "lexicalExamples": [],
+              "usageFrames": [],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "引起焦虑或不快的人或事物"
+            },
+            {
+              "id": "concern%1:14:00::",
+              "number": 5,
+              "synset": "08077878-n",
+              "definitions": [
+                "a commercial or industrial enterprise and the people who constitute it"
+              ],
+              "examples": [
+                "he bought his brother's business",
+                "a small mom-and-pop business",
+                "a racially integrated business concern"
+              ],
+              "lexicalExamples": [],
+              "usageFrames": [],
+              "labels": [],
+              "sourceDomains": [
+                {
+                  "relation": "domain_topic",
+                  "id": "01096649-n",
+                  "labels": [
+                    "commercial enterprise",
+                    "business enterprise",
+                    "business"
+                  ]
+                }
+              ],
+              "usageLabels": [],
+              "glossZh": "商业或工业企业及其人员"
+            }
+          ]
+        },
+        {
+          "lemma": "concern",
+          "entryKey": "v",
+          "pos": "v",
+          "sourceId": "oewn-2025",
+          "forms": [],
+          "pronunciation": [
+            {
+              "value": "kənˈsɝn",
+              "variety": "US"
+            },
+            {
+              "value": "kənˈsɜːn",
+              "variety": "GB"
+            }
+          ],
+          "senses": [
+            {
+              "id": "concern%2:42:00::",
+              "number": 1,
+              "synset": "02681865-v",
+              "definitions": [
+                "be relevant to"
+              ],
+              "examples": [
+                "There were lots of questions referring to her talk",
+                "My remark pertained to your earlier comments"
+              ],
+              "lexicalExamples": [],
+              "usageFrames": [
+                "Something ----s somebody",
+                "Something ----s something"
+              ],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "与……有关"
+            },
+            {
+              "id": "concern%2:42:01::",
+              "number": 2,
+              "synset": "02684248-v",
+              "definitions": [
+                "be on the mind of"
+              ],
+              "examples": [
+                "I worry about the second Germanic consonant shift"
+              ],
+              "lexicalExamples": [
+                "The bad news will concern him"
+              ],
+              "usageFrames": [
+                "Somebody ----s somebody",
+                "Something ----s somebody"
+              ],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "使某人挂心、担忧"
+            }
+          ]
+        }
+      ],
+      "writer": "dictionary-full-author",
+      "scope": "All senses of exact headword in the named source release/English revision; not all dictionaries"
+    },
+    {
+      "cardId": "V20261012-052",
+      "term": "objection",
+      "sourceId": "oewn-2025",
+      "entries": [
+        {
+          "lemma": "objection",
+          "entryKey": "n",
+          "pos": "n",
+          "sourceId": "oewn-2025",
+          "forms": [],
+          "pronunciation": [
+            {
+              "value": "əbˈdʒɛkʃən"
+            }
+          ],
+          "senses": [
+            {
+              "id": "objection%1:10:01::",
+              "number": 1,
+              "synset": "07261402-n",
+              "definitions": [
+                "the act of expressing earnest opposition or protest"
+              ],
+              "examples": [],
+              "lexicalExamples": [],
+              "usageFrames": [],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "表达强烈反对或抗议的行为"
+            },
+            {
+              "id": "objection%1:10:00::",
+              "number": 2,
+              "synset": "07222998-n",
+              "definitions": [
+                "the speech act of objecting"
+              ],
+              "examples": [],
+              "lexicalExamples": [],
+              "usageFrames": [],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "提出异议这一言语行为"
+            },
+            {
+              "id": "objection%1:04:01::",
+              "number": 3,
+              "synset": "01179523-n",
+              "definitions": [
+                "the act of protesting; a public (often organized) manifestation of dissent"
+              ],
+              "examples": [],
+              "lexicalExamples": [],
+              "usageFrames": [],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "公开表达不赞同的抗议行为，常有组织地进行"
+            },
+            {
+              "id": "objection%1:04:00::",
+              "number": 4,
+              "synset": "01027620-n",
+              "definitions": [
+                "(law) a procedure whereby a party to a suit says that a particular line of questioning or a particular witness or a piece of evidence or other matter is improper and should not be continued and asks the court to rule on its impropriety or illegality"
+              ],
+              "examples": [],
+              "lexicalExamples": [],
+              "usageFrames": [],
+              "labels": [],
+              "sourceDomains": [
+                {
+                  "relation": "domain_topic",
+                  "id": "08458195-n",
+                  "labels": [
+                    "law",
+                    "jurisprudence"
+                  ]
+                }
+              ],
+              "usageLabels": [],
+              "glossZh": "法律：诉讼一方认为提问、证人、证据等不当，要求停止并请法院裁定其不当或违法性的程序"
+            }
+          ]
+        }
+      ],
+      "writer": "dictionary-full-author",
+      "scope": "All senses of exact headword in the named source release/English revision; not all dictionaries"
+    },
+    {
+      "cardId": "V20261012-053",
+      "term": "reservation",
+      "sourceId": "oewn-2025",
+      "entries": [
+        {
+          "lemma": "reservation",
+          "entryKey": "n",
+          "pos": "n",
+          "sourceId": "oewn-2025",
+          "forms": [],
+          "pronunciation": [
+            {
+              "value": "ˌɹɛzəˈveɪʃən",
+              "variety": "GB"
+            },
+            {
+              "value": "ˌɹɛzɚˈveɪʃən",
+              "variety": "US"
+            }
+          ],
+          "senses": [
+            {
+              "id": "reservation%1:15:00::",
+              "number": 1,
+              "synset": "08604729-n",
+              "definitions": [
+                "a district that is reserved for particular purpose"
+              ],
+              "examples": [],
+              "lexicalExamples": [],
+              "usageFrames": [],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "划作特定用途的地区；保留地"
+            },
+            {
+              "id": "reservation%1:10:00::",
+              "number": 2,
+              "synset": "06775091-n",
+              "definitions": [
+                "a statement that limits or restricts some claim"
+              ],
+              "examples": [
+                "he recommended her without any reservations"
+              ],
+              "lexicalExamples": [],
+              "usageFrames": [],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "限制某项主张适用范围的声明；保留条款"
+            },
+            {
+              "id": "reservation%1:09:00::",
+              "number": 3,
+              "synset": "05706585-n",
+              "definitions": [
+                "an unstated doubt that prevents you from accepting something wholeheartedly"
+              ],
+              "examples": [],
+              "lexicalExamples": [],
+              "usageFrames": [],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "使人无法全心接受某事、尚未说出的疑虑"
+            },
+            {
+              "id": "reservation%1:04:01::",
+              "number": 4,
+              "synset": "01220817-n",
+              "definitions": [
+                "the act of reserving (a place or passage) or engaging the services of (a person or group)"
+              ],
+              "examples": [
+                "wondered who had made the booking"
+              ],
+              "lexicalExamples": [],
+              "usageFrames": [],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "预订位置、旅程或人员服务的行为"
+            },
+            {
+              "id": "reservation%1:10:01::",
+              "number": 5,
+              "synset": "07192432-n",
+              "definitions": [
+                "the written record or promise of an arrangement by which accommodations are secured in advance"
+              ],
+              "examples": [],
+              "lexicalExamples": [],
+              "usageFrames": [],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "保证预先安排住宿等事项的书面记录或承诺"
+            },
+            {
+              "id": "reservation%1:09:01::",
+              "number": 6,
+              "synset": "05803468-n",
+              "definitions": [
+                "something reserved in advance (as a hotel accommodation or a seat on a plane etc.)"
+              ],
+              "examples": [],
+              "lexicalExamples": [],
+              "usageFrames": [],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "事先订妥的住宿、机位等"
+            },
+            {
+              "id": "reservation%1:04:00::",
+              "number": 7,
+              "synset": "00821752-n",
+              "definitions": [
+                "the act of keeping back or setting aside for some future occasion"
+              ],
+              "examples": [],
+              "lexicalExamples": [],
+              "usageFrames": [],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "为将来某个场合保留或留出某物的行为"
+            }
+          ]
+        }
+      ],
+      "writer": "dictionary-full-author",
+      "scope": "All senses of exact headword in the named source release/English revision; not all dictionaries"
+    },
+    {
+      "cardId": "V20261012-054",
+      "term": "rationale",
+      "sourceId": "oewn-2025",
+      "entries": [
+        {
+          "lemma": "rationale",
+          "entryKey": "n",
+          "pos": "n",
+          "sourceId": "oewn-2025",
+          "forms": [],
+          "pronunciation": [],
+          "senses": [
+            {
+              "id": "rationale%1:09:00::",
+              "number": 1,
+              "synset": "05801218-n",
+              "definitions": [
+                "(law) an explanation of the fundamental reasons (especially an explanation of the working of some device in terms of laws of nature)"
+              ],
+              "examples": [
+                "the rationale for capital punishment",
+                "the principles of internal-combustion engines"
+              ],
+              "lexicalExamples": [],
+              "usageFrames": [],
+              "labels": [],
+              "sourceDomains": [
+                {
+                  "relation": "domain_topic",
+                  "id": "08458195-n",
+                  "labels": [
+                    "law",
+                    "jurisprudence"
+                  ]
+                }
+              ],
+              "usageLabels": [],
+              "glossZh": "对根本原因的说明，尤其是依自然规律解释某种装置如何运作；原文附有法律领域标记"
+            }
+          ]
+        }
+      ],
+      "writer": "dictionary-full-author",
+      "scope": "All senses of exact headword in the named source release/English revision; not all dictionaries"
+    },
+    {
+      "cardId": "V20261012-055",
+      "term": "proposal",
+      "sourceId": "oewn-2025",
+      "entries": [
+        {
+          "lemma": "proposal",
+          "entryKey": "n",
+          "pos": "n",
+          "sourceId": "oewn-2025",
+          "forms": [],
+          "pronunciation": [
+            {
+              "value": "pɹəˈpoʊzəl",
+              "variety": "US"
+            },
+            {
+              "value": "pɹəˈpəʊzəl",
+              "variety": "GB"
+            }
+          ],
+          "senses": [
+            {
+              "id": "proposal%1:10:00::",
+              "number": 1,
+              "synset": "07176845-n",
+              "definitions": [
+                "something proposed (such as a plan or assumption)"
+              ],
+              "examples": [],
+              "lexicalExamples": [],
+              "usageFrames": [],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "提出的计划、假设等建议"
+            },
+            {
+              "id": "proposal%1:10:02::",
+              "number": 2,
+              "synset": "07176392-n",
+              "definitions": [
+                "an offer of marriage"
+              ],
+              "examples": [],
+              "lexicalExamples": [],
+              "usageFrames": [],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "求婚"
+            },
+            {
+              "id": "proposal%1:10:01::",
+              "number": 3,
+              "synset": "07176080-n",
+              "definitions": [
+                "the act of making a proposal"
+              ],
+              "examples": [
+                "they listened to her proposal"
+              ],
+              "lexicalExamples": [],
+              "usageFrames": [],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "提出建议的行为"
+            }
+          ]
+        }
+      ],
+      "writer": "dictionary-full-author",
+      "scope": "All senses of exact headword in the named source release/English revision; not all dictionaries"
+    },
+    {
+      "cardId": "V20261012-056",
+      "term": "alternative",
+      "sourceId": "oewn-2025",
+      "entries": [
+        {
+          "lemma": "alternative",
+          "entryKey": "a",
+          "pos": "a",
+          "sourceId": "oewn-2025",
+          "forms": [],
+          "pronunciation": [
+            {
+              "value": "ɒl.ˈtɜː(ɹ).nə.tɪv",
+              "variety": "GB"
+            },
+            {
+              "value": "ɔl.ˈtɝ.nə.tɪv",
+              "variety": "US"
+            }
+          ],
+          "senses": [
+            {
+              "id": "alternative%5:00:00:secondary:01",
+              "number": 1,
+              "synset": "01859862-s",
+              "definitions": [
+                "serving or used in place of another"
+              ],
+              "examples": [
+                "an alternative plan"
+              ],
+              "lexicalExamples": [],
+              "usageFrames": [],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "用来替代另一事物的"
+            },
+            {
+              "id": "alternative%5:00:00:disjunctive:00",
+              "number": 2,
+              "synset": "00566932-s",
+              "definitions": [
+                "necessitating a choice between mutually exclusive possibilities"
+              ],
+              "examples": [
+                "alternative possibilities were neutrality or war"
+              ],
+              "lexicalExamples": [],
+              "usageFrames": [],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "要求在互不相容的可能性之间作出选择的"
+            },
+            {
+              "id": "alternative%5:00:00:unconventional:01",
+              "number": 3,
+              "synset": "00611045-s",
+              "definitions": [
+                "pertaining to unconventional choices"
+              ],
+              "examples": [
+                "an alternative life style"
+              ],
+              "lexicalExamples": [],
+              "usageFrames": [],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "与非传统选择有关的；另类的"
+            }
+          ]
+        },
+        {
+          "lemma": "alternative",
+          "entryKey": "n",
+          "pos": "n",
+          "sourceId": "oewn-2025",
+          "forms": [],
+          "pronunciation": [
+            {
+              "value": "ɒl.ˈtɜː(ɹ).nə.tɪv",
+              "variety": "GB"
+            },
+            {
+              "value": "ɔl.ˈtɝ.nə.tɪv",
+              "variety": "US"
+            }
+          ],
+          "senses": [
+            {
+              "id": "alternative%1:09:00::",
+              "number": 1,
+              "synset": "05798949-n",
+              "definitions": [
+                "one of a number of things from which only one can be chosen"
+              ],
+              "examples": [
+                "what option did I have?",
+                "there is no other alternative",
+                "my only choice is to refuse"
+              ],
+              "lexicalExamples": [],
+              "usageFrames": [],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "多个选项中只能选取其一的备选事物"
+            }
+          ]
+        }
+      ],
+      "writer": "dictionary-full-author",
+      "scope": "All senses of exact headword in the named source release/English revision; not all dictionaries"
+    },
+    {
+      "cardId": "V20261012-057",
+      "term": "compromise",
+      "sourceId": "oewn-2025",
+      "entries": [
+        {
+          "lemma": "compromise",
+          "entryKey": "n",
+          "pos": "n",
+          "sourceId": "oewn-2025",
+          "forms": [],
+          "pronunciation": [
+            {
+              "value": "ˈkɒmpɹəˌmaɪz",
+              "variety": "GB"
+            },
+            {
+              "value": "ˈkɑmpɹəˌmaɪz",
+              "variety": "US"
+            }
+          ],
+          "senses": [
+            {
+              "id": "compromise%1:04:00::",
+              "number": 1,
+              "synset": "01208054-n",
+              "definitions": [
+                "a middle way between two extremes"
+              ],
+              "examples": [],
+              "lexicalExamples": [],
+              "usageFrames": [],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "两个极端之间的折中办法"
+            },
+            {
+              "id": "compromise%1:10:00::",
+              "number": 2,
+              "synset": "07194002-n",
+              "definitions": [
+                "an accommodation in which both sides make concessions"
+              ],
+              "examples": [
+                "the newly elected congressmen rejected a compromise because they considered it ‘business as usual’"
+              ],
+              "lexicalExamples": [],
+              "usageFrames": [],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "双方各作让步达成的和解或妥协"
+            }
+          ]
+        },
+        {
+          "lemma": "compromise",
+          "entryKey": "v",
+          "pos": "v",
+          "sourceId": "oewn-2025",
+          "forms": [],
+          "pronunciation": [
+            {
+              "value": "ˈkɒmpɹəˌmaɪz",
+              "variety": "GB"
+            },
+            {
+              "value": "ˈkɑmpɹəˌmaɪz",
+              "variety": "US"
+            }
+          ],
+          "senses": [
+            {
+              "id": "compromise%2:32:01::",
+              "number": 1,
+              "synset": "01037675-v",
+              "definitions": [
+                "make a compromise; arrive at a compromise"
+              ],
+              "examples": [
+                "nobody will get everything he wants: we all must compromise"
+              ],
+              "lexicalExamples": [],
+              "usageFrames": [
+                "Somebody ----s"
+              ],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "达成妥协"
+            },
+            {
+              "id": "compromise%2:32:00::",
+              "number": 2,
+              "synset": "01037252-v",
+              "definitions": [
+                "settle by concession"
+              ],
+              "examples": [],
+              "lexicalExamples": [],
+              "usageFrames": [
+                "Somebody ----s",
+                "Somebody ----s PP"
+              ],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "通过让步解决"
+            },
+            {
+              "id": "compromise%2:32:03::",
+              "number": 3,
+              "synset": "01038464-v",
+              "definitions": [
+                "expose or make liable to danger, suspicion, or disrepute"
+              ],
+              "examples": [
+                "The nuclear secrets of the state were compromised by the spy"
+              ],
+              "lexicalExamples": [],
+              "usageFrames": [
+                "Somebody ----s somebody",
+                "Somebody ----s something",
+                "Something ----s somebody",
+                "Something ----s something"
+              ],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "使面临危险、嫌疑或名誉受损"
+            }
+          ]
+        }
+      ],
+      "writer": "dictionary-full-author",
+      "scope": "All senses of exact headword in the named source release/English revision; not all dictionaries"
+    },
+    {
+      "cardId": "V20261012-058",
+      "term": "negotiate",
+      "sourceId": "oewn-2025",
+      "entries": [
+        {
+          "lemma": "negotiate",
+          "entryKey": "v",
+          "pos": "v",
+          "sourceId": "oewn-2025",
+          "forms": [],
+          "pronunciation": [
+            {
+              "value": "nəˈɡəʊ.ʃi.eɪt",
+              "variety": "GB"
+            },
+            {
+              "value": "nəˈɡoʊ.ʃi.eɪt",
+              "variety": "US"
+            }
+          ],
+          "senses": [
+            {
+              "id": "negotiate%2:32:00::",
+              "number": 1,
+              "synset": "00763758-v",
+              "definitions": [
+                "discuss the terms of an arrangement"
+              ],
+              "examples": [
+                "They negotiated the sale of the house"
+              ],
+              "lexicalExamples": [
+                "Sam and Sue negotiate",
+                "Sam wants to negotiate with Sue"
+              ],
+              "usageFrames": [
+                "Somebody ----s something"
+              ],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "讨论某项安排的条件；谈判"
+            },
+            {
+              "id": "negotiate%2:38:00::",
+              "number": 2,
+              "synset": "02054612-v",
+              "definitions": [
+                "succeed in passing through, around, or over"
+              ],
+              "examples": [
+                "The hiker negociated the high mountain pass"
+              ],
+              "lexicalExamples": [],
+              "usageFrames": [
+                "Somebody ----s something",
+                "Something ----s something"
+              ],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "成功通过、绕过或越过"
+            }
+          ]
+        }
+      ],
+      "writer": "dictionary-full-author",
+      "scope": "All senses of exact headword in the named source release/English revision; not all dictionaries"
+    },
+    {
+      "cardId": "V20261012-059",
+      "term": "conclude",
+      "sourceId": "oewn-2025",
+      "entries": [
+        {
+          "lemma": "conclude",
+          "entryKey": "v",
+          "pos": "v",
+          "sourceId": "oewn-2025",
+          "forms": [],
+          "pronunciation": [
+            {
+              "value": "kən.ˈkluːd"
+            }
+          ],
+          "senses": [
+            {
+              "id": "conclude%2:31:00::",
+              "number": 1,
+              "synset": "00636134-v",
+              "definitions": [
+                "decide by reasoning; draw or come to a conclusion"
+              ],
+              "examples": [
+                "We reasoned that it was cheaper to rent than to buy a house"
+              ],
+              "lexicalExamples": [
+                "They conclude that there was a traffic accident"
+              ],
+              "usageFrames": [
+                "Somebody ----s that CLAUSE"
+              ],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "通过推理作出判断、得出结论"
+            },
+            {
+              "id": "conclude%2:31:01::",
+              "number": 2,
+              "synset": "00716979-v",
+              "definitions": [
+                "bring to a close"
+              ],
+              "examples": [
+                "The committee concluded the meeting"
+              ],
+              "lexicalExamples": [],
+              "usageFrames": [
+                "Somebody ----s something",
+                "Something ----s something"
+              ],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "使结束"
+            },
+            {
+              "id": "conclude%2:32:01::",
+              "number": 3,
+              "synset": "01023429-v",
+              "definitions": [
+                "reach a conclusion after a discussion or deliberation"
+              ],
+              "examples": [],
+              "lexicalExamples": [],
+              "usageFrames": [
+                "Somebody ----s that CLAUSE",
+                "Somebody ----s something"
+              ],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "讨论或审议后得出结论"
+            },
+            {
+              "id": "conclude%2:42:02::",
+              "number": 4,
+              "synset": "02616663-v",
+              "definitions": [
+                "come to a close"
+              ],
+              "examples": [
+                "The concert closed with a nocturne by Chopin"
+              ],
+              "lexicalExamples": [],
+              "usageFrames": [
+                "Something ----s",
+                "Something is ----ing PP"
+              ],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "结束、告终"
+            },
+            {
+              "id": "conclude%2:32:06::",
+              "number": 5,
+              "synset": "01073784-v",
+              "definitions": [
+                "reach agreement on"
+              ],
+              "examples": [
+                "They concluded an economic agreement",
+                "We concluded a cease-fire"
+              ],
+              "lexicalExamples": [],
+              "usageFrames": [
+                "Somebody ----s something"
+              ],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "就某事达成协议"
+            }
+          ]
+        }
+      ],
+      "writer": "dictionary-full-author",
+      "scope": "All senses of exact headword in the named source release/English revision; not all dictionaries"
+    },
+    {
+      "cardId": "V20261012-060",
+      "term": "document",
+      "sourceId": "oewn-2025",
+      "entries": [
+        {
+          "lemma": "document",
+          "entryKey": "n",
+          "pos": "n",
+          "sourceId": "oewn-2025",
+          "forms": [],
+          "pronunciation": [
+            {
+              "value": "ˈdɒkjʊmənt",
+              "variety": "GB"
+            },
+            {
+              "value": "ˈdɑkjʊmənt",
+              "variety": "US"
+            }
+          ],
+          "senses": [
+            {
+              "id": "document%1:10:00::",
+              "number": 1,
+              "synset": "06481744-n",
+              "definitions": [
+                "writing that provides information (especially information of an official nature)"
+              ],
+              "examples": [],
+              "lexicalExamples": [],
+              "usageFrames": [],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "提供信息，尤其是正式信息的书面文件"
+            },
+            {
+              "id": "document%1:06:00::",
+              "number": 2,
+              "synset": "03222161-n",
+              "definitions": [
+                "anything serving as a representation of a person's thinking by means of symbolic marks"
+              ],
+              "examples": [],
+              "lexicalExamples": [],
+              "usageFrames": [],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "用符号标记表现人的思想的任何材料"
+            },
+            {
+              "id": "document%1:21:00::",
+              "number": 3,
+              "synset": "13424504-n",
+              "definitions": [
+                "a written account of ownership or obligation"
+              ],
+              "examples": [],
+              "lexicalExamples": [],
+              "usageFrames": [],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "关于所有权或义务的书面凭证"
+            },
+            {
+              "id": "document%1:10:01::",
+              "number": 4,
+              "synset": "06522968-n",
+              "definitions": [
+                "(computer science) a computer file that contains text (and possibly formatting instructions) using seven-bit ASCII characters"
+              ],
+              "examples": [],
+              "lexicalExamples": [],
+              "usageFrames": [],
+              "labels": [],
+              "sourceDomains": [
+                {
+                  "relation": "domain_topic",
+                  "id": "06138021-n",
+                  "labels": [
+                    "computer science",
+                    "computing"
+                  ]
+                }
+              ],
+              "usageLabels": [],
+              "glossZh": "计算机：包含文本及可能的格式指令、使用七位ASCII字符的文件（此为源词典的特定定义）"
+            }
+          ]
+        },
+        {
+          "lemma": "document",
+          "entryKey": "v",
+          "pos": "v",
+          "sourceId": "oewn-2025",
+          "forms": [],
+          "pronunciation": [
+            {
+              "value": "ˈdɒkjʊmənt",
+              "variety": "GB"
+            },
+            {
+              "value": "ˈdɑkjʊmənt",
+              "variety": "US"
+            }
+          ],
+          "senses": [
+            {
+              "id": "document%2:32:00::",
+              "number": 1,
+              "synset": "01004342-v",
+              "definitions": [
+                "record in detail"
+              ],
+              "examples": [
+                "The parents documented every step of their child's development"
+              ],
+              "lexicalExamples": [],
+              "usageFrames": [
+                "Somebody ----s something"
+              ],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "详细记录"
+            },
+            {
+              "id": "document%2:31:00::",
+              "number": 2,
+              "synset": "00668428-v",
+              "definitions": [
+                "support or supply with references"
+              ],
+              "examples": [
+                "Can you document your claims?"
+              ],
+              "lexicalExamples": [],
+              "usageFrames": [
+                "Somebody ----s something",
+                "Something ----s something"
+              ],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "用参考资料支持或提供文献依据"
+            }
+          ]
+        }
+      ],
+      "writer": "dictionary-full-author",
+      "scope": "All senses of exact headword in the named source release/English revision; not all dictionaries"
+    },
+    {
+      "cardId": "V20261012-061",
+      "term": "follow up",
+      "sourceId": "oewn-2025",
+      "entries": [
+        {
+          "lemma": "follow up",
+          "entryKey": "v",
+          "pos": "v",
+          "sourceId": "oewn-2025",
+          "forms": [],
+          "pronunciation": [],
+          "senses": [
+            {
+              "id": "follow_up%2:30:00::",
+              "number": 1,
+              "synset": "00486949-v",
+              "definitions": [
+                "pursue to a conclusion or bring to a successful issue"
+              ],
+              "examples": [
+                "Did he go through with the treatment?",
+                "He implemented a new economic plan",
+                "She followed up his recommendations with a written proposal"
+              ],
+              "lexicalExamples": [],
+              "usageFrames": [
+                "Somebody ----s something"
+              ],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "追踪进行到结束，或使之取得成功结果"
+            },
+            {
+              "id": "follow_up%2:30:01::",
+              "number": 2,
+              "synset": "00230702-v",
+              "definitions": [
+                "increase the effectiveness or success of by further action"
+              ],
+              "examples": [
+                "The doctor followed up the surgery with radiation"
+              ],
+              "lexicalExamples": [],
+              "usageFrames": [
+                "Somebody ----s something"
+              ],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "通过后续行动提高成效或成功程度"
+            }
+          ]
+        }
+      ],
+      "writer": "dictionary-full-author",
+      "scope": "All senses of exact headword in the named source release/English revision; not all dictionaries"
+    },
+    {
+      "cardId": "V20261012-062",
+      "term": "bring up",
+      "sourceId": "oewn-2025",
+      "entries": [
+        {
+          "lemma": "bring up",
+          "entryKey": "v",
+          "pos": "v",
+          "sourceId": "oewn-2025",
+          "forms": [],
+          "pronunciation": [],
+          "senses": [
+            {
+              "id": "bring_up%2:36:00::",
+              "number": 1,
+              "synset": "01633150-v",
+              "definitions": [
+                "summon into action or bring into existence, often as if by magic"
+              ],
+              "examples": [
+                "raise the specter of unemployment",
+                "he conjured wild birds in the air",
+                "call down the spirits from the mountain"
+              ],
+              "lexicalExamples": [],
+              "usageFrames": [
+                "Somebody ----s something",
+                "Something ----s something"
+              ],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "召来使之行动，或使之出现，常有如凭魔法召出的意味"
+            },
+            {
+              "id": "bring_up%2:41:00::",
+              "number": 2,
+              "synset": "02545454-v",
+              "definitions": [
+                "look after a child until it is an adult"
+              ],
+              "examples": [
+                "raise a family",
+                "bring up children"
+              ],
+              "lexicalExamples": [],
+              "usageFrames": [
+                "Somebody ----s somebody"
+              ],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "抚养孩子直至成年"
+            },
+            {
+              "id": "bring_up%2:41:01::",
+              "number": 3,
+              "synset": "02403303-v",
+              "definitions": [
+                "promote from a lower position or rank"
+              ],
+              "examples": [
+                "This player was brought up to the major league"
+              ],
+              "lexicalExamples": [],
+              "usageFrames": [
+                "Somebody ----s somebody"
+              ],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "从较低职位或级别提拔"
+            },
+            {
+              "id": "bring_up%2:38:00::",
+              "number": 4,
+              "synset": "01978076-v",
+              "definitions": [
+                "raise from a lower to a higher position"
+              ],
+              "examples": [
+                "Raise your hands",
+                "Lift a load"
+              ],
+              "lexicalExamples": [
+                "The men bring up the chairs"
+              ],
+              "usageFrames": [
+                "Somebody ----s somebody",
+                "Somebody ----s somebody PP",
+                "Somebody ----s something",
+                "Somebody ----s something PP",
+                "Something ----s something"
+              ],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "从较低位置抬高"
+            },
+            {
+              "id": "bring_up%2:38:02::",
+              "number": 5,
+              "synset": "01863840-v",
+              "definitions": [
+                "cause to come to a sudden stop"
+              ],
+              "examples": [
+                "The noise brought her up in shock"
+              ],
+              "lexicalExamples": [],
+              "usageFrames": [
+                "Somebody ----s somebody",
+                "Somebody ----s something"
+              ],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "使突然停下"
+            },
+            {
+              "id": "bring_up%2:32:06::",
+              "number": 6,
+              "synset": "01027255-v",
+              "definitions": [
+                "put forward for consideration or discussion"
+              ],
+              "examples": [
+                "raise the question of promotions",
+                "bring up an unpleasant topic"
+              ],
+              "lexicalExamples": [],
+              "usageFrames": [
+                "Somebody ----s somebody",
+                "Somebody ----s something",
+                "Something ----s somebody",
+                "Something ----s something"
+              ],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "提出以供考虑或讨论"
+            },
+            {
+              "id": "bring_up%2:32:00::",
+              "number": 7,
+              "synset": "01026199-v",
+              "definitions": [
+                "make reference to"
+              ],
+              "examples": [
+                "he was named in connection with the invention"
+              ],
+              "lexicalExamples": [],
+              "usageFrames": [
+                "Somebody ----s somebody",
+                "Somebody ----s something",
+                "Something ----s somebody",
+                "Something ----s something"
+              ],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "提到、提及"
+            },
+            {
+              "id": "bring_up%2:29:00::",
+              "number": 8,
+              "synset": "00098100-v",
+              "definitions": [
+                "cause to load (an operating system) and start the initial processes"
+              ],
+              "examples": [
+                "boot your computer"
+              ],
+              "lexicalExamples": [],
+              "usageFrames": [
+                "Somebody ----s something"
+              ],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "使操作系统载入并启动初始进程"
+            }
+          ]
+        }
+      ],
+      "writer": "dictionary-full-author",
+      "scope": "All senses of exact headword in the named source release/English revision; not all dictionaries"
+    },
+    {
+      "cardId": "V20261012-063",
+      "term": "walk through",
+      "sourceId": "oewn-2025",
+      "entries": [
+        {
+          "lemma": "walk through",
+          "entryKey": "v",
+          "pos": "v",
+          "sourceId": "oewn-2025",
+          "forms": [],
+          "pronunciation": [],
+          "senses": [
+            {
+              "id": "walk_through%2:36:00::",
+              "number": 1,
+              "synset": "01727314-v",
+              "definitions": [
+                "perform in a perfunctory way, as for a first rehearsal"
+              ],
+              "examples": [],
+              "lexicalExamples": [],
+              "usageFrames": [
+                "Somebody ----s something"
+              ],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "粗略或例行地演练，如初次排练时那样"
+            }
+          ]
+        },
+        {
+          "lemma": "walk through",
+          "entryKey": "v",
+          "pos": "v",
+          "sourceId": "wiktionary-walk-through",
+          "url": "https://en.wiktionary.org/w/index.php?title=walk_through&oldid=90044525",
+          "historyUrl": "https://en.wiktionary.org/w/index.php?title=walk_through&action=history",
+          "revision": "90044525",
+          "forms": [
+            "walks through",
+            "walking through",
+            "walked through"
+          ],
+          "pronunciation": [],
+          "senses": [
+            {
+              "id": "wikt-walk-through-90044525-1",
+              "number": 1,
+              "definitions": [
+                "To explain (something) to (someone), step by step."
+              ],
+              "examples": [
+                "On my first day at work, the secretary walked me through the process of using the photocopier."
+              ],
+              "lexicalExamples": [],
+              "usageFrames": [],
+              "labels": [
+                "idiomatic",
+                "transitive"
+              ],
+              "glossZh": "向某人一步一步讲解某件事"
+            },
+            {
+              "id": "wikt-walk-through-90044525-2",
+              "number": 2,
+              "definitions": [
+                "To rehearse (something) casually."
+              ],
+              "examples": [],
+              "lexicalExamples": [],
+              "usageFrames": [],
+              "labels": [
+                "idiomatic",
+                "transitive"
+              ],
+              "glossZh": "粗略排练、简单演练"
+            },
+            {
+              "id": "wikt-walk-through-90044525-3",
+              "number": 3,
+              "definitions": [
+                "To perform (something) with ease or perfunctorily."
+              ],
+              "examples": [],
+              "lexicalExamples": [],
+              "usageFrames": [],
+              "labels": [
+                "idiomatic",
+                "transitive"
+              ],
+              "glossZh": "轻松地或敷衍地完成某事"
+            },
+            {
+              "id": "wikt-walk-through-90044525-4",
+              "number": 4,
+              "definitions": [
+                "Used other than figuratively or idiomatically: see walk, through."
+              ],
+              "examples": [],
+              "lexicalExamples": [],
+              "usageFrames": [],
+              "labels": [],
+              "glossZh": "字面组合用法，分别参见walk和through；走着穿过"
+            }
+          ]
+        }
+      ],
+      "writer": "dictionary-full-author",
+      "scope": "All senses of exact headword in the named source release/English revision; not all dictionaries"
+    },
+    {
+      "cardId": "V20261012-064",
+      "term": "point out",
+      "sourceId": "oewn-2025",
+      "entries": [
+        {
+          "lemma": "point out",
+          "entryKey": "v",
+          "pos": "v",
+          "sourceId": "oewn-2025",
+          "forms": [],
+          "pronunciation": [],
+          "senses": [
+            {
+              "id": "point_out%2:32:01::",
+              "number": 1,
+              "synset": "01060446-v",
+              "definitions": [
+                "make or write a comment on"
+              ],
+              "examples": [
+                "he commented the paper of his colleague"
+              ],
+              "lexicalExamples": [],
+              "usageFrames": [
+                "Somebody ----s something"
+              ],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "对某事作口头或书面评论"
+            },
+            {
+              "id": "point_out%2:32:03::",
+              "number": 2,
+              "synset": "00926583-v",
+              "definitions": [
+                "point out carefully and clearly"
+              ],
+              "examples": [],
+              "lexicalExamples": [],
+              "usageFrames": [
+                "Somebody ----s something",
+                "Something ----s something"
+              ],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "仔细而清楚地指出"
+            },
+            {
+              "id": "point_out%2:32:02::",
+              "number": 3,
+              "synset": "01015239-v",
+              "definitions": [
+                "present and urge reasons in opposition"
+              ],
+              "examples": [],
+              "lexicalExamples": [],
+              "usageFrames": [
+                "Somebody ----s PP"
+              ],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "提出并强调反对理由"
+            }
+          ]
+        }
+      ],
+      "writer": "dictionary-full-author",
+      "scope": "All senses of exact headword in the named source release/English revision; not all dictionaries"
+    },
+    {
+      "cardId": "V20261012-065",
+      "term": "rule out",
+      "sourceId": "oewn-2025",
+      "entries": [
+        {
+          "lemma": "rule out",
+          "entryKey": "v",
+          "pos": "v",
+          "sourceId": "oewn-2025",
+          "forms": [],
+          "pronunciation": [],
+          "senses": [
+            {
+              "id": "rule_out%2:42:00::",
+              "number": 1,
+              "synset": "02635471-v",
+              "definitions": [
+                "make impossible, especially beforehand"
+              ],
+              "examples": [],
+              "lexicalExamples": [],
+              "usageFrames": [
+                "Something ----s something"
+              ],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "使不可能，尤其是事先排除可能性"
+            },
+            {
+              "id": "rule_out%2:33:00::",
+              "number": 2,
+              "synset": "01150028-v",
+              "definitions": [
+                "include or exclude by determining judicially or in agreement with rules"
+              ],
+              "examples": [],
+              "lexicalExamples": [],
+              "usageFrames": [
+                "Somebody ----s something"
+              ],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "通过司法判断或依照规则决定纳入或排除"
+            },
+            {
+              "id": "rule_out%2:31:00::",
+              "number": 3,
+              "synset": "00687320-v",
+              "definitions": [
+                "dismiss from consideration or a contest"
+              ],
+              "examples": [
+                "John was ruled out as a possible suspect because he had a strong alibi",
+                "This possibility can be eliminated from our consideration"
+              ],
+              "lexicalExamples": [],
+              "usageFrames": [
+                "Somebody ----s somebody",
+                "Somebody ----s something"
+              ],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "不再考虑，或从竞赛中排除"
+            }
+          ]
+        }
+      ],
+      "writer": "dictionary-full-author",
+      "scope": "All senses of exact headword in the named source release/English revision; not all dictionaries"
+    },
+    {
+      "cardId": "V20261012-066",
+      "term": "hold off",
+      "sourceId": "oewn-2025",
+      "entries": [
+        {
+          "lemma": "hold off",
+          "entryKey": "v",
+          "pos": "v",
+          "sourceId": "oewn-2025",
+          "forms": [],
+          "pronunciation": [],
+          "senses": [
+            {
+              "id": "hold_off%2:33:00::",
+              "number": 1,
+              "synset": "01119743-v",
+              "definitions": [
+                "resist and fight to a standoff"
+              ],
+              "examples": [
+                "Dallas had enough of a lead to hold the Broncos off"
+              ],
+              "lexicalExamples": [],
+              "usageFrames": [
+                "Somebody ----s somebody",
+                "Somebody ----s something"
+              ],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "抵抗，使双方相持不下"
+            },
+            {
+              "id": "hold_off%2:42:00::",
+              "number": 2,
+              "synset": "02647547-v",
+              "definitions": [
+                "wait before acting"
+              ],
+              "examples": [
+                "the scientists held off announcing their results until they repeated the experiment"
+              ],
+              "lexicalExamples": [
+                "They hold off a long time"
+              ],
+              "usageFrames": [
+                "Somebody ----s",
+                "Somebody ----s VERB-ing",
+                "Somebody ----s something"
+              ],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "等一等再行动；暂缓"
+            }
+          ]
+        }
+      ],
+      "writer": "dictionary-full-author",
+      "scope": "All senses of exact headword in the named source release/English revision; not all dictionaries"
+    },
+    {
+      "cardId": "V20261012-067",
+      "term": "work around",
+      "sourceId": "wiktionary-work-around",
+      "entries": [
+        {
+          "lemma": "work around",
+          "entryKey": "v",
+          "pos": "v",
+          "sourceId": "wiktionary-work-around",
+          "url": "https://en.wiktionary.org/w/index.php?title=work_around&oldid=92736210",
+          "historyUrl": "https://en.wiktionary.org/w/index.php?title=work_around&action=history",
+          "revision": "92736210",
+          "forms": [
+            "works around",
+            "working around",
+            "worked around"
+          ],
+          "pronunciation": [],
+          "alternativeForms": [
+            "work round"
+          ],
+          "senses": [
+            {
+              "id": "wikt-work-around-92736210-1",
+              "number": 1,
+              "definitions": [
+                "Used other than figuratively or idiomatically: see work, around."
+              ],
+              "examples": [
+                "He works around the corner in the fish shop."
+              ],
+              "lexicalExamples": [],
+              "usageFrames": [],
+              "labels": [],
+              "glossZh": "字面组合用法，分别参见work和around；例句中指在拐角附近的鱼店工作"
+            },
+            {
+              "id": "wikt-work-around-92736210-2",
+              "number": 2,
+              "definitions": [
+                "To bypass or circumvent (a problem or obstacle)."
+              ],
+              "examples": [
+                "If we can't fix this problem, we'll just have to work around it."
+              ],
+              "lexicalExamples": [],
+              "usageFrames": [],
+              "labels": [],
+              "glossZh": "绕过问题或障碍，另找办法继续进行"
+            }
+          ]
+        }
+      ],
+      "writer": "dictionary-full-author",
+      "scope": "All senses of exact headword in the named source release/English revision; not all dictionaries"
+    },
+    {
+      "cardId": "V20261012-068",
+      "term": "take on",
+      "sourceId": "oewn-2025",
+      "entries": [
+        {
+          "lemma": "take on",
+          "entryKey": "v",
+          "pos": "v",
+          "sourceId": "oewn-2025",
+          "forms": [],
+          "pronunciation": [],
+          "senses": [
+            {
+              "id": "take_on%2:30:00::",
+              "number": 1,
+              "synset": "00525762-v",
+              "definitions": [
+                "take on a certain form, attribute, or aspect"
+              ],
+              "examples": [
+                "His voice took on a sad tone",
+                "The story took a new turn",
+                "he adopted an air of superiority",
+                "She assumed strange manners",
+                "The gods assume human or animal form in these fables"
+              ],
+              "lexicalExamples": [],
+              "usageFrames": [
+                "Something ----s something"
+              ],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "呈现某种形态、属性或面貌"
+            },
+            {
+              "id": "take_on%2:41:01::",
+              "number": 2,
+              "synset": "02386868-v",
+              "definitions": [
+                "take on titles, offices, duties, responsibilities"
+              ],
+              "examples": [
+                "When will the new President assume office?"
+              ],
+              "lexicalExamples": [],
+              "usageFrames": [
+                "Somebody ----s something"
+              ],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "承担头衔、职务、职责或责任"
+            },
+            {
+              "id": "take_on%2:41:00::",
+              "number": 3,
+              "synset": "02575545-v",
+              "definitions": [
+                "accept as a challenge"
+              ],
+              "examples": [
+                "I'll tackle this difficult task"
+              ],
+              "lexicalExamples": [],
+              "usageFrames": [
+                "Somebody ----s something"
+              ],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "接受某事作为挑战"
+            },
+            {
+              "id": "take_on%2:40:00::",
+              "number": 4,
+              "synset": "02241406-v",
+              "definitions": [
+                "admit into a group or community"
+              ],
+              "examples": [
+                "accept students for graduate study",
+                "We'll have to vote on whether or not to admit a new member"
+              ],
+              "lexicalExamples": [
+                "Sam cannot take on Sue"
+              ],
+              "usageFrames": [
+                "Somebody ----s somebody",
+                "Something ----s somebody"
+              ],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "接纳加入群体或组织"
+            },
+            {
+              "id": "take_on%2:33:01::",
+              "number": 5,
+              "synset": "01081873-v",
+              "definitions": [
+                "contend against an opponent in a sport, game, or battle"
+              ],
+              "examples": [
+                "Princeton plays Yale this weekend",
+                "Charlie likes to play Mary"
+              ],
+              "lexicalExamples": [],
+              "usageFrames": [
+                "Somebody ----s somebody"
+              ],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "在运动、比赛或战斗中与对手较量"
+            }
+          ]
+        }
+      ],
+      "writer": "dictionary-full-author",
+      "scope": "All senses of exact headword in the named source release/English revision; not all dictionaries"
+    },
+    {
+      "cardId": "V20261012-069",
+      "term": "weigh up",
+      "sourceId": "wiktionary-weigh-up",
+      "entries": [
+        {
+          "lemma": "weigh up",
+          "entryKey": "v",
+          "pos": "v",
+          "sourceId": "wiktionary-weigh-up",
+          "url": "https://en.wiktionary.org/w/index.php?title=weigh_up&oldid=92475226",
+          "historyUrl": "https://en.wiktionary.org/w/index.php?title=weigh_up&action=history",
+          "revision": "92475226",
+          "forms": [
+            "weighs up",
+            "weighing up",
+            "weighed up"
+          ],
+          "pronunciation": [],
+          "senses": [
+            {
+              "id": "wikt-weigh-up-92475226-1",
+              "number": 1,
+              "definitions": [
+                "To assess a person or a situation."
+              ],
+              "examples": [
+                "She looked at him carefully, trying to weigh him up. Was he really telling the truth?"
+              ],
+              "lexicalExamples": [],
+              "usageFrames": [],
+              "labels": [
+                "idiomatic",
+                "transitive"
+              ],
+              "glossZh": "评估一个人或一种情况；权衡、判断"
+            }
+          ]
+        }
+      ],
+      "writer": "dictionary-full-author",
+      "scope": "All senses of exact headword in the named source release/English revision; not all dictionaries"
+    },
+    {
+      "cardId": "V20261012-070",
+      "term": "wrap up",
+      "sourceId": "oewn-2025",
+      "entries": [
+        {
+          "lemma": "wrap up",
+          "entryKey": "v",
+          "pos": "v",
+          "sourceId": "oewn-2025",
+          "forms": [],
+          "pronunciation": [],
+          "senses": [
+            {
+              "id": "wrap_up%2:35:00::",
+              "number": 1,
+              "synset": "01285811-v",
+              "definitions": [
+                "arrange or fold as a cover or protection"
+              ],
+              "examples": [
+                "wrap the baby before taking her out",
+                "Wrap the present"
+              ],
+              "lexicalExamples": [],
+              "usageFrames": [
+                "Somebody ----s somebody PP",
+                "Somebody ----s something",
+                "Somebody ----s something PP"
+              ],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "包裹或折叠以覆盖、保护"
+            },
+            {
+              "id": "wrap_up%2:30:04::",
+              "number": 2,
+              "synset": "00485823-v",
+              "definitions": [
+                "finish a task completely"
+              ],
+              "examples": [
+                "I finally got through this homework assignment"
+              ],
+              "lexicalExamples": [],
+              "usageFrames": [
+                "Somebody ----s something",
+                "Something ----s something"
+              ],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "彻底完成一项任务"
+            },
+            {
+              "id": "wrap_up%2:30:00::",
+              "number": 3,
+              "synset": "00436641-v",
+              "definitions": [
+                "form a cylinder by rolling"
+              ],
+              "examples": [
+                "roll up a banner"
+              ],
+              "lexicalExamples": [],
+              "usageFrames": [
+                "Something ----s",
+                "Somebody ----s something"
+              ],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "卷成圆筒状"
+            },
+            {
+              "id": "wrap_up%2:29:00::",
+              "number": 4,
+              "synset": "00048350-v",
+              "definitions": [
+                "clothe, as if for protection from the elements"
+              ],
+              "examples": [
+                "cover your head!"
+              ],
+              "lexicalExamples": [],
+              "usageFrames": [
+                "Somebody ----s something"
+              ],
+              "labels": [],
+              "sourceDomains": [],
+              "usageLabels": [],
+              "glossZh": "给……穿上衣物，如为抵御风雨寒冷"
+            }
+          ]
+        }
+      ],
+      "writer": "dictionary-full-author",
+      "scope": "All senses of exact headword in the named source release/English revision; not all dictionaries"
+    }
+  ]
+}

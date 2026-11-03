@@ -1,3 +1,5 @@
+> **2026-11-04 Owner词典区纠正**：标题改为“词典义项”，按明确词典版本完整收录原文释义、源例句、用法与标签，中文译释另标；不能只列更多摘要或过滤当前义。新要求与QA见 [FULL-DICTIONARY-QA](../../docs/codex/v3/five-zone-v3.1/FULL-DICTIONARY-QA.md)，优先于本文件历史冲突描述。版式冻结，不发布。
+
 # 按职责执行的可复用提示词
 
 > 全部职责均以WHOLE-CARD-QA.md为范围：先列整页13模块，不是只列五区。Writer另交whole-card-supplement（writer、cardId、headword、examples、sources、etymology）；Reviewer另交whole-card-reviews，逐一评headword/currentSense/directExplanation/etymology/context/additionalSenses/examples/copyPayload。没有该回执不得生成完整页面。补充包改变时整页hash失效；五区原文没变可以保留原五区回执，但必须重新核对整页上下文。

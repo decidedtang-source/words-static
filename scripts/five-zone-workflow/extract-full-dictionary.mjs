@@ -1,0 +1,11 @@
+import {readFileSync,writeFileSync,readdirSync,mkdirSync,copyFileSync} from 'node:fs';
+import {createHash} from 'node:crypto';
+const base='local-evidence/dictionary-full/',src=base+'source/',out='content/trials/dictionary-full-50-20261104/';
+mkdirSync(out,{recursive:true});
+const read=p=>JSON.parse(readFileSync(p,'utf8')),words=read('content/trials/whole-card-50-20261103/entries.json');
+const synsets=Object.assign({},...readdirSync(src).filter(n=>/^(noun|verb|adj|adv)\./.test(n)).map(n=>read(src+n))),frames=read(src+'frames.json');
+const cards=words.map(w=>{const entries=read(src+'entries-'+w.term[0]+'.json')[w.term];return {cardId:w.cardId,term:w.term,sourceId:entries?'oewn-2025':'wiktionary-'+w.term.replaceAll(' ','-'),entries:entries?Object.entries(entries).map(([key,e])=>({lemma:w.term,entryKey:key,pos:key.split('-')[0],sourceId:'oewn-2025',forms:e.form||[],pronunciation:e.pronunciation||[],senses:e.sense.map((s,i)=>{const syn=synsets[s.synset];if(!syn)throw Error(s.synset);return {id:s.id,number:i+1,synset:s.synset,definitions:syn.definition,examples:syn.example||[],lexicalExamples:s.sent||[],usageFrames:(s.subcat||[]).map(k=>{if(!frames[k])throw Error(k);return frames[k]}),labels:syn.subject||[],sourceDomains:['domain_topic','domain_region'].flatMap(relation=>(syn[relation]||[]).map(id=>({relation,id,labels:synsets[id].members}))),usageLabels:(s.exemplifies||[]).map(id=>({id,label:id.split('%')[0].replaceAll('_',' ')})),glossZh:''}})})):[]}});
+const archive=readFileSync(base+'oewn.zip');
+writeFileSync(out+'source-snapshot.json',JSON.stringify({schema:1,source:{id:'oewn-2025',name:'Open English WordNet 2025',release:'2025',url:'https://en-word.net/static/english-wordnet-2025-json.zip',license:'CC BY 4.0 + Princeton WordNet notice',sha256:createHash('sha256').update(archive).digest('hex'),retrievedDate:'2026-11-04'},cards},null,2)+'\n');
+writeFileSync(base+'senses.txt',cards.map(c=>'\n'+c.term+'\n'+c.entries.flatMap(e=>e.senses.map(s=>e.pos+' '+s.number+' '+s.id+' | '+s.definitions.join('; '))).join('\n')).join('\n'));
+console.log({cards:cards.length,senses:cards.flatMap(c=>c.entries.flatMap(e=>e.senses)).length});

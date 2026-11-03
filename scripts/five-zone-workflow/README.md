@@ -1,3 +1,6 @@
+> **2026-11-04 词典完整收录工作流**：新50词使用 `content/trials/dictionary-full-50-20261104`，规范见 [FULL-DICTIONARY-QA](../../docs/codex/v3/five-zone-v3.1/FULL-DICTIONARY-QA.md)。历史“更多义项”批次仅保留回看。新模块不得过滤当前义，也不能直接继承旧词典评分。
+>
+> 执行：`node content/trials/dictionary-full-50-20261104/assemble.mjs` → 独立词典回执 → `node scripts/five-zone-workflow/verify-full-dictionary.mjs`。验证锁定原页面与12个继承模块，逐字段核对全词典，最后跑300组浏览器门禁。`extract-full-dictionary.mjs`是本批固定OEWN源的可复现提取器；未接入定时任务或生产发布。
 # 五区内容工作流 v2
 
 > 当前范围为 **整页工作流whole-card/1**。五区只是子门禁；默认命令要求whole-card-supplement.json与whole-card-reviews.json，词源、词头、当前义、直接讲解、本句、更多义项、例句、复制负载各自审核。整页契约见docs/codex/v3/five-zone-v3.1/WHOLE-CARD-QA.md。`--zones-only`仅诊断五区，禁止build。
