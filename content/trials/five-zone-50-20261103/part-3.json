@@ -1,0 +1,1723 @@
+[
+  {
+    "cardId": "V20261012-055",
+    "term": "proposal",
+    "context": "Please review the proposal before tomorrow's discussion.",
+    "contextZh": "请在明天讨论前审阅提案。",
+    "gloss": "提案；建议方案",
+    "glossKind": "source_summary",
+    "pos": "n.",
+    "definitionEn": "an idea or plan offered for others to consider",
+    "definitionZh": "供他人考虑的建议或方案",
+    "contextTakeaway": "提案还在讨论阶段，审阅不等于批准。",
+    "bridgeText": "供他人考虑的建议或方案",
+    "groups": [
+      {
+        "id": "g1",
+        "title": "先记住，再联系",
+        "text": "先联想到 propose a change：把改变提出来请人考虑；proposal 就是那份供讨论的建议。这里记 review a proposal，把动作和对象一起记，比只背“提案”更容易想起会议前要做什么。",
+        "sourceIds": [
+          "lex"
+        ]
+      },
+      {
+        "id": "g2",
+        "title": "句法与概念",
+        "text": "Please 后接动词原形 review，the proposal 是审阅对象；before 后面给出明天讨论这一时间界限。句子的任务是会前看方案，不是要求今天作最终决定；proposal 在这里是可数名词。",
+        "sourceIds": [
+          "lex"
+        ]
+      },
+      {
+        "id": "g3",
+        "title": "辨析与英文邻居",
+        "text": "proposal 侧重提交别人考虑的方案，decision 侧重已经作出的决定。在同一会议里，可以先 review a proposal，再作决定；看到提案写得完整，也不能仅凭这个词判断它已获批准。",
+        "sourceIds": [
+          "lex"
+        ]
+      },
+      {
+        "id": "g4",
+        "title": "这句话在做什么",
+        "text": "在所给例句里，讨论尚未开始，说话者先安排阅读，让下一次交流有准备。自编回应：I'll read it and note my questions.（我会先看，并记下问题。）这样下一步便可围绕疑问讨论，仍未表达赞成。",
+        "sourceIds": [
+          "lex",
+          "meeting"
+        ]
+      },
+      {
+        "id": "g5",
+        "title": "工作中可以这样说",
+        "text": "自编工作表达：Could you add the estimated cost to the proposal?（你能在提案中补上预估成本吗？）适合审阅时发现比较依据不足；明确要求补哪项信息，比笼统说“再完善一下”更方便对方回应。",
+        "sourceIds": [
+          "lex",
+          "meeting"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "lex",
+        "url": "https://dictionary.cambridge.org/dictionary/english/proposal",
+        "title": "proposal — Cambridge Dictionary",
+        "publisher": "Cambridge University Press & Assessment",
+        "accessedAt": "2026-11-03",
+        "section": "proposal noun; Business English",
+        "retrievalStatus": "index_excerpt",
+        "supportedClaims": [
+          "词义：供他人考虑的建议或方案",
+          "词性及整体搭配：n.；review a proposal",
+          "g1/g3: 当前义与词典所见相关用法的原创教学比较；类比不是历史词源"
+        ],
+        "summaryZh": "供他人考虑的建议或方案",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      },
+      {
+        "id": "meeting",
+        "url": "https://learnenglish.britishcouncil.org/sites/podcasts/files/LearnEnglish-Business-magazine-Managingmeetings.pdf",
+        "title": "Managing meetings",
+        "publisher": "British Council",
+        "accessedAt": "2026-11-03",
+        "section": "1 Set a clear agenda; 3 Keep the meeting focused; 5 Clarify, check and record; 6 End the meeting on time (pp.1–2)",
+        "retrievalStatus": "full_page",
+        "supportedClaims": [
+          "教学方法：区分讨论、澄清、核对、记录与结束会议；不直接证明自编回应必然有效"
+        ],
+        "summaryZh": "会议可依议程推进，澄清并核对理解，记录行动及负责人，结尾留时间收束。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      }
+    ],
+    "sourceLimitations": [
+      "词义依据原站搜索索引可见条目片段；未将索引获取标成完整页面阅读。",
+      "当前句为保留的公开学习例句；04互动解释为基于句面的分析，英文回应和05工作表达为自编，不代表真实工作事件或必然效果。",
+      "未核查或新增IPA及历史词源；来源支持词义或教学原则，不声称辞典逐字收录自编对话。"
+    ],
+    "writer": "trial_writer_3"
+  },
+  {
+    "cardId": "V20261012-056",
+    "term": "alternative",
+    "context": "We should consider an alternative if the date is too tight.",
+    "contextZh": "如果日期过紧，我们应考虑替代方案。",
+    "gloss": "替代方案",
+    "glossKind": "source_summary",
+    "pos": "n.",
+    "definitionEn": "another choice that can replace the current one",
+    "definitionZh": "可替代目前选择的另一个选项",
+    "contextTakeaway": "日期太紧时，应考虑另一个方案。",
+    "bridgeText": "可替代目前选择的另一个选项",
+    "groups": [
+      {
+        "id": "g1",
+        "title": "先记住，再联系",
+        "text": "用“眼前这条路走不通，还有另一条吗”作记忆提示。这是学习联想，不是词源。记住 an alternative to the current plan：替代的是当前计划；并不自动表示新选择更好或已经被选定。",
+        "sourceIds": [
+          "lex"
+        ]
+      },
+      {
+        "id": "g2",
+        "title": "句法与概念",
+        "text": "should consider 表示建议考虑，an alternative 是考虑的对象；if 引出条件，日期太紧才触发这项建议。alternative 此处作可数名词；整句没有指定要换日期、换资源还是换方案，不能替它补定。",
+        "sourceIds": [
+          "lex"
+        ]
+      },
+      {
+        "id": "g3",
+        "title": "辨析与英文邻居",
+        "text": "option 泛指可选项，alternative 在这里突出替代当前安排的选择。两者可以描述同一个方案，但着眼点不同；称它为 alternative 并没有评价成本或质量，仍需比较是否可行。",
+        "sourceIds": [
+          "lex"
+        ]
+      },
+      {
+        "id": "g4",
+        "title": "这句话在做什么",
+        "text": "原句把“日期过紧”的担忧转成寻找替代选择的建议，并没有立即否决原计划。自编回应：What other dates could work?（还有哪些日期可行？）这是一种接法，把讨论推进到候选日期；原句也允许其他替代方向。",
+        "sourceIds": [
+          "lex",
+          "meeting"
+        ]
+      },
+      {
+        "id": "g5",
+        "title": "工作中可以这样说",
+        "text": "自编工作表达：Do we have an alternative to this supplier?（我们有可替代这家供应商的选择吗？）适合想先摸清备用选项时。问到 alternative 后仍应核对质量、交期等条件，不能把“有替代”说成“能直接替换”。",
+        "sourceIds": [
+          "lex",
+          "meeting"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "lex",
+        "url": "https://dictionary.cambridge.org/us/dictionary/english/alternative?topic=unique-and-unusual",
+        "title": "alternative — Cambridge Dictionary",
+        "publisher": "Cambridge University Press & Assessment",
+        "accessedAt": "2026-11-03",
+        "section": "alternative noun [C]",
+        "retrievalStatus": "index_excerpt",
+        "supportedClaims": [
+          "词义：可替代目前选择的另一个选项",
+          "词性及整体搭配：n.；consider an alternative",
+          "g1/g3: 当前义与词典所见相关用法的原创教学比较；类比不是历史词源"
+        ],
+        "summaryZh": "可替代目前选择的另一个选项",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      },
+      {
+        "id": "meeting",
+        "url": "https://learnenglish.britishcouncil.org/sites/podcasts/files/LearnEnglish-Business-magazine-Managingmeetings.pdf",
+        "title": "Managing meetings",
+        "publisher": "British Council",
+        "accessedAt": "2026-11-03",
+        "section": "1 Set a clear agenda; 3 Keep the meeting focused; 5 Clarify, check and record; 6 End the meeting on time (pp.1–2)",
+        "retrievalStatus": "full_page",
+        "supportedClaims": [
+          "教学方法：区分讨论、澄清、核对、记录与结束会议；不直接证明自编回应必然有效"
+        ],
+        "summaryZh": "会议可依议程推进，澄清并核对理解，记录行动及负责人，结尾留时间收束。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      }
+    ],
+    "sourceLimitations": [
+      "词义依据原站搜索索引可见条目片段；未将索引获取标成完整页面阅读。",
+      "当前句为保留的公开学习例句；04互动解释为基于句面的分析，英文回应和05工作表达为自编，不代表真实工作事件或必然效果。",
+      "未核查或新增IPA及历史词源；来源支持词义或教学原则，不声称辞典逐字收录自编对话。"
+    ],
+    "writer": "trial_writer_3"
+  },
+  {
+    "cardId": "V20261012-057",
+    "term": "compromise",
+    "context": "We reached a compromise on the review schedule.",
+    "contextZh": "我们就评审时间表达成了折中方案。",
+    "gloss": "妥协；折中方案",
+    "glossKind": "source_summary",
+    "pos": "n.",
+    "definitionEn": "an agreement reached when sides give up some of their demands",
+    "definitionZh": "各方作出部分让步后达成的安排",
+    "contextTakeaway": "双方已就评审排期达成折中安排。",
+    "bridgeText": "各方作出部分让步后达成的安排",
+    "groups": [
+      {
+        "id": "g1",
+        "title": "先记住，再联系",
+        "text": "把 compromise 联到 reach：不是某个人单独放弃，而是各方调整要求后找到能接受的安排。可用“两边各退一些”帮助记忆，但让步不必等量，也不意味着每一项要求都被满足。",
+        "sourceIds": [
+          "lex"
+        ]
+      },
+      {
+        "id": "g2",
+        "title": "句法与概念",
+        "text": "reached 是过去式，a compromise 是达成的结果；on the review schedule 指明谈妥的议题。句子只报告排期这一项取得折中，不保证预算、人员等其他问题也已解决，更没有交代让步细节。",
+        "sourceIds": [
+          "lex"
+        ]
+      },
+      {
+        "id": "g3",
+        "title": "辨析与英文邻居",
+        "text": "agreement 可以是任何协议，compromise 特别说明其中有让步或折中。若大家本来就意见一致，用 agreement 已够；要强调排期分歧通过调整得到处理，reach a compromise 才补出了关键关系。",
+        "sourceIds": [
+          "lex"
+        ]
+      },
+      {
+        "id": "g4",
+        "title": "这句话在做什么",
+        "text": "原句在报告协商结果，把话题从争取各自日期转向确认约定。自编回应：Could you confirm the revised dates?（能确认一下调整后的日期吗？）这样可检查双方理解是否一致；例句本身不证明真实团队已完成协商。",
+        "sourceIds": [
+          "lex",
+          "meeting"
+        ]
+      },
+      {
+        "id": "g5",
+        "title": "工作中可以这样说",
+        "text": "自编工作表达：Could we reach a compromise on the delivery schedule?（我们能就交付时间表达成折中吗？）适合双方安排不同、仍愿讨论调整时。随后说明自己能调整哪部分，让“折中”有具体内容，而非只要求对方让步。",
+        "sourceIds": [
+          "lex",
+          "meeting"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "lex",
+        "url": "https://dictionary.cambridge.org/dictionary/english/compromise",
+        "title": "compromise — Cambridge Dictionary",
+        "publisher": "Cambridge University Press & Assessment",
+        "accessedAt": "2026-11-03",
+        "section": "compromise noun; AGREEMENT",
+        "retrievalStatus": "index_excerpt",
+        "supportedClaims": [
+          "词义：各方作出部分让步后达成的安排",
+          "词性及整体搭配：n.；reach a compromise",
+          "g1/g3: 当前义与词典所见相关用法的原创教学比较；类比不是历史词源"
+        ],
+        "summaryZh": "各方作出部分让步后达成的安排",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      },
+      {
+        "id": "meeting",
+        "url": "https://learnenglish.britishcouncil.org/sites/podcasts/files/LearnEnglish-Business-magazine-Managingmeetings.pdf",
+        "title": "Managing meetings",
+        "publisher": "British Council",
+        "accessedAt": "2026-11-03",
+        "section": "1 Set a clear agenda; 3 Keep the meeting focused; 5 Clarify, check and record; 6 End the meeting on time (pp.1–2)",
+        "retrievalStatus": "full_page",
+        "supportedClaims": [
+          "教学方法：区分讨论、澄清、核对、记录与结束会议；不直接证明自编回应必然有效"
+        ],
+        "summaryZh": "会议可依议程推进，澄清并核对理解，记录行动及负责人，结尾留时间收束。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      }
+    ],
+    "sourceLimitations": [
+      "词义依据原站搜索索引可见条目片段；未将索引获取标成完整页面阅读。",
+      "当前句为保留的公开学习例句；04互动解释为基于句面的分析，英文回应和05工作表达为自编，不代表真实工作事件或必然效果。",
+      "未核查或新增IPA及历史词源；来源支持词义或教学原则，不声称辞典逐字收录自编对话。"
+    ],
+    "writer": "trial_writer_3"
+  },
+  {
+    "cardId": "V20261012-058",
+    "term": "negotiate",
+    "context": "We may need to negotiate a more realistic deadline.",
+    "contextZh": "我们可能需要协商更实际的截止期限。",
+    "gloss": "协商；谈判",
+    "glossKind": "source_summary",
+    "pos": "v.",
+    "definitionEn": "discuss terms with another party to seek an agreement",
+    "definitionZh": "与另一方讨论条件以争取达成协议",
+    "contextTakeaway": "可能需要通过协商争取更实际的期限。",
+    "bridgeText": "与另一方讨论条件以争取达成协议",
+    "groups": [
+      {
+        "id": "g1",
+        "title": "先记住，再联系",
+        "text": "记住 negotiate a deadline，不是单方面把日期改掉，而是把期限带进讨论。和 negotiate with someone 连着记：前者说谈什么，后者说和谁谈；这有助于区分自己的愿望与双方谈妥的条件。",
+        "sourceIds": [
+          "lex"
+        ]
+      },
+      {
+        "id": "g2",
+        "title": "句法与概念",
+        "text": "may need to 表示可能有必要，negotiate 后直接接 a more realistic deadline。more realistic 是比较描述，暗示现有期限可能不够实际；整句仍是提出协商需要，并没有报告新期限已经谈成。",
+        "sourceIds": [
+          "lex"
+        ]
+      },
+      {
+        "id": "g3",
+        "title": "辨析与英文邻居",
+        "text": "discuss 可以只是交流意见；negotiate 把目标集中在谈出双方能接受的条件。这里说 negotiate a deadline，比 discuss the deadline 更突出争取调整的意图；是否成功还要看随后讨论，不能从动词直接推定。",
+        "sourceIds": [
+          "lex"
+        ]
+      },
+      {
+        "id": "g4",
+        "title": "这句话在做什么",
+        "text": "原句先用 may need to 提出可能的必要性，为调整期限开启讨论，而不是直接宣布延期。自编回应：What date would be achievable?（什么日期是能做到的？）这会把模糊的“不实际”推进成可讨论的候选日期。",
+        "sourceIds": [
+          "lex",
+          "meeting"
+        ]
+      },
+      {
+        "id": "g5",
+        "title": "工作中可以这样说",
+        "text": "自编工作表达：Can we negotiate a deadline that allows time for testing?（我们能协商一个留出测试时间的期限吗？）适合提出调整要求时，说明调整要满足的具体条件；对方可据此讨论时间，而不必猜测为何需要延期。",
+        "sourceIds": [
+          "lex",
+          "meeting"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "lex",
+        "url": "https://dictionary.cambridge.org/dictionary/english/negotiate?topic=debate-and-discussion",
+        "title": "negotiate — Cambridge Dictionary",
+        "publisher": "Cambridge University Press & Assessment",
+        "accessedAt": "2026-11-03",
+        "section": "negotiate verb DISCUSS",
+        "retrievalStatus": "index_excerpt",
+        "supportedClaims": [
+          "词义：与另一方讨论条件以争取达成协议",
+          "词性及整体搭配：v.；negotiate a deadline",
+          "g1/g3: 当前义与词典所见相关用法的原创教学比较；类比不是历史词源"
+        ],
+        "summaryZh": "与另一方讨论条件以争取达成协议",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      },
+      {
+        "id": "meeting",
+        "url": "https://learnenglish.britishcouncil.org/sites/podcasts/files/LearnEnglish-Business-magazine-Managingmeetings.pdf",
+        "title": "Managing meetings",
+        "publisher": "British Council",
+        "accessedAt": "2026-11-03",
+        "section": "1 Set a clear agenda; 3 Keep the meeting focused; 5 Clarify, check and record; 6 End the meeting on time (pp.1–2)",
+        "retrievalStatus": "full_page",
+        "supportedClaims": [
+          "教学方法：区分讨论、澄清、核对、记录与结束会议；不直接证明自编回应必然有效"
+        ],
+        "summaryZh": "会议可依议程推进，澄清并核对理解，记录行动及负责人，结尾留时间收束。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      }
+    ],
+    "sourceLimitations": [
+      "词义依据原站搜索索引可见条目片段；未将索引获取标成完整页面阅读。",
+      "当前句为保留的公开学习例句；04互动解释为基于句面的分析，英文回应和05工作表达为自编，不代表真实工作事件或必然效果。",
+      "未核查或新增IPA及历史词源；来源支持词义或教学原则，不声称辞典逐字收录自编对话。"
+    ],
+    "writer": "trial_writer_3"
+  },
+  {
+    "cardId": "V20261012-059",
+    "term": "conclude",
+    "context": "Let's conclude the meeting by confirming the next steps.",
+    "contextZh": "我们以确认后续步骤来结束会议吧。",
+    "gloss": "结束；得出结论",
+    "glossKind": "source_summary",
+    "pos": "v.",
+    "definitionEn": "bring a meeting, speech, or discussion to an end",
+    "definitionZh": "使会议、讲话或讨论结束",
+    "contextTakeaway": "以确认后续步骤作为结束会议的最后动作。",
+    "bridgeText": "使会议、讲话或讨论结束",
+    "groups": [
+      {
+        "id": "g1",
+        "title": "先记住，再联系",
+        "text": "把 conclude the meeting 和 conclude that…并排记：前者把会议结束，后者引出判断结论。本句后面紧接 meeting，应先选“结束”义；不要因为中文也说“结论”，便把整句读成在推导某个结论。",
+        "sourceIds": [
+          "lex"
+        ]
+      },
+      {
+        "id": "g2",
+        "title": "句法与概念",
+        "text": "Let's 提议共同做一件事，conclude 的对象是 the meeting；by confirming 指结束时采用的方式。确认后续步骤是收尾动作，并非已经确认完毕；读懂 by 后的动作，就知道散会前还要做什么。",
+        "sourceIds": [
+          "lex"
+        ]
+      },
+      {
+        "id": "g3",
+        "title": "辨析与英文邻居",
+        "text": "end 是直接的“结束”，conclude 常用于会议、讲话等收束；summarise 着重概括内容。这里确认 next steps 是收尾的方法，若只总结讨论内容而没核对后续安排，就还未完成这句话提出的动作。",
+        "sourceIds": [
+          "lex"
+        ]
+      },
+      {
+        "id": "g4",
+        "title": "这句话在做什么",
+        "text": "原句在把讨论转入收尾，并明确最后要确认后续步骤。自编回应：I'll send the draft on Friday.（我会在星期五发送草稿。）这只是一个自编行动承诺；接下来可核对其他人的任务，不能把收尾提议当成已获全员同意。",
+        "sourceIds": [
+          "lex",
+          "meeting"
+        ]
+      },
+      {
+        "id": "g5",
+        "title": "工作中可以这样说",
+        "text": "自编工作表达：I'd like to conclude by summarising the remaining questions.（我想通过概括尚未解决的问题来结束。）适合报告或讨论到尾声、但部分问题仍需追踪时；能结束交流，却不把“结束”误说成所有问题都已解决。",
+        "sourceIds": [
+          "lex",
+          "meeting"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "lex",
+        "url": "https://dictionary.cambridge.org/dictionary/english/conclude",
+        "title": "conclude — Cambridge Dictionary",
+        "publisher": "Cambridge University Press & Assessment",
+        "accessedAt": "2026-11-03",
+        "section": "conclude verb FINISH / JUDGE",
+        "retrievalStatus": "index_excerpt",
+        "supportedClaims": [
+          "词义：使会议、讲话或讨论结束",
+          "词性及整体搭配：v.；conclude a meeting",
+          "g1/g3: 当前义与词典所见相关用法的原创教学比较；类比不是历史词源"
+        ],
+        "summaryZh": "使会议、讲话或讨论结束",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      },
+      {
+        "id": "meeting",
+        "url": "https://learnenglish.britishcouncil.org/sites/podcasts/files/LearnEnglish-Business-magazine-Managingmeetings.pdf",
+        "title": "Managing meetings",
+        "publisher": "British Council",
+        "accessedAt": "2026-11-03",
+        "section": "1 Set a clear agenda; 3 Keep the meeting focused; 5 Clarify, check and record; 6 End the meeting on time (pp.1–2)",
+        "retrievalStatus": "full_page",
+        "supportedClaims": [
+          "教学方法：区分讨论、澄清、核对、记录与结束会议；不直接证明自编回应必然有效"
+        ],
+        "summaryZh": "会议可依议程推进，澄清并核对理解，记录行动及负责人，结尾留时间收束。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      }
+    ],
+    "sourceLimitations": [
+      "词义依据原站搜索索引可见条目片段；未将索引获取标成完整页面阅读。",
+      "当前句为保留的公开学习例句；04互动解释为基于句面的分析，英文回应和05工作表达为自编，不代表真实工作事件或必然效果。",
+      "未核查或新增IPA及历史词源；来源支持词义或教学原则，不声称辞典逐字收录自编对话。"
+    ],
+    "writer": "trial_writer_3"
+  },
+  {
+    "cardId": "V20261012-060",
+    "term": "document",
+    "context": "Please document the decision and the reason behind it.",
+    "contextZh": "请记录决定及其背后的理由。",
+    "gloss": "记录",
+    "glossKind": "source_summary",
+    "pos": "v.",
+    "definitionEn": "make a record of information, events, or a process",
+    "definitionZh": "把信息、事件或过程记录下来",
+    "contextTakeaway": "不仅记录决定，也记录作出决定的理由。",
+    "bridgeText": "把信息、事件或过程记录下来",
+    "groups": [
+      {
+        "id": "g1",
+        "title": "先记住，再联系",
+        "text": "熟悉的 a document 是一份文件；本句把 document 当动作，要求留下记录。可联想到“把口头决定变成可回看的内容”。这只是现代用法联系；记录可有不同载体，不必理解成一定要制作纸本公文。",
+        "sourceIds": [
+          "lex"
+        ]
+      },
+      {
+        "id": "g2",
+        "title": "句法与概念",
+        "text": "Please document 是祈使句，document 后的两个并列对象是 the decision 和 the reason behind it。it 指 decision；behind 在这里表达理由关系。遗漏后半部分，就只留下“做什么”，没有留下“为什么这样做”。",
+        "sourceIds": [
+          "lex"
+        ]
+      },
+      {
+        "id": "g3",
+        "title": "辨析与英文邻居",
+        "text": "record 也可说记录；document 在这里强调把有关详情留下来，便于查看。discuss 则只是讨论，不能保证有记录。即使会议里大家已经说清楚理由，仍可能需要 document，二者完成的是不同工作。",
+        "sourceIds": [
+          "lex"
+        ]
+      },
+      {
+        "id": "g4",
+        "title": "这句话在做什么",
+        "text": "原句要求把决定和依据固定为记录，解决后续只有口头记忆可查的问题。自编回应：I'll add both to the meeting notes.（我会把两者都补进会议记录。）回应同时覆盖两个对象，下一步才是检查记录是否准确。",
+        "sourceIds": [
+          "lex",
+          "meeting"
+        ]
+      },
+      {
+        "id": "g5",
+        "title": "工作中可以这样说",
+        "text": "自编工作表达：Please document any changes to the agreed process.（请记录对已议定流程的任何改动。）适合流程执行中发生变化、需要之后核对时。它要求留下改动记录，不表示改动因此自动获批；审批仍是另一项动作。",
+        "sourceIds": [
+          "lex",
+          "meeting"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "lex",
+        "url": "https://dictionary.cambridge.org/dictionary/english/document",
+        "title": "document — Cambridge Dictionary",
+        "publisher": "Cambridge University Press & Assessment",
+        "accessedAt": "2026-11-03",
+        "section": "document verb [T]",
+        "retrievalStatus": "index_excerpt",
+        "supportedClaims": [
+          "词义：把信息、事件或过程记录下来",
+          "词性及整体搭配：v.；document a decision",
+          "g1/g3: 当前义与词典所见相关用法的原创教学比较；类比不是历史词源"
+        ],
+        "summaryZh": "把信息、事件或过程记录下来",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      },
+      {
+        "id": "meeting",
+        "url": "https://learnenglish.britishcouncil.org/sites/podcasts/files/LearnEnglish-Business-magazine-Managingmeetings.pdf",
+        "title": "Managing meetings",
+        "publisher": "British Council",
+        "accessedAt": "2026-11-03",
+        "section": "1 Set a clear agenda; 3 Keep the meeting focused; 5 Clarify, check and record; 6 End the meeting on time (pp.1–2)",
+        "retrievalStatus": "full_page",
+        "supportedClaims": [
+          "教学方法：区分讨论、澄清、核对、记录与结束会议；不直接证明自编回应必然有效"
+        ],
+        "summaryZh": "会议可依议程推进，澄清并核对理解，记录行动及负责人，结尾留时间收束。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      }
+    ],
+    "sourceLimitations": [
+      "词义依据原站搜索索引可见条目片段；未将索引获取标成完整页面阅读。",
+      "当前句为保留的公开学习例句；04互动解释为基于句面的分析，英文回应和05工作表达为自编，不代表真实工作事件或必然效果。",
+      "未核查或新增IPA及历史词源；来源支持词义或教学原则，不声称辞典逐字收录自编对话。"
+    ],
+    "writer": "trial_writer_3"
+  },
+  {
+    "cardId": "V20261012-061",
+    "term": "follow up",
+    "context": "I'll follow up on the open action tomorrow.",
+    "contextZh": "我明天会跟进这项未结行动。",
+    "gloss": "跟进",
+    "glossKind": "source_summary",
+    "pos": "短语动词",
+    "definitionEn": "take further action on something already started",
+    "definitionZh": "对已经开始的事项继续采取行动或查问",
+    "contextTakeaway": "明天继续跟进尚未结清的行动事项。",
+    "bridgeText": "对已经开始的事项继续采取行动或查问",
+    "groups": [
+      {
+        "id": "g1",
+        "title": "先记住，再联系",
+        "text": "把它记成“上次之后，再做下一步”，重点在前后两次行动有关联。follow up on an action 是跟进事项；不要把 up 拆成“向上”。动词写 follow up，作后续事项或修饰语时常见 follow-up。",
+        "sourceIds": [
+          "lex",
+          "grammar"
+        ]
+      },
+      {
+        "id": "g2",
+        "title": "句法与概念",
+        "text": "I'll 是 I will，表示这里承担下一次行动；follow up on 后接 the open action，tomorrow 指跟进时间。open 在这项工作语境中表示尚未结清，整句承诺的是明天跟进，并非保证明天完成该事项。",
+        "sourceIds": [
+          "lex",
+          "grammar"
+        ]
+      },
+      {
+        "id": "g3",
+        "title": "辨析与英文邻居",
+        "text": "follow up 着重接续之前的事，start 着重开始一件事。follow up on it 是继续查问或推进它，不等于 finish it；跟进后也可能发现还缺材料，因此不要把状态更新误报为完成。",
+        "sourceIds": [
+          "lex"
+        ]
+      },
+      {
+        "id": "g4",
+        "title": "这句话在做什么",
+        "text": "原句把未结事项安排给自己明天继续处理，让它有下一次触点。自编回应：Please let us know what you find.（请把了解到的情况告诉我们。）这样把跟进行动接到信息回报；具体会联系谁、如何推进仍需另说。",
+        "sourceIds": [
+          "lex",
+          "meeting"
+        ]
+      },
+      {
+        "id": "g5",
+        "title": "工作中可以这样说",
+        "text": "自编工作表达：I'll follow up on the missing information this afternoon.（今天下午我会跟进缺失的信息。）适合已经提出资料需求、需要继续确认时；给出对象和时间，避免只说 I'll follow up 而让听者不清楚跟进哪件事。",
+        "sourceIds": [
+          "lex",
+          "meeting"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "lex",
+        "url": "https://dictionary.cambridge.org/dictionary/english/follow-up",
+        "title": "follow up — Cambridge Dictionary",
+        "publisher": "Cambridge University Press & Assessment",
+        "accessedAt": "2026-11-03",
+        "section": "follow something up; follow up on; follow-up noun/adjective",
+        "retrievalStatus": "index_excerpt",
+        "supportedClaims": [
+          "词义：对已经开始的事项继续采取行动或查问",
+          "词性及整体搭配：短语动词；follow up on an action",
+          "g1/g3: 当前义与词典所见相关用法的原创教学比较；类比不是历史词源"
+        ],
+        "summaryZh": "对已经开始的事项继续采取行动或查问",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      },
+      {
+        "id": "meeting",
+        "url": "https://learnenglish.britishcouncil.org/sites/podcasts/files/LearnEnglish-Business-magazine-Managingmeetings.pdf",
+        "title": "Managing meetings",
+        "publisher": "British Council",
+        "accessedAt": "2026-11-03",
+        "section": "1 Set a clear agenda; 3 Keep the meeting focused; 5 Clarify, check and record; 6 End the meeting on time (pp.1–2)",
+        "retrievalStatus": "full_page",
+        "supportedClaims": [
+          "教学方法：区分讨论、澄清、核对、记录与结束会议；不直接证明自编回应必然有效"
+        ],
+        "summaryZh": "会议可依议程推进，澄清并核对理解，记录行动及负责人，结尾留时间收束。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      },
+      {
+        "id": "grammar",
+        "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/phrasal-verbs",
+        "title": "Phrasal verbs",
+        "publisher": "British Council",
+        "accessedAt": "2026-11-03",
+        "section": "Grammar explanation; Separable; Non-separable; With two particles (main lesson only)",
+        "retrievalStatus": "full_page",
+        "supportedClaims": [
+          "语法与教学方法：短语作为整体学习；依据可分与不可分结构理解宾语位置；具体词义仍由lex来源承担"
+        ],
+        "summaryZh": "短语动词的整体义与结构须一起学习；可分结构用代词作宾语时通常放在动词与小品词之间。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      }
+    ],
+    "sourceLimitations": [
+      "词义依据原站搜索索引可见条目片段；未将索引获取标成完整页面阅读。",
+      "当前句为保留的公开学习例句；04互动解释为基于句面的分析，英文回应和05工作表达为自编，不代表真实工作事件或必然效果。",
+      "未核查或新增IPA及历史词源；来源支持词义或教学原则，不声称辞典逐字收录自编对话。"
+    ],
+    "writer": "trial_writer_3"
+  },
+  {
+    "cardId": "V20261012-062",
+    "term": "bring up",
+    "context": "I'd like to bring up one issue before we finish.",
+    "contextZh": "结束前，我想提出一个问题。",
+    "gloss": "提出话题",
+    "glossKind": "source_summary",
+    "pos": "短语动词",
+    "definitionEn": "introduce a subject into a conversation",
+    "definitionZh": "在交谈中提出某个话题",
+    "contextTakeaway": "结束前想再提出一个问题。",
+    "bridgeText": "在交谈中提出某个话题",
+    "groups": [
+      {
+        "id": "g1",
+        "title": "先记住，再联系",
+        "text": "把 bring up an issue 连成一块，记住它负责让话题进入对话。可用“把问题放到桌面上”作学习联想，但并非历史词源。issue 提醒这里是谈话义，不是 bring someone up 的养育义。",
+        "sourceIds": [
+          "lex",
+          "grammar"
+        ]
+      },
+      {
+        "id": "g2",
+        "title": "句法与概念",
+        "text": "I'd like to 后接 bring up，表示想做什么；one issue 是所提对象，before we finish 给出时机。可分结构中，用代词时说 bring it up。这里在申请或预告一个发言点，还没有讲出问题的具体内容。",
+        "sourceIds": [
+          "lex",
+          "grammar"
+        ]
+      },
+      {
+        "id": "g3",
+        "title": "辨析与英文邻居",
+        "text": "bring up 侧重引入话题，discuss 侧重讨论话题。会议里可以先 bring up a problem，然后决定是否详细 discuss it；“提出了”不能等同于“已经讨论清楚”，更不能等同于问题已经解决。",
+        "sourceIds": [
+          "lex"
+        ]
+      },
+      {
+        "id": "g4",
+        "title": "这句话在做什么",
+        "text": "原句在快结束时争取增加一个话题，I'd like to 留出对方接话空间，但不保证一定获准。自编回应：Go ahead. What's the issue?（请说，是什么问题？）若时间不够，也可安排另议；这才决定话题是否现在展开。",
+        "sourceIds": [
+          "lex",
+          "meeting"
+        ]
+      },
+      {
+        "id": "g5",
+        "title": "工作中可以这样说",
+        "text": "自编工作表达：Could we bring up the staffing issue at the next meeting?（我们能在下次会议提出人员配置问题吗？）适合安排讨论时机。先点明主题和会议，不必在邀请讨论的这一句里塞进全部论据，让对方先确认议程。",
+        "sourceIds": [
+          "lex",
+          "meeting"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "lex",
+        "url": "https://dictionary.cambridge.org/dictionary/english/bring-up",
+        "title": "bring up — Cambridge Dictionary",
+        "publisher": "Cambridge University Press & Assessment",
+        "accessedAt": "2026-11-03",
+        "section": "bring something up TALK",
+        "retrievalStatus": "index_excerpt",
+        "supportedClaims": [
+          "词义：在交谈中提出某个话题",
+          "词性及整体搭配：短语动词；bring up an issue",
+          "g1/g3: 当前义与词典所见相关用法的原创教学比较；类比不是历史词源"
+        ],
+        "summaryZh": "在交谈中提出某个话题",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      },
+      {
+        "id": "meeting",
+        "url": "https://learnenglish.britishcouncil.org/sites/podcasts/files/LearnEnglish-Business-magazine-Managingmeetings.pdf",
+        "title": "Managing meetings",
+        "publisher": "British Council",
+        "accessedAt": "2026-11-03",
+        "section": "1 Set a clear agenda; 3 Keep the meeting focused; 5 Clarify, check and record; 6 End the meeting on time (pp.1–2)",
+        "retrievalStatus": "full_page",
+        "supportedClaims": [
+          "教学方法：区分讨论、澄清、核对、记录与结束会议；不直接证明自编回应必然有效"
+        ],
+        "summaryZh": "会议可依议程推进，澄清并核对理解，记录行动及负责人，结尾留时间收束。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      },
+      {
+        "id": "grammar",
+        "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/phrasal-verbs",
+        "title": "Phrasal verbs",
+        "publisher": "British Council",
+        "accessedAt": "2026-11-03",
+        "section": "Grammar explanation; Separable; Non-separable; With two particles (main lesson only)",
+        "retrievalStatus": "full_page",
+        "supportedClaims": [
+          "语法与教学方法：短语作为整体学习；依据可分与不可分结构理解宾语位置；具体词义仍由lex来源承担"
+        ],
+        "summaryZh": "短语动词的整体义与结构须一起学习；可分结构用代词作宾语时通常放在动词与小品词之间。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      }
+    ],
+    "sourceLimitations": [
+      "词义依据原站搜索索引可见条目片段；未将索引获取标成完整页面阅读。",
+      "当前句为保留的公开学习例句；04互动解释为基于句面的分析，英文回应和05工作表达为自编，不代表真实工作事件或必然效果。",
+      "未核查或新增IPA及历史词源；来源支持词义或教学原则，不声称辞典逐字收录自编对话。"
+    ],
+    "writer": "trial_writer_3"
+  },
+  {
+    "cardId": "V20261012-063",
+    "term": "walk through",
+    "context": "Could you walk us through the revised plan?",
+    "contextZh": "你能逐步向我们讲解修订计划吗？",
+    "gloss": "逐步讲解",
+    "glossKind": "source_summary",
+    "pos": "短语动词",
+    "definitionEn": "explain or demonstrate something to someone step by step",
+    "definitionZh": "按步骤向某人说明或演示一件事",
+    "contextTakeaway": "请求对方逐步讲解修订后的计划。",
+    "bridgeText": "按步骤向某人说明或演示一件事",
+    "groups": [
+      {
+        "id": "g1",
+        "title": "先记住，再联系",
+        "text": "记住 walk someone through something 这个整体框架，像带人沿路线逐站看懂，只是教学类比，不是词源。someone 是被引导的人，something 是过程或内容；本句没有要求大家真的步行。",
+        "sourceIds": [
+          "lex",
+          "grammar"
+        ]
+      },
+      {
+        "id": "g2",
+        "title": "句法与概念",
+        "text": "Could you 引出请求，walk us through 里的 us 是听讲的人，the revised plan 是讲解内容。不能省掉 through 把它读成普通走路；重点是带着听者理解计划各部分，句子并未要求重新批准计划。",
+        "sourceIds": [
+          "lex",
+          "grammar"
+        ]
+      },
+      {
+        "id": "g3",
+        "title": "辨析与英文邻居",
+        "text": "explain 可泛指解释；walk someone through 更突出循序带看或带做。summary 只抓主要内容，未必覆盖步骤。若听者不知道新计划如何执行，请求 walkthrough 式讲解比只要一句概括更贴合目的。",
+        "sourceIds": [
+          "lex"
+        ]
+      },
+      {
+        "id": "g4",
+        "title": "这句话在做什么",
+        "text": "原句针对“修订后如何进行还不清楚”的可能卡点，请对方放慢并逐步说明。自编回应：Sure. Let's start with the first milestone.（好，我们从第一个里程碑开始。）这把交流转成有顺序的讲解，不表示听者已完全理解。",
+        "sourceIds": [
+          "lex",
+          "meeting"
+        ]
+      },
+      {
+        "id": "g5",
+        "title": "工作中可以这样说",
+        "text": "自编工作表达：Could you walk me through how to submit this form?（你能一步步教我怎样提交这张表吗？）适合初次操作或对流程不熟时。将问题指向具体步骤，对方可边演示边说明；必要时再请其停在不懂的环节。",
+        "sourceIds": [
+          "lex",
+          "meeting"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "lex",
+        "url": "https://dictionary.cambridge.org/us/dictionary/english/walk-through?topic=defining-and-explaining",
+        "title": "walk through — Cambridge Dictionary",
+        "publisher": "Cambridge University Press & Assessment",
+        "accessedAt": "2026-11-03",
+        "section": "walk someone through something",
+        "retrievalStatus": "index_excerpt",
+        "supportedClaims": [
+          "词义：按步骤向某人说明或演示一件事",
+          "词性及整体搭配：短语动词；walk someone through a plan",
+          "g1/g3: 当前义与词典所见相关用法的原创教学比较；类比不是历史词源"
+        ],
+        "summaryZh": "按步骤向某人说明或演示一件事",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      },
+      {
+        "id": "meeting",
+        "url": "https://learnenglish.britishcouncil.org/sites/podcasts/files/LearnEnglish-Business-magazine-Managingmeetings.pdf",
+        "title": "Managing meetings",
+        "publisher": "British Council",
+        "accessedAt": "2026-11-03",
+        "section": "1 Set a clear agenda; 3 Keep the meeting focused; 5 Clarify, check and record; 6 End the meeting on time (pp.1–2)",
+        "retrievalStatus": "full_page",
+        "supportedClaims": [
+          "教学方法：区分讨论、澄清、核对、记录与结束会议；不直接证明自编回应必然有效"
+        ],
+        "summaryZh": "会议可依议程推进，澄清并核对理解，记录行动及负责人，结尾留时间收束。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      },
+      {
+        "id": "grammar",
+        "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/phrasal-verbs",
+        "title": "Phrasal verbs",
+        "publisher": "British Council",
+        "accessedAt": "2026-11-03",
+        "section": "Grammar explanation; Separable; Non-separable; With two particles (main lesson only)",
+        "retrievalStatus": "full_page",
+        "supportedClaims": [
+          "语法与教学方法：短语作为整体学习；依据可分与不可分结构理解宾语位置；具体词义仍由lex来源承担"
+        ],
+        "summaryZh": "短语动词的整体义与结构须一起学习；可分结构用代词作宾语时通常放在动词与小品词之间。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      }
+    ],
+    "sourceLimitations": [
+      "词义依据原站搜索索引可见条目片段；未将索引获取标成完整页面阅读。",
+      "当前句为保留的公开学习例句；04互动解释为基于句面的分析，英文回应和05工作表达为自编，不代表真实工作事件或必然效果。",
+      "未核查或新增IPA及历史词源；来源支持词义或教学原则，不声称辞典逐字收录自编对话。"
+    ],
+    "writer": "trial_writer_3"
+  },
+  {
+    "cardId": "V20261012-064",
+    "term": "point out",
+    "context": "Let me point out one difference between the two options.",
+    "contextZh": "让我指出两个方案间的一处差异。",
+    "gloss": "指出",
+    "glossKind": "source_summary",
+    "pos": "短语动词",
+    "definitionEn": "draw someone's attention to information or a detail",
+    "definitionZh": "提醒别人注意某条信息或细节",
+    "contextTakeaway": "将注意力引向两个方案之间的一处差异。",
+    "bridgeText": "提醒别人注意某条信息或细节",
+    "groups": [
+      {
+        "id": "g1",
+        "title": "先记住，再联系",
+        "text": "用“你看这里”帮助记住 point out 的提醒功能，动作未必真的用手指。搭配 point out a difference，把注意力放在信息上；它不等于只说 point，后者单独使用容易让人想到指向位置。",
+        "sourceIds": [
+          "lex",
+          "grammar"
+        ]
+      },
+      {
+        "id": "g2",
+        "title": "句法与概念",
+        "text": "Let me point out 是引出自己要说明的内容；one difference 是对象，between the two options 限定比较双方。point out 也可接 that 从句。整句只预告指出一处不同，差异是什么还要看随后的说明。",
+        "sourceIds": [
+          "lex",
+          "grammar"
+        ]
+      },
+      {
+        "id": "g3",
+        "title": "辨析与英文邻居",
+        "text": "mention 可以顺带提到；point out 更突出让听者注意某个信息。指出 difference 不必带批评，也不能仅凭这个词判断某方案不好；真正的评价要看说出的差异是否与决策标准有关。",
+        "sourceIds": [
+          "lex"
+        ]
+      },
+      {
+        "id": "g4",
+        "title": "这句话在做什么",
+        "text": "原句先把注意力集中到一处差异，避免两个方案被当成完全一样。自编回应：Does that difference affect the cost?（这个差异会影响成本吗？）这是一种后续追问，把“看到不同”推进到“判断不同是否重要”。",
+        "sourceIds": [
+          "lex",
+          "meeting"
+        ]
+      },
+      {
+        "id": "g5",
+        "title": "工作中可以这样说",
+        "text": "自编工作表达：I'd like to point out that the quote excludes shipping.（我想提醒一下，报价不含运费。）适合发现讨论遗漏重要条件时。先指出可核对的信息，再讨论影响；这句本身没有责怪报价方，也没有决定是否接受报价。",
+        "sourceIds": [
+          "lex",
+          "meeting"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "lex",
+        "url": "https://dictionary.cambridge.org/us/dictionary/english/point-out",
+        "title": "point out — Cambridge Dictionary",
+        "publisher": "Cambridge University Press & Assessment",
+        "accessedAt": "2026-11-03",
+        "section": "point something out; information sense",
+        "retrievalStatus": "index_excerpt",
+        "supportedClaims": [
+          "词义：提醒别人注意某条信息或细节",
+          "词性及整体搭配：短语动词；point out a difference",
+          "g1/g3: 当前义与词典所见相关用法的原创教学比较；类比不是历史词源"
+        ],
+        "summaryZh": "提醒别人注意某条信息或细节",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      },
+      {
+        "id": "meeting",
+        "url": "https://learnenglish.britishcouncil.org/sites/podcasts/files/LearnEnglish-Business-magazine-Managingmeetings.pdf",
+        "title": "Managing meetings",
+        "publisher": "British Council",
+        "accessedAt": "2026-11-03",
+        "section": "1 Set a clear agenda; 3 Keep the meeting focused; 5 Clarify, check and record; 6 End the meeting on time (pp.1–2)",
+        "retrievalStatus": "full_page",
+        "supportedClaims": [
+          "教学方法：区分讨论、澄清、核对、记录与结束会议；不直接证明自编回应必然有效"
+        ],
+        "summaryZh": "会议可依议程推进，澄清并核对理解，记录行动及负责人，结尾留时间收束。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      },
+      {
+        "id": "grammar",
+        "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/phrasal-verbs",
+        "title": "Phrasal verbs",
+        "publisher": "British Council",
+        "accessedAt": "2026-11-03",
+        "section": "Grammar explanation; Separable; Non-separable; With two particles (main lesson only)",
+        "retrievalStatus": "full_page",
+        "supportedClaims": [
+          "语法与教学方法：短语作为整体学习；依据可分与不可分结构理解宾语位置；具体词义仍由lex来源承担"
+        ],
+        "summaryZh": "短语动词的整体义与结构须一起学习；可分结构用代词作宾语时通常放在动词与小品词之间。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      }
+    ],
+    "sourceLimitations": [
+      "词义依据原站搜索索引可见条目片段；未将索引获取标成完整页面阅读。",
+      "当前句为保留的公开学习例句；04互动解释为基于句面的分析，英文回应和05工作表达为自编，不代表真实工作事件或必然效果。",
+      "未核查或新增IPA及历史词源；来源支持词义或教学原则，不声称辞典逐字收录自编对话。"
+    ],
+    "writer": "trial_writer_3"
+  },
+  {
+    "cardId": "V20261012-065",
+    "term": "rule out",
+    "context": "We cannot rule out a delay at this stage.",
+    "contextZh": "现阶段，我们无法排除延误的可能。",
+    "gloss": "排除",
+    "glossKind": "source_summary",
+    "pos": "短语动词",
+    "definitionEn": "stop considering something as a possibility",
+    "definitionZh": "不再把某事视为可能情况或可选方案",
+    "contextTakeaway": "还不能排除延误；不是断言一定延误。",
+    "bridgeText": "不再把某事视为可能情况或可选方案",
+    "groups": [
+      {
+        "id": "g1",
+        "title": "先记住，再联系",
+        "text": "把 rule out 和“从可能清单里划掉”联系起来，这是记忆类比。再反过来记 cannot rule out：现在还不能划掉。否定词决定信息方向，少看一个 cannot，就会把风险判断完全读反。",
+        "sourceIds": [
+          "lex",
+          "grammar"
+        ]
+      },
+      {
+        "id": "g2",
+        "title": "句法与概念",
+        "text": "cannot 否定 rule out，a delay 是不能排除的情况，at this stage 限定为现阶段。句子保留延误的可能性，却没有提供概率；因此不能换成“很可能延误”或“肯定延误”，两者都比原句更强。",
+        "sourceIds": [
+          "lex",
+          "grammar"
+        ]
+      },
+      {
+        "id": "g3",
+        "title": "辨析与英文邻居",
+        "text": "unlikely 表示发生可能性低，ruled out 表示不再考虑其可能性；低概率未必能被排除。cannot rule out 也不等于 expect：它是在保留可能，不是预测一定会发生，工作汇报中应保留这层差别。",
+        "sourceIds": [
+          "lex"
+        ]
+      },
+      {
+        "id": "g4",
+        "title": "这句话在做什么",
+        "text": "原句在阻止讨论过早把延误当作不可能，让后续计划仍考虑风险。自编回应：What information would help us assess the risk?（哪些信息能帮助我们判断风险？）这样把不确定性变成调查问题，而不是直接宣布延期。",
+        "sourceIds": [
+          "lex",
+          "meeting"
+        ]
+      },
+      {
+        "id": "g5",
+        "title": "工作中可以这样说",
+        "text": "自编工作表达：We haven't ruled out a scheduling error yet.（我们还没有排除排期错误的可能。）适合原因调查仍在进行时；说明它仍是候选解释，随后可补查证动作。不要把尚未排除写成已经确认的原因。",
+        "sourceIds": [
+          "lex",
+          "meeting"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "lex",
+        "url": "https://dictionary.cambridge.org/dictionary/english/rule-out",
+        "title": "rule out — Cambridge Dictionary",
+        "publisher": "Cambridge University Press & Assessment",
+        "accessedAt": "2026-11-03",
+        "section": "rule something or someone out; American Dictionary",
+        "retrievalStatus": "index_excerpt",
+        "supportedClaims": [
+          "词义：不再把某事视为可能情况或可选方案",
+          "词性及整体搭配：短语动词；rule out an option",
+          "g1/g3: 当前义与词典所见相关用法的原创教学比较；类比不是历史词源"
+        ],
+        "summaryZh": "不再把某事视为可能情况或可选方案",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      },
+      {
+        "id": "meeting",
+        "url": "https://learnenglish.britishcouncil.org/sites/podcasts/files/LearnEnglish-Business-magazine-Managingmeetings.pdf",
+        "title": "Managing meetings",
+        "publisher": "British Council",
+        "accessedAt": "2026-11-03",
+        "section": "1 Set a clear agenda; 3 Keep the meeting focused; 5 Clarify, check and record; 6 End the meeting on time (pp.1–2)",
+        "retrievalStatus": "full_page",
+        "supportedClaims": [
+          "教学方法：区分讨论、澄清、核对、记录与结束会议；不直接证明自编回应必然有效"
+        ],
+        "summaryZh": "会议可依议程推进，澄清并核对理解，记录行动及负责人，结尾留时间收束。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      },
+      {
+        "id": "grammar",
+        "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/phrasal-verbs",
+        "title": "Phrasal verbs",
+        "publisher": "British Council",
+        "accessedAt": "2026-11-03",
+        "section": "Grammar explanation; Separable; Non-separable; With two particles (main lesson only)",
+        "retrievalStatus": "full_page",
+        "supportedClaims": [
+          "语法与教学方法：短语作为整体学习；依据可分与不可分结构理解宾语位置；具体词义仍由lex来源承担"
+        ],
+        "summaryZh": "短语动词的整体义与结构须一起学习；可分结构用代词作宾语时通常放在动词与小品词之间。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      }
+    ],
+    "sourceLimitations": [
+      "词义依据原站搜索索引可见条目片段；未将索引获取标成完整页面阅读。",
+      "当前句为保留的公开学习例句；04互动解释为基于句面的分析，英文回应和05工作表达为自编，不代表真实工作事件或必然效果。",
+      "未核查或新增IPA及历史词源；来源支持词义或教学原则，不声称辞典逐字收录自编对话。"
+    ],
+    "writer": "trial_writer_3"
+  },
+  {
+    "cardId": "V20261012-066",
+    "term": "hold off",
+    "context": "Let's hold off on the decision until we have the results.",
+    "contextZh": "等拿到结果后，我们再作决定吧。",
+    "gloss": "暂缓",
+    "glossKind": "source_summary",
+    "pos": "短语动词",
+    "definitionEn": "wait before taking an action",
+    "definitionZh": "先等待一段时间再采取行动",
+    "contextTakeaway": "先不作决定，等结果出来再处理。",
+    "bridgeText": "先等待一段时间再采取行动",
+    "groups": [
+      {
+        "id": "g1",
+        "title": "先记住，再联系",
+        "text": "把 hold off on a decision 记成“决定先放一下”，它留下以后继续的空间。不要仅把 off 解成取消；真正抓住的是暂不行动。until 后给出的条件，可帮助记住这一等待为什么有边界。",
+        "sourceIds": [
+          "lex",
+          "grammar"
+        ]
+      },
+      {
+        "id": "g2",
+        "title": "句法与概念",
+        "text": "Let's 提出共同安排，hold off on 后接 the decision；until we have the results 指明等待结束的条件。也可见 hold off doing something。句子没有给具体日期，但给了重新考虑决定的触发条件。",
+        "sourceIds": [
+          "lex",
+          "grammar"
+        ]
+      },
+      {
+        "id": "g3",
+        "title": "辨析与英文邻居",
+        "text": "hold off 强调暂时不做，cancel 则取消；postpone 也可表示延后，但本句最重要的是等结果这一条件。先暂缓不等于永远不决定，也不保证结果一来就能立刻批准，仍须审阅内容。",
+        "sourceIds": [
+          "lex"
+        ]
+      },
+      {
+        "id": "g4",
+        "title": "这句话在做什么",
+        "text": "原句在信息尚不足时提议暂缓决定，把讨论从“现在选哪个”转成“先等哪些证据”。自编回应：Agreed. I'll share the results when they arrive.（同意，结果一到我就分享。）这给等待之后补上一项衔接行动。",
+        "sourceIds": [
+          "lex",
+          "meeting"
+        ]
+      },
+      {
+        "id": "g5",
+        "title": "工作中可以这样说",
+        "text": "自编工作表达：Can we hold off on sending the report until the figures are checked?（能等数字核对后再发送报告吗？）适合发送动作依赖数据确认时；说清暂缓对象和解除条件，听者便能判断现在应先完成哪项核对。",
+        "sourceIds": [
+          "lex",
+          "meeting"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "lex",
+        "url": "https://dictionary.cambridge.org/dictionary/english/hold-off",
+        "title": "hold off — Cambridge Dictionary",
+        "publisher": "Cambridge University Press & Assessment",
+        "accessedAt": "2026-11-03",
+        "section": "hold off NOT DO; Business English",
+        "retrievalStatus": "index_excerpt",
+        "supportedClaims": [
+          "词义：先等待一段时间再采取行动",
+          "词性及整体搭配：短语动词；hold off on a decision",
+          "g1/g3: 当前义与词典所见相关用法的原创教学比较；类比不是历史词源"
+        ],
+        "summaryZh": "先等待一段时间再采取行动",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      },
+      {
+        "id": "meeting",
+        "url": "https://learnenglish.britishcouncil.org/sites/podcasts/files/LearnEnglish-Business-magazine-Managingmeetings.pdf",
+        "title": "Managing meetings",
+        "publisher": "British Council",
+        "accessedAt": "2026-11-03",
+        "section": "1 Set a clear agenda; 3 Keep the meeting focused; 5 Clarify, check and record; 6 End the meeting on time (pp.1–2)",
+        "retrievalStatus": "full_page",
+        "supportedClaims": [
+          "教学方法：区分讨论、澄清、核对、记录与结束会议；不直接证明自编回应必然有效"
+        ],
+        "summaryZh": "会议可依议程推进，澄清并核对理解，记录行动及负责人，结尾留时间收束。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      },
+      {
+        "id": "grammar",
+        "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/phrasal-verbs",
+        "title": "Phrasal verbs",
+        "publisher": "British Council",
+        "accessedAt": "2026-11-03",
+        "section": "Grammar explanation; Separable; Non-separable; With two particles (main lesson only)",
+        "retrievalStatus": "full_page",
+        "supportedClaims": [
+          "语法与教学方法：短语作为整体学习；依据可分与不可分结构理解宾语位置；具体词义仍由lex来源承担"
+        ],
+        "summaryZh": "短语动词的整体义与结构须一起学习；可分结构用代词作宾语时通常放在动词与小品词之间。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      }
+    ],
+    "sourceLimitations": [
+      "词义依据原站搜索索引可见条目片段；未将索引获取标成完整页面阅读。",
+      "当前句为保留的公开学习例句；04互动解释为基于句面的分析，英文回应和05工作表达为自编，不代表真实工作事件或必然效果。",
+      "未核查或新增IPA及历史词源；来源支持词义或教学原则，不声称辞典逐字收录自编对话。"
+    ],
+    "writer": "trial_writer_3"
+  },
+  {
+    "cardId": "V20261012-067",
+    "term": "work around",
+    "context": "Can we work around this constraint without changing the scope?",
+    "contextZh": "我们能在不改范围的情况下应对这项限制吗？",
+    "gloss": "设法绕过障碍",
+    "glossKind": "source_summary",
+    "pos": "短语动词",
+    "definitionEn": "find a way to continue despite a problem without removing it",
+    "definitionZh": "在问题未消除时找到避开其影响的做法",
+    "contextTakeaway": "寻找不改范围、仍能应对限制的办法。",
+    "bridgeText": "在问题未消除时找到避开其影响的做法",
+    "groups": [
+      {
+        "id": "g1",
+        "title": "先记住，再联系",
+        "text": "用“路障还在，改走可行路线”作记忆类比，重点是问题仍存在。work around a constraint 是动作；a workaround 是某个应变办法。先区分动作和办法，再记词组，不把两者都当成同一种词性。",
+        "sourceIds": [
+          "lex",
+          "grammar"
+        ]
+      },
+      {
+        "id": "g2",
+        "title": "句法与概念",
+        "text": "Can we 问是否可行，work around 后接 this constraint；without changing the scope 是重要限制条件。不是无条件求一个解法，而是同时要求维持范围；句子本身还没有证明这种办法实际存在。",
+        "sourceIds": [
+          "lex",
+          "grammar"
+        ]
+      },
+      {
+        "id": "g3",
+        "title": "辨析与英文邻居",
+        "text": "solve a problem 指解决问题；work around a problem 则可能让工作继续，却没有消除问题。讨论存储限制时，换一种操作方式也许是 workaround，真正扩大容量可能才处理了限制本身；此处只是自编辨析情境。",
+        "sourceIds": [
+          "lex"
+        ]
+      },
+      {
+        "id": "g4",
+        "title": "这句话在做什么",
+        "text": "原句没有马上要求放宽范围，而是邀请寻找现有边界内的可行做法。自编回应：We could split the work into smaller batches.（我们可以把工作分成更小批次。）这是自编候选回应，仍需检验是否真满足限制，不能直接当作已证实方案。",
+        "sourceIds": [
+          "lex",
+          "meeting"
+        ]
+      },
+      {
+        "id": "g5",
+        "title": "工作中可以这样说",
+        "text": "自编工作表达：We can work around the file-size limit by sending separate files.（我们可以分别发送文件来应对文件大小限制。）适合提出已核对可行的临时做法；若尚未验证，先用 could，并说明仍需测试，避免把设想报告成事实。",
+        "sourceIds": [
+          "lex",
+          "meeting"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "lex",
+        "url": "https://www.oxfordlearnersdictionaries.com/us/definition/english/work-around",
+        "title": "work around phrasal verb — Oxford Advanced Learner's Dictionary",
+        "publisher": "Oxford University Press",
+        "accessedAt": "2026-11-03",
+        "section": "work around something, sense 1",
+        "retrievalStatus": "full_page",
+        "supportedClaims": [
+          "词义：在问题未消除时找到避开其影响的做法",
+          "词性及整体搭配：短语动词；work around a constraint",
+          "g1/g3: 当前义与词典所见相关用法的原创教学比较；类比不是历史词源"
+        ],
+        "summaryZh": "在问题未消除时找到避开其影响的做法",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      },
+      {
+        "id": "meeting",
+        "url": "https://learnenglish.britishcouncil.org/sites/podcasts/files/LearnEnglish-Business-magazine-Managingmeetings.pdf",
+        "title": "Managing meetings",
+        "publisher": "British Council",
+        "accessedAt": "2026-11-03",
+        "section": "1 Set a clear agenda; 3 Keep the meeting focused; 5 Clarify, check and record; 6 End the meeting on time (pp.1–2)",
+        "retrievalStatus": "full_page",
+        "supportedClaims": [
+          "教学方法：区分讨论、澄清、核对、记录与结束会议；不直接证明自编回应必然有效"
+        ],
+        "summaryZh": "会议可依议程推进，澄清并核对理解，记录行动及负责人，结尾留时间收束。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      },
+      {
+        "id": "grammar",
+        "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/phrasal-verbs",
+        "title": "Phrasal verbs",
+        "publisher": "British Council",
+        "accessedAt": "2026-11-03",
+        "section": "Grammar explanation; Separable; Non-separable; With two particles (main lesson only)",
+        "retrievalStatus": "full_page",
+        "supportedClaims": [
+          "语法与教学方法：短语作为整体学习；依据可分与不可分结构理解宾语位置；具体词义仍由lex来源承担"
+        ],
+        "summaryZh": "短语动词的整体义与结构须一起学习；可分结构用代词作宾语时通常放在动词与小品词之间。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      }
+    ],
+    "sourceLimitations": [
+      "当前句为保留的公开学习例句；04互动解释为基于句面的分析，英文回应和05工作表达为自编，不代表真实工作事件或必然效果。",
+      "未核查或新增IPA及历史词源；来源支持词义或教学原则，不声称辞典逐字收录自编对话。"
+    ],
+    "writer": "trial_writer_3"
+  },
+  {
+    "cardId": "V20261012-068",
+    "term": "take on",
+    "context": "Our team cannot take on another task this week.",
+    "contextZh": "我们团队本周无法再承担任务。",
+    "gloss": "承担",
+    "glossKind": "source_summary",
+    "pos": "短语动词",
+    "definitionEn": "accept work or responsibility",
+    "definitionZh": "接受并承担工作或责任",
+    "contextTakeaway": "本周无力再承担额外任务。",
+    "bridgeText": "接受并承担工作或责任",
+    "groups": [
+      {
+        "id": "g1",
+        "title": "先记住，再联系",
+        "text": "记住 take on a task，把它看作把一份责任接到自己手上，这是学习联想。关键不在“拿走”物品，而在接受工作；宾语 task 帮助锁定义项，不能把所有 take on 都译成承担。",
+        "sourceIds": [
+          "lex",
+          "grammar"
+        ]
+      },
+      {
+        "id": "g2",
+        "title": "句法与概念",
+        "text": "Our team 是主语，cannot 表示本句说的能力限制，another task 强调再加一项，this week 限定时间。整句只划出本周无法新增任务的边界，没有说团队永远不接新任务，也未说明现有任务已完成。",
+        "sourceIds": [
+          "lex",
+          "grammar"
+        ]
+      },
+      {
+        "id": "g3",
+        "title": "辨析与英文邻居",
+        "text": "take on a task 着重接受任务；work on a task 着重正在处理。接下任务不保证立即开始或完成，正在处理也可能是之前已接的工作。汇报时分清“接单”与“执行”，就不会把承诺误说成进度。",
+        "sourceIds": [
+          "lex"
+        ]
+      },
+      {
+        "id": "g4",
+        "title": "这句话在做什么",
+        "text": "原句在新增请求面前说明团队本周的承载限制，避免含糊地接下承诺。自编回应：Could your team start next Monday?（你们团队能下周一开始吗？）这把交流转向可行时点；是否能接仍需团队实际确认。",
+        "sourceIds": [
+          "lex",
+          "meeting"
+        ]
+      },
+      {
+        "id": "g5",
+        "title": "工作中可以这样说",
+        "text": "自编工作表达：I can take on the review if another task is reassigned.（如果把另一项任务重新分配，我可以承担评审。）适合有条件接受工作时。把条件和承诺放在同一句，让对方清楚需要先调整什么，不能只转述前半句。",
+        "sourceIds": [
+          "lex",
+          "meeting"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "lex",
+        "url": "https://www.woodwardenglish.com/lesson/take-on-phrasal-verb-meanings-examples/",
+        "title": "TAKE ON – phrasal verb – meanings and examples",
+        "publisher": "Woodward English",
+        "accessedAt": "2026-11-03",
+        "section": "1. Take on = to accept additional responsibility",
+        "retrievalStatus": "index_excerpt",
+        "supportedClaims": [
+          "词义：接受并承担工作或责任",
+          "词性及整体搭配：短语动词；take on a task",
+          "g1/g3: 当前义与词典所见相关用法的原创教学比较；类比不是历史词源"
+        ],
+        "summaryZh": "接受并承担工作或责任",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      },
+      {
+        "id": "meeting",
+        "url": "https://learnenglish.britishcouncil.org/sites/podcasts/files/LearnEnglish-Business-magazine-Managingmeetings.pdf",
+        "title": "Managing meetings",
+        "publisher": "British Council",
+        "accessedAt": "2026-11-03",
+        "section": "1 Set a clear agenda; 3 Keep the meeting focused; 5 Clarify, check and record; 6 End the meeting on time (pp.1–2)",
+        "retrievalStatus": "full_page",
+        "supportedClaims": [
+          "教学方法：区分讨论、澄清、核对、记录与结束会议；不直接证明自编回应必然有效"
+        ],
+        "summaryZh": "会议可依议程推进，澄清并核对理解，记录行动及负责人，结尾留时间收束。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      },
+      {
+        "id": "grammar",
+        "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/phrasal-verbs",
+        "title": "Phrasal verbs",
+        "publisher": "British Council",
+        "accessedAt": "2026-11-03",
+        "section": "Grammar explanation; Separable; Non-separable; With two particles (main lesson only)",
+        "retrievalStatus": "full_page",
+        "supportedClaims": [
+          "语法与教学方法：短语作为整体学习；依据可分与不可分结构理解宾语位置；具体词义仍由lex来源承担"
+        ],
+        "summaryZh": "短语动词的整体义与结构须一起学习；可分结构用代词作宾语时通常放在动词与小品词之间。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      }
+    ],
+    "sourceLimitations": [
+      "词义依据原站搜索索引可见条目片段；未将索引获取标成完整页面阅读。",
+      "当前句为保留的公开学习例句；04互动解释为基于句面的分析，英文回应和05工作表达为自编，不代表真实工作事件或必然效果。",
+      "未核查或新增IPA及历史词源；来源支持词义或教学原则，不声称辞典逐字收录自编对话。"
+    ],
+    "writer": "trial_writer_3"
+  },
+  {
+    "cardId": "V20261012-069",
+    "term": "weigh up",
+    "context": "We need to weigh up the options before choosing a supplier.",
+    "contextZh": "选择供应商前，我们需要权衡各个选项。",
+    "gloss": "权衡",
+    "glossKind": "source_summary",
+    "pos": "短语动词",
+    "definitionEn": "consider choices or their advantages and disadvantages carefully",
+    "definitionZh": "在决定前仔细比较选择及其利弊",
+    "contextTakeaway": "选择供应商之前先仔细比较各选项。",
+    "bridgeText": "在决定前仔细比较选择及其利弊",
+    "groups": [
+      {
+        "id": "g1",
+        "title": "先记住，再联系",
+        "text": "可以借天平两侧作记忆图像：把收益与代价放在一起比较。这是现代学习类比，不宣称词源；weigh up the options 不在称物品重量，而在决定前审视选择，重点是比较过程。",
+        "sourceIds": [
+          "lex",
+          "grammar"
+        ]
+      },
+      {
+        "id": "g2",
+        "title": "句法与概念",
+        "text": "need to 后接 weigh up，the options 是比较对象；before choosing a supplier 说明先比较、后选择的顺序。句子并没有列出评估标准，不能替它断言只比价格；质量、交期等都需要另行说明。",
+        "sourceIds": [
+          "lex",
+          "grammar"
+        ]
+      },
+      {
+        "id": "g3",
+        "title": "辨析与英文邻居",
+        "text": "choose 是选出结果，weigh up 是作选择前的考虑过程。consider 也可说考虑，但 weigh up 更鲜明地突出审视利弊；说已经 weighed up options，并不自动说明某家供应商已经被选中。",
+        "sourceIds": [
+          "lex"
+        ]
+      },
+      {
+        "id": "g4",
+        "title": "这句话在做什么",
+        "text": "原句把直接选供应商的动作往后放，要求先完成比较。自编回应：Let's compare cost, quality and lead time.（我们比较一下成本、质量和交期吧。）这些是自编候选标准，回应把笼统的权衡变成具体比较步骤。",
+        "sourceIds": [
+          "lex",
+          "meeting"
+        ]
+      },
+      {
+        "id": "g5",
+        "title": "工作中可以这样说",
+        "text": "自编工作表达：We need to weigh up the benefits and risks before expanding the trial.（扩大试验前，我们需要权衡收益和风险。）适合尚未决定是否扩大的讨论。它要求比较支持和反对的理由，不应只列好处后便声称完成权衡。",
+        "sourceIds": [
+          "lex",
+          "meeting"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "lex",
+        "url": "https://dictionary.cambridge.org/us/dictionary/english-spanish/weigh-up",
+        "title": "weigh up — Cambridge Dictionary",
+        "publisher": "Cambridge University Press & Assessment",
+        "accessedAt": "2026-11-03",
+        "section": "weigh something up, B2",
+        "retrievalStatus": "index_excerpt",
+        "supportedClaims": [
+          "词义：在决定前仔细比较选择及其利弊",
+          "词性及整体搭配：短语动词；weigh up the options",
+          "g1/g3: 当前义与词典所见相关用法的原创教学比较；类比不是历史词源"
+        ],
+        "summaryZh": "在决定前仔细比较选择及其利弊",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      },
+      {
+        "id": "meeting",
+        "url": "https://learnenglish.britishcouncil.org/sites/podcasts/files/LearnEnglish-Business-magazine-Managingmeetings.pdf",
+        "title": "Managing meetings",
+        "publisher": "British Council",
+        "accessedAt": "2026-11-03",
+        "section": "1 Set a clear agenda; 3 Keep the meeting focused; 5 Clarify, check and record; 6 End the meeting on time (pp.1–2)",
+        "retrievalStatus": "full_page",
+        "supportedClaims": [
+          "教学方法：区分讨论、澄清、核对、记录与结束会议；不直接证明自编回应必然有效"
+        ],
+        "summaryZh": "会议可依议程推进，澄清并核对理解，记录行动及负责人，结尾留时间收束。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      },
+      {
+        "id": "grammar",
+        "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/phrasal-verbs",
+        "title": "Phrasal verbs",
+        "publisher": "British Council",
+        "accessedAt": "2026-11-03",
+        "section": "Grammar explanation; Separable; Non-separable; With two particles (main lesson only)",
+        "retrievalStatus": "full_page",
+        "supportedClaims": [
+          "语法与教学方法：短语作为整体学习；依据可分与不可分结构理解宾语位置；具体词义仍由lex来源承担"
+        ],
+        "summaryZh": "短语动词的整体义与结构须一起学习；可分结构用代词作宾语时通常放在动词与小品词之间。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      }
+    ],
+    "sourceLimitations": [
+      "词义依据原站搜索索引可见条目片段；未将索引获取标成完整页面阅读。",
+      "当前句为保留的公开学习例句；04互动解释为基于句面的分析，英文回应和05工作表达为自编，不代表真实工作事件或必然效果。",
+      "未核查或新增IPA及历史词源；来源支持词义或教学原则，不声称辞典逐字收录自编对话。"
+    ],
+    "writer": "trial_writer_3"
+  },
+  {
+    "cardId": "V20261012-070",
+    "term": "wrap up",
+    "context": "Let's wrap up by confirming the owner and due date.",
+    "contextZh": "我们以确认负责人和截止日期来收尾吧。",
+    "gloss": "收尾",
+    "glossKind": "source_summary",
+    "pos": "短语动词",
+    "definitionEn": "finish a discussion, activity, or piece of work",
+    "definitionZh": "将讨论、活动或工作收尾结束",
+    "contextTakeaway": "最后确认负责人及期限，然后结束。",
+    "bridgeText": "将讨论、活动或工作收尾结束",
+    "groups": [
+      {
+        "id": "g1",
+        "title": "先记住，再联系",
+        "text": "把 wrap up a discussion 整块记成讨论收尾，不要在本句逐字想成包东西。可用“把散落事项收拢”作学习联想；这帮助记住结束前检查遗漏，但不是词源，也不是每次使用都必须总结。",
+        "sourceIds": [
+          "lex",
+          "grammar"
+        ]
+      },
+      {
+        "id": "g2",
+        "title": "句法与概念",
+        "text": "Let's wrap up 提议收尾，后面的 by confirming 表明采用什么收尾动作。the owner 和 due date 是需确认的两项：由谁负责、何时到期。这里 owner 是任务负责人，不是在说明物品所有权。",
+        "sourceIds": [
+          "lex",
+          "grammar"
+        ]
+      },
+      {
+        "id": "g3",
+        "title": "辨析与英文邻居",
+        "text": "wrap up 着重结束，summarise 着重概括；可以用总结来收尾，也能像本句一样确认负责人和日期。只重复讨论重点不一定完成交接，因此听到 by 后的动作，要检查是否把两项安排都说清楚。",
+        "sourceIds": [
+          "lex"
+        ]
+      },
+      {
+        "id": "g4",
+        "title": "这句话在做什么",
+        "text": "原句在讨论接近尾声时要求落实责任和期限，再结束交流。自编回应：I'll own this task and finish it by Friday.（这项任务由我负责，星期五前完成。）回应同时填上两项信息；其他参与者仍可确认或提出限制。",
+        "sourceIds": [
+          "lex",
+          "meeting"
+        ]
+      },
+      {
+        "id": "g5",
+        "title": "工作中可以这样说",
+        "text": "自编工作表达：Let's wrap up the review and list the open issues.（我们结束这次评审，并列出尚未解决的问题吧。）适合时间到、但仍有待办时。结束一场评审并不等于关闭所有问题，列出未结事项可为下一次跟进保留入口。",
+        "sourceIds": [
+          "lex",
+          "meeting"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "lex",
+        "url": "https://dictionary.cambridge.org/dictionary/english/wrap-up",
+        "title": "wrap up — Cambridge Dictionary",
+        "publisher": "Cambridge University Press & Assessment",
+        "accessedAt": "2026-11-03",
+        "section": "wrap something up FINISH; Business English",
+        "retrievalStatus": "index_excerpt",
+        "supportedClaims": [
+          "词义：将讨论、活动或工作收尾结束",
+          "词性及整体搭配：短语动词；wrap up a discussion",
+          "g1/g3: 当前义与词典所见相关用法的原创教学比较；类比不是历史词源"
+        ],
+        "summaryZh": "将讨论、活动或工作收尾结束",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      },
+      {
+        "id": "meeting",
+        "url": "https://learnenglish.britishcouncil.org/sites/podcasts/files/LearnEnglish-Business-magazine-Managingmeetings.pdf",
+        "title": "Managing meetings",
+        "publisher": "British Council",
+        "accessedAt": "2026-11-03",
+        "section": "1 Set a clear agenda; 3 Keep the meeting focused; 5 Clarify, check and record; 6 End the meeting on time (pp.1–2)",
+        "retrievalStatus": "full_page",
+        "supportedClaims": [
+          "教学方法：区分讨论、澄清、核对、记录与结束会议；不直接证明自编回应必然有效"
+        ],
+        "summaryZh": "会议可依议程推进，澄清并核对理解，记录行动及负责人，结尾留时间收束。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      },
+      {
+        "id": "grammar",
+        "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/phrasal-verbs",
+        "title": "Phrasal verbs",
+        "publisher": "British Council",
+        "accessedAt": "2026-11-03",
+        "section": "Grammar explanation; Separable; Non-separable; With two particles (main lesson only)",
+        "retrievalStatus": "full_page",
+        "supportedClaims": [
+          "语法与教学方法：短语作为整体学习；依据可分与不可分结构理解宾语位置；具体词义仍由lex来源承担"
+        ],
+        "summaryZh": "短语动词的整体义与结构须一起学习；可分结构用代词作宾语时通常放在动词与小品词之间。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      }
+    ],
+    "sourceLimitations": [
+      "词义依据原站搜索索引可见条目片段；未将索引获取标成完整页面阅读。",
+      "当前句为保留的公开学习例句；04互动解释为基于句面的分析，英文回应和05工作表达为自编，不代表真实工作事件或必然效果。",
+      "未核查或新增IPA及历史词源；来源支持词义或教学原则，不声称辞典逐字收录自编对话。"
+    ],
+    "writer": "trial_writer_3"
+  }
+]

@@ -1,0 +1,31 @@
+{
+  "syntheticFixturesOnly": true,
+  "productionApprovalEvidence": false,
+  "results": [
+    {
+      "name": "empty-reviewer",
+      "expectedRejection": true,
+      "exit": 1
+    },
+    {
+      "name": "self-review",
+      "expectedRejection": true,
+      "exit": 1
+    },
+    {
+      "name": "stale-hash",
+      "expectedRejection": true,
+      "exit": 1
+    },
+    {
+      "name": "missing-source-check",
+      "expectedRejection": true,
+      "exit": 1
+    },
+    {
+      "name": "under-threshold",
+      "expectedRejection": true,
+      "exit": 1
+    }
+  ]
+}

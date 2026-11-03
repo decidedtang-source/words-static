@@ -1,0 +1,393 @@
+[
+  {
+    "id": "V20261012-001",
+    "date": "2026-10-12",
+    "term": "scope",
+    "ipa": "skoʊp",
+    "pos": "n.",
+    "meaning": "项目包含和不包含的工作范围",
+    "chunk": "define the scope",
+    "example": "We need to define the scope before estimating the cost.",
+    "level": "核心",
+    "gloss": "范围",
+    "explanation": "项目包含和不包含的工作范围",
+    "examples": [
+      {
+        "en": "We need to define the scope before estimating the cost.",
+        "zh": "估算成本前，我们需要界定范围。"
+      },
+      {
+        "en": "The scope excludes staff training.",
+        "zh": "范围不包括员工培训。"
+      }
+    ]
+  },
+  {
+    "id": "V20261012-002",
+    "date": "2026-10-12",
+    "term": "objective",
+    "ipa": "əbˈdʒek.tɪv",
+    "pos": "n.",
+    "meaning": "希望达成的具体目标",
+    "chunk": "a clear objective",
+    "example": "Our objective is to reduce the time spent on approvals.",
+    "level": "核心",
+    "gloss": "目标",
+    "explanation": "希望达成的具体目标",
+    "examples": [
+      {
+        "en": "Our objective is to reduce the time spent on approvals.",
+        "zh": "我们的目标是减少审批所用的时间。"
+      },
+      {
+        "en": "Each phase has a measurable objective.",
+        "zh": "每个阶段都有可衡量的目标。"
+      }
+    ]
+  },
+  {
+    "id": "V20261012-003",
+    "date": "2026-10-12",
+    "term": "deliverable",
+    "ipa": "dɪˈlɪv.ɚ.ə.bəl",
+    "pos": "n.",
+    "meaning": "项目需要交付的成果或文件",
+    "chunk": "agree on the deliverables",
+    "example": "Please list the deliverables for the first phase.",
+    "level": "提升",
+    "gloss": "交付成果",
+    "explanation": "项目需要交付的成果或文件",
+    "examples": [
+      {
+        "en": "Please list the deliverables for the first phase.",
+        "zh": "请列出第一阶段的交付成果。"
+      },
+      {
+        "en": "The final deliverable is a test report.",
+        "zh": "最终交付成果是一份测试报告。"
+      }
+    ]
+  },
+  {
+    "id": "V20261012-004",
+    "date": "2026-10-12",
+    "term": "milestone",
+    "ipa": "ˈmaɪl.stoʊn",
+    "pos": "n.",
+    "meaning": "标志阶段成果达成的重要节点",
+    "chunk": "reach a milestone",
+    "example": "We reached the first milestone after the review.",
+    "level": "核心",
+    "gloss": "里程碑",
+    "explanation": "标志阶段成果达成的重要节点",
+    "examples": [
+      {
+        "en": "We reached the first milestone after the review.",
+        "zh": "评审后，我们达成了第一个里程碑。"
+      },
+      {
+        "en": "The pilot launch is our next milestone.",
+        "zh": "试点启动是我们的下一个里程碑。"
+      }
+    ]
+  },
+  {
+    "id": "V20261012-005",
+    "date": "2026-10-12",
+    "term": "priority",
+    "ipa": "praɪˈɔːr.ə.t̬i",
+    "pos": "n.",
+    "meaning": "需要优先处理的事项或优先程度",
+    "chunk": "set priorities",
+    "example": "We need to set priorities for the remaining work.",
+    "level": "核心",
+    "gloss": "优先事项；优先级",
+    "explanation": "需要优先处理的事项或优先程度",
+    "examples": [
+      {
+        "en": "We need to set priorities for the remaining work.",
+        "zh": "我们需要为剩余工作设定优先级。"
+      },
+      {
+        "en": "Safety remains our top priority.",
+        "zh": "安全仍是我们的首要任务。"
+      }
+    ]
+  },
+  {
+    "id": "V20261012-006",
+    "date": "2026-10-12",
+    "term": "constraint",
+    "ipa": "kənˈstreɪnt",
+    "pos": "n.",
+    "meaning": "限制可选方案的条件",
+    "chunk": "a resource constraint",
+    "example": "The main constraint is the number of available reviewers.",
+    "level": "提升",
+    "gloss": "限制条件",
+    "explanation": "限制可选方案的条件",
+    "examples": [
+      {
+        "en": "The main constraint is the number of available reviewers.",
+        "zh": "主要限制是可用评审人员的数量。"
+      },
+      {
+        "en": "Space is a serious constraint here.",
+        "zh": "这里的空间限制很大。"
+      }
+    ]
+  },
+  {
+    "id": "V20261012-007",
+    "date": "2026-10-12",
+    "term": "dependency",
+    "ipa": "dɪˈpen.dən.si",
+    "pos": "n.",
+    "meaning": "一项工作对另一项工作或条件的依赖",
+    "chunk": "identify dependencies",
+    "example": "Please identify dependencies before finalizing the schedule.",
+    "level": "提升",
+    "gloss": "依赖关系",
+    "explanation": "一项工作对另一项工作或条件的依赖",
+    "examples": [
+      {
+        "en": "Please identify dependencies before finalizing the schedule.",
+        "zh": "确定日程前，请识别各项依赖关系。"
+      },
+      {
+        "en": "This dependency could delay testing.",
+        "zh": "这项依赖关系可能延误测试。"
+      }
+    ]
+  },
+  {
+    "id": "V20261012-008",
+    "date": "2026-10-12",
+    "term": "assumption",
+    "ipa": "əˈsʌmp.ʃən",
+    "pos": "n.",
+    "meaning": "尚未证实但暂时作为规划基础的条件",
+    "chunk": "check an assumption",
+    "example": "This assumption needs to be checked with the supplier.",
+    "level": "核心",
+    "gloss": "假设",
+    "explanation": "尚未证实但暂时作为规划基础的条件",
+    "examples": [
+      {
+        "en": "This assumption needs to be checked with the supplier.",
+        "zh": "这项假设需要与供应商核实。"
+      },
+      {
+        "en": "Our estimate rests on that assumption.",
+        "zh": "我们的估算基于那项假设。"
+      }
+    ]
+  },
+  {
+    "id": "V20261012-009",
+    "date": "2026-10-12",
+    "term": "baseline",
+    "ipa": "ˈbeɪs.laɪn",
+    "pos": "n.",
+    "meaning": "用于比较后续变化的基准",
+    "chunk": "establish a baseline",
+    "example": "We need a baseline before measuring the improvement.",
+    "level": "提升",
+    "gloss": "基准",
+    "explanation": "用于比较后续变化的基准",
+    "examples": [
+      {
+        "en": "We need a baseline before measuring the improvement.",
+        "zh": "衡量改进前，我们需要一个基准。"
+      },
+      {
+        "en": "Last month's output provides a baseline.",
+        "zh": "上个月的产量提供了一个基准。"
+      }
+    ]
+  },
+  {
+    "id": "V20261012-010",
+    "date": "2026-10-12",
+    "term": "buffer",
+    "ipa": "ˈbʌf.ɚ",
+    "pos": "n.",
+    "meaning": "为应对不确定性预留的时间或资源",
+    "chunk": "a time buffer",
+    "example": "The plan includes a two-day buffer for review.",
+    "level": "提升",
+    "gloss": "缓冲时间或资源",
+    "explanation": "为应对不确定性预留的时间或资源",
+    "examples": [
+      {
+        "en": "The plan includes a two-day buffer for review.",
+        "zh": "计划为评审预留了两天缓冲时间。"
+      },
+      {
+        "en": "Keep a small buffer for unexpected costs.",
+        "zh": "为意外费用预留少量缓冲资金。"
+      }
+    ]
+  },
+  {
+    "id": "V20261012-011",
+    "date": "2026-10-12",
+    "term": "sequence",
+    "ipa": "ˈsiː.kwəns",
+    "pos": "n.",
+    "meaning": "行动或步骤的先后顺序",
+    "chunk": "the correct sequence",
+    "example": "Let's agree on the sequence of the remaining activities.",
+    "level": "核心",
+    "gloss": "顺序",
+    "explanation": "行动或步骤的先后顺序",
+    "examples": [
+      {
+        "en": "Let's agree on the sequence of the remaining activities.",
+        "zh": "我们来商定剩余活动的先后顺序。"
+      },
+      {
+        "en": "The assembly sequence has changed.",
+        "zh": "装配顺序已经改变。"
+      }
+    ]
+  },
+  {
+    "id": "V20261012-012",
+    "date": "2026-10-12",
+    "term": "capacity",
+    "ipa": "kəˈpæs.ə.t̬i",
+    "pos": "n.",
+    "meaning": "团队或系统能够承担工作的能力与数量",
+    "chunk": "available capacity",
+    "example": "We do not have enough capacity to start both projects.",
+    "level": "核心",
+    "gloss": "承载能力；产能",
+    "explanation": "团队或系统能够承担工作的能力与数量",
+    "examples": [
+      {
+        "en": "We do not have enough capacity to start both projects.",
+        "zh": "我们没有足够能力同时启动两个项目。"
+      },
+      {
+        "en": "The plant is operating at full capacity.",
+        "zh": "工厂正满负荷运转。"
+      }
+    ]
+  },
+  {
+    "id": "V20261012-013",
+    "date": "2026-10-12",
+    "term": "allocate",
+    "ipa": "ˈæl.ə.keɪt",
+    "pos": "v.",
+    "meaning": "把时间、人员或资源分配给某项工作",
+    "chunk": "allocate resources",
+    "example": "We should allocate more time to the initial review.",
+    "level": "提升",
+    "gloss": "分配",
+    "explanation": "把时间、人员或资源分配给某项工作",
+    "examples": [
+      {
+        "en": "We should allocate more time to the initial review.",
+        "zh": "我们应给初步评审分配更多时间。"
+      },
+      {
+        "en": "Allocate two engineers to the trial.",
+        "zh": "为试验分配两名工程师。"
+      }
+    ]
+  },
+  {
+    "id": "V20261012-014",
+    "date": "2026-10-12",
+    "term": "delegate",
+    "ipa": "ˈdel.ə.ɡeɪt",
+    "pos": "v.",
+    "meaning": "把具体任务及适当权限交给别人",
+    "chunk": "delegate a task",
+    "example": "You can delegate the data collection to another team member.",
+    "level": "提升",
+    "gloss": "委派",
+    "explanation": "把具体任务及适当权限交给别人",
+    "examples": [
+      {
+        "en": "You can delegate the data collection to another team member.",
+        "zh": "你可以把数据收集委派给另一位团队成员。"
+      },
+      {
+        "en": "Managers should delegate routine approvals.",
+        "zh": "经理应委派常规审批工作。"
+      }
+    ]
+  },
+  {
+    "id": "V20261012-015",
+    "date": "2026-10-12",
+    "term": "ownership",
+    "ipa": "ˈoʊ.nɚ.ʃɪp",
+    "pos": "n.",
+    "meaning": "对事项负责并推动到结果的责任归属",
+    "chunk": "take ownership",
+    "example": "Who will take ownership of this open item?",
+    "level": "核心",
+    "gloss": "责任归属",
+    "explanation": "对事项负责并推动到结果的责任归属",
+    "examples": [
+      {
+        "en": "Who will take ownership of this open item?",
+        "zh": "谁来负责推进这项未结事项？"
+      },
+      {
+        "en": "Clear ownership prevents duplicated work.",
+        "zh": "明确责任归属可避免重复工作。"
+      }
+    ]
+  },
+  {
+    "id": "V20261012-016",
+    "date": "2026-10-12",
+    "term": "accountable",
+    "ipa": "əˈkaʊn.t̬ə.bəl",
+    "pos": "adj.",
+    "meaning": "需要对最终结果作出解释并承担责任的",
+    "chunk": "accountable for the outcome",
+    "example": "One person must be accountable for the final decision.",
+    "level": "提升",
+    "gloss": "须对结果负责的",
+    "explanation": "需要对最终结果作出解释并承担责任的",
+    "examples": [
+      {
+        "en": "One person must be accountable for the final decision.",
+        "zh": "必须有一个人对最终决定负责。"
+      },
+      {
+        "en": "The director is accountable for quality.",
+        "zh": "总监须对质量负责。"
+      }
+    ]
+  },
+  {
+    "id": "V20261012-017",
+    "date": "2026-10-12",
+    "term": "deadline",
+    "ipa": "ˈded.laɪn",
+    "pos": "n.",
+    "meaning": "必须完成某事的最后期限",
+    "chunk": "meet a deadline",
+    "example": "We need a decision today to meet the deadline.",
+    "level": "核心",
+    "gloss": "截止期限",
+    "explanation": "必须完成某事的最后期限",
+    "examples": [
+      {
+        "en": "We need a decision today to meet the deadline.",
+        "zh": "为赶上截止期限，我们今天需要作出决定。"
+      },
+      {
+        "en": "The submission deadline is Monday.",
+        "zh": "提交截止日期是周一。"
+      }
+    ]
+  }
+]

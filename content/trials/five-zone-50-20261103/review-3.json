@@ -1,0 +1,742 @@
+{
+  "reviewer": "trial_reviewer_3",
+  "scope": "trial_not_production",
+  "entries": [
+    {
+      "cardId": "V20261012-055",
+      "contentHash": "834d0f64f332ac61ae758855f8558d5189ee3bcc5c71140655199f523dd6c936",
+      "sourceEvidenceHash": "043fbddb269477c1eb2c6ed9eacc01845775e8fa4a6ef470918f7006c2c1b58d",
+      "reviewer": "trial_reviewer_3",
+      "decision": "APPROVE",
+      "hardGates": "PASS",
+      "scores": {
+        "accuracy": 5,
+        "readability": 4,
+        "explanation": 4,
+        "transfer": 5,
+        "efficiency": 4
+      },
+      "reasons": {
+        "accuracy": "建议名词义与可数用法正确；review不蕴含approve，before说明会前时限。",
+        "readability": "会前读方案的场景直观；01句略长但易理解。",
+        "explanation": "proposal/decision以考虑和决定的阶段差异说明为何不能推定批准。",
+        "transfer": "04读并记疑问、05补估算成本均为自然且有时机的自编表达。",
+        "efficiency": "五区分别增加搭配、句法、辨析、回应和信息请求；未批准提醒稍有重复。"
+      },
+      "issues": [],
+      "sourceChecks": [
+        {
+          "sourceId": "lex",
+          "url": "https://dictionary.cambridge.org/dictionary/english/proposal",
+          "checkedAt": "2026-11-03",
+          "method": "index_excerpt",
+          "result": "PASS",
+          "note": "名词建议及Business建议方案义可见。"
+        },
+        {
+          "sourceId": "meeting",
+          "url": "https://learnenglish.britishcouncil.org/sites/podcasts/files/LearnEnglish-Business-magazine-Managingmeetings.pdf",
+          "checkedAt": "2026-11-03",
+          "method": "full_page",
+          "result": "PASS",
+          "note": "独立打开PDF正文pp.1–2第1/3/5/6节：议程、澄清记录和收尾原则相符；只支持教学方法，不证明自编工作事实。"
+        }
+      ]
+    },
+    {
+      "cardId": "V20261012-056",
+      "contentHash": "b54985684f6086fd047d2b2f9ca613d192975fa22a3eb03889b97f77ae2f715a",
+      "sourceEvidenceHash": "651cbd8e7425ce4bf22b5a37e5583acf3cbdf06ff9eb1ffb2d53b70b0d427de9",
+      "reviewer": "trial_reviewer_3",
+      "decision": "APPROVE",
+      "hardGates": "PASS",
+      "scores": {
+        "accuracy": 4,
+        "readability": 4,
+        "explanation": 4,
+        "transfer": 5,
+        "efficiency": 4
+      },
+      "reasons": {
+        "accuracy": "名词alternative及alternative to结构正确；当前替代义有索引支持。",
+        "readability": "路线类比具体；日期过紧的中文略生硬，但不改变输入含义。",
+        "explanation": "将option泛选项与本句alternative替代重点联系，而非硬分互斥同义词。",
+        "transfer": "04候选日期回应与05备用供应商询问可迁移，且说明也能换其他安排。",
+        "efficiency": "不存在已选择更优方案的夸大；对替代非保证的提醒出现两次。"
+      },
+      "issues": [],
+      "sourceChecks": [
+        {
+          "sourceId": "lex",
+          "url": "https://dictionary.cambridge.org/us/dictionary/english/alternative?topic=unique-and-unusual",
+          "checkedAt": "2026-11-03",
+          "method": "index_excerpt",
+          "result": "PASS",
+          "note": "名词可数、另一选择义可见。"
+        },
+        {
+          "sourceId": "meeting",
+          "url": "https://learnenglish.britishcouncil.org/sites/podcasts/files/LearnEnglish-Business-magazine-Managingmeetings.pdf",
+          "checkedAt": "2026-11-03",
+          "method": "full_page",
+          "result": "PASS",
+          "note": "独立打开PDF正文pp.1–2第1/3/5/6节：议程、澄清记录和收尾原则相符；只支持教学方法，不证明自编工作事实。"
+        }
+      ]
+    },
+    {
+      "cardId": "V20261012-057",
+      "contentHash": "322863311c900e97cfb356b4e5de3746b2b2d59d99df8f6fcb37e31e95e547f1",
+      "sourceEvidenceHash": "580ed6f033dbc502103fb526a68188d5b158420e96e99d1dc1fa8a72d1e03eae",
+      "reviewer": "trial_reviewer_3",
+      "decision": "APPROVE",
+      "hardGates": "PASS",
+      "scores": {
+        "accuracy": 5,
+        "readability": 4,
+        "explanation": 5,
+        "transfer": 4,
+        "efficiency": 4
+      },
+      "reasons": {
+        "accuracy": "达成折中名词义、reach a compromise on和过去式正确；未虚构让步明细。",
+        "readability": "两边调整要求的说明容易理解；时间表达成可读为时间表/达成。",
+        "explanation": "agreement与compromise的让步信息差、让步不必等量都解释到位。",
+        "transfer": "04确认修订日期及05协商交期表达自然，后续要求指出可让步部分。",
+        "efficiency": "每区有新信息；04真实团队免责句略打断教学，但无重大冗余。"
+      },
+      "issues": [],
+      "sourceChecks": [
+        {
+          "sourceId": "lex",
+          "url": "https://dictionary.cambridge.org/dictionary/english/compromise",
+          "checkedAt": "2026-11-03",
+          "method": "index_excerpt",
+          "result": "PASS",
+          "note": "名词agreement及降低要求义可见。"
+        },
+        {
+          "sourceId": "meeting",
+          "url": "https://learnenglish.britishcouncil.org/sites/podcasts/files/LearnEnglish-Business-magazine-Managingmeetings.pdf",
+          "checkedAt": "2026-11-03",
+          "method": "full_page",
+          "result": "PASS",
+          "note": "独立打开PDF正文pp.1–2第1/3/5/6节：议程、澄清记录和收尾原则相符；只支持教学方法，不证明自编工作事实。"
+        }
+      ]
+    },
+    {
+      "cardId": "V20261012-058",
+      "contentHash": "f7d56de06a31beb79680eb482ad426ede63eaee392c4c0f82f48aadb67555b09",
+      "sourceEvidenceHash": "65be35d9b325766c644878857cf68ba3ec720c1ca50c5376d1cd0d3c42203d3b",
+      "reviewer": "trial_reviewer_3",
+      "decision": "APPROVE",
+      "hardGates": "PASS",
+      "scores": {
+        "accuracy": 5,
+        "readability": 4,
+        "explanation": 4,
+        "transfer": 5,
+        "efficiency": 4
+      },
+      "reasons": {
+        "accuracy": "及物negotiate a deadline和with someone正确；may need to保留未谈成状态。",
+        "readability": "以期限这一具体对象解释，读者无需抽象谈判术语。",
+        "explanation": "discuss/negotiate区别落在达成可接受条件的目标，未把动词解释为保证成功。",
+        "transfer": "04问可实现日期，05以测试时间说明调整理由，均自然且可操作。",
+        "efficiency": "动词目标与语用目的有少量复述，整体内容仍紧凑。"
+      },
+      "issues": [],
+      "sourceChecks": [
+        {
+          "sourceId": "lex",
+          "url": "https://dictionary.cambridge.org/dictionary/english/negotiate?topic=debate-and-discussion",
+          "checkedAt": "2026-11-03",
+          "method": "index_excerpt",
+          "result": "PASS",
+          "note": "DISCUSS及物/不及物、以达成协议为目的义可见。"
+        },
+        {
+          "sourceId": "meeting",
+          "url": "https://learnenglish.britishcouncil.org/sites/podcasts/files/LearnEnglish-Business-magazine-Managingmeetings.pdf",
+          "checkedAt": "2026-11-03",
+          "method": "full_page",
+          "result": "PASS",
+          "note": "独立打开PDF正文pp.1–2第1/3/5/6节：议程、澄清记录和收尾原则相符；只支持教学方法，不证明自编工作事实。"
+        }
+      ]
+    },
+    {
+      "cardId": "V20261012-059",
+      "contentHash": "cd57ba8ec4ad0fbaba35009f7178a91b5b82763ee434ca9ef99577a81552bb79",
+      "sourceEvidenceHash": "681d67c5916c594e81ca08179fbaba46fe59612ac843332c6214ce79e706d5b7",
+      "reviewer": "trial_reviewer_3",
+      "decision": "APPROVE",
+      "hardGates": "PASS",
+      "scores": {
+        "accuracy": 5,
+        "readability": 4,
+        "explanation": 5,
+        "transfer": 4,
+        "efficiency": 4
+      },
+      "reasons": {
+        "accuracy": "会议结束义和conclude that判断义区分准确；by confirming方式正确。",
+        "readability": "通过meeting与that两个可见框架选义，首读清楚。",
+        "explanation": "end/summarise辨析说明收尾与概括不同，且回到确认next steps。",
+        "transfer": "04给一项行动承诺并要求核对其他任务，05用于报告收束自然。",
+        "efficiency": "结尾未解决问题的说明有效；收尾不等于全员同意属于适当限制。"
+      },
+      "issues": [],
+      "sourceChecks": [
+        {
+          "sourceId": "lex",
+          "url": "https://dictionary.cambridge.org/dictionary/english/conclude",
+          "checkedAt": "2026-11-03",
+          "method": "index_excerpt",
+          "result": "PASS",
+          "note": "FINISH和JUDGE以及by用法可见。"
+        },
+        {
+          "sourceId": "meeting",
+          "url": "https://learnenglish.britishcouncil.org/sites/podcasts/files/LearnEnglish-Business-magazine-Managingmeetings.pdf",
+          "checkedAt": "2026-11-03",
+          "method": "full_page",
+          "result": "PASS",
+          "note": "独立打开PDF正文pp.1–2第1/3/5/6节：议程、澄清记录和收尾原则相符；只支持教学方法，不证明自编工作事实。"
+        }
+      ]
+    },
+    {
+      "cardId": "V20261012-060",
+      "contentHash": "9a0635ee780f8f3e1a5caac5762427c24573d8c14de6eab9fa21ef3ffb70fd88",
+      "sourceEvidenceHash": "78914dbb741a71309cc3c70c1779ddf983715e4809b2aa29888a0b0433812519",
+      "reviewer": "trial_reviewer_3",
+      "decision": "APPROVE",
+      "hardGates": "PASS",
+      "scores": {
+        "accuracy": 5,
+        "readability": 5,
+        "explanation": 4,
+        "transfer": 5,
+        "efficiency": 4
+      },
+      "reasons": {
+        "accuracy": "document此处是记录动词；并列宾语与it指decision准确，无纸本限定。",
+        "readability": "名词文件到动作留记录的转换简洁，两个对象清楚。",
+        "explanation": "记录与讨论的不同结果可懂，record邻词解释略简但无错误。",
+        "transfer": "04将决定和理由都加入纪要；05流程变化记录自然且有适用时机。",
+        "efficiency": "两对象回应与审批边界各有作用，01与03留可查记录略重叠。"
+      },
+      "issues": [],
+      "sourceChecks": [
+        {
+          "sourceId": "lex",
+          "url": "https://dictionary.cambridge.org/dictionary/english/document",
+          "checkedAt": "2026-11-03",
+          "method": "index_excerpt",
+          "result": "PASS",
+          "note": "verb [T]记录详情、名词文件分别可见。"
+        },
+        {
+          "sourceId": "meeting",
+          "url": "https://learnenglish.britishcouncil.org/sites/podcasts/files/LearnEnglish-Business-magazine-Managingmeetings.pdf",
+          "checkedAt": "2026-11-03",
+          "method": "full_page",
+          "result": "PASS",
+          "note": "独立打开PDF正文pp.1–2第1/3/5/6节：议程、澄清记录和收尾原则相符；只支持教学方法，不证明自编工作事实。"
+        }
+      ]
+    },
+    {
+      "cardId": "V20261012-061",
+      "contentHash": "61f83ef256957391c73a07e99c58835e4646a72ff5d282f18f79ea24fd09e228",
+      "sourceEvidenceHash": "966451670b4daa4349a5c554accb74054218bb8bbcc95a4aa57085670cd5504c",
+      "reviewer": "trial_reviewer_3",
+      "decision": "APPROVE",
+      "hardGates": "PASS",
+      "scores": {
+        "accuracy": 5,
+        "readability": 4,
+        "explanation": 5,
+        "transfer": 5,
+        "efficiency": 4
+      },
+      "reasons": {
+        "accuracy": "follow up动词与follow-up名词/定语区分正确；follow up on it语序正确。",
+        "readability": "前后两次关联的记忆提示直观；下一次触点略抽象但后文信息回报明确。",
+        "explanation": "跟进/start/finish及open未结的区分避免误报完成。",
+        "transfer": "04请求告知所发现情况，05明确对象与下午时间，自编措辞自然。",
+        "efficiency": "动词整体学习和承诺边界各有增益；未展开follow it up替代形式不构成错误。"
+      },
+      "issues": [],
+      "sourceChecks": [
+        {
+          "sourceId": "lex",
+          "url": "https://dictionary.cambridge.org/dictionary/english/follow-up",
+          "checkedAt": "2026-11-03",
+          "method": "index_excerpt",
+          "result": "PASS",
+          "note": "follow something up及follow up on、follow-up noun/adjective均可见。"
+        },
+        {
+          "sourceId": "meeting",
+          "url": "https://learnenglish.britishcouncil.org/sites/podcasts/files/LearnEnglish-Business-magazine-Managingmeetings.pdf",
+          "checkedAt": "2026-11-03",
+          "method": "full_page",
+          "result": "PASS",
+          "note": "独立打开PDF正文pp.1–2第1/3/5/6节：议程、澄清记录和收尾原则相符；只支持教学方法，不证明自编工作事实。"
+        },
+        {
+          "sourceId": "grammar",
+          "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/phrasal-verbs",
+          "checkedAt": "2026-11-03",
+          "method": "index_excerpt",
+          "result": "PASS",
+          "note": "Reviewer两次open超时，改核原站搜索索引可见主课：可分代词置中、不可分宾语置后；仅用于结构方法，Writer full_page是其自述读取记录，不冒充Reviewer读取方式。"
+        }
+      ]
+    },
+    {
+      "cardId": "V20261012-062",
+      "contentHash": "ec5e816efef020042189a1ed9f58574e3a6c33222ac3bdb76747a92ea0cabba8",
+      "sourceEvidenceHash": "a1fe3961b9601a6e1dd6506922f81205c3b294fa146ae0e18da446d6f624604e",
+      "reviewer": "trial_reviewer_3",
+      "decision": "APPROVE",
+      "hardGates": "PASS",
+      "scores": {
+        "accuracy": 5,
+        "readability": 5,
+        "explanation": 5,
+        "transfer": 5,
+        "efficiency": 4
+      },
+      "reasons": {
+        "accuracy": "TALK义及bring it up可分代词结构均获词典和BC索引支持；未误用养育义。",
+        "readability": "把话题放桌面类比及发言预告说明直接清楚。",
+        "explanation": "引入话题与展开讨论分工、提出与解决区别有具体会议顺序。",
+        "transfer": "04Go ahead自然，也保留另议可能；05约下次会议议题可直接使用。",
+        "efficiency": "五区任务分明，末尾议程建议稍多但仍帮助迁移。"
+      },
+      "issues": [],
+      "sourceChecks": [
+        {
+          "sourceId": "lex",
+          "url": "https://dictionary.cambridge.org/dictionary/english/bring-up",
+          "checkedAt": "2026-11-03",
+          "method": "index_excerpt",
+          "result": "PASS",
+          "note": "bring something up TALK与bring someone up CARE并列可见。"
+        },
+        {
+          "sourceId": "meeting",
+          "url": "https://learnenglish.britishcouncil.org/sites/podcasts/files/LearnEnglish-Business-magazine-Managingmeetings.pdf",
+          "checkedAt": "2026-11-03",
+          "method": "full_page",
+          "result": "PASS",
+          "note": "独立打开PDF正文pp.1–2第1/3/5/6节：议程、澄清记录和收尾原则相符；只支持教学方法，不证明自编工作事实。"
+        },
+        {
+          "sourceId": "grammar",
+          "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/phrasal-verbs",
+          "checkedAt": "2026-11-03",
+          "method": "index_excerpt",
+          "result": "PASS",
+          "note": "Reviewer两次open超时，改核原站搜索索引可见主课：可分代词置中、不可分宾语置后；仅用于结构方法，Writer full_page是其自述读取记录，不冒充Reviewer读取方式。"
+        }
+      ]
+    },
+    {
+      "cardId": "V20261012-063",
+      "contentHash": "90b757b39e2b38799e748d4f4d54878b2e64e63b13939dfd3857654b2b96213a",
+      "sourceEvidenceHash": "bc4b3aa6e709e81dd5f83fc46c19d4d72a778106bfa4b40e12d1e750b22adff3",
+      "reviewer": "trial_reviewer_3",
+      "decision": "APPROVE",
+      "hardGates": "PASS",
+      "scores": {
+        "accuracy": 5,
+        "readability": 4,
+        "explanation": 5,
+        "transfer": 5,
+        "efficiency": 4
+      },
+      "reasons": {
+        "accuracy": "walk someone through something框架正确，人与内容位置分明，不是名词冒充动词。",
+        "readability": "路线逐站类比具体；walkthrough式混合表达略不如纯中文顺。",
+        "explanation": "explain泛解释、walk through逐步引导、summary概括的比较对应实际学习需求。",
+        "transfer": "04从里程碑开始及05表单操作请求自然；说明可能卡点而非虚构事实。",
+        "efficiency": "语义、句法和操作场景各有信息；无需强行增加可分术语。"
+      },
+      "issues": [],
+      "sourceChecks": [
+        {
+          "sourceId": "lex",
+          "url": "https://dictionary.cambridge.org/us/dictionary/english/walk-through?topic=defining-and-explaining",
+          "checkedAt": "2026-11-03",
+          "method": "index_excerpt",
+          "result": "PASS",
+          "note": "walk someone through something解释/示范义可见，区别于练习义和名词。"
+        },
+        {
+          "sourceId": "meeting",
+          "url": "https://learnenglish.britishcouncil.org/sites/podcasts/files/LearnEnglish-Business-magazine-Managingmeetings.pdf",
+          "checkedAt": "2026-11-03",
+          "method": "full_page",
+          "result": "PASS",
+          "note": "独立打开PDF正文pp.1–2第1/3/5/6节：议程、澄清记录和收尾原则相符；只支持教学方法，不证明自编工作事实。"
+        },
+        {
+          "sourceId": "grammar",
+          "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/phrasal-verbs",
+          "checkedAt": "2026-11-03",
+          "method": "index_excerpt",
+          "result": "PASS",
+          "note": "Reviewer两次open超时，改核原站搜索索引可见主课：可分代词置中、不可分宾语置后；仅用于结构方法，Writer full_page是其自述读取记录，不冒充Reviewer读取方式。"
+        }
+      ]
+    },
+    {
+      "cardId": "V20261012-064",
+      "contentHash": "06bbddb18aae25640d4b5c2fb530f7676efd6119b10d57805aef7b291bf0d91e",
+      "sourceEvidenceHash": "f7d818a5b484a3cef86c382c99ad7cb6f2dbd73e6cf61eb7c5cc55bcb0344eac",
+      "reviewer": "trial_reviewer_3",
+      "decision": "APPROVE",
+      "hardGates": "PASS",
+      "scores": {
+        "accuracy": 5,
+        "readability": 4,
+        "explanation": 4,
+        "transfer": 5,
+        "efficiency": 4
+      },
+      "reasons": {
+        "accuracy": "提醒信息义、point out that结构与非必然批评正确；point it out属于可分结构，本稿未写错。",
+        "readability": "你看这里提示易懂；02句子成分稍多但对象清楚。",
+        "explanation": "mention顺带提与point out引起注意区别恰当，point与point out分清。",
+        "transfer": "04被明确标为后续追问，差异说出后问成本合理；05报价不含运费表达自然。",
+        "efficiency": "信息提醒在01/03有少量重复；05增加可核验条件，整体有效。"
+      },
+      "issues": [],
+      "sourceChecks": [
+        {
+          "sourceId": "lex",
+          "url": "https://dictionary.cambridge.org/us/dictionary/english/point-out",
+          "checkedAt": "2026-11-03",
+          "method": "index_excerpt",
+          "result": "PASS",
+          "note": "point something out信息义及that从句可见。"
+        },
+        {
+          "sourceId": "meeting",
+          "url": "https://learnenglish.britishcouncil.org/sites/podcasts/files/LearnEnglish-Business-magazine-Managingmeetings.pdf",
+          "checkedAt": "2026-11-03",
+          "method": "full_page",
+          "result": "PASS",
+          "note": "独立打开PDF正文pp.1–2第1/3/5/6节：议程、澄清记录和收尾原则相符；只支持教学方法，不证明自编工作事实。"
+        },
+        {
+          "sourceId": "grammar",
+          "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/phrasal-verbs",
+          "checkedAt": "2026-11-03",
+          "method": "index_excerpt",
+          "result": "PASS",
+          "note": "Reviewer两次open超时，改核原站搜索索引可见主课：可分代词置中、不可分宾语置后；仅用于结构方法，Writer full_page是其自述读取记录，不冒充Reviewer读取方式。"
+        }
+      ]
+    },
+    {
+      "cardId": "V20261012-065",
+      "contentHash": "152959d91736229416e9da1b1f1d10b26af7be485e037d29828df48736ccd9fe",
+      "sourceEvidenceHash": "99adc4c1d2f15c286bcdb57a5f32549f5d861222a6bcd4ade6484d15a9c32d30",
+      "reviewer": "trial_reviewer_3",
+      "decision": "APPROVE",
+      "hardGates": "PASS",
+      "scores": {
+        "accuracy": 5,
+        "readability": 5,
+        "explanation": 5,
+        "transfer": 5,
+        "efficiency": 4
+      },
+      "reasons": {
+        "accuracy": "cannot rule out仅保留可能、无概率量化准确；名词宾语位置正确。",
+        "readability": "划掉清单类比结合否定词，首读就能掌握方向。",
+        "explanation": "unlikely/ruled out/expect的强度关系说明充分，不偷换可能与预测。",
+        "transfer": "04问风险评估资料，05调查排期错误自然，并保持尚未确认状态。",
+        "efficiency": "五区有清晰推进；后两区均提醒不把可能当事实，略重复。"
+      },
+      "issues": [],
+      "sourceChecks": [
+        {
+          "sourceId": "lex",
+          "url": "https://dictionary.cambridge.org/dictionary/english/rule-out",
+          "checkedAt": "2026-11-03",
+          "method": "index_excerpt",
+          "result": "PASS",
+          "note": "rule something or someone out及American停止考虑可能义可见。"
+        },
+        {
+          "sourceId": "meeting",
+          "url": "https://learnenglish.britishcouncil.org/sites/podcasts/files/LearnEnglish-Business-magazine-Managingmeetings.pdf",
+          "checkedAt": "2026-11-03",
+          "method": "full_page",
+          "result": "PASS",
+          "note": "独立打开PDF正文pp.1–2第1/3/5/6节：议程、澄清记录和收尾原则相符；只支持教学方法，不证明自编工作事实。"
+        },
+        {
+          "sourceId": "grammar",
+          "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/phrasal-verbs",
+          "checkedAt": "2026-11-03",
+          "method": "index_excerpt",
+          "result": "PASS",
+          "note": "Reviewer两次open超时，改核原站搜索索引可见主课：可分代词置中、不可分宾语置后；仅用于结构方法，Writer full_page是其自述读取记录，不冒充Reviewer读取方式。"
+        }
+      ]
+    },
+    {
+      "cardId": "V20261012-066",
+      "contentHash": "d8f85bd62739084269a5e22fdc2b7def68e72f1228b3cb01c06b7a5f5710729e",
+      "sourceEvidenceHash": "49a2c7c372594a5968f8ca1861c3e2083f233b197d799d554bf1f1ecf54b9d1d",
+      "reviewer": "trial_reviewer_3",
+      "decision": "APPROVE",
+      "hardGates": "PASS",
+      "scores": {
+        "accuracy": 5,
+        "readability": 5,
+        "explanation": 4,
+        "transfer": 5,
+        "efficiency": 4
+      },
+      "reasons": {
+        "accuracy": "hold off on加名词或动名词、hold off doing均有词典支持；until等待条件正确。",
+        "readability": "先放一下和解除条件都具体，中文好理解。",
+        "explanation": "暂缓/cancel区别准确；postpone邻词虽简略仍说明本句关键在条件。",
+        "transfer": "04答应分享结果、05核数字后发报告均自然，并指出等待后的动作。",
+        "efficiency": "解除条件贯穿几区但场景不同，未堆砌同义译文。"
+      },
+      "issues": [],
+      "sourceChecks": [
+        {
+          "sourceId": "lex",
+          "url": "https://dictionary.cambridge.org/dictionary/english/hold-off",
+          "checkedAt": "2026-11-03",
+          "method": "index_excerpt",
+          "result": "PASS",
+          "note": "NOT DO中doing/on doing及Business on sth均可见。"
+        },
+        {
+          "sourceId": "meeting",
+          "url": "https://learnenglish.britishcouncil.org/sites/podcasts/files/LearnEnglish-Business-magazine-Managingmeetings.pdf",
+          "checkedAt": "2026-11-03",
+          "method": "full_page",
+          "result": "PASS",
+          "note": "独立打开PDF正文pp.1–2第1/3/5/6节：议程、澄清记录和收尾原则相符；只支持教学方法，不证明自编工作事实。"
+        },
+        {
+          "sourceId": "grammar",
+          "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/phrasal-verbs",
+          "checkedAt": "2026-11-03",
+          "method": "index_excerpt",
+          "result": "PASS",
+          "note": "Reviewer两次open超时，改核原站搜索索引可见主课：可分代词置中、不可分宾语置后；仅用于结构方法，Writer full_page是其自述读取记录，不冒充Reviewer读取方式。"
+        }
+      ]
+    },
+    {
+      "cardId": "V20261012-067",
+      "contentHash": "9f189c7864ca01933cae55027cdac1f6c9607f0e28f8da2d67401ff6f276dffe",
+      "sourceEvidenceHash": "fb70319732c878932b3818c11593bd36de35b022b8a484c1e1ab6a8c21ac27a6",
+      "reviewer": "trial_reviewer_3",
+      "decision": "APPROVE",
+      "hardGates": "PASS",
+      "scores": {
+        "accuracy": 5,
+        "readability": 5,
+        "explanation": 5,
+        "transfer": 5,
+        "efficiency": 4
+      },
+      "reasons": {
+        "accuracy": "Oxford原页明确work around something未消除问题，关联名词workaround；当前结构和without限制正确。",
+        "readability": "路障与路线类比清楚，动词和办法名词易分。",
+        "explanation": "solve与work around的结果差异用存储限制情境说明，明确为自编。",
+        "transfer": "04分批仅作候选，05分文件方案说明可行性核对，can/could处理谨慎且自然。",
+        "efficiency": "五区覆盖形式、限制、效果和回应；验证可行性说明稍重复。"
+      },
+      "issues": [],
+      "sourceChecks": [
+        {
+          "sourceId": "lex",
+          "url": "https://www.oxfordlearnersdictionaries.com/us/definition/english/work-around",
+          "checkedAt": "2026-11-03",
+          "method": "full_page",
+          "result": "PASS",
+          "note": "原页work around something第1义与related noun workaround可见。"
+        },
+        {
+          "sourceId": "meeting",
+          "url": "https://learnenglish.britishcouncil.org/sites/podcasts/files/LearnEnglish-Business-magazine-Managingmeetings.pdf",
+          "checkedAt": "2026-11-03",
+          "method": "full_page",
+          "result": "PASS",
+          "note": "独立打开PDF正文pp.1–2第1/3/5/6节：议程、澄清记录和收尾原则相符；只支持教学方法，不证明自编工作事实。"
+        },
+        {
+          "sourceId": "grammar",
+          "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/phrasal-verbs",
+          "checkedAt": "2026-11-03",
+          "method": "index_excerpt",
+          "result": "PASS",
+          "note": "Reviewer两次open超时，改核原站搜索索引可见主课：可分代词置中、不可分宾语置后；仅用于结构方法，Writer full_page是其自述读取记录，不冒充Reviewer读取方式。"
+        }
+      ]
+    },
+    {
+      "cardId": "V20261012-068",
+      "contentHash": "f555072d4bb1dc24d6adc5e34868041314ef79f4217e6cb4faced2c7cc68423a",
+      "sourceEvidenceHash": "f3453fa480f878c5f06ed64f45562b8136fec00ef572c79274a7a2b4a4a9a3bb",
+      "reviewer": "trial_reviewer_3",
+      "decision": "APPROVE",
+      "hardGates": "PASS",
+      "scores": {
+        "accuracy": 4,
+        "readability": 5,
+        "explanation": 4,
+        "transfer": 5,
+        "efficiency": 4
+      },
+      "reasons": {
+        "accuracy": "承担任务义获Woodward首节支持；cannot与this week按本句能力限制解读合理，未泛化所有take on。",
+        "readability": "把责任接到手上、只限定本周等中文直观。",
+        "explanation": "take on接受与work on处理强调点清楚；work on可用于未来，并不本身表示进行时，此处着重正在处理按本句工作阶段理解。",
+        "transfer": "04询问下周、05以任务转派为接受条件自然，保留团队确认。",
+        "efficiency": "五区各有角色；接单/执行类比简明但并非所有任务均为接单。"
+      },
+      "issues": [],
+      "sourceChecks": [
+        {
+          "sourceId": "lex",
+          "url": "https://www.woodwardenglish.com/lesson/take-on-phrasal-verb-meanings-examples/",
+          "checkedAt": "2026-11-03",
+          "method": "index_excerpt",
+          "result": "PASS",
+          "note": "第1节accept additional responsibility及任务例子可见。"
+        },
+        {
+          "sourceId": "meeting",
+          "url": "https://learnenglish.britishcouncil.org/sites/podcasts/files/LearnEnglish-Business-magazine-Managingmeetings.pdf",
+          "checkedAt": "2026-11-03",
+          "method": "full_page",
+          "result": "PASS",
+          "note": "独立打开PDF正文pp.1–2第1/3/5/6节：议程、澄清记录和收尾原则相符；只支持教学方法，不证明自编工作事实。"
+        },
+        {
+          "sourceId": "grammar",
+          "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/phrasal-verbs",
+          "checkedAt": "2026-11-03",
+          "method": "index_excerpt",
+          "result": "PASS",
+          "note": "Reviewer两次open超时，改核原站搜索索引可见主课：可分代词置中、不可分宾语置后；仅用于结构方法，Writer full_page是其自述读取记录，不冒充Reviewer读取方式。"
+        }
+      ]
+    },
+    {
+      "cardId": "V20261012-069",
+      "contentHash": "03d5053518ea2ef340f54cc6756fc46cb3806ca3906e7e5fde05d76205a9614f",
+      "sourceEvidenceHash": "dd4af210f1bef4d5fa16d4ca59e4d9b452bbbd96468d6d4407175e6410eed858",
+      "reviewer": "trial_reviewer_3",
+      "decision": "APPROVE",
+      "hardGates": "PASS",
+      "scores": {
+        "accuracy": 5,
+        "readability": 5,
+        "explanation": 5,
+        "transfer": 5,
+        "efficiency": 4
+      },
+      "reasons": {
+        "accuracy": "决策前考虑利弊义由英西词典可见英文定义支持；need to与before choosing结构正确。",
+        "readability": "天平图像与先比较后选择顺序简单明确。",
+        "explanation": "weigh up与choose/consider分别说明过程、结果和权衡重点，解释力强。",
+        "transfer": "04提出成本质量交期候选标准、05试验收益风险自然且可迁移。",
+        "efficiency": "反复强调未选定与比较过程略重复，但每区新增实践动作。"
+      },
+      "issues": [],
+      "sourceChecks": [
+        {
+          "sourceId": "lex",
+          "url": "https://dictionary.cambridge.org/us/dictionary/english-spanish/weigh-up",
+          "checkedAt": "2026-11-03",
+          "method": "index_excerpt",
+          "result": "PASS",
+          "note": "英西条目的英文利弊定义、weigh something up框架可见。"
+        },
+        {
+          "sourceId": "meeting",
+          "url": "https://learnenglish.britishcouncil.org/sites/podcasts/files/LearnEnglish-Business-magazine-Managingmeetings.pdf",
+          "checkedAt": "2026-11-03",
+          "method": "full_page",
+          "result": "PASS",
+          "note": "独立打开PDF正文pp.1–2第1/3/5/6节：议程、澄清记录和收尾原则相符；只支持教学方法，不证明自编工作事实。"
+        },
+        {
+          "sourceId": "grammar",
+          "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/phrasal-verbs",
+          "checkedAt": "2026-11-03",
+          "method": "index_excerpt",
+          "result": "PASS",
+          "note": "Reviewer两次open超时，改核原站搜索索引可见主课：可分代词置中、不可分宾语置后；仅用于结构方法，Writer full_page是其自述读取记录，不冒充Reviewer读取方式。"
+        }
+      ]
+    },
+    {
+      "cardId": "V20261012-070",
+      "contentHash": "95b62c5235cb9e4b818fe61ab206ba953c477cb4521e83b9269c948f2bf5367b",
+      "sourceEvidenceHash": "0555b37f8d397720c94f0a7606b2a1f838bc798c6f01aff4cb295b51f9d066ac",
+      "reviewer": "trial_reviewer_3",
+      "decision": "APPROVE",
+      "hardGates": "PASS",
+      "scores": {
+        "accuracy": 5,
+        "readability": 4,
+        "explanation": 5,
+        "transfer": 5,
+        "efficiency": 4
+      },
+      "reasons": {
+        "accuracy": "收尾义由Cambridge FINISH/Business支持；by confirming方式、owner任务负责人解释正确。",
+        "readability": "收拢事项类比易懂；05结束评审并列未结事项仍能理解收尾安排。",
+        "explanation": "wrap up/summarise区分结束与概括，未把总结设为必要条件。",
+        "transfer": "04用负责人加Friday同时回应两项确认；05保留未结问题自然、适合时间到。",
+        "efficiency": "五区均指向收尾动作，01与03不是必然总结提醒稍重复。"
+      },
+      "issues": [],
+      "sourceChecks": [
+        {
+          "sourceId": "lex",
+          "url": "https://dictionary.cambridge.org/dictionary/english/wrap-up",
+          "checkedAt": "2026-11-03",
+          "method": "index_excerpt",
+          "result": "PASS",
+          "note": "FINISH及Business收尾义、wrap it up可分形式可见。"
+        },
+        {
+          "sourceId": "meeting",
+          "url": "https://learnenglish.britishcouncil.org/sites/podcasts/files/LearnEnglish-Business-magazine-Managingmeetings.pdf",
+          "checkedAt": "2026-11-03",
+          "method": "full_page",
+          "result": "PASS",
+          "note": "独立打开PDF正文pp.1–2第1/3/5/6节：议程、澄清记录和收尾原则相符；只支持教学方法，不证明自编工作事实。"
+        },
+        {
+          "sourceId": "grammar",
+          "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/phrasal-verbs",
+          "checkedAt": "2026-11-03",
+          "method": "index_excerpt",
+          "result": "PASS",
+          "note": "Reviewer两次open超时，改核原站搜索索引可见主课：可分代词置中、不可分宾语置后；仅用于结构方法，Writer full_page是其自述读取记录，不冒充Reviewer读取方式。"
+        }
+      ]
+    }
+  ]
+}

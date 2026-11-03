@@ -1,0 +1,393 @@
+[
+  {
+    "id": "V20261012-018",
+    "date": "2026-10-12",
+    "term": "commitment",
+    "ipa": "kəˈmɪt.mənt",
+    "pos": "n.",
+    "meaning": "对具体行动或交付作出的明确承诺",
+    "chunk": "make a commitment",
+    "example": "Please confirm the conditions behind this commitment.",
+    "level": "核心",
+    "gloss": "承诺",
+    "explanation": "对具体行动或交付作出的明确承诺",
+    "examples": [
+      {
+        "en": "Please confirm the conditions behind this commitment.",
+        "zh": "请确认这项承诺所依据的条件。"
+      },
+      {
+        "en": "Do not make a commitment without approval.",
+        "zh": "未经批准不要作出承诺。"
+      }
+    ]
+  },
+  {
+    "id": "V20261012-019",
+    "date": "2026-10-12",
+    "term": "contingency",
+    "ipa": "kənˈtɪn.dʒən.si",
+    "pos": "n.",
+    "meaning": "可能发生且需要预先准备的意外情况",
+    "chunk": "a contingency plan",
+    "example": "We need a contingency plan if the reviewer is unavailable.",
+    "level": "挑战",
+    "gloss": "意外情况",
+    "explanation": "可能发生且需要预先准备的意外情况",
+    "examples": [
+      {
+        "en": "We need a contingency plan if the reviewer is unavailable.",
+        "zh": "如果评审人员无法参与，我们需要应急计划。"
+      },
+      {
+        "en": "The budget covers this contingency.",
+        "zh": "预算涵盖了这项意外情况。"
+      }
+    ]
+  },
+  {
+    "id": "V20261012-020",
+    "date": "2026-10-12",
+    "term": "trade-off",
+    "ipa": "ˈtreɪd.ɑːf",
+    "pos": "n.",
+    "meaning": "获得一项优势时需要付出的另一项代价",
+    "chunk": "a trade-off between speed and cost",
+    "example": "There is a trade-off between a faster delivery and a lower cost.",
+    "level": "提升",
+    "gloss": "取舍；权衡",
+    "explanation": "获得一项优势时需要付出的另一项代价",
+    "examples": [
+      {
+        "en": "There is a trade-off between a faster delivery and a lower cost.",
+        "zh": "更快交付与更低成本之间存在取舍。"
+      },
+      {
+        "en": "Every design involves a trade-off.",
+        "zh": "每项设计都涉及取舍。"
+      }
+    ]
+  },
+  {
+    "id": "V20261012-041",
+    "date": "2026-10-12",
+    "term": "agenda",
+    "ipa": "əˈdʒen.də",
+    "pos": "n.",
+    "meaning": "会议准备讨论的事项清单",
+    "chunk": "agree on the agenda",
+    "example": "Please send the agenda before the meeting.",
+    "level": "核心",
+    "gloss": "议程",
+    "explanation": "会议准备讨论的事项清单",
+    "examples": [
+      {
+        "en": "Please send the agenda before the meeting.",
+        "zh": "请在会议前发送议程。"
+      },
+      {
+        "en": "Add staffing to tomorrow's agenda.",
+        "zh": "把人员配置加入明天的议程。"
+      }
+    ]
+  },
+  {
+    "id": "V20261012-042",
+    "date": "2026-10-12",
+    "term": "context",
+    "ipa": "ˈkɑːn.tekst",
+    "pos": "n.",
+    "meaning": "理解当前事项所需的背景",
+    "chunk": "provide context",
+    "example": "Let me provide some context before we discuss the options.",
+    "level": "核心",
+    "gloss": "背景",
+    "explanation": "理解当前事项所需的背景",
+    "examples": [
+      {
+        "en": "Let me provide some context before we discuss the options.",
+        "zh": "讨论选项前，让我先提供一些背景。"
+      },
+      {
+        "en": "The chart needs more context.",
+        "zh": "这张图需要更多背景信息。"
+      }
+    ]
+  },
+  {
+    "id": "V20261012-043",
+    "date": "2026-10-12",
+    "term": "clarify",
+    "ipa": "ˈkler.ə.faɪ",
+    "pos": "v.",
+    "meaning": "把含糊的意思、范围或要求讲清楚",
+    "chunk": "clarify a requirement",
+    "example": "Could you clarify what is included in this request?",
+    "level": "核心",
+    "gloss": "澄清",
+    "explanation": "把含糊的意思、范围或要求讲清楚",
+    "examples": [
+      {
+        "en": "Could you clarify what is included in this request?",
+        "zh": "你能澄清这项请求包含什么吗？"
+      },
+      {
+        "en": "Please clarify the payment terms.",
+        "zh": "请澄清付款条件。"
+      }
+    ]
+  },
+  {
+    "id": "V20261012-044",
+    "date": "2026-10-12",
+    "term": "confirm",
+    "ipa": "kənˈfɝːm",
+    "pos": "v.",
+    "meaning": "确认信息、安排或双方理解是否成立",
+    "chunk": "confirm the owner",
+    "example": "Please confirm who will own the next action.",
+    "level": "核心",
+    "gloss": "确认",
+    "explanation": "确认信息、安排或双方理解是否成立",
+    "examples": [
+      {
+        "en": "Please confirm who will own the next action.",
+        "zh": "请确认谁将负责下一项行动。"
+      },
+      {
+        "en": "Confirm the quantity before ordering.",
+        "zh": "下单前确认数量。"
+      }
+    ]
+  },
+  {
+    "id": "V20261012-045",
+    "date": "2026-10-12",
+    "term": "specify",
+    "ipa": "ˈspes.ə.faɪ",
+    "pos": "v.",
+    "meaning": "明确写出或说出具体要求",
+    "chunk": "specify the conditions",
+    "example": "Please specify the conditions for accepting this proposal.",
+    "level": "提升",
+    "gloss": "明确说明",
+    "explanation": "明确写出或说出具体要求",
+    "examples": [
+      {
+        "en": "Please specify the conditions for accepting this proposal.",
+        "zh": "请明确说明接受此提案的条件。"
+      },
+      {
+        "en": "The contract specifies delivery dates.",
+        "zh": "合同明确规定交货日期。"
+      }
+    ]
+  },
+  {
+    "id": "V20261012-046",
+    "date": "2026-10-12",
+    "term": "elaborate",
+    "ipa": "iˈlæb.ə.reɪt",
+    "pos": "v.",
+    "meaning": "对已经说出的观点进一步详细说明",
+    "chunk": "elaborate on a point",
+    "example": "Could you elaborate on the concern about timing?",
+    "level": "提升",
+    "gloss": "详细说明",
+    "explanation": "对已经说出的观点进一步详细说明",
+    "examples": [
+      {
+        "en": "Could you elaborate on the concern about timing?",
+        "zh": "你能详细说明对时间安排的担忧吗？"
+      },
+      {
+        "en": "Could you elaborate on that risk?",
+        "zh": "你能详细说明那项风险吗？"
+      }
+    ]
+  },
+  {
+    "id": "V20261012-047",
+    "date": "2026-10-12",
+    "term": "summarize",
+    "ipa": "ˈsʌm.ə.raɪz",
+    "pos": "v.",
+    "meaning": "概括重点而不是重复全部细节",
+    "chunk": "summarize the discussion",
+    "example": "Let me summarize the decisions and remaining questions.",
+    "level": "核心",
+    "gloss": "概括",
+    "explanation": "概括重点而不是重复全部细节",
+    "examples": [
+      {
+        "en": "Let me summarize the decisions and remaining questions.",
+        "zh": "让我概括各项决定和剩余问题。"
+      },
+      {
+        "en": "Summarize the findings in one paragraph.",
+        "zh": "用一段话概括调查结果。"
+      }
+    ]
+  },
+  {
+    "id": "V20261012-048",
+    "date": "2026-10-12",
+    "term": "recap",
+    "ipa": "ˈriː.kæp",
+    "pos": "v.",
+    "meaning": "简短回顾已经讨论或发生的内容",
+    "chunk": "recap the main points",
+    "example": "Could you recap the main points for the new team member?",
+    "level": "提升",
+    "gloss": "简要回顾",
+    "explanation": "简短回顾已经讨论或发生的内容",
+    "examples": [
+      {
+        "en": "Could you recap the main points for the new team member?",
+        "zh": "你能为新成员简要回顾要点吗？"
+      },
+      {
+        "en": "Let's recap yesterday's decisions.",
+        "zh": "我们来简要回顾昨天的决定。"
+      }
+    ]
+  },
+  {
+    "id": "V20261012-049",
+    "date": "2026-10-12",
+    "term": "align",
+    "ipa": "əˈlaɪn",
+    "pos": "v.",
+    "meaning": "使目标、理解或安排彼此一致",
+    "chunk": "align on priorities",
+    "example": "We need to align on priorities before assigning the work.",
+    "level": "提升",
+    "gloss": "使一致；协调",
+    "explanation": "使目标、理解或安排彼此一致",
+    "examples": [
+      {
+        "en": "We need to align on priorities before assigning the work.",
+        "zh": "分配工作前，我们需要就优先级达成一致。"
+      },
+      {
+        "en": "Align the forecast with actual orders.",
+        "zh": "使预测与实际订单相符。"
+      }
+    ]
+  },
+  {
+    "id": "V20261012-050",
+    "date": "2026-10-12",
+    "term": "consensus",
+    "ipa": "kənˈsen.səs",
+    "pos": "n.",
+    "meaning": "团队对某个方向形成的普遍共识",
+    "chunk": "reach a consensus",
+    "example": "We reached a consensus on the main objective.",
+    "level": "提升",
+    "gloss": "共识",
+    "explanation": "团队对某个方向形成的普遍共识",
+    "examples": [
+      {
+        "en": "We reached a consensus on the main objective.",
+        "zh": "我们就主要目标达成了共识。"
+      },
+      {
+        "en": "There is no consensus on pricing.",
+        "zh": "定价问题尚无共识。"
+      }
+    ]
+  },
+  {
+    "id": "V20261012-051",
+    "date": "2026-10-12",
+    "term": "concern",
+    "ipa": "kənˈsɝːn",
+    "pos": "n.",
+    "meaning": "值得注意或让人担心的事项",
+    "chunk": "raise a concern",
+    "example": "My main concern is the time available for review.",
+    "level": "核心",
+    "gloss": "担忧；关注事项",
+    "explanation": "值得注意或让人担心的事项",
+    "examples": [
+      {
+        "en": "My main concern is the time available for review.",
+        "zh": "我主要担心可供评审的时间。"
+      },
+      {
+        "en": "Her concern about safety was valid.",
+        "zh": "她对安全的担忧有道理。"
+      }
+    ]
+  },
+  {
+    "id": "V20261012-052",
+    "date": "2026-10-12",
+    "term": "objection",
+    "ipa": "əbˈdʒek.ʃən",
+    "pos": "n.",
+    "meaning": "对提议明确表示反对的理由或意见",
+    "chunk": "raise an objection",
+    "example": "Does anyone have an objection to the revised sequence?",
+    "level": "提升",
+    "gloss": "反对意见",
+    "explanation": "对提议明确表示反对的理由或意见",
+    "examples": [
+      {
+        "en": "Does anyone have an objection to the revised sequence?",
+        "zh": "有人反对调整后的顺序吗？"
+      },
+      {
+        "en": "The supplier raised an objection.",
+        "zh": "供应商提出了反对意见。"
+      }
+    ]
+  },
+  {
+    "id": "V20261012-053",
+    "date": "2026-10-12",
+    "term": "reservation",
+    "ipa": "ˌrez.ɚˈveɪ.ʃən",
+    "pos": "n.",
+    "meaning": "尚未消除的保留意见或疑虑",
+    "chunk": "have reservations about",
+    "example": "I have reservations about committing before the review.",
+    "level": "提升",
+    "gloss": "保留意见；疑虑",
+    "explanation": "尚未消除的保留意见或疑虑",
+    "examples": [
+      {
+        "en": "I have reservations about committing before the review.",
+        "zh": "在评审前作出承诺，我有保留意见。"
+      },
+      {
+        "en": "She expressed reservations about the estimate.",
+        "zh": "她对估算表达了疑虑。"
+      }
+    ]
+  },
+  {
+    "id": "V20261012-054",
+    "date": "2026-10-12",
+    "term": "rationale",
+    "ipa": "ˌræʃ.əˈnæl",
+    "pos": "n.",
+    "meaning": "某项决定或方案背后的理由",
+    "chunk": "explain the rationale",
+    "example": "Could you explain the rationale for changing the priority?",
+    "level": "挑战",
+    "gloss": "理由；依据",
+    "explanation": "某项决定或方案背后的理由",
+    "examples": [
+      {
+        "en": "Could you explain the rationale for changing the priority?",
+        "zh": "你能解释改变优先级的理由吗？"
+      },
+      {
+        "en": "Record the rationale for each exception.",
+        "zh": "记录每项例外的理由。"
+      }
+    ]
+  }
+]
