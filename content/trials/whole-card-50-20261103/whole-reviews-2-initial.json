@@ -1,0 +1,2676 @@
+[
+  {
+    "cardId": "V20261012-018",
+    "ruleVersion": "whole-card/1",
+    "reviewer": "whole50_reviewer_group2",
+    "reviewedAt": "2026-11-04",
+    "fingerprint": "3b64b2e74a1d6ef538315369ffbcb67c78df4e89180b58a40759c7119fb4b734",
+    "sourceChecks": [
+      {
+        "sourceId": "lex",
+        "verdict": "SUPPORTED",
+        "note": "独立读取 https://www.oxfordlearnersdictionaries.com/definition/english/commitment 词性、读音与义项；与commitment当前义/词族边界一致。"
+      },
+      {
+        "sourceId": "history",
+        "verdict": "SUPPORTED",
+        "note": "独立读取 https://www.etymonline.com/word/commitment 正文：commit+-ment；早期拘押义与1793承诺分开。现代类比不当历史。"
+      }
+    ],
+    "modules": [
+      {
+        "id": "headword",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "commitment英式/kəˈmɪtmənt/、n.与Oxford条目一致",
+          "completion": "make a commitment与当前用法适合，IPA说明齐全",
+          "readability": "短字段可直接辨认词与词性",
+          "increment": "客观词头无须凑长解释；搭配帮助提取"
+        },
+        "issues": []
+      },
+      {
+        "id": "currentSense",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "a firm promise to take an action适合当前句；当前义不冒充所有词义",
+          "completion": "当前中英义与focused sense匹配，单词卡不需虚造拆词",
+          "readability": "当前中文：对具体行动或交付作出的明确承诺",
+          "increment": "与更多义项已分离，无相同sense重复"
+        },
+        "issues": []
+      },
+      {
+        "id": "directExplanation",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "桥接符合原句：对方已经答应了一件事，这里要追问：这个答应是建立在什么条件上的？比如交期是否以材料到齐为前",
+          "completion": "提供用法或具体场景，不只再译一次词头",
+          "readability": "汉语先交代发生什么，例子可直接想象",
+          "increment": "加入当前语境的具体推理，帮助从释义走到用途"
+        },
+        "issues": []
+      },
+      {
+        "id": "etymology",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "commit+-ment；早期拘押义与1793承诺分开；来自本次独立读取",
+          "completion": "历史、现代联系、当前用法三段均在；来源事实与记忆类比分开",
+          "readability": "少量拉丁词保留但有中文，当前回用与前区重复",
+          "increment": "历史新增理解；modern/current两段多重述五区，增量只给3"
+        },
+        "issues": []
+      },
+      {
+        "id": "context",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "原句与译文逐句一致：Please confirm the conditions behind this commitment.",
+          "completion": "英文、中文、本句抓手均存在",
+          "readability": "译文保持请求/陈述及否定/条件的语气",
+          "increment": "本句提供唯一学习语境，不要求另加泛化段落"
+        },
+        "issues": []
+      },
+      {
+        "id": "additionalSenses",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "独立核实扩展：commitment:投入；献身",
+          "completion": "不是当前sense复制；不同词性/同族lemma明确",
+          "readability": "额外义项用简短中英展示",
+          "increment": "不同义项有助消除日常多义混淆"
+        },
+        "issues": []
+      },
+      {
+        "id": "examples",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "已读全部原卡补充英中；用法属于当前义：Do not make a commitment without approval.",
+          "completion": "两例含本句及可见附加例句；明确教学性质",
+          "readability": "英文短句与中文对应清楚",
+          "increment": "附加句换应用对象或动作，提供独立练习"
+        },
+        "issues": []
+      },
+      {
+        "id": "copyPayload",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "冻结源码负载为 commitment 与 【深析】commitment",
+          "completion": "上下两组同一copies函数，约定字符串完整",
+          "readability": "无隐形释义或来源拼入负载",
+          "increment": "保持精确目标词，功能交互另由浏览器QA负责"
+        },
+        "issues": []
+      }
+    ]
+  },
+  {
+    "cardId": "V20261012-019",
+    "ruleVersion": "whole-card/1",
+    "reviewer": "whole50_reviewer_group2",
+    "reviewedAt": "2026-11-04",
+    "fingerprint": "69e024466667a8350bc0491b85672a34d495ef3e4ba13b48f837e3d7a0afdd5c",
+    "sourceChecks": [
+      {
+        "sourceId": "lex",
+        "verdict": "SUPPORTED",
+        "note": "独立读取 https://www.oxfordlearnersdictionaries.com/definition/english/contingency 词性、读音与义项；与contingency当前义/词族边界一致。"
+      },
+      {
+        "sourceId": "history",
+        "verdict": "SUPPORTED",
+        "note": "独立读取 https://www.etymonline.com/word/contingency 正文：contingent+-cy；可能事件与备用金均有记录。现代类比不当历史。"
+      }
+    ],
+    "modules": [
+      {
+        "id": "headword",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "contingency英式/kənˈtɪndʒənsi/、n.与Oxford条目一致",
+          "completion": "a contingency plan与当前用法适合，IPA说明齐全",
+          "readability": "短字段可直接辨认词与词性",
+          "increment": "客观词头无须凑长解释；搭配帮助提取"
+        },
+        "issues": []
+      },
+      {
+        "id": "currentSense",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 3,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "a possible future problem that needs preparation适合当前句；当前义不冒充所有词义",
+          "completion": "当前中英义与focused sense匹配，单词卡不需虚造拆词",
+          "readability": "当前中文：可能发生且需要预先准备的意外情况",
+          "increment": "与更多义项已分离，无相同sense重复"
+        },
+        "issues": []
+      },
+      {
+        "id": "directExplanation",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "桥接符合原句：不是说评审人已经缺席，而是提前问：如果他来不了，谁来接替？contingency 指可能出",
+          "completion": "提供用法或具体场景，不只再译一次词头",
+          "readability": "汉语先交代发生什么，例子可直接想象",
+          "increment": "加入当前语境的具体推理，帮助从释义走到用途"
+        },
+        "issues": []
+      },
+      {
+        "id": "etymology",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "contingent+-cy；可能事件与备用金均有记录；来自本次独立读取",
+          "completion": "历史、现代联系、当前用法三段均在；来源事实与记忆类比分开",
+          "readability": "少量拉丁词保留但有中文，当前回用与前区重复",
+          "increment": "历史新增理解；modern/current两段多重述五区，增量只给3"
+        },
+        "issues": []
+      },
+      {
+        "id": "context",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "原句与译文逐句一致：We need a contingency plan if the reviewer is unavailable.",
+          "completion": "英文、中文、本句抓手均存在",
+          "readability": "译文保持请求/陈述及否定/条件的语气",
+          "increment": "本句提供唯一学习语境，不要求另加泛化段落"
+        },
+        "issues": []
+      },
+      {
+        "id": "additionalSenses",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "独立核实扩展：contingency:备用金；应急款项",
+          "completion": "不是当前sense复制；不同词性/同族lemma明确",
+          "readability": "额外义项用简短中英展示",
+          "increment": "不同义项有助消除日常多义混淆"
+        },
+        "issues": []
+      },
+      {
+        "id": "examples",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "已读全部原卡补充英中；用法属于当前义：The budget covers this contingency.",
+          "completion": "两例含本句及可见附加例句；明确教学性质",
+          "readability": "预算涵盖意外情况略硬，涵盖相应费用更自然",
+          "increment": "预算场景提供新用途，但费用含义仍需读者补足"
+        },
+        "issues": []
+      },
+      {
+        "id": "copyPayload",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "冻结源码负载为 contingency 与 【深析】contingency",
+          "completion": "上下两组同一copies函数，约定字符串完整",
+          "readability": "无隐形释义或来源拼入负载",
+          "increment": "保持精确目标词，功能交互另由浏览器QA负责"
+        },
+        "issues": []
+      }
+    ]
+  },
+  {
+    "cardId": "V20261012-020",
+    "ruleVersion": "whole-card/1",
+    "reviewer": "whole50_reviewer_group2",
+    "reviewedAt": "2026-11-04",
+    "fingerprint": "202b9bb6a5044e545670d32ed2bb87a489e0a66fd0eec8035071c783001883a7",
+    "sourceChecks": [
+      {
+        "sourceId": "lex",
+        "verdict": "SUPPORTED",
+        "note": "独立读取 https://www.oxfordlearnersdictionaries.com/definition/english/trade-off_2 词性、读音与义项；与trade-off当前义/词族边界一致。"
+      },
+      {
+        "sourceId": "history",
+        "verdict": "SUPPORTED",
+        "note": "独立读取 https://www.etymonline.com/word/trade-off 正文：名词取自动词短语trade off，未拼造希腊来源。现代类比不当历史。"
+      }
+    ],
+    "modules": [
+      {
+        "id": "headword",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "trade-off英式/ˈtreɪd ɒf/、n.与Oxford条目一致",
+          "completion": "a trade-off between speed and cost与当前用法适合，IPA说明齐全",
+          "readability": "短字段可直接辨认词与词性",
+          "increment": "客观词头无须凑长解释；搭配帮助提取"
+        },
+        "issues": []
+      },
+      {
+        "id": "currentSense",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "a situation where gaining one benefit means giving up another适合当前句；当前义不冒充所有词义",
+          "completion": "当前中英义与focused sense匹配，单词卡不需虚造拆词",
+          "readability": "当前中文：获得一项优势时需要付出的另一项代价",
+          "increment": "与更多义项已分离，无相同sense重复"
+        },
+        "issues": []
+      },
+      {
+        "id": "directExplanation",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "桥接符合原句：把快与便宜放在一起看：如果想更快到货，可能需要加钱；如果坚持低价，可能要等更久。句子说存在",
+          "completion": "提供用法或具体场景，不只再译一次词头",
+          "readability": "汉语先交代发生什么，例子可直接想象",
+          "increment": "加入当前语境的具体推理，帮助从释义走到用途"
+        },
+        "issues": []
+      },
+      {
+        "id": "etymology",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "名词取自动词短语trade off，未拼造希腊来源；来自本次独立读取",
+          "completion": "历史、现代联系、当前用法三段均在；来源事实与记忆类比分开",
+          "readability": "少量拉丁词保留但有中文，当前回用与前区重复",
+          "increment": "历史新增理解；modern/current两段多重述五区，增量只给3"
+        },
+        "issues": []
+      },
+      {
+        "id": "context",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "原句与译文逐句一致：There is a trade-off between a faster delivery and a lower cost.",
+          "completion": "英文、中文、本句抓手均存在",
+          "readability": "译文保持请求/陈述及否定/条件的语气",
+          "increment": "本句提供唯一学习语境，不要求另加泛化段落"
+        },
+        "issues": []
+      },
+      {
+        "id": "additionalSenses",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "独立核实扩展：trade off:牺牲一项以换取另一项",
+          "completion": "不是当前sense复制；不同词性/同族lemma明确",
+          "readability": "换lemma需要读者注意，词性标签可区分",
+          "increment": "提供词族或另一词性，增量有限但真实"
+        },
+        "issues": []
+      },
+      {
+        "id": "examples",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "已读全部原卡补充英中；用法属于当前义：Every design involves a trade-off.",
+          "completion": "两例含本句及可见附加例句；明确教学性质",
+          "readability": "英文短句与中文对应清楚",
+          "increment": "附加句换应用对象或动作，提供独立练习"
+        },
+        "issues": []
+      },
+      {
+        "id": "copyPayload",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "冻结源码负载为 trade-off 与 【深析】trade-off",
+          "completion": "上下两组同一copies函数，约定字符串完整",
+          "readability": "无隐形释义或来源拼入负载",
+          "increment": "保持精确目标词，功能交互另由浏览器QA负责"
+        },
+        "issues": []
+      }
+    ]
+  },
+  {
+    "cardId": "V20261012-041",
+    "ruleVersion": "whole-card/1",
+    "reviewer": "whole50_reviewer_group2",
+    "reviewedAt": "2026-11-04",
+    "fingerprint": "64a57290992a5c58c2875cf3a6aae59270ef4b18df0a4fc565352e4280c71251",
+    "sourceChecks": [
+      {
+        "sourceId": "lex",
+        "verdict": "SUPPORTED",
+        "note": "独立读取 https://www.oxfordlearnersdictionaries.com/definition/english/agenda 词性、读音与义项；与agenda当前义/词族边界一致。"
+      },
+      {
+        "sourceId": "history",
+        "verdict": "SUPPORTED",
+        "note": "独立读取 https://www.etymonline.com/word/agenda 正文：agenda拉丁复数，现代an agenda有词典例。现代类比不当历史。"
+      }
+    ],
+    "modules": [
+      {
+        "id": "headword",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "agenda英式/əˈdʒendə/、n.与Oxford条目一致",
+          "completion": "agree on the agenda与当前用法适合，IPA说明齐全",
+          "readability": "短字段可直接辨认词与词性",
+          "increment": "客观词头无须凑长解释；搭配帮助提取"
+        },
+        "issues": []
+      },
+      {
+        "id": "currentSense",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "a list of topics planned for a meeting适合当前句；当前义不冒充所有词义",
+          "completion": "当前中英义与focused sense匹配，单词卡不需虚造拆词",
+          "readability": "当前中文：会议准备讨论的事项清单",
+          "increment": "与更多义项已分离，无相同sense重复"
+        },
+        "issues": []
+      },
+      {
+        "id": "directExplanation",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "桥接符合原句：这里要的是会前发出的讨论清单。参会者看过清单才能准备资料；agenda 不等于会后记录了什",
+          "completion": "提供用法或具体场景，不只再译一次词头",
+          "readability": "汉语先交代发生什么，例子可直接想象",
+          "increment": "加入当前语境的具体推理，帮助从释义走到用途"
+        },
+        "issues": []
+      },
+      {
+        "id": "etymology",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "agenda拉丁复数，现代an agenda有词典例；来自本次独立读取",
+          "completion": "历史、现代联系、当前用法三段均在；来源事实与记忆类比分开",
+          "readability": "少量拉丁词保留但有中文，当前回用与前区重复",
+          "increment": "历史新增理解；modern/current两段多重述五区，增量只给3"
+        },
+        "issues": []
+      },
+      {
+        "id": "context",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "原句与译文逐句一致：Please send the agenda before the meeting.",
+          "completion": "英文、中文、本句抓手均存在",
+          "readability": "译文保持请求/陈述及否定/条件的语气",
+          "increment": "本句提供唯一学习语境，不要求另加泛化段落"
+        },
+        "issues": []
+      },
+      {
+        "id": "additionalSenses",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "独立核实扩展：agenda:行动目标；待处理的政策事项",
+          "completion": "不是当前sense复制；不同词性/同族lemma明确",
+          "readability": "额外义项用简短中英展示",
+          "increment": "不同义项有助消除日常多义混淆"
+        },
+        "issues": []
+      },
+      {
+        "id": "examples",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "已读全部原卡补充英中；用法属于当前义：Add staffing to tomorrow's agenda.",
+          "completion": "两例含本句及可见附加例句；明确教学性质",
+          "readability": "英文短句与中文对应清楚",
+          "increment": "附加句换应用对象或动作，提供独立练习"
+        },
+        "issues": []
+      },
+      {
+        "id": "copyPayload",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "冻结源码负载为 agenda 与 【深析】agenda",
+          "completion": "上下两组同一copies函数，约定字符串完整",
+          "readability": "无隐形释义或来源拼入负载",
+          "increment": "保持精确目标词，功能交互另由浏览器QA负责"
+        },
+        "issues": []
+      }
+    ]
+  },
+  {
+    "cardId": "V20261012-042",
+    "ruleVersion": "whole-card/1",
+    "reviewer": "whole50_reviewer_group2",
+    "reviewedAt": "2026-11-04",
+    "fingerprint": "e191c43e23dd2db1020e01dd77db6da94020048d8d0ffe3d5dde1153a4268140",
+    "sourceChecks": [
+      {
+        "sourceId": "lex",
+        "verdict": "SUPPORTED",
+        "note": "独立读取 https://www.oxfordlearnersdictionaries.com/definition/english/context 词性、读音与义项；与context当前义/词族边界一致。"
+      },
+      {
+        "sourceId": "history",
+        "verdict": "SUPPORTED",
+        "note": "独立读取 https://www.etymonline.com/word/context 正文：contextus/contexere编织；现代情境义由Oxford支持。现代类比不当历史。"
+      }
+    ],
+    "modules": [
+      {
+        "id": "headword",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "context英式/ˈkɒntekst/、n.与Oxford条目一致",
+          "completion": "provide context与当前用法适合，IPA说明齐全",
+          "readability": "短字段可直接辨认词与词性",
+          "increment": "客观词头无须凑长解释；搭配帮助提取"
+        },
+        "issues": []
+      },
+      {
+        "id": "currentSense",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "background circumstances that help explain something适合当前句；当前义不冒充所有词义",
+          "completion": "当前中英义与focused sense匹配，单词卡不需虚造拆词",
+          "readability": "当前中文：理解当前事项所需的背景",
+          "increment": "与更多义项已分离，无相同sense重复"
+        },
+        "issues": []
+      },
+      {
+        "id": "directExplanation",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "桥接符合原句：先说明事情是在什么情况下发生的，再比较选项。例如报价变高，可能是需求增加了；没有这个背景，",
+          "completion": "提供用法或具体场景，不只再译一次词头",
+          "readability": "汉语先交代发生什么，例子可直接想象",
+          "increment": "加入当前语境的具体推理，帮助从释义走到用途"
+        },
+        "issues": []
+      },
+      {
+        "id": "etymology",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "contextus/contexere编织；现代情境义由Oxford支持；来自本次独立读取",
+          "completion": "历史、现代联系、当前用法三段均在；来源事实与记忆类比分开",
+          "readability": "少量拉丁词保留但有中文，当前回用与前区重复",
+          "increment": "历史新增理解；modern/current两段多重述五区，增量只给3"
+        },
+        "issues": []
+      },
+      {
+        "id": "context",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "原句与译文逐句一致：Let me provide some context before we discuss the options.",
+          "completion": "英文、中文、本句抓手均存在",
+          "readability": "译文保持请求/陈述及否定/条件的语气",
+          "increment": "本句提供唯一学习语境，不要求另加泛化段落"
+        },
+        "issues": []
+      },
+      {
+        "id": "additionalSenses",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "独立核实扩展：context:上下文；前后文",
+          "completion": "不是当前sense复制；不同词性/同族lemma明确",
+          "readability": "额外义项用简短中英展示",
+          "increment": "不同义项有助消除日常多义混淆"
+        },
+        "issues": []
+      },
+      {
+        "id": "examples",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "已读全部原卡补充英中；用法属于当前义：The chart needs more context.",
+          "completion": "两例含本句及可见附加例句；明确教学性质",
+          "readability": "英文短句与中文对应清楚",
+          "increment": "附加句换应用对象或动作，提供独立练习"
+        },
+        "issues": []
+      },
+      {
+        "id": "copyPayload",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "冻结源码负载为 context 与 【深析】context",
+          "completion": "上下两组同一copies函数，约定字符串完整",
+          "readability": "无隐形释义或来源拼入负载",
+          "increment": "保持精确目标词，功能交互另由浏览器QA负责"
+        },
+        "issues": []
+      }
+    ]
+  },
+  {
+    "cardId": "V20261012-043",
+    "ruleVersion": "whole-card/1",
+    "reviewer": "whole50_reviewer_group2",
+    "reviewedAt": "2026-11-04",
+    "fingerprint": "a3b2901fc7598d2dbce1e6d93351f73ccc8b6640d242cb8796f123a5c17df3d7",
+    "sourceChecks": [
+      {
+        "sourceId": "lex",
+        "verdict": "SUPPORTED",
+        "note": "独立读取 https://www.oxfordlearnersdictionaries.com/definition/english/clarify 词性、读音与义项；与clarify当前义/词族边界一致。"
+      },
+      {
+        "sourceId": "history",
+        "verdict": "SUPPORTED",
+        "note": "独立读取 https://www.etymonline.com/word/clarify 正文：clarificare与clarus，液体/意思两用法不强造单线故事。现代类比不当历史。"
+      }
+    ],
+    "modules": [
+      {
+        "id": "headword",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "clarify英式/ˈklærəfaɪ/、v.与Oxford条目一致",
+          "completion": "clarify a requirement与当前用法适合，IPA说明齐全",
+          "readability": "短字段可直接辨认词与词性",
+          "increment": "客观词头无须凑长解释；搭配帮助提取"
+        },
+        "issues": []
+      },
+      {
+        "id": "currentSense",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "to make a meaning or issue easier to understand适合当前句；当前义不冒充所有词义",
+          "completion": "当前中英义与focused sense匹配，单词卡不需虚造拆词",
+          "readability": "当前中文：把含糊的意思、范围或要求讲清楚",
+          "increment": "与更多义项已分离，无相同sense重复"
+        },
+        "issues": []
+      },
+      {
+        "id": "directExplanation",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "桥接符合原句：对方提出了请求，但你还不清楚它包含哪些工作。clarify 在这里要求补清范围：例如是否只",
+          "completion": "提供用法或具体场景，不只再译一次词头",
+          "readability": "汉语先交代发生什么，例子可直接想象",
+          "increment": "加入当前语境的具体推理，帮助从释义走到用途"
+        },
+        "issues": []
+      },
+      {
+        "id": "etymology",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "clarificare与clarus，液体/意思两用法不强造单线故事；来自本次独立读取",
+          "completion": "历史、现代联系、当前用法三段均在；来源事实与记忆类比分开",
+          "readability": "少量拉丁词保留但有中文，当前回用与前区重复",
+          "increment": "历史新增理解；modern/current两段多重述五区，增量只给3"
+        },
+        "issues": []
+      },
+      {
+        "id": "context",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "原句与译文逐句一致：Could you clarify what is included in this request?",
+          "completion": "英文、中文、本句抓手均存在",
+          "readability": "译文保持请求/陈述及否定/条件的语气",
+          "increment": "本句提供唯一学习语境，不要求另加泛化段落"
+        },
+        "issues": []
+      },
+      {
+        "id": "additionalSenses",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "独立核实扩展：clarification:澄清；使意思清楚的说明",
+          "completion": "不是当前sense复制；不同词性/同族lemma明确",
+          "readability": "换lemma需要读者注意，词性标签可区分",
+          "increment": "提供词族或另一词性，增量有限但真实"
+        },
+        "issues": []
+      },
+      {
+        "id": "examples",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "已读全部原卡补充英中；用法属于当前义：Please clarify the payment terms.",
+          "completion": "两例含本句及可见附加例句；明确教学性质",
+          "readability": "英文短句与中文对应清楚",
+          "increment": "附加句换应用对象或动作，提供独立练习"
+        },
+        "issues": []
+      },
+      {
+        "id": "copyPayload",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "冻结源码负载为 clarify 与 【深析】clarify",
+          "completion": "上下两组同一copies函数，约定字符串完整",
+          "readability": "无隐形释义或来源拼入负载",
+          "increment": "保持精确目标词，功能交互另由浏览器QA负责"
+        },
+        "issues": []
+      }
+    ]
+  },
+  {
+    "cardId": "V20261012-044",
+    "ruleVersion": "whole-card/1",
+    "reviewer": "whole50_reviewer_group2",
+    "reviewedAt": "2026-11-04",
+    "fingerprint": "c6644d12d1501815684d34087e86332f9ee7c13817856681037148d0a118135b",
+    "sourceChecks": [
+      {
+        "sourceId": "lex",
+        "verdict": "SUPPORTED",
+        "note": "独立读取 https://www.oxfordlearnersdictionaries.com/definition/english/confirm 词性、读音与义项；与confirm当前义/词族边界一致。"
+      },
+      {
+        "sourceId": "history",
+        "verdict": "SUPPORTED",
+        "note": "独立读取 https://www.etymonline.com/word/confirm 正文：confirmare/firmus使坚固与核实义有据。现代类比不当历史。"
+      }
+    ],
+    "modules": [
+      {
+        "id": "headword",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "confirm英式/kənˈfɜːm/、v.与Oxford条目一致",
+          "completion": "confirm the owner与当前用法适合，IPA说明齐全",
+          "readability": "短字段可直接辨认词与词性",
+          "increment": "客观词头无须凑长解释；搭配帮助提取"
+        },
+        "issues": []
+      },
+      {
+        "id": "currentSense",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 3,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "to establish or state that something is certain适合当前句；当前义不冒充所有词义",
+          "completion": "当前中英义与focused sense匹配，单词卡不需虚造拆词",
+          "readability": "当前中文：确认信息、安排或双方理解是否成立",
+          "increment": "与更多义项已分离，无相同sense重复"
+        },
+        "issues": []
+      },
+      {
+        "id": "directExplanation",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "桥接符合原句：现在需要一个明确的人名：下一步到底谁负责？请对方核实或确定这个归属，好让行动事项有人接手。",
+          "completion": "提供用法或具体场景，不只再译一次词头",
+          "readability": "汉语先交代发生什么，例子可直接想象",
+          "increment": "加入当前语境的具体推理，帮助从释义走到用途"
+        },
+        "issues": []
+      },
+      {
+        "id": "etymology",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "confirmare/firmus使坚固与核实义有据；来自本次独立读取",
+          "completion": "历史、现代联系、当前用法三段均在；来源事实与记忆类比分开",
+          "readability": "少量拉丁词保留但有中文，当前回用与前区重复",
+          "increment": "历史新增理解；modern/current两段多重述五区，增量只给3"
+        },
+        "issues": []
+      },
+      {
+        "id": "context",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "原句与译文逐句一致：Please confirm who will own the next action.",
+          "completion": "英文、中文、本句抓手均存在",
+          "readability": "译文保持请求/陈述及否定/条件的语气",
+          "increment": "本句提供唯一学习语境，不要求另加泛化段落"
+        },
+        "issues": []
+      },
+      {
+        "id": "additionalSenses",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "独立核实扩展：confirm:确定；使安排正式生效",
+          "completion": "不是当前sense复制；不同词性/同族lemma明确",
+          "readability": "额外义项用简短中英展示",
+          "increment": "不同义项有助消除日常多义混淆"
+        },
+        "issues": []
+      },
+      {
+        "id": "examples",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "已读全部原卡补充英中；用法属于当前义：Confirm the quantity before ordering.",
+          "completion": "两例含本句及可见附加例句；明确教学性质",
+          "readability": "英文短句与中文对应清楚",
+          "increment": "附加句换应用对象或动作，提供独立练习"
+        },
+        "issues": []
+      },
+      {
+        "id": "copyPayload",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "冻结源码负载为 confirm 与 【深析】confirm",
+          "completion": "上下两组同一copies函数，约定字符串完整",
+          "readability": "无隐形释义或来源拼入负载",
+          "increment": "保持精确目标词，功能交互另由浏览器QA负责"
+        },
+        "issues": []
+      }
+    ]
+  },
+  {
+    "cardId": "V20261012-045",
+    "ruleVersion": "whole-card/1",
+    "reviewer": "whole50_reviewer_group2",
+    "reviewedAt": "2026-11-04",
+    "fingerprint": "2b0df32514b0c4d2d43bb6728d9ea6fac37145ed07067fdb8e1339732fe4f560",
+    "sourceChecks": [
+      {
+        "sourceId": "lex",
+        "verdict": "SUPPORTED",
+        "note": "独立读取 https://www.oxfordlearnersdictionaries.com/definition/english/specify 词性、读音与义项；与specify当前义/词族边界一致。"
+      },
+      {
+        "sourceId": "history",
+        "verdict": "SUPPORTED",
+        "note": "独立读取 https://www.etymonline.com/word/specify 正文：specificare明确指出；未虚构尾部独立词。现代类比不当历史。"
+      }
+    ],
+    "modules": [
+      {
+        "id": "headword",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "specify英式/ˈspesɪfaɪ/、v.与Oxford条目一致",
+          "completion": "specify the conditions与当前用法适合，IPA说明齐全",
+          "readability": "短字段可直接辨认词与词性",
+          "increment": "客观词头无须凑长解释；搭配帮助提取"
+        },
+        "issues": []
+      },
+      {
+        "id": "currentSense",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "to state something precisely and explicitly适合当前句；当前义不冒充所有词义",
+          "completion": "当前中英义与focused sense匹配，单词卡不需虚造拆词",
+          "readability": "当前中文：明确写出或说出具体要求",
+          "increment": "与更多义项已分离，无相同sense重复"
+        },
+        "issues": []
+      },
+      {
+        "id": "directExplanation",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "桥接符合原句：不要只说条件合适就接受。specify 要求把条件逐项说清楚，例如需要什么价格、日期或文件",
+          "completion": "提供用法或具体场景，不只再译一次词头",
+          "readability": "汉语先交代发生什么，例子可直接想象",
+          "increment": "加入当前语境的具体推理，帮助从释义走到用途"
+        },
+        "issues": []
+      },
+      {
+        "id": "etymology",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "specificare明确指出；未虚构尾部独立词；来自本次独立读取",
+          "completion": "历史、现代联系、当前用法三段均在；来源事实与记忆类比分开",
+          "readability": "少量拉丁词保留但有中文，当前回用与前区重复",
+          "increment": "历史新增理解；modern/current两段多重述五区，增量只给3"
+        },
+        "issues": []
+      },
+      {
+        "id": "context",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "原句与译文逐句一致：Please specify the conditions for accepting this proposal.",
+          "completion": "英文、中文、本句抓手均存在",
+          "readability": "译文保持请求/陈述及否定/条件的语气",
+          "increment": "本句提供唯一学习语境，不要求另加泛化段落"
+        },
+        "issues": []
+      },
+      {
+        "id": "additionalSenses",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "独立核实扩展：specification:规格说明；具体要求",
+          "completion": "不是当前sense复制；不同词性/同族lemma明确",
+          "readability": "换lemma需要读者注意，词性标签可区分",
+          "increment": "提供词族或另一词性，增量有限但真实"
+        },
+        "issues": []
+      },
+      {
+        "id": "examples",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "已读全部原卡补充英中；用法属于当前义：The contract specifies delivery dates.",
+          "completion": "两例含本句及可见附加例句；明确教学性质",
+          "readability": "英文短句与中文对应清楚",
+          "increment": "附加句换应用对象或动作，提供独立练习"
+        },
+        "issues": []
+      },
+      {
+        "id": "copyPayload",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "冻结源码负载为 specify 与 【深析】specify",
+          "completion": "上下两组同一copies函数，约定字符串完整",
+          "readability": "无隐形释义或来源拼入负载",
+          "increment": "保持精确目标词，功能交互另由浏览器QA负责"
+        },
+        "issues": []
+      }
+    ]
+  },
+  {
+    "cardId": "V20261012-046",
+    "ruleVersion": "whole-card/1",
+    "reviewer": "whole50_reviewer_group2",
+    "reviewedAt": "2026-11-04",
+    "fingerprint": "71ff28b4b65d9e89497d11050fbb34a5b376a1a0ca30a731e1f26f498c940ac4",
+    "sourceChecks": [
+      {
+        "sourceId": "lex",
+        "verdict": "SUPPORTED",
+        "note": "独立读取 https://www.oxfordlearnersdictionaries.com/definition/english/elaborate_2 词性、读音与义项；与elaborate当前义/词族边界一致。"
+      },
+      {
+        "sourceId": "history",
+        "verdict": "SUPPORTED",
+        "note": "独立读取 https://www.etymonline.com/word/elaborate 正文：elaborare劳动与详细展开有据，动词形容词分音。现代类比不当历史。"
+      }
+    ],
+    "modules": [
+      {
+        "id": "headword",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "elaborate英式/ɪˈlæbəreɪt/、v.与Oxford条目一致",
+          "completion": "elaborate on a point与当前用法适合，IPA说明齐全",
+          "readability": "短字段可直接辨认词与词性",
+          "increment": "客观词头无须凑长解释；搭配帮助提取"
+        },
+        "issues": []
+      },
+      {
+        "id": "currentSense",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "to add details to something already said适合当前句；当前义不冒充所有词义",
+          "completion": "当前中英义与focused sense匹配，单词卡不需虚造拆词",
+          "readability": "当前中文：对已经说出的观点进一步详细说明",
+          "increment": "与更多义项已分离，无相同sense重复"
+        },
+        "issues": []
+      },
+      {
+        "id": "directExplanation",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "桥接符合原句：已经知道对方担心时间安排，现在请他把担心展开：是哪一步耗时长，会影响什么？这里需要相关细节",
+          "completion": "提供用法或具体场景，不只再译一次词头",
+          "readability": "汉语先交代发生什么，例子可直接想象",
+          "increment": "加入当前语境的具体推理，帮助从释义走到用途"
+        },
+        "issues": []
+      },
+      {
+        "id": "etymology",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "elaborare劳动与详细展开有据，动词形容词分音；来自本次独立读取",
+          "completion": "历史、现代联系、当前用法三段均在；来源事实与记忆类比分开",
+          "readability": "少量拉丁词保留但有中文，当前回用与前区重复",
+          "increment": "历史新增理解；modern/current两段多重述五区，增量只给3"
+        },
+        "issues": []
+      },
+      {
+        "id": "context",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "原句与译文逐句一致：Could you elaborate on the concern about timing?",
+          "completion": "英文、中文、本句抓手均存在",
+          "readability": "译文保持请求/陈述及否定/条件的语气",
+          "increment": "本句提供唯一学习语境，不要求另加泛化段落"
+        },
+        "issues": []
+      },
+      {
+        "id": "additionalSenses",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "独立核实扩展：elaborate:精心制作的；复杂详尽的",
+          "completion": "不是当前sense复制；不同词性/同族lemma明确",
+          "readability": "换lemma需要读者注意，词性标签可区分",
+          "increment": "提供词族或另一词性，增量有限但真实"
+        },
+        "issues": []
+      },
+      {
+        "id": "examples",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "已读全部原卡补充英中；用法属于当前义：Could you elaborate on that risk?",
+          "completion": "两例含本句及可见附加例句；明确教学性质",
+          "readability": "英文短句与中文对应清楚",
+          "increment": "附加句换应用对象或动作，提供独立练习"
+        },
+        "issues": []
+      },
+      {
+        "id": "copyPayload",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "冻结源码负载为 elaborate 与 【深析】elaborate",
+          "completion": "上下两组同一copies函数，约定字符串完整",
+          "readability": "无隐形释义或来源拼入负载",
+          "increment": "保持精确目标词，功能交互另由浏览器QA负责"
+        },
+        "issues": []
+      }
+    ]
+  },
+  {
+    "cardId": "V20261012-047",
+    "ruleVersion": "whole-card/1",
+    "reviewer": "whole50_reviewer_group2",
+    "reviewedAt": "2026-11-04",
+    "fingerprint": "1a33e2c2996390ef05eb4c4d242a2f8dc67d55114e394989da7f2f5386fc5456",
+    "sourceChecks": [
+      {
+        "sourceId": "lex",
+        "verdict": "SUPPORTED",
+        "note": "独立读取 https://www.oxfordlearnersdictionaries.com/definition/english/summarize 词性、读音与义项；与summarize当前义/词族边界一致。"
+      },
+      {
+        "sourceId": "history",
+        "verdict": "SUPPORTED",
+        "note": "独立读取 https://www.etymonline.com/word/summarize 正文：summary+-ize及summa要旨有据。现代类比不当历史。"
+      }
+    ],
+    "modules": [
+      {
+        "id": "headword",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "summarize英式/ˈsʌməraɪz/、v.与Oxford条目一致",
+          "completion": "summarize the discussion与当前用法适合，IPA说明齐全",
+          "readability": "短字段可直接辨认词与词性",
+          "increment": "客观词头无须凑长解释；搭配帮助提取"
+        },
+        "issues": []
+      },
+      {
+        "id": "currentSense",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "to present the main points briefly and clearly适合当前句；当前义不冒充所有词义",
+          "completion": "当前中英义与focused sense匹配，单词卡不需虚造拆词",
+          "readability": "当前中文：概括重点而不是重复全部细节",
+          "increment": "与更多义项已分离，无相同sense重复"
+        },
+        "issues": []
+      },
+      {
+        "id": "directExplanation",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "桥接符合原句：把长讨论压缩成听得懂的重点：一栏是已决定的事，另一栏是还没解决的问题。简短不等于把未解决的",
+          "completion": "提供用法或具体场景，不只再译一次词头",
+          "readability": "汉语先交代发生什么，例子可直接想象",
+          "increment": "加入当前语境的具体推理，帮助从释义走到用途"
+        },
+        "issues": []
+      },
+      {
+        "id": "etymology",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "summary+-ize及summa要旨有据；来自本次独立读取",
+          "completion": "历史、现代联系、当前用法三段均在；来源事实与记忆类比分开",
+          "readability": "少量拉丁词保留但有中文，当前回用与前区重复",
+          "increment": "历史新增理解；modern/current两段多重述五区，增量只给3"
+        },
+        "issues": []
+      },
+      {
+        "id": "context",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "原句与译文逐句一致：Let me summarize the decisions and remaining questions.",
+          "completion": "英文、中文、本句抓手均存在",
+          "readability": "译文保持请求/陈述及否定/条件的语气",
+          "increment": "本句提供唯一学习语境，不要求另加泛化段落"
+        },
+        "issues": []
+      },
+      {
+        "id": "additionalSenses",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "独立核实扩展：summary:摘要；概要",
+          "completion": "不是当前sense复制；不同词性/同族lemma明确",
+          "readability": "换lemma需要读者注意，词性标签可区分",
+          "increment": "提供词族或另一词性，增量有限但真实"
+        },
+        "issues": []
+      },
+      {
+        "id": "examples",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "已读全部原卡补充英中；用法属于当前义：Summarize the findings in one paragraph.",
+          "completion": "两例含本句及可见附加例句；明确教学性质",
+          "readability": "英文短句与中文对应清楚",
+          "increment": "附加句换应用对象或动作，提供独立练习"
+        },
+        "issues": []
+      },
+      {
+        "id": "copyPayload",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "冻结源码负载为 summarize 与 【深析】summarize",
+          "completion": "上下两组同一copies函数，约定字符串完整",
+          "readability": "无隐形释义或来源拼入负载",
+          "increment": "保持精确目标词，功能交互另由浏览器QA负责"
+        },
+        "issues": []
+      }
+    ]
+  },
+  {
+    "cardId": "V20261012-048",
+    "ruleVersion": "whole-card/1",
+    "reviewer": "whole50_reviewer_group2",
+    "reviewedAt": "2026-11-04",
+    "fingerprint": "344f63820cba5a6c1a45f11e6a27cd9e9f7d37d19a64ac4f90747390cff55321",
+    "sourceChecks": [
+      {
+        "sourceId": "lex",
+        "verdict": "SUPPORTED",
+        "note": "独立读取 https://www.oxfordlearnersdictionaries.com/definition/english/recap_1 词性、读音与义项；与recap当前义/词族边界一致。"
+      },
+      {
+        "sourceId": "history",
+        "verdict": "SUPPORTED",
+        "note": "独立读取 https://www.etymonline.com/word/recap 正文：recapitulate缩略有据，因年代资料不同不落年份。现代类比不当历史。"
+      }
+    ],
+    "modules": [
+      {
+        "id": "headword",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "recap英式/ˈriːkæp/、v.与Oxford条目一致",
+          "completion": "recap the main points与当前用法适合，IPA说明齐全",
+          "readability": "短字段可直接辨认词与词性",
+          "increment": "客观词头无须凑长解释；搭配帮助提取"
+        },
+        "issues": []
+      },
+      {
+        "id": "currentSense",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "to briefly go over the main points again适合当前句；当前义不冒充所有词义",
+          "completion": "当前中英义与focused sense匹配，单词卡不需虚造拆词",
+          "readability": "当前中文：简短回顾已经讨论或发生的内容",
+          "increment": "与更多义项已分离，无相同sense重复"
+        },
+        "issues": []
+      },
+      {
+        "id": "directExplanation",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "桥接符合原句：新成员刚进入讨论，需要先知道大家谈到了哪里。recap 要把前面的要点补给他，而不是从头重",
+          "completion": "提供用法或具体场景，不只再译一次词头",
+          "readability": "汉语先交代发生什么，例子可直接想象",
+          "increment": "加入当前语境的具体推理，帮助从释义走到用途"
+        },
+        "issues": []
+      },
+      {
+        "id": "etymology",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "recapitulate缩略有据，因年代资料不同不落年份；来自本次独立读取",
+          "completion": "历史、现代联系、当前用法三段均在；来源事实与记忆类比分开",
+          "readability": "少量拉丁词保留但有中文，当前回用与前区重复",
+          "increment": "历史新增理解；modern/current两段多重述五区，增量只给3"
+        },
+        "issues": []
+      },
+      {
+        "id": "context",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "原句与译文逐句一致：Could you recap the main points for the new team member?",
+          "completion": "英文、中文、本句抓手均存在",
+          "readability": "译文保持请求/陈述及否定/条件的语气",
+          "increment": "本句提供唯一学习语境，不要求另加泛化段落"
+        },
+        "issues": []
+      },
+      {
+        "id": "additionalSenses",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "独立核实扩展：recap:简要回顾；重述要点",
+          "completion": "不是当前sense复制；不同词性/同族lemma明确",
+          "readability": "换lemma需要读者注意，词性标签可区分",
+          "increment": "提供词族或另一词性，增量有限但真实"
+        },
+        "issues": []
+      },
+      {
+        "id": "examples",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "已读全部原卡补充英中；用法属于当前义：Let's recap yesterday's decisions.",
+          "completion": "两例含本句及可见附加例句；明确教学性质",
+          "readability": "英文短句与中文对应清楚",
+          "increment": "附加句换应用对象或动作，提供独立练习"
+        },
+        "issues": []
+      },
+      {
+        "id": "copyPayload",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "冻结源码负载为 recap 与 【深析】recap",
+          "completion": "上下两组同一copies函数，约定字符串完整",
+          "readability": "无隐形释义或来源拼入负载",
+          "increment": "保持精确目标词，功能交互另由浏览器QA负责"
+        },
+        "issues": []
+      }
+    ]
+  },
+  {
+    "cardId": "V20261012-049",
+    "ruleVersion": "whole-card/1",
+    "reviewer": "whole50_reviewer_group2",
+    "reviewedAt": "2026-11-04",
+    "fingerprint": "2ec8c02b2317ed16480b72cfd82d23ca130a35e2a4eae4072c9c2c70271d2f20",
+    "sourceChecks": [
+      {
+        "sourceId": "lex",
+        "verdict": "SUPPORTED",
+        "note": "独立读取 https://www.oxfordlearnersdictionaries.com/definition/english/align 词性、读音与义项；与align当前义/词族边界一致。"
+      },
+      {
+        "sourceId": "history",
+        "verdict": "SUPPORTED",
+        "note": "独立读取 https://www.etymonline.com/word/align 正文：法语alignier及linea线有据，不写现代工作用法首创。现代类比不当历史。"
+      }
+    ],
+    "modules": [
+      {
+        "id": "headword",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "align英式/əˈlaɪn/、v.与Oxford条目一致",
+          "completion": "align on priorities与当前用法适合，IPA说明齐全",
+          "readability": "短字段可直接辨认词与词性",
+          "increment": "客观词头无须凑长解释；搭配帮助提取"
+        },
+        "issues": []
+      },
+      {
+        "id": "currentSense",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "to bring plans or views into agreement适合当前句；当前义不冒充所有词义",
+          "completion": "当前中英义与focused sense匹配，单词卡不需虚造拆词",
+          "readability": "当前中文：使目标、理解或安排彼此一致",
+          "increment": "与更多义项已分离，无相同sense重复"
+        },
+        "issues": []
+      },
+      {
+        "id": "directExplanation",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "桥接符合原句：先让大家对先做什么有一致理解，再分任务。否则有人先赶测试，有人先改设计，各自很忙却可能互相",
+          "completion": "提供用法或具体场景，不只再译一次词头",
+          "readability": "汉语先交代发生什么，例子可直接想象",
+          "increment": "加入当前语境的具体推理，帮助从释义走到用途"
+        },
+        "issues": []
+      },
+      {
+        "id": "etymology",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "法语alignier及linea线有据，不写现代工作用法首创；来自本次独立读取",
+          "completion": "历史、现代联系、当前用法三段均在；来源事实与记忆类比分开",
+          "readability": "少量拉丁词保留但有中文，当前回用与前区重复",
+          "increment": "历史新增理解；modern/current两段多重述五区，增量只给3"
+        },
+        "issues": []
+      },
+      {
+        "id": "context",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "原句与译文逐句一致：We need to align on priorities before assigning the work.",
+          "completion": "英文、中文、本句抓手均存在",
+          "readability": "译文保持请求/陈述及否定/条件的语气",
+          "increment": "本句提供唯一学习语境，不要求另加泛化段落"
+        },
+        "issues": []
+      },
+      {
+        "id": "additionalSenses",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "独立核实扩展：align:排成一线；对齐",
+          "completion": "不是当前sense复制；不同词性/同族lemma明确",
+          "readability": "额外义项用简短中英展示",
+          "increment": "不同义项有助消除日常多义混淆"
+        },
+        "issues": []
+      },
+      {
+        "id": "examples",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "已读全部原卡补充英中；用法属于当前义：Align the forecast with actual orders.",
+          "completion": "两例含本句及可见附加例句；明确教学性质",
+          "readability": "英文短句与中文对应清楚",
+          "increment": "附加句换应用对象或动作，提供独立练习"
+        },
+        "issues": []
+      },
+      {
+        "id": "copyPayload",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "冻结源码负载为 align 与 【深析】align",
+          "completion": "上下两组同一copies函数，约定字符串完整",
+          "readability": "无隐形释义或来源拼入负载",
+          "increment": "保持精确目标词，功能交互另由浏览器QA负责"
+        },
+        "issues": []
+      }
+    ]
+  },
+  {
+    "cardId": "V20261012-050",
+    "ruleVersion": "whole-card/1",
+    "reviewer": "whole50_reviewer_group2",
+    "reviewedAt": "2026-11-04",
+    "fingerprint": "051572673bc8255ed3a64783fad3c6094d0261639efc212b99dc7b159705563f",
+    "sourceChecks": [
+      {
+        "sourceId": "lex",
+        "verdict": "SUPPORTED",
+        "note": "独立读取 https://www.oxfordlearnersdictionaries.com/definition/english/consensus 词性、读音与义项；与consensus当前义/词族边界一致。"
+      },
+      {
+        "sourceId": "history",
+        "verdict": "SUPPORTED",
+        "note": "独立读取 https://www.etymonline.com/word/consensus 正文：consensus/consentire共同同意有据，不推出投票程序。现代类比不当历史。"
+      }
+    ],
+    "modules": [
+      {
+        "id": "headword",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "consensus英式/kənˈsensəs/、n.与Oxford条目一致",
+          "completion": "reach a consensus与当前用法适合，IPA说明齐全",
+          "readability": "短字段可直接辨认词与词性",
+          "increment": "客观词头无须凑长解释；搭配帮助提取"
+        },
+        "issues": []
+      },
+      {
+        "id": "currentSense",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "broad agreement within a group适合当前句；当前义不冒充所有词义",
+          "completion": "当前中英义与focused sense匹配，单词卡不需虚造拆词",
+          "readability": "当前中文：团队对某个方向形成的普遍共识",
+          "increment": "与更多义项已分离，无相同sense重复"
+        },
+        "issues": []
+      },
+      {
+        "id": "directExplanation",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "桥接符合原句：大家已经就主要目标形成了共同意见。注意限定词 on the main objective：",
+          "completion": "提供用法或具体场景，不只再译一次词头",
+          "readability": "汉语先交代发生什么，例子可直接想象",
+          "increment": "范围限定在多区重复，桥接自身仍完成基础讲解"
+        },
+        "issues": []
+      },
+      {
+        "id": "etymology",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "consensus/consentire共同同意有据，不推出投票程序；来自本次独立读取",
+          "completion": "历史、现代联系、当前用法三段均在；来源事实与记忆类比分开",
+          "readability": "少量拉丁词保留但有中文，当前回用与前区重复",
+          "increment": "历史新增理解；modern/current两段多重述五区，增量只给3"
+        },
+        "issues": []
+      },
+      {
+        "id": "context",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "原句与译文逐句一致：We reached a consensus on the main objective.",
+          "completion": "英文、中文、本句抓手均存在",
+          "readability": "译文保持请求/陈述及否定/条件的语气",
+          "increment": "本句提供唯一学习语境，不要求另加泛化段落"
+        },
+        "issues": []
+      },
+      {
+        "id": "additionalSenses",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "独立核实扩展：consensual:共同同意的；经各方认可的",
+          "completion": "不是当前sense复制；不同词性/同族lemma明确",
+          "readability": "换lemma需要读者注意，词性标签可区分",
+          "increment": "提供词族或另一词性，增量有限但真实"
+        },
+        "issues": []
+      },
+      {
+        "id": "examples",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "已读全部原卡补充英中；用法属于当前义：There is no consensus on pricing.",
+          "completion": "两例含本句及可见附加例句；明确教学性质",
+          "readability": "英文短句与中文对应清楚",
+          "increment": "附加句换应用对象或动作，提供独立练习"
+        },
+        "issues": []
+      },
+      {
+        "id": "copyPayload",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "冻结源码负载为 consensus 与 【深析】consensus",
+          "completion": "上下两组同一copies函数，约定字符串完整",
+          "readability": "无隐形释义或来源拼入负载",
+          "increment": "保持精确目标词，功能交互另由浏览器QA负责"
+        },
+        "issues": []
+      }
+    ]
+  },
+  {
+    "cardId": "V20261012-051",
+    "ruleVersion": "whole-card/1",
+    "reviewer": "whole50_reviewer_group2",
+    "reviewedAt": "2026-11-04",
+    "fingerprint": "0a88d8a1b2343725e60498e419b6fe4061830e6946dfc09df924c439b6e6994a",
+    "sourceChecks": [
+      {
+        "sourceId": "lex",
+        "verdict": "SUPPORTED",
+        "note": "独立读取 https://www.oxfordlearnersdictionaries.com/definition/english/concern_2 词性、读音与义项；与concern当前义/词族边界一致。"
+      },
+      {
+        "sourceId": "history",
+        "verdict": "SUPPORTED",
+        "note": "独立读取 https://www.etymonline.com/word/concern 正文：有关到担忧的历史有据，未以筛子词根硬译。现代类比不当历史。"
+      }
+    ],
+    "modules": [
+      {
+        "id": "headword",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "concern英式/kənˈsɜːn/、n.与Oxford条目一致",
+          "completion": "raise a concern与当前用法适合，IPA说明齐全",
+          "readability": "短字段可直接辨认词与词性",
+          "increment": "客观词头无须凑长解释；搭配帮助提取"
+        },
+        "issues": []
+      },
+      {
+        "id": "currentSense",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 3,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "a worry or an issue that causes worry适合当前句；当前义不冒充所有词义",
+          "completion": "当前中英义与focused sense匹配，单词卡不需虚造拆词",
+          "readability": "当前中文：值得注意或让人担心的事项",
+          "increment": "与更多义项已分离，无相同sense重复"
+        },
+        "issues": []
+      },
+      {
+        "id": "directExplanation",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "桥接符合原句：说话者先指出最放心不下的一点：留给评审的时间。先把这个问题放到桌面上，还不是宣布整个方案必",
+          "completion": "提供用法或具体场景，不只再译一次词头",
+          "readability": "汉语先交代发生什么，例子可直接想象",
+          "increment": "加入当前语境的具体推理，帮助从释义走到用途"
+        },
+        "issues": []
+      },
+      {
+        "id": "etymology",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 3,
+          "completion": 3,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "有关到担忧的历史有据，未以筛子词根硬译；来自本次独立读取",
+          "completion": "历史、现代联系、当前用法三段均在；来源事实与记忆类比分开",
+          "readability": "少量拉丁词保留但有中文，当前回用与前区重复",
+          "increment": "历史新增理解；modern/current两段多重述五区，增量只给3"
+        },
+        "issues": [
+          {
+            "blocking": false,
+            "note": "当前回用的时间不足是合理猜测，宜加可能，与g2信息边界一致"
+          }
+        ]
+      },
+      {
+        "id": "context",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "原句与译文逐句一致：My main concern is the time available for review.",
+          "completion": "英文、中文、本句抓手均存在",
+          "readability": "译文保持请求/陈述及否定/条件的语气",
+          "increment": "本句提供唯一学习语境，不要求另加泛化段落"
+        },
+        "issues": []
+      },
+      {
+        "id": "additionalSenses",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "独立核实扩展：concern:企业；公司",
+          "completion": "不是当前sense复制；不同词性/同族lemma明确",
+          "readability": "额外义项用简短中英展示",
+          "increment": "不同义项有助消除日常多义混淆"
+        },
+        "issues": []
+      },
+      {
+        "id": "examples",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "已读全部原卡补充英中；用法属于当前义：Her concern about safety was valid.",
+          "completion": "两例含本句及可见附加例句；明确教学性质",
+          "readability": "英文短句与中文对应清楚",
+          "increment": "附加句换应用对象或动作，提供独立练习"
+        },
+        "issues": []
+      },
+      {
+        "id": "copyPayload",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "冻结源码负载为 concern 与 【深析】concern",
+          "completion": "上下两组同一copies函数，约定字符串完整",
+          "readability": "无隐形释义或来源拼入负载",
+          "increment": "保持精确目标词，功能交互另由浏览器QA负责"
+        },
+        "issues": []
+      }
+    ]
+  },
+  {
+    "cardId": "V20261012-052",
+    "ruleVersion": "whole-card/1",
+    "reviewer": "whole50_reviewer_group2",
+    "reviewedAt": "2026-11-04",
+    "fingerprint": "4791fa85ebdfef46b26754fdb7f389b6ac51b418c4c4cbd984360794ca8d120a",
+    "sourceChecks": [
+      {
+        "sourceId": "lex",
+        "verdict": "SUPPORTED",
+        "note": "独立读取 https://www.oxfordlearnersdictionaries.com/definition/english/objection 词性、读音与义项；与objection当前义/词族边界一致。"
+      },
+      {
+        "sourceId": "history",
+        "verdict": "SUPPORTED",
+        "note": "独立读取 https://www.etymonline.com/word/objection 正文：objectionem/obicere摆前/反对有据。现代类比不当历史。"
+      }
+    ],
+    "modules": [
+      {
+        "id": "headword",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "objection英式/əbˈdʒekʃn/、n.与Oxford条目一致",
+          "completion": "raise an objection与当前用法适合，IPA说明齐全",
+          "readability": "短字段可直接辨认词与词性",
+          "increment": "客观词头无须凑长解释；搭配帮助提取"
+        },
+        "issues": []
+      },
+      {
+        "id": "currentSense",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "an expression or reason for opposing something适合当前句；当前义不冒充所有词义",
+          "completion": "当前中英义与focused sense匹配，单词卡不需虚造拆词",
+          "readability": "当前中文：对提议明确表示反对的理由或意见",
+          "increment": "与更多义项已分离，无相同sense重复"
+        },
+        "issues": []
+      },
+      {
+        "id": "directExplanation",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "桥接符合原句：顺序已经调整过，现在给大家一个明确提出反对的机会。回答时最好指出哪一步有问题，以及新顺序为",
+          "completion": "提供用法或具体场景，不只再译一次词头",
+          "readability": "汉语先交代发生什么，例子可直接想象",
+          "increment": "加入当前语境的具体推理，帮助从释义走到用途"
+        },
+        "issues": []
+      },
+      {
+        "id": "etymology",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "objectionem/obicere摆前/反对有据；来自本次独立读取",
+          "completion": "历史、现代联系、当前用法三段均在；来源事实与记忆类比分开",
+          "readability": "少量拉丁词保留但有中文，当前回用与前区重复",
+          "increment": "历史新增理解；modern/current两段多重述五区，增量只给3"
+        },
+        "issues": []
+      },
+      {
+        "id": "context",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "原句与译文逐句一致：Does anyone have an objection to the revised sequence?",
+          "completion": "英文、中文、本句抓手均存在",
+          "readability": "译文保持请求/陈述及否定/条件的语气",
+          "increment": "本句提供唯一学习语境，不要求另加泛化段落"
+        },
+        "issues": []
+      },
+      {
+        "id": "additionalSenses",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "独立核实扩展：object:反对；提出异议",
+          "completion": "不是当前sense复制；不同词性/同族lemma明确",
+          "readability": "换lemma需要读者注意，词性标签可区分",
+          "increment": "提供词族或另一词性，增量有限但真实"
+        },
+        "issues": []
+      },
+      {
+        "id": "examples",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "已读全部原卡补充英中；用法属于当前义：The supplier raised an objection.",
+          "completion": "两例含本句及可见附加例句；明确教学性质",
+          "readability": "英文短句与中文对应清楚",
+          "increment": "附加句换应用对象或动作，提供独立练习"
+        },
+        "issues": []
+      },
+      {
+        "id": "copyPayload",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "冻结源码负载为 objection 与 【深析】objection",
+          "completion": "上下两组同一copies函数，约定字符串完整",
+          "readability": "无隐形释义或来源拼入负载",
+          "increment": "保持精确目标词，功能交互另由浏览器QA负责"
+        },
+        "issues": []
+      }
+    ]
+  },
+  {
+    "cardId": "V20261012-053",
+    "ruleVersion": "whole-card/1",
+    "reviewer": "whole50_reviewer_group2",
+    "reviewedAt": "2026-11-04",
+    "fingerprint": "cb2e03d93708e9ee473c5265dee62734fd63aa762f0e2a1588d53152b7eaac26",
+    "sourceChecks": [
+      {
+        "sourceId": "lex",
+        "verdict": "SUPPORTED",
+        "note": "独立读取 https://www.oxfordlearnersdictionaries.com/definition/english/reservation 词性、读音与义项；与reservation当前义/词族边界一致。"
+      },
+      {
+        "sourceId": "history",
+        "verdict": "SUPPORTED",
+        "note": "独立读取 https://www.etymonline.com/word/reservation 正文：reservare保留，疑虑非酒店预订单线衍生。现代类比不当历史。"
+      }
+    ],
+    "modules": [
+      {
+        "id": "headword",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "reservation英式/ˌrezəˈveɪʃn/、n.与Oxford条目一致",
+          "completion": "have reservations about与当前用法适合，IPA说明齐全",
+          "readability": "短字段可直接辨认词与词性",
+          "increment": "客观词头无须凑长解释；搭配帮助提取"
+        },
+        "issues": []
+      },
+      {
+        "id": "currentSense",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "a doubt that prevents complete acceptance适合当前句；当前义不冒充所有词义",
+          "completion": "当前中英义与focused sense匹配，单词卡不需虚造拆词",
+          "readability": "当前中文：尚未消除的保留意见或疑虑",
+          "increment": "与更多义项已分离，无相同sense重复"
+        },
+        "issues": []
+      },
+      {
+        "id": "directExplanation",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "桥接符合原句：说话者暂时不能完全接受在评审前就作出承诺。疑虑针对这个时间点；你需要继续问原因，而不是直接",
+          "completion": "提供用法或具体场景，不只再译一次词头",
+          "readability": "汉语先交代发生什么，例子可直接想象",
+          "increment": "加入当前语境的具体推理，帮助从释义走到用途"
+        },
+        "issues": []
+      },
+      {
+        "id": "etymology",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "reservare保留，疑虑非酒店预订单线衍生；来自本次独立读取",
+          "completion": "历史、现代联系、当前用法三段均在；来源事实与记忆类比分开",
+          "readability": "少量拉丁词保留但有中文，当前回用与前区重复",
+          "increment": "历史新增理解；modern/current两段多重述五区，增量只给3"
+        },
+        "issues": []
+      },
+      {
+        "id": "context",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "原句与译文逐句一致：I have reservations about committing before the review.",
+          "completion": "英文、中文、本句抓手均存在",
+          "readability": "译文保持请求/陈述及否定/条件的语气",
+          "increment": "本句提供唯一学习语境，不要求另加泛化段落"
+        },
+        "issues": []
+      },
+      {
+        "id": "additionalSenses",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "独立核实扩展：reservation:预订；预约",
+          "completion": "不是当前sense复制；不同词性/同族lemma明确",
+          "readability": "额外义项用简短中英展示",
+          "increment": "不同义项有助消除日常多义混淆"
+        },
+        "issues": []
+      },
+      {
+        "id": "examples",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "已读全部原卡补充英中；用法属于当前义：She expressed reservations about the estimate.",
+          "completion": "两例含本句及可见附加例句；明确教学性质",
+          "readability": "英文短句与中文对应清楚",
+          "increment": "附加句换应用对象或动作，提供独立练习"
+        },
+        "issues": []
+      },
+      {
+        "id": "copyPayload",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "冻结源码负载为 reservation 与 【深析】reservation",
+          "completion": "上下两组同一copies函数，约定字符串完整",
+          "readability": "无隐形释义或来源拼入负载",
+          "increment": "保持精确目标词，功能交互另由浏览器QA负责"
+        },
+        "issues": []
+      }
+    ]
+  },
+  {
+    "cardId": "V20261012-054",
+    "ruleVersion": "whole-card/1",
+    "reviewer": "whole50_reviewer_group2",
+    "reviewedAt": "2026-11-04",
+    "fingerprint": "39d8351da6afa5aa9a2d91cc2c036629c5fa877e604857e870911e89a9ba1bc7",
+    "sourceChecks": [
+      {
+        "sourceId": "lex",
+        "verdict": "SUPPORTED",
+        "note": "独立读取 https://www.oxfordlearnersdictionaries.com/definition/english/rationale 词性、读音与义项；与rationale当前义/词族边界一致。"
+      },
+      {
+        "sourceId": "history",
+        "verdict": "SUPPORTED",
+        "note": "独立读取 https://www.etymonline.com/word/rationale 正文：Late Latin rationale与rationalis理性有据。现代类比不当历史。"
+      }
+    ],
+    "modules": [
+      {
+        "id": "headword",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "rationale英式/ˌræʃəˈnɑːl/、n.与Oxford条目一致",
+          "completion": "explain the rationale与当前用法适合，IPA说明齐全",
+          "readability": "短字段可直接辨认词与词性",
+          "increment": "客观词头无须凑长解释；搭配帮助提取"
+        },
+        "issues": []
+      },
+      {
+        "id": "currentSense",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "the reasons used to explain a decision or action适合当前句；当前义不冒充所有词义",
+          "completion": "当前中英义与focused sense匹配，单词卡不需虚造拆词",
+          "readability": "当前中文：某项决定或方案背后的理由",
+          "increment": "与更多义项已分离，无相同sense重复"
+        },
+        "issues": []
+      },
+      {
+        "id": "directExplanation",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "桥接符合原句：已经知道优先级变了，现在问的是为什么要改。对方应解释新信息或限制怎样导致这个决定，而不只是",
+          "completion": "提供用法或具体场景，不只再译一次词头",
+          "readability": "汉语先交代发生什么，例子可直接想象",
+          "increment": "加入当前语境的具体推理，帮助从释义走到用途"
+        },
+        "issues": []
+      },
+      {
+        "id": "etymology",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "Late Latin rationale与rationalis理性有据；来自本次独立读取",
+          "completion": "历史、现代联系、当前用法三段均在；来源事实与记忆类比分开",
+          "readability": "少量拉丁词保留但有中文，当前回用与前区重复",
+          "increment": "历史新增理解；modern/current两段多重述五区，增量只给3"
+        },
+        "issues": []
+      },
+      {
+        "id": "context",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "原句与译文逐句一致：Could you explain the rationale for changing the priority?",
+          "completion": "英文、中文、本句抓手均存在",
+          "readability": "译文保持请求/陈述及否定/条件的语气",
+          "increment": "本句提供唯一学习语境，不要求另加泛化段落"
+        },
+        "issues": []
+      },
+      {
+        "id": "additionalSenses",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "独立核实扩展：rational:理性的；合乎理据的",
+          "completion": "不是当前sense复制；不同词性/同族lemma明确",
+          "readability": "换lemma需要读者注意，词性标签可区分",
+          "increment": "提供词族或另一词性，增量有限但真实"
+        },
+        "issues": []
+      },
+      {
+        "id": "examples",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "已读全部原卡补充英中；用法属于当前义：Record the rationale for each exception.",
+          "completion": "两例含本句及可见附加例句；明确教学性质",
+          "readability": "英文短句与中文对应清楚",
+          "increment": "附加句换应用对象或动作，提供独立练习"
+        },
+        "issues": []
+      },
+      {
+        "id": "copyPayload",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "冻结源码负载为 rationale 与 【深析】rationale",
+          "completion": "上下两组同一copies函数，约定字符串完整",
+          "readability": "无隐形释义或来源拼入负载",
+          "increment": "保持精确目标词，功能交互另由浏览器QA负责"
+        },
+        "issues": []
+      }
+    ]
+  }
+]

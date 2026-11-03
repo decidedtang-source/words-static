@@ -1,0 +1,4996 @@
+{
+  "ruleVersion": "five-zone/2",
+  "productionImportAllowed": false,
+  "entries": {
+    "V20261012-001": {
+      "status": "CANDIDATE",
+      "errors": [],
+      "zones": [
+        {
+          "id": "g1",
+          "score": 88.75,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 4,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "画边界与安装/培训正反例清楚，类比不作词源",
+            "completion": "画边界与安装/培训正反例清楚，类比不作词源。该区核心任务及关键误读已落到实际原句；清楚完成当前教学目的，未达到可确认的更高效率优势。",
+            "readability": "先问做哪些再给安装/培训的一正一反，画框自然落到具体对象",
+            "increment": "画边界与安装/培训正反例清楚，类比不作词源；与前区或相邻区存在适度教学复现，未给满分。"
+          },
+          "issues": []
+        },
+        {
+          "id": "g2",
+          "score": 90,
+          "scores": {
+            "accuracy": 4,
+            "completion": 4,
+            "readability": 3,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "before estimating的动作主语和先后解释正确，句法术语稍密",
+            "completion": "before estimating的动作主语和先后解释正确，句法术语稍密。该区核心任务及关键误读已落到实际原句；措辞线索、解释与应用衔接完整且没有无关追加任务。",
+            "readability": "两步已经分开，但before后动作主语说明接成本因果，读者需转换两层任务",
+            "increment": "before estimating的动作主语和先后解释正确，句法术语稍密；与前区或相邻区存在适度教学复现，未给满分。"
+          },
+          "issues": []
+        },
+        {
+          "id": "g3",
+          "score": 82.5,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 3,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "APM scope/objectives原页明确两者均可涉及outputs/outcomes/benefits；正文用侧重点区分并承认可同为成果，精准避免互斥误导。",
+            "completion": "范围和目标可共享产出，避免了互斥，但培训例子复现。该区核心任务及关键误读已落到实际原句；清楚完成当前教学目的，未达到可确认的更高效率优势。",
+            "readability": "培训例后又补目标也可写成果，再转in/out，信息层次较多",
+            "increment": "范围和目标可共享产出，避免了互斥，但培训例子复现；与前区或相邻区存在适度教学复现，未给满分。"
+          },
+          "issues": []
+        },
+        {
+          "id": "g4",
+          "score": 96.25,
+          "scores": {
+            "accuracy": 4,
+            "completion": 4,
+            "readability": 4,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "need to/before支持准备行动，回应询问培训可推进估价",
+            "completion": "need to/before支持准备行动，回应询问培训可推进估价。该区核心任务及关键误读已落到实际原句；措辞线索、解释与应用衔接完整且没有无关追加任务。",
+            "readability": "先说明准备行动，再给措辞、回应和估价下一步，顺序一致",
+            "increment": "need to/before支持准备行动，回应询问培训可推进估价；与前区或相邻区存在适度教学复现，未给满分。"
+          },
+          "issues": []
+        },
+        {
+          "id": "g5",
+          "score": 82.5,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 3,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "included in scope问句和替换槽可用，training与04重复",
+            "completion": "included in scope问句和替换槽可用，training与04重复。该区核心任务及关键误读已落到实际原句；清楚完成当前教学目的，未达到可确认的更高效率优势。",
+            "readability": "英文问句后连续给两个英文替换项，读者还需自行配上中文对象",
+            "increment": "included in scope问句和替换槽可用，training与04重复；与前区或相邻区存在适度教学复现，未给满分。"
+          },
+          "issues": []
+        }
+      ],
+      "total": 88.375,
+      "key": "33b8ab5089d85ee89aabebafdf9208f8795762b354e3cb7e66215d2486214cf0",
+      "reused": false
+    },
+    "V20261012-002": {
+      "status": "CANDIDATE",
+      "errors": [],
+      "zones": [
+        {
+          "id": "g1",
+          "score": 88.75,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 4,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "表单动作和审批耗时结果对照具体，记忆线索明确",
+            "completion": "表单动作和审批耗时结果对照具体，记忆线索明确。该区核心任务及关键误读已落到实际原句；清楚完成当前教学目的，未达到可确认的更高效率优势。",
+            "readability": "表单动作与减少等待结果紧邻对照，从具体动作到目的一步可懂",
+            "increment": "表单动作和审批耗时结果对照具体，记忆线索明确；与前区或相邻区存在适度教学复现，未给满分。"
+          },
+          "issues": []
+        },
+        {
+          "id": "g2",
+          "score": 90,
+          "scores": {
+            "accuracy": 4,
+            "completion": 4,
+            "readability": 3,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "spent修饰time与不定式内容分析正确，不误解审批有效期",
+            "completion": "spent修饰time与不定式内容分析正确，不误解审批有效期。该区核心任务及关键误读已落到实际原句；措辞线索、解释与应用衔接完整且没有无关追加任务。",
+            "readability": "主语、不定式、过去分词修饰和两种误读集中一段，句法负担确实较高",
+            "increment": "spent修饰time与不定式内容分析正确，不误解审批有效期；与前区或相邻区存在适度教学复现，未给满分。"
+          },
+          "issues": []
+        },
+        {
+          "id": "g3",
+          "score": 88.75,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 4,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "goal和objective不强行一宽一窄，deliverable另看可交成果",
+            "completion": "goal和objective不强行一宽一窄，deliverable另看可交成果。该区核心任务及关键误读已落到实际原句；清楚完成当前教学目的，未达到可确认的更高效率优势。",
+            "readability": "先承认goal重叠，再用交表单/看效率区分成果和目标，层次清楚",
+            "increment": "goal和objective不强行一宽一窄，deliverable另看可交成果；与前区或相邻区存在适度教学复现，未给满分。"
+          },
+          "issues": []
+        },
+        {
+          "id": "g4",
+          "score": 96.25,
+          "scores": {
+            "accuracy": 4,
+            "completion": 4,
+            "readability": 4,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "问如何测时承接目标表述，给了后续比较依据",
+            "completion": "问如何测时承接目标表述，给了后续比较依据。该区核心任务及关键误读已落到实际原句；措辞线索、解释与应用衔接完整且没有无关追加任务。",
+            "readability": "定方向后问怎样测时间，自编回应与下一步比较直接相接",
+            "increment": "问如何测时承接目标表述，给了后续比较依据；与前区或相邻区存在适度教学复现，未给满分。"
+          },
+          "issues": []
+        },
+        {
+          "id": "g5",
+          "score": 92.5,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 4,
+            "increment": 4
+          },
+          "reasons": {
+            "accuracy": "cut review time by one day可替换数值，目标和成绩分清",
+            "completion": "cut review time by one day可替换数值，目标和成绩分清。该区核心任务及关键误读已落到实际原句；清楚完成当前教学目的，未达到可确认的更高效率优势。",
+            "readability": "完整量化句后只换一个时长槽，最后明确目标不是成绩，容易照用",
+            "increment": "cut review time by one day可替换数值，目标和成绩分清"
+          },
+          "issues": []
+        }
+      ],
+      "total": 91.625,
+      "key": "b42b15c4ca563c87c22c37cbb92b890de9ae3b9ac251cc876c87def5320d0e7e",
+      "reused": false
+    },
+    "V20261012-003": {
+      "status": "CANDIDATE",
+      "errors": [],
+      "zones": [
+        {
+          "id": "g1",
+          "score": 88.75,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 4,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "开会与可交方案对照清楚，说明成果不限纸质",
+            "completion": "开会与可交方案对照清楚，说明成果不限纸质。该区核心任务及关键误读已落到实际原句；清楚完成当前教学目的，未达到可确认的更高效率优势。",
+            "readability": "开会与交方案相邻，最后加不限纸质的短边界，记忆负担低",
+            "increment": "开会与可交方案对照清楚，说明成果不限纸质；与前区或相邻区存在适度教学复现，未给满分。"
+          },
+          "issues": []
+        },
+        {
+          "id": "g2",
+          "score": 96.25,
+          "scores": {
+            "accuracy": 4,
+            "completion": 4,
+            "readability": 4,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "list/复数/for first phase拆解完整，避免要求立即做完的过推",
+            "completion": "list/复数/for first phase拆解完整，避免要求立即做完的过推。该区核心任务及关键误读已落到实际原句；措辞线索、解释与应用衔接完整且没有无关追加任务。",
+            "readability": "list、复数、第一阶段逐一对应要做什么和范围，最后澄清非立即完成",
+            "increment": "list/复数/for first phase拆解完整，避免要求立即做完的过推；与前区或相邻区存在适度教学复现，未给满分。"
+          },
+          "issues": []
+        },
+        {
+          "id": "g3",
+          "score": 88.75,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 4,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "task与成果关系明确，milestone作为节点另分",
+            "completion": "task与成果关系明确，milestone作为节点另分。该区核心任务及关键误读已落到实际原句；清楚完成当前教学目的，未达到可确认的更高效率优势。",
+            "readability": "撰写检查修改对完成报告的例子具体，再用交什么/哪个节点区分",
+            "increment": "task与成果关系明确，milestone作为节点另分；与前区或相邻区存在适度教学复现，未给满分。"
+          },
+          "issues": []
+        },
+        {
+          "id": "g4",
+          "score": 96.25,
+          "scores": {
+            "accuracy": 4,
+            "completion": 4,
+            "readability": 4,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "draft report回应把抽象成果具体化，并追问接收要求",
+            "completion": "draft report回应把抽象成果具体化，并追问接收要求。该区核心任务及关键误读已落到实际原句；措辞线索、解释与应用衔接完整且没有无关追加任务。",
+            "readability": "要求成果清单紧接报告初稿回应，再补接收标准，能读出交流走向",
+            "increment": "draft report回应把抽象成果具体化，并追问接收要求；与前区或相邻区存在适度教学复现，未给满分。"
+          },
+          "issues": []
+        },
+        {
+          "id": "g5",
+          "score": 88.75,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 4,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "agree on deliverables句式适合启动讨论，phase可替为pilot",
+            "completion": "agree on deliverables句式适合启动讨论，phase可替为pilot。该区核心任务及关键误读已落到实际原句；清楚完成当前教学目的，未达到可确认的更高效率优势。",
+            "readability": "先给阶段启动时机，完整问句后只替phase为pilot，指令清楚",
+            "increment": "agree on deliverables句式适合启动讨论，phase可替为pilot；与前区或相邻区存在适度教学复现，未给满分。"
+          },
+          "issues": []
+        }
+      ],
+      "total": 92.125,
+      "key": "f52e2fa7444d075ca1043473199eb51dd7e9ff7ec36ccf0a6b3b73b37f2d13ed",
+      "reused": false
+    },
+    "V20261012-004": {
+      "status": "CANDIDATE",
+      "errors": [],
+      "zones": [
+        {
+          "id": "g1",
+          "score": 88.75,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 4,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "路标联系易记，不把路标当完成整个旅程",
+            "completion": "路标联系易记，不把路标当完成整个旅程。该区核心任务及关键误读已落到实际原句；清楚完成当前教学目的，未达到可确认的更高效率优势。",
+            "readability": "路标告诉走到哪与没走完全程形成简单图像，马上接reach搭配",
+            "increment": "路标联系易记，不把路标当完成整个旅程；与前区或相邻区存在适度教学复现，未给满分。"
+          },
+          "issues": []
+        },
+        {
+          "id": "g2",
+          "score": 96.25,
+          "scores": {
+            "accuracy": 4,
+            "completion": 4,
+            "readability": 4,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "过去式与after关系辨清，尤其没有推出评审即节点",
+            "completion": "过去式与after关系辨清，尤其没有推出评审即节点。该区核心任务及关键误读已落到实际原句；措辞线索、解释与应用衔接完整且没有无关追加任务。",
+            "readability": "过去式报告已达成，after只报先后，再指出不能推出批准，推理顺序清楚",
+            "increment": "过去式与after关系辨清，尤其没有推出评审即节点；与前区或相邻区存在适度教学复现，未给满分。"
+          },
+          "issues": []
+        },
+        {
+          "id": "g3",
+          "score": 82.5,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 3,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "节点、期限、交付物可关联但非同一概念，略密",
+            "completion": "节点、期限、交付物可关联但非同一概念，略密。该区核心任务及关键误读已落到实际原句；清楚完成当前教学目的，未达到可确认的更高效率优势。",
+            "readability": "节点/期限/成果三个概念再加成果被接受的定义方式，比较层次较多",
+            "increment": "节点、期限、交付物可关联但非同一概念，略密；与前区或相邻区存在适度教学复现，未给满分。"
+          },
+          "issues": []
+        },
+        {
+          "id": "g4",
+          "score": 96.25,
+          "scores": {
+            "accuracy": 4,
+            "completion": 4,
+            "readability": 4,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "已达成的进度汇报与下一节点问答自然",
+            "completion": "已达成的进度汇报与下一节点问答自然。该区核心任务及关键误读已落到实际原句；措辞线索、解释与应用衔接完整且没有无关追加任务。",
+            "readability": "已达成汇报接下一个节点的问答，时间方向直观",
+            "increment": "已达成的进度汇报与下一节点问答自然；与前区或相邻区存在适度教学复现，未给满分。"
+          },
+          "issues": []
+        },
+        {
+          "id": "g5",
+          "score": 92.5,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 4,
+            "increment": 4
+          },
+          "reasons": {
+            "accuracy": "expect与reached对照能迁移预测和已发生，补出时态差别",
+            "completion": "expect与reached对照能迁移预测和已发生，补出时态差别。该区核心任务及关键误读已落到实际原句；清楚完成当前教学目的，未达到可确认的更高效率优势。",
+            "readability": "expect预测与reached已发生直接对照，一个动词变化就说明状态差异",
+            "increment": "expect与reached对照能迁移预测和已发生，补出时态差别"
+          },
+          "issues": []
+        }
+      ],
+      "total": 91.625,
+      "key": "4ae13ba56ed43655ef71a05ffc10a618b53bed169449d8dbdc8767ffc89a1cd2",
+      "reused": false
+    },
+    "V20261012-005": {
+      "status": "CANDIDATE",
+      "errors": [],
+      "zones": [
+        {
+          "id": "g1",
+          "score": 88.75,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 4,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "排队图像表现资源取舍，不说其余工作不重要",
+            "completion": "排队图像表现资源取舍，不说其余工作不重要。该区核心任务及关键误读已落到实际原句；清楚完成当前教学目的，未达到可确认的更高效率优势。",
+            "readability": "时间有限时哪些先得资源的提问贴近日常排队，末句处理全都第一的误解",
+            "increment": "排队图像表现资源取舍，不说其余工作不重要；与前区或相邻区存在适度教学复现，未给满分。"
+          },
+          "issues": []
+        },
+        {
+          "id": "g2",
+          "score": 96.25,
+          "scores": {
+            "accuracy": 4,
+            "completion": 4,
+            "readability": 4,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "复数priorities和remaining限定读得清楚",
+            "completion": "复数priorities和remaining限定读得清楚。该区核心任务及关键误读已落到实际原句；措辞线索、解释与应用衔接完整且没有无关追加任务。",
+            "readability": "复数事项、剩余工作范围、尚未选定三层按原句顺序展开",
+            "increment": "复数priorities和remaining限定读得清楚；与前区或相邻区存在适度教学复现，未给满分。"
+          },
+          "issues": []
+        },
+        {
+          "id": "g3",
+          "score": 88.75,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 4,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "重要性与执行步骤区分，检查可以先做的例子有帮助",
+            "completion": "重要性与执行步骤区分，检查可以先做的例子有帮助。该区核心任务及关键误读已落到实际原句；清楚完成当前教学目的，未达到可确认的更高效率优势。",
+            "readability": "先区别重要与步骤，再用检查必须先做说明不等同，最后给top搭配",
+            "increment": "重要性与执行步骤区分，检查可以先做的例子有帮助；与前区或相邻区存在适度教学复现，未给满分。"
+          },
+          "issues": []
+        },
+        {
+          "id": "g4",
+          "score": 96.25,
+          "scores": {
+            "accuracy": 4,
+            "completion": 4,
+            "readability": 4,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "安全评审回应具体且留给共同决定",
+            "completion": "安全评审回应具体且留给共同决定。该区核心任务及关键误读已落到实际原句；措辞线索、解释与应用衔接完整且没有无关追加任务。",
+            "readability": "从开启排序到安全评审候选再到讨论理由，读者容易接上对话",
+            "increment": "安全评审回应具体且留给共同决定；与前区或相邻区存在适度教学复现，未给满分。"
+          },
+          "issues": []
+        },
+        {
+          "id": "g5",
+          "score": 88.75,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 4,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "争用人力场景加this week边界，提出具体优先项",
+            "completion": "争用人力场景加this week边界，提出具体优先项。该区核心任务及关键误读已落到实际原句；清楚完成当前教学目的，未达到可确认的更高效率优势。",
+            "readability": "本周争用人力场景、问题、主张三步连贯，英文句都短",
+            "increment": "争用人力场景加this week边界，提出具体优先项；与前区或相邻区存在适度教学复现，未给满分。"
+          },
+          "issues": []
+        }
+      ],
+      "total": 92.125,
+      "key": "77cbda7076808c5ee4fe1f125d8c56515a7cb7c14136889da584b29bfc661c35",
+      "reused": false
+    },
+    "V20261012-006": {
+      "status": "CANDIDATE",
+      "errors": [],
+      "zones": [
+        {
+          "id": "g1",
+          "score": 82.5,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 3,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "人数缩小方案空间的联系贴合主例句",
+            "completion": "人数缩小方案空间的联系贴合主例句。该区核心任务及关键误读已落到实际原句；清楚完成当前教学目的，未达到可确认的更高效率优势。",
+            "readability": "从绕着走的限制转可选空间再转人数投入，第一句仍偏抽象",
+            "increment": "人数缩小方案空间的联系贴合主例句；与前区或相邻区存在适度教学复现，未给满分。"
+          },
+          "issues": []
+        },
+        {
+          "id": "g2",
+          "score": 96.25,
+          "scores": {
+            "accuracy": 4,
+            "completion": 4,
+            "readability": 4,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "number是核心，available修饰reviewers，不推断技能差",
+            "completion": "number是核心，available修饰reviewers，不推断技能差。该区核心任务及关键误读已落到实际原句；措辞线索、解释与应用衔接完整且没有无关追加任务。",
+            "readability": "先定位人数，再拆available，最后排除技能/工时过推，线索紧贴原句",
+            "increment": "number是核心，available修饰reviewers，不推断技能差；与前区或相邻区存在适度教学复现，未给满分。"
+          },
+          "issues": []
+        },
+        {
+          "id": "g3",
+          "score": 88.75,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 4,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "当前限制和未来风险作谨慎对照，可直接用于判断",
+            "completion": "当前限制和未来风险作谨慎对照，可直接用于判断。该区核心任务及关键误读已落到实际原句；清楚完成当前教学目的，未达到可确认的更高效率优势。",
+            "readability": "当前人数不足与未来请假构成清楚时间对照，紧接常用相邻表达",
+            "increment": "当前限制和未来风险作谨慎对照，可直接用于判断；与前区或相邻区存在适度教学复现，未给满分。"
+          },
+          "issues": []
+        },
+        {
+          "id": "g4",
+          "score": 96.25,
+          "scores": {
+            "accuracy": 4,
+            "completion": 4,
+            "readability": 4,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "stagger reviews回应尝试在同人数下变安排，需再查可行性",
+            "completion": "stagger reviews回应尝试在同人数下变安排，需再查可行性。该区核心任务及关键误读已落到实际原句；措辞线索、解释与应用衔接完整且没有无关追加任务。",
+            "readability": "限制人数不变时尝试错开评审的回应具体，下一步可行性易懂",
+            "increment": "stagger reviews回应尝试在同人数下变安排，需再查可行性；与前区或相邻区存在适度教学复现，未给满分。"
+          },
+          "issues": []
+        },
+        {
+          "id": "g5",
+          "score": 88.75,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 4,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "within budget constraints到space替换成立，边界用途明确",
+            "completion": "within budget constraints到space替换成立，边界用途明确。该区核心任务及关键误读已落到实际原句；清楚完成当前教学目的，未达到可确认的更高效率优势。",
+            "readability": "预算句只替为空间，within的边界作用紧跟解释，无额外跳跃",
+            "increment": "within budget constraints到space替换成立，边界用途明确；与前区或相邻区存在适度教学复现，未给满分。"
+          },
+          "issues": []
+        }
+      ],
+      "total": 91.1875,
+      "key": "889b2994671edce42771800d8a073602e5a992a27f43cde70f6e3ceea8079b42",
+      "reused": false
+    },
+    "V20261012-007": {
+      "status": "CANDIDATE",
+      "errors": [],
+      "zones": [
+        {
+          "id": "g1",
+          "score": 82.5,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 3,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "A等B直观且注明不一定结束后才开始",
+            "completion": "A等B直观且注明不一定结束后才开始。该区核心任务及关键误读已落到实际原句；清楚完成当前教学目的，未达到可确认的更高效率优势。",
+            "readability": "A等B容易懂，但随即例外、前置成果、相互影响连续扩展，概念密度较大",
+            "increment": "A等B直观且注明不一定结束后才开始；与前区或相邻区存在适度教学复现，未给满分。"
+          },
+          "issues": []
+        },
+        {
+          "id": "g2",
+          "score": 96.25,
+          "scores": {
+            "accuracy": 4,
+            "completion": 4,
+            "readability": 4,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "identify dependencies和before finalizing讲明检查先于定稿",
+            "completion": "identify dependencies和before finalizing讲明检查先于定稿。该区核心任务及关键误读已落到实际原句；措辞线索、解释与应用衔接完整且没有无关追加任务。",
+            "readability": "识别再定稿先后清楚，复数与不必延期的边界贴合任务",
+            "increment": "identify dependencies和before finalizing讲明检查先于定稿；与前区或相邻区存在适度教学复现，未给满分。"
+          },
+          "issues": []
+        },
+        {
+          "id": "g3",
+          "score": 82.5,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 3,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "正常依赖和blocker分开，不把先后顺序等同硬依赖",
+            "completion": "正常依赖和blocker分开，不把先后顺序等同硬依赖。该区核心任务及关键误读已落到实际原句；清楚完成当前教学目的，未达到可确认的更高效率优势。",
+            "readability": "依赖、顺序、管理安排与blocker连讲，读者需保持多个对照对象",
+            "increment": "正常依赖和blocker分开，不把先后顺序等同硬依赖；与前区或相邻区存在适度教学复现，未给满分。"
+          },
+          "issues": []
+        },
+        {
+          "id": "g4",
+          "score": 96.25,
+          "scores": {
+            "accuracy": 4,
+            "completion": 4,
+            "readability": 4,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "原型就绪回应指定依赖对象，下一步查可用时间",
+            "completion": "原型就绪回应指定依赖对象，下一步查可用时间。该区核心任务及关键误读已落到实际原句；措辞线索、解释与应用衔接完整且没有无关追加任务。",
+            "readability": "测试等原型的回应把关系具体化，追问日期自然接续",
+            "increment": "原型就绪回应指定依赖对象，下一步查可用时间；与前区或相邻区存在适度教学复现，未给满分。"
+          },
+          "issues": []
+        },
+        {
+          "id": "g5",
+          "score": 88.75,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 4,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "supplier report和design approval替换都能用于问前提",
+            "completion": "supplier report和design approval替换都能用于问前提。该区核心任务及关键误读已落到实际原句；清楚完成当前教学目的，未达到可确认的更高效率优势。",
+            "readability": "外部报告和设计批准两个输入只替换名词，末句核日期内容明确",
+            "increment": "supplier report和design approval替换都能用于问前提；与前区或相邻区存在适度教学复现，未给满分。"
+          },
+          "issues": []
+        }
+      ],
+      "total": 89.9375,
+      "key": "5dc56e0c27b42354062eba4f9d847aec58e2f3ec684a3ad7f51b9b8aca6cfe93",
+      "reused": false
+    },
+    "V20261012-008": {
+      "status": "CANDIDATE",
+      "errors": [],
+      "zones": [
+        {
+          "id": "g1",
+          "score": 88.75,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 4,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "垫板类比标示为记忆，不把假设等于错误",
+            "completion": "垫板类比标示为记忆，不把假设等于错误。该区核心任务及关键误读已落到实际原句；清楚完成当前教学目的，未达到可确认的更高效率优势。",
+            "readability": "垫板稳不稳的图像先出现，再说是假设非必错，理解路径连贯",
+            "increment": "垫板类比标示为记忆，不把假设等于错误；与前区或相邻区存在适度教学复现，未给满分。"
+          },
+          "issues": []
+        },
+        {
+          "id": "g2",
+          "score": 96.25,
+          "scores": {
+            "accuracy": 4,
+            "completion": 4,
+            "readability": 4,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "被动need to be checked与with supplier解释自然",
+            "completion": "被动need to be checked与with supplier解释自然。该区核心任务及关键误读已落到实际原句；措辞线索、解释与应用衔接完整且没有无关追加任务。",
+            "readability": "被检查对象、动作、沟通人逐一说清，最后保留未知负责人",
+            "increment": "被动need to be checked与with supplier解释自然；与前区或相邻区存在适度教学复现，未给满分。"
+          },
+          "issues": []
+        },
+        {
+          "id": "g3",
+          "score": 82.5,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 3,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "估算可基于假设，fact需依据，三者关系比硬分更好",
+            "completion": "估算可基于假设，fact需依据，三者关系比硬分更好。该区核心任务及关键误读已落到实际原句；清楚完成当前教学目的，未达到可确认的更高效率优势。",
+            "readability": "假设/事实/估算三项再加交期材料例，关系正确但承载信息多",
+            "increment": "估算可基于假设，fact需依据，三者关系比硬分更好；与前区或相邻区存在适度教学复现，未给满分。"
+          },
+          "issues": []
+        },
+        {
+          "id": "g4",
+          "score": 96.25,
+          "scores": {
+            "accuracy": 4,
+            "completion": 4,
+            "readability": 4,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "回应接下联系供应商动作，未冒充已经确认",
+            "completion": "回应接下联系供应商动作，未冒充已经确认。该区核心任务及关键误读已落到实际原句；措辞线索、解释与应用衔接完整且没有无关追加任务。",
+            "readability": "要求核实到认领联系再到计划影响，是可跟随的工作顺序",
+            "increment": "回应接下联系供应商动作，未冒充已经确认；与前区或相邻区存在适度教学复现，未给满分。"
+          },
+          "issues": []
+        },
+        {
+          "id": "g5",
+          "score": 88.75,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 4,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "based on assumption that结构完整，最后提醒另外标明确认依据",
+            "completion": "based on assumption that结构完整，最后提醒另外标明确认依据。该区核心任务及关键误读已落到实际原句；清楚完成当前教学目的，未达到可确认的更高效率优势。",
+            "readability": "估算的that条件完整展示，最后提醒说明确认依据，指代明确",
+            "increment": "based on assumption that结构完整，最后提醒另外标明确认依据；与前区或相邻区存在适度教学复现，未给满分。"
+          },
+          "issues": []
+        }
+      ],
+      "total": 90.875,
+      "key": "64787604eabb73a2323250deb3b5d5f21295e3af54cc4eae341353af3f797f2c",
+      "reused": false
+    },
+    "V20261012-009": {
+      "status": "CANDIDATE",
+      "errors": [],
+      "zones": [
+        {
+          "id": "g1",
+          "score": 88.75,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 4,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "起始称重读数便于记忆，不把基准当目标",
+            "completion": "起始称重读数便于记忆，不把基准当目标。该区核心任务及关键误读已落到实际原句；清楚完成当前教学目的，未达到可确认的更高效率优势。",
+            "readability": "称重初始读数先建立图像，再排除优秀值/目标值，例子帮助理解",
+            "increment": "起始称重读数便于记忆，不把基准当目标；与前区或相邻区存在适度教学复现，未给满分。"
+          },
+          "issues": []
+        },
+        {
+          "id": "g2",
+          "score": 96.25,
+          "scores": {
+            "accuracy": 4,
+            "completion": 4,
+            "readability": 4,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "before measuring强调参照先于比较，未把目标值混入",
+            "completion": "before measuring强调参照先于比较，未把目标值混入。该区核心任务及关键误读已落到实际原句；措辞线索、解释与应用衔接完整且没有无关追加任务。",
+            "readability": "先基准再测变化重复的是同一顺序，解释紧贴原句不会另开话题",
+            "increment": "before measuring强调参照先于比较，未把目标值混入；与前区或相邻区存在适度教学复现，未给满分。"
+          },
+          "issues": []
+        },
+        {
+          "id": "g3",
+          "score": 82.5,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 3,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "benchmark不永远行业最佳的限定准确，辨析有实际意义",
+            "completion": "benchmark不永远行业最佳的限定准确，辨析有实际意义。该区核心任务及关键误读已落到实际原句；清楚完成当前教学目的，未达到可确认的更高效率优势。",
+            "readability": "baseline/target/benchmark三词与行业最佳限定放一起，需多次对照",
+            "increment": "benchmark不永远行业最佳的限定准确，辨析有实际意义；与前区或相邻区存在适度教学复现，未给满分。"
+          },
+          "issues": []
+        },
+        {
+          "id": "g4",
+          "score": 96.25,
+          "scores": {
+            "accuracy": 4,
+            "completion": 4,
+            "readability": 4,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "上月平均耗时是候选基准，提醒再核统计口径",
+            "completion": "上月平均耗时是候选基准，提醒再核统计口径。该区核心任务及关键误读已落到实际原句；措辞线索、解释与应用衔接完整且没有无关追加任务。",
+            "readability": "上月平均耗时把起点具体化，核统计口径作为下一步很自然",
+            "increment": "上月平均耗时是候选基准，提醒再核统计口径；与前区或相邻区存在适度教学复现，未给满分。"
+          },
+          "issues": []
+        },
+        {
+          "id": "g5",
+          "score": 92.5,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 4,
+            "increment": 4
+          },
+          "reasons": {
+            "accuracy": "error rate换review time自然，统计期间提醒可执行",
+            "completion": "error rate换review time自然，统计期间提醒可执行。该区核心任务及关键误读已落到实际原句；清楚完成当前教学目的，未达到可确认的更高效率优势。",
+            "readability": "错误率到耗时只换指标，统计期间作为补充条件清楚",
+            "increment": "error rate换review time自然，统计期间提醒可执行"
+          },
+          "issues": []
+        }
+      ],
+      "total": 91.625,
+      "key": "3bb768c12869321c20651df029fbfc1015c083207a3d7c799824a3f25b590c28",
+      "reused": false
+    },
+    "V20261012-010": {
+      "status": "CANDIDATE",
+      "errors": [],
+      "zones": [
+        {
+          "id": "g1",
+          "score": 88.75,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 4,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "软垫类比承接变化，时限余量不是保证无风险",
+            "completion": "软垫类比承接变化，时限余量不是保证无风险。该区核心任务及关键误读已落到实际原句；清楚完成当前教学目的，未达到可确认的更高效率优势。",
+            "readability": "软垫承冲击后直接过渡时间余量，主例句两天即时对应",
+            "increment": "软垫类比承接变化，时限余量不是保证无风险；与前区或相邻区存在适度教学复现，未给满分。"
+          },
+          "issues": []
+        },
+        {
+          "id": "g2",
+          "score": 90,
+          "scores": {
+            "accuracy": 4,
+            "completion": 4,
+            "readability": 3,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "two-day前置day不加s正确，区分正常评审总时长",
+            "completion": "two-day前置day不加s正确，区分正常评审总时长。该区核心任务及关键误读已落到实际原句；措辞线索、解释与应用衔接完整且没有无关追加任务。",
+            "readability": "计划已含、two-day形态与正常评审时长三种任务同段，需切换焦点",
+            "increment": "two-day前置day不加s正确，区分正常评审总时长；与前区或相邻区存在适度教学复现，未给满分。"
+          },
+          "issues": []
+        },
+        {
+          "id": "g3",
+          "score": 88.75,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 4,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "buffer预留与delay发生区别实用，extra time差别合理",
+            "completion": "buffer预留与delay发生区别实用，extra time差别合理。该区核心任务及关键误读已落到实际原句；清楚完成当前教学目的，未达到可确认的更高效率优势。",
+            "readability": "预留buffer与已发生delay先对照，再说extra time泛称，层次分明",
+            "increment": "buffer预留与delay发生区别实用，extra time差别合理；与前区或相邻区存在适度教学复现，未给满分。"
+          },
+          "issues": []
+        },
+        {
+          "id": "g4",
+          "score": 96.25,
+          "scores": {
+            "accuracy": 4,
+            "completion": 4,
+            "readability": 4,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "问最终日期是否已计缓冲，避免各方口径不同",
+            "completion": "问最终日期是否已计缓冲，避免各方口径不同。该区核心任务及关键误读已落到实际原句；措辞线索、解释与应用衔接完整且没有无关追加任务。",
+            "readability": "最终日期是否含缓冲的问句直指理解分歧，下一步口径容易懂",
+            "increment": "问最终日期是否已计缓冲，避免各方口径不同；与前区或相邻区存在适度教学复现，未给满分。"
+          },
+          "issues": []
+        },
+        {
+          "id": "g5",
+          "score": 88.75,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 4,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "one-day buffer before shipment自然，可换two-day且明确建议",
+            "completion": "one-day buffer before shipment自然，可换two-day且明确建议。该区核心任务及关键误读已落到实际原句；清楚完成当前教学目的，未达到可确认的更高效率优势。",
+            "readability": "发货前一天的完整问句与one/two替换简单，建议和延期状态分清",
+            "increment": "发货对象虽改变，但预留时长/用途/建议语气已在前区与02出现；新问句有迁移用处，尚非新的表达能力。"
+          },
+          "issues": []
+        }
+      ],
+      "total": 90.875,
+      "key": "244f801d8732440a26cf87b885e46485c2678334a148417646f30d83afd2d02f",
+      "reused": false
+    },
+    "V20261012-011": {
+      "status": "CANDIDATE",
+      "errors": [],
+      "zones": [
+        {
+          "id": "g1",
+          "score": 88.75,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 4,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "步骤编号联系具体，未把顺序等同交付要求",
+            "completion": "步骤编号联系具体，未把顺序等同交付要求。该区核心任务及关键误读已落到实际原句；清楚完成当前教学目的，未达到可确认的更高效率优势。",
+            "readability": "编号和先装先检的直观选择支撑顺序概念，最后限定非交付内容",
+            "increment": "步骤编号联系具体，未把顺序等同交付要求；与前区或相邻区存在适度教学复现，未给满分。"
+          },
+          "issues": []
+        },
+        {
+          "id": "g2",
+          "score": 90,
+          "scores": {
+            "accuracy": 4,
+            "completion": 4,
+            "readability": 3,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "agree on及of短语解释正确，权限边界保守",
+            "completion": "agree on及of短语解释正确，权限边界保守。该区核心任务及关键误读已落到实际原句；措辞线索、解释与应用衔接完整且没有无关追加任务。",
+            "readability": "agree on/of语法后突然加入共同决策权限条件，有一次语义跳转",
+            "increment": "agree on及of短语解释正确，权限边界保守；与前区或相邻区存在适度教学复现，未给满分。"
+          },
+          "issues": []
+        },
+        {
+          "id": "g3",
+          "score": 82.5,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 3,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "schedule包含时间而sequence谈顺序，priority单列",
+            "completion": "schedule包含时间而sequence谈顺序，priority单列。该区核心任务及关键误读已落到实际原句；清楚完成当前教学目的，未达到可确认的更高效率优势。",
+            "readability": "sequence/schedule/priority再列两个搭配，三概念并列密度较高",
+            "increment": "schedule包含时间而sequence谈顺序，priority单列；与前区或相邻区存在适度教学复现，未给满分。"
+          },
+          "issues": []
+        },
+        {
+          "id": "g4",
+          "score": 96.25,
+          "scores": {
+            "accuracy": 4,
+            "completion": 4,
+            "readability": 4,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "检查后装配的回应给出具体排列，便于共同确认",
+            "completion": "检查后装配的回应给出具体排列，便于共同确认。该区核心任务及关键误读已落到实际原句；措辞线索、解释与应用衔接完整且没有无关追加任务。",
+            "readability": "检查零件再装配的回应把共同商定具体化，无抽象程序描述",
+            "increment": "检查后装配的回应给出具体排列，便于共同确认；与前区或相邻区存在适度教学复现，未给满分。"
+          },
+          "issues": []
+        },
+        {
+          "id": "g5",
+          "score": 88.75,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 4,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "walk me through assembly sequence自然，替换testing可用",
+            "completion": "walk me through assembly sequence自然，替换testing可用。该区核心任务及关键误读已落到实际原句；清楚完成当前教学目的，未达到可确认的更高效率优势。",
+            "readability": "装配换测试的单槽替换之后补一步步说明，句间直接承接",
+            "increment": "walk me through assembly sequence自然，替换testing可用；与前区或相邻区存在适度教学复现，未给满分。"
+          },
+          "issues": []
+        }
+      ],
+      "total": 89.625,
+      "key": "5dcff0845f84045626ca27fae3dfa05cd2f93f6ead905837d8624907730d0b68",
+      "reused": false
+    },
+    "V20261012-012": {
+      "status": "CANDIDATE",
+      "errors": [],
+      "zones": [
+        {
+          "id": "g1",
+          "score": 88.75,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 4,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "会做不等于还能接的容器类比贴合当前句",
+            "completion": "会做不等于还能接的容器类比贴合当前句。该区核心任务及关键误读已落到实际原句；清楚完成当前教学目的，未达到可确认的更高效率优势。",
+            "readability": "会做与还能接的差别先说，随后追问瓶颈而非能力差，图像与边界紧邻",
+            "increment": "会做不等于还能接的容器类比贴合当前句；与前区或相邻区存在适度教学复现，未给满分。"
+          },
+          "issues": []
+        },
+        {
+          "id": "g2",
+          "score": 96.25,
+          "scores": {
+            "accuracy": 4,
+            "completion": 4,
+            "readability": 4,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "not enough与both避免读成两个全不能做，否定范围讲清",
+            "completion": "not enough与both避免读成两个全不能做，否定范围讲清。该区核心任务及关键误读已落到实际原句；措辞线索、解释与应用衔接完整且没有无关追加任务。",
+            "readability": "not enough与both的范围逐步拆开，再排除全不能做和永久限制，逻辑清楚",
+            "increment": "not enough与both避免读成两个全不能做，否定范围讲清；与前区或相邻区存在适度教学复现，未给满分。"
+          },
+          "issues": []
+        },
+        {
+          "id": "g3",
+          "score": 82.5,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 3,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "capacity/capability明确可重叠，没有机械二分",
+            "completion": "capacity/capability明确可重叠，没有机械二分。该区核心任务及关键误读已落到实际原句；清楚完成当前教学目的，未达到可确认的更高效率优势。",
+            "readability": "capacity/capability/busy/available capacity四种表达同段，概念切换较多",
+            "increment": "capacity/capability明确可重叠，没有机械二分；与前区或相邻区存在适度教学复现，未给满分。"
+          },
+          "issues": []
+        },
+        {
+          "id": "g4",
+          "score": 96.25,
+          "scores": {
+            "accuracy": 4,
+            "completion": 4,
+            "readability": 4,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "先启动哪个项目回应自然，未把资源问题归咎技能差",
+            "completion": "先启动哪个项目回应自然，未把资源问题归咎技能差。该区核心任务及关键误读已落到实际原句；措辞线索、解释与应用衔接完整且没有无关追加任务。",
+            "readability": "资源异议到先做哪个项目回应很直观，后续两种选择短而清楚",
+            "increment": "先启动哪个项目回应自然，未把资源问题归咎技能差；与前区或相邻区存在适度教学复现，未给满分。"
+          },
+          "issues": []
+        },
+        {
+          "id": "g5",
+          "score": 88.75,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 4,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "capacity for another review加本周窗口，可直接问当前余力",
+            "completion": "capacity for another review加本周窗口，可直接问当前余力。该区核心任务及关键误读已落到实际原句；清楚完成当前教学目的，未达到可确认的更高效率优势。",
+            "readability": "另加本周评审的具体问句把for事项与时段连在一起，能直接照用",
+            "increment": "capacity for another review加本周窗口，可直接问当前余力；与前区或相邻区存在适度教学复现，未给满分。"
+          },
+          "issues": []
+        }
+      ],
+      "total": 90.875,
+      "key": "c10a65af9b3853d74ae289db7161c08a7246682e5c33eb6e9a00f4b8ef1ac444",
+      "reused": false
+    },
+    "V20261012-013": {
+      "status": "CANDIDATE",
+      "errors": [],
+      "zones": [
+        {
+          "id": "g1",
+          "score": 88.75,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 4,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "划份额联系时间人手资金，具体说明用途",
+            "completion": "划份额联系时间人手资金，具体说明用途。该区核心任务及关键误读已落到实际原句；清楚完成当前教学目的，未达到可确认的更高效率优势。",
+            "readability": "把时间钱人手划份额的图像简单，主句更多时间立即对上",
+            "increment": "划份额联系时间人手资金，具体说明用途；与前区或相邻区存在适度教学复现，未给满分。"
+          },
+          "issues": []
+        },
+        {
+          "id": "g2",
+          "score": 90,
+          "scores": {
+            "accuracy": 4,
+            "completion": 4,
+            "readability": 3,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "should建议、more未给数值、to去向均核对正确",
+            "completion": "should建议、more未给数值、to去向均核对正确。该区核心任务及关键误读已落到实际原句；措辞线索、解释与应用衔接完整且没有无关追加任务。",
+            "readability": "should、宾语、to、more、initial五个语法/语义点连续列出，读者需分段消化",
+            "increment": "should建议、more未给数值、to去向均核对正确；与前区或相邻区存在适度教学复现，未给满分。"
+          },
+          "issues": []
+        },
+        {
+          "id": "g3",
+          "score": 88.75,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 4,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "allocate计划和spend实际花费对照可操作，不声称互斥",
+            "completion": "allocate计划和spend实际花费对照可操作，不声称互斥。该区核心任务及关键误读已落到实际原句；清楚完成当前教学目的，未达到可确认的更高效率优势。",
+            "readability": "先分配后花掉的先后直观，再接assign任务对照，主线仍清楚",
+            "increment": "allocate计划和spend实际花费对照可操作，不声称互斥；与前区或相邻区存在适度教学复现，未给满分。"
+          },
+          "issues": []
+        },
+        {
+          "id": "g4",
+          "score": 96.25,
+          "scores": {
+            "accuracy": 4,
+            "completion": 4,
+            "readability": 4,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "追问extra time把方向变数字，推进实际排程",
+            "completion": "追问extra time把方向变数字，推进实际排程。该区核心任务及关键误读已落到实际原句；措辞线索、解释与应用衔接完整且没有无关追加任务。",
+            "readability": "more time的建议后追问数值，下一步排计划顺理成章",
+            "increment": "追问extra time把方向变数字，推进实际排程；与前区或相邻区存在适度教学复现，未给满分。"
+          },
+          "issues": []
+        },
+        {
+          "id": "g5",
+          "score": 88.75,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 4,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "two hours to design review替换half a day语法正确",
+            "completion": "two hours to design review替换half a day语法正确。该区核心任务及关键误读已落到实际原句；清楚完成当前教学目的，未达到可确认的更高效率优势。",
+            "readability": "两小时换半天只改一个份额，to用途说明紧随句子",
+            "increment": "two hours to design review替换half a day语法正确；与前区或相邻区存在适度教学复现，未给满分。"
+          },
+          "issues": []
+        }
+      ],
+      "total": 90.875,
+      "key": "f173c1d604ffbc0ba5ff9538ae66373edd919e549e3bb1203609c0c56f5d6185",
+      "reused": false
+    },
+    "V20261012-014": {
+      "status": "CANDIDATE",
+      "errors": [],
+      "zones": [
+        {
+          "id": "g1",
+          "score": 88.75,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 4,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "交明确任务而非甩整个项目，任务与权限提醒有据",
+            "completion": "交明确任务而非甩整个项目，任务与权限提醒有据。该区核心任务及关键误读已落到实际原句；清楚完成当前教学目的，未达到可确认的更高效率优势。",
+            "readability": "交数据收集而非整个项目的对照具体，再说交谁/标准/权限，主旨统一",
+            "increment": "交明确任务而非甩整个项目，任务与权限提醒有据；与前区或相邻区存在适度教学复现，未给满分。"
+          },
+          "issues": []
+        },
+        {
+          "id": "g2",
+          "score": 96.25,
+          "scores": {
+            "accuracy": 4,
+            "completion": 4,
+            "readability": 4,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "can是选项，to指出接收者，不错读成已移交",
+            "completion": "can是选项，to指出接收者，不错读成已移交。该区核心任务及关键误读已落到实际原句；措辞线索、解释与应用衔接完整且没有无关追加任务。",
+            "readability": "可选做法、任务、接收者依原句顺序，末句说明还没移交",
+            "increment": "can是选项，to指出接收者，不错读成已移交；与前区或相邻区存在适度教学复现，未给满分。"
+          },
+          "issues": []
+        },
+        {
+          "id": "g3",
+          "score": 88.75,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 4,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "delegate任务与allocate份额区别够用，末句提出交接说明",
+            "completion": "delegate任务与allocate份额区别够用，末句提出交接说明。该区核心任务及关键误读已落到实际原句；清楚完成当前教学目的，未达到可确认的更高效率优势。",
+            "readability": "两天时间与收集任务相邻对照资源和职责，提醒说明也顺着交接",
+            "increment": "delegate任务与allocate份额区别够用，末句提出交接说明；与前区或相邻区存在适度教学复现，未给满分。"
+          },
+          "issues": []
+        },
+        {
+          "id": "g4",
+          "score": 96.25,
+          "scores": {
+            "accuracy": 4,
+            "completion": 4,
+            "readability": 4,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "确认人选可用时间后委派的回应保守自然",
+            "completion": "确认人选可用时间后委派的回应保守自然。该区核心任务及关键误读已落到实际原句；措辞线索、解释与应用衔接完整且没有无关追加任务。",
+            "readability": "选项到确认梅有空再定人选任务，互动连贯",
+            "increment": "确认人选可用时间后委派的回应保守自然；与前区或相邻区存在适度教学复现，未给满分。"
+          },
+          "issues": []
+        },
+        {
+          "id": "g5",
+          "score": 88.75,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 4,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "weekly data check迁移明确，要求补标准时间避免空交接",
+            "completion": "weekly data check迁移明确，要求补标准时间避免空交接。该区核心任务及关键误读已落到实际原句；清楚完成当前教学目的，未达到可确认的更高效率优势。",
+            "readability": "weekly data check为具体任务，接着说明检查什么何时反馈，容易执行",
+            "increment": "weekly data check迁移明确，要求补标准时间避免空交接；与前区或相邻区存在适度教学复现，未给满分。"
+          },
+          "issues": []
+        }
+      ],
+      "total": 92.125,
+      "key": "3c15cce50636a11d1b3f500173767b8d4786d7fa99b6a7cf8217d1262ea114d1",
+      "reused": false
+    },
+    "V20261012-015": {
+      "status": "CANDIDATE",
+      "errors": [],
+      "zones": [
+        {
+          "id": "g1",
+          "score": 88.75,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 4,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "由我跟进的联系说明责任，不要求一人亲做全部",
+            "completion": "由我跟进的联系说明责任，不要求一人亲做全部。该区核心任务及关键误读已落到实际原句；清楚完成当前教学目的，未达到可确认的更高效率优势。",
+            "readability": "由我跟进对财产权、统筹对亲做全部的两个短对照都围绕同一抓手",
+            "increment": "由我跟进的联系说明责任，不要求一人亲做全部；与前区或相邻区存在适度教学复现，未给满分。"
+          },
+          "issues": []
+        },
+        {
+          "id": "g2",
+          "score": 96.25,
+          "scores": {
+            "accuracy": 4,
+            "completion": 4,
+            "readability": 4,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "who will及of的对象解释正确，没把问句读成指定人",
+            "completion": "who will及of的对象解释正确，没把问句读成指定人。该区核心任务及关键误读已落到实际原句；措辞线索、解释与应用衔接完整且没有无关追加任务。",
+            "readability": "Who will问人、of定事项，再说明未指名，沿原句逐步理解",
+            "increment": "who will及of的对象解释正确，没把问句读成指定人；与前区或相邻区存在适度教学复现，未给满分。"
+          },
+          "issues": []
+        },
+        {
+          "id": "g3",
+          "score": 82.5,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 3,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "ownership/accountability侧重不同且不推断审批权限",
+            "completion": "ownership/accountability侧重不同且不推断审批权限。该区核心任务及关键误读已落到实际原句；清楚完成当前教学目的，未达到可确认的更高效率优势。",
+            "readability": "ownership/accountability两义后引入预算审批签字权限，边界较密",
+            "increment": "ownership/accountability侧重不同且不推断审批权限；与前区或相邻区存在适度教学复现，未给满分。"
+          },
+          "issues": []
+        },
+        {
+          "id": "g4",
+          "score": 96.25,
+          "scores": {
+            "accuracy": 4,
+            "completion": 4,
+            "readability": 4,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "认领加明日反馈回应完成互动，下一步清楚",
+            "completion": "认领加明日反馈回应完成互动，下一步清楚。该区核心任务及关键误读已落到实际原句；措辞线索、解释与应用衔接完整且没有无关追加任务。",
+            "readability": "认领与明日反馈同句给出，后句指出两个功能，直接明白",
+            "increment": "认领加明日反馈回应完成互动，下一步清楚；与前区或相邻区存在适度教学复现，未给满分。"
+          },
+          "issues": []
+        },
+        {
+          "id": "g5",
+          "score": 88.75,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 4,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "clarify ownership of testing issues在多方场景自然",
+            "completion": "clarify ownership of testing issues在多方场景自然。该区核心任务及关键误读已落到实际原句；清楚完成当前教学目的，未达到可确认的更高效率优势。",
+            "readability": "多人无统筹的场景紧接clarify问句，测试问题换客户反馈明确",
+            "increment": "clarify ownership of testing issues在多方场景自然；与前区或相邻区存在适度教学复现，未给满分。"
+          },
+          "issues": []
+        }
+      ],
+      "total": 90.875,
+      "key": "70baed758f21e0ab2673fd3ff5aacbcf740023809ba6b5855d8b5f42ee4e9638",
+      "reused": false
+    },
+    "V20261012-016": {
+      "status": "CANDIDATE",
+      "errors": [],
+      "zones": [
+        {
+          "id": "g1",
+          "score": 88.75,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 4,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "Cambridge PDF第6页负责与解释、Etymonline account解释受托财物的联系共同支持；正文明确仅为记忆联系，未混银行账户或历史事实。",
+            "completion": "account for解释原因的现代联系并非银行账户，边界明确。该区核心任务及关键误读已落到实际原句；清楚完成当前教学目的，未达到可确认的更高效率优势。",
+            "readability": "先要负责也说清，再用account for连接原因，银行账户边界短且清楚；双语本身不扣分",
+            "increment": "account for解释原因的现代联系并非银行账户，边界明确；与前区或相邻区存在适度教学复现，未给满分。"
+          },
+          "issues": []
+        },
+        {
+          "id": "g2",
+          "score": 90,
+          "scores": {
+            "accuracy": 4,
+            "completion": 4,
+            "readability": 3,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "for事项/to人和must/one person各有说明，略长",
+            "completion": "for事项/to人和must/one person各有说明，略长。该区核心任务及关键误读已落到实际原句；措辞线索、解释与应用衔接完整且没有无关追加任务。",
+            "readability": "for/to/must/One person及团队制度限制全部同段，真实负担是多焦点而非英文",
+            "increment": "for事项/to人和must/one person各有说明，略长；与前区或相邻区存在适度教学复现，未给满分。"
+          },
+          "issues": []
+        },
+        {
+          "id": "g3",
+          "score": 82.5,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 3,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "responsible和accountable重叠解释准确，避免背锅等俗化误导",
+            "completion": "responsible和accountable重叠解释准确，避免背锅等俗化误导。该区核心任务及关键误读已落到实际原句；清楚完成当前教学目的，未达到可确认的更高效率优势。",
+            "readability": "重叠解释、报告假设、两种责任表述、hold搭配集中一段，需多次比较",
+            "increment": "responsible和accountable重叠解释准确，避免背锅等俗化误导；与前区或相邻区存在适度教学复现，未给满分。"
+          },
+          "issues": []
+        },
+        {
+          "id": "g4",
+          "score": 96.25,
+          "scores": {
+            "accuracy": 4,
+            "completion": 4,
+            "readability": 4,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "must one person的要求与未指名区分，追问人选成立",
+            "completion": "must one person的要求与未指名区分，追问人选成立。该区核心任务及关键误读已落到实际原句；措辞线索、解释与应用衔接完整且没有无关追加任务。",
+            "readability": "must及One person解释后追问具体人，最后回到团队泛称，行动路线清楚",
+            "increment": "must one person的要求与未指名区分，追问人选成立；与前区或相邻区存在适度教学复现，未给满分。"
+          },
+          "issues": []
+        },
+        {
+          "id": "g5",
+          "score": 88.75,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 4,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "accountable to for问句完整，预算替换自然",
+            "completion": "accountable to for问句完整，预算替换自然。该区核心任务及关键误读已落到实际原句；清楚完成当前教学目的，未达到可确认的更高效率优势。",
+            "readability": "先给交接时机，再完整to/for问句，预算只替事项，句间指代清楚",
+            "increment": "accountable to for问句完整，预算替换自然；与前区或相邻区存在适度教学复现，未给满分。"
+          },
+          "issues": []
+        }
+      ],
+      "total": 89.625,
+      "key": "0702da961381fa0e1762fc29b5c80b7b7696acad984d228c183255e12235295b",
+      "reused": false
+    },
+    "V20261012-017": {
+      "status": "CANDIDATE",
+      "errors": [],
+      "zones": [
+        {
+          "id": "g1",
+          "score": 88.75,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 4,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "日历最晚点加meet/miss搭配能记，today非截止日",
+            "completion": "日历最晚点加meet/miss搭配能记，today非截止日。该区核心任务及关键误读已落到实际原句；清楚完成当前教学目的，未达到可确认的更高效率优势。",
+            "readability": "日历最晚点配meet/miss，再把今天决定与最终截止分开，短而清楚",
+            "increment": "日历最晚点加meet/miss搭配能记，today非截止日；与前区或相邻区存在适度教学复现，未给满分。"
+          },
+          "issues": []
+        },
+        {
+          "id": "g2",
+          "score": 96.25,
+          "scores": {
+            "accuracy": 4,
+            "completion": 4,
+            "readability": 4,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "to meet目的与today修饰决定时间区分准确",
+            "completion": "to meet目的与today修饰决定时间区分准确。该区核心任务及关键误读已落到实际原句；措辞线索、解释与应用衔接完整且没有无关追加任务。",
+            "readability": "今天决定是主要求，按期是目的，最后定位today，原句顺序清楚",
+            "increment": "to meet目的与today修饰决定时间区分准确；与前区或相邻区存在适度教学复现，未给满分。"
+          },
+          "issues": []
+        },
+        {
+          "id": "g3",
+          "score": 82.5,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 3,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "target date约束取决约定，milestone也可有截止日",
+            "completion": "target date约束取决约定，milestone也可有截止日。该区核心任务及关键误读已落到实际原句；清楚完成当前教学目的，未达到可确认的更高效率优势。",
+            "readability": "deadline/target date/milestone并列且讨论约束约定，概念稍密",
+            "increment": "target date约束取决约定，milestone也可有截止日；与前区或相邻区存在适度教学复现，未给满分。"
+          },
+          "issues": []
+        },
+        {
+          "id": "g4",
+          "score": 96.25,
+          "scores": {
+            "accuracy": 4,
+            "completion": 4,
+            "readability": 4,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "追问今天具体要什么决定，比单纯催促更能推进",
+            "completion": "追问今天具体要什么决定，比单纯催促更能推进。该区核心任务及关键误读已落到实际原句；措辞线索、解释与应用衔接完整且没有无关追加任务。",
+            "readability": "要求决定到追问哪项决定直指可行动的信息，读者容易理解",
+            "increment": "追问今天具体要什么决定，比单纯催促更能推进；与前区或相邻区存在适度教学复现，未给满分。"
+          },
+          "issues": []
+        },
+        {
+          "id": "g5",
+          "score": 92.5,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 4,
+            "increment": 4
+          },
+          "reasons": {
+            "accuracy": "deadline for submitting report自然，周一几点补精度",
+            "completion": "deadline for submitting report自然，周一几点补精度。该区核心任务及关键误读已落到实际原句；清楚完成当前教学目的，未达到可确认的更高效率优势。",
+            "readability": "先确认日期再问周一几点，精度递进自然且英文都短",
+            "increment": "deadline for submitting report自然，周一几点补精度"
+          },
+          "issues": []
+        }
+      ],
+      "total": 91.625,
+      "key": "285603af8da13c33ed9bc20d742779c9ec88c878b98d81d6cfa095b266246048",
+      "reused": false
+    },
+    "V20261012-018": {
+      "status": "CANDIDATE",
+      "errors": [],
+      "zones": [
+        {
+          "id": "g1",
+          "score": 75,
+          "scores": {
+            "accuracy": 3,
+            "completion": 3,
+            "readability": 3,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "承诺义与投入义区分正确",
+            "completion": "make a commitment提供抓手，缺少单独的微场景演示",
+            "readability": "兑现抓手能懂，但后半句对象、行动、态度三种说法连续，属清楚可用，未到特别高效。",
+            "increment": "增量是承诺对象，投入义已在前区出现"
+          },
+          "issues": []
+        },
+        {
+          "id": "g2",
+          "score": 82.5,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 3,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "conditions是宾语、behind作后置修饰准确；已对照该词Oxford当前义和原句逐句核验，教学类比/自编接话有明确标记，没有把推断写成资料原文。",
+            "completion": "解释结构并保留承诺未必无条件的边界",
+            "readability": "后半句无条件执行略抽象",
+            "increment": "揭示问条件而非重复承诺"
+          },
+          "issues": []
+        },
+        {
+          "id": "g3",
+          "score": 82.5,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 3,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "promise邻近、intention未达承诺成立；已对照该词Oxford当前义和原句逐句核验，教学类比/自编接话有明确标记，没有把推断写成资料原文。",
+            "completion": "有make/honour配对，尚缺同一场景两句对照",
+            "readability": "明确答应承担事情略书面",
+            "increment": "补充履行与作出两个实用动词"
+          },
+          "issues": []
+        },
+        {
+          "id": "g4",
+          "score": 90,
+          "scores": {
+            "accuracy": 4,
+            "completion": 4,
+            "readability": 3,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "confirm和conditions对应核实前提；已对照该词Oxford当前义和原句逐句核验，教学类比/自编接话有明确标记，没有把推断写成资料原文。",
+            "completion": "不只给回应：零件周五到的前提可核实，核实结果又能改变交期；另指出重复承诺不能回答条件，把回应质量和下一步因果闭合。",
+            "readability": "零件周五到货便于理解",
+            "increment": "给出原句没有的可行动回应"
+          },
+          "issues": []
+        },
+        {
+          "id": "g5",
+          "score": 82.5,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 3,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "until前提句与承诺义匹配；已对照该词Oxford当前义和原句逐句核验，教学类比/自编接话有明确标记，没有把推断写成资料原文。",
+            "completion": "时机、替换槽及后续补信息齐备",
+            "readability": "范围未清的情景直接",
+            "increment": "转为自己暂不能承诺的表达"
+          },
+          "issues": []
+        }
+      ],
+      "total": 83.25,
+      "key": "ab4d40cb596af5a10245d2ec4ffe61057e19bc0eadc48caae07865e5de66fa10",
+      "reused": false
+    },
+    "V20261012-019": {
+      "status": "CANDIDATE",
+      "errors": [],
+      "zones": [
+        {
+          "id": "g1",
+          "score": 75,
+          "scores": {
+            "accuracy": 3,
+            "completion": 3,
+            "readability": 3,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "当前预防义适合；不是所有contingency都负面",
+            "completion": "有预案搭配和未发生边界，独立实例较少",
+            "readability": "备用安排易记",
+            "increment": "仍较接近桥接的情况/计划区分"
+          },
+          "issues": []
+        },
+        {
+          "id": "g2",
+          "score": 82.5,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 3,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "名词前置修饰plan、if条件均准确；已对照该词Oxford当前义和原句逐句核验，教学类比/自编接话有明确标记，没有把推断写成资料原文。",
+            "completion": "解释need不等于必然发生",
+            "readability": "限定计划用途略语法化",
+            "increment": "区分状况和整组应急计划"
+          },
+          "issues": []
+        },
+        {
+          "id": "g3",
+          "score": 82.5,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 3,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "事件与应对办法未混淆；已对照该词Oxford当前义和原句逐句核验，教学类比/自编接话有明确标记，没有把推断写成资料原文。",
+            "completion": "backup plan邻近但risk对照较宽泛",
+            "readability": "前者后者指代可追溯",
+            "increment": "重复g1的情况/计划区分较多"
+          },
+          "issues": []
+        },
+        {
+          "id": "g4",
+          "score": 90,
+          "scores": {
+            "accuracy": 4,
+            "completion": 4,
+            "readability": 3,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "假设转准备任务有句面依据；已对照该词Oxford当前义和原句逐句核验，教学类比/自编接话有明确标记，没有把推断写成资料原文。",
+            "completion": "待命回应后进一步检查替补的时间与权限，不把有备用人选当可执行预案；具体可用性检查超过只给一条例句。",
+            "readability": "待命回应短而具体",
+            "increment": "将可能问题转成下一步"
+          },
+          "issues": []
+        },
+        {
+          "id": "g5",
+          "score": 82.5,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 3,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "if系统故障条件自然；已对照该词Oxford当前义和原句逐句核验，教学类比/自编接话有明确标记，没有把推断写成资料原文。",
+            "completion": "问题、替换延误、答案要求齐全",
+            "readability": "宕机例子直接",
+            "increment": "从陈述需预案转到主动问预案"
+          },
+          "issues": []
+        }
+      ],
+      "total": 83.25,
+      "key": "8a6583ce11a796d94bdeea4c6989393b27b4cc61adcaa175fa5a687f4b692822",
+      "reused": false
+    },
+    "V20261012-020": {
+      "status": "CANDIDATE",
+      "errors": [],
+      "zones": [
+        {
+          "id": "g1",
+          "score": 88.75,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 4,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "取舍伴随放弃另一好处准确；已对照该词Oxford当前义和原句逐句核验，教学类比/自编接话有明确标记，没有把推断写成资料原文。",
+            "completion": "类比、快/便宜两端、非所有选择边界齐",
+            "readability": "用不能都拿满的一幅画面压缩双目标损益，再落到快与便宜，不需先学抽象决策术语。",
+            "increment": "与桥接的快/便宜仍有复述"
+          },
+          "issues": []
+        },
+        {
+          "id": "g2",
+          "score": 82.5,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 3,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "存在句与between并列两端分析成立；已对照该词Oxford当前义和原句逐句核验，教学类比/自编接话有明确标记，没有把推断写成资料原文。",
+            "completion": "指出比较级及未决定代价",
+            "readability": "名词核心术语略多",
+            "increment": "补明比较结构和信息缺口"
+          },
+          "issues": []
+        },
+        {
+          "id": "g3",
+          "score": 82.5,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 3,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "choice不必有损失；compromise不只此义；已对照该词Oxford当前义和原句逐句核验，教学类比/自编接话有明确标记，没有把推断写成资料原文。",
+            "completion": "区分重点明确，少一个直接英文对照句",
+            "readability": "各让一步便于理解",
+            "increment": "新增普通选择与成本取舍差别"
+          },
+          "issues": []
+        },
+        {
+          "id": "g4",
+          "score": 88.75,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 4,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "原句提示冲突而非作决定；已对照该词Oxford当前义和原句逐句核验，教学类比/自编接话有明确标记，没有把推断写成资料原文。",
+            "completion": "询价回应与再选优先项齐全",
+            "readability": "How much extra直接把抽象取舍转为多少钱；中文译句和拿到价格交期的动作连续，首读即可知道如何接话。",
+            "increment": "末句未替选重复g2，但互动有增量"
+          },
+          "issues": []
+        },
+        {
+          "id": "g5",
+          "score": 82.5,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 3,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "trade-offs复数用于多种权衡自然；已对照该词Oxford当前义和原句逐句核验，教学类比/自编接话有明确标记，没有把推断写成资料原文。",
+            "completion": "评审时机、替换、收益损失两端完整",
+            "readability": "设计问题可以直接照用",
+            "increment": "迁移到设计评审和问收益损失是有效应用，但仍沿用前区已经建立的两端取舍，基本增量给3。"
+          },
+          "issues": []
+        }
+      ],
+      "total": 85,
+      "key": "f6cd8d0e548fb2d649f0f9c1ccb1f4b2fbf6d5289e077dc96f932d394f025976",
+      "reused": false
+    },
+    "V20261012-041": {
+      "status": "CANDIDATE",
+      "errors": [],
+      "zones": [
+        {
+          "id": "g1",
+          "score": 82.5,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 3,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "meeting约束会议清单义正确；已对照该词Oxford当前义和原句逐句核验，教学类比/自编接话有明确标记，没有把推断写成资料原文。",
+            "completion": "item搭配和广义边界齐",
+            "readability": "今天谈什么直观",
+            "increment": "与直接解释同是清单，item提供补充"
+          },
+          "issues": []
+        },
+        {
+          "id": "g2",
+          "score": 82.5,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 3,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "send宾语及before时间准确；已对照该词Oxford当前义和原句逐句核验，教学类比/自编接话有明确标记，没有把推断写成资料原文。",
+            "completion": "具体句子与未指定天数边界齐",
+            "readability": "先发清单再开会简明",
+            "increment": "补上原句时间精度限制"
+          },
+          "issues": []
+        },
+        {
+          "id": "g3",
+          "score": 92.5,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 4,
+            "increment": 4
+          },
+          "reasons": {
+            "accuracy": "agenda/schedule/minutes侧重点准确；已对照该词Oxford当前义和原句逐句核验，教学类比/自编接话有明确标记，没有把推断写成资料原文。",
+            "completion": "同一场会议前中后对照完整",
+            "readability": "会前清单、会中时间表、会后纪要三个日常时间点并列，同一次会议同时托住三个邻居词，几乎不用解释术语。",
+            "increment": "将agenda/schedule/minutes放进会议前中后三个作用位置；前区仅介绍清单及非纪要，这里增加时间表并给完整选用路径。"
+          },
+          "issues": []
+        },
+        {
+          "id": "g4",
+          "score": 82.5,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 3,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "Please请求与会前顺序对应；已对照该词Oxford当前义和原句逐句核验，教学类比/自编接话有明确标记，没有把推断写成资料原文。",
+            "completion": "回复具体发送时间、随后准备齐",
+            "readability": "下午发送可执行",
+            "increment": "提前几天提醒重复g2"
+          },
+          "issues": [
+            {
+              "blocking": false,
+              "note": "会前未定几天重复g2"
+            }
+          ]
+        },
+        {
+          "id": "g5",
+          "score": 82.5,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 3,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "add to the agenda搭配准确；已对照该词Oxford当前义和原句逐句核验，教学类比/自编接话有明确标记，没有把推断写成资料原文。",
+            "completion": "请求场合、延期替换、非已解决齐",
+            "readability": "用一句问句呈现很清晰",
+            "increment": "加入议题是一条有用迁移句，但只需替换名词即可使用，属于模板应完成的基本任务。"
+          },
+          "issues": []
+        }
+      ],
+      "total": 84.5,
+      "key": "7f79b6d3b7c730f2917c4dfd220d8b1424b354fb4a1fabdd64e948c880fb5976",
+      "reused": false
+    },
+    "V20261012-042": {
+      "status": "CANDIDATE",
+      "errors": [],
+      "zones": [
+        {
+          "id": "g1",
+          "score": 88.75,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 4,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "环境照片类比明示非史实；已对照该词Oxford当前义和原句逐句核验，教学类比/自编接话有明确标记，没有把推断写成资料原文。",
+            "completion": "数字与相关性边界完整",
+            "readability": "照片外环境→单个数字→产生时情况，由可见画面过渡到抽象背景，短链条让初学者不必先理解context的学术定义。",
+            "increment": "补充理解依赖周围条件的图景"
+          },
+          "issues": []
+        },
+        {
+          "id": "g2",
+          "score": 82.5,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 3,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "Let me加原形及before从句准确；已对照该词Oxford当前义和原句逐句核验，教学类比/自编接话有明确标记，没有把推断写成资料原文。",
+            "completion": "先背景后选项、非已经选择齐",
+            "readability": "共同理解所需背景略抽象",
+            "increment": "解释发言次序而非孤立译词"
+          },
+          "issues": []
+        },
+        {
+          "id": "g3",
+          "score": 75,
+          "scores": {
+            "accuracy": 3,
+            "completion": 3,
+            "readability": 3,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "background相近、detail可不解释背景合理",
+            "completion": "缺少具体同场景context/detail对照",
+            "readability": "更突出如何影响理解稍抽象",
+            "increment": "in context新增但重述背景占比高"
+          },
+          "issues": []
+        },
+        {
+          "id": "g4",
+          "score": 82.5,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 3,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "Let me标发言安排适当；已对照该词Oxford当前义和原句逐句核验，教学类比/自编接话有明确标记，没有把推断写成资料原文。",
+            "completion": "客户新要求回应说明选项变化",
+            "readability": "两项要求易懂",
+            "increment": "末句所有历史与g1重复"
+          },
+          "issues": [
+            {
+              "blocking": false,
+              "note": "不讲全部历史重复g1"
+            }
+          ]
+        },
+        {
+          "id": "g5",
+          "score": 86.25,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 3,
+            "increment": 4
+          },
+          "reasons": {
+            "accuracy": "For context补前提自然；已对照该词Oxford当前义和原句逐句核验，教学类比/自编接话有明确标记，没有把推断写成资料原文。",
+            "completion": "场景、句式和替换都在，完成了迁移任务；未提供误用时的修正演示，按基本完成3。",
+            "readability": "一条前提接一句解释容易读",
+            "increment": "For context成为可直接启动补充背景的句式，和前四区只解释背景是什么不同；估算前提/报价包含项两槽展示书面如何加一句即返回主题。"
+          },
+          "issues": []
+        }
+      ],
+      "total": 82.6875,
+      "key": "a60bdda4137ec421fc0a11bb3640dabf160ff40e470c04cc757965bde7dfb6f2",
+      "reused": false
+    },
+    "V20261012-043": {
+      "status": "CANDIDATE",
+      "errors": [],
+      "zones": [
+        {
+          "id": "g1",
+          "score": 82.5,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 3,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "clear联系不冒充词源；已对照该词Oxford当前义和原句逐句核验，教学类比/自编接话有明确标记，没有把推断写成资料原文。",
+            "completion": "范围搭配、非越长越好边界齐",
+            "readability": "模糊到清楚容易记",
+            "increment": "与桥接范围不明重合较多"
+          },
+          "issues": []
+        },
+        {
+          "id": "g2",
+          "score": 75,
+          "scores": {
+            "accuracy": 3,
+            "completion": 3,
+            "readability": 3,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "what从句分析基本正确；本句what本身为主语，不能仅凭这里无倒装就证明教学处理了常见疑问词作宾语的难点，给3。",
+            "completion": "全句请求与范围对象对应",
+            "readability": "整个从句作内容的表达略专业",
+            "increment": "给出可迁移语序提示"
+          },
+          "issues": []
+        },
+        {
+          "id": "g3",
+          "score": 82.5,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 3,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "clarify/confirm/elaborate任务区别有保留；已对照该词Oxford当前义和原句逐句核验，教学类比/自编接话有明确标记，没有把推断写成资料原文。",
+            "completion": "同一讨论中按信息状态选择",
+            "readability": "先澄清再确认具体",
+            "increment": "新增三词分工"
+          },
+          "issues": []
+        },
+        {
+          "id": "g4",
+          "score": 100,
+          "scores": {
+            "accuracy": 4,
+            "completion": 4,
+            "readability": 4,
+            "increment": 4
+          },
+          "reasons": {
+            "accuracy": "包含项与排除项回答范围问题；已对照该词Oxford当前义和原句逐句核验，教学类比/自编接话有明确标记，没有把推断写成资料原文。",
+            "completion": "用包含测试、不包含安装的正反答复实际划边界，再说明为何能估工作量；不仅列请求+答复，还展示答复怎样解决原卡点。",
+            "readability": "测试有、安装无的一正一反紧贴中文；具体两个对象比反复讲消除歧义更短，听者可立即辨认范围。",
+            "increment": "前区提出范围未知，这里新增有效回答的一正一反结构和估量后果，教会怎样完成澄清而不只怎样发问。"
+          },
+          "issues": []
+        },
+        {
+          "id": "g5",
+          "score": 82.5,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 3,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "whether从句与服务是否包含自然；已对照该词Oxford当前义和原句逐句核验，教学类比/自编接话有明确标记，没有把推断写成资料原文。",
+            "completion": "三服务替换及进一步问次数完整",
+            "readability": "短问句容易复用",
+            "increment": "由开放what转为具体whether"
+          },
+          "issues": []
+        }
+      ],
+      "total": 85.375,
+      "key": "3198a182884e753d32a13e36742d6639116f61d039eac9f99079af6bf3802752",
+      "reused": false
+    },
+    "V20261012-044": {
+      "status": "CANDIDATE",
+      "errors": [],
+      "zones": [
+        {
+          "id": "g1",
+          "score": 75,
+          "scores": {
+            "accuracy": 3,
+            "completion": 3,
+            "readability": 3,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "核对勾适合此句；confirm也可正式确定非既有事实",
+            "completion": "类比和责任对象齐，场景较简",
+            "readability": "打勾直观",
+            "increment": "内容大半为当前义复述"
+          },
+          "issues": []
+        },
+        {
+          "id": "g2",
+          "score": 82.5,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 3,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "who主语和own责任义准确；已对照该词Oxford当前义和原句逐句核验，教学类比/自编接话有明确标记，没有把推断写成资料原文。",
+            "completion": "分清负责人和物品所有者",
+            "readability": "名词从句句法用语稍密",
+            "increment": "能避免own字面误译"
+          },
+          "issues": []
+        },
+        {
+          "id": "g3",
+          "score": 82.5,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 3,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "确认与批准非同义成立；已对照该词Oxford当前义和原句逐句核验，教学类比/自编接话有明确标记，没有把推断写成资料原文。",
+            "completion": "有details搭配，少具体两句对照",
+            "readability": "三动作区分清晰",
+            "increment": "已在bridge核实；approve增加边界"
+          },
+          "issues": []
+        },
+        {
+          "id": "g4",
+          "score": 82.5,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 3,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "who请求负责人信息正确；已对照该词Oxford当前义和原句逐句核验，教学类比/自编接话有明确标记，没有把推断写成资料原文。",
+            "completion": "姓名、任务、期限形成闭环",
+            "readability": "Maya短答清楚",
+            "increment": "姓名任务期限可用，但确认不等于批准已在g3解释；是基本互动示范，不是全新精确策略。"
+          },
+          "issues": []
+        },
+        {
+          "id": "g5",
+          "score": 82.5,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 3,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "confirm quantity/address自然；已对照该词Oxford当前义和原句逐句核验，教学类比/自编接话有明确标记，没有把推断写成资料原文。",
+            "completion": "已有信息核对场合与缺信息边界明确",
+            "readability": "下单前核数量直接",
+            "increment": "转入采购场景并能替换"
+          },
+          "issues": []
+        }
+      ],
+      "total": 81.375,
+      "key": "45ad8380f9377ab42c967befdc6a0eb2fe76904da2a8a46281ddeb7468154a7a",
+      "reused": false
+    },
+    "V20261012-045": {
+      "status": "CANDIDATE",
+      "errors": [],
+      "zones": [
+        {
+          "id": "g1",
+          "score": 88.75,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 4,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "具体明确义准确；已对照该词Oxford当前义和原句逐句核验，教学类比/自编接话有明确标记，没有把推断写成资料原文。",
+            "completion": "日期数量类比和空泛反例完整",
+            "readability": "空白栏填到不用猜把具体性可视化；用条件合适作反例，学习者能直接判断什么样的回答仍不足。",
+            "increment": "增加可执行精度抓手"
+          },
+          "issues": []
+        },
+        {
+          "id": "g2",
+          "score": 82.5,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 3,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "conditions后for加动名词准确；已对照该词Oxford当前义和原句逐句核验，教学类比/自编接话有明确标记，没有把推断写成资料原文。",
+            "completion": "不是立即接受、未满足条件边界齐",
+            "readability": "修饰conditions是必要术语",
+            "increment": "拆明要求条件而非接受提案"
+          },
+          "issues": []
+        },
+        {
+          "id": "g3",
+          "score": 92.5,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 4,
+            "increment": 4
+          },
+          "reasons": {
+            "accuracy": "say宽泛、specify精确、clarify消歧合理；已对照该词Oxford当前义和原句逐句核验，教学类比/自编接话有明确标记，没有把推断写成资料原文。",
+            "completion": "尽快到日期构成同场景演示",
+            "readability": "尽快对照明确日期，读者不用借助词性术语便能感到say与specify的信息精度差别。",
+            "increment": "邻居比较不止给同义词：以尽快→日期的同场景改写提供判断标准，与前区泛列价格/日期相比增加了精度检验。"
+          },
+          "issues": []
+        },
+        {
+          "id": "g4",
+          "score": 75,
+          "scores": {
+            "accuracy": 3,
+            "completion": 3,
+            "readability": 3,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "列修订价和日期符合索取材料的条件",
+            "completion": "答复仍未给具体可接受价格或日期阈值，只达基本任务",
+            "readability": "可执行信息表述略空",
+            "increment": "有回应但具体精度不及g3"
+          },
+          "issues": []
+        },
+        {
+          "id": "g5",
+          "score": 88.75,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 4,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "specify required format自然；已对照该词Oxford当前义和原句逐句核验，教学类比/自编接话有明确标记，没有把推断写成资料原文。",
+            "completion": "文件格式、尺寸替换、具体答案边界齐",
+            "readability": "正常格式与PDF/XLSX正反答案并置，几字就能判断对方有没有把格式说清，避免长篇抽象说明。",
+            "increment": "展示哪些回答才能填补要求"
+          },
+          "issues": []
+        }
+      ],
+      "total": 84.8125,
+      "key": "f250a112b6870b047046fa60af3aa99a92c5e42c84f2da8ebf6048c0912c048f",
+      "reused": false
+    },
+    "V20261012-046": {
+      "status": "CANDIDATE",
+      "errors": [],
+      "zones": [
+        {
+          "id": "g1",
+          "score": 82.5,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 3,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "on搭配与动词义正确；已对照该词Oxford当前义和原句逐句核验，教学类比/自编接话有明确标记，没有把推断写成资料原文。",
+            "completion": "已知观点及词性边界齐",
+            "readability": "把一点展开易懂",
+            "increment": "与bridge展开担忧相似"
+          },
+          "issues": []
+        },
+        {
+          "id": "g2",
+          "score": 92.5,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 4,
+            "increment": 4
+          },
+          "reasons": {
+            "accuracy": "准确区分elaborate on后接concern、about timing修饰concern；没有把两个介词当可互换动词搭配，这是本句的具体高风险误读点。",
+            "completion": "分组读法与误连介词边界齐",
+            "readability": "详细说明／关于时间安排的担忧用两段读法可视化修饰范围，比连续列on与about的语法定义省认知步骤。",
+            "increment": "前区只说展开担忧；本区解决为什么两个介词同时出现以及分别连哪里，提供前文没有的可迁移解析。"
+          },
+          "issues": []
+        },
+        {
+          "id": "g3",
+          "score": 82.5,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 3,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "增加细节与消歧区别非绝对化；已对照该词Oxford当前义和原句逐句核验，教学类比/自编接话有明确标记，没有把推断写成资料原文。",
+            "completion": "有expand on邻居，缺一组微对话",
+            "readability": "解释越多未必清楚自然",
+            "increment": "补充相近动词功能区别"
+          },
+          "issues": []
+        },
+        {
+          "id": "g4",
+          "score": 93.75,
+          "scores": {
+            "accuracy": 4,
+            "completion": 4,
+            "readability": 3,
+            "increment": 4
+          },
+          "reasons": {
+            "accuracy": "请求具体影响由担忧语境推得；已对照该词Oxford当前义和原句逐句核验，教学类比/自编接话有明确标记，没有把推断写成资料原文。",
+            "completion": "三天额外评审→测试时间变少→讨论调整哪一步构成完整原因影响动作链，直接展示什么细节才真正回应elaborate请求。",
+            "readability": "因果清楚",
+            "increment": "不仅让人多说细节，还演示细节应是时间差及后果，给选择相关细节的标准，超出前区的泛指展开。"
+          },
+          "issues": []
+        },
+        {
+          "id": "g5",
+          "score": 82.5,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 3,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "elaborate on how结构自然；已对照该词Oxford当前义和原句逐句核验，教学类比/自编接话有明确标记，没有把推断写成资料原文。",
+            "completion": "时机、成本替换及相关性限制完整",
+            "readability": "延误影响测试容易说",
+            "increment": "迁移到从句追问影响"
+          },
+          "issues": []
+        }
+      ],
+      "total": 87.3125,
+      "key": "d5c2a8ff84bef2e3d108621744d505931859a1dd16256f74a95802bcaeb43be4",
+      "reused": false
+    },
+    "V20261012-047": {
+      "status": "CANDIDATE",
+      "errors": [],
+      "zones": [
+        {
+          "id": "g1",
+          "score": 82.5,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 3,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "骨架类比对应抓重点非任删；已对照该词Oxford当前义和原句逐句核验，教学类比/自编接话有明确标记，没有把推断写成资料原文。",
+            "completion": "已决未决都保留的例子齐",
+            "readability": "骨架枝节易读",
+            "increment": "补充哪些重点不能丢"
+          },
+          "issues": []
+        },
+        {
+          "id": "g2",
+          "score": 82.5,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 3,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "并列宾语与remaining修饰正确；已对照该词Oxford当前义和原句逐句核验，教学类比/自编接话有明确标记，没有把推断写成资料原文。",
+            "completion": "已决与未决概念分开",
+            "readability": "句法/概念两个术语稍集中",
+            "increment": "说明and两类信息不可合并"
+          },
+          "issues": []
+        },
+        {
+          "id": "g3",
+          "score": 82.5,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 3,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "repeat与summary不等同、recap邻近合理；已对照该词Oxford当前义和原句逐句核验，教学类比/自编接话有明确标记，没有把推断写成资料原文。",
+            "completion": "少同内容重述与概括的直接对照",
+            "readability": "短了却误报完成清楚",
+            "increment": "已决未决提醒与g1重叠"
+          },
+          "issues": []
+        },
+        {
+          "id": "g4",
+          "score": 75,
+          "scores": {
+            "accuracy": 3,
+            "completion": 3,
+            "readability": 3,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "The supplier is agreed可理解但不如We agreed on the supplier自然",
+            "completion": "已决/未决两类示例齐，符合本区任务；没有展示如何从长讨论筛选要点，不据齐全给4。",
+            "readability": "供应商已定的英文偏公事化",
+            "increment": "具体一行总结示范有增量"
+          },
+          "issues": [
+            {
+              "blocking": false,
+              "note": "The supplier is agreed可读但改为We agreed on the supplier更自然"
+            }
+          ]
+        },
+        {
+          "id": "g5",
+          "score": 82.5,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 3,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "in three points可规定概要格式；已对照该词Oxford当前义和原句逐句核验，教学类比/自编接话有明确标记，没有把推断写成资料原文。",
+            "completion": "时机、段落替换与非词义固定数量齐",
+            "readability": "三点到一段易懂",
+            "increment": "提供可控制输出长度的表达"
+          },
+          "issues": []
+        }
+      ],
+      "total": 80.625,
+      "key": "95ea075b9bd96f9506d4dd9bfa2dbac02f932a84e0c4a4e8ebcb216e870314f7",
+      "reused": false
+    },
+    "V20261012-048": {
+      "status": "CANDIDATE",
+      "errors": [],
+      "zones": [
+        {
+          "id": "g1",
+          "score": 82.5,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 3,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "已谈内容回顾而非逐句重播准确；已对照该词Oxford当前义和原句逐句核验，教学类比/自编接话有明确标记，没有把推断写成资料原文。",
+            "completion": "新人场景和main points搭配完整",
+            "readability": "加入会议的场景直观",
+            "increment": "与bridge几乎同情景"
+          },
+          "issues": []
+        },
+        {
+          "id": "g2",
+          "score": 82.5,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 3,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "for指受益/对象，宾语main points准确；已对照该词Oxford当前义和原句逐句核验，教学类比/自编接话有明确标记，没有把推断写成资料原文。",
+            "completion": "按内容/为谁拆句完整",
+            "readability": "两段式读法清楚",
+            "increment": "不必逐句重播重复g1"
+          },
+          "issues": []
+        },
+        {
+          "id": "g3",
+          "score": 82.5,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 3,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "recap与summarize重叠，review更广准确；已对照该词Oxford当前义和原句逐句核验，教学类比/自编接话有明确标记，没有把推断写成资料原文。",
+            "completion": "有同语境限制但少对照例句",
+            "readability": "不硬分口语书面有用",
+            "increment": "新增review可检查评估"
+          },
+          "issues": []
+        },
+        {
+          "id": "g4",
+          "score": 82.5,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 3,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "为新人补进度是合理语用；已对照该词Oxford当前义和原句逐句核验，教学类比/自编接话有明确标记，没有把推断写成资料原文。",
+            "completion": "目标已定时间未定与加入讨论齐",
+            "readability": "双状态回顾清楚",
+            "increment": "给新人补目标与时间表是合格实例，但前区及g1已说明新人跟进，新增主要是一句基本示范。"
+          },
+          "issues": []
+        },
+        {
+          "id": "g5",
+          "score": 82.5,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 3,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "recap action points自然；已对照该词Oxford当前义和原句逐句核验，教学类比/自编接话有明确标记，没有把推断写成资料原文。",
+            "completion": "收尾场景、替换与新旧事项边界齐",
+            "readability": "收尾表达简短",
+            "increment": "迁移到行动分工提醒"
+          },
+          "issues": []
+        }
+      ],
+      "total": 82.5,
+      "key": "8425bfe9a507a4ece19c7305ffb0f79f3e44f1c4bd678b706889e41a09c4551b",
+      "reused": false
+    },
+    "V20261012-049": {
+      "status": "CANDIDATE",
+      "errors": [],
+      "zones": [
+        {
+          "id": "g1",
+          "score": 82.5,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 3,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "实体对齐到目标一致明示现代联系；已对照该词Oxford当前义和原句逐句核验，教学类比/自编接话有明确标记，没有把推断写成资料原文。",
+            "completion": "图形、任务优先级和边界齐",
+            "readability": "表格列对齐可想象",
+            "increment": "与词源现代联系相近"
+          },
+          "issues": []
+        },
+        {
+          "id": "g2",
+          "score": 75,
+          "scores": {
+            "accuracy": 3,
+            "completion": 3,
+            "readability": 3,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "align on工作用法已另核Atlassian；before加-ing准确",
+            "completion": "先协调再分工及未完成边界完整",
+            "readability": "有必要协调略抽象",
+            "increment": "说明on议题与before次序"
+          },
+          "issues": []
+        },
+        {
+          "id": "g3",
+          "score": 75,
+          "scores": {
+            "accuracy": 3,
+            "completion": 3,
+            "readability": 3,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "on议题与with参照在两示例中成立，不能推为通用所有结构规则",
+            "completion": "有计划资源对照示例",
+            "readability": "参照对象术语稍硬",
+            "increment": "新增另一动词结构"
+          },
+          "issues": []
+        },
+        {
+          "id": "g4",
+          "score": 92.5,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 4,
+            "increment": 4
+          },
+          "reasons": {
+            "accuracy": "before触发先后解释适当；已对照该词Oxford当前义和原句逐句核验，教学类比/自编接话有明确标记，没有把推断写成资料原文。",
+            "completion": "测试/重设问句与排序后分配齐",
+            "readability": "testing or redesign comes first把含糊对齐转成可回答的二选一，中文与原句先后关系衔接顺畅。",
+            "increment": "新增将align on priorities操作化为两任务谁先的问题，不再重复目标一致的译文，读者知道如何启动对齐。"
+          },
+          "issues": []
+        },
+        {
+          "id": "g5",
+          "score": 82.5,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 3,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "align plan with resources搭配成立；已对照该词Oxford当前义和原句逐句核验，教学类比/自编接话有明确标记，没有把推断写成资料原文。",
+            "completion": "forecast/orders替换保留结构",
+            "readability": "A/B槽清楚",
+            "increment": "align A with B替换可用，但该结构已在g3出现；迁移槽属于基本应用。"
+          },
+          "issues": []
+        }
+      ],
+      "total": 82,
+      "key": "8f94ca42071db03b441da3040bc1a091c5a36db266f6062fc7c565de9658ad2c",
+      "reused": false
+    },
+    "V20261012-050": {
+      "status": "CANDIDATE",
+      "errors": [],
+      "zones": [
+        {
+          "id": "g1",
+          "score": 82.5,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 3,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "广泛共识非所有事项一致；Oxford有broad/rough例；已对照该词Oxford当前义和原句逐句核验，教学类比/自编接话有明确标记，没有把推断写成资料原文。",
+            "completion": "reach搭配和范围界限齐",
+            "readability": "走到共同位置易理解",
+            "increment": "范围说明已见bridge"
+          },
+          "issues": []
+        },
+        {
+          "id": "g2",
+          "score": 82.5,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 3,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "reached时态与on范围准确；已对照该词Oxford当前义和原句逐句核验，教学类比/自编接话有明确标记，没有把推断写成资料原文。",
+            "completion": "未明程序和批准边界齐",
+            "readability": "一次共同意见形成略抽象",
+            "increment": "范围重复前区"
+          },
+          "issues": []
+        },
+        {
+          "id": "g3",
+          "score": 86.25,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 3,
+            "increment": 4
+          },
+          "reasons": {
+            "accuracy": "周五约定与团队共同意见对照后立即说明agreement也可用于多人；准确避开常见但错误的两人/多人绝对规则，并有Oxford两义交叉依据。",
+            "completion": "同场景对照和边界已足以完成退修要求；达到完整任务不再自动给4。",
+            "readability": "两个英文短语和解释连排偏密，但能对应同一具体场景",
+            "increment": "修订新增同一周五会议场景下具体约定与群体意见两表达，删除初审的范围/程序复述，真正增加词语选用而非重复释义。"
+          },
+          "issues": []
+        },
+        {
+          "id": "g4",
+          "score": 82.5,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 3,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "报告既有共识的语用正确；已对照该词Oxford当前义和原句逐句核验，教学类比/自编接话有明确标记，没有把推断写成资料原文。",
+            "completion": "写下目标回应能推进",
+            "readability": "末句程序提醒冗长",
+            "increment": "首尾与g2重合，中间对话仍有新增"
+          },
+          "issues": []
+        },
+        {
+          "id": "g5",
+          "score": 82.5,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 3,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "goal but not timeline对照自然；已对照该词Oxford当前义和原句逐句核验，教学类比/自编接话有明确标记，没有把推断写成资料原文。",
+            "completion": "汇报时机及两个槽完整",
+            "readability": "but明示未定事项易读",
+            "increment": "but指出目标与时间表分歧可用，范围不同的观点已在bridge/g1/g2重复，本区主要增加句式。"
+          },
+          "issues": []
+        }
+      ],
+      "total": 83.25,
+      "key": "986a697bb4f49cea28b7b5e97e79bbc2adfad3f5724005de8067d76a004ef0c5",
+      "reused": false
+    },
+    "V20261012-051": {
+      "status": "CANDIDATE",
+      "errors": [],
+      "zones": [
+        {
+          "id": "g1",
+          "score": 82.5,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 3,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "担忧义与企业义区分正确；已对照该词Oxford当前义和原句逐句核验，教学类比/自编接话有明确标记，没有把推断写成资料原文。",
+            "completion": "放心不下抓手和about搭配齐",
+            "readability": "从中文问题记词容易",
+            "increment": "main挑主要项补充有限"
+          },
+          "issues": []
+        },
+        {
+          "id": "g2",
+          "score": 82.5,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 3,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "明确区分原句实际出现的available与未出现的insufficient，不把担忧推断升级成时间已证实不足，精确保留证据边界。",
+            "completion": "主表结构及insufficient信息边界完整",
+            "readability": "信息未直接给出需要多读一步",
+            "increment": "区分担忧与已证实不足很有用"
+          },
+          "issues": []
+        },
+        {
+          "id": "g3",
+          "score": 82.5,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 3,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "担忧不等于反对，objection倾向明确反对；已对照该词Oxford当前义和原句逐句核验，教学类比/自编接话有明确标记，没有把推断写成资料原文。",
+            "completion": "提供回应策略但少英语对照句",
+            "readability": "否决者比泛反对形象",
+            "increment": "教听者怎样对待担忧"
+          },
+          "issues": []
+        },
+        {
+          "id": "g4",
+          "score": 93.75,
+          "scores": {
+            "accuracy": 4,
+            "completion": 4,
+            "readability": 3,
+            "increment": 4
+          },
+          "reasons": {
+            "accuracy": "My main concern定位问题准确；已对照该词Oxford当前义和原句逐句核验，教学类比/自编接话有明确标记，没有把推断写成资料原文。",
+            "completion": "先问需要多少时间，再与现有安排比较，最后才能判断调整；并解释别担心为什么没有完成回应，超出只有一句礼貌答复。",
+            "readability": "多少时间直接可答",
+            "increment": "把主观担忧转成所需/现有时长的可检验差距，为后续决策增加方法，前区和g2均未给这个检查动作。"
+          },
+          "issues": []
+        },
+        {
+          "id": "g5",
+          "score": 82.5,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 3,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "concern about搭配与语境合适；已对照该词Oxford当前义和原句逐句核验，教学类比/自编接话有明确标记，没有把推断写成资料原文。",
+            "completion": "窗口到交期替换和原因示例齐",
+            "readability": "只剩一天测试有具体信息",
+            "increment": "教如何提出可回应的担忧"
+          },
+          "issues": []
+        }
+      ],
+      "total": 85.3125,
+      "key": "731a465643dc85c22514a999c6468b926149151174f51455ca258aefe38d0b82",
+      "reused": false
+    },
+    "V20261012-052": {
+      "status": "CANDIDATE",
+      "errors": [],
+      "zones": [
+        {
+          "id": "g1",
+          "score": 82.5,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 3,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "异议可为表达或理由正确；已对照该词Oxford当前义和原句逐句核验，教学类比/自编接话有明确标记，没有把推断写成资料原文。",
+            "completion": "have/raise配对和非担忧边界齐",
+            "readability": "我不赞成直白",
+            "increment": "与当前义重合，两个动词补充可用"
+          },
+          "issues": []
+        },
+        {
+          "id": "g2",
+          "score": 86.25,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 3,
+            "increment": 4
+          },
+          "reasons": {
+            "accuracy": "介词to接动作时用-ing有Oxford objection to doing直接依据，同时不把revised推出已获批，语法与事件状态两处高风险推断均处理精确。",
+            "completion": "对象、过去分词及未获批边界齐",
+            "readability": "术语稍密但围绕原句",
+            "increment": "新增to接名词可迁移为to doing的规则，直接防止学习者套不定式原形；不是前区反对义的重复。"
+          },
+          "issues": []
+        },
+        {
+          "id": "g3",
+          "score": 82.5,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 3,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "区分担忧、保留、反对后明确拒绝固定情绪等级；保留语境依赖，避免把这组近义词教成普遍线性强弱表。",
+            "completion": "有raise搭配但缺同场景三句展示",
+            "readability": "尚不能完全接受略长",
+            "increment": "表达程度差异保持弹性"
+          },
+          "issues": []
+        },
+        {
+          "id": "g4",
+          "score": 90,
+          "scores": {
+            "accuracy": 4,
+            "completion": 4,
+            "readability": 3,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "询问反对对象符合Does anyone；已对照该词Oxford当前义和原句逐句核验，教学类比/自编接话有明确标记，没有把推断写成资料原文。",
+            "completion": "给出测试时间不足的具体反对理由，回应后核对影响并调整或解释，且不把沉默当正式批准；比简单yes/no问答更完整。",
+            "readability": "新顺序的后果很清楚",
+            "increment": "说明沉默不能自动视为批准"
+          },
+          "issues": []
+        },
+        {
+          "id": "g5",
+          "score": 86.25,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 3,
+            "increment": 4
+          },
+          "reasons": {
+            "accuracy": "objection to timing not proposal自然；已对照该词Oxford当前义和原句逐句核验，教学类比/自编接话有明确标记，没有把推断写成资料原文。",
+            "completion": "误解场合、cost替换、需理由齐",
+            "readability": "局部反对易懂",
+            "increment": "新增to X, not Y结构，能主动限制反对的范围并防止被理解成全面否定；这是此前只邀请异议没有教的表达策略。"
+          },
+          "issues": []
+        }
+      ],
+      "total": 85.875,
+      "key": "4b3ce5bc48c4162453daee854e763ebd1e0c99e0e75226d479561677c6af416c",
+      "reused": false
+    },
+    "V20261012-053": {
+      "status": "CANDIDATE",
+      "errors": [],
+      "zones": [
+        {
+          "id": "g1",
+          "score": 92.5,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 4,
+            "increment": 4
+          },
+          "reasons": {
+            "accuracy": "两种搭配驱动不同义正确；已对照该词Oxford当前义和原句逐句核验，教学类比/自编接话有明确标记，没有把推断写成资料原文。",
+            "completion": "酒店与讨论双场景形成对照",
+            "readability": "酒店make与讨论have about两搭配配两个熟悉场景，不用抽象分类即可区分同形词；没能完全点头再把疑虑义具象化。",
+            "increment": "从词典并列两义推进到通过搭配选择义项；和前区单讲保留意见相比，增加遇词时可执行的辨义步骤。"
+          },
+          "issues": []
+        },
+        {
+          "id": "g2",
+          "score": 82.5,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 3,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "about+committing的介词结构与before修饰承诺时间准确，而且明确评审后仍未必同意，避免把条件时间误读为承诺保证。",
+            "completion": "保留意见对象与未承诺边界齐",
+            "readability": "动名词术语必要但略密",
+            "increment": "读清保留的是时间点"
+          },
+          "issues": []
+        },
+        {
+          "id": "g3",
+          "score": 82.5,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 3,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "reservation疑虑、objection反对合理；已对照该词Oxford当前义和原句逐句核验，教学类比/自编接话有明确标记，没有把推断写成资料原文。",
+            "completion": "复数和酒店警示有用但具体对照不足",
+            "readability": "复数不等于多次酒店直观",
+            "increment": "预订对照已在g1出现"
+          },
+          "issues": []
+        },
+        {
+          "id": "g4",
+          "score": 82.5,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 3,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "从保留意见追问承诺前所需信息，未暗示已同意；已对照该词Oxford当前义和原句逐句核验，教学类比/自编接话有明确标记，没有把推断写成资料原文。",
+            "completion": "删除重复后请求、信息缺口、继续谈三部分齐备，属于清楚完成而非额外超出任务。",
+            "readability": "短段比初稿顺畅，但首句仍直接列长英文about从句，达到可用3；删重复本身不自动证明4。",
+            "increment": "追问所需信息有效，但没有进一步示范一种信息会怎样改变决定，增量达到基本任务3。"
+          },
+          "issues": []
+        },
+        {
+          "id": "g5",
+          "score": 82.5,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 3,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "reservations about estimate自然；已对照该词Oxford当前义和原句逐句核验，教学类比/自编接话有明确标记，没有把推断写成资料原文。",
+            "completion": "实施计划替换与假设数据补充齐",
+            "readability": "具体疑虑场景清楚",
+            "increment": "可用于保持讨论开放"
+          },
+          "issues": []
+        }
+      ],
+      "total": 84,
+      "key": "1bf2a9c5c4eebebbc8f3a1b1c12053624b6a54b99252f1ffd1c50eb2d2926739",
+      "reused": false
+    },
+    "V20261012-054": {
+      "status": "CANDIDATE",
+      "errors": [],
+      "zones": [
+        {
+          "id": "g1",
+          "score": 75,
+          "scores": {
+            "accuracy": 3,
+            "completion": 3,
+            "readability": 3,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "理由体系与谁决定不同正确",
+            "completion": "有提问抓手但少独立微场景",
+            "readability": "不硬拆拼写提示占篇幅",
+            "increment": "比只译理由多一个为什么视角"
+          },
+          "issues": []
+        },
+        {
+          "id": "g2",
+          "score": 82.5,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 3,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "for后changing及宾语结构准确；已对照该词Oxford当前义和原句逐句核验，教学类比/自编接话有明确标记，没有把推断写成资料原文。",
+            "completion": "请求解释而非认定错误边界齐",
+            "readability": "这组理由对应行动略学术",
+            "increment": "避免误读质问成直接否定"
+          },
+          "issues": []
+        },
+        {
+          "id": "g3",
+          "score": 82.5,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 3,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "reason宽泛、evidence支持理由非理由本身正确；已对照该词Oxford当前义和原句逐句核验，教学类比/自编接话有明确标记，没有把推断写成资料原文。",
+            "completion": "缺一事实到理由的同场景直接对照",
+            "readability": "仍需说明怎样支持略抽象",
+            "increment": "证据与推理区分新增"
+          },
+          "issues": []
+        },
+        {
+          "id": "g4",
+          "score": 93.75,
+          "scores": {
+            "accuracy": 4,
+            "completion": 4,
+            "readability": 3,
+            "increment": 4
+          },
+          "reasons": {
+            "accuracy": "Could you explain请求理由准确；已对照该词Oxford当前义和原句逐句核验，教学类比/自编接话有明确标记，没有把推断写成资料原文。",
+            "completion": "客户期限提前→任务变紧急说明理由如何支撑排序，再要求核对期限及影响，展示解释与验证相接，超出仅说because。",
+            "readability": "信息到决定连线清楚",
+            "increment": "前区要求说明为什么，这里提供从新信息到选择再检查推理的具体路径，新增了可验证理由的质量标准。"
+          },
+          "issues": []
+        },
+        {
+          "id": "g5",
+          "score": 82.5,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 3,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "rationale for each change自然；已对照该词Oxford当前义和原句逐句核验，教学类比/自编接话有明确标记，没有把推断写成资料原文。",
+            "completion": "附理由、例外替换、附事实依据满足工作表达任务，没有具体文档正反例，给3。",
+            "readability": "改什么为何改易读",
+            "increment": "迁移到书面变更说明"
+          },
+          "issues": []
+        }
+      ],
+      "total": 84.1875,
+      "key": "aedd4079ef796eeb4b3878a5d3f97c359804833aec6d6bce86975e9161b05387",
+      "reused": false
+    },
+    "V20261012-055": {
+      "status": "CANDIDATE",
+      "errors": [],
+      "zones": [
+        {
+          "id": "g1",
+          "score": 81.25,
+          "scores": {
+            "accuracy": 3,
+            "completion": 3,
+            "readability": 4,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "Collins提案义与propose同族联系一致，不误作已批准。",
+            "completion": "桌上方案图像加review搭配形成抓手。",
+            "readability": "先给具体图像再解释词族，自然易懂。",
+            "increment": "“供别人考虑”与桥接有重复，但搭配和图像仍有价值。"
+          },
+          "issues": [
+            {
+              "message": "“供别人考虑”与桥接有重复，但搭配和图像仍有价值。",
+              "blocking": false
+            }
+          ]
+        },
+        {
+          "id": "g2",
+          "score": 88.75,
+          "scores": {
+            "accuracy": 3,
+            "completion": 4,
+            "readability": 4,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "Please review动作、the proposal对象及before时间界限准确。",
+            "completion": "把结构归纳为做什么/什么时候，帮助读者抓句子任务。",
+            "readability": "白话解释先行，不要求先掌握语法术语。",
+            "increment": "比01增加结构，和04时间解释略重复。"
+          },
+          "issues": [
+            {
+              "message": "比01增加结构，和04时间解释略重复。",
+              "blocking": false
+            }
+          ]
+        },
+        {
+          "id": "g3",
+          "score": 75,
+          "scores": {
+            "accuracy": 3,
+            "completion": 3,
+            "readability": 3,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "Collins常正式/书面倾向及同义suggestion有据，未绝对二分。",
+            "completion": "同一会议改期情境提供具体差异、重叠限制和submit搭配。",
+            "readability": "末句较长且有双重否定，首读仍可懂但不够简练。",
+            "increment": "有效对照，但与桥接方案内容说明重复部分可压缩。"
+          },
+          "issues": [
+            {
+              "message": "有效对照，但与桥接方案内容说明重复部分可压缩。",
+              "blocking": false
+            }
+          ]
+        },
+        {
+          "id": "g4",
+          "score": 88.75,
+          "scores": {
+            "accuracy": 3,
+            "completion": 4,
+            "readability": 4,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "原句tomorrow/before和Please review支持会前准备分析，回应标自编。",
+            "completion": "背景→要求→措辞→回应→准备完成路径完整。",
+            "readability": "今晚读、明天带问题的回应具体，直接解释这句话在做什么。",
+            "increment": "有新的承接动作；前半与02重复，所以增量不给4。"
+          },
+          "issues": [
+            {
+              "message": "有新的承接动作；前半与02重复，所以增量不给4。",
+              "blocking": false
+            }
+          ]
+        },
+        {
+          "id": "g5",
+          "score": 86.25,
+          "scores": {
+            "accuracy": 3,
+            "completion": 4,
+            "readability": 3,
+            "increment": 4
+          },
+          "reasons": {
+            "accuracy": "add reasons/cost to proposal自然；教材支持建议需给依据的组织思路。",
+            "completion": "时机明确，提供完整表达和信息槽替换。",
+            "readability": "表达可直接用，但长英文名词短语需要稍慢阅读。",
+            "increment": "从审阅过渡到补缺信息，增加可执行沟通动作，非重复04。"
+          },
+          "issues": []
+        }
+      ],
+      "total": 84.375,
+      "key": "99e5d73cc0224da339bded3d9a17da5fee6f6a828103d644e51430368f6c3027",
+      "reused": false
+    },
+    "V20261012-056": {
+      "status": "CANDIDATE",
+      "errors": [],
+      "zones": [
+        {
+          "id": "g1",
+          "score": 81.25,
+          "scores": {
+            "accuracy": 3,
+            "completion": 3,
+            "readability": 4,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "另一条路的类比不冒充词源，alternative to给出被替换对象 当前解释正确、范围恰当；这里主要是保守语境归纳，未呈现额外的精细辨义，因此评3。",
+            "completion": "以“用“眼前这条路走不通，还有另一条吗”作记忆提示。”完成本区基本任务，说明与用例成立；现有展示为一个基本例子，没有进一步的分步检查，评3。",
+            "readability": "“an alternative to the current plan”与中文说明紧接；用“眼前这条路走不通，还有另一条吗”作记忆提示。 提供明确入口，读者不必先解码抽象术语。",
+            "increment": "本区补入记忆联系，但核心含义已在前区说明；有效增量但非最高档。"
+          },
+          "issues": [
+            {
+              "message": "本区补入记忆联系，但核心含义已在前区说明；有效增量但非最高档。",
+              "blocking": false
+            }
+          ]
+        },
+        {
+          "id": "g2",
+          "score": 81.25,
+          "scores": {
+            "accuracy": 3,
+            "completion": 3,
+            "readability": 4,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "should是建议、if是条件，修订后未把if加强成必要条件 当前解释正确、范围恰当；这里主要是保守语境归纳，未呈现额外的精细辨义，因此评3。",
+            "completion": "以“should consider 表示建议考虑，an alternative 是考虑的对象；”完成本区基本任务，说明与用例成立；现有展示为一个基本例子，没有进一步的分步检查，评3。",
+            "readability": "“should consider ”与中文说明紧接；should consider 表示建议考虑，an alternative 是考虑的对象； 提供明确入口，读者不必先解码抽象术语。",
+            "increment": "本区补入句法结构，但本句主要信息在前区和04也会出现；有效增量但非最高档。"
+          },
+          "issues": [
+            {
+              "message": "本区补入句法结构，但本句主要信息在前区和04也会出现；有效增量但非最高档。",
+              "blocking": false
+            }
+          ]
+        },
+        {
+          "id": "g3",
+          "score": 92.5,
+          "scores": {
+            "accuracy": 3,
+            "completion": 4,
+            "readability": 4,
+            "increment": 4
+          },
+          "reasons": {
+            "accuracy": "周三既定、周五备选的对照使option差异具体 当前解释正确、范围恰当；这里主要是保守语境归纳，未呈现额外的精细辨义，因此评3。",
+            "completion": "本区不仅列出任务，而且演示了option ，并交代常用 alternative to，后面接被替代的安排。；关键教学步骤可逐项对照。",
+            "readability": "“option ”与中文说明紧接；option 泛指可以选的项目，alternative 在这里更突出“换掉眼前安排的另一选择”。 提供明确入口，读者不必先解码抽象术语。",
+            "increment": "本区的“option ”把同一情景下的区别落到可判断的动作，超出前区释义。"
+          },
+          "issues": []
+        },
+        {
+          "id": "g4",
+          "score": 88.75,
+          "scores": {
+            "accuracy": 3,
+            "completion": 4,
+            "readability": 4,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "Friday回应提供候选日期；原版只有才的条件逻辑需要纠正 当前解释正确、范围恰当；这里主要是保守语境归纳，未呈现额外的精细辨义，因此评3。",
+            "completion": "本区不仅列出任务，而且演示了should consider ，并交代自编回应：Could Friday work instead?（改到周五可行吗？）回应提出可比较的候选日期，而没有替大家作最终决定。；关键教学步骤可逐项对照。",
+            "readability": "“should consider ”与中文说明紧接；这句话把日期过紧的担忧转成寻找别的选择。 提供明确入口，读者不必先解码抽象术语。",
+            "increment": "本区补入接话动作，但前半句再次解释原句任务；有效增量但非最高档。"
+          },
+          "issues": [
+            {
+              "message": "本区补入接话动作，但前半句再次解释原句任务；有效增量但非最高档。",
+              "blocking": false
+            }
+          ]
+        },
+        {
+          "id": "g5",
+          "score": 75,
+          "scores": {
+            "accuracy": 3,
+            "completion": 3,
+            "readability": 3,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "supplier迁移自然，但没有给出替换槽或完整的后续问答 当前解释正确、范围恰当；这里主要是保守语境归纳，未呈现额外的精细辨义，因此评3。",
+            "completion": "以“自编工作表达：Do we have an alternative to this supplier?（我们有可替代这家供应商的选择吗？）适合想先摸清备用选项时。”完成本区基本任务，说明与用例成立；现有展示为一个基本例子，没有进一步的分步检查，评3。",
+            "readability": "后半句同时列质量交期条件及两种引号说法，能读懂但并不十分利落。",
+            "increment": "本区补入工作表达，但与前面使用场景或搭配仍有重合；有效增量但非最高档。"
+          },
+          "issues": [
+            {
+              "message": "本区补入工作表达，但与前面使用场景或搭配仍有重合；有效增量但非最高档。",
+              "blocking": false
+            }
+          ]
+        }
+      ],
+      "total": 84.125,
+      "key": "2cbb542dbeb5702af21543be7d297674bf21ad534dfc4b12b921e55e9e5d1e0d",
+      "reused": false
+    },
+    "V20261012-057": {
+      "status": "CANDIDATE",
+      "errors": [],
+      "zones": [
+        {
+          "id": "g1",
+          "score": 81.25,
+          "scores": {
+            "accuracy": 3,
+            "completion": 3,
+            "readability": 4,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "reach a compromise和compromise on连接名词及动词，让步非单方 当前解释正确、范围恰当；这里主要是保守语境归纳，未呈现额外的精细辨义，因此评3。",
+            "completion": "以“记住“各让一点，找到能接受的安排”。”完成本区基本任务，说明与用例成立；现有展示为一个基本例子，没有进一步的分步检查，评3。",
+            "readability": "“reach a compromise”与中文说明紧接；记住“各让一点，找到能接受的安排”。 提供明确入口，读者不必先解码抽象术语。",
+            "increment": "本区补入记忆联系，但核心含义已在前区说明；有效增量但非最高档。"
+          },
+          "issues": [
+            {
+              "message": "本区补入记忆联系，但核心含义已在前区说明；有效增量但非最高档。",
+              "blocking": false
+            }
+          ]
+        },
+        {
+          "id": "g2",
+          "score": 82.5,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 3,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "reached过去式和on排期范围读对，未虚构让步细节",
+            "completion": "以“reached 是过去式，a compromise 是达成的结果；”完成本区基本任务，说明与用例成立；现有展示为一个基本例子，没有进一步的分步检查，评3。",
+            "readability": "排期范围、其他问题和让步细节连续放在同一长句，首读需要停顿。",
+            "increment": "本区补入句法结构，但本句主要信息在前区和04也会出现；有效增量但非最高档。"
+          },
+          "issues": [
+            {
+              "message": "本区补入句法结构，但本句主要信息在前区和04也会出现；有效增量但非最高档。",
+              "blocking": false
+            }
+          ]
+        },
+        {
+          "id": "g3",
+          "score": 92.5,
+          "scores": {
+            "accuracy": 3,
+            "completion": 4,
+            "readability": 4,
+            "increment": 4
+          },
+          "reasons": {
+            "accuracy": "都选周三与各自让步后选周三形成有效最小对照 当前解释正确、范围恰当；这里主要是保守语境归纳，未呈现额外的精细辨义，因此评3。",
+            "completion": "本区不仅列出任务，而且演示了agreement ，并交代常见 acceptable compromise，强调这个折中能被接受。；关键教学步骤可逐项对照。",
+            "readability": "“agreement ”与中文说明紧接；agreement 泛指达成一致； 提供明确入口，读者不必先解码抽象术语。",
+            "increment": "本区的“agreement ”把同一情景下的区别落到可判断的动作，超出前区释义。"
+          },
+          "issues": []
+        },
+        {
+          "id": "g4",
+          "score": 81.25,
+          "scores": {
+            "accuracy": 3,
+            "completion": 3,
+            "readability": 4,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "追问最终日期能把折中结果落实为日程 当前解释正确、范围恰当；这里主要是保守语境归纳，未呈现额外的精细辨义，因此评3。",
+            "completion": "以“We reached 把这句话说成结果汇报：评审日期已经谈出了折中。”完成本区基本任务，说明与用例成立；现有展示为一个基本例子，没有进一步的分步检查，评3。",
+            "readability": "“We reached ”与中文说明紧接；We reached 把这句话说成结果汇报：评审日期已经谈出了折中。 提供明确入口，读者不必先解码抽象术语。",
+            "increment": "本区补入接话动作，但前半句再次解释原句任务；有效增量但非最高档。"
+          },
+          "issues": [
+            {
+              "message": "本区补入接话动作，但前半句再次解释原句任务；有效增量但非最高档。",
+              "blocking": false
+            }
+          ]
+        },
+        {
+          "id": "g5",
+          "score": 75,
+          "scores": {
+            "accuracy": 3,
+            "completion": 3,
+            "readability": 3,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "delivery schedule可迁移，但若再示范一项具体让步会更可操作 当前解释正确、范围恰当；这里主要是保守语境归纳，未呈现额外的精细辨义，因此评3。",
+            "completion": "以“自编工作表达：Could we reach a compromise on the delivery schedule?（我们能就交付时间表达成折中吗？）适合双方安排不同、仍愿讨论调整时。”完成本区基本任务，说明与用例成立；现有展示为一个基本例子，没有进一步的分步检查，评3。",
+            "readability": "较长的delivery schedule问句后又转到双方让步条件，未拆成短教学步骤。",
+            "increment": "本区补入工作表达，但与前面使用场景或搭配仍有重合；有效增量但非最高档。"
+          },
+          "issues": [
+            {
+              "message": "本区补入工作表达，但与前面使用场景或搭配仍有重合；有效增量但非最高档。",
+              "blocking": false
+            }
+          ]
+        }
+      ],
+      "total": 82.5,
+      "key": "b925d290350f0c566db7ab64864eee2c3f020f63828f5b3455ecfb372e9ecac5",
+      "reused": false
+    },
+    "V20261012-058": {
+      "status": "CANDIDATE",
+      "errors": [],
+      "zones": [
+        {
+          "id": "g1",
+          "score": 88.75,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 4,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "谈什么与和谁谈形成实用搭配对，非单方更改",
+            "completion": "以“记住 negotiate a deadline，不是单方面把日期改掉，而是把期限带进讨论。”完成本区基本任务，说明与用例成立；现有展示为一个基本例子，没有进一步的分步检查，评3。",
+            "readability": "“negotiate a deadline”与中文说明紧接；记住 negotiate a deadline，不是单方面把日期改掉，而是把期限带进讨论。 提供明确入口，读者不必先解码抽象术语。",
+            "increment": "本区补入记忆联系，但核心含义已在前区说明；有效增量但非最高档。"
+          },
+          "issues": [
+            {
+              "message": "本区补入记忆联系，但核心含义已在前区说明；有效增量但非最高档。",
+              "blocking": false
+            }
+          ]
+        },
+        {
+          "id": "g2",
+          "score": 88.75,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 4,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "may need to的模态与more realistic的比较含义均有解释",
+            "completion": "以“may need to 表示可能有必要，negotiate 后直接接 a more realistic deadline。”完成本区基本任务，说明与用例成立；现有展示为一个基本例子，没有进一步的分步检查，评3。",
+            "readability": "“may need to ”与中文说明紧接；may need to 表示可能有必要，negotiate 后直接接 a more realistic deadline。 提供明确入口，读者不必先解码抽象术语。",
+            "increment": "本区补入句法结构，但本句主要信息在前区和04也会出现；有效增量但非最高档。"
+          },
+          "issues": [
+            {
+              "message": "本区补入句法结构，但本句主要信息在前区和04也会出现；有效增量但非最高档。",
+              "blocking": false
+            }
+          ]
+        },
+        {
+          "id": "g3",
+          "score": 92.5,
+          "scores": {
+            "accuracy": 3,
+            "completion": 4,
+            "readability": 4,
+            "increment": 4
+          },
+          "reasons": {
+            "accuracy": "discuss影响和negotiate条件在同一延期场景有区分 当前解释正确、范围恰当；这里主要是保守语境归纳，未呈现额外的精细辨义，因此评3。",
+            "completion": "本区不仅列出任务，而且演示了discuss ，并交代negotiate with 后接对象，negotiate a deadline 则直接说要商定的事项。；关键教学步骤可逐项对照。",
+            "readability": "“discuss ”与中文说明紧接；discuss 可以只是交换看法； 提供明确入口，读者不必先解码抽象术语。",
+            "increment": "本区的“discuss ”把同一情景下的区别落到可判断的动作，超出前区释义。"
+          },
+          "issues": []
+        },
+        {
+          "id": "g4",
+          "score": 75,
+          "scores": {
+            "accuracy": 3,
+            "completion": 3,
+            "readability": 3,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "询问可合理承诺日期把协商提议推进到准备依据 当前解释正确、范围恰当；这里主要是保守语境归纳，未呈现额外的精细辨义，因此评3。",
+            "completion": "以“may need to 保留判断空间，说话者提出“可能得重新谈日期”。”完成本区基本任务，说明与用例成立；现有展示为一个基本例子，没有进一步的分步检查，评3。",
+            "readability": "判断空间、可执行性、新日期三个抽象点在回应前连用，初学者需慢读。",
+            "increment": "本区补入接话动作，但前半句再次解释原句任务；有效增量但非最高档。"
+          },
+          "issues": [
+            {
+              "message": "本区补入接话动作，但前半句再次解释原句任务；有效增量但非最高档。",
+              "blocking": false
+            }
+          ]
+        },
+        {
+          "id": "g5",
+          "score": 81.25,
+          "scores": {
+            "accuracy": 3,
+            "completion": 3,
+            "readability": 4,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "allows time for testing给出期限调整的实质条件 当前解释正确、范围恰当；这里主要是保守语境归纳，未呈现额外的精细辨义，因此评3。",
+            "completion": "以“自编工作表达：Can we negotiate a deadline that allows time for testing?（我们能协商一个留出测试时间的期限吗？）适合提出调整要求时，说明调整要满足的具体条件；”完成本区基本任务，说明与用例成立；现有展示为一个基本例子，没有进一步的分步检查，评3。",
+            "readability": "“Can we negotiate a deadline that allows time for testing”与中文说明紧接；自编工作表达：Can we negotiate a deadline that allows time for testing?（我们能协商一个留出测试时间的期限吗？）适合提出调整要求时，说明调整要满足的具体条件； 提供明确入口，读者不必先解码抽象术语。",
+            "increment": "本区补入工作表达，但与前面使用场景或搭配仍有重合；有效增量但非最高档。"
+          },
+          "issues": [
+            {
+              "message": "本区补入工作表达，但与前面使用场景或搭配仍有重合；有效增量但非最高档。",
+              "blocking": false
+            }
+          ]
+        }
+      ],
+      "total": 84.5625,
+      "key": "e97b8ad8231a487ddab658c3cad3fc529aa5428be16030391e7948174b6ee570",
+      "reused": false
+    },
+    "V20261012-059": {
+      "status": "CANDIDATE",
+      "errors": [],
+      "zones": [
+        {
+          "id": "g1",
+          "score": 88.75,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 4,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "活动结束和that判断均有例，帮助识别常见多义",
+            "completion": "以“把 conclude the meeting 记成“给会议收尾”，再联系 conclude that repairs are necessary（得出需要维修的结论）。”完成本区基本任务，说明与用例成立；现有展示为一个基本例子，没有进一步的分步检查，评3。",
+            "readability": "“conclude the meeting ”与中文说明紧接；把 conclude the meeting 记成“给会议收尾”，再联系 conclude that repairs are necessary（得出需要维修的结论）。 提供明确入口，读者不必先解码抽象术语。",
+            "increment": "本区补入记忆联系，但核心含义已在前区说明；有效增量但非最高档。"
+          },
+          "issues": [
+            {
+              "message": "本区补入记忆联系，但核心含义已在前区说明；有效增量但非最高档。",
+              "blocking": false
+            }
+          ]
+        },
+        {
+          "id": "g2",
+          "score": 88.75,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 4,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "the meeting为活动宾语，by confirming是收尾方式",
+            "completion": "以“Let's 提议共同做一件事，conclude 的对象是 the meeting；”完成本区基本任务，说明与用例成立；现有展示为一个基本例子，没有进一步的分步检查，评3。",
+            "readability": "“Let's ”与中文说明紧接；Let's 提议共同做一件事，conclude 的对象是 the meeting； 提供明确入口，读者不必先解码抽象术语。",
+            "increment": "本区补入句法结构，但本句主要信息在前区和04也会出现；有效增量但非最高档。"
+          },
+          "issues": [
+            {
+              "message": "本区补入句法结构，但本句主要信息在前区和04也会出现；有效增量但非最高档。",
+              "blocking": false
+            }
+          ]
+        },
+        {
+          "id": "g3",
+          "score": 88.75,
+          "scores": {
+            "accuracy": 3,
+            "completion": 4,
+            "readability": 4,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "结束和概括有先后关系示范，较正式为倾向非硬规则 当前解释正确、范围恰当；这里主要是保守语境归纳，未呈现额外的精细辨义，因此评3。",
+            "completion": "本区不仅列出任务，而且演示了conclude the meeting ，并交代结尾可以包含总结，也可以只是确认安排。；关键教学步骤可逐项对照。",
+            "readability": "“conclude the meeting ”与中文说明紧接；conclude the meeting 和 end the meeting 都是结束会议，conclude 较正式； 提供明确入口，读者不必先解码抽象术语。",
+            "increment": "本区补入相邻表达，但当前例子还沿用前区场景；有效增量但非最高档。"
+          },
+          "issues": [
+            {
+              "message": "本区补入相邻表达，但当前例子还沿用前区场景；有效增量但非最高档。",
+              "blocking": false
+            }
+          ]
+        },
+        {
+          "id": "g4",
+          "score": 81.25,
+          "scores": {
+            "accuracy": 3,
+            "completion": 3,
+            "readability": 4,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "检查设备的下一步回应conclude by的最后任务 当前解释正确、范围恰当；这里主要是保守语境归纳，未呈现额外的精细辨义，因此评3。",
+            "completion": "以“Let’s 是提出共同安排，conclude 让会议进入结束阶段，by confirming 又指定最后要做的动作。”完成本区基本任务，说明与用例成立；现有展示为一个基本例子，没有进一步的分步检查，评3。",
+            "readability": "“Let’s ”与中文说明紧接；Let’s 是提出共同安排，conclude 让会议进入结束阶段，by confirming 又指定最后要做的动作。 提供明确入口，读者不必先解码抽象术语。",
+            "increment": "本区补入接话动作，但前半句再次解释原句任务；有效增量但非最高档。"
+          },
+          "issues": [
+            {
+              "message": "本区补入接话动作，但前半句再次解释原句任务；有效增量但非最高档。",
+              "blocking": false
+            }
+          ]
+        },
+        {
+          "id": "g5",
+          "score": 75,
+          "scores": {
+            "accuracy": 3,
+            "completion": 3,
+            "readability": 3,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "总结remaining questions不等于所有问题已解决 当前解释正确、范围恰当；这里主要是保守语境归纳，未呈现额外的精细辨义，因此评3。",
+            "completion": "以“自编工作表达：I'd like to conclude by summarising the remaining questions.（我想通过概括尚未解决的问题来结束。”完成本区基本任务，说明与用例成立；现有展示为一个基本例子，没有进一步的分步检查，评3。",
+            "readability": "英文by summarising the remaining questions较长，中文解释又含两层结束边界。",
+            "increment": "本区补入工作表达，但与前面使用场景或搭配仍有重合；有效增量但非最高档。"
+          },
+          "issues": [
+            {
+              "message": "本区补入工作表达，但与前面使用场景或搭配仍有重合；有效增量但非最高档。",
+              "blocking": false
+            }
+          ]
+        }
+      ],
+      "total": 84.125,
+      "key": "3ee72da817c63b724d153dfce784e24ae06bc3da02a65a4ca02a513e9b435181",
+      "reused": false
+    },
+    "V20261012-060": {
+      "status": "CANDIDATE",
+      "errors": [],
+      "zones": [
+        {
+          "id": "g1",
+          "score": 88.75,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 4,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "document名词材料与动词记录清楚相连",
+            "completion": "以“把 a document（一份文件）与 document a decision（记录一个决定）连起来记。”完成本区基本任务，说明与用例成立；现有展示为一个基本例子，没有进一步的分步检查，评3。",
+            "readability": "“a document”与中文说明紧接；把 a document（一份文件）与 document a decision（记录一个决定）连起来记。 提供明确入口，读者不必先解码抽象术语。",
+            "increment": "本区补入记忆联系，但核心含义已在前区说明；有效增量但非最高档。"
+          },
+          "issues": [
+            {
+              "message": "本区补入记忆联系，但核心含义已在前区说明；有效增量但非最高档。",
+              "blocking": false
+            }
+          ]
+        },
+        {
+          "id": "g2",
+          "score": 100,
+          "scores": {
+            "accuracy": 4,
+            "completion": 4,
+            "readability": 4,
+            "increment": 4
+          },
+          "reasons": {
+            "accuracy": "decision和reason并列，it指decision，指出漏项后果",
+            "completion": "本区不仅列出任务，而且演示了Please document ，并交代遗漏后半部分，就只留下“做什么”，没有留下“为什么这样做”。；关键教学步骤可逐项对照。",
+            "readability": "“Please document ”与中文说明紧接；Please document 是祈使句，document 后的两个并列对象是 the decision 和 the reason behind it。 提供明确入口，读者不必先解码抽象术语。",
+            "increment": "由并列的decision/reason与it回指识别记录不能漏掉理由，这是本区独有的操作检查。"
+          },
+          "issues": []
+        },
+        {
+          "id": "g3",
+          "score": 92.5,
+          "scores": {
+            "accuracy": 3,
+            "completion": 4,
+            "readability": 4,
+            "increment": 4
+          },
+          "reasons": {
+            "accuracy": "讨论完成而纪要未写的例子有效区分discuss/document 当前解释正确、范围恰当；这里主要是保守语境归纳，未呈现额外的精细辨义，因此评3。",
+            "completion": "本区不仅列出任务，而且演示了discuss a decision ，并交代常用 document the reasons，记录理由，让后来的人能理解当时依据。；关键教学步骤可逐项对照。",
+            "readability": "“discuss a decision ”与中文说明紧接；discuss a decision 是讨论决定，document a decision 是留下记录。 提供明确入口，读者不必先解码抽象术语。",
+            "increment": "本区的“discuss a decision ”把同一情景下的区别落到可判断的动作，超出前区释义。"
+          },
+          "issues": []
+        },
+        {
+          "id": "g4",
+          "score": 92.5,
+          "scores": {
+            "accuracy": 3,
+            "completion": 4,
+            "readability": 4,
+            "increment": 4
+          },
+          "reasons": {
+            "accuracy": "both与meeting notes回应两项对象并明确保存位置 当前解释正确、范围恰当；这里主要是保守语境归纳，未呈现额外的精细辨义，因此评3。",
+            "completion": "本区不仅列出任务，而且演示了Please document ，并交代）这样明确了保存位置，也回应了本句要求的两部分。；关键教学步骤可逐项对照。",
+            "readability": "“Please document ”与中文说明紧接；Please document 提出记录任务，and 把记录对象扩成两项：决定，以及背后的理由。 提供明确入口，读者不必先解码抽象术语。",
+            "increment": "both回指两项、meeting notes明确保存处，回应新增可执行的记录动作。"
+          },
+          "issues": []
+        },
+        {
+          "id": "g5",
+          "score": 75,
+          "scores": {
+            "accuracy": 3,
+            "completion": 3,
+            "readability": 3,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "approved process变更可记录，但未给如何填写记录的例子 当前解释正确、范围恰当；这里主要是保守语境归纳，未呈现额外的精细辨义，因此评3。",
+            "completion": "以“自编工作表达：Please document any changes to the agreed process.（请记录对已议定流程的任何改动。”完成本区基本任务，说明与用例成立；现有展示为一个基本例子，没有进一步的分步检查，评3。",
+            "readability": "agreed process与approved的审批提醒连续出现，表达正确但增加理解负担。",
+            "increment": "本区补入工作表达，但与前面使用场景或搭配仍有重合；有效增量但非最高档。"
+          },
+          "issues": [
+            {
+              "message": "本区补入工作表达，但与前面使用场景或搭配仍有重合；有效增量但非最高档。",
+              "blocking": false
+            }
+          ]
+        }
+      ],
+      "total": 89.9375,
+      "key": "ad50297fe6ac422b4e5d1ee778cac8bd7b2f990b89c84b5364a9f251206103da",
+      "reused": false
+    },
+    "V20261012-061": {
+      "status": "CANDIDATE",
+      "errors": [],
+      "zones": [
+        {
+          "id": "g1",
+          "score": 88.75,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 4,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "先前动作加后续动作的联系清楚，连字符用法有提醒",
+            "completion": "以“把它记成“上次之后，再做下一步”，重点在前后两次行动有关联。”完成本区基本任务，说明与用例成立；现有展示为一个基本例子，没有进一步的分步检查，评3。",
+            "readability": "“follow up on an action ”与中文说明紧接；把它记成“上次之后，再做下一步”，重点在前后两次行动有关联。 提供明确入口，读者不必先解码抽象术语。",
+            "increment": "本区补入记忆联系，但核心含义已在前区说明；有效增量但非最高档。"
+          },
+          "issues": [
+            {
+              "message": "本区补入记忆联系，但核心含义已在前区说明；有效增量但非最高档。",
+              "blocking": false
+            }
+          ]
+        },
+        {
+          "id": "g2",
+          "score": 96.25,
+          "scores": {
+            "accuracy": 4,
+            "completion": 4,
+            "readability": 4,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "will承诺、on事项、tomorrow时间三项完整，跟进非完成",
+            "completion": "本区不仅列出任务，而且演示了I'll ，并交代open 在这项工作语境中表示尚未结清，整句承诺的是明天跟进，并非保证明天完成该事项。；关键教学步骤可逐项对照。",
+            "readability": "“I'll ”与中文说明紧接；I'll 是 I will，表示这里承担下一次行动； 提供明确入口，读者不必先解码抽象术语。",
+            "increment": "本区补入句法结构，但本句主要信息在前区和04也会出现；有效增量但非最高档。"
+          },
+          "issues": [
+            {
+              "message": "本区补入句法结构，但本句主要信息在前区和04也会出现；有效增量但非最高档。",
+              "blocking": false
+            }
+          ]
+        },
+        {
+          "id": "g3",
+          "score": 86.25,
+          "scores": {
+            "accuracy": 3,
+            "completion": 4,
+            "readability": 3,
+            "increment": 4
+          },
+          "reasons": {
+            "accuracy": "首次检查与会后追问构成对照，with人/on事可复用 当前解释正确、范围恰当；这里主要是保守语境归纳，未呈现额外的精细辨义，因此评3。",
+            "completion": "本区不仅列出任务，而且演示了check ，并交代follow up on 后接事项，follow up with 后面常接要联系的人。；关键教学步骤可逐项对照。",
+            "readability": "check、follow up、on/with搭配三件事挤在同段；区分清楚但密度偏高。",
+            "increment": "本区的“check ”把同一情景下的区别落到可判断的动作，超出前区释义。"
+          },
+          "issues": []
+        },
+        {
+          "id": "g4",
+          "score": 75,
+          "scores": {
+            "accuracy": 3,
+            "completion": 3,
+            "readability": 3,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "要求未结时回报可推进工作，但只有一轮接话 当前解释正确、范围恰当；这里主要是保守语境归纳，未呈现额外的精细辨义，因此评3。",
+            "completion": "以“I’ll 把这句话变成承诺，on the open action 指定跟进哪件事，tomorrow 给出时间。”完成本区基本任务，说明与用例成立；现有展示为一个基本例子，没有进一步的分步检查，评3。",
+            "readability": "未结行动和关闭属工作术语，接话只重复open状态，直观性一般。",
+            "increment": "本区补入接话动作，但前半句再次解释原句任务；有效增量但非最高档。"
+          },
+          "issues": [
+            {
+              "message": "本区补入接话动作，但前半句再次解释原句任务；有效增量但非最高档。",
+              "blocking": false
+            }
+          ]
+        },
+        {
+          "id": "g5",
+          "score": 81.25,
+          "scores": {
+            "accuracy": 3,
+            "completion": 3,
+            "readability": 4,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "missing information加this afternoon比裸follow up更明确 当前解释正确、范围恰当；这里主要是保守语境归纳，未呈现额外的精细辨义，因此评3。",
+            "completion": "以“自编工作表达：I'll follow up on the missing information this afternoon.（今天下午我会跟进缺失的信息。”完成本区基本任务，说明与用例成立；现有展示为一个基本例子，没有进一步的分步检查，评3。",
+            "readability": "“I'll follow up on the missing information this afternoon”与中文说明紧接；自编工作表达：I'll follow up on the missing information this afternoon.（今天下午我会跟进缺失的信息。 提供明确入口，读者不必先解码抽象术语。",
+            "increment": "本区补入工作表达，但与前面使用场景或搭配仍有重合；有效增量但非最高档。"
+          },
+          "issues": [
+            {
+              "message": "本区补入工作表达，但与前面使用场景或搭配仍有重合；有效增量但非最高档。",
+              "blocking": false
+            }
+          ]
+        }
+      ],
+      "total": 84.8125,
+      "key": "971d394876ffb68441d9515cf61809febf3b17779a8b6a10457016b257dc7174",
+      "reused": false
+    },
+    "V20261012-062": {
+      "status": "CANDIDATE",
+      "errors": [],
+      "zones": [
+        {
+          "id": "g1",
+          "score": 81.25,
+          "scores": {
+            "accuracy": 3,
+            "completion": 3,
+            "readability": 4,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "issue宾语锁定谈话义，与养育义区分 当前解释正确、范围恰当；这里主要是保守语境归纳，未呈现额外的精细辨义，因此评3。",
+            "completion": "以“把 bring up an issue 连成一块，记住它负责让话题进入对话。”完成本区基本任务，说明与用例成立；现有展示为一个基本例子，没有进一步的分步检查，评3。",
+            "readability": "“bring up an issue ”与中文说明紧接；把 bring up an issue 连成一块，记住它负责让话题进入对话。 提供明确入口，读者不必先解码抽象术语。",
+            "increment": "本区补入记忆联系，但核心含义已在前区说明；有效增量但非最高档。"
+          },
+          "issues": [
+            {
+              "message": "本区补入记忆联系，但核心含义已在前区说明；有效增量但非最高档。",
+              "blocking": false
+            }
+          ]
+        },
+        {
+          "id": "g2",
+          "score": 100,
+          "scores": {
+            "accuracy": 4,
+            "completion": 4,
+            "readability": 4,
+            "increment": 4
+          },
+          "reasons": {
+            "accuracy": "bring it up的代词位置与Oxford及BC一致",
+            "completion": "本区不仅列出任务，而且演示了I'd like to ，并交代这里在申请或预告一个发言点，还没有讲出问题的具体内容。；关键教学步骤可逐项对照。",
+            "readability": "“I'd like to ”与中文说明紧接；I'd like to 后接 bring up，表示想做什么； 提供明确入口，读者不必先解码抽象术语。",
+            "increment": "bring it up补足可分短语中代词必须居中的实际操作，前区没有这条知识。"
+          },
+          "issues": []
+        },
+        {
+          "id": "g3",
+          "score": 92.5,
+          "scores": {
+            "accuracy": 3,
+            "completion": 4,
+            "readability": 4,
+            "increment": 4
+          },
+          "reasons": {
+            "accuracy": "引入议题再讨论解决方案的先后让辨析易懂 当前解释正确、范围恰当；这里主要是保守语境归纳，未呈现额外的精细辨义，因此评3。",
+            "completion": "本区不仅列出任务，而且演示了bring up ，并交代若只是要指出现有方案里的一处细节，point out 往往更直接。；关键教学步骤可逐项对照。",
+            "readability": "“bring up ”与中文说明紧接；bring up 侧重把话题引入，discuss 侧重已经围绕它展开交流。 提供明确入口，读者不必先解码抽象术语。",
+            "increment": "本区的“bring up ”把同一情景下的区别落到可判断的动作，超出前区释义。"
+          },
+          "issues": []
+        },
+        {
+          "id": "g4",
+          "score": 88.75,
+          "scores": {
+            "accuracy": 3,
+            "completion": 4,
+            "readability": 4,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "Sure回应给出发言入口，兼顾时间不足时的应对 当前解释正确、范围恰当；这里主要是保守语境归纳，未呈现额外的精细辨义，因此评3。",
+            "completion": "本区不仅列出任务，而且演示了I’d like to ，并交代如果时间不足，也可以先确认议题再约后续讨论。；关键教学步骤可逐项对照。",
+            "readability": "“I’d like to ”与中文说明紧接；I’d like to 先表达想说一件事，before we finish 说明希望现在留一点时间。 提供明确入口，读者不必先解码抽象术语。",
+            "increment": "本区补入接话动作，但前半句再次解释原句任务；有效增量但非最高档。"
+          },
+          "issues": [
+            {
+              "message": "本区补入接话动作，但前半句再次解释原句任务；有效增量但非最高档。",
+              "blocking": false
+            }
+          ]
+        },
+        {
+          "id": "g5",
+          "score": 81.25,
+          "scores": {
+            "accuracy": 3,
+            "completion": 3,
+            "readability": 4,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "staffing与next meeting把主题和时机说清，但无替换槽 当前解释正确、范围恰当；这里主要是保守语境归纳，未呈现额外的精细辨义，因此评3。",
+            "completion": "以“自编工作表达：Could we bring up the staffing issue at the next meeting?（我们能在下次会议提出人员配置问题吗？）适合安排讨论时机。”完成本区基本任务，说明与用例成立；现有展示为一个基本例子，没有进一步的分步检查，评3。",
+            "readability": "“Could we bring up the staffing issue at the next meeting”与中文说明紧接；自编工作表达：Could we bring up the staffing issue at the next meeting?（我们能在下次会议提出人员配置问题吗？）适合安排讨论时机。 提供明确入口，读者不必先解码抽象术语。",
+            "increment": "本区补入工作表达，但与前面使用场景或搭配仍有重合；有效增量但非最高档。"
+          },
+          "issues": [
+            {
+              "message": "本区补入工作表达，但与前面使用场景或搭配仍有重合；有效增量但非最高档。",
+              "blocking": false
+            }
+          ]
+        }
+      ],
+      "total": 89.125,
+      "key": "b1a64efe6f04578be67e7835cba1efff64b5979fa1f7f2a730728eabb6d61d41",
+      "reused": false
+    },
+    "V20261012-063": {
+      "status": "CANDIDATE",
+      "errors": [],
+      "zones": [
+        {
+          "id": "g1",
+          "score": 88.75,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 4,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "walk us/me through把人和过程配对，整体理解清楚",
+            "completion": "以“记“带我一步一步过一遍”。”完成本区基本任务，说明与用例成立；现有展示为一个基本例子，没有进一步的分步检查，评3。",
+            "readability": "“walk us through the plan ”与中文说明紧接；记“带我一步一步过一遍”。 提供明确入口，读者不必先解码抽象术语。",
+            "increment": "本区补入记忆联系，但核心含义已在前区说明；有效增量但非最高档。"
+          },
+          "issues": [
+            {
+              "message": "本区补入记忆联系，但核心含义已在前区说明；有效增量但非最高档。",
+              "blocking": false
+            }
+          ]
+        },
+        {
+          "id": "g2",
+          "score": 88.75,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 4,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "us为听众、plan为内容，through不可按普通走路删掉",
+            "completion": "以“Could you 引出请求，walk us through 里的 us 是听讲的人，the revised plan 是讲解内容。”完成本区基本任务，说明与用例成立；现有展示为一个基本例子，没有进一步的分步检查，评3。",
+            "readability": "“Could you ”与中文说明紧接；Could you 引出请求，walk us through 里的 us 是听讲的人，the revised plan 是讲解内容。 提供明确入口，读者不必先解码抽象术语。",
+            "increment": "本区补入句法结构，但本句主要信息在前区和04也会出现；有效增量但非最高档。"
+          },
+          "issues": [
+            {
+              "message": "本区补入句法结构，但本句主要信息在前区和04也会出现；有效增量但非最高档。",
+              "blocking": false
+            }
+          ]
+        },
+        {
+          "id": "g3",
+          "score": 92.5,
+          "scores": {
+            "accuracy": 3,
+            "completion": 4,
+            "readability": 4,
+            "increment": 4
+          },
+          "reasons": {
+            "accuracy": "两分钟概览与按阶段讲解构成成熟对照 当前解释正确、范围恰当；这里主要是保守语境归纳，未呈现额外的精细辨义，因此评3。",
+            "completion": "本区不仅列出任务，而且演示了summarize ，并交代选择哪种，取决于听者需要概览还是跟着做。；关键教学步骤可逐项对照。",
+            "readability": "“summarize ”与中文说明紧接；summarize 是提炼重点，walk someone through 则更强调逐步带领。 提供明确入口，读者不必先解码抽象术语。",
+            "increment": "本区的“summarize ”把同一情景下的区别落到可判断的动作，超出前区释义。"
+          },
+          "issues": []
+        },
+        {
+          "id": "g4",
+          "score": 81.25,
+          "scores": {
+            "accuracy": 3,
+            "completion": 3,
+            "readability": 4,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "从first stage开始回应分步请求，优于仅发文件 当前解释正确、范围恰当；这里主要是保守语境归纳，未呈现额外的精细辨义，因此评3。",
+            "completion": "以“Could you 把句子写成请求，us 指定听众，revised 表明大家需要理解的是改过后的版本。”完成本区基本任务，说明与用例成立；现有展示为一个基本例子，没有进一步的分步检查，评3。",
+            "readability": "“Could you ”与中文说明紧接；Could you 把句子写成请求，us 指定听众，revised 表明大家需要理解的是改过后的版本。 提供明确入口，读者不必先解码抽象术语。",
+            "increment": "本区补入接话动作，但前半句再次解释原句任务；有效增量但非最高档。"
+          },
+          "issues": [
+            {
+              "message": "本区补入接话动作，但前半句再次解释原句任务；有效增量但非最高档。",
+              "blocking": false
+            }
+          ]
+        },
+        {
+          "id": "g5",
+          "score": 92.5,
+          "scores": {
+            "accuracy": 3,
+            "completion": 4,
+            "readability": 4,
+            "increment": 4
+          },
+          "reasons": {
+            "accuracy": "提交表单场景可执行，允许停在不懂步骤继续问 当前解释正确、范围恰当；这里主要是保守语境归纳，未呈现额外的精细辨义，因此评3。",
+            "completion": "本区不仅列出任务，而且演示了Could you walk me through how to submit this form，并交代必要时再请其停在不懂的环节。；关键教学步骤可逐项对照。",
+            "readability": "“Could you walk me through how to submit this form”与中文说明紧接；自编工作表达：Could you walk me through how to submit this form?（你能一步步教我怎样提交这张表吗？）适合初次操作或对流程不熟时。 提供明确入口，读者不必先解码抽象术语。",
+            "increment": "由理解计划迁移到提交表单，并允许在不懂处暂停，增加可实际使用的求教方式。"
+          },
+          "issues": []
+        }
+      ],
+      "total": 88.375,
+      "key": "d03ee53bfa384e72393e7fe6d92f2c82978a985320ec168606bfaec955745216",
+      "reused": false
+    },
+    "V20261012-064": {
+      "status": "CANDIDATE",
+      "errors": [],
+      "zones": [
+        {
+          "id": "g1",
+          "score": 81.25,
+          "scores": {
+            "accuracy": 3,
+            "completion": 3,
+            "readability": 4,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "你看这里联系提醒功能，未声称必须实际指手 当前解释正确、范围恰当；这里主要是保守语境归纳，未呈现额外的精细辨义，因此评3。",
+            "completion": "以“用“你看这里”帮助记住 point out 的提醒功能，动作未必真的用手指。”完成本区基本任务，说明与用例成立；现有展示为一个基本例子，没有进一步的分步检查，评3。",
+            "readability": "“point out ”与中文说明紧接；用“你看这里”帮助记住 point out 的提醒功能，动作未必真的用手指。 提供明确入口，读者不必先解码抽象术语。",
+            "increment": "本区补入记忆联系，但核心含义已在前区说明；有效增量但非最高档。"
+          },
+          "issues": [
+            {
+              "message": "本区补入记忆联系，但核心含义已在前区说明；有效增量但非最高档。",
+              "blocking": false
+            }
+          ]
+        },
+        {
+          "id": "g2",
+          "score": 88.75,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 4,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "one difference及between两方的结构对应原句",
+            "completion": "以“Let me point out 是引出自己要说明的内容；”完成本区基本任务，说明与用例成立；现有展示为一个基本例子，没有进一步的分步检查，评3。",
+            "readability": "“Let me point out ”与中文说明紧接；Let me point out 是引出自己要说明的内容； 提供明确入口，读者不必先解码抽象术语。",
+            "increment": "本区补入句法结构，但本句主要信息在前区和04也会出现；有效增量但非最高档。"
+          },
+          "issues": [
+            {
+              "message": "本区补入句法结构，但本句主要信息在前区和04也会出现；有效增量但非最高档。",
+              "blocking": false
+            }
+          ]
+        },
+        {
+          "id": "g3",
+          "score": 92.5,
+          "scores": {
+            "accuracy": 3,
+            "completion": 4,
+            "readability": 4,
+            "increment": 4
+          },
+          "reasons": {
+            "accuracy": "顺便mention与特意point out用保修期差异对照 当前解释正确、范围恰当；这里主要是保守语境归纳，未呈现额外的精细辨义，因此评3。",
+            "completion": "本区不仅列出任务，而且演示了mention ，并交代point out that… 后面还能接完整事实。；关键教学步骤可逐项对照。",
+            "readability": "“mention ”与中文说明紧接；mention 可以只是顺带提到，point out 更突出“请注意这一点”。 提供明确入口，读者不必先解码抽象术语。",
+            "increment": "本区的“mention ”把同一情景下的区别落到可判断的动作，超出前区释义。"
+          },
+          "issues": []
+        },
+        {
+          "id": "g4",
+          "score": 75,
+          "scores": {
+            "accuracy": 3,
+            "completion": 3,
+            "readability": 3,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "追问哪个区别可推进但未给出实际差异示范 当前解释正确、范围恰当；这里主要是保守语境归纳，未呈现额外的精细辨义，因此评3。",
+            "completion": "以“Let me 为接下来的说明取得发言空间，one difference 限定这次要指出的内容。”完成本区基本任务，说明与用例成立；现有展示为一个基本例子，没有进一步的分步检查，评3。",
+            "readability": "问哪一点后仍未展示实际差异，读者必须自行补出接下来的话。",
+            "increment": "本区补入接话动作，但前半句再次解释原句任务；有效增量但非最高档。"
+          },
+          "issues": [
+            {
+              "message": "本区补入接话动作，但前半句再次解释原句任务；有效增量但非最高档。",
+              "blocking": false
+            }
+          ]
+        },
+        {
+          "id": "g5",
+          "score": 92.5,
+          "scores": {
+            "accuracy": 3,
+            "completion": 4,
+            "readability": 4,
+            "increment": 4
+          },
+          "reasons": {
+            "accuracy": "quote excludes shipping明确可核对信息，语气不过度推断责备 当前解释正确、范围恰当；这里主要是保守语境归纳，未呈现额外的精细辨义，因此评3。",
+            "completion": "本区不仅列出任务，而且演示了I'd like to point out that the quote excludes shipping，并交代这句本身没有责怪报价方，也没有决定是否接受报价。；关键教学步骤可逐项对照。",
+            "readability": "“I'd like to point out that the quote excludes shipping”与中文说明紧接；自编工作表达：I'd like to point out that the quote excludes shipping.（我想提醒一下，报价不含运费。 提供明确入口，读者不必先解码抽象术语。",
+            "increment": "把指出区别迁移到报价未含运费，增加that信息从句和可核对的具体条件。"
+          },
+          "issues": []
+        }
+      ],
+      "total": 85.6875,
+      "key": "61ca4671bb2d6b81ee48141f20439597c967ae59c0feb53373c800aacbe924a6",
+      "reused": false
+    },
+    "V20261012-065": {
+      "status": "CANDIDATE",
+      "errors": [],
+      "zones": [
+        {
+          "id": "g1",
+          "score": 96.25,
+          "scores": {
+            "accuracy": 4,
+            "completion": 4,
+            "readability": 4,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "划掉候选项与cannot反向联系突出关键否定",
+            "completion": "本区不仅列出任务，而且演示了rule out ，并交代否定词决定信息方向，少看一个 cannot，就会把风险判断完全读反。；关键教学步骤可逐项对照。",
+            "readability": "“rule out ”与中文说明紧接；把 rule out 和“从可能清单里划掉”联系起来，这是记忆类比。 提供明确入口，读者不必先解码抽象术语。",
+            "increment": "本区补入记忆联系，但核心含义已在前区说明；有效增量但非最高档。"
+          },
+          "issues": [
+            {
+              "message": "本区补入记忆联系，但核心含义已在前区说明；有效增量但非最高档。",
+              "blocking": false
+            }
+          ]
+        },
+        {
+          "id": "g2",
+          "score": 100,
+          "scores": {
+            "accuracy": 4,
+            "completion": 4,
+            "readability": 4,
+            "increment": 4
+          },
+          "reasons": {
+            "accuracy": "cannot和at this stage共同限制推断，不把可能变概率",
+            "completion": "本区不仅列出任务，而且演示了cannot ，并交代因此不能换成“很可能延误”或“肯定延误”，两者都比原句更强。；关键教学步骤可逐项对照。",
+            "readability": "“cannot ”与中文说明紧接；cannot 否定 rule out，a delay 是不能排除的情况，at this stage 限定为现阶段。 提供明确入口，读者不必先解码抽象术语。",
+            "increment": "精确标出否定与阶段限制，防止读者把不能排除读成高概率或肯定发生。"
+          },
+          "issues": []
+        },
+        {
+          "id": "g3",
+          "score": 92.5,
+          "scores": {
+            "accuracy": 3,
+            "completion": 4,
+            "readability": 4,
+            "increment": 4
+          },
+          "reasons": {
+            "accuracy": "unlikely、rule out、expect力度有具体故障对比 当前解释正确、范围恰当；这里主要是保守语境归纳，未呈现额外的精细辨义，因此评3。",
+            "completion": "本区不仅列出任务，而且演示了unlikely ，并交代cannot rule out 也不同于 expect：前者保留可能，后者表示预期。；关键教学步骤可逐项对照。",
+            "readability": "“unlikely ”与中文说明紧接；unlikely 是可能性低，ruled out 是已被排除，两者力度不同。 提供明确入口，读者不必先解码抽象术语。",
+            "increment": "本区的“unlikely ”把同一情景下的区别落到可判断的动作，超出前区释义。"
+          },
+          "issues": []
+        },
+        {
+          "id": "g4",
+          "score": 75,
+          "scores": {
+            "accuracy": 3,
+            "completion": 3,
+            "readability": 3,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "风险保留转为核查行动，但核查对象仍比较笼统 当前解释正确、范围恰当；这里主要是保守语境归纳，未呈现额外的精细辨义，因此评3。",
+            "completion": "以“cannot 与 at this stage 一起限定了判断：以目前信息，还不能排除延误。”完成本区基本任务，说明与用例成立；现有展示为一个基本例子，没有进一步的分步检查，评3。",
+            "readability": "核查什么及更新排期的回答比较概括，没有一个可以直接看到的待查项目。",
+            "increment": "本区补入接话动作，但前半句再次解释原句任务；有效增量但非最高档。"
+          },
+          "issues": [
+            {
+              "message": "本区补入接话动作，但前半句再次解释原句任务；有效增量但非最高档。",
+              "blocking": false
+            }
+          ]
+        },
+        {
+          "id": "g5",
+          "score": 81.25,
+          "scores": {
+            "accuracy": 3,
+            "completion": 3,
+            "readability": 4,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "yet保留未排除状态，调查场景自然 当前解释正确、范围恰当；这里主要是保守语境归纳，未呈现额外的精细辨义，因此评3。",
+            "completion": "以“自编工作表达：We haven't ruled out a scheduling error yet.（我们还没有排除排期错误的可能。”完成本区基本任务，说明与用例成立；现有展示为一个基本例子，没有进一步的分步检查，评3。",
+            "readability": "“We haven't ruled out a scheduling error yet”与中文说明紧接；自编工作表达：We haven't ruled out a scheduling error yet.（我们还没有排除排期错误的可能。 提供明确入口，读者不必先解码抽象术语。",
+            "increment": "本区补入工作表达，但与前面使用场景或搭配仍有重合；有效增量但非最高档。"
+          },
+          "issues": [
+            {
+              "message": "本区补入工作表达，但与前面使用场景或搭配仍有重合；有效增量但非最高档。",
+              "blocking": false
+            }
+          ]
+        }
+      ],
+      "total": 87.9375,
+      "key": "56ffe125dd6b1854e6435b20eef5e9b8e07f6d1b16929250912d08f94b6aca92",
+      "reused": false
+    },
+    "V20261012-066": {
+      "status": "CANDIDATE",
+      "errors": [],
+      "zones": [
+        {
+          "id": "g1",
+          "score": 81.25,
+          "scores": {
+            "accuracy": 3,
+            "completion": 3,
+            "readability": 4,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "暂放决定与until边界呼应，不等于取消 当前解释正确、范围恰当；这里主要是保守语境归纳，未呈现额外的精细辨义，因此评3。",
+            "completion": "以“把 hold off on a decision 记成“决定先放一下”，它留下以后继续的空间。”完成本区基本任务，说明与用例成立；现有展示为一个基本例子，没有进一步的分步检查，评3。",
+            "readability": "“hold off on a decision ”与中文说明紧接；把 hold off on a decision 记成“决定先放一下”，它留下以后继续的空间。 提供明确入口，读者不必先解码抽象术语。",
+            "increment": "本区补入记忆联系，但核心含义已在前区说明；有效增量但非最高档。"
+          },
+          "issues": [
+            {
+              "message": "本区补入记忆联系，但核心含义已在前区说明；有效增量但非最高档。",
+              "blocking": false
+            }
+          ]
+        },
+        {
+          "id": "g2",
+          "score": 88.75,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 4,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "on后对象和until触发条件准确，doing变体有出处",
+            "completion": "以“Let's 提出共同安排，hold off on 后接 the decision；”完成本区基本任务，说明与用例成立；现有展示为一个基本例子，没有进一步的分步检查，评3。",
+            "readability": "“Let's ”与中文说明紧接；Let's 提出共同安排，hold off on 后接 the decision； 提供明确入口，读者不必先解码抽象术语。",
+            "increment": "本区补入句法结构，但本句主要信息在前区和04也会出现；有效增量但非最高档。"
+          },
+          "issues": [
+            {
+              "message": "本区补入句法结构，但本句主要信息在前区和04也会出现；有效增量但非最高档。",
+              "blocking": false
+            }
+          ]
+        },
+        {
+          "id": "g3",
+          "score": 92.5,
+          "scores": {
+            "accuracy": 3,
+            "completion": 4,
+            "readability": 4,
+            "increment": 4
+          },
+          "reasons": {
+            "accuracy": "先不发报告与取消发送构成容易理解的对照 当前解释正确、范围恰当；这里主要是保守语境归纳，未呈现额外的精细辨义，因此评3。",
+            "completion": "本区不仅列出任务，而且演示了hold off ，并交代postpone 也可表示推迟，hold off 在这里尤其突出“暂时等一等”。；关键教学步骤可逐项对照。",
+            "readability": "“hold off ”与中文说明紧接；hold off 表示先别做，cancel 表示取消。 提供明确入口，读者不必先解码抽象术语。",
+            "increment": "本区的“hold off ”把同一情景下的区别落到可判断的动作，超出前区释义。"
+          },
+          "issues": []
+        },
+        {
+          "id": "g4",
+          "score": 92.5,
+          "scores": {
+            "accuracy": 3,
+            "completion": 4,
+            "readability": 4,
+            "increment": 4
+          },
+          "reasons": {
+            "accuracy": "结果一到就分享，使等待有明确的信息接手者 当前解释正确、范围恰当；这里主要是保守语境归纳，未呈现额外的精细辨义，因此评3。",
+            "completion": "本区不仅列出任务，而且演示了Let’s ，并交代）回应明确了谁把等待结束所需的信息带回来。；关键教学步骤可逐项对照。",
+            "readability": "“Let’s ”与中文说明紧接；Let’s 提出共同暂缓，until we have the results 指明重新行动的条件。 提供明确入口，读者不必先解码抽象术语。",
+            "increment": "承诺结果一到就分享，为暂缓解除条件指定了提供信息的人。"
+          },
+          "issues": []
+        },
+        {
+          "id": "g5",
+          "score": 88.75,
+          "scores": {
+            "accuracy": 3,
+            "completion": 4,
+            "readability": 4,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "sending report与figures checked绑定动作和解除条件 当前解释正确、范围恰当；这里主要是保守语境归纳，未呈现额外的精细辨义，因此评3。",
+            "completion": "本区不仅列出任务，而且演示了Can we hold off on sending the report until the figures are checked，并交代说清暂缓对象和解除条件，听者便能判断现在应先完成哪项核对。；关键教学步骤可逐项对照。",
+            "readability": "“Can we hold off on sending the report until the figures are checked”与中文说明紧接；自编工作表达：Can we hold off on sending the report until the figures are checked?（能等数字核对后再发送报告吗？）适合发送动作依赖数据确认时； 提供明确入口，读者不必先解码抽象术语。",
+            "increment": "完整的发送报告问句可复用，但03已用核对数字前不发报告，02已解释until条件；这里主要将已有场景写成完整问句，增量3。"
+          },
+          "issues": [
+            {
+              "message": "完整的发送报告问句可复用，但03已用核对数字前不发报告，02已解释until条件；这里主要将已有场景写成完整问句，增量3。",
+              "blocking": false
+            }
+          ]
+        }
+      ],
+      "total": 89.3125,
+      "key": "c9d33c156f326584ea233e4d12455009233ab17a866e10d64732d31c5bdbb61f",
+      "reused": false
+    },
+    "V20261012-067": {
+      "status": "CANDIDATE",
+      "errors": [],
+      "zones": [
+        {
+          "id": "g1",
+          "score": 88.75,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 4,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "Oxford直接支持问题仍在及workaround名词，未强行词源化。",
+            "completion": "路障图像、动词/名词联系齐全。",
+            "readability": "“一个说动作，一个给办法起名字”易理解。",
+            "increment": "新增词性联系，绕路图像与前区仍部分重叠。"
+          },
+          "issues": [
+            {
+              "message": "新增词性联系，绕路图像与前区仍部分重叠。",
+              "blocking": false
+            }
+          ]
+        },
+        {
+          "id": "g2",
+          "score": 90,
+          "scores": {
+            "accuracy": 4,
+            "completion": 4,
+            "readability": 3,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "Oxford结构work around something及BC整体短语解释支持，without限制准确。",
+            "completion": "解释Can we的问法、限制条件及逐词误译，关键理解任务齐全。",
+            "readability": "条理清楚但三个点在一段，略密。",
+            "increment": "明确不可逐字拆译与条件约束，和前方拆词区适度重复。"
+          },
+          "issues": [
+            {
+              "message": "明确不可逐字拆译与条件约束，和前方拆词区适度重复。",
+              "blocking": false
+            }
+          ]
+        },
+        {
+          "id": "g3",
+          "score": 100,
+          "scores": {
+            "accuracy": 4,
+            "completion": 4,
+            "readability": 4,
+            "increment": 4
+          },
+          "reasons": {
+            "accuracy": "Oxford work-around明确without actually solving the problem；换工具处理而故障未修与修好导出功能逐项实现这条定义，且场景标为自编。准确性不是仅未见错误，故纠正旧3为4。",
+            "completion": "同一软件故障中演示绕开和修好，解释结果差别。",
+            "readability": "复制数据与修好导出功能直观，易判断。",
+            "increment": "不同于词性/结构，真正增加两种做法的判断能力。"
+          },
+          "issues": []
+        },
+        {
+          "id": "g4",
+          "score": 82.5,
+          "scores": {
+            "accuracy": 3,
+            "completion": 4,
+            "readability": 3,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "Can we可作共同寻策邀请；without条件明确，候选方案不冒充有效事实。",
+            "completion": "行动、线索、条件、回应和核对下一步完整。",
+            "readability": "“候选做法”稍偏工作术语，但整体可跟上。",
+            "increment": "回应具体，但条件在02已有解释。"
+          },
+          "issues": [
+            {
+              "message": "回应具体，但条件在02已有解释。",
+              "blocking": false
+            }
+          ]
+        },
+        {
+          "id": "g5",
+          "score": 82.5,
+          "scores": {
+            "accuracy": 3,
+            "completion": 4,
+            "readability": 3,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "could提出可能办法、can报告可行做法是此处合理教学选择，未说二者唯一功能。",
+            "completion": "场景、整句、中文、by方法与情态选择都有。",
+            "readability": "句子较长但解释紧跟英文，能用于实际沟通。",
+            "increment": "增加by结构和确定性差异；文件例子与桥接重复，故不给4。"
+          },
+          "issues": [
+            {
+              "message": "增加by结构和确定性差异；文件例子与桥接重复，故不给4。",
+              "blocking": false
+            }
+          ]
+        }
+      ],
+      "total": 88.4375,
+      "key": "2a77c485e80a83f58b778f3601b918a6f6aa39d0d08fe7ebf63091c7dbf7e6ec",
+      "reused": false
+    },
+    "V20261012-068": {
+      "status": "CANDIDATE",
+      "errors": [],
+      "zones": [
+        {
+          "id": "g1",
+          "score": 81.25,
+          "scores": {
+            "accuracy": 3,
+            "completion": 3,
+            "readability": 4,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "task锁定接受责任而非所有take on的统一译法 当前解释正确、范围恰当；这里主要是保守语境归纳，未呈现额外的精细辨义，因此评3。",
+            "completion": "以“记住 take on a task，把它看作把一份责任接到自己手上，这是学习联想。”完成本区基本任务，说明与用例成立；现有展示为一个基本例子，没有进一步的分步检查，评3。",
+            "readability": "“take on a task”与中文说明紧接；记住 take on a task，把它看作把一份责任接到自己手上，这是学习联想。 提供明确入口，读者不必先解码抽象术语。",
+            "increment": "本区补入记忆联系，但核心含义已在前区说明；有效增量但非最高档。"
+          },
+          "issues": [
+            {
+              "message": "本区补入记忆联系，但核心含义已在前区说明；有效增量但非最高档。",
+              "blocking": false
+            }
+          ]
+        },
+        {
+          "id": "g2",
+          "score": 100,
+          "scores": {
+            "accuracy": 4,
+            "completion": 4,
+            "readability": 4,
+            "increment": 4
+          },
+          "reasons": {
+            "accuracy": "cannot、another、this week读出容量和时间边界",
+            "completion": "本区不仅列出任务，而且演示了Our team ，并交代整句只划出本周无法新增任务的边界，没有说团队永远不接新任务，也未说明现有任务已完成。；关键教学步骤可逐项对照。",
+            "readability": "“Our team ”与中文说明紧接；Our team 是主语，cannot 表示本句说的能力限制，another task 强调再加一项，this week 限定时间。 提供明确入口，读者不必先解码抽象术语。",
+            "increment": "another与this week分别限制新增量和时段，不只是翻译cannot。"
+          },
+          "issues": []
+        },
+        {
+          "id": "g3",
+          "score": 92.5,
+          "scores": {
+            "accuracy": 3,
+            "completion": 4,
+            "readability": 4,
+            "increment": 4
+          },
+          "reasons": {
+            "accuracy": "接下任务与开始处理按时间对照，新员工义有提示 当前解释正确、范围恰当；这里主要是保守语境归纳，未呈现额外的精细辨义，因此评3。",
+            "completion": "本区不仅列出任务，而且演示了take on a task ，并交代另一个常见搭配 take on new staff 是雇用员工，需靠宾语分义。；关键教学步骤可逐项对照。",
+            "readability": "“take on a task ”与中文说明紧接；take on a task 是接下任务，work on a task 是处理任务。 提供明确入口，读者不必先解码抽象术语。",
+            "increment": "本区的“take on a task ”把同一情景下的区别落到可判断的动作，超出前区释义。"
+          },
+          "issues": []
+        },
+        {
+          "id": "g4",
+          "score": 92.5,
+          "scores": {
+            "accuracy": 3,
+            "completion": 4,
+            "readability": 4,
+            "increment": 4
+          },
+          "reasons": {
+            "accuracy": "改问下周可否接手，回应临时容量而非永久拒绝 当前解释正确、范围恰当；这里主要是保守语境归纳，未呈现额外的精细辨义，因此评3。",
+            "completion": "本区不仅列出任务，而且演示了cannot ，并交代自编回应：Could you take it on next week instead?（改成下周，你们能接吗？）回应探索别的时间，而不是把本周的拒绝理解成永久拒绝。；关键教学步骤可逐项对照。",
+            "readability": "“cannot ”与中文说明紧接；cannot 给出限制，another 强调是在现有工作上再加一项，this week 把限制放在本周。 提供明确入口，读者不必先解码抽象术语。",
+            "increment": "询问下周能否接手把本周容量边界转成可讨论的替代安排。"
+          },
+          "issues": []
+        },
+        {
+          "id": "g5",
+          "score": 92.5,
+          "scores": {
+            "accuracy": 3,
+            "completion": 4,
+            "readability": 4,
+            "increment": 4
+          },
+          "reasons": {
+            "accuracy": "if另一任务重分配把有条件承诺讲完整 当前解释正确、范围恰当；这里主要是保守语境归纳，未呈现额外的精细辨义，因此评3。",
+            "completion": "本区不仅列出任务，而且演示了I can take on the review if another task is reassigned，并交代把条件和承诺放在同一句，让对方清楚需要先调整什么，不能只转述前半句。；关键教学步骤可逐项对照。",
+            "readability": "“I can take on the review if another task is reassigned”与中文说明紧接；自编工作表达：I can take on the review if another task is reassigned.（如果把另一项任务重新分配，我可以承担评审。 提供明确入口，读者不必先解码抽象术语。",
+            "increment": "将接受责任明确绑定另一任务重分配，提供可直接转用的条件承诺。"
+          },
+          "issues": []
+        }
+      ],
+      "total": 92.3125,
+      "key": "fb5a6b686b6d8d6e7d9e9758fe4e2dda9e5ce64bc80d833b213b6f31e3d65083",
+      "reused": false
+    },
+    "V20261012-069": {
+      "status": "CANDIDATE",
+      "errors": [],
+      "zones": [
+        {
+          "id": "g1",
+          "score": 88.75,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 4,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "Oxford weigh第2/3义支持称重与权衡，类比明确不是词源。",
+            "completion": "天平抓手及两义联系完成记忆任务。",
+            "readability": "好处/代价图像直观。",
+            "increment": "与桥接比较取舍有重复，增加基础义联系但未到最高增量。"
+          },
+          "issues": [
+            {
+              "message": "与桥接比较取舍有重复，增加基础义联系但未到最高增量。",
+              "blocking": false
+            }
+          ]
+        },
+        {
+          "id": "g2",
+          "score": 93.75,
+          "scores": {
+            "accuracy": 4,
+            "completion": 4,
+            "readability": 3,
+            "increment": 4
+          },
+          "reasons": {
+            "accuracy": "Oxford weigh something (up)与BC代词位置规则支持weigh them up。",
+            "completion": "句子先后顺序、need to、up功能和位置变化齐全。",
+            "readability": "信息密度偏高，需要停顿，但说明都紧贴本句。",
+            "increment": "可分结构和代词位置是前区没有的新操作知识。"
+          },
+          "issues": []
+        },
+        {
+          "id": "g3",
+          "score": 75,
+          "scores": {
+            "accuracy": 3,
+            "completion": 3,
+            "readability": 3,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "consider与weigh的侧重可由权衡义合理归纳，未声称互斥。",
+            "completion": "同一价格/交期情境、choose结果及against搭配齐全。",
+            "readability": "先后对照清楚，末尾再加搭配略多。",
+            "increment": "对照有用，但甲便宜乙快与桥接相同，效率中等。"
+          },
+          "issues": [
+            {
+              "message": "对照有用，但甲便宜乙快与桥接相同，效率中等。",
+              "blocking": false
+            }
+          ]
+        },
+        {
+          "id": "g4",
+          "score": 88.75,
+          "scores": {
+            "accuracy": 3,
+            "completion": 4,
+            "readability": 4,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "need to/before支持比较在先；候选标准明确标为例子。",
+            "completion": "将抽象权衡落到成本/质量/交期，行动与回应完整。",
+            "readability": "“先比，再定”易记，回应可直接接上。",
+            "increment": "新增标准化回应；原句顺序与02重复。"
+          },
+          "issues": [
+            {
+              "message": "新增标准化回应；原句顺序与02重复。",
+              "blocking": false
+            }
+          ]
+        },
+        {
+          "id": "g5",
+          "score": 82.5,
+          "scores": {
+            "accuracy": 4,
+            "completion": 3,
+            "readability": 3,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "Oxford明确weigh (up) A against B，省up的迁移形式正确。",
+            "completion": "改动是否值得做的场景、句子/中文和替换项齐全。",
+            "readability": "句子自然，但从标题weigh up转成无up形式需读者自己联系。",
+            "increment": "增加权衡两面的表达，但against搭配已在03介绍。"
+          },
+          "issues": [
+            {
+              "message": "增加权衡两面的表达，但against搭配已在03介绍。",
+              "blocking": false
+            }
+          ]
+        }
+      ],
+      "total": 85.75,
+      "key": "0c0f41923afc39fa78790a97acab2e791d893ca06a617636f944d8e03fa4444e",
+      "reused": false
+    },
+    "V20261012-070": {
+      "status": "CANDIDATE",
+      "errors": [],
+      "zones": [
+        {
+          "id": "g1",
+          "score": 81.25,
+          "scores": {
+            "accuracy": 3,
+            "completion": 3,
+            "readability": 4,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "收拢事项图像有助记忆且说明不必每次总结 当前解释正确、范围恰当；这里主要是保守语境归纳，未呈现额外的精细辨义，因此评3。",
+            "completion": "整块搭配、收拢图像及并非每次必须总结的限制完成记忆任务；不要求记忆区补对话，3表示基本任务清楚而非缺字段。",
+            "readability": "“wrap up a discussion ”与中文说明紧接；把 wrap up a discussion 整块记成讨论收尾，不要在本句逐字想成包东西。 提供明确入口，读者不必先解码抽象术语。",
+            "increment": "本区补入记忆联系，但核心含义已在前区说明；有效增量但非最高档。"
+          },
+          "issues": [
+            {
+              "message": "本区补入记忆联系，但核心含义已在前区说明；有效增量但非最高档。",
+              "blocking": false
+            }
+          ]
+        },
+        {
+          "id": "g2",
+          "score": 96.25,
+          "scores": {
+            "accuracy": 4,
+            "completion": 4,
+            "readability": 4,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "by confirming指方式，owner和due date双对象清楚",
+            "completion": "本区不仅列出任务，而且演示了Let's wrap up ，并交代这里 owner 是任务负责人，不是在说明物品所有权。；关键教学步骤可逐项对照。",
+            "readability": "“Let's wrap up ”与中文说明紧接；Let's wrap up 提议收尾，后面的 by confirming 表明采用什么收尾动作。 提供明确入口，读者不必先解码抽象术语。",
+            "increment": "本区补入句法结构，但本句主要信息在前区和04也会出现；有效增量但非最高档。"
+          },
+          "issues": [
+            {
+              "message": "本区补入句法结构，但本句主要信息在前区和04也会出现；有效增量但非最高档。",
+              "blocking": false
+            }
+          ]
+        },
+        {
+          "id": "g3",
+          "score": 75,
+          "scores": {
+            "accuracy": 3,
+            "completion": 3,
+            "readability": 3,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "结束与概括区别正确，但未用新对照句进一步展示 当前解释正确、范围恰当；这里主要是保守语境归纳，未呈现额外的精细辨义，因此评3。",
+            "completion": "以“wrap up 强调结束，summarize 强调概括。”完成本区基本任务，说明与用例成立；现有展示为一个基本例子，没有进一步的分步检查，评3。",
+            "readability": "结束、概括、继续讨论三个抽象关系连用，缺少独立短例做停顿。",
+            "increment": "本区补入相邻表达，但当前例子还沿用前区场景；有效增量但非最高档。"
+          },
+          "issues": [
+            {
+              "message": "本区补入相邻表达，但当前例子还沿用前区场景；有效增量但非最高档。",
+              "blocking": false
+            }
+          ]
+        },
+        {
+          "id": "g4",
+          "score": 92.5,
+          "scores": {
+            "accuracy": 3,
+            "completion": 4,
+            "readability": 4,
+            "increment": 4
+          },
+          "reasons": {
+            "accuracy": "我负责加周五前两项回应正中原句任务 当前解释正确、范围恰当；这里主要是保守语境归纳，未呈现额外的精细辨义，因此评3。",
+            "completion": "本区不仅列出任务，而且演示了Let’s ，并交代）这句回应同时填上负责人和期限，交流便有了可执行的落点。；关键教学步骤可逐项对照。",
+            "readability": "“Let’s ”与中文说明紧接；Let’s 发出收尾提议，by confirming 指明结束前要补齐两项信息：谁负责、何时完成。 提供明确入口，读者不必先解码抽象术语。",
+            "increment": "I’ll handle it及finish by Friday分别填入负责人和期限，两项原句任务都有回应。"
+          },
+          "issues": []
+        },
+        {
+          "id": "g5",
+          "score": 88.75,
+          "scores": {
+            "accuracy": 3,
+            "completion": 4,
+            "readability": 4,
+            "increment": 3
+          },
+          "reasons": {
+            "accuracy": "open issues提醒结束不等于结清，但缺少替换槽 当前解释正确、范围恰当；这里主要是保守语境归纳，未呈现额外的精细辨义，因此评3。",
+            "completion": "时间到了但还有待办是明确时机，完整表达后解释结束评审不等于关闭问题，满足可替换位置或关键限制中的关键限制；不再要求额外替换槽。",
+            "readability": "完整问句紧接中文，随后用结束评审与关闭问题这一对日常动作解释差别，三句按时机、表达、限制递进，首读清楚。",
+            "increment": "本区补入工作表达，但与前面使用场景或搭配仍有重合；有效增量但非最高档。"
+          },
+          "issues": [
+            {
+              "message": "本区补入工作表达，但与前面使用场景或搭配仍有重合；有效增量但非最高档。",
+              "blocking": false
+            }
+          ]
+        }
+      ],
+      "total": 87.3125,
+      "key": "4c02bb0fda7a42aee74f6d7bf3971b37a84b5b47b7856c328a1139229fd07ff0",
+      "reused": false
+    }
+  }
+}

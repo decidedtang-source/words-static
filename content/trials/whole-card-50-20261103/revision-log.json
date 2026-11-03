@@ -1,0 +1,436 @@
+{
+  "date": "2026-11-04",
+  "reason": "Independent review revisions; new review required",
+  "changes": [
+    {
+      "file": "entries-1.json",
+      "cardId": "V20261012-001",
+      "beforeHash": "54dc5a714473e95be969e698dacb397dfe52fa68375211b0c9bf0243a97a435c",
+      "afterHash": "2b46fbb64adf40930f7417613edaf79773ed5a5ce5755a1f2a93ce57e7e0f1a7",
+      "changes": [
+        {
+          "path": "/sourceLimitations/1",
+          "before": "本次不新增词源；原卡音标沿用，未作专项读音审核。",
+          "after": "词源、音标和附加例句已纳入本批整页补充包，须以新的整页独立回执核验；旧五区批准不能替代。"
+        },
+        {
+          "path": "/contentRevision",
+          "before": 3,
+          "after": 4
+        },
+        {
+          "path": "/revisedBy",
+          "after": "root_integrator"
+        }
+      ]
+    },
+    {
+      "file": "entries-1.json",
+      "cardId": "V20261012-005",
+      "beforeHash": "9d09683dc50b213edf5e8c668e73cc4a40bf1cbfdc64208e7d236f49507ddc54",
+      "afterHash": "b0bb8c46d6b807f4c5d36a1f493d01c0028a78f6a9a7750278834bc1b9ceef41",
+      "changes": [
+        {
+          "path": "/gloss",
+          "before": "优先事项；优先级",
+          "after": "优先事项"
+        },
+        {
+          "path": "/definitionZh",
+          "before": "需要优先处理的事项或优先程度",
+          "after": "需要先于其他工作处理的重要事项"
+        },
+        {
+          "path": "/groups/4/requirements/boundary",
+          "before": "）。",
+          "after": "this week把取舍限定到当前时段；选择的是当前要先处理的任务。"
+        },
+        {
+          "path": "/contentRevision",
+          "before": 2,
+          "after": 3
+        },
+        {
+          "path": "/claims/0/text",
+          "before": "需要优先处理的事项或优先程度；扩展项仅采用所列已核实不同词义/明确同族词。",
+          "after": "需要先于其他工作处理的重要事项；扩展项仅采用所列已核实不同词义/明确同族词。"
+        },
+        {
+          "path": "/dictionaryEntries/0/senses/0/glossZh",
+          "before": "需要优先处理的事项或优先程度",
+          "after": "需要先于其他工作处理的重要事项"
+        },
+        {
+          "path": "/focusedEntries/0/entry/senses/0/glossZh",
+          "before": "需要优先处理的事项或优先程度",
+          "after": "需要先于其他工作处理的重要事项"
+        },
+        {
+          "path": "/focusedEntries/0/sense/glossZh",
+          "before": "需要优先处理的事项或优先程度",
+          "after": "需要先于其他工作处理的重要事项"
+        },
+        {
+          "path": "/revisedBy",
+          "after": "root_integrator"
+        }
+      ]
+    },
+    {
+      "file": "entries-1.json",
+      "cardId": "V20261012-016",
+      "beforeHash": "682067fd09bc5886ea34731745b27a1b645e941b34ae8258963131631304e9d7",
+      "afterHash": "e0ed853fa4d3b3f24a31e7a834a6529eb6df246908e29ecbdd828841272231b3",
+      "changes": [
+        {
+          "path": "/sourceLimitations/1",
+          "before": "本次不新增词源；原卡音标沿用，未作专项读音审核。",
+          "after": "词源、音标和附加例句已纳入本批整页补充包，须以新的整页独立回执核验；旧五区批准不能替代。"
+        },
+        {
+          "path": "/contentRevision",
+          "before": 3,
+          "after": 4
+        },
+        {
+          "path": "/revisedBy",
+          "after": "root_integrator"
+        }
+      ]
+    },
+    {
+      "file": "entries-2.json",
+      "cardId": "V20261012-050",
+      "beforeHash": "43c96a6cbdca28b5e81f292ee9f314a282ec4c0c6abb0c55f886e98fcb9bc9d2",
+      "afterHash": "197dd6a740fd8740866bf10a592b0413330fe8501adf5d09af433293d72457ec",
+      "changes": [
+        {
+          "path": "/sources/2",
+          "after": {
+            "id": "agreement",
+            "url": "https://www.oxfordlearnersdictionaries.com/definition/english/agreement",
+            "title": "Oxford — agreement",
+            "publisher": "Oxford University Press",
+            "accessedAt": "2026-11-04",
+            "section": "noun senses 1 and 2; agreement to do something / agreement among somebody",
+            "retrievalStatus": "full_page",
+            "evidence": "可数义可指与别人作出的安排；不可数义指共同意见，可用于两方也可用于群体。支持对比的重心差异，而不是人数硬边界。",
+            "adaptationType": "paraphrase",
+            "useAssessment": "原创短转述及链接，未转载全文"
+          }
+        },
+        {
+          "path": "/claims/0/text",
+          "before": "consensus 的本句义为团队对某个方向形成的普遍共识；更多义项区另列consensual：共同同意的；经各方认可的。",
+          "after": "agreement可指意见一致或具体约定，consensus更突出群体的共同意见。自编同场景：你和同事约好周五开会，可说an agreement to meet on Friday；团队讨论后普遍支持周五开会，可说a consensus on meeting on Friday。这里是侧重点不同，不是说agreement只能用于两个人。常见reach agreement / reach a consensus。"
+        },
+        {
+          "path": "/claims/0/sourceIds/2",
+          "after": "agreement"
+        },
+        {
+          "path": "/claims/0/evidenceNote",
+          "before": "依据已读取的 Oxford 条目转述；不是逐字引用。词族条目明确保留不同 lemma 或词性。",
+          "after": "Oxford agreement义1具体安排、义2意见一致；与consensus群体一般一致作教学对照，例子为自编。"
+        },
+        {
+          "path": "/claims/3/text",
+          "before": "agreement 是较宽泛的同意或协议；consensus 在这里强调群体形成共同意见。可以对目标形成共识，同时还没谈妥方法。读到 reached a consensus，先找 on 后的议题，不要把范围扩成所有事项，也不要仅凭词语猜测表决程序。",
+          "after": "agreement可指意见一致或具体约定，consensus更突出群体的共同意见。自编同场景：你和同事约好周五开会，可说an agreement to meet on Friday；团队讨论后普遍支持周五开会，可说a consensus on meeting on Friday。这里是侧重点不同，不是说agreement只能用于两个人。常见reach agreement / reach a consensus。"
+        },
+        {
+          "path": "/claims/3/sourceIds/1",
+          "after": "agreement"
+        },
+        {
+          "path": "/claims/3/evidenceNote",
+          "before": "词义和基本用法依据 Oxford；记忆类比、句法拆解、同场景对比与对话推进为教学解释。标明自编的接话不是来源原句，也不声称真实事件。",
+          "after": "Oxford agreement义1具体安排、义2意见一致；与consensus群体一般一致作教学对照，例子为自编。"
+        },
+        {
+          "path": "/groups/2/text",
+          "before": "agreement 是较宽泛的同意或协议；consensus 在这里强调群体形成共同意见。可以对目标形成共识，同时还没谈妥方法。读到 reached a consensus，先找 on 后的议题，不要把范围扩成所有事项，也不要仅凭词语猜测表决程序。",
+          "after": "agreement可指意见一致或具体约定，consensus更突出群体的共同意见。自编同场景：你和同事约好周五开会，可说an agreement to meet on Friday；团队讨论后普遍支持周五开会，可说a consensus on meeting on Friday。这里是侧重点不同，不是说agreement只能用于两个人。常见reach agreement / reach a consensus。"
+        },
+        {
+          "path": "/groups/2/sourceIds/1",
+          "after": "agreement"
+        },
+        {
+          "path": "/groups/2/requirements/anchor",
+          "before": "agreement 是较宽泛的同意或协议；consensus 在这里强调群体形成共同意见。",
+          "after": "agreement可指意见一致或具体约定，consensus更突出群体的共同意见。"
+        },
+        {
+          "path": "/groups/2/requirements/explanation",
+          "before": "可以对目标形成共识，同时还没谈妥方法。读到 reached a consensus，先找 on 后的议题，不要把范围扩成所有事项，也不要仅凭词语猜测表决程序。",
+          "after": "两种说法放在同一个开会场景里，区别具体约定与群体共同意见。"
+        },
+        {
+          "path": "/groups/2/requirements/example",
+          "before": "agreement 是较宽泛的同意或协议；consensus 在这里强调群体形成共同意见。可以对目标形成共识，同时还没谈妥方法。读到 reached a consensus，先找 on 后的议题，不要把范围扩成所有事项，也不要仅凭词语猜测表决程序。",
+          "after": "an agreement to meet on Friday；a consensus on meeting on Friday"
+        },
+        {
+          "path": "/groups/2/requirements/boundary",
+          "before": "读到 reached a consensus，先找 on 后的议题，不要把范围扩成所有事项，也不要仅凭词语猜测表决程序。",
+          "after": "agreement也可用于群体；这里是侧重点不同而非绝对人数规则。"
+        },
+        {
+          "path": "/contentRevision",
+          "after": 2
+        },
+        {
+          "path": "/revisedBy",
+          "after": "root_integrator"
+        }
+      ]
+    },
+    {
+      "file": "entries-2.json",
+      "cardId": "V20261012-053",
+      "beforeHash": "edd90c7a67229749400ada1eb13b94fc0c89d1cefe4b578df3a3e935cc8ad4c6",
+      "afterHash": "ee18442e62a5bb65885d706715f0a8310dd8bd7407a8e2a1f05904c43d42926f",
+      "changes": [
+        {
+          "path": "/claims/4/text",
+          "before": "have reservations 表明支持仍有保留，about committing before the review 指明疑虑所在。自编接话：What would you need to know before committing?（承诺前你还需要了解什么？）把缺少的信息找出来，才能继续谈能否承诺。原句没有说评审后就一定同意。",
+          "after": "have reservations 表明支持仍有保留，about committing before the review 指明疑虑所在。自编接话：What would you need to know before committing?（承诺前你还需要了解什么？）把缺少的信息找出来，才能继续谈能否承诺。"
+        },
+        {
+          "path": "/groups/3/text",
+          "before": "have reservations 表明支持仍有保留，about committing before the review 指明疑虑所在。自编接话：What would you need to know before committing?（承诺前你还需要了解什么？）把缺少的信息找出来，才能继续谈能否承诺。原句没有说评审后就一定同意。",
+          "after": "have reservations 表明支持仍有保留，about committing before the review 指明疑虑所在。自编接话：What would you need to know before committing?（承诺前你还需要了解什么？）把缺少的信息找出来，才能继续谈能否承诺。"
+        },
+        {
+          "path": "/groups/3/requirements/explanation",
+          "before": "把缺少的信息找出来，才能继续谈能否承诺。原句没有说评审后就一定同意。",
+          "after": "把缺少的信息找出来，才能继续谈能否承诺。"
+        },
+        {
+          "path": "/groups/3/requirements/boundary",
+          "before": "把缺少的信息找出来，才能继续谈能否承诺。原句没有说评审后就一定同意。",
+          "after": "把缺少的信息找出来，才能继续谈能否承诺。"
+        },
+        {
+          "path": "/contentRevision",
+          "after": 2
+        },
+        {
+          "path": "/revisedBy",
+          "after": "root_integrator"
+        }
+      ]
+    },
+    {
+      "file": "entries-3.json",
+      "cardId": "V20261012-055",
+      "beforeHash": "6acc2aa664e6f2655b86775e239eb588a464a0a56ea250fc5845c8c485260c38",
+      "afterHash": "3cd2eeaa3765f91b8644ec05d5168de11fcbdb8aa17e842150bcd72240e270c1",
+      "changes": [
+        {
+          "path": "/sourceLimitations/1",
+          "before": "本次不新增词源；原卡音标沿用，未作专项读音审核。",
+          "after": "词源、音标和附加例句已纳入本批整页补充包，须以新的整页独立回执核验；旧五区批准不能替代。"
+        },
+        {
+          "path": "/contentRevision",
+          "before": 2,
+          "after": 3
+        },
+        {
+          "path": "/revisedBy",
+          "after": "root_integrator"
+        }
+      ]
+    },
+    {
+      "file": "entries-3.json",
+      "cardId": "V20261012-056",
+      "beforeHash": "2fe878b1e0d87ea17c232c70eab78b1918380c03a5bb1374758b5814340614da",
+      "afterHash": "fd8931771b137dd5f4b7295824acc93f3a3e6a207a2f8f7baa276bf202de375a",
+      "changes": [
+        {
+          "path": "/groups/1/text",
+          "before": "should consider 表示建议考虑，an alternative 是考虑的对象；if 引出条件，日期太紧才触发这项建议。alternative 此处作可数名词；整句没有指定要换日期、换资源还是换方案，不能替它补定。",
+          "after": "should consider 表示建议考虑，an alternative 是考虑的对象；if 引出“日期太紧”这一条件：在这种情况下，建议考虑另一个选择。alternative 此处作可数名词；整句没有指定要换日期、换资源还是换方案，不能替它补定。"
+        },
+        {
+          "path": "/groups/1/requirements/explanation",
+          "before": "if 引出条件，日期太紧才触发这项建议。",
+          "after": "if 引出“日期太紧”这一条件：在这种情况下，建议考虑另一个选择。"
+        },
+        {
+          "path": "/groups/3/text",
+          "before": "这句话把日期过紧的担忧转成寻找别的选择。should consider 提出建议，if 留下条件：只有日期确实太紧，才需要这一步。自编回应：Could Friday work instead?（改到周五可行吗？）回应提出可比较的候选日期，而没有替大家作最终决定。",
+          "after": "这句话把日期过紧的担忧转成寻找别的选择。should consider 提出建议，if 指出在日期太紧的情况下提出这项建议，并未排除其他需要另找选择的情况。自编回应：Could Friday work instead?（改到周五可行吗？）回应提出可比较的候选日期，而没有替大家作最终决定。"
+        },
+        {
+          "path": "/groups/3/requirements/explanation",
+          "before": "should consider 提出建议，if 留下条件：只有日期确实太紧，才需要这一步。",
+          "after": "should consider 提出建议，if 指出在日期太紧的情况下提出这项建议，并未排除其他需要另找选择的情况。"
+        },
+        {
+          "path": "/contentRevision",
+          "before": 2,
+          "after": 3
+        },
+        {
+          "path": "/claims/2/text",
+          "before": "should consider 表示建议考虑，an alternative 是考虑的对象；if 引出条件，日期太紧才触发这项建议。alternative 此处作可数名词；整句没有指定要换日期、换资源还是换方案，不能替它补定。",
+          "after": "should consider 表示建议考虑，an alternative 是考虑的对象；if 引出“日期太紧”这一条件：在这种情况下，建议考虑另一个选择。alternative 此处作可数名词；整句没有指定要换日期、换资源还是换方案，不能替它补定。"
+        },
+        {
+          "path": "/claims/4/text",
+          "before": "这句话把日期过紧的担忧转成寻找别的选择。should consider 提出建议，if 留下条件：只有日期确实太紧，才需要这一步。自编回应：Could Friday work instead?（改到周五可行吗？）回应提出可比较的候选日期，而没有替大家作最终决定。",
+          "after": "这句话把日期过紧的担忧转成寻找别的选择。should consider 提出建议，if 指出在日期太紧的情况下提出这项建议，并未排除其他需要另找选择的情况。自编回应：Could Friday work instead?（改到周五可行吗？）回应提出可比较的候选日期，而没有替大家作最终决定。"
+        },
+        {
+          "path": "/revisedBy",
+          "after": "root_integrator"
+        }
+      ]
+    },
+    {
+      "file": "entries-3.json",
+      "cardId": "V20261012-059",
+      "beforeHash": "8007c8716a5edc0e2b69b740f580f0b8994bbc1b23e0a2af067820294b91afe7",
+      "afterHash": "0a22db2435d0b93d52e6e958b0d8cf0300033a92148886643ed4db497cb9da3c",
+      "changes": [
+        {
+          "path": "/bridgeText",
+          "before": "本句的 conclude 是结束会议。后面的 by confirming the next steps 说明怎样结束：先把下一步说清楚，再散会。这里没有 that 从句，所以不是在说“得出某个结论”。",
+          "after": "本句的 conclude 是结束会议：宾语 the meeting 是一项活动，by confirming the next steps 说明结束时要做的动作。判断当前义要结合这些内容，而不是单看有没有 that 从句。"
+        },
+        {
+          "path": "/contentRevision",
+          "before": 2,
+          "after": 3
+        },
+        {
+          "path": "/revisedBy",
+          "after": "root_integrator"
+        }
+      ]
+    },
+    {
+      "file": "entries-3.json",
+      "cardId": "V20261012-067",
+      "beforeHash": "0385ddd4b1a6827550cfa580b2ff98e5432558ae5d5e5c23d95df2fa7461a496",
+      "afterHash": "b4faa610635b9a43b43d2eed7d203747d0121a47e99b713e0f0cfd31fed2e870",
+      "changes": [
+        {
+          "path": "/sourceLimitations/1",
+          "before": "本次不新增词源；原卡音标沿用，未作专项读音审核。",
+          "after": "词源、音标和附加例句已纳入本批整页补充包，须以新的整页独立回执核验；旧五区批准不能替代。"
+        },
+        {
+          "path": "/contentRevision",
+          "before": 2,
+          "after": 3
+        },
+        {
+          "path": "/revisedBy",
+          "after": "root_integrator"
+        }
+      ]
+    },
+    {
+      "file": "entries-3.json",
+      "cardId": "V20261012-069",
+      "beforeHash": "3365ffd97d02542cc527fb14015946bb0c07833e0e73cd89b9a643e765c74bcf",
+      "afterHash": "6fce1b03c7796879679e02cf2db404e764d3403cddd915c9a41fd9b9fa800fae",
+      "changes": [
+        {
+          "path": "/sourceLimitations/1",
+          "before": "本次不新增词源；原卡音标沿用，未作专项读音审核。",
+          "after": "词源、音标和附加例句已纳入本批整页补充包，须以新的整页独立回执核验；旧五区批准不能替代。"
+        },
+        {
+          "path": "/contentRevision",
+          "before": 2,
+          "after": 3
+        },
+        {
+          "path": "/revisedBy",
+          "after": "root_integrator"
+        }
+      ]
+    },
+    {
+      "file": "supplements-1.json",
+      "cardId": "V20261012-007",
+      "beforeHash": "a6e0bcf5a41dad674ab99150903f907a4d4d65a85b6ab841f3a7b516fedc5787",
+      "afterHash": "e9ce0512d4f59c9b7a327c188f9f493c3a1d5b13c44c5e7ca7d10edc1607f929",
+      "changes": [
+        {
+          "path": "/sources/1/evidence",
+          "before": "dependency由dependent一族构成；其更早的拉丁语联系包含“悬挂于、依靠”。英语早期已用它谈某物需要另一物支持；项目中的依赖关系是这种“离不开条件”的现代应用。",
+          "after": "dependency条目记录dependent加-cy的构词及早期逻辑依赖/受到支持的关系；更早的拉丁语路径见dependent独立条目。"
+        },
+        {
+          "path": "/sources/1/summaryZh",
+          "before": "dependency由dependent一族构成；其更早的拉丁语联系包含“悬挂于、依靠”。英语早期已用它谈某物需要另一物支持；项目中的依赖关系是这种“离不开条件”的现代应用。",
+          "after": "dependency条目记录dependent加-cy的构词及早期逻辑依赖/受到支持的关系；更早的拉丁语路径见dependent独立条目。"
+        },
+        {
+          "path": "/sources/3",
+          "after": {
+            "id": "etym-dependent",
+            "url": "https://www.etymonline.com/word/dependent",
+            "title": "Etymonline — dependent",
+            "publisher": "Online Etymology Dictionary",
+            "accessedAt": "2026-11-04",
+            "section": "dependent adjective, Old French dependant and Latin dependere; linked dependency entry",
+            "retrievalStatus": "full_page",
+            "evidence": "dependent早期有赖以存在/相关条件义；法语和拉丁语前身涉及悬挂与依靠。页面关联dependency说明其由dependent与-cy构成。不能据此声称项目术语在当时形成。",
+            "adaptationType": "paraphrase",
+            "useAssessment": "原创短转述及链接，未复制全文"
+          }
+        },
+        {
+          "path": "/etymology/0/sourceId",
+          "before": "etym",
+          "after": "etym-dependent"
+        },
+        {
+          "path": "/revisedBy",
+          "after": "root_integrator"
+        }
+      ]
+    },
+    {
+      "file": "entries-2.json",
+      "cardId": "V20261012-050",
+      "beforeHash": "197dd6a740fd8740866bf10a592b0413330fe8501adf5d09af433293d72457ec",
+      "afterHash": "22c5e833041d842989f8d1290d31ac42713660810c1f8a9c57a7746fd98aa800",
+      "changes": [
+        {
+          "path": "/claims/lexical",
+          "before": {
+            "id": "lexical",
+            "kind": "source_fact",
+            "text": "agreement可指意见一致或具体约定，consensus更突出群体的共同意见。自编同场景：你和同事约好周五开会，可说an agreement to meet on Friday；团队讨论后普遍支持周五开会，可说a consensus on meeting on Friday。这里是侧重点不同，不是说agreement只能用于两个人。常见reach agreement / reach a consensus。",
+            "sourceIds": [
+              "lex",
+              "family",
+              "agreement"
+            ],
+            "evidenceNote": "Oxford agreement义1具体安排、义2意见一致；与consensus群体一般一致作教学对照，例子为自编。"
+          },
+          "after": {
+            "id": "lexical",
+            "kind": "source_fact",
+            "text": "consensus 的本句义为团队对某个方向形成的普遍共识；更多义项区另列consensual：共同同意的；经各方认可的。",
+            "sourceIds": [
+              "lex",
+              "family"
+            ],
+            "evidenceNote": "依据已读取的 Oxford 条目转述；不是逐字引用。词族条目明确保留不同 lemma 或词性。"
+          }
+        }
+      ],
+      "reason": "Restore source fact; authored contrast stays teaching_inference"
+    }
+  ]
+}

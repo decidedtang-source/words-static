@@ -1,0 +1,2794 @@
+[
+  {
+    "cardId": "V20261012-001",
+    "reviewer": "whole50_reviewer_group1",
+    "reviewedAt": "2026-11-04",
+    "ruleVersion": "whole-card/1",
+    "fingerprint": "024ea553a46256a2397926a9d7446df7d071adcbf5039f5b25ba703506b52f68",
+    "modules": [
+      {
+        "id": "headword",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "Oxford英式/skəʊp/与当前n.（不可数）逐项对应，define the scope搭配自然。",
+          "completion": "冻结词头要求音标、词性、核心义与搭配均有，未要求额外语音或完整词法标签；旧名词标签扣分不适用于此任务。",
+          "readability": "音标、词性、短搭配分工明确，客观短字段可直接扫读。",
+          "increment": "依短字段例外，准确清晰无冗余即足够；提供发音和搭配，不强加长解释。"
+        },
+        "issues": []
+      },
+      {
+        "id": "currentSense",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "当前语境采用“项目包含和不包含的工作范围”，与原句相符",
+          "completion": "“项目包含和不包含的工作范围”和英文释义及词性齐全；本组皆单词，不人为拆词，正好覆盖当前理解任务。",
+          "readability": "中文义直接可懂",
+          "increment": "依客观短字段规则，该区准确给出当下所需中英义即可，不因与大字释义相近扣分。"
+        },
+        "issues": []
+      },
+      {
+        "id": "directExplanation",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "把它想成这次工作要覆盖的边界：同样说“做测试”，只测功能还是也测性能，工作量会不同。谈费用前先说明 scope，双方才是在估同一件事。",
+          "completion": "已解释词在当前任务中的用途，未捏造实际事件",
+          "readability": "功能与性能测试的差别直接说明为何同叫测试却费用不同。",
+          "increment": "比释义说明目的；与词源current_use复现"
+        },
+        "issues": []
+      },
+      {
+        "id": "etymology",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "scopo/skopos及行动空间均见原页",
+          "completion": "有据历史、明确现代联系、回到当前用法三项均完整且边界明确；历史只讲母词时已诚实限定，不强求不存在的整个术语起源。",
+          "readability": "意大利/希腊词形、注意力空间和项目边界三段转换，历史词形仍增加阅读负担。",
+          "increment": "历史信息新增；current_use与直接讲解重复"
+        },
+        "issues": []
+      },
+      {
+        "id": "context",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "英文原句及中文核对：We need to define the scope before estimating the cost.",
+          "completion": "整句、中文、当前抓手齐全，时态、情态和对象均与原句相符；没有冻结任务缺项。",
+          "readability": "译文简洁，能对应当前工作动作",
+          "increment": "客观上下文字段把当下词义放入完整句子即可；与讲解复现不构成此短字段的无效重复。"
+        },
+        "issues": []
+      },
+      {
+        "id": "additionalSenses",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "核对附加项：做某事的机会或发挥余地",
+          "completion": "展示已核实不同义或明确同族词、中英短释与词性；冻结契约未要求全词典或逐义独立例句。",
+          "readability": "所列“做某事的机会或发挥余地”中文短释与英文对应，现有内容无需例句也读得懂。",
+          "increment": "新增相关义，未把完整词典作为承诺"
+        },
+        "issues": []
+      },
+      {
+        "id": "examples",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "逐句核对补充句“The scope excludes staff training.”及中文",
+          "completion": "全部已显示原卡学习例句及对应中文均核对，kind明确；不要求超出基线新增例句数量。",
+          "readability": "英文简短，译文与所选用法吻合",
+          "increment": "补充不同搭配，但场景与前五区略重合"
+        },
+        "issues": []
+      },
+      {
+        "id": "copyPayload",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "冻结负载为scope及【深析】scope",
+          "completion": "已核对冻结的term与【深析】+term两类负载。浏览器成功/拒绝测试属于独立功能门禁，不是此文本模块缺项。",
+          "readability": "短负载清楚，原文标签仍需遵循原型约定",
+          "increment": "按客观短字段例外，负载准确、清楚、无冗余即完成交接功能；不能要求生产全文复制来拿高分。"
+        },
+        "issues": []
+      }
+    ],
+    "sourceChecks": [
+      {
+        "sourceId": "etym",
+        "verdict": "SUPPORTED",
+        "note": "独立读取https://www.etymonline.com/word/scope：scopo/skopos及行动空间均见原页；按作者当前段落核对。"
+      },
+      {
+        "sourceId": "lex",
+        "verdict": "SUPPORTED",
+        "note": "独立读取https://www.oxfordlearnersdictionaries.com/definition/english/scope_1，核对scope词性、英式音标及当前/附加义；场景回应未假装原文。"
+      },
+      {
+        "sourceId": "project",
+        "verdict": "SUPPORTED",
+        "note": "独立读取https://www.apm.org.uk/resources/what-is-project-management/what-is-scope-management/正文：项目范围含工作和成果、边界支持教学整理。"
+      }
+    ],
+    "calibration": {
+      "at": "2026-11-04",
+      "contentChanged": false
+    }
+  },
+  {
+    "cardId": "V20261012-002",
+    "reviewer": "whole50_reviewer_group1",
+    "reviewedAt": "2026-11-04",
+    "ruleVersion": "whole-card/1",
+    "fingerprint": "5551676ccd141ef7a69d14fe7de1167264ce3a66e7b814fef081cc772bf6a5c9",
+    "modules": [
+      {
+        "id": "headword",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "Oxford英式/əbˈdʒektɪv/与当前n.逐项对应，a clear objective搭配自然。",
+          "completion": "冻结词头要求音标、词性、核心义与搭配均有，未要求额外语音或完整词法标签；旧名词标签扣分不适用于此任务。",
+          "readability": "音标、词性、短搭配分工明确，客观短字段可直接扫读。",
+          "increment": "依短字段例外，准确清晰无冗余即足够；提供发音和搭配，不强加长解释。"
+        },
+        "issues": []
+      },
+      {
+        "id": "currentSense",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "当前语境采用“希望达成的具体目标”，与原句相符",
+          "completion": "“希望达成的具体目标”和英文释义及词性齐全；本组皆单词，不人为拆词，正好覆盖当前理解任务。",
+          "readability": "中文义直接可懂",
+          "increment": "依客观短字段规则，该区准确给出当下所需中英义即可，不因与大字释义相近扣分。"
+        },
+        "issues": []
+      },
+      {
+        "id": "directExplanation",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "objective回答“希望做到什么”。在这句里，重点是让审批少花时间；采用哪张表单、开几次会，都只是可能实现目标的办法。",
+          "completion": "已解释词在当前任务中的用途，未捏造实际事件",
+          "readability": "表单/会议是手段，少花审批时间是目标，两个层次紧邻。",
+          "increment": "比释义说明目的；与词源current_use复现"
+        },
+        "issues": []
+      },
+      {
+        "id": "etymology",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "名词目标来自objective point，原页19世纪记录一致",
+          "completion": "有据历史、明确现代联系、回到当前用法三项均完整且边界明确；历史只讲母词时已诚实限定，不强求不存在的整个术语起源。",
+          "readability": "军事objective point、到达点类比、审批应用三层分明，但来历与应用需跨情境连接。",
+          "increment": "历史信息新增；current_use与直接讲解重复"
+        },
+        "issues": []
+      },
+      {
+        "id": "context",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "英文原句及中文核对：Our objective is to reduce the time spent on approvals.",
+          "completion": "整句、中文、当前抓手齐全，时态、情态和对象均与原句相符；没有冻结任务缺项。",
+          "readability": "译文简洁，能对应当前工作动作",
+          "increment": "客观上下文字段把当下词义放入完整句子即可；与讲解复现不构成此短字段的无效重复。"
+        },
+        "issues": []
+      },
+      {
+        "id": "additionalSenses",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "核对附加项：客观的；根据事实而非个人感受的",
+          "completion": "展示已核实不同义或明确同族词、中英短释与词性；冻结契约未要求全词典或逐义独立例句。",
+          "readability": "所列“客观的；根据事实而非个人感受的”中文短释与英文对应，现有内容无需例句也读得懂。",
+          "increment": "新增相关义，未把完整词典作为承诺"
+        },
+        "issues": []
+      },
+      {
+        "id": "examples",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "逐句核对补充句“Each phase has a measurable objective.”及中文",
+          "completion": "全部已显示原卡学习例句及对应中文均核对，kind明确；不要求超出基线新增例句数量。",
+          "readability": "英文简短，译文与所选用法吻合",
+          "increment": "补充不同搭配，但场景与前五区略重合"
+        },
+        "issues": []
+      },
+      {
+        "id": "copyPayload",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "冻结负载为objective及【深析】objective",
+          "completion": "已核对冻结的term与【深析】+term两类负载。浏览器成功/拒绝测试属于独立功能门禁，不是此文本模块缺项。",
+          "readability": "短负载清楚，原文标签仍需遵循原型约定",
+          "increment": "按客观短字段例外，负载准确、清楚、无冗余即完成交接功能；不能要求生产全文复制来拿高分。"
+        },
+        "issues": []
+      }
+    ],
+    "sourceChecks": [
+      {
+        "sourceId": "lexical",
+        "verdict": "SUPPORTED",
+        "note": "独立读取https://www.oxfordlearnersdictionaries.com/definition/english/objective_1，核对objective词性、英式音标及当前/附加义；场景回应未假装原文。"
+      },
+      {
+        "sourceId": "etym",
+        "verdict": "SUPPORTED",
+        "note": "独立读取https://www.etymonline.com/word/objective：名词目标来自objective point，原页19世纪记录一致；按作者当前段落核对。"
+      },
+      {
+        "sourceId": "extra",
+        "verdict": "SUPPORTED",
+        "note": "独立读取https://www.oxfordlearnersdictionaries.com/definition/english/objective_2，核对客观的；根据事实而非个人感受的；场景回应未假装原文。"
+      }
+    ],
+    "calibration": {
+      "at": "2026-11-04",
+      "contentChanged": false
+    }
+  },
+  {
+    "cardId": "V20261012-003",
+    "reviewer": "whole50_reviewer_group1",
+    "reviewedAt": "2026-11-04",
+    "ruleVersion": "whole-card/1",
+    "fingerprint": "b2e9ab1e618116215230e73fd15f09e30d34cdf0bd7779c2664b386752c49c5e",
+    "modules": [
+      {
+        "id": "headword",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "Oxford英式/dɪˈlɪvərəbl/与当前n.逐项对应，agree on the deliverables搭配自然。",
+          "completion": "冻结词头要求音标、词性、核心义与搭配均有，未要求额外语音或完整词法标签；旧名词标签扣分不适用于此任务。",
+          "readability": "音标、词性、短搭配分工明确，客观短字段可直接扫读。",
+          "increment": "依短字段例外，准确清晰无冗余即足够；提供发音和搭配，不强加长解释。"
+        },
+        "issues": []
+      },
+      {
+        "id": "currentSense",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "当前语境采用“项目需要交付的成果或文件”，与原句相符",
+          "completion": "“项目需要交付的成果或文件”和英文释义及词性齐全；本组皆单词，不人为拆词，正好覆盖当前理解任务。",
+          "readability": "中文义直接可懂",
+          "increment": "依客观短字段规则，该区准确给出当下所需中英义即可，不因与大字释义相近扣分。"
+        },
+        "issues": []
+      },
+      {
+        "id": "directExplanation",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "deliverable把讨论落到“最后交出什么”。写报告、检查数据是活动，完成并应交付的报告才是成果。原句要求列第一阶段的成果清单，方便大家核对。",
+          "completion": "已解释词在当前任务中的用途，未捏造实际事件",
+          "readability": "写报告等动作与完成报告成果对照后回成果清单，具体易懂。",
+          "increment": "比释义说明目的；与词源current_use复现"
+        },
+        "issues": []
+      },
+      {
+        "id": "etymology",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "deliver历史与deliverable现代名词明确分开",
+          "completion": "有据历史、明确现代联系、回到当前用法三项均完整且边界明确；历史只讲母词时已诚实限定，不强求不存在的整个术语起源。",
+          "readability": "母词释放到交出再到可交名词，多个词性/历史层次需要慢读。",
+          "increment": "历史信息新增；current_use与直接讲解重复"
+        },
+        "issues": []
+      },
+      {
+        "id": "context",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "英文原句及中文核对：Please list the deliverables for the first phase.",
+          "completion": "整句、中文、当前抓手齐全，时态、情态和对象均与原句相符；没有冻结任务缺项。",
+          "readability": "译文简洁，能对应当前工作动作",
+          "increment": "客观上下文字段把当下词义放入完整句子即可；与讲解复现不构成此短字段的无效重复。"
+        },
+        "issues": []
+      },
+      {
+        "id": "additionalSenses",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "核对附加项：可以交付或实现的",
+          "completion": "展示已核实不同义或明确同族词、中英短释与词性；冻结契约未要求全词典或逐义独立例句。",
+          "readability": "所列“可以交付或实现的”中文短释与英文对应，现有内容无需例句也读得懂。",
+          "increment": "新增相关义，未把完整词典作为承诺"
+        },
+        "issues": []
+      },
+      {
+        "id": "examples",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "逐句核对补充句“The final deliverable is a test report.”及中文",
+          "completion": "全部已显示原卡学习例句及对应中文均核对，kind明确；不要求超出基线新增例句数量。",
+          "readability": "英文简短，译文与所选用法吻合",
+          "increment": "补充不同搭配，但场景与前五区略重合"
+        },
+        "issues": []
+      },
+      {
+        "id": "copyPayload",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "冻结负载为deliverable及【深析】deliverable",
+          "completion": "已核对冻结的term与【深析】+term两类负载。浏览器成功/拒绝测试属于独立功能门禁，不是此文本模块缺项。",
+          "readability": "短负载清楚，原文标签仍需遵循原型约定",
+          "increment": "按客观短字段例外，负载准确、清楚、无冗余即完成交接功能；不能要求生产全文复制来拿高分。"
+        },
+        "issues": []
+      }
+    ],
+    "sourceChecks": [
+      {
+        "sourceId": "lexical",
+        "verdict": "SUPPORTED",
+        "note": "独立读取https://www.oxfordlearnersdictionaries.com/definition/english/deliverable_2，核对deliverable词性、英式音标及当前/附加义；场景回应未假装原文。"
+      },
+      {
+        "sourceId": "etym",
+        "verdict": "SUPPORTED",
+        "note": "独立读取https://www.etymonline.com/word/deliver：deliver历史与deliverable现代名词明确分开；按作者当前段落核对。"
+      },
+      {
+        "sourceId": "extra",
+        "verdict": "SUPPORTED",
+        "note": "独立读取https://www.oxfordlearnersdictionaries.com/definition/english/deliverable_1，核对可以交付或实现的；场景回应未假装原文。"
+      }
+    ],
+    "calibration": {
+      "at": "2026-11-04",
+      "contentChanged": false
+    }
+  },
+  {
+    "cardId": "V20261012-004",
+    "reviewer": "whole50_reviewer_group1",
+    "reviewedAt": "2026-11-04",
+    "ruleVersion": "whole-card/1",
+    "fingerprint": "7488dc338b36f0909eed2a8f0632c131ba4dfedafc2556c2b84c3d76bf1cd3c1",
+    "modules": [
+      {
+        "id": "headword",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "Oxford英式/ˈmaɪlstəʊn/与当前n.逐项对应，reach a milestone搭配自然。",
+          "completion": "冻结词头要求音标、词性、核心义与搭配均有，未要求额外语音或完整词法标签；旧名词标签扣分不适用于此任务。",
+          "readability": "音标、词性、短搭配分工明确，客观短字段可直接扫读。",
+          "increment": "依短字段例外，准确清晰无冗余即足够；提供发音和搭配，不强加长解释。"
+        },
+        "issues": []
+      },
+      {
+        "id": "currentSense",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "当前语境采用“标志阶段成果达成的重要节点”，与原句相符",
+          "completion": "“标志阶段成果达成的重要节点”和英文释义及词性齐全；本组皆单词，不人为拆词，正好覆盖当前理解任务。",
+          "readability": "中文义直接可懂",
+          "increment": "依客观短字段规则，该区准确给出当下所需中英义即可，不因与大字释义相近扣分。"
+        },
+        "issues": []
+      },
+      {
+        "id": "directExplanation",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "milestone突出一个值得标记的重要节点。达到首个milestone，说明项目走到了一处关键位置；后面通常还有工作，所以它不等同于“整个项目完成”。",
+          "completion": "已解释词在当前任务中的用途，未捏造实际事件",
+          "readability": "到关键节点与整个项目完成清楚区分，不需额外专业知识。",
+          "increment": "比释义说明目的；与词源current_use复现"
+        },
+        "issues": []
+      },
+      {
+        "id": "etymology",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "mile+stone实物义有据，未编造项目义首见",
+          "completion": "有据历史、明确现代联系、回到当前用法三项均完整且边界明确；历史只讲母词时已诚实限定，不强求不存在的整个术语起源。",
+          "readability": "实物路标、走到路标、项目节点三段同一图像递进，不跳跃。",
+          "increment": "历史信息新增；current_use与直接讲解重复"
+        },
+        "issues": []
+      },
+      {
+        "id": "context",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "英文原句及中文核对：We reached the first milestone after the review.",
+          "completion": "整句、中文、当前抓手齐全，时态、情态和对象均与原句相符；没有冻结任务缺项。",
+          "readability": "译文简洁，能对应当前工作动作",
+          "increment": "客观上下文字段把当下词义放入完整句子即可；与讲解复现不构成此短字段的无效重复。"
+        },
+        "issues": []
+      },
+      {
+        "id": "additionalSenses",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "核对附加项：路旁标示距离的里程碑石",
+          "completion": "展示已核实不同义或明确同族词、中英短释与词性；冻结契约未要求全词典或逐义独立例句。",
+          "readability": "所列“路旁标示距离的里程碑石”中文短释与英文对应，现有内容无需例句也读得懂。",
+          "increment": "新增相关义，未把完整词典作为承诺"
+        },
+        "issues": []
+      },
+      {
+        "id": "examples",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "逐句核对补充句“The pilot launch is our next milestone.”及中文",
+          "completion": "全部已显示原卡学习例句及对应中文均核对，kind明确；不要求超出基线新增例句数量。",
+          "readability": "英文简短，译文与所选用法吻合",
+          "increment": "补充不同搭配，但场景与前五区略重合"
+        },
+        "issues": []
+      },
+      {
+        "id": "copyPayload",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "冻结负载为milestone及【深析】milestone",
+          "completion": "已核对冻结的term与【深析】+term两类负载。浏览器成功/拒绝测试属于独立功能门禁，不是此文本模块缺项。",
+          "readability": "短负载清楚，原文标签仍需遵循原型约定",
+          "increment": "按客观短字段例外，负载准确、清楚、无冗余即完成交接功能；不能要求生产全文复制来拿高分。"
+        },
+        "issues": []
+      }
+    ],
+    "sourceChecks": [
+      {
+        "sourceId": "lexical",
+        "verdict": "SUPPORTED",
+        "note": "独立读取https://www.oxfordlearnersdictionaries.com/definition/english/milestone，核对milestone词性、英式音标及当前/附加义；场景回应未假装原文。"
+      },
+      {
+        "sourceId": "etym",
+        "verdict": "SUPPORTED",
+        "note": "独立读取https://www.etymonline.com/word/milestone：mile+stone实物义有据，未编造项目义首见；按作者当前段落核对。"
+      }
+    ],
+    "calibration": {
+      "at": "2026-11-04",
+      "contentChanged": false
+    }
+  },
+  {
+    "cardId": "V20261012-005",
+    "reviewer": "whole50_reviewer_group1",
+    "reviewedAt": "2026-11-04",
+    "ruleVersion": "whole-card/1",
+    "fingerprint": "e8893f95607525bb3898d848b7f3a3d7c9593d95d8e598cde3dafca228e67766",
+    "modules": [
+      {
+        "id": "headword",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "Oxford英式/praɪˈɒrəti/与当前n.逐项对应，set priorities搭配自然。",
+          "completion": "冻结词头要求音标、词性、核心义与搭配均有，未要求额外语音或完整词法标签；旧名词标签扣分不适用于此任务。",
+          "readability": "音标、词性、短搭配分工明确，客观短字段可直接扫读。",
+          "increment": "依短字段例外，准确清晰无冗余即足够；提供发音和搭配，不强加长解释。"
+        },
+        "issues": []
+      },
+      {
+        "id": "currentSense",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "当前语境改为需要先于其他工作处理的重要事项，与复数priorities相符。",
+          "completion": "“需要先于其他工作处理的重要事项”和英文释义及词性齐全；本组皆单词，不人为拆词，正好覆盖当前理解任务。",
+          "readability": "中文义直接可懂",
+          "increment": "依客观短字段规则，该区准确给出当下所需中英义即可，不因与大字释义相近扣分。"
+        },
+        "issues": []
+      },
+      {
+        "id": "directExplanation",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "priority用来表达取舍：事情都要做时，哪件先得到时间和资源？set priorities就是把这种优先安排说清楚，而不是把每件事都标为同样紧急。",
+          "completion": "已解释词在当前任务中的用途，未捏造实际事件",
+          "readability": "先给哪件事得时间资源的问题，再说明不能全标紧急，逻辑直接。",
+          "increment": "比释义说明目的；与词源current_use复现"
+        },
+        "issues": []
+      },
+      {
+        "id": "etymology",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "prior前后次序到重要性原页有据",
+          "completion": "有据历史、明确现代联系、回到当前用法三项均完整且边界明确；历史只讲母词时已诚实限定，不强求不存在的整个术语起源。",
+          "readability": "prior在前到注意力排队再到工作取舍，主线连贯而不加难词。",
+          "increment": "历史信息新增；current_use与直接讲解重复"
+        },
+        "issues": []
+      },
+      {
+        "id": "context",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "英文原句及中文核对：We need to set priorities for the remaining work.",
+          "completion": "整句、中文、当前抓手齐全，时态、情态和对象均与原句相符；没有冻结任务缺项。",
+          "readability": "译文简洁，能对应当前工作动作",
+          "increment": "客观上下文字段把当下词义放入完整句子即可；与讲解复现不构成此短字段的无效重复。"
+        },
+        "issues": []
+      },
+      {
+        "id": "additionalSenses",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "核对附加项：优先地位；先得到处理的资格",
+          "completion": "展示已核实不同义或明确同族词、中英短释与词性；冻结契约未要求全词典或逐义独立例句。",
+          "readability": "所列“优先地位；先得到处理的资格”中文短释与英文对应，现有内容无需例句也读得懂。",
+          "increment": "事项名词与优先地位用法已明确分开；作为客观短字段给出另一已核验义，满足额外义任务，无需为增量增加内容。"
+        },
+        "issues": []
+      },
+      {
+        "id": "examples",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "逐句核对补充句“Safety remains our top priority.”及中文",
+          "completion": "全部已显示原卡学习例句及对应中文均核对，kind明确；不要求超出基线新增例句数量。",
+          "readability": "英文简短，译文与所选用法吻合",
+          "increment": "补充不同搭配，但场景与前五区略重合"
+        },
+        "issues": []
+      },
+      {
+        "id": "copyPayload",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "冻结负载为priority及【深析】priority",
+          "completion": "已核对冻结的term与【深析】+term两类负载。浏览器成功/拒绝测试属于独立功能门禁，不是此文本模块缺项。",
+          "readability": "短负载清楚，原文标签仍需遵循原型约定",
+          "increment": "按客观短字段例外，负载准确、清楚、无冗余即完成交接功能；不能要求生产全文复制来拿高分。"
+        },
+        "issues": []
+      }
+    ],
+    "sourceChecks": [
+      {
+        "sourceId": "lexical",
+        "verdict": "SUPPORTED",
+        "note": "独立读取https://www.oxfordlearnersdictionaries.com/definition/english/priority，核对priority词性、英式音标及当前/附加义；场景回应未假装原文。"
+      },
+      {
+        "sourceId": "etym",
+        "verdict": "SUPPORTED",
+        "note": "独立读取https://www.etymonline.com/word/priority：prior前后次序到重要性原页有据；按作者当前段落核对。"
+      }
+    ],
+    "calibration": {
+      "at": "2026-11-04",
+      "contentChanged": false
+    }
+  },
+  {
+    "cardId": "V20261012-006",
+    "reviewer": "whole50_reviewer_group1",
+    "reviewedAt": "2026-11-04",
+    "ruleVersion": "whole-card/1",
+    "fingerprint": "dc3b5a7bc3cc6fb4bdf35a635138f9ca5a3d926bf264feb2e4c598ccf2865f8e",
+    "modules": [
+      {
+        "id": "headword",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "Oxford英式/kənˈstreɪnt/与当前n.逐项对应，a resource constraint搭配自然。",
+          "completion": "冻结词头要求音标、词性、核心义与搭配均有，未要求额外语音或完整词法标签；旧名词标签扣分不适用于此任务。",
+          "readability": "音标、词性、短搭配分工明确，客观短字段可直接扫读。",
+          "increment": "依短字段例外，准确清晰无冗余即足够；提供发音和搭配，不强加长解释。"
+        },
+        "issues": []
+      },
+      {
+        "id": "currentSense",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "当前语境采用“限制可选方案的条件”，与原句相符",
+          "completion": "“限制可选方案的条件”和英文释义及词性齐全；本组皆单词，不人为拆词，正好覆盖当前理解任务。",
+          "readability": "中文义直接可懂",
+          "increment": "依客观短字段规则，该区准确给出当下所需中英义即可，不因与大字释义相近扣分。"
+        },
+        "issues": []
+      },
+      {
+        "id": "directExplanation",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "constraint是方案必须面对的限制条件。原句说可用评审人数限制了安排；即使每个人都很能干，总人数有限也会影响一次能评审多少内容。",
+          "completion": "已解释词在当前任务中的用途，未捏造实际事件",
+          "readability": "人数有限即使能干仍限制处理量，具体因果容易理解。",
+          "increment": "比释义说明目的；与词源current_use复现"
+        },
+        "issues": []
+      },
+      {
+        "id": "etymology",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "古法语绑紧链路支持限制联系",
+          "completion": "有据历史、明确现代联系、回到当前用法三项均完整且边界明确；历史只讲母词时已诚实限定，不强求不存在的整个术语起源。",
+          "readability": "绑紧、边框、人数三种图像连续切换，能懂但不算最省力。",
+          "increment": "历史信息新增；current_use与直接讲解重复"
+        },
+        "issues": []
+      },
+      {
+        "id": "context",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "英文原句及中文核对：The main constraint is the number of available reviewers.",
+          "completion": "整句、中文、当前抓手齐全，时态、情态和对象均与原句相符；没有冻结任务缺项。",
+          "readability": "译文简洁，能对应当前工作动作",
+          "increment": "客观上下文字段把当下词义放入完整句子即可；与讲解复现不构成此短字段的无效重复。"
+        },
+        "issues": []
+      },
+      {
+        "id": "additionalSenses",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "核对附加项：对行为的约束；拘束",
+          "completion": "展示已核实不同义或明确同族词、中英短释与词性；冻结契约未要求全词典或逐义独立例句。",
+          "readability": "所列“对行为的约束；拘束”中文短释与英文对应，现有内容无需例句也读得懂。",
+          "increment": "新增相关义，未把完整词典作为承诺"
+        },
+        "issues": []
+      },
+      {
+        "id": "examples",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "逐句核对补充句“Space is a serious constraint here.”及中文",
+          "completion": "全部已显示原卡学习例句及对应中文均核对，kind明确；不要求超出基线新增例句数量。",
+          "readability": "英文简短，译文与所选用法吻合",
+          "increment": "补充不同搭配，但场景与前五区略重合"
+        },
+        "issues": []
+      },
+      {
+        "id": "copyPayload",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "冻结负载为constraint及【深析】constraint",
+          "completion": "已核对冻结的term与【深析】+term两类负载。浏览器成功/拒绝测试属于独立功能门禁，不是此文本模块缺项。",
+          "readability": "短负载清楚，原文标签仍需遵循原型约定",
+          "increment": "按客观短字段例外，负载准确、清楚、无冗余即完成交接功能；不能要求生产全文复制来拿高分。"
+        },
+        "issues": []
+      }
+    ],
+    "sourceChecks": [
+      {
+        "sourceId": "lexical",
+        "verdict": "SUPPORTED",
+        "note": "独立读取https://www.oxfordlearnersdictionaries.com/definition/english/constraint，核对constraint词性、英式音标及当前/附加义；场景回应未假装原文。"
+      },
+      {
+        "sourceId": "etym",
+        "verdict": "SUPPORTED",
+        "note": "独立读取https://www.etymonline.com/word/constraint：古法语绑紧链路支持限制联系；按作者当前段落核对。"
+      }
+    ],
+    "calibration": {
+      "at": "2026-11-04",
+      "contentChanged": false
+    }
+  },
+  {
+    "cardId": "V20261012-007",
+    "reviewer": "whole50_reviewer_group1",
+    "reviewedAt": "2026-11-04",
+    "ruleVersion": "whole-card/1",
+    "fingerprint": "90ef627120bb20823e2e74af5617bde8a649f3d48ab57409d0e7da79c946f375",
+    "modules": [
+      {
+        "id": "headword",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "Oxford英式/dɪˈpendənsi/与当前n.逐项对应，identify dependencies搭配自然。",
+          "completion": "冻结词头要求音标、词性、核心义与搭配均有，未要求额外语音或完整词法标签；旧名词标签扣分不适用于此任务。",
+          "readability": "音标、词性、短搭配分工明确，客观短字段可直接扫读。",
+          "increment": "依短字段例外，准确清晰无冗余即足够；提供发音和搭配，不强加长解释。"
+        },
+        "issues": []
+      },
+      {
+        "id": "currentSense",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "当前语境采用“一项工作对另一项工作或条件的依赖”，与原句相符",
+          "completion": "“一项工作对另一项工作或条件的依赖”和英文释义及词性齐全；本组皆单词，不人为拆词，正好覆盖当前理解任务。",
+          "readability": "中文义直接可懂",
+          "increment": "依客观短字段规则，该区准确给出当下所需中英义即可，不因与大字释义相近扣分。"
+        },
+        "issues": []
+      },
+      {
+        "id": "directExplanation",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "项目里的dependency说明一项工作离不开哪个输入或条件。排期不能只加上各任务的时长，还要知道它们怎样相互依赖；这样才看得出可能的等待。",
+          "completion": "已解释词在当前任务中的用途，未捏造实际事件",
+          "readability": "先问离不开什么输入，再说明排期要看等待，抽象关系落到动作。",
+          "increment": "比释义说明目的；与词源current_use复现"
+        },
+        "issues": []
+      },
+      {
+        "id": "etymology",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "独立核对dependent原页法语/拉丁语依靠与悬挂、dependency原页dependent+-cy；未推成项目术语首见。",
+          "completion": "有据历史、明确现代联系、回到当前用法三项均完整且边界明确；历史只讲母词时已诚实限定，不强求不存在的整个术语起源。",
+          "readability": "dependent/拉丁语悬挂历史与项目条件两层都有限定，术语链略密。",
+          "increment": "历史信息新增；current_use与直接讲解重复"
+        },
+        "issues": []
+      },
+      {
+        "id": "context",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "英文原句及中文核对：Please identify dependencies before finalizing the schedule.",
+          "completion": "整句、中文、当前抓手齐全，时态、情态和对象均与原句相符；没有冻结任务缺项。",
+          "readability": "译文简洁，能对应当前工作动作",
+          "increment": "客观上下文字段把当下词义放入完整句子即可；与讲解复现不构成此短字段的无效重复。"
+        },
+        "issues": []
+      },
+      {
+        "id": "additionalSenses",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "核对附加项：受另一国家管辖的属地",
+          "completion": "展示已核实不同义或明确同族词、中英短释与词性；冻结契约未要求全词典或逐义独立例句。",
+          "readability": "所列“受另一国家管辖的属地”中文短释与英文对应，现有内容无需例句也读得懂。",
+          "increment": "新增相关义，未把完整词典作为承诺"
+        },
+        "issues": []
+      },
+      {
+        "id": "examples",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "逐句核对补充句“This dependency could delay testing.”及中文",
+          "completion": "全部已显示原卡学习例句及对应中文均核对，kind明确；不要求超出基线新增例句数量。",
+          "readability": "英文简短，译文与所选用法吻合",
+          "increment": "补充不同搭配，但场景与前五区略重合"
+        },
+        "issues": []
+      },
+      {
+        "id": "copyPayload",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "冻结负载为dependency及【深析】dependency",
+          "completion": "已核对冻结的term与【深析】+term两类负载。浏览器成功/拒绝测试属于独立功能门禁，不是此文本模块缺项。",
+          "readability": "短负载清楚，原文标签仍需遵循原型约定",
+          "increment": "按客观短字段例外，负载准确、清楚、无冗余即完成交接功能；不能要求生产全文复制来拿高分。"
+        },
+        "issues": []
+      }
+    ],
+    "sourceChecks": [
+      {
+        "sourceId": "lexical",
+        "verdict": "SUPPORTED",
+        "note": "独立读取https://www.oxfordlearnersdictionaries.com/definition/english/dependency，核对dependency词性、英式音标及当前/附加义；场景回应未假装原文。"
+      },
+      {
+        "sourceId": "etym",
+        "verdict": "SUPPORTED",
+        "note": "独立读取dependency主条目，确认dependent+-cy、早期逻辑依赖和支持关系；更早链路另由dependent来源支持。"
+      },
+      {
+        "sourceId": "method",
+        "verdict": "SUPPORTED",
+        "note": "独立读取https://www.apm.org.uk/resources/what-is-project-management/what-is-scheduling-in-project-management/正文：逻辑依赖、活动顺序及critical-chain缓冲支持教学整理。"
+      },
+      {
+        "sourceId": "etym-dependent",
+        "verdict": "SUPPORTED",
+        "note": "2026-11-04独立打开https://www.etymonline.com/word/dependent；词条第13—14行支持法语dependant、拉丁语dependere悬挂/依靠及早期条件关系，未声称项目术语同期出现。"
+      }
+    ],
+    "calibration": {
+      "at": "2026-11-04",
+      "contentChanged": false
+    }
+  },
+  {
+    "cardId": "V20261012-008",
+    "reviewer": "whole50_reviewer_group1",
+    "reviewedAt": "2026-11-04",
+    "ruleVersion": "whole-card/1",
+    "fingerprint": "14fa32e8e1834328319b7d85896beac85e652d9b734f6203b31f9a6db224cb3c",
+    "modules": [
+      {
+        "id": "headword",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "Oxford英式/əˈsʌmpʃn/与当前n.逐项对应，check an assumption搭配自然。",
+          "completion": "冻结词头要求音标、词性、核心义与搭配均有，未要求额外语音或完整词法标签；旧名词标签扣分不适用于此任务。",
+          "readability": "音标、词性、短搭配分工明确，客观短字段可直接扫读。",
+          "increment": "依短字段例外，准确清晰无冗余即足够；提供发音和搭配，不强加长解释。"
+        },
+        "issues": []
+      },
+      {
+        "id": "currentSense",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "当前语境采用“尚未证实但暂时作为规划基础的条件”，与原句相符",
+          "completion": "“尚未证实但暂时作为规划基础的条件”和英文释义及词性齐全；本组皆单词，不人为拆词，正好覆盖当前理解任务。",
+          "readability": "中文义直接可懂",
+          "increment": "依客观短字段规则，该区准确给出当下所需中英义即可，不因与大字释义相近扣分。"
+        },
+        "issues": []
+      },
+      {
+        "id": "directExplanation",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "assumption是暂时接受、但还需要依据的前提。本句提醒先向供应商核实这个条件；如果答案不同，建立在它上面的估算或安排也可能要调整。",
+          "completion": "已解释词在当前任务中的用途，未捏造实际事件",
+          "readability": "先接受的条件到核实再到安排可能调整，顺序明白。",
+          "increment": "比释义说明目的；与词源current_use复现"
+        },
+        "issues": []
+      },
+      {
+        "id": "etymology",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "assumption拿起接受与后续前提义有据",
+          "completion": "有据历史、明确现代联系、回到当前用法三项均完整且边界明确；历史只讲母词时已诚实限定，不强求不存在的整个术语起源。",
+          "readability": "拿起承担与取作前提及责任义并列，历史和现代义要对照。",
+          "increment": "历史信息新增；current_use与直接讲解重复"
+        },
+        "issues": []
+      },
+      {
+        "id": "context",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "英文原句及中文核对：This assumption needs to be checked with the supplier.",
+          "completion": "整句、中文、当前抓手齐全，时态、情态和对象均与原句相符；没有冻结任务缺项。",
+          "readability": "译文简洁，能对应当前工作动作",
+          "increment": "客观上下文字段把当下词义放入完整句子即可；与讲解复现不构成此短字段的无效重复。"
+        },
+        "issues": []
+      },
+      {
+        "id": "additionalSenses",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "核对附加项：开始承担责任或取得权力",
+          "completion": "展示已核实不同义或明确同族词、中英短释与词性；冻结契约未要求全词典或逐义独立例句。",
+          "readability": "所列“开始承担责任或取得权力”中文短释与英文对应，现有内容无需例句也读得懂。",
+          "increment": "新增相关义，未把完整词典作为承诺"
+        },
+        "issues": []
+      },
+      {
+        "id": "examples",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "逐句核对补充句“Our estimate rests on that assumption.”及中文",
+          "completion": "全部已显示原卡学习例句及对应中文均核对，kind明确；不要求超出基线新增例句数量。",
+          "readability": "英文简短，译文与所选用法吻合",
+          "increment": "补充不同搭配，但场景与前五区略重合"
+        },
+        "issues": []
+      },
+      {
+        "id": "copyPayload",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "冻结负载为assumption及【深析】assumption",
+          "completion": "已核对冻结的term与【深析】+term两类负载。浏览器成功/拒绝测试属于独立功能门禁，不是此文本模块缺项。",
+          "readability": "短负载清楚，原文标签仍需遵循原型约定",
+          "increment": "按客观短字段例外，负载准确、清楚、无冗余即完成交接功能；不能要求生产全文复制来拿高分。"
+        },
+        "issues": []
+      }
+    ],
+    "sourceChecks": [
+      {
+        "sourceId": "lexical",
+        "verdict": "SUPPORTED",
+        "note": "独立读取https://www.oxfordlearnersdictionaries.com/definition/english/assumption，核对assumption词性、英式音标及当前/附加义；场景回应未假装原文。"
+      },
+      {
+        "sourceId": "etym",
+        "verdict": "SUPPORTED",
+        "note": "独立读取https://www.etymonline.com/word/assumption：assumption拿起接受与后续前提义有据；按作者当前段落核对。"
+      }
+    ],
+    "calibration": {
+      "at": "2026-11-04",
+      "contentChanged": false
+    }
+  },
+  {
+    "cardId": "V20261012-009",
+    "reviewer": "whole50_reviewer_group1",
+    "reviewedAt": "2026-11-04",
+    "ruleVersion": "whole-card/1",
+    "fingerprint": "080cb712623cc12a601e4f71d3d5d2bd7fdee3b85fa1196a4a851a9c702536ba",
+    "modules": [
+      {
+        "id": "headword",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "Oxford英式/ˈbeɪslaɪn/与当前n.逐项对应，establish a baseline搭配自然。",
+          "completion": "冻结词头要求音标、词性、核心义与搭配均有，未要求额外语音或完整词法标签；旧名词标签扣分不适用于此任务。",
+          "readability": "音标、词性、短搭配分工明确，客观短字段可直接扫读。",
+          "increment": "依短字段例外，准确清晰无冗余即足够；提供发音和搭配，不强加长解释。"
+        },
+        "issues": []
+      },
+      {
+        "id": "currentSense",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "当前语境采用“用于比较后续变化的基准”，与原句相符",
+          "completion": "“用于比较后续变化的基准”和英文释义及词性齐全；本组皆单词，不人为拆词，正好覆盖当前理解任务。",
+          "readability": "中文义直接可懂",
+          "increment": "依客观短字段规则，该区准确给出当下所需中英义即可，不因与大字释义相近扣分。"
+        },
+        "issues": []
+      },
+      {
+        "id": "directExplanation",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "baseline回答“和什么相比”。要说审批变快，先要知道原来的耗时；这个起始记录是baseline，希望降到的耗时才是target。",
+          "completion": "已解释词在当前任务中的用途，未捏造实际事件",
+          "readability": "和什么比的提问紧接审批耗时，再分起始与目标，关系清楚。",
+          "increment": "比释义说明目的；与词源current_use复现"
+        },
+        "issues": []
+      },
+      {
+        "id": "etymology",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "测量基线早于球场用法，非一定可见的线",
+          "completion": "有据历史、明确现代联系、回到当前用法三项均完整且边界明确；历史只讲母词时已诚实限定，不强求不存在的整个术语起源。",
+          "readability": "测量基线、初始读数、审批比较沿参照主线递进，易懂。",
+          "increment": "历史信息新增；current_use与直接讲解重复"
+        },
+        "issues": []
+      },
+      {
+        "id": "context",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "英文原句及中文核对：We need a baseline before measuring the improvement.",
+          "completion": "整句、中文、当前抓手齐全，时态、情态和对象均与原句相符；没有冻结任务缺项。",
+          "readability": "译文简洁，能对应当前工作动作",
+          "increment": "客观上下文字段把当下词义放入完整句子即可；与讲解复现不构成此短字段的无效重复。"
+        },
+        "issues": []
+      },
+      {
+        "id": "additionalSenses",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "核对附加项：网球场底线等场地边界线",
+          "completion": "展示已核实不同义或明确同族词、中英短释与词性；冻结契约未要求全词典或逐义独立例句。",
+          "readability": "所列“网球场底线等场地边界线”中文短释与英文对应，现有内容无需例句也读得懂。",
+          "increment": "新增相关义，未把完整词典作为承诺"
+        },
+        "issues": []
+      },
+      {
+        "id": "examples",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "逐句核对补充句“Last month's output provides a baseline.”及中文",
+          "completion": "全部已显示原卡学习例句及对应中文均核对，kind明确；不要求超出基线新增例句数量。",
+          "readability": "英文简短，译文与所选用法吻合",
+          "increment": "补充不同搭配，但场景与前五区略重合"
+        },
+        "issues": []
+      },
+      {
+        "id": "copyPayload",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "冻结负载为baseline及【深析】baseline",
+          "completion": "已核对冻结的term与【深析】+term两类负载。浏览器成功/拒绝测试属于独立功能门禁，不是此文本模块缺项。",
+          "readability": "短负载清楚，原文标签仍需遵循原型约定",
+          "increment": "按客观短字段例外，负载准确、清楚、无冗余即完成交接功能；不能要求生产全文复制来拿高分。"
+        },
+        "issues": []
+      }
+    ],
+    "sourceChecks": [
+      {
+        "sourceId": "lexical",
+        "verdict": "SUPPORTED",
+        "note": "独立读取https://www.oxfordlearnersdictionaries.com/definition/english/baseline，核对baseline词性、英式音标及当前/附加义；场景回应未假装原文。"
+      },
+      {
+        "sourceId": "etym",
+        "verdict": "SUPPORTED",
+        "note": "独立读取https://www.etymonline.com/word/baseline：测量基线早于球场用法，非一定可见的线；按作者当前段落核对。"
+      }
+    ],
+    "calibration": {
+      "at": "2026-11-04",
+      "contentChanged": false
+    }
+  },
+  {
+    "cardId": "V20261012-010",
+    "reviewer": "whole50_reviewer_group1",
+    "reviewedAt": "2026-11-04",
+    "ruleVersion": "whole-card/1",
+    "fingerprint": "510288d84ecbb9fbab40c938b96699e16c5e152eda03c597fa633f2609f5416c",
+    "modules": [
+      {
+        "id": "headword",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "Oxford英式/ˈbʌfə(r)/与当前n.逐项对应，a time buffer搭配自然。",
+          "completion": "冻结词头要求音标、词性、核心义与搭配均有，未要求额外语音或完整词法标签；旧名词标签扣分不适用于此任务。",
+          "readability": "音标、词性、短搭配分工明确，客观短字段可直接扫读。",
+          "increment": "依短字段例外，准确清晰无冗余即足够；提供发音和搭配，不强加长解释。"
+        },
+        "issues": []
+      },
+      {
+        "id": "currentSense",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "当前语境采用“为应对不确定性预留的时间或资源”，与原句相符",
+          "completion": "“为应对不确定性预留的时间或资源”和英文释义及词性齐全；本组皆单词，不人为拆词，正好覆盖当前理解任务。",
+          "readability": "中文义直接可懂",
+          "increment": "依客观短字段规则，该区准确给出当下所需中英义即可，不因与大字释义相近扣分。"
+        },
+        "issues": []
+      },
+      {
+        "id": "directExplanation",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "buffer是预留来应对变化的余量。这里的两天不是已经发生的延期，而是计划里给评审留出的弹性；还应分清正常评审时长和额外缓冲。",
+          "completion": "已解释词在当前任务中的用途，未捏造实际事件",
+          "readability": "两天是余量而非已延期，再分正常评审时长，简短准确。",
+          "increment": "比释义说明目的；与词源current_use复现"
+        },
+        "issues": []
+      },
+      {
+        "id": "etymology",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "吸收冲击装置到比喻用法有据",
+          "completion": "有据历史、明确现代联系、回到当前用法三项均完整且边界明确；历史只讲母词时已诚实限定，不强求不存在的整个术语起源。",
+          "readability": "吸收冲击装置、软垫、计划余量同一功能逐步具体化。",
+          "increment": "历史信息新增；current_use与直接讲解重复"
+        },
+        "issues": []
+      },
+      {
+        "id": "context",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "英文原句及中文核对：The plan includes a two-day buffer for review.",
+          "completion": "整句、中文、当前抓手齐全，时态、情态和对象均与原句相符；没有冻结任务缺项。",
+          "readability": "译文简洁，能对应当前工作动作",
+          "increment": "客观上下文字段把当下词义放入完整句子即可；与讲解复现不构成此短字段的无效重复。"
+        },
+        "issues": []
+      },
+      {
+        "id": "additionalSenses",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "核对附加项：暂存数据的缓冲区",
+          "completion": "展示已核实不同义或明确同族词、中英短释与词性；冻结契约未要求全词典或逐义独立例句。",
+          "readability": "所列“暂存数据的缓冲区”中文短释与英文对应，现有内容无需例句也读得懂。",
+          "increment": "新增相关义，未把完整词典作为承诺"
+        },
+        "issues": []
+      },
+      {
+        "id": "examples",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "逐句核对补充句“Keep a small buffer for unexpected costs.”及中文",
+          "completion": "全部已显示原卡学习例句及对应中文均核对，kind明确；不要求超出基线新增例句数量。",
+          "readability": "英文简短，译文与所选用法吻合",
+          "increment": "补充不同搭配，但场景与前五区略重合"
+        },
+        "issues": []
+      },
+      {
+        "id": "copyPayload",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "冻结负载为buffer及【深析】buffer",
+          "completion": "已核对冻结的term与【深析】+term两类负载。浏览器成功/拒绝测试属于独立功能门禁，不是此文本模块缺项。",
+          "readability": "短负载清楚，原文标签仍需遵循原型约定",
+          "increment": "按客观短字段例外，负载准确、清楚、无冗余即完成交接功能；不能要求生产全文复制来拿高分。"
+        },
+        "issues": []
+      }
+    ],
+    "sourceChecks": [
+      {
+        "sourceId": "lexical",
+        "verdict": "SUPPORTED",
+        "note": "独立读取https://www.oxfordlearnersdictionaries.com/definition/english/buffer_1，核对buffer词性、英式音标及当前/附加义；场景回应未假装原文。"
+      },
+      {
+        "sourceId": "etym",
+        "verdict": "SUPPORTED",
+        "note": "独立读取https://www.etymonline.com/word/buffer：吸收冲击装置到比喻用法有据；按作者当前段落核对。"
+      },
+      {
+        "sourceId": "method",
+        "verdict": "SUPPORTED",
+        "note": "独立读取https://www.apm.org.uk/resources/what-is-project-management/what-is-scheduling-in-project-management/正文：逻辑依赖、活动顺序及critical-chain缓冲支持教学整理。"
+      }
+    ],
+    "calibration": {
+      "at": "2026-11-04",
+      "contentChanged": false
+    }
+  },
+  {
+    "cardId": "V20261012-011",
+    "reviewer": "whole50_reviewer_group1",
+    "reviewedAt": "2026-11-04",
+    "ruleVersion": "whole-card/1",
+    "fingerprint": "2798c3944f88a7ddc27c06b6b0f25d3c952a71c27f26e0d7d31ac89e128ab004",
+    "modules": [
+      {
+        "id": "headword",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "Oxford英式/ˈsiːkwəns/与当前n.逐项对应，the correct sequence搭配自然。",
+          "completion": "冻结词头要求音标、词性、核心义与搭配均有，未要求额外语音或完整词法标签；旧名词标签扣分不适用于此任务。",
+          "readability": "音标、词性、短搭配分工明确，客观短字段可直接扫读。",
+          "increment": "依短字段例外，准确清晰无冗余即足够；提供发音和搭配，不强加长解释。"
+        },
+        "issues": []
+      },
+      {
+        "id": "currentSense",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "当前语境采用“行动或步骤的先后顺序”，与原句相符",
+          "completion": "“行动或步骤的先后顺序”和英文释义及词性齐全；本组皆单词，不人为拆词，正好覆盖当前理解任务。",
+          "readability": "中文义直接可懂",
+          "increment": "依客观短字段规则，该区准确给出当下所需中英义即可，不因与大字释义相近扣分。"
+        },
+        "issues": []
+      },
+      {
+        "id": "directExplanation",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "sequence强调先后衔接。原句不是重新列出还有什么工作，而是要商定剩下这些活动按什么次序进行；日期和持续多久则还需要另行排程。",
+          "completion": "已解释词在当前任务中的用途，未捏造实际事件",
+          "readability": "先后衔接与时间日期分开，解释一直围绕剩余活动。",
+          "increment": "比释义说明目的；与词源current_use复现"
+        },
+        "issues": []
+      },
+      {
+        "id": "etymology",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "sequi与宗教音乐及后来次序用法有据",
+          "completion": "有据历史、明确现代联系、回到当前用法三项均完整且边界明确；历史只讲母词时已诚实限定，不强求不存在的整个术语起源。",
+          "readability": "宗教音乐、按次序系列和步骤排期跨领域转换，三段有负担。",
+          "increment": "历史信息新增；current_use与直接讲解重复"
+        },
+        "issues": []
+      },
+      {
+        "id": "context",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "英文原句及中文核对：Let's agree on the sequence of the remaining activities.",
+          "completion": "整句、中文、当前抓手齐全，时态、情态和对象均与原句相符；没有冻结任务缺项。",
+          "readability": "译文简洁，能对应当前工作动作",
+          "increment": "客观上下文字段把当下词义放入完整句子即可；与讲解复现不构成此短字段的无效重复。"
+        },
+        "issues": []
+      },
+      {
+        "id": "additionalSenses",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "核对附加项：按特定次序排列的一组事物或事件",
+          "completion": "展示已核实不同义或明确同族词、中英短释与词性；冻结契约未要求全词典或逐义独立例句。",
+          "readability": "所列“按特定次序排列的一组事物或事件”中文短释与英文对应，现有内容无需例句也读得懂。",
+          "increment": "新增相关义，未把完整词典作为承诺"
+        },
+        "issues": []
+      },
+      {
+        "id": "examples",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "逐句核对补充句“The assembly sequence has changed.”及中文",
+          "completion": "全部已显示原卡学习例句及对应中文均核对，kind明确；不要求超出基线新增例句数量。",
+          "readability": "英文简短，译文与所选用法吻合",
+          "increment": "补充不同搭配，但场景与前五区略重合"
+        },
+        "issues": []
+      },
+      {
+        "id": "copyPayload",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "冻结负载为sequence及【深析】sequence",
+          "completion": "已核对冻结的term与【深析】+term两类负载。浏览器成功/拒绝测试属于独立功能门禁，不是此文本模块缺项。",
+          "readability": "短负载清楚，原文标签仍需遵循原型约定",
+          "increment": "按客观短字段例外，负载准确、清楚、无冗余即完成交接功能；不能要求生产全文复制来拿高分。"
+        },
+        "issues": []
+      }
+    ],
+    "sourceChecks": [
+      {
+        "sourceId": "lexical",
+        "verdict": "SUPPORTED",
+        "note": "独立读取https://www.oxfordlearnersdictionaries.com/definition/english/sequence_1，核对sequence词性、英式音标及当前/附加义；场景回应未假装原文。"
+      },
+      {
+        "sourceId": "etym",
+        "verdict": "SUPPORTED",
+        "note": "独立读取https://www.etymonline.com/word/sequence：sequi与宗教音乐及后来次序用法有据；按作者当前段落核对。"
+      },
+      {
+        "sourceId": "method",
+        "verdict": "SUPPORTED",
+        "note": "独立读取https://www.apm.org.uk/resources/what-is-project-management/what-is-scheduling-in-project-management/正文：逻辑依赖、活动顺序及critical-chain缓冲支持教学整理。"
+      }
+    ],
+    "calibration": {
+      "at": "2026-11-04",
+      "contentChanged": false
+    }
+  },
+  {
+    "cardId": "V20261012-012",
+    "reviewer": "whole50_reviewer_group1",
+    "reviewedAt": "2026-11-04",
+    "ruleVersion": "whole-card/1",
+    "fingerprint": "4dc71d0544c4d16f569c9db9ffab8c4182cc0f7583ffbcd09b423526bc8c9022",
+    "modules": [
+      {
+        "id": "headword",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "Oxford英式/kəˈpæsəti/与当前n.逐项对应，available capacity搭配自然。",
+          "completion": "冻结词头要求音标、词性、核心义与搭配均有，未要求额外语音或完整词法标签；旧名词标签扣分不适用于此任务。",
+          "readability": "音标、词性、短搭配分工明确，客观短字段可直接扫读。",
+          "increment": "依短字段例外，准确清晰无冗余即足够；提供发音和搭配，不强加长解释。"
+        },
+        "issues": []
+      },
+      {
+        "id": "currentSense",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "当前语境采用“团队或系统能够承担工作的能力与数量”，与原句相符",
+          "completion": "“团队或系统能够承担工作的能力与数量”和英文释义及词性齐全；本组皆单词，不人为拆词，正好覆盖当前理解任务。",
+          "readability": "中文义直接可懂",
+          "increment": "依客观短字段规则，该区准确给出当下所需中英义即可，不因与大字释义相近扣分。"
+        },
+        "issues": []
+      },
+      {
+        "id": "directExplanation",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "capacity在这里谈团队能承接多少工作。原句说不足以启动两个项目，可能涉及人力、时间或其他资源；需要问清哪部分不足，而不是立刻判断团队技术差。",
+          "completion": "已解释词在当前任务中的用途，未捏造实际事件",
+          "readability": "承接多少后给人力时间可能性，再提醒别先判技术差，指代清楚。",
+          "increment": "比释义说明目的；与词源current_use复现"
+        },
+        "issues": []
+      },
+      {
+        "id": "etymology",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "法语拉丁语容纳能力与早期一般能力有据",
+          "completion": "有据历史、明确现代联系、回到当前用法三项均完整且边界明确；历史只讲母词时已诚实限定，不强求不存在的整个术语起源。",
+          "readability": "容纳与早期能力的双线限定较多，随后团队余量较直观。",
+          "increment": "历史信息新增；current_use与直接讲解重复"
+        },
+        "issues": []
+      },
+      {
+        "id": "context",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "英文原句及中文核对：We do not have enough capacity to start both projects.",
+          "completion": "整句、中文、当前抓手齐全，时态、情态和对象均与原句相符；没有冻结任务缺项。",
+          "readability": "译文简洁，能对应当前工作动作",
+          "increment": "客观上下文字段把当下词义放入完整句子即可；与讲解复现不构成此短字段的无效重复。"
+        },
+        "issues": []
+      },
+      {
+        "id": "additionalSenses",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "核对附加项：容器或空间能够容纳的量",
+          "completion": "展示已核实不同义或明确同族词、中英短释与词性；冻结契约未要求全词典或逐义独立例句。",
+          "readability": "所列“容器或空间能够容纳的量”中文短释与英文对应，现有内容无需例句也读得懂。",
+          "increment": "新增相关义，未把完整词典作为承诺"
+        },
+        "issues": []
+      },
+      {
+        "id": "examples",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "逐句核对补充句“The plant is operating at full capacity.”及中文",
+          "completion": "全部已显示原卡学习例句及对应中文均核对，kind明确；不要求超出基线新增例句数量。",
+          "readability": "英文简短，译文与所选用法吻合",
+          "increment": "补充不同搭配，但场景与前五区略重合"
+        },
+        "issues": []
+      },
+      {
+        "id": "copyPayload",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "冻结负载为capacity及【深析】capacity",
+          "completion": "已核对冻结的term与【深析】+term两类负载。浏览器成功/拒绝测试属于独立功能门禁，不是此文本模块缺项。",
+          "readability": "短负载清楚，原文标签仍需遵循原型约定",
+          "increment": "按客观短字段例外，负载准确、清楚、无冗余即完成交接功能；不能要求生产全文复制来拿高分。"
+        },
+        "issues": []
+      }
+    ],
+    "sourceChecks": [
+      {
+        "sourceId": "lexical",
+        "verdict": "SUPPORTED",
+        "note": "独立读取https://www.oxfordlearnersdictionaries.com/definition/english/capacity，核对capacity词性、英式音标及当前/附加义；场景回应未假装原文。"
+      },
+      {
+        "sourceId": "etym",
+        "verdict": "SUPPORTED",
+        "note": "独立读取https://www.etymonline.com/word/capacity：法语拉丁语容纳能力与早期一般能力有据；按作者当前段落核对。"
+      },
+      {
+        "sourceId": "method",
+        "verdict": "SUPPORTED",
+        "note": "独立读取https://www.apm.org.uk/blog/what-is-resource-management/正文：资源获取分配与有效使用支持教学整理。"
+      }
+    ],
+    "calibration": {
+      "at": "2026-11-04",
+      "contentChanged": false
+    }
+  },
+  {
+    "cardId": "V20261012-013",
+    "reviewer": "whole50_reviewer_group1",
+    "reviewedAt": "2026-11-04",
+    "ruleVersion": "whole-card/1",
+    "fingerprint": "e6633a7c6daf79f6fcf7a0c28094a08c3e1b264241b13a9bb49c30c0690fb1f9",
+    "modules": [
+      {
+        "id": "headword",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "Oxford英式/ˈæləkeɪt/与当前v.逐项对应，allocate resources搭配自然。",
+          "completion": "冻结词头要求音标、词性、核心义与搭配均有，未要求额外语音或完整词法标签；旧名词标签扣分不适用于此任务。",
+          "readability": "音标、词性、短搭配分工明确，客观短字段可直接扫读。",
+          "increment": "依短字段例外，准确清晰无冗余即足够；提供发音和搭配，不强加长解释。"
+        },
+        "issues": []
+      },
+      {
+        "id": "currentSense",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "当前语境采用“把时间、人员或资源分配给某项工作”，与原句相符",
+          "completion": "“把时间、人员或资源分配给某项工作”和英文释义及词性齐全；本组皆单词，不人为拆词，正好覆盖当前理解任务。",
+          "readability": "中文义直接可懂",
+          "increment": "依客观短字段规则，该区准确给出当下所需中英义即可，不因与大字释义相近扣分。"
+        },
+        "issues": []
+      },
+      {
+        "id": "directExplanation",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "allocate着重资源安排：把多少时间、资金或人员分给哪项工作。原句建议给初步评审增加时间份额，下一步应把“更多”说成具体时长。",
+          "completion": "已解释词在当前任务中的用途，未捏造实际事件",
+          "readability": "什么资源给什么工作后要求更多具体化，三问有连贯行动。",
+          "increment": "比释义说明目的；与词源current_use复现"
+        },
+        "issues": []
+      },
+      {
+        "id": "etymology",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "allocare含locare放置，历史与现代份额分开",
+          "completion": "有据历史、明确现代联系、回到当前用法三项均完整且边界明确；历史只讲母词时已诚实限定，不强求不存在的整个术语起源。",
+          "readability": "allocare/放置历史再到时间份额和评审，外语形式有少量负担。",
+          "increment": "历史信息新增；current_use与直接讲解重复"
+        },
+        "issues": []
+      },
+      {
+        "id": "context",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "英文原句及中文核对：We should allocate more time to the initial review.",
+          "completion": "整句、中文、当前抓手齐全，时态、情态和对象均与原句相符；没有冻结任务缺项。",
+          "readability": "译文简洁，能对应当前工作动作",
+          "increment": "客观上下文字段把当下词义放入完整句子即可；与讲解复现不构成此短字段的无效重复。"
+        },
+        "issues": []
+      },
+      {
+        "id": "additionalSenses",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "核对附加项：为特定用途分配的份额；分配行为",
+          "completion": "展示已核实不同义或明确同族词、中英短释与词性；冻结契约未要求全词典或逐义独立例句。",
+          "readability": "所列“为特定用途分配的份额；分配行为”中文短释与英文对应，现有内容无需例句也读得懂。",
+          "increment": "新增相关义，未把完整词典作为承诺"
+        },
+        "issues": []
+      },
+      {
+        "id": "examples",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "逐句核对补充句“Allocate two engineers to the trial.”及中文",
+          "completion": "全部已显示原卡学习例句及对应中文均核对，kind明确；不要求超出基线新增例句数量。",
+          "readability": "英文简短，译文与所选用法吻合",
+          "increment": "补充不同搭配，但场景与前五区略重合"
+        },
+        "issues": []
+      },
+      {
+        "id": "copyPayload",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "冻结负载为allocate及【深析】allocate",
+          "completion": "已核对冻结的term与【深析】+term两类负载。浏览器成功/拒绝测试属于独立功能门禁，不是此文本模块缺项。",
+          "readability": "短负载清楚，原文标签仍需遵循原型约定",
+          "increment": "按客观短字段例外，负载准确、清楚、无冗余即完成交接功能；不能要求生产全文复制来拿高分。"
+        },
+        "issues": []
+      }
+    ],
+    "sourceChecks": [
+      {
+        "sourceId": "lexical",
+        "verdict": "SUPPORTED",
+        "note": "独立读取https://www.oxfordlearnersdictionaries.com/definition/english/allocate，核对allocate词性、英式音标及当前/附加义；场景回应未假装原文。"
+      },
+      {
+        "sourceId": "etym",
+        "verdict": "SUPPORTED",
+        "note": "独立读取https://www.etymonline.com/word/allocate：allocare含locare放置，历史与现代份额分开；按作者当前段落核对。"
+      },
+      {
+        "sourceId": "extra",
+        "verdict": "SUPPORTED",
+        "note": "独立读取https://www.oxfordlearnersdictionaries.com/definition/english/allocation，核对为特定用途分配的份额；分配行为；场景回应未假装原文。"
+      },
+      {
+        "sourceId": "method",
+        "verdict": "SUPPORTED",
+        "note": "独立读取https://www.apm.org.uk/blog/what-is-resource-management/正文：资源获取分配与有效使用支持教学整理。"
+      }
+    ],
+    "calibration": {
+      "at": "2026-11-04",
+      "contentChanged": false
+    }
+  },
+  {
+    "cardId": "V20261012-014",
+    "reviewer": "whole50_reviewer_group1",
+    "reviewedAt": "2026-11-04",
+    "ruleVersion": "whole-card/1",
+    "fingerprint": "70b2d0e12dcd466cd103614a42dfa5bbf276ff85e38451705017404393c1d9f7",
+    "modules": [
+      {
+        "id": "headword",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "Oxford英式/ˈdelɪɡeɪt/与当前v.逐项对应，delegate a task搭配自然。",
+          "completion": "冻结词头要求音标、词性、核心义与搭配均有，未要求额外语音或完整词法标签；旧名词标签扣分不适用于此任务。",
+          "readability": "音标、词性、短搭配分工明确，客观短字段可直接扫读。",
+          "increment": "依短字段例外，准确清晰无冗余即足够；提供发音和搭配，不强加长解释。"
+        },
+        "issues": []
+      },
+      {
+        "id": "currentSense",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "当前语境采用“把具体任务及适当权限交给别人”，与原句相符",
+          "completion": "“把具体任务及适当权限交给别人”和英文释义及词性齐全；本组皆单词，不人为拆词，正好覆盖当前理解任务。",
+          "readability": "中文义直接可懂",
+          "increment": "依客观短字段规则，该区准确给出当下所需中英义即可，不因与大字释义相近扣分。"
+        },
+        "issues": []
+      },
+      {
+        "id": "directExplanation",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "delegate说明由别人代为承担部分工作或职责。原句提出把数据收集交给另一位成员；要让交接可执行，还需说清范围、完成时间和遇到问题找谁。",
+          "completion": "已解释词在当前任务中的用途，未捏造实际事件",
+          "readability": "代为承担后直接回数据收集，再列范围时间求助人，概念稍多但一致。",
+          "increment": "比释义说明目的；与词源current_use复现"
+        },
+        "issues": []
+      },
+      {
+        "id": "etymology",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "delegare派代表，动词授权用法有据",
+          "completion": "有据历史、明确现代联系、回到当前用法三项均完整且边界明确；历史只讲母词时已诚实限定，不强求不存在的整个术语起源。",
+          "readability": "派代表历史再到任务权限与交接，概念数量多于纯短定义。",
+          "increment": "历史信息新增；current_use与直接讲解重复"
+        },
+        "issues": []
+      },
+      {
+        "id": "context",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "英文原句及中文核对：You can delegate the data collection to another team member.",
+          "completion": "整句、中文、当前抓手齐全，时态、情态和对象均与原句相符；没有冻结任务缺项。",
+          "readability": "译文简洁，能对应当前工作动作",
+          "increment": "客观上下文字段把当下词义放入完整句子即可；与讲解复现不构成此短字段的无效重复。"
+        },
+        "issues": []
+      },
+      {
+        "id": "additionalSenses",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "核对附加项：选派某人做某事",
+          "completion": "展示已核实不同义或明确同族词、中英短释与词性；冻结契约未要求全词典或逐义独立例句。",
+          "readability": "所列“选派某人做某事”中文短释与英文对应，现有内容无需例句也读得懂。",
+          "increment": "新增相关义，未把完整词典作为承诺"
+        },
+        "issues": []
+      },
+      {
+        "id": "examples",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "逐句核对补充句“Managers should delegate routine approvals.”及中文",
+          "completion": "全部已显示原卡学习例句及对应中文均核对，kind明确；不要求超出基线新增例句数量。",
+          "readability": "英文简短，译文与所选用法吻合",
+          "increment": "补充不同搭配，但场景与前五区略重合"
+        },
+        "issues": []
+      },
+      {
+        "id": "copyPayload",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "冻结负载为delegate及【深析】delegate",
+          "completion": "已核对冻结的term与【深析】+term两类负载。浏览器成功/拒绝测试属于独立功能门禁，不是此文本模块缺项。",
+          "readability": "短负载清楚，原文标签仍需遵循原型约定",
+          "increment": "按客观短字段例外，负载准确、清楚、无冗余即完成交接功能；不能要求生产全文复制来拿高分。"
+        },
+        "issues": []
+      }
+    ],
+    "sourceChecks": [
+      {
+        "sourceId": "lexical",
+        "verdict": "SUPPORTED",
+        "note": "独立读取https://www.oxfordlearnersdictionaries.com/definition/english/delegate_2，核对delegate词性、英式音标及当前/附加义；场景回应未假装原文。"
+      },
+      {
+        "sourceId": "etym",
+        "verdict": "SUPPORTED",
+        "note": "独立读取https://www.etymonline.com/word/delegate：delegare派代表，动词授权用法有据；按作者当前段落核对。"
+      },
+      {
+        "sourceId": "method",
+        "verdict": "SUPPORTED",
+        "note": "独立读取https://www.apm.org.uk/blog/seven-tips-on-how-to-delegate-effectively/正文：说明任务目的、给予工具资源及自主权支持教学整理。"
+      }
+    ],
+    "calibration": {
+      "at": "2026-11-04",
+      "contentChanged": false
+    }
+  },
+  {
+    "cardId": "V20261012-015",
+    "reviewer": "whole50_reviewer_group1",
+    "reviewedAt": "2026-11-04",
+    "ruleVersion": "whole-card/1",
+    "fingerprint": "9fac0242e9518c1a7471b9ca2c22b273efc4118026ccd6293505f3251fd1aaf4",
+    "modules": [
+      {
+        "id": "headword",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "Oxford英式/ˈəʊnəʃɪp/与当前n.逐项对应，take ownership搭配自然。",
+          "completion": "冻结词头要求音标、词性、核心义与搭配均有，未要求额外语音或完整词法标签；旧名词标签扣分不适用于此任务。",
+          "readability": "音标、词性、短搭配分工明确，客观短字段可直接扫读。",
+          "increment": "依短字段例外，准确清晰无冗余即足够；提供发音和搭配，不强加长解释。"
+        },
+        "issues": []
+      },
+      {
+        "id": "currentSense",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "当前语境采用“对事项负责并推动到结果的责任归属”，与原句相符",
+          "completion": "“对事项负责并推动到结果的责任归属”和英文释义及词性齐全；本组皆单词，不人为拆词，正好覆盖当前理解任务。",
+          "readability": "中文义直接可懂",
+          "increment": "依客观短字段规则，该区准确给出当下所需中英义即可，不因与大字释义相近扣分。"
+        },
+        "issues": []
+      },
+      {
+        "id": "directExplanation",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "在工作交流里，take ownership是主动承担并跟进某件事。原句问谁接手这项尚未结清的事项；重点是明确责任归属，不是讨论财产归谁所有。",
+          "completion": "已解释词在当前任务中的用途，未捏造实际事件",
+          "readability": "主动跟进与财产权简单对照，未结事项给出当前对象。",
+          "increment": "比释义说明目的；与词源current_use复现"
+        },
+        "issues": []
+      },
+      {
+        "id": "etymology",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "owner+-ship与所有状态一致，未当现代法律产权",
+          "completion": "有据历史、明确现代联系、回到当前用法三项均完整且边界明确；历史只讲母词时已诚实限定，不强求不存在的整个术语起源。",
+          "readability": "owner和-ship的状态联系到接住事项，再回未结事项，三段主线一致。",
+          "increment": "历史信息新增；current_use与直接讲解重复"
+        },
+        "issues": []
+      },
+      {
+        "id": "context",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "英文原句及中文核对：Who will take ownership of this open item?",
+          "completion": "整句、中文、当前抓手齐全，时态、情态和对象均与原句相符；没有冻结任务缺项。",
+          "readability": "译文简洁，能对应当前工作动作",
+          "increment": "客观上下文字段把当下词义放入完整句子即可；与讲解复现不构成此短字段的无效重复。"
+        },
+        "issues": []
+      },
+      {
+        "id": "additionalSenses",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "核对附加项：对财产或事物的所有权",
+          "completion": "展示已核实不同义或明确同族词、中英短释与词性；冻结契约未要求全词典或逐义独立例句。",
+          "readability": "所列“对财产或事物的所有权”中文短释与英文对应，现有内容无需例句也读得懂。",
+          "increment": "新增相关义，未把完整词典作为承诺"
+        },
+        "issues": []
+      },
+      {
+        "id": "examples",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "逐句核对补充句“Clear ownership prevents duplicated work.”及中文",
+          "completion": "全部已显示原卡学习例句及对应中文均核对，kind明确；不要求超出基线新增例句数量。",
+          "readability": "英文简短，译文与所选用法吻合",
+          "increment": "补充不同搭配，但场景与前五区略重合"
+        },
+        "issues": []
+      },
+      {
+        "id": "copyPayload",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "冻结负载为ownership及【深析】ownership",
+          "completion": "已核对冻结的term与【深析】+term两类负载。浏览器成功/拒绝测试属于独立功能门禁，不是此文本模块缺项。",
+          "readability": "短负载清楚，原文标签仍需遵循原型约定",
+          "increment": "按客观短字段例外，负载准确、清楚、无冗余即完成交接功能；不能要求生产全文复制来拿高分。"
+        },
+        "issues": []
+      }
+    ],
+    "sourceChecks": [
+      {
+        "sourceId": "lexical",
+        "verdict": "SUPPORTED",
+        "note": "独立读取https://www.oxfordlearnersdictionaries.com/definition/english/ownership，核对ownership词性、英式音标及当前/附加义；场景回应未假装原文。"
+      },
+      {
+        "sourceId": "etym",
+        "verdict": "SUPPORTED",
+        "note": "独立读取https://www.etymonline.com/word/ownership：owner+-ship与所有状态一致，未当现代法律产权；按作者当前段落核对。"
+      }
+    ],
+    "calibration": {
+      "at": "2026-11-04",
+      "contentChanged": false
+    }
+  },
+  {
+    "cardId": "V20261012-016",
+    "reviewer": "whole50_reviewer_group1",
+    "reviewedAt": "2026-11-04",
+    "ruleVersion": "whole-card/1",
+    "fingerprint": "d459a12089fc25b276d8900ce6e930cddf7dcefd89632dda831ff90b155f7776",
+    "modules": [
+      {
+        "id": "headword",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "Oxford英式/əˈkaʊntəbl/与当前adj.逐项对应，accountable for the outcome搭配自然。",
+          "completion": "冻结词头要求音标、词性、核心义与搭配均有，未要求额外语音或完整词法标签；旧名词标签扣分不适用于此任务。",
+          "readability": "音标、词性、短搭配分工明确，客观短字段可直接扫读。",
+          "increment": "依短字段例外，准确清晰无冗余即足够；提供发音和搭配，不强加长解释。"
+        },
+        "issues": []
+      },
+      {
+        "id": "currentSense",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "当前语境采用“需要对最终结果作出解释并承担责任的”，与原句相符",
+          "completion": "“需要对最终结果作出解释并承担责任的”和英文释义及词性齐全；本组皆单词，不人为拆词，正好覆盖当前理解任务。",
+          "readability": "中文义直接可懂",
+          "increment": "依客观短字段规则，该区准确给出当下所需中英义即可，不因与大字释义相近扣分。"
+        },
+        "issues": []
+      },
+      {
+        "id": "directExplanation",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "重点不只是“有人做了”，而是“谁需要交代这个决定及其理由”。别人问起为何这样决定时，被指定 accountable 的人要能说明。",
+          "completion": "已解释词在当前任务中的用途，未捏造实际事件",
+          "readability": "直接讲解以决定责任及需要解释作联系，未把责任俗化为背锅。",
+          "increment": "比释义说明目的；与词源current_use复现"
+        },
+        "issues": []
+      },
+      {
+        "id": "etymology",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "acontable与作交代/受托说明有据",
+          "completion": "有据历史、明确现代联系、回到当前用法三项均完整且边界明确；历史只讲母词时已诚实限定，不强求不存在的整个术语起源。",
+          "readability": "古法语、受托财物解释、责任对象三层解释充分但字词较密。",
+          "increment": "历史信息新增；current_use与直接讲解重复"
+        },
+        "issues": []
+      },
+      {
+        "id": "context",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "英文原句及中文核对：One person must be accountable for the final decision.",
+          "completion": "整句、中文、当前抓手齐全，时态、情态和对象均与原句相符；没有冻结任务缺项。",
+          "readability": "译文简洁，能对应当前工作动作",
+          "increment": "客观上下文字段把当下词义放入完整句子即可；与讲解复现不构成此短字段的无效重复。"
+        },
+        "issues": []
+      },
+      {
+        "id": "additionalSenses",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "核对附加项：需要承担责任并说明所作所为的状态或制度",
+          "completion": "展示已核实不同义或明确同族词、中英短释与词性；冻结契约未要求全词典或逐义独立例句。",
+          "readability": "所列“需要承担责任并说明所作所为的状态或制度”中文短释与英文对应，现有内容无需例句也读得懂。",
+          "increment": "新增相关义，未把完整词典作为承诺"
+        },
+        "issues": []
+      },
+      {
+        "id": "examples",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "逐句核对补充句“The director is accountable for quality.”及中文",
+          "completion": "全部已显示原卡学习例句及对应中文均核对，kind明确；不要求超出基线新增例句数量。",
+          "readability": "英文简短，译文与所选用法吻合",
+          "increment": "补充不同搭配，但场景与前五区略重合"
+        },
+        "issues": []
+      },
+      {
+        "id": "copyPayload",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "冻结负载为accountable及【深析】accountable",
+          "completion": "已核对冻结的term与【深析】+term两类负载。浏览器成功/拒绝测试属于独立功能门禁，不是此文本模块缺项。",
+          "readability": "短负载清楚，原文标签仍需遵循原型约定",
+          "increment": "按客观短字段例外，负载准确、清楚、无冗余即完成交接功能；不能要求生产全文复制来拿高分。"
+        },
+        "issues": []
+      }
+    ],
+    "sourceChecks": [
+      {
+        "sourceId": "etym",
+        "verdict": "SUPPORTED",
+        "note": "独立读取https://www.etymonline.com/word/accountable：acontable与作交代/受托说明有据；按作者当前段落核对。"
+      },
+      {
+        "sourceId": "lex",
+        "verdict": "SUPPORTED",
+        "note": "独立读取https://www.oxfordlearnersdictionaries.com/definition/english/accountable，核对accountable词性、英式音标及当前/附加义；场景回应未假装原文。"
+      }
+    ],
+    "calibration": {
+      "at": "2026-11-04",
+      "contentChanged": false
+    }
+  },
+  {
+    "cardId": "V20261012-017",
+    "reviewer": "whole50_reviewer_group1",
+    "reviewedAt": "2026-11-04",
+    "ruleVersion": "whole-card/1",
+    "fingerprint": "a0063ea24ff0b2308f188f51c67ece442623a354430941440600b24b7a220b54",
+    "modules": [
+      {
+        "id": "headword",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "Oxford英式/ˈdedlaɪn/与当前n.逐项对应，meet a deadline搭配自然。",
+          "completion": "冻结词头要求音标、词性、核心义与搭配均有，未要求额外语音或完整词法标签；旧名词标签扣分不适用于此任务。",
+          "readability": "音标、词性、短搭配分工明确，客观短字段可直接扫读。",
+          "increment": "依短字段例外，准确清晰无冗余即足够；提供发音和搭配，不强加长解释。"
+        },
+        "issues": []
+      },
+      {
+        "id": "currentSense",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "当前语境采用“必须完成某事的最后期限”，与原句相符",
+          "completion": "“必须完成某事的最后期限”和英文释义及词性齐全；本组皆单词，不人为拆词，正好覆盖当前理解任务。",
+          "readability": "中文义直接可懂",
+          "increment": "依客观短字段规则，该区准确给出当下所需中英义即可，不因与大字释义相近扣分。"
+        },
+        "issues": []
+      },
+      {
+        "id": "directExplanation",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "deadline说的是必须完成某事的最晚时间。本句把“今天要决定”和“之后按期完成”连起来；today是作决定的时点，未必就是最终截止日。",
+          "completion": "已解释词在当前任务中的用途，未捏造实际事件",
+          "readability": "最晚点后把今天决定与最终截止分清，两个时间角色直观。",
+          "increment": "比释义说明目的；与词源current_use复现"
+        },
+        "issues": []
+      },
+      {
+        "id": "etymology",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "1919报业时间上限，有可能联系旧禁越线而非确定链条",
+          "completion": "有据历史、明确现代联系、回到当前用法三项均完整且边界明确；历史只讲母词时已诚实限定，不强求不存在的整个术语起源。",
+          "readability": "报业时间限制、可能旧禁越线到日历类比，历史不确定限定增加阅读层次。",
+          "increment": "历史信息新增；current_use与直接讲解重复"
+        },
+        "issues": []
+      },
+      {
+        "id": "context",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "英文原句及中文核对：We need a decision today to meet the deadline.",
+          "completion": "整句、中文、当前抓手齐全，时态、情态和对象均与原句相符；没有冻结任务缺项。",
+          "readability": "译文简洁，能对应当前工作动作",
+          "increment": "客观上下文字段把当下词义放入完整句子即可；与讲解复现不构成此短字段的无效重复。"
+        },
+        "issues": []
+      },
+      {
+        "id": "additionalSenses",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "Oxford deadline仅此常用相关义，0项诚实标明",
+          "completion": "已核查无更多适用相关义并明确0项；诚实完成范围声明，不应造义凑数。",
+          "readability": "0项及无更多已核实相关义的说明直接，不产生需要猜测的内容。",
+          "increment": "不造义项；本模块按诚实边界验收而非强加增量"
+        },
+        "issues": []
+      },
+      {
+        "id": "examples",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "逐句核对补充句“The submission deadline is Monday.”及中文",
+          "completion": "全部已显示原卡学习例句及对应中文均核对，kind明确；不要求超出基线新增例句数量。",
+          "readability": "英文简短，译文与所选用法吻合",
+          "increment": "补充不同搭配，但场景与前五区略重合"
+        },
+        "issues": []
+      },
+      {
+        "id": "copyPayload",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "冻结负载为deadline及【深析】deadline",
+          "completion": "已核对冻结的term与【深析】+term两类负载。浏览器成功/拒绝测试属于独立功能门禁，不是此文本模块缺项。",
+          "readability": "短负载清楚，原文标签仍需遵循原型约定",
+          "increment": "按客观短字段例外，负载准确、清楚、无冗余即完成交接功能；不能要求生产全文复制来拿高分。"
+        },
+        "issues": []
+      }
+    ],
+    "sourceChecks": [
+      {
+        "sourceId": "lexical",
+        "verdict": "SUPPORTED",
+        "note": "独立读取https://www.oxfordlearnersdictionaries.com/definition/english/deadline，核对deadline词性、英式音标及当前/附加义；场景回应未假装原文。"
+      },
+      {
+        "sourceId": "etym",
+        "verdict": "SUPPORTED",
+        "note": "独立读取https://www.etymonline.com/word/deadline：1919报业时间上限，有可能联系旧禁越线而非确定链条；按作者当前段落核对。"
+      }
+    ],
+    "calibration": {
+      "at": "2026-11-04",
+      "contentChanged": false
+    }
+  }
+]

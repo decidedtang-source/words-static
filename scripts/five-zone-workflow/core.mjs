@@ -32,7 +32,7 @@ export function validateEntry(e){
  check(new Set(groups.map(g=>g.text)).size===groups.length,'duplicate zone body');
  groups.forEach((g,i)=>{
   check(g.id===`g${i+1}`&&nonempty(g.text)&&g.title===titles[i],`zone ${i+1}: identity/body`);
-  for(const k of ['anchor','explanation','example','boundary'])check(nonempty(g.requirements?.[k]),`${g.id}: missing teaching task ${k}`);
+  for(const k of ['anchor','explanation','example','boundary'])check(nonempty(g.requirements?.[k])&&/[\p{L}\p{N}]/u.test(g.requirements[k]),`${g.id}: missing teaching task ${k}`);
   check(Array.isArray(g.sourceIds)&&g.sourceIds.length>0&&g.sourceIds.every(id=>sourceIds.has(id)),`${g.id}: source reference`);
   check(Array.isArray(g.claimIds)&&g.claimIds.length>0&&g.claimIds.every(id=>claimIds.has(id)),`${g.id}: claim reference`);
  });
@@ -88,4 +88,12 @@ export function runBatch(entries,receipts,previous={},limit=Infinity){
   state.entries[e.cardId]=old?.key===key?{...old,reused:true}:{...reviewEntry(e,r),key,reused:false};processed++;
  }
  return state;
+}
+export function reviewCoverage(e,r){
+ const audited=reviewEntry(e,r);
+ // Identity, provenance, source and front failures invalidate the shared approval foundation.
+ if(audited.errors.some(error=>!/^g[1-5]:/.test(error)))return {zones:0,claims:0};
+ const zones=audited.zones.filter(z=>!audited.errors.some(error=>error.startsWith(z.id+':'))).length;
+ const claims=e.claims.filter(c=>{const checks=(r?.sourceChecks||[]).filter(s=>s.claimId===c.id);return checks.length===1&&checks[0].verdict==='SUPPORTED'&&nonempty(checks[0].note)}).length;
+ return {zones,claims};
 }

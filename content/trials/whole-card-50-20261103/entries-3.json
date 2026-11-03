@@ -1,0 +1,4933 @@
+[
+  {
+    "cardId": "V20261012-055",
+    "term": "proposal",
+    "context": "Please review the proposal before tomorrow's discussion.",
+    "contextZh": "请在明天讨论前审阅提案。",
+    "gloss": "提案；建议方案",
+    "glossKind": "source_summary",
+    "pos": "n.",
+    "definitionEn": "an idea or plan offered for others to consider",
+    "definitionZh": "供他人考虑的建议或方案",
+    "contextTakeaway": "提案还在讨论阶段，审阅不等于批准。",
+    "bridgeText": "在工作讨论里，proposal 是拿出来请别人考虑的方案。它通常不只说“我有个想法”，还会说明准备做什么、为什么值得做，让别人有内容可以审阅和讨论。",
+    "groups": [
+      {
+        "id": "g1",
+        "title": "先记住，再联系",
+        "text": "记住“把方案摆到桌上，让别人考虑”。propose 是提出，proposal 是提出的建议或方案；工作中连着记 review a proposal（审阅提案）。摆到桌上的东西还要讨论，所以 proposal 本身不表示大家已经同意。",
+        "requirements": {
+          "anchor": "把方案摆到桌上",
+          "explanation": "让别人考虑",
+          "example": "review a proposal",
+          "boundary": "不表示大家已经同意"
+        },
+        "claimIds": [
+          "lexical",
+          "connection"
+        ],
+        "sourceIds": [
+          "lex"
+        ]
+      },
+      {
+        "id": "g2",
+        "title": "句法与概念",
+        "text": "Please review the proposal 是“请审阅这份方案”，review 是要做的动作，the proposal 是对象。before tomorrow’s discussion 给出时间要求：审阅应在明天讨论前完成。读这句时抓“做什么＋什么时候”，就不会只看到 proposal 而漏掉会前准备。",
+        "requirements": {
+          "anchor": "做什么＋什么时候",
+          "explanation": "审阅应在明天讨论前完成",
+          "example": "Please review the proposal",
+          "boundary": "漏掉会前准备"
+        },
+        "claimIds": [
+          "lexical",
+          "syntax"
+        ],
+        "sourceIds": [
+          "lex"
+        ]
+      },
+      {
+        "id": "g3",
+        "title": "辨析与英文邻居",
+        "text": "proposal 与 suggestion 都能表示建议。比如“改在周五开会”可以是一条 suggestion；把调整后的会议安排及理由整理给大家考虑，就常称 a proposal。区别是这里 proposal 更让人想到可审阅的方案，不是 suggestion 一定随意或 proposal 必须写成长文。常见搭配：submit a proposal（提交方案）。",
+        "requirements": {
+          "anchor": "都能表示建议",
+          "explanation": "更让人想到可审阅的方案",
+          "example": "改在周五开会",
+          "boundary": "proposal 必须写成长文"
+        },
+        "claimIds": [
+          "lexical",
+          "contrast"
+        ],
+        "sourceIds": [
+          "lex"
+        ]
+      },
+      {
+        "id": "g4",
+        "title": "这句话在做什么",
+        "text": "明天要讨论这份方案，说话者希望大家先看过再来。Please review 是请对方审阅，before tomorrow’s discussion 把时间要求说清楚；这句话是在安排会前准备。自编回应：I’ll read it tonight and bring my questions tomorrow.（我今晚看，明天带着问题来。）这样既接下任务，也说明准备如何完成。",
+        "requirements": {
+          "anchor": "明天要讨论这份方案",
+          "explanation": "安排会前准备",
+          "example": "I’ll read it tonight and bring my questions tomorrow.",
+          "boundary": "自编回应"
+        },
+        "claimIds": [
+          "lexical",
+          "action"
+        ],
+        "sourceIds": [
+          "lex"
+        ]
+      },
+      {
+        "id": "g5",
+        "title": "工作中可以这样说",
+        "text": "方案只有做法、没有理由时，可以请对方补充依据。自编：Could you add the reasons for this change to the proposal?（你能把这次改动的理由补进方案吗？）需要费用信息时，把 the reasons for this change 换成 the estimated cost；明确缺哪项信息，别人更容易补齐。",
+        "requirements": {
+          "anchor": "方案只有做法、没有理由",
+          "explanation": "请对方补充依据",
+          "example": "Could you add the reasons for this change to the proposal?",
+          "boundary": "把 the reasons for this change 换成"
+        },
+        "claimIds": [
+          "lexical",
+          "use"
+        ],
+        "sourceIds": [
+          "lex",
+          "lesson"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "lex",
+        "url": "https://www.collinsdictionary.com/us/dictionary/english/proposal",
+        "title": "proposal — Collins COBUILD",
+        "publisher": "HarperCollins",
+        "section": "COBUILD senses 1–2, lines 223–238",
+        "retrievalStatus": "full_page",
+        "accessedAt": "2026-11-03",
+        "evidence": "当前义为供人考虑决定的计划或想法，常正式或书面；可数名词。第二义为求婚。",
+        "summaryZh": "当前义为供人考虑决定的计划或想法，常正式或书面；可数名词。第二义为求婚。",
+        "supportedClaims": [
+          "当前义为供人考虑决定的计划或想法，常正式或书面；可数名词。第二义为求婚。"
+        ],
+        "adaptationType": "paraphrase",
+        "useAssessment": "仅保存原创教学转述及原站链接；未保存来源全文；例句另标自编。"
+      },
+      {
+        "id": "lesson",
+        "url": "https://www.cambridge.org/sites/default/files/media/documents/Complete%20Advanced%203rd%20Ed%20Unit%205%20Sample.pdf",
+        "title": "Complete Advanced — Writing Part 2: A proposal",
+        "publisher": "Cambridge University Press",
+        "section": "PDF page 10 / textbook page 60, Exam info lines 712–723",
+        "retrievalStatus": "full_page",
+        "accessedAt": "2026-11-03",
+        "evidence": "写作教材要求proposal提出建议并用事实支持，使读者考虑采取某行动；组织清楚，正式程度随读者而变。这里转为工作学习例子，不把考试要求说成所有proposal的强制定义。",
+        "summaryZh": "写作教材要求proposal提出建议并用事实支持，使读者考虑采取某行动；组织清楚，正式程度随读者而变。这里转为工作学习例子，不把考试要求说成所有proposal的强制定义。",
+        "supportedClaims": [
+          "写作教材要求proposal提出建议并用事实支持，使读者考虑采取某行动；组织清楚，正式程度随读者而变。这里转为工作学习例子，不把考试要求说成所有proposal的强制定义。"
+        ],
+        "adaptationType": "paraphrase",
+        "useAssessment": "仅保存原创教学转述及原站链接；未保存来源全文；例句另标自编。"
+      }
+    ],
+    "sourceLimitations": [
+      "前区释义、五区说明均为原创教学转述；语境沿用原公开词卡，回应、类比及工作例句为教学编写。",
+      "词源、音标和附加例句已纳入本批整页补充包，须以新的整页独立回执核验；旧五区批准不能替代。",
+      "更多区域只列已核实的不同义项或明确标注的同族词，不是完整词典。"
+    ],
+    "writer": "whole50_author3",
+    "contextKind": "existing_public_learning_example",
+    "templateVersion": "WORDS-STATIC-V3.1-FIVE-ZONE-SOURCE-FIRST",
+    "contentRevision": 3,
+    "claims": [
+      {
+        "id": "lexical",
+        "text": "proposal可数，当前指供考虑的方案或想法，也可表示求婚；正式或书面是常见倾向而非必要条件。",
+        "kind": "source_fact",
+        "sourceIds": [
+          "lex"
+        ],
+        "evidenceNote": "见对应sources.evidence的义项定位；定义为原创转述，不是逐字词典原文。"
+      },
+      {
+        "id": "connection",
+        "text": "记住“把方案摆到桌上，让别人考虑”。propose 是提出，proposal 是提出的建议或方案；工作中连着记 review a proposal（审阅提案）。摆到桌上的东西还要讨论，所以 proposal 本身不表示大家已经同意。",
+        "kind": "teaching_inference",
+        "sourceIds": [
+          "lex"
+        ],
+        "evidenceNote": "按已核实词义整理的记忆联系，正文标明类比或同族关联，不推断历史词源。"
+      },
+      {
+        "id": "syntax",
+        "text": "Please review the proposal 是“请审阅这份方案”，review 是要做的动作，the proposal 是对象。before tomorrow’s discussion 给出时间要求：审阅应在明天讨论前完成。读这句时抓“做什么＋什么时候”，就不会只看到 proposal 而漏掉会前准备。",
+        "kind": "teaching_inference",
+        "sourceIds": [
+          "lex"
+        ],
+        "evidenceNote": "以保留的完整例句分析结构；结构与解释对应，未把来源说成收录该自编句。"
+      },
+      {
+        "id": "contrast",
+        "text": "proposal与suggestion重叠依据Collins；较完整的工作方案说明参考Cambridge写作教材，例子及措辞比较为教学归纳。",
+        "kind": "teaching_inference",
+        "sourceIds": [
+          "lex",
+          "lesson"
+        ],
+        "evidenceNote": "区分词典明确事实与用于解释的情境对照；不把常见倾向写成绝对规则。"
+      },
+      {
+        "id": "action",
+        "text": "明天要讨论这份方案，说话者希望大家先看过再来。Please review 是请对方审阅，before tomorrow’s discussion 把时间要求说清楚；这句话是在安排会前准备。自编回应：I’ll read it tonight and bring my questions tomorrow.（我今晚看，明天带着问题来。）这样既接下任务，也说明准备如何完成。",
+        "kind": "teaching_inference",
+        "sourceIds": [
+          "lex"
+        ],
+        "evidenceNote": "从原句措辞提出话语行动解释，回应是显式自编；未编造用户业务事实。"
+      },
+      {
+        "id": "use",
+        "text": "方案只有做法、没有理由时，可以请对方补充依据。自编：Could you add the reasons for this change to the proposal?（你能把这次改动的理由补进方案吗？）需要费用信息时，把 the reasons for this change 换成 the estimated cost；明确缺哪项信息，别人更容易补齐。",
+        "kind": "authored_example",
+        "sourceIds": [
+          "lex",
+          "lesson"
+        ],
+        "evidenceNote": "自编工作表达及替换槽，需Reviewer核查英语自然度与当前义，不宣称来源提供这个原句。"
+      }
+    ],
+    "focusedEntries": [
+      {
+        "entry": {
+          "lemma": "proposal",
+          "pos": "n.",
+          "senses": [
+            {
+              "id": "proposal:current",
+              "glossZh": "供他人考虑的建议或方案",
+              "definitionEn": "an idea or plan offered for others to consider",
+              "sourceIds": [
+                "lex"
+              ]
+            }
+          ],
+          "source": "已核对来源的原创教学转述"
+        },
+        "sense": {
+          "id": "proposal:current",
+          "glossZh": "供他人考虑的建议或方案",
+          "definitionEn": "an idea or plan offered for others to consider",
+          "sourceIds": [
+            "lex"
+          ]
+        }
+      }
+    ],
+    "dictionaryEntries": [
+      {
+        "lemma": "proposal",
+        "pos": "n.",
+        "senses": [
+          {
+            "id": "proposal:current",
+            "glossZh": "供他人考虑的建议或方案",
+            "definitionEn": "an idea or plan offered for others to consider",
+            "sourceIds": [
+              "lex"
+            ]
+          }
+        ],
+        "source": "已核对来源的原创教学转述"
+      },
+      {
+        "lemma": "proposal",
+        "pos": "名词",
+        "senses": [
+          {
+            "id": "proposal:marriage",
+            "glossZh": "求婚；提出结婚的请求",
+            "definitionEn": "a request asking someone to marry you",
+            "sourceIds": [
+              "lex"
+            ]
+          }
+        ],
+        "source": "已核对来源的原创教学转述"
+      }
+    ],
+    "revisedBy": "root_integrator"
+  },
+  {
+    "cardId": "V20261012-056",
+    "term": "alternative",
+    "context": "We should consider an alternative if the date is too tight.",
+    "contextZh": "如果日期过紧，我们应考虑替代方案。",
+    "gloss": "替代方案",
+    "glossKind": "source_summary",
+    "pos": "n.",
+    "definitionEn": "another choice that can replace the current one",
+    "definitionZh": "可替代目前选择的另一个选项",
+    "contextTakeaway": "日期太紧时，应考虑另一个方案。",
+    "bridgeText": "当前安排太紧时，alternative 是另一个可考虑的选择。比如原日期做不到，可以考虑别的日期，也可以另拟做法；这个词没有替你决定具体换哪一项。",
+    "groups": [
+      {
+        "id": "g1",
+        "title": "先记住，再联系",
+        "text": "用“眼前这条路走不通，还有另一条吗”作记忆提示。这是学习联想，不是词源。记住 an alternative to the current plan：替代的是当前计划；并不自动表示新选择更好或已经被选定。",
+        "sourceIds": [
+          "lex"
+        ],
+        "claimIds": [
+          "lexical",
+          "connection"
+        ],
+        "requirements": {
+          "anchor": "用“眼前这条路走不通，还有另一条吗”作记忆提示。",
+          "explanation": "这是学习联想，不是词源。",
+          "example": "an alternative to the current plan",
+          "boundary": "并不自动表示新选择更好或已经被选定。"
+        }
+      },
+      {
+        "id": "g2",
+        "title": "句法与概念",
+        "text": "should consider 表示建议考虑，an alternative 是考虑的对象；if 引出“日期太紧”这一条件：在这种情况下，建议考虑另一个选择。alternative 此处作可数名词；整句没有指定要换日期、换资源还是换方案，不能替它补定。",
+        "sourceIds": [
+          "lex"
+        ],
+        "claimIds": [
+          "syntax"
+        ],
+        "requirements": {
+          "anchor": "should consider 表示建议考虑，an alternative 是考虑的对象；",
+          "explanation": "if 引出“日期太紧”这一条件：在这种情况下，建议考虑另一个选择。",
+          "example": "should consider ",
+          "boundary": "整句没有指定要换日期、换资源还是换方案，不能替它补定。"
+        }
+      },
+      {
+        "id": "g3",
+        "title": "辨析与英文邻居",
+        "text": "option 泛指可以选的项目，alternative 在这里更突出“换掉眼前安排的另一选择”。例如周三和周五都可以是 options；如果周三已经排定，周五就可以作为 an alternative。常用 alternative to，后面接被替代的安排。",
+        "sourceIds": [
+          "lex"
+        ],
+        "claimIds": [
+          "contrast"
+        ],
+        "requirements": {
+          "anchor": "option 泛指可以选的项目，alternative 在这里更突出“换掉眼前安排的另一选择”。",
+          "explanation": "例如周三和周五都可以是 options；",
+          "example": "option ",
+          "boundary": "常用 alternative to，后面接被替代的安排。"
+        }
+      },
+      {
+        "id": "g4",
+        "title": "这句话在做什么",
+        "text": "这句话把日期过紧的担忧转成寻找别的选择。should consider 提出建议，if 指出在日期太紧的情况下提出这项建议，并未排除其他需要另找选择的情况。自编回应：Could Friday work instead?（改到周五可行吗？）回应提出可比较的候选日期，而没有替大家作最终决定。",
+        "sourceIds": [
+          "lex"
+        ],
+        "claimIds": [
+          "pragmatics"
+        ],
+        "requirements": {
+          "anchor": "这句话把日期过紧的担忧转成寻找别的选择。",
+          "explanation": "should consider 提出建议，if 指出在日期太紧的情况下提出这项建议，并未排除其他需要另找选择的情况。",
+          "example": "should consider ",
+          "boundary": "自编回应：Could Friday work instead?（改到周五可行吗？）回应提出可比较的候选日期，而没有替大家作最终决定。"
+        }
+      },
+      {
+        "id": "g5",
+        "title": "工作中可以这样说",
+        "text": "自编工作表达：Do we have an alternative to this supplier?（我们有可替代这家供应商的选择吗？）适合想先摸清备用选项时。问到 alternative 后仍应核对质量、交期等条件，不能把“有替代”说成“能直接替换”。",
+        "sourceIds": [
+          "lex"
+        ],
+        "claimIds": [
+          "transfer"
+        ],
+        "requirements": {
+          "anchor": "自编工作表达：Do we have an alternative to this supplier?（我们有可替代这家供应商的选择吗？）适合想先摸清备用选项时。",
+          "explanation": "问到 alternative 后仍应核对质量、交期等条件，不能把“有替代”说成“能直接替换”。",
+          "example": "Do we have an alternative to this supplier",
+          "boundary": "问到 alternative 后仍应核对质量、交期等条件，不能把“有替代”说成“能直接替换”。"
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "lex",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/alternative_1",
+        "title": "Oxford · alternative",
+        "publisher": "Oxford University Press",
+        "accessedAt": "2026-11-03",
+        "section": "Headword, part of speech, current contextual sense and usage patterns",
+        "retrievalStatus": "full_page",
+        "evidence": "alternative本句义：可替代目前选择的另一个选项。核对n.和consider an alternative；相关义项：另见extra条目。中文与英文定义为原创转述。",
+        "supportedClaims": [
+          "alternative本句义：可替代目前选择的另一个选项。核对n.和consider an alternative；相关义项：另见extra条目。中文与英文定义为原创转述。"
+        ],
+        "summaryZh": "alternative本句义：可替代目前选择的另一个选项。核对n.和consider an alternative；相关义项：另见extra条目。中文与英文定义为原创转述。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创教学转述及链接；不复制词典全文"
+      },
+      {
+        "id": "extra",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/alternative_2",
+        "title": "Oxford · alternative (adj.)",
+        "publisher": "Oxford University Press",
+        "accessedAt": "2026-11-03",
+        "section": "Headword, part of speech and additional sense",
+        "retrievalStatus": "full_page",
+        "evidence": "非传统的；不同于通常做法的；different from the usual or conventional approach",
+        "supportedClaims": [
+          "非传统的；不同于通常做法的；different from the usual or conventional approach"
+        ],
+        "summaryZh": "非传统的；不同于通常做法的；different from the usual or conventional approach",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创教学转述及链接；不复制词典全文"
+      }
+    ],
+    "sourceLimitations": [
+      "主例句沿用公开词卡；场景分析与回应为教学整理，非真实工作记录。",
+      "当前义及扩展义为有据原创转述；非完整词典。",
+      "词源、IPA与全页例句见单独supplement，旧回执不适用于本版。"
+    ],
+    "writer": "whole50_author3",
+    "contextKind": "existing_public_learning_example",
+    "templateVersion": "WORDS-STATIC-V3.1-FIVE-ZONE-SOURCE-FIRST",
+    "contentRevision": 3,
+    "dictionaryEntries": [
+      {
+        "lemma": "alternative",
+        "pos": "n.",
+        "senses": [
+          {
+            "id": "alternative:current",
+            "glossZh": "可替代目前选择的另一个选项",
+            "definitionEn": "another choice that can replace the current one",
+            "sourceIds": [
+              "lex"
+            ]
+          }
+        ],
+        "source": "有据原创教学转述"
+      },
+      {
+        "lemma": "alternative",
+        "pos": "adj.",
+        "senses": [
+          {
+            "id": "alternative:extra",
+            "glossZh": "非传统的；不同于通常做法的",
+            "definitionEn": "different from the usual or conventional approach",
+            "sourceIds": [
+              "extra"
+            ]
+          }
+        ],
+        "source": "有据原创教学转述"
+      }
+    ],
+    "focusedEntries": [
+      {
+        "entry": {
+          "lemma": "alternative",
+          "pos": "n.",
+          "senses": [
+            {
+              "id": "alternative:current",
+              "glossZh": "可替代目前选择的另一个选项",
+              "definitionEn": "another choice that can replace the current one",
+              "sourceIds": [
+                "lex"
+              ]
+            }
+          ],
+          "source": "有据原创教学转述"
+        },
+        "sense": {
+          "id": "alternative:current",
+          "glossZh": "可替代目前选择的另一个选项",
+          "definitionEn": "another choice that can replace the current one",
+          "sourceIds": [
+            "lex"
+          ]
+        }
+      }
+    ],
+    "claims": [
+      {
+        "id": "lexical",
+        "text": "alternative当前义为可替代目前选择的另一个选项；扩展相关义为非传统的；不同于通常做法的",
+        "kind": "source_fact",
+        "sourceIds": [
+          "lex",
+          "extra"
+        ],
+        "evidenceNote": "词典所列词性/义项；中文与英文为原创转述，扩展词性明确。"
+      },
+      {
+        "id": "connection",
+        "text": "用“眼前这条路走不通，还有另一条吗”作记忆提示。这是学习联想，不是词源。记住 an alternative to the current plan：替代的是当前计划；并不自动表示新选择更好或已经被选定。",
+        "kind": "teaching_inference",
+        "sourceIds": [
+          "lex"
+        ],
+        "evidenceNote": "基于公开主例句和已核验词义的教学分析；情境对照/回应为自编，不是来源中的真实事件。"
+      },
+      {
+        "id": "syntax",
+        "text": "should consider 表示建议考虑，an alternative 是考虑的对象；if 引出“日期太紧”这一条件：在这种情况下，建议考虑另一个选择。alternative 此处作可数名词；整句没有指定要换日期、换资源还是换方案，不能替它补定。",
+        "kind": "teaching_inference",
+        "sourceIds": [
+          "lex"
+        ],
+        "evidenceNote": "基于公开主例句和已核验词义的教学分析；情境对照/回应为自编，不是来源中的真实事件。"
+      },
+      {
+        "id": "contrast",
+        "text": "option 泛指可以选的项目，alternative 在这里更突出“换掉眼前安排的另一选择”。例如周三和周五都可以是 options；如果周三已经排定，周五就可以作为 an alternative。常用 alternative to，后面接被替代的安排。",
+        "kind": "teaching_inference",
+        "sourceIds": [
+          "lex"
+        ],
+        "evidenceNote": "基于公开主例句和已核验词义的教学分析；情境对照/回应为自编，不是来源中的真实事件。"
+      },
+      {
+        "id": "pragmatics",
+        "text": "这句话把日期过紧的担忧转成寻找别的选择。should consider 提出建议，if 指出在日期太紧的情况下提出这项建议，并未排除其他需要另找选择的情况。自编回应：Could Friday work instead?（改到周五可行吗？）回应提出可比较的候选日期，而没有替大家作最终决定。",
+        "kind": "teaching_inference",
+        "sourceIds": [
+          "lex"
+        ],
+        "evidenceNote": "基于公开主例句和已核验词义的教学分析；情境对照/回应为自编，不是来源中的真实事件。"
+      },
+      {
+        "id": "transfer",
+        "text": "自编工作表达：Do we have an alternative to this supplier?（我们有可替代这家供应商的选择吗？）适合想先摸清备用选项时。问到 alternative 后仍应核对质量、交期等条件，不能把“有替代”说成“能直接替换”。",
+        "kind": "authored_example",
+        "sourceIds": [
+          "lex"
+        ],
+        "evidenceNote": "作者自编迁移表达，按当前义项及所给语法核验，不是真实工作事件。"
+      }
+    ],
+    "revisedBy": "root_integrator"
+  },
+  {
+    "cardId": "V20261012-057",
+    "term": "compromise",
+    "context": "We reached a compromise on the review schedule.",
+    "contextZh": "我们就评审时间表达成了折中方案。",
+    "gloss": "妥协；折中方案",
+    "glossKind": "source_summary",
+    "pos": "n.",
+    "definitionEn": "an agreement reached when sides give up some of their demands",
+    "definitionZh": "各方作出部分让步后达成的安排",
+    "contextTakeaway": "双方已就评审排期达成折中安排。",
+    "bridgeText": "本句说双方已经谈成一个折中安排。比如一方想周一评审，另一方想周五，最后接受周三；重点是各自调整要求后取得一致，而不是争论谁完全获胜。",
+    "groups": [
+      {
+        "id": "g1",
+        "title": "先记住，再联系",
+        "text": "记住“各让一点，找到能接受的安排”。把 reach a compromise（达成折中）和 compromise on the date（在日期上作妥协）联系起来。这里记的是共同安排，不是只让一方放弃要求。",
+        "sourceIds": [
+          "lex"
+        ],
+        "claimIds": [
+          "lexical",
+          "connection"
+        ],
+        "requirements": {
+          "anchor": "记住“各让一点，找到能接受的安排”。",
+          "explanation": "把 reach a compromise（达成折中）和 compromise on the date（在日期上作妥协）联系起来。",
+          "example": "reach a compromise",
+          "boundary": "这里记的是共同安排，不是只让一方放弃要求。"
+        }
+      },
+      {
+        "id": "g2",
+        "title": "句法与概念",
+        "text": "reached 是过去式，a compromise 是达成的结果；on the review schedule 指明谈妥的议题。句子只报告排期这一项取得折中，不保证预算、人员等其他问题也已解决，更没有交代让步细节。",
+        "sourceIds": [
+          "lex"
+        ],
+        "claimIds": [
+          "syntax"
+        ],
+        "requirements": {
+          "anchor": "reached 是过去式，a compromise 是达成的结果；",
+          "explanation": "on the review schedule 指明谈妥的议题。",
+          "example": "reached ",
+          "boundary": "句子只报告排期这一项取得折中，不保证预算、人员等其他问题也已解决，更没有交代让步细节。"
+        }
+      },
+      {
+        "id": "g3",
+        "title": "辨析与英文邻居",
+        "text": "agreement 泛指达成一致；compromise 进一步说明一致通常来自让步。例如双方一开始就都选周三，是 agreement；原本各有坚持、调整后选周三，才更像 compromise。常见 acceptable compromise，强调这个折中能被接受。",
+        "sourceIds": [
+          "lex"
+        ],
+        "claimIds": [
+          "contrast"
+        ],
+        "requirements": {
+          "anchor": "agreement 泛指达成一致；",
+          "explanation": "compromise 进一步说明一致通常来自让步。",
+          "example": "agreement ",
+          "boundary": "常见 acceptable compromise，强调这个折中能被接受。"
+        }
+      },
+      {
+        "id": "g4",
+        "title": "这句话在做什么",
+        "text": "We reached 把这句话说成结果汇报：评审日期已经谈出了折中。on the review schedule 指明谈妥的是哪件事。自编回应：What date did you agree on?（你们最后商定哪一天？）听者接着确认安排，就能据此更新日程。",
+        "sourceIds": [
+          "lex"
+        ],
+        "claimIds": [
+          "pragmatics"
+        ],
+        "requirements": {
+          "anchor": "We reached 把这句话说成结果汇报：评审日期已经谈出了折中。",
+          "explanation": "on the review schedule 指明谈妥的是哪件事。",
+          "example": "We reached ",
+          "boundary": "自编回应：What date did you agree on?（你们最后商定哪一天？）听者接着确认安排，就能据此更新日程。"
+        }
+      },
+      {
+        "id": "g5",
+        "title": "工作中可以这样说",
+        "text": "自编工作表达：Could we reach a compromise on the delivery schedule?（我们能就交付时间表达成折中吗？）适合双方安排不同、仍愿讨论调整时。随后说明自己能调整哪部分，让“折中”有具体内容，而非只要求对方让步。",
+        "sourceIds": [
+          "lex"
+        ],
+        "claimIds": [
+          "transfer"
+        ],
+        "requirements": {
+          "anchor": "自编工作表达：Could we reach a compromise on the delivery schedule?（我们能就交付时间表达成折中吗？）适合双方安排不同、仍愿讨论调整时。",
+          "explanation": "随后说明自己能调整哪部分，让“折中”有具体内容，而非只要求对方让步。",
+          "example": "Could we reach a compromise on the delivery schedule",
+          "boundary": "随后说明自己能调整哪部分，让“折中”有具体内容，而非只要求对方让步。"
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "lex",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/compromise_1",
+        "title": "Oxford · compromise",
+        "publisher": "Oxford University Press",
+        "accessedAt": "2026-11-03",
+        "section": "Headword, part of speech, current contextual sense and usage patterns",
+        "retrievalStatus": "full_page",
+        "evidence": "compromise本句义：各方作出部分让步后达成的安排。核对n.和reach a compromise；相关义项：另见extra条目。中文与英文定义为原创转述。",
+        "supportedClaims": [
+          "compromise本句义：各方作出部分让步后达成的安排。核对n.和reach a compromise；相关义项：另见extra条目。中文与英文定义为原创转述。"
+        ],
+        "summaryZh": "compromise本句义：各方作出部分让步后达成的安排。核对n.和reach a compromise；相关义项：另见extra条目。中文与英文定义为原创转述。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创教学转述及链接；不复制词典全文"
+      },
+      {
+        "id": "extra",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/compromise_2",
+        "title": "Oxford · compromise (v.)",
+        "publisher": "Oxford University Press",
+        "accessedAt": "2026-11-03",
+        "section": "Headword, part of speech and additional sense",
+        "retrievalStatus": "full_page",
+        "evidence": "危及；损害；put something valuable at risk or reduce its quality",
+        "supportedClaims": [
+          "危及；损害；put something valuable at risk or reduce its quality"
+        ],
+        "summaryZh": "危及；损害；put something valuable at risk or reduce its quality",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创教学转述及链接；不复制词典全文"
+      }
+    ],
+    "sourceLimitations": [
+      "主例句沿用公开词卡；场景分析与回应为教学整理，非真实工作记录。",
+      "当前义及扩展义为有据原创转述；非完整词典。",
+      "词源、IPA与全页例句见单独supplement，旧回执不适用于本版。"
+    ],
+    "writer": "whole50_author3",
+    "contextKind": "existing_public_learning_example",
+    "templateVersion": "WORDS-STATIC-V3.1-FIVE-ZONE-SOURCE-FIRST",
+    "contentRevision": 2,
+    "dictionaryEntries": [
+      {
+        "lemma": "compromise",
+        "pos": "n.",
+        "senses": [
+          {
+            "id": "compromise:current",
+            "glossZh": "各方作出部分让步后达成的安排",
+            "definitionEn": "an agreement reached when sides give up some of their demands",
+            "sourceIds": [
+              "lex"
+            ]
+          }
+        ],
+        "source": "有据原创教学转述"
+      },
+      {
+        "lemma": "compromise",
+        "pos": "v.",
+        "senses": [
+          {
+            "id": "compromise:extra",
+            "glossZh": "危及；损害",
+            "definitionEn": "put something valuable at risk or reduce its quality",
+            "sourceIds": [
+              "extra"
+            ]
+          }
+        ],
+        "source": "有据原创教学转述"
+      }
+    ],
+    "focusedEntries": [
+      {
+        "entry": {
+          "lemma": "compromise",
+          "pos": "n.",
+          "senses": [
+            {
+              "id": "compromise:current",
+              "glossZh": "各方作出部分让步后达成的安排",
+              "definitionEn": "an agreement reached when sides give up some of their demands",
+              "sourceIds": [
+                "lex"
+              ]
+            }
+          ],
+          "source": "有据原创教学转述"
+        },
+        "sense": {
+          "id": "compromise:current",
+          "glossZh": "各方作出部分让步后达成的安排",
+          "definitionEn": "an agreement reached when sides give up some of their demands",
+          "sourceIds": [
+            "lex"
+          ]
+        }
+      }
+    ],
+    "claims": [
+      {
+        "id": "lexical",
+        "text": "compromise当前义为各方作出部分让步后达成的安排；扩展相关义为危及；损害",
+        "kind": "source_fact",
+        "sourceIds": [
+          "lex",
+          "extra"
+        ],
+        "evidenceNote": "词典所列词性/义项；中文与英文为原创转述，扩展词性明确。"
+      },
+      {
+        "id": "connection",
+        "text": "记住“各让一点，找到能接受的安排”。把 reach a compromise（达成折中）和 compromise on the date（在日期上作妥协）联系起来。这里记的是共同安排，不是只让一方放弃要求。",
+        "kind": "teaching_inference",
+        "sourceIds": [
+          "lex"
+        ],
+        "evidenceNote": "基于公开主例句和已核验词义的教学分析；情境对照/回应为自编，不是来源中的真实事件。"
+      },
+      {
+        "id": "syntax",
+        "text": "reached 是过去式，a compromise 是达成的结果；on the review schedule 指明谈妥的议题。句子只报告排期这一项取得折中，不保证预算、人员等其他问题也已解决，更没有交代让步细节。",
+        "kind": "teaching_inference",
+        "sourceIds": [
+          "lex"
+        ],
+        "evidenceNote": "基于公开主例句和已核验词义的教学分析；情境对照/回应为自编，不是来源中的真实事件。"
+      },
+      {
+        "id": "contrast",
+        "text": "agreement 泛指达成一致；compromise 进一步说明一致通常来自让步。例如双方一开始就都选周三，是 agreement；原本各有坚持、调整后选周三，才更像 compromise。常见 acceptable compromise，强调这个折中能被接受。",
+        "kind": "teaching_inference",
+        "sourceIds": [
+          "lex"
+        ],
+        "evidenceNote": "基于公开主例句和已核验词义的教学分析；情境对照/回应为自编，不是来源中的真实事件。"
+      },
+      {
+        "id": "pragmatics",
+        "text": "We reached 把这句话说成结果汇报：评审日期已经谈出了折中。on the review schedule 指明谈妥的是哪件事。自编回应：What date did you agree on?（你们最后商定哪一天？）听者接着确认安排，就能据此更新日程。",
+        "kind": "teaching_inference",
+        "sourceIds": [
+          "lex"
+        ],
+        "evidenceNote": "基于公开主例句和已核验词义的教学分析；情境对照/回应为自编，不是来源中的真实事件。"
+      },
+      {
+        "id": "transfer",
+        "text": "自编工作表达：Could we reach a compromise on the delivery schedule?（我们能就交付时间表达成折中吗？）适合双方安排不同、仍愿讨论调整时。随后说明自己能调整哪部分，让“折中”有具体内容，而非只要求对方让步。",
+        "kind": "authored_example",
+        "sourceIds": [
+          "lex"
+        ],
+        "evidenceNote": "作者自编迁移表达，按当前义项及所给语法核验，不是真实工作事件。"
+      }
+    ]
+  },
+  {
+    "cardId": "V20261012-058",
+    "term": "negotiate",
+    "context": "We may need to negotiate a more realistic deadline.",
+    "contextZh": "我们可能需要协商更实际的截止期限。",
+    "gloss": "协商；谈判",
+    "glossKind": "source_summary",
+    "pos": "v.",
+    "definitionEn": "discuss terms with another party to seek an agreement",
+    "definitionZh": "与另一方讨论条件以争取达成协议",
+    "contextTakeaway": "可能需要通过协商争取更实际的期限。",
+    "bridgeText": "negotiate a deadline 是把截止时间拿来协商，争取一个双方可接受的安排。你可以说明现日期哪里不现实，再讨论能否延后或调整条件；它比单纯告知日期多了协商这一步。",
+    "groups": [
+      {
+        "id": "g1",
+        "title": "先记住，再联系",
+        "text": "记住 negotiate a deadline，不是单方面把日期改掉，而是把期限带进讨论。和 negotiate with someone 连着记：前者说谈什么，后者说和谁谈；这有助于区分自己的愿望与双方谈妥的条件。",
+        "sourceIds": [
+          "lex"
+        ],
+        "claimIds": [
+          "lexical",
+          "connection"
+        ],
+        "requirements": {
+          "anchor": "记住 negotiate a deadline，不是单方面把日期改掉，而是把期限带进讨论。",
+          "explanation": "和 negotiate with someone 连着记：前者说谈什么，后者说和谁谈；",
+          "example": "negotiate a deadline",
+          "boundary": "这有助于区分自己的愿望与双方谈妥的条件。"
+        }
+      },
+      {
+        "id": "g2",
+        "title": "句法与概念",
+        "text": "may need to 表示可能有必要，negotiate 后直接接 a more realistic deadline。more realistic 是比较描述，暗示现有期限可能不够实际；整句仍是提出协商需要，并没有报告新期限已经谈成。",
+        "sourceIds": [
+          "lex"
+        ],
+        "claimIds": [
+          "syntax"
+        ],
+        "requirements": {
+          "anchor": "may need to 表示可能有必要，negotiate 后直接接 a more realistic deadline。",
+          "explanation": "more realistic 是比较描述，暗示现有期限可能不够实际；",
+          "example": "may need to ",
+          "boundary": "整句仍是提出协商需要，并没有报告新期限已经谈成。"
+        }
+      },
+      {
+        "id": "g3",
+        "title": "辨析与英文邻居",
+        "text": "discuss 可以只是交换看法；negotiate 以谈出可接受条件为目标。例如讨论延期的影响是 discuss；就新日期来回提出条件是 negotiate。negotiate with 后接对象，negotiate a deadline 则直接说要商定的事项。",
+        "sourceIds": [
+          "lex"
+        ],
+        "claimIds": [
+          "contrast"
+        ],
+        "requirements": {
+          "anchor": "discuss 可以只是交换看法；",
+          "explanation": "negotiate 以谈出可接受条件为目标。",
+          "example": "discuss ",
+          "boundary": "negotiate with 后接对象，negotiate a deadline 则直接说要商定的事项。"
+        }
+      },
+      {
+        "id": "g4",
+        "title": "这句话在做什么",
+        "text": "may need to 保留判断空间，说话者提出“可能得重新谈日期”。more realistic 表明目前担心可执行性，但没有指定新日期。自编回应：What date could we reasonably commit to?（我们可以合理承诺哪一天？）先形成有依据的提案，再与对方协商。",
+        "sourceIds": [
+          "lex"
+        ],
+        "claimIds": [
+          "pragmatics"
+        ],
+        "requirements": {
+          "anchor": "may need to 保留判断空间，说话者提出“可能得重新谈日期”。",
+          "explanation": "more realistic 表明目前担心可执行性，但没有指定新日期。",
+          "example": "may need to ",
+          "boundary": "自编回应：What date could we reasonably commit to?（我们可以合理承诺哪一天？）先形成有依据的提案，再与对方协商。"
+        }
+      },
+      {
+        "id": "g5",
+        "title": "工作中可以这样说",
+        "text": "自编工作表达：Can we negotiate a deadline that allows time for testing?（我们能协商一个留出测试时间的期限吗？）适合提出调整要求时，说明调整要满足的具体条件；对方可据此讨论时间，而不必猜测为何需要延期。",
+        "sourceIds": [
+          "lex"
+        ],
+        "claimIds": [
+          "transfer"
+        ],
+        "requirements": {
+          "anchor": "自编工作表达：Can we negotiate a deadline that allows time for testing?（我们能协商一个留出测试时间的期限吗？）适合提出调整要求时，说明调整要满足的具体条件；",
+          "explanation": "对方可据此讨论时间，而不必猜测为何需要延期。",
+          "example": "Can we negotiate a deadline that allows time for testing",
+          "boundary": "对方可据此讨论时间，而不必猜测为何需要延期。"
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "lex",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/negotiate",
+        "title": "Oxford · negotiate",
+        "publisher": "Oxford University Press",
+        "accessedAt": "2026-11-03",
+        "section": "Headword, part of speech, current contextual sense and usage patterns",
+        "retrievalStatus": "full_page",
+        "evidence": "negotiate本句义：与另一方讨论条件以争取达成协议。核对v.和negotiate a deadline；相关义项：设法通过困难路段或障碍。中文与英文定义为原创转述。",
+        "supportedClaims": [
+          "negotiate本句义：与另一方讨论条件以争取达成协议。核对v.和negotiate a deadline；相关义项：设法通过困难路段或障碍。中文与英文定义为原创转述。"
+        ],
+        "summaryZh": "negotiate本句义：与另一方讨论条件以争取达成协议。核对v.和negotiate a deadline；相关义项：设法通过困难路段或障碍。中文与英文定义为原创转述。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创教学转述及链接；不复制词典全文"
+      }
+    ],
+    "sourceLimitations": [
+      "主例句沿用公开词卡；场景分析与回应为教学整理，非真实工作记录。",
+      "当前义及扩展义为有据原创转述；非完整词典。",
+      "词源、IPA与全页例句见单独supplement，旧回执不适用于本版。"
+    ],
+    "writer": "whole50_author3",
+    "contextKind": "existing_public_learning_example",
+    "templateVersion": "WORDS-STATIC-V3.1-FIVE-ZONE-SOURCE-FIRST",
+    "contentRevision": 2,
+    "dictionaryEntries": [
+      {
+        "lemma": "negotiate",
+        "pos": "v.",
+        "senses": [
+          {
+            "id": "negotiate:current",
+            "glossZh": "与另一方讨论条件以争取达成协议",
+            "definitionEn": "discuss terms with another party to seek an agreement",
+            "sourceIds": [
+              "lex"
+            ]
+          }
+        ],
+        "source": "有据原创教学转述"
+      },
+      {
+        "lemma": "negotiate",
+        "pos": "v.",
+        "senses": [
+          {
+            "id": "negotiate:extra",
+            "glossZh": "设法通过困难路段或障碍",
+            "definitionEn": "manage to get past a difficult obstacle or route",
+            "sourceIds": [
+              "lex"
+            ]
+          }
+        ],
+        "source": "有据原创教学转述"
+      }
+    ],
+    "focusedEntries": [
+      {
+        "entry": {
+          "lemma": "negotiate",
+          "pos": "v.",
+          "senses": [
+            {
+              "id": "negotiate:current",
+              "glossZh": "与另一方讨论条件以争取达成协议",
+              "definitionEn": "discuss terms with another party to seek an agreement",
+              "sourceIds": [
+                "lex"
+              ]
+            }
+          ],
+          "source": "有据原创教学转述"
+        },
+        "sense": {
+          "id": "negotiate:current",
+          "glossZh": "与另一方讨论条件以争取达成协议",
+          "definitionEn": "discuss terms with another party to seek an agreement",
+          "sourceIds": [
+            "lex"
+          ]
+        }
+      }
+    ],
+    "claims": [
+      {
+        "id": "lexical",
+        "text": "negotiate当前义为与另一方讨论条件以争取达成协议；扩展相关义为设法通过困难路段或障碍",
+        "kind": "source_fact",
+        "sourceIds": [
+          "lex"
+        ],
+        "evidenceNote": "词典所列词性/义项；中文与英文为原创转述，扩展词性明确。"
+      },
+      {
+        "id": "connection",
+        "text": "记住 negotiate a deadline，不是单方面把日期改掉，而是把期限带进讨论。和 negotiate with someone 连着记：前者说谈什么，后者说和谁谈；这有助于区分自己的愿望与双方谈妥的条件。",
+        "kind": "teaching_inference",
+        "sourceIds": [
+          "lex"
+        ],
+        "evidenceNote": "基于公开主例句和已核验词义的教学分析；情境对照/回应为自编，不是来源中的真实事件。"
+      },
+      {
+        "id": "syntax",
+        "text": "may need to 表示可能有必要，negotiate 后直接接 a more realistic deadline。more realistic 是比较描述，暗示现有期限可能不够实际；整句仍是提出协商需要，并没有报告新期限已经谈成。",
+        "kind": "teaching_inference",
+        "sourceIds": [
+          "lex"
+        ],
+        "evidenceNote": "基于公开主例句和已核验词义的教学分析；情境对照/回应为自编，不是来源中的真实事件。"
+      },
+      {
+        "id": "contrast",
+        "text": "discuss 可以只是交换看法；negotiate 以谈出可接受条件为目标。例如讨论延期的影响是 discuss；就新日期来回提出条件是 negotiate。negotiate with 后接对象，negotiate a deadline 则直接说要商定的事项。",
+        "kind": "teaching_inference",
+        "sourceIds": [
+          "lex"
+        ],
+        "evidenceNote": "基于公开主例句和已核验词义的教学分析；情境对照/回应为自编，不是来源中的真实事件。"
+      },
+      {
+        "id": "pragmatics",
+        "text": "may need to 保留判断空间，说话者提出“可能得重新谈日期”。more realistic 表明目前担心可执行性，但没有指定新日期。自编回应：What date could we reasonably commit to?（我们可以合理承诺哪一天？）先形成有依据的提案，再与对方协商。",
+        "kind": "teaching_inference",
+        "sourceIds": [
+          "lex"
+        ],
+        "evidenceNote": "基于公开主例句和已核验词义的教学分析；情境对照/回应为自编，不是来源中的真实事件。"
+      },
+      {
+        "id": "transfer",
+        "text": "自编工作表达：Can we negotiate a deadline that allows time for testing?（我们能协商一个留出测试时间的期限吗？）适合提出调整要求时，说明调整要满足的具体条件；对方可据此讨论时间，而不必猜测为何需要延期。",
+        "kind": "authored_example",
+        "sourceIds": [
+          "lex"
+        ],
+        "evidenceNote": "作者自编迁移表达，按当前义项及所给语法核验，不是真实工作事件。"
+      }
+    ]
+  },
+  {
+    "cardId": "V20261012-059",
+    "term": "conclude",
+    "context": "Let's conclude the meeting by confirming the next steps.",
+    "contextZh": "我们以确认后续步骤来结束会议吧。",
+    "gloss": "结束；得出结论",
+    "glossKind": "source_summary",
+    "pos": "v.",
+    "definitionEn": "bring a meeting, speech, or discussion to an end",
+    "definitionZh": "使会议、讲话或讨论结束",
+    "contextTakeaway": "以确认后续步骤作为结束会议的最后动作。",
+    "bridgeText": "本句的 conclude 是结束会议：宾语 the meeting 是一项活动，by confirming the next steps 说明结束时要做的动作。判断当前义要结合这些内容，而不是单看有没有 that 从句。",
+    "groups": [
+      {
+        "id": "g1",
+        "title": "先记住，再联系",
+        "text": "把 conclude the meeting 记成“给会议收尾”，再联系 conclude that repairs are necessary（得出需要维修的结论）。同一个词可以结束活动，也可以表达判断；看后面的宾语或 that 从句来分清。",
+        "sourceIds": [
+          "lex"
+        ],
+        "claimIds": [
+          "lexical",
+          "connection"
+        ],
+        "requirements": {
+          "anchor": "把 conclude the meeting 记成“给会议收尾”，再联系 conclude that repairs are necessary（得出需要维修的结论）。",
+          "explanation": "同一个词可以结束活动，也可以表达判断；",
+          "example": "conclude the meeting ",
+          "boundary": "看后面的宾语或 that 从句来分清。"
+        }
+      },
+      {
+        "id": "g2",
+        "title": "句法与概念",
+        "text": "Let's 提议共同做一件事，conclude 的对象是 the meeting；by confirming 指结束时采用的方式。确认后续步骤是收尾动作，并非已经确认完毕；读懂 by 后的动作，就知道散会前还要做什么。",
+        "sourceIds": [
+          "lex"
+        ],
+        "claimIds": [
+          "syntax"
+        ],
+        "requirements": {
+          "anchor": "Let's 提议共同做一件事，conclude 的对象是 the meeting；",
+          "explanation": "by confirming 指结束时采用的方式。",
+          "example": "Let's ",
+          "boundary": "读懂 by 后的动作，就知道散会前还要做什么。"
+        }
+      },
+      {
+        "id": "g3",
+        "title": "辨析与英文邻居",
+        "text": "conclude the meeting 和 end the meeting 都是结束会议，conclude 较正式；summarize 则是概括要点，未必表示活动已经结束。例如先 summarize the discussion，再 conclude the meeting。结尾可以包含总结，也可以只是确认安排。",
+        "sourceIds": [
+          "lex"
+        ],
+        "claimIds": [
+          "contrast"
+        ],
+        "requirements": {
+          "anchor": "conclude the meeting 和 end the meeting 都是结束会议，conclude 较正式；",
+          "explanation": "summarize 则是概括要点，未必表示活动已经结束。",
+          "example": "conclude the meeting ",
+          "boundary": "结尾可以包含总结，也可以只是确认安排。"
+        }
+      },
+      {
+        "id": "g4",
+        "title": "这句话在做什么",
+        "text": "Let’s 是提出共同安排，conclude 让会议进入结束阶段，by confirming 又指定最后要做的动作。自编回应：The next step is to inspect the unit on Tuesday.（下一步是周二检查设备。）回应补出具体行动，让结束不只是说一句“散会”。",
+        "sourceIds": [
+          "lex"
+        ],
+        "claimIds": [
+          "pragmatics"
+        ],
+        "requirements": {
+          "anchor": "Let’s 是提出共同安排，conclude 让会议进入结束阶段，by confirming 又指定最后要做的动作。",
+          "explanation": "自编回应：The next step is to inspect the unit on Tuesday.（下一步是周二检查设备。",
+          "example": "Let’s ",
+          "boundary": "）回应补出具体行动，让结束不只是说一句“散会”。"
+        }
+      },
+      {
+        "id": "g5",
+        "title": "工作中可以这样说",
+        "text": "自编工作表达：I'd like to conclude by summarising the remaining questions.（我想通过概括尚未解决的问题来结束。）适合报告或讨论到尾声、但部分问题仍需追踪时；能结束交流，却不把“结束”误说成所有问题都已解决。",
+        "sourceIds": [
+          "lex"
+        ],
+        "claimIds": [
+          "transfer"
+        ],
+        "requirements": {
+          "anchor": "自编工作表达：I'd like to conclude by summarising the remaining questions.（我想通过概括尚未解决的问题来结束。",
+          "explanation": "）适合报告或讨论到尾声、但部分问题仍需追踪时；",
+          "example": "I'd like to conclude by summarising the remaining questions",
+          "boundary": "能结束交流，却不把“结束”误说成所有问题都已解决。"
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "lex",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/conclude",
+        "title": "Oxford · conclude",
+        "publisher": "Oxford University Press",
+        "accessedAt": "2026-11-03",
+        "section": "Headword, part of speech, current contextual sense and usage patterns",
+        "retrievalStatus": "full_page",
+        "evidence": "conclude本句义：使会议、讲话或讨论结束。核对v.和conclude a meeting；相关义项：根据证据得出结论。中文与英文定义为原创转述。",
+        "supportedClaims": [
+          "conclude本句义：使会议、讲话或讨论结束。核对v.和conclude a meeting；相关义项：根据证据得出结论。中文与英文定义为原创转述。"
+        ],
+        "summaryZh": "conclude本句义：使会议、讲话或讨论结束。核对v.和conclude a meeting；相关义项：根据证据得出结论。中文与英文定义为原创转述。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创教学转述及链接；不复制词典全文"
+      }
+    ],
+    "sourceLimitations": [
+      "主例句沿用公开词卡；场景分析与回应为教学整理，非真实工作记录。",
+      "当前义及扩展义为有据原创转述；非完整词典。",
+      "词源、IPA与全页例句见单独supplement，旧回执不适用于本版。"
+    ],
+    "writer": "whole50_author3",
+    "contextKind": "existing_public_learning_example",
+    "templateVersion": "WORDS-STATIC-V3.1-FIVE-ZONE-SOURCE-FIRST",
+    "contentRevision": 3,
+    "dictionaryEntries": [
+      {
+        "lemma": "conclude",
+        "pos": "v.",
+        "senses": [
+          {
+            "id": "conclude:current",
+            "glossZh": "使会议、讲话或讨论结束",
+            "definitionEn": "bring a meeting, speech, or discussion to an end",
+            "sourceIds": [
+              "lex"
+            ]
+          }
+        ],
+        "source": "有据原创教学转述"
+      },
+      {
+        "lemma": "conclude",
+        "pos": "v.",
+        "senses": [
+          {
+            "id": "conclude:extra",
+            "glossZh": "根据证据得出结论",
+            "definitionEn": "form a judgment from available evidence",
+            "sourceIds": [
+              "lex"
+            ]
+          }
+        ],
+        "source": "有据原创教学转述"
+      }
+    ],
+    "focusedEntries": [
+      {
+        "entry": {
+          "lemma": "conclude",
+          "pos": "v.",
+          "senses": [
+            {
+              "id": "conclude:current",
+              "glossZh": "使会议、讲话或讨论结束",
+              "definitionEn": "bring a meeting, speech, or discussion to an end",
+              "sourceIds": [
+                "lex"
+              ]
+            }
+          ],
+          "source": "有据原创教学转述"
+        },
+        "sense": {
+          "id": "conclude:current",
+          "glossZh": "使会议、讲话或讨论结束",
+          "definitionEn": "bring a meeting, speech, or discussion to an end",
+          "sourceIds": [
+            "lex"
+          ]
+        }
+      }
+    ],
+    "claims": [
+      {
+        "id": "lexical",
+        "text": "conclude当前义为使会议、讲话或讨论结束；扩展相关义为根据证据得出结论",
+        "kind": "source_fact",
+        "sourceIds": [
+          "lex"
+        ],
+        "evidenceNote": "词典所列词性/义项；中文与英文为原创转述，扩展词性明确。"
+      },
+      {
+        "id": "connection",
+        "text": "把 conclude the meeting 记成“给会议收尾”，再联系 conclude that repairs are necessary（得出需要维修的结论）。同一个词可以结束活动，也可以表达判断；看后面的宾语或 that 从句来分清。",
+        "kind": "teaching_inference",
+        "sourceIds": [
+          "lex"
+        ],
+        "evidenceNote": "基于公开主例句和已核验词义的教学分析；情境对照/回应为自编，不是来源中的真实事件。"
+      },
+      {
+        "id": "syntax",
+        "text": "Let's 提议共同做一件事，conclude 的对象是 the meeting；by confirming 指结束时采用的方式。确认后续步骤是收尾动作，并非已经确认完毕；读懂 by 后的动作，就知道散会前还要做什么。",
+        "kind": "teaching_inference",
+        "sourceIds": [
+          "lex"
+        ],
+        "evidenceNote": "基于公开主例句和已核验词义的教学分析；情境对照/回应为自编，不是来源中的真实事件。"
+      },
+      {
+        "id": "contrast",
+        "text": "conclude the meeting 和 end the meeting 都是结束会议，conclude 较正式；summarize 则是概括要点，未必表示活动已经结束。例如先 summarize the discussion，再 conclude the meeting。结尾可以包含总结，也可以只是确认安排。",
+        "kind": "teaching_inference",
+        "sourceIds": [
+          "lex"
+        ],
+        "evidenceNote": "基于公开主例句和已核验词义的教学分析；情境对照/回应为自编，不是来源中的真实事件。"
+      },
+      {
+        "id": "pragmatics",
+        "text": "Let’s 是提出共同安排，conclude 让会议进入结束阶段，by confirming 又指定最后要做的动作。自编回应：The next step is to inspect the unit on Tuesday.（下一步是周二检查设备。）回应补出具体行动，让结束不只是说一句“散会”。",
+        "kind": "teaching_inference",
+        "sourceIds": [
+          "lex"
+        ],
+        "evidenceNote": "基于公开主例句和已核验词义的教学分析；情境对照/回应为自编，不是来源中的真实事件。"
+      },
+      {
+        "id": "transfer",
+        "text": "自编工作表达：I'd like to conclude by summarising the remaining questions.（我想通过概括尚未解决的问题来结束。）适合报告或讨论到尾声、但部分问题仍需追踪时；能结束交流，却不把“结束”误说成所有问题都已解决。",
+        "kind": "authored_example",
+        "sourceIds": [
+          "lex"
+        ],
+        "evidenceNote": "作者自编迁移表达，按当前义项及所给语法核验，不是真实工作事件。"
+      }
+    ],
+    "revisedBy": "root_integrator"
+  },
+  {
+    "cardId": "V20261012-060",
+    "term": "document",
+    "context": "Please document the decision and the reason behind it.",
+    "contextZh": "请记录决定及其背后的理由。",
+    "gloss": "记录",
+    "glossKind": "source_summary",
+    "pos": "v.",
+    "definitionEn": "make a record of information, events, or a process",
+    "definitionZh": "把信息、事件或过程记录下来",
+    "contextTakeaway": "不仅记录决定，也记录作出决定的理由。",
+    "bridgeText": "这里的 document 是动词，要求把决定和理由记录下来。只写“同意修改”还不够，本句还希望读者以后知道为什么改；核心是留下可追溯内容，而不是把文件排得漂亮。",
+    "groups": [
+      {
+        "id": "g1",
+        "title": "先记住，再联系",
+        "text": "把 a document（一份文件）与 document a decision（记录一个决定）连起来记。前者是留下的材料，后者是留下记录的动作。本句是动词，用“记录下来”比直接背“文件”更合适。",
+        "sourceIds": [
+          "lex"
+        ],
+        "claimIds": [
+          "lexical",
+          "connection"
+        ],
+        "requirements": {
+          "anchor": "把 a document（一份文件）与 document a decision（记录一个决定）连起来记。",
+          "explanation": "前者是留下的材料，后者是留下记录的动作。",
+          "example": "a document",
+          "boundary": "本句是动词，用“记录下来”比直接背“文件”更合适。"
+        }
+      },
+      {
+        "id": "g2",
+        "title": "句法与概念",
+        "text": "Please document 是祈使句，document 后的两个并列对象是 the decision 和 the reason behind it。it 指 decision；behind 在这里表达理由关系。遗漏后半部分，就只留下“做什么”，没有留下“为什么这样做”。",
+        "sourceIds": [
+          "lex"
+        ],
+        "claimIds": [
+          "syntax"
+        ],
+        "requirements": {
+          "anchor": "Please document 是祈使句，document 后的两个并列对象是 the decision 和 the reason behind it。",
+          "explanation": "it 指 decision；",
+          "example": "Please document ",
+          "boundary": "遗漏后半部分，就只留下“做什么”，没有留下“为什么这样做”。"
+        }
+      },
+      {
+        "id": "g3",
+        "title": "辨析与英文邻居",
+        "text": "discuss a decision 是讨论决定，document a decision 是留下记录。比如会中已经谈清楚，却还没写入纪要，discussion 完成了，documentation 可能还没完成。常用 document the reasons，记录理由，让后来的人能理解当时依据。",
+        "sourceIds": [
+          "lex"
+        ],
+        "claimIds": [
+          "contrast"
+        ],
+        "requirements": {
+          "anchor": "discuss a decision 是讨论决定，document a decision 是留下记录。",
+          "explanation": "比如会中已经谈清楚，却还没写入纪要，discussion 完成了，documentation 可能还没完成。",
+          "example": "discuss a decision ",
+          "boundary": "常用 document the reasons，记录理由，让后来的人能理解当时依据。"
+        }
+      },
+      {
+        "id": "g4",
+        "title": "这句话在做什么",
+        "text": "Please document 提出记录任务，and 把记录对象扩成两项：决定，以及背后的理由。自编回应：I’ll add both to the meeting notes.（我会把两项都补进会议记录。）这样明确了保存位置，也回应了本句要求的两部分。",
+        "sourceIds": [
+          "lex"
+        ],
+        "claimIds": [
+          "pragmatics"
+        ],
+        "requirements": {
+          "anchor": "Please document 提出记录任务，and 把记录对象扩成两项：决定，以及背后的理由。",
+          "explanation": "自编回应：I’ll add both to the meeting notes.（我会把两项都补进会议记录。",
+          "example": "Please document ",
+          "boundary": "）这样明确了保存位置，也回应了本句要求的两部分。"
+        }
+      },
+      {
+        "id": "g5",
+        "title": "工作中可以这样说",
+        "text": "自编工作表达：Please document any changes to the agreed process.（请记录对已议定流程的任何改动。）适合流程执行中发生变化、需要之后核对时。它要求留下改动记录，不表示改动因此自动获批；审批仍是另一项动作。",
+        "sourceIds": [
+          "lex"
+        ],
+        "claimIds": [
+          "transfer"
+        ],
+        "requirements": {
+          "anchor": "自编工作表达：Please document any changes to the agreed process.（请记录对已议定流程的任何改动。",
+          "explanation": "）适合流程执行中发生变化、需要之后核对时。",
+          "example": "Please document any changes to the agreed process",
+          "boundary": "审批仍是另一项动作。"
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "lex",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/document_2",
+        "title": "Oxford · document",
+        "publisher": "Oxford University Press",
+        "accessedAt": "2026-11-03",
+        "section": "Headword, part of speech, current contextual sense and usage patterns",
+        "retrievalStatus": "full_page",
+        "evidence": "document本句义：把信息、事件或过程记录下来。核对v.和document a decision；相关义项：另见extra条目。中文与英文定义为原创转述。",
+        "supportedClaims": [
+          "document本句义：把信息、事件或过程记录下来。核对v.和document a decision；相关义项：另见extra条目。中文与英文定义为原创转述。"
+        ],
+        "summaryZh": "document本句义：把信息、事件或过程记录下来。核对v.和document a decision；相关义项：另见extra条目。中文与英文定义为原创转述。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创教学转述及链接；不复制词典全文"
+      },
+      {
+        "id": "extra",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/document_1",
+        "title": "Oxford · document (n.)",
+        "publisher": "Oxford University Press",
+        "accessedAt": "2026-11-03",
+        "section": "Headword, part of speech and additional sense",
+        "retrievalStatus": "full_page",
+        "evidence": "文件；保存信息的书面或电子材料；a written or electronic item that holds information",
+        "supportedClaims": [
+          "文件；保存信息的书面或电子材料；a written or electronic item that holds information"
+        ],
+        "summaryZh": "文件；保存信息的书面或电子材料；a written or electronic item that holds information",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创教学转述及链接；不复制词典全文"
+      }
+    ],
+    "sourceLimitations": [
+      "主例句沿用公开词卡；场景分析与回应为教学整理，非真实工作记录。",
+      "当前义及扩展义为有据原创转述；非完整词典。",
+      "词源、IPA与全页例句见单独supplement，旧回执不适用于本版。"
+    ],
+    "writer": "whole50_author3",
+    "contextKind": "existing_public_learning_example",
+    "templateVersion": "WORDS-STATIC-V3.1-FIVE-ZONE-SOURCE-FIRST",
+    "contentRevision": 2,
+    "dictionaryEntries": [
+      {
+        "lemma": "document",
+        "pos": "v.",
+        "senses": [
+          {
+            "id": "document:current",
+            "glossZh": "把信息、事件或过程记录下来",
+            "definitionEn": "make a record of information, events, or a process",
+            "sourceIds": [
+              "lex"
+            ]
+          }
+        ],
+        "source": "有据原创教学转述"
+      },
+      {
+        "lemma": "document",
+        "pos": "n.",
+        "senses": [
+          {
+            "id": "document:extra",
+            "glossZh": "文件；保存信息的书面或电子材料",
+            "definitionEn": "a written or electronic item that holds information",
+            "sourceIds": [
+              "extra"
+            ]
+          }
+        ],
+        "source": "有据原创教学转述"
+      }
+    ],
+    "focusedEntries": [
+      {
+        "entry": {
+          "lemma": "document",
+          "pos": "v.",
+          "senses": [
+            {
+              "id": "document:current",
+              "glossZh": "把信息、事件或过程记录下来",
+              "definitionEn": "make a record of information, events, or a process",
+              "sourceIds": [
+                "lex"
+              ]
+            }
+          ],
+          "source": "有据原创教学转述"
+        },
+        "sense": {
+          "id": "document:current",
+          "glossZh": "把信息、事件或过程记录下来",
+          "definitionEn": "make a record of information, events, or a process",
+          "sourceIds": [
+            "lex"
+          ]
+        }
+      }
+    ],
+    "claims": [
+      {
+        "id": "lexical",
+        "text": "document当前义为把信息、事件或过程记录下来；扩展相关义为文件；保存信息的书面或电子材料",
+        "kind": "source_fact",
+        "sourceIds": [
+          "lex",
+          "extra"
+        ],
+        "evidenceNote": "词典所列词性/义项；中文与英文为原创转述，扩展词性明确。"
+      },
+      {
+        "id": "connection",
+        "text": "把 a document（一份文件）与 document a decision（记录一个决定）连起来记。前者是留下的材料，后者是留下记录的动作。本句是动词，用“记录下来”比直接背“文件”更合适。",
+        "kind": "teaching_inference",
+        "sourceIds": [
+          "lex"
+        ],
+        "evidenceNote": "基于公开主例句和已核验词义的教学分析；情境对照/回应为自编，不是来源中的真实事件。"
+      },
+      {
+        "id": "syntax",
+        "text": "Please document 是祈使句，document 后的两个并列对象是 the decision 和 the reason behind it。it 指 decision；behind 在这里表达理由关系。遗漏后半部分，就只留下“做什么”，没有留下“为什么这样做”。",
+        "kind": "teaching_inference",
+        "sourceIds": [
+          "lex"
+        ],
+        "evidenceNote": "基于公开主例句和已核验词义的教学分析；情境对照/回应为自编，不是来源中的真实事件。"
+      },
+      {
+        "id": "contrast",
+        "text": "discuss a decision 是讨论决定，document a decision 是留下记录。比如会中已经谈清楚，却还没写入纪要，discussion 完成了，documentation 可能还没完成。常用 document the reasons，记录理由，让后来的人能理解当时依据。",
+        "kind": "teaching_inference",
+        "sourceIds": [
+          "lex"
+        ],
+        "evidenceNote": "基于公开主例句和已核验词义的教学分析；情境对照/回应为自编，不是来源中的真实事件。"
+      },
+      {
+        "id": "pragmatics",
+        "text": "Please document 提出记录任务，and 把记录对象扩成两项：决定，以及背后的理由。自编回应：I’ll add both to the meeting notes.（我会把两项都补进会议记录。）这样明确了保存位置，也回应了本句要求的两部分。",
+        "kind": "teaching_inference",
+        "sourceIds": [
+          "lex"
+        ],
+        "evidenceNote": "基于公开主例句和已核验词义的教学分析；情境对照/回应为自编，不是来源中的真实事件。"
+      },
+      {
+        "id": "transfer",
+        "text": "自编工作表达：Please document any changes to the agreed process.（请记录对已议定流程的任何改动。）适合流程执行中发生变化、需要之后核对时。它要求留下改动记录，不表示改动因此自动获批；审批仍是另一项动作。",
+        "kind": "authored_example",
+        "sourceIds": [
+          "lex"
+        ],
+        "evidenceNote": "作者自编迁移表达，按当前义项及所给语法核验，不是真实工作事件。"
+      }
+    ]
+  },
+  {
+    "cardId": "V20261012-061",
+    "term": "follow up",
+    "context": "I'll follow up on the open action tomorrow.",
+    "contextZh": "我明天会跟进这项未结行动。",
+    "gloss": "跟进",
+    "glossKind": "source_summary",
+    "pos": "短语动词",
+    "definitionEn": "take further action on something already started",
+    "definitionZh": "对已经开始的事项继续采取行动或查问",
+    "contextTakeaway": "明天继续跟进尚未结清的行动事项。",
+    "bridgeText": "follow up 是对已经提出或开始的事情继续处理。本句的 open action 是尚未完成的行动项，明天要继续查它的进展；只是发起第一次联系，通常还谈不上这层“后续”。",
+    "groups": [
+      {
+        "id": "g1",
+        "title": "先记住，再联系",
+        "text": "把它记成“上次之后，再做下一步”，重点在前后两次行动有关联。follow up on an action 是跟进事项；不要把 up 拆成“向上”。动词写 follow up，作后续事项或修饰语时常见 follow-up。",
+        "sourceIds": [
+          "lex",
+          "grammar"
+        ],
+        "claimIds": [
+          "lexical",
+          "connection"
+        ],
+        "requirements": {
+          "anchor": "把它记成“上次之后，再做下一步”，重点在前后两次行动有关联。",
+          "explanation": "follow up on an action 是跟进事项；",
+          "example": "follow up on an action ",
+          "boundary": "动词写 follow up，作后续事项或修饰语时常见 follow-up。"
+        }
+      },
+      {
+        "id": "g2",
+        "title": "句法与概念",
+        "text": "I'll 是 I will，表示这里承担下一次行动；follow up on 后接 the open action，tomorrow 指跟进时间。open 在这项工作语境中表示尚未结清，整句承诺的是明天跟进，并非保证明天完成该事项。",
+        "sourceIds": [
+          "lex",
+          "grammar"
+        ],
+        "claimIds": [
+          "syntax"
+        ],
+        "requirements": {
+          "anchor": "I'll 是 I will，表示这里承担下一次行动；",
+          "explanation": "follow up on 后接 the open action，tomorrow 指跟进时间。",
+          "example": "I'll ",
+          "boundary": "open 在这项工作语境中表示尚未结清，整句承诺的是明天跟进，并非保证明天完成该事项。"
+        }
+      },
+      {
+        "id": "g3",
+        "title": "辨析与英文邻居",
+        "text": "check 可以是任何一次检查，follow up 更突出接着此前的事往下做。例如第一次检查报告是 check；会后再追问尚未关闭的问题，可以说 follow up。follow up on 后接事项，follow up with 后面常接要联系的人。",
+        "sourceIds": [
+          "lex"
+        ],
+        "claimIds": [
+          "contrast"
+        ],
+        "requirements": {
+          "anchor": "check 可以是任何一次检查，follow up 更突出接着此前的事往下做。",
+          "explanation": "例如第一次检查报告是 check；",
+          "example": "check ",
+          "boundary": "follow up on 后接事项，follow up with 后面常接要联系的人。"
+        }
+      },
+      {
+        "id": "g4",
+        "title": "这句话在做什么",
+        "text": "I’ll 把这句话变成承诺，on the open action 指定跟进哪件事，tomorrow 给出时间。自编回应：Please let me know if it is still open.（如果还没关闭，请告诉我。）接下来就有一个需要回报的结果，而不只是泛泛地说会再看看。",
+        "sourceIds": [
+          "lex"
+        ],
+        "claimIds": [
+          "pragmatics"
+        ],
+        "requirements": {
+          "anchor": "I’ll 把这句话变成承诺，on the open action 指定跟进哪件事，tomorrow 给出时间。",
+          "explanation": "自编回应：Please let me know if it is still open.（如果还没关闭，请告诉我。",
+          "example": "I’ll ",
+          "boundary": "）接下来就有一个需要回报的结果，而不只是泛泛地说会再看看。"
+        }
+      },
+      {
+        "id": "g5",
+        "title": "工作中可以这样说",
+        "text": "自编工作表达：I'll follow up on the missing information this afternoon.（今天下午我会跟进缺失的信息。）适合已经提出资料需求、需要继续确认时；给出对象和时间，避免只说 I'll follow up 而让听者不清楚跟进哪件事。",
+        "sourceIds": [
+          "lex"
+        ],
+        "claimIds": [
+          "transfer"
+        ],
+        "requirements": {
+          "anchor": "自编工作表达：I'll follow up on the missing information this afternoon.（今天下午我会跟进缺失的信息。",
+          "explanation": "）适合已经提出资料需求、需要继续确认时；",
+          "example": "I'll follow up on the missing information this afternoon",
+          "boundary": "给出对象和时间，避免只说 I'll follow up 而让听者不清楚跟进哪件事。"
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "lex",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/follow-up_1",
+        "title": "Oxford · follow up",
+        "publisher": "Oxford University Press",
+        "accessedAt": "2026-11-03",
+        "section": "Headword, part of speech, current contextual sense and usage patterns",
+        "retrievalStatus": "full_page",
+        "evidence": "follow up本句义：对已经开始的事项继续采取行动或查问。核对短语动词和follow up on an action；相关义项：另见extra条目。中文与英文定义为原创转述。",
+        "supportedClaims": [
+          "follow up本句义：对已经开始的事项继续采取行动或查问。核对短语动词和follow up on an action；相关义项：另见extra条目。中文与英文定义为原创转述。"
+        ],
+        "summaryZh": "follow up本句义：对已经开始的事项继续采取行动或查问。核对短语动词和follow up on an action；相关义项：另见extra条目。中文与英文定义为原创转述。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创教学转述及链接；不复制词典全文"
+      },
+      {
+        "id": "extra",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/follow-up_2",
+        "title": "Oxford · follow-up (adj.)",
+        "publisher": "Oxford University Press",
+        "accessedAt": "2026-11-03",
+        "section": "Headword, part of speech and additional sense",
+        "retrievalStatus": "full_page",
+        "evidence": "后续的；用于继续了解或处理的；done later to continue or check earlier work",
+        "supportedClaims": [
+          "后续的；用于继续了解或处理的；done later to continue or check earlier work"
+        ],
+        "summaryZh": "后续的；用于继续了解或处理的；done later to continue or check earlier work",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创教学转述及链接；不复制词典全文"
+      },
+      {
+        "id": "component",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/follow",
+        "title": "Oxford · follow",
+        "publisher": "Oxford University Press",
+        "accessedAt": "2026-11-03",
+        "section": "Headword British IPA and base verb sense",
+        "retrievalStatus": "full_page",
+        "evidence": "跟随；在后面继续；本页英式音标已核对。组成词联系不代替整体短语义。",
+        "supportedClaims": [
+          "跟随；在后面继续；本页英式音标已核对。组成词联系不代替整体短语义。"
+        ],
+        "summaryZh": "跟随；在后面继续；本页英式音标已核对。组成词联系不代替整体短语义。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创教学转述及链接；不复制词典全文"
+      },
+      {
+        "id": "particle",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/up_1",
+        "title": "Oxford · up",
+        "publisher": "Oxford University Press",
+        "accessedAt": "2026-11-03",
+        "section": "Headword British IPA and phrasal-verb lookup note",
+        "retrievalStatus": "full_page",
+        "evidence": "up英式音标/ʌp/；具体短语义应查动词词条，不能逐字翻译。",
+        "supportedClaims": [
+          "up英式音标/ʌp/；具体短语义应查动词词条，不能逐字翻译。"
+        ],
+        "summaryZh": "up英式音标/ʌp/；具体短语义应查动词词条，不能逐字翻译。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创教学转述及链接；不复制词典全文"
+      },
+      {
+        "id": "grammar",
+        "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/phrasal-verbs",
+        "title": "British Council · Phrasal verbs",
+        "publisher": "British Council",
+        "accessedAt": "2026-11-03",
+        "section": "Phrasal verbs: meaning and separable word order",
+        "retrievalStatus": "full_page",
+        "evidence": "动词与小品词组成整体；可分短语中代词位置；具体义项仍按对应词典。",
+        "supportedClaims": [
+          "动词与小品词组成整体；可分短语中代词位置；具体义项仍按对应词典。"
+        ],
+        "summaryZh": "动词与小品词组成整体；可分短语中代词位置；具体义项仍按对应词典。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创教学转述及链接；不复制词典全文"
+      }
+    ],
+    "sourceLimitations": [
+      "主例句沿用公开词卡；场景分析与回应为教学整理，非真实工作记录。",
+      "当前义及扩展义为有据原创转述；非完整词典。",
+      "词源、IPA与全页例句见单独supplement，旧回执不适用于本版。"
+    ],
+    "writer": "whole50_author3",
+    "contextKind": "existing_public_learning_example",
+    "templateVersion": "WORDS-STATIC-V3.1-FIVE-ZONE-SOURCE-FIRST",
+    "contentRevision": 2,
+    "dictionaryEntries": [
+      {
+        "lemma": "follow up",
+        "pos": "短语动词",
+        "senses": [
+          {
+            "id": "follow-up:current",
+            "glossZh": "对已经开始的事项继续采取行动或查问",
+            "definitionEn": "take further action on something already started",
+            "sourceIds": [
+              "lex"
+            ]
+          }
+        ],
+        "source": "有据原创教学转述"
+      },
+      {
+        "lemma": "follow",
+        "pos": "v. · 组词联系",
+        "senses": [
+          {
+            "id": "follow:component",
+            "glossZh": "跟随；在后面继续；整体短语义见上",
+            "definitionEn": "go or come after someone or something",
+            "sourceIds": [
+              "component"
+            ]
+          }
+        ],
+        "source": "组成词基础义，不机械推出整体义"
+      },
+      {
+        "lemma": "follow-up",
+        "pos": "adj.",
+        "senses": [
+          {
+            "id": "follow-up:extra",
+            "glossZh": "后续的；用于继续了解或处理的",
+            "definitionEn": "done later to continue or check earlier work",
+            "sourceIds": [
+              "extra"
+            ]
+          }
+        ],
+        "source": "有据原创教学转述"
+      }
+    ],
+    "focusedEntries": [
+      {
+        "entry": {
+          "lemma": "follow up",
+          "pos": "短语动词",
+          "senses": [
+            {
+              "id": "follow-up:current",
+              "glossZh": "对已经开始的事项继续采取行动或查问",
+              "definitionEn": "take further action on something already started",
+              "sourceIds": [
+                "lex"
+              ]
+            }
+          ],
+          "source": "有据原创教学转述"
+        },
+        "sense": {
+          "id": "follow-up:current",
+          "glossZh": "对已经开始的事项继续采取行动或查问",
+          "definitionEn": "take further action on something already started",
+          "sourceIds": [
+            "lex"
+          ]
+        }
+      },
+      {
+        "entry": {
+          "lemma": "follow",
+          "pos": "v. · 组词联系",
+          "senses": [
+            {
+              "id": "follow:component",
+              "glossZh": "跟随；在后面继续；整体短语义见上",
+              "definitionEn": "go or come after someone or something",
+              "sourceIds": [
+                "component"
+              ]
+            }
+          ],
+          "source": "组成词基础义，不机械推出整体义"
+        },
+        "sense": {
+          "id": "follow:component",
+          "glossZh": "跟随；在后面继续；整体短语义见上",
+          "definitionEn": "go or come after someone or something",
+          "sourceIds": [
+            "component"
+          ]
+        }
+      }
+    ],
+    "claims": [
+      {
+        "id": "lexical",
+        "text": "follow up当前义为对已经开始的事项继续采取行动或查问；扩展相关义为后续的；用于继续了解或处理的",
+        "kind": "source_fact",
+        "sourceIds": [
+          "lex",
+          "extra"
+        ],
+        "evidenceNote": "词典所列词性/义项；中文与英文为原创转述，扩展词性明确。"
+      },
+      {
+        "id": "connection",
+        "text": "把它记成“上次之后，再做下一步”，重点在前后两次行动有关联。follow up on an action 是跟进事项；不要把 up 拆成“向上”。动词写 follow up，作后续事项或修饰语时常见 follow-up。",
+        "kind": "teaching_inference",
+        "sourceIds": [
+          "lex",
+          "grammar"
+        ],
+        "evidenceNote": "基于公开主例句和已核验词义的教学分析；情境对照/回应为自编，不是来源中的真实事件。"
+      },
+      {
+        "id": "syntax",
+        "text": "I'll 是 I will，表示这里承担下一次行动；follow up on 后接 the open action，tomorrow 指跟进时间。open 在这项工作语境中表示尚未结清，整句承诺的是明天跟进，并非保证明天完成该事项。",
+        "kind": "teaching_inference",
+        "sourceIds": [
+          "lex",
+          "grammar"
+        ],
+        "evidenceNote": "基于公开主例句和已核验词义的教学分析；情境对照/回应为自编，不是来源中的真实事件。"
+      },
+      {
+        "id": "contrast",
+        "text": "check 可以是任何一次检查，follow up 更突出接着此前的事往下做。例如第一次检查报告是 check；会后再追问尚未关闭的问题，可以说 follow up。follow up on 后接事项，follow up with 后面常接要联系的人。",
+        "kind": "teaching_inference",
+        "sourceIds": [
+          "lex"
+        ],
+        "evidenceNote": "基于公开主例句和已核验词义的教学分析；情境对照/回应为自编，不是来源中的真实事件。"
+      },
+      {
+        "id": "pragmatics",
+        "text": "I’ll 把这句话变成承诺，on the open action 指定跟进哪件事，tomorrow 给出时间。自编回应：Please let me know if it is still open.（如果还没关闭，请告诉我。）接下来就有一个需要回报的结果，而不只是泛泛地说会再看看。",
+        "kind": "teaching_inference",
+        "sourceIds": [
+          "lex"
+        ],
+        "evidenceNote": "基于公开主例句和已核验词义的教学分析；情境对照/回应为自编，不是来源中的真实事件。"
+      },
+      {
+        "id": "transfer",
+        "text": "自编工作表达：I'll follow up on the missing information this afternoon.（今天下午我会跟进缺失的信息。）适合已经提出资料需求、需要继续确认时；给出对象和时间，避免只说 I'll follow up 而让听者不清楚跟进哪件事。",
+        "kind": "authored_example",
+        "sourceIds": [
+          "lex"
+        ],
+        "evidenceNote": "作者自编迁移表达，按当前义项及所给语法核验，不是真实工作事件。"
+      }
+    ]
+  },
+  {
+    "cardId": "V20261012-062",
+    "term": "bring up",
+    "context": "I'd like to bring up one issue before we finish.",
+    "contextZh": "结束前，我想提出一个问题。",
+    "gloss": "提出话题",
+    "glossKind": "source_summary",
+    "pos": "短语动词",
+    "definitionEn": "introduce a subject into a conversation",
+    "definitionZh": "在交谈中提出某个话题",
+    "contextTakeaway": "结束前想再提出一个问题。",
+    "bridgeText": "bring up an issue 是把问题提出，让大家开始注意或讨论。本句想在结束前补提一件事；它只表示把议题带进来，还没有保证当场解决。",
+    "groups": [
+      {
+        "id": "g1",
+        "title": "先记住，再联系",
+        "text": "把 bring up an issue 连成一块，记住它负责让话题进入对话。可用“把问题放到桌面上”作学习联想，但并非历史词源。issue 提醒这里是谈话义，不是 bring someone up 的养育义。",
+        "sourceIds": [
+          "lex",
+          "grammar"
+        ],
+        "claimIds": [
+          "lexical",
+          "connection"
+        ],
+        "requirements": {
+          "anchor": "把 bring up an issue 连成一块，记住它负责让话题进入对话。",
+          "explanation": "可用“把问题放到桌面上”作学习联想，但并非历史词源。",
+          "example": "bring up an issue ",
+          "boundary": "issue 提醒这里是谈话义，不是 bring someone up 的养育义。"
+        }
+      },
+      {
+        "id": "g2",
+        "title": "句法与概念",
+        "text": "I'd like to 后接 bring up，表示想做什么；one issue 是所提对象，before we finish 给出时机。可分结构中，用代词时说 bring it up。这里在申请或预告一个发言点，还没有讲出问题的具体内容。",
+        "sourceIds": [
+          "lex",
+          "grammar"
+        ],
+        "claimIds": [
+          "syntax"
+        ],
+        "requirements": {
+          "anchor": "I'd like to 后接 bring up，表示想做什么；",
+          "explanation": "one issue 是所提对象，before we finish 给出时机。",
+          "example": "I'd like to ",
+          "boundary": "这里在申请或预告一个发言点，还没有讲出问题的具体内容。"
+        }
+      },
+      {
+        "id": "g3",
+        "title": "辨析与英文邻居",
+        "text": "bring up 侧重把话题引入，discuss 侧重已经围绕它展开交流。你可以先 bring up a staffing issue，再 discuss possible solutions。若只是要指出现有方案里的一处细节，point out 往往更直接。",
+        "sourceIds": [
+          "lex"
+        ],
+        "claimIds": [
+          "contrast"
+        ],
+        "requirements": {
+          "anchor": "bring up 侧重把话题引入，discuss 侧重已经围绕它展开交流。",
+          "explanation": "你可以先 bring up a staffing issue，再 discuss possible solutions。",
+          "example": "bring up ",
+          "boundary": "若只是要指出现有方案里的一处细节，point out 往往更直接。"
+        }
+      },
+      {
+        "id": "g4",
+        "title": "这句话在做什么",
+        "text": "I’d like to 先表达想说一件事，before we finish 说明希望现在留一点时间。自编回应：Sure—what’s the issue?（可以，是什么问题？）这给对方发言入口；如果时间不足，也可以先确认议题再约后续讨论。",
+        "sourceIds": [
+          "lex"
+        ],
+        "claimIds": [
+          "pragmatics"
+        ],
+        "requirements": {
+          "anchor": "I’d like to 先表达想说一件事，before we finish 说明希望现在留一点时间。",
+          "explanation": "自编回应：Sure—what’s the issue?（可以，是什么问题？）这给对方发言入口；",
+          "example": "I’d like to ",
+          "boundary": "如果时间不足，也可以先确认议题再约后续讨论。"
+        }
+      },
+      {
+        "id": "g5",
+        "title": "工作中可以这样说",
+        "text": "自编工作表达：Could we bring up the staffing issue at the next meeting?（我们能在下次会议提出人员配置问题吗？）适合安排讨论时机。先点明主题和会议，不必在邀请讨论的这一句里塞进全部论据，让对方先确认议程。",
+        "sourceIds": [
+          "lex"
+        ],
+        "claimIds": [
+          "transfer"
+        ],
+        "requirements": {
+          "anchor": "自编工作表达：Could we bring up the staffing issue at the next meeting?（我们能在下次会议提出人员配置问题吗？）适合安排讨论时机。",
+          "explanation": "先点明主题和会议，不必在邀请讨论的这一句里塞进全部论据，让对方先确认议程。",
+          "example": "Could we bring up the staffing issue at the next meeting",
+          "boundary": "先点明主题和会议，不必在邀请讨论的这一句里塞进全部论据，让对方先确认议程。"
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "lex",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/bring-up",
+        "title": "Oxford · bring up",
+        "publisher": "Oxford University Press",
+        "accessedAt": "2026-11-03",
+        "section": "Headword, part of speech, current contextual sense and usage patterns",
+        "retrievalStatus": "full_page",
+        "evidence": "bring up本句义：在交谈中提出某个话题。核对短语动词和bring up an issue；相关义项：抚养；养育孩子。中文与英文定义为原创转述。",
+        "supportedClaims": [
+          "bring up本句义：在交谈中提出某个话题。核对短语动词和bring up an issue；相关义项：抚养；养育孩子。中文与英文定义为原创转述。"
+        ],
+        "summaryZh": "bring up本句义：在交谈中提出某个话题。核对短语动词和bring up an issue；相关义项：抚养；养育孩子。中文与英文定义为原创转述。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创教学转述及链接；不复制词典全文"
+      },
+      {
+        "id": "component",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/bring",
+        "title": "Oxford · bring",
+        "publisher": "Oxford University Press",
+        "accessedAt": "2026-11-03",
+        "section": "Headword British IPA and base verb sense",
+        "retrievalStatus": "full_page",
+        "evidence": "带来；带到某个地方；本页英式音标已核对。组成词联系不代替整体短语义。",
+        "supportedClaims": [
+          "带来；带到某个地方；本页英式音标已核对。组成词联系不代替整体短语义。"
+        ],
+        "summaryZh": "带来；带到某个地方；本页英式音标已核对。组成词联系不代替整体短语义。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创教学转述及链接；不复制词典全文"
+      },
+      {
+        "id": "particle",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/up_1",
+        "title": "Oxford · up",
+        "publisher": "Oxford University Press",
+        "accessedAt": "2026-11-03",
+        "section": "Headword British IPA and phrasal-verb lookup note",
+        "retrievalStatus": "full_page",
+        "evidence": "up英式音标/ʌp/；具体短语义应查动词词条，不能逐字翻译。",
+        "supportedClaims": [
+          "up英式音标/ʌp/；具体短语义应查动词词条，不能逐字翻译。"
+        ],
+        "summaryZh": "up英式音标/ʌp/；具体短语义应查动词词条，不能逐字翻译。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创教学转述及链接；不复制词典全文"
+      },
+      {
+        "id": "grammar",
+        "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/phrasal-verbs",
+        "title": "British Council · Phrasal verbs",
+        "publisher": "British Council",
+        "accessedAt": "2026-11-03",
+        "section": "Phrasal verbs: meaning and separable word order",
+        "retrievalStatus": "full_page",
+        "evidence": "动词与小品词组成整体；可分短语中代词位置；具体义项仍按对应词典。",
+        "supportedClaims": [
+          "动词与小品词组成整体；可分短语中代词位置；具体义项仍按对应词典。"
+        ],
+        "summaryZh": "动词与小品词组成整体；可分短语中代词位置；具体义项仍按对应词典。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创教学转述及链接；不复制词典全文"
+      }
+    ],
+    "sourceLimitations": [
+      "主例句沿用公开词卡；场景分析与回应为教学整理，非真实工作记录。",
+      "当前义及扩展义为有据原创转述；非完整词典。",
+      "词源、IPA与全页例句见单独supplement，旧回执不适用于本版。"
+    ],
+    "writer": "whole50_author3",
+    "contextKind": "existing_public_learning_example",
+    "templateVersion": "WORDS-STATIC-V3.1-FIVE-ZONE-SOURCE-FIRST",
+    "contentRevision": 2,
+    "dictionaryEntries": [
+      {
+        "lemma": "bring up",
+        "pos": "短语动词",
+        "senses": [
+          {
+            "id": "bring-up:current",
+            "glossZh": "在交谈中提出某个话题",
+            "definitionEn": "introduce a subject into a conversation",
+            "sourceIds": [
+              "lex"
+            ]
+          }
+        ],
+        "source": "有据原创教学转述"
+      },
+      {
+        "lemma": "bring",
+        "pos": "v. · 组词联系",
+        "senses": [
+          {
+            "id": "bring:component",
+            "glossZh": "带来；带到某个地方；整体短语义见上",
+            "definitionEn": "come with someone or something to a place",
+            "sourceIds": [
+              "component"
+            ]
+          }
+        ],
+        "source": "组成词基础义，不机械推出整体义"
+      },
+      {
+        "lemma": "bring up",
+        "pos": "短语动词",
+        "senses": [
+          {
+            "id": "bring-up:extra",
+            "glossZh": "抚养；养育孩子",
+            "definitionEn": "care for a child while they grow up",
+            "sourceIds": [
+              "lex"
+            ]
+          }
+        ],
+        "source": "有据原创教学转述"
+      }
+    ],
+    "focusedEntries": [
+      {
+        "entry": {
+          "lemma": "bring up",
+          "pos": "短语动词",
+          "senses": [
+            {
+              "id": "bring-up:current",
+              "glossZh": "在交谈中提出某个话题",
+              "definitionEn": "introduce a subject into a conversation",
+              "sourceIds": [
+                "lex"
+              ]
+            }
+          ],
+          "source": "有据原创教学转述"
+        },
+        "sense": {
+          "id": "bring-up:current",
+          "glossZh": "在交谈中提出某个话题",
+          "definitionEn": "introduce a subject into a conversation",
+          "sourceIds": [
+            "lex"
+          ]
+        }
+      },
+      {
+        "entry": {
+          "lemma": "bring",
+          "pos": "v. · 组词联系",
+          "senses": [
+            {
+              "id": "bring:component",
+              "glossZh": "带来；带到某个地方；整体短语义见上",
+              "definitionEn": "come with someone or something to a place",
+              "sourceIds": [
+                "component"
+              ]
+            }
+          ],
+          "source": "组成词基础义，不机械推出整体义"
+        },
+        "sense": {
+          "id": "bring:component",
+          "glossZh": "带来；带到某个地方；整体短语义见上",
+          "definitionEn": "come with someone or something to a place",
+          "sourceIds": [
+            "component"
+          ]
+        }
+      }
+    ],
+    "claims": [
+      {
+        "id": "lexical",
+        "text": "bring up当前义为在交谈中提出某个话题；扩展相关义为抚养；养育孩子",
+        "kind": "source_fact",
+        "sourceIds": [
+          "lex"
+        ],
+        "evidenceNote": "词典所列词性/义项；中文与英文为原创转述，扩展词性明确。"
+      },
+      {
+        "id": "connection",
+        "text": "把 bring up an issue 连成一块，记住它负责让话题进入对话。可用“把问题放到桌面上”作学习联想，但并非历史词源。issue 提醒这里是谈话义，不是 bring someone up 的养育义。",
+        "kind": "teaching_inference",
+        "sourceIds": [
+          "lex",
+          "grammar"
+        ],
+        "evidenceNote": "基于公开主例句和已核验词义的教学分析；情境对照/回应为自编，不是来源中的真实事件。"
+      },
+      {
+        "id": "syntax",
+        "text": "I'd like to 后接 bring up，表示想做什么；one issue 是所提对象，before we finish 给出时机。可分结构中，用代词时说 bring it up。这里在申请或预告一个发言点，还没有讲出问题的具体内容。",
+        "kind": "teaching_inference",
+        "sourceIds": [
+          "lex",
+          "grammar"
+        ],
+        "evidenceNote": "基于公开主例句和已核验词义的教学分析；情境对照/回应为自编，不是来源中的真实事件。"
+      },
+      {
+        "id": "contrast",
+        "text": "bring up 侧重把话题引入，discuss 侧重已经围绕它展开交流。你可以先 bring up a staffing issue，再 discuss possible solutions。若只是要指出现有方案里的一处细节，point out 往往更直接。",
+        "kind": "teaching_inference",
+        "sourceIds": [
+          "lex"
+        ],
+        "evidenceNote": "基于公开主例句和已核验词义的教学分析；情境对照/回应为自编，不是来源中的真实事件。"
+      },
+      {
+        "id": "pragmatics",
+        "text": "I’d like to 先表达想说一件事，before we finish 说明希望现在留一点时间。自编回应：Sure—what’s the issue?（可以，是什么问题？）这给对方发言入口；如果时间不足，也可以先确认议题再约后续讨论。",
+        "kind": "teaching_inference",
+        "sourceIds": [
+          "lex"
+        ],
+        "evidenceNote": "基于公开主例句和已核验词义的教学分析；情境对照/回应为自编，不是来源中的真实事件。"
+      },
+      {
+        "id": "transfer",
+        "text": "自编工作表达：Could we bring up the staffing issue at the next meeting?（我们能在下次会议提出人员配置问题吗？）适合安排讨论时机。先点明主题和会议，不必在邀请讨论的这一句里塞进全部论据，让对方先确认议程。",
+        "kind": "authored_example",
+        "sourceIds": [
+          "lex"
+        ],
+        "evidenceNote": "作者自编迁移表达，按当前义项及所给语法核验，不是真实工作事件。"
+      }
+    ]
+  },
+  {
+    "cardId": "V20261012-063",
+    "term": "walk through",
+    "context": "Could you walk us through the revised plan?",
+    "contextZh": "你能逐步向我们讲解修订计划吗？",
+    "gloss": "逐步讲解",
+    "glossKind": "source_summary",
+    "pos": "短语动词",
+    "definitionEn": "explain or demonstrate something to someone step by step",
+    "definitionZh": "按步骤向某人说明或演示一件事",
+    "contextTakeaway": "请求对方逐步讲解修订后的计划。",
+    "bridgeText": "walk someone through something 是带着对方一步一步了解过程。本句要求对方把修订后的计划讲一遍，重点是让听者跟上各步骤，而不只是说计划已经改好了。",
+    "groups": [
+      {
+        "id": "g1",
+        "title": "先记住，再联系",
+        "text": "记“带我一步一步过一遍”。把 walk us through the plan 和 walk me through the process 连起来：us/me 是需要理解的人，plan/process 是要过的内容。走一遍是理解图像，不一定真的移动身体。",
+        "sourceIds": [
+          "lex",
+          "grammar"
+        ],
+        "claimIds": [
+          "lexical",
+          "connection"
+        ],
+        "requirements": {
+          "anchor": "记“带我一步一步过一遍”。",
+          "explanation": "把 walk us through the plan 和 walk me through the process 连起来：us/me 是需要理解的人，plan/process 是要过的内容。",
+          "example": "walk us through the plan ",
+          "boundary": "走一遍是理解图像，不一定真的移动身体。"
+        }
+      },
+      {
+        "id": "g2",
+        "title": "句法与概念",
+        "text": "Could you 引出请求，walk us through 里的 us 是听讲的人，the revised plan 是讲解内容。不能省掉 through 把它读成普通走路；重点是带着听者理解计划各部分，句子并未要求重新批准计划。",
+        "sourceIds": [
+          "lex",
+          "grammar"
+        ],
+        "claimIds": [
+          "syntax"
+        ],
+        "requirements": {
+          "anchor": "Could you 引出请求，walk us through 里的 us 是听讲的人，the revised plan 是讲解内容。",
+          "explanation": "不能省掉 through 把它读成普通走路；",
+          "example": "Could you ",
+          "boundary": "重点是带着听者理解计划各部分，句子并未要求重新批准计划。"
+        }
+      },
+      {
+        "id": "g3",
+        "title": "辨析与英文邻居",
+        "text": "summarize 是提炼重点，walk someone through 则更强调逐步带领。例如两分钟说明计划要点是 summarize；按阶段解释任务、输入和交接，则更像 walk us through the plan。选择哪种，取决于听者需要概览还是跟着做。",
+        "sourceIds": [
+          "lex"
+        ],
+        "claimIds": [
+          "contrast"
+        ],
+        "requirements": {
+          "anchor": "summarize 是提炼重点，walk someone through 则更强调逐步带领。",
+          "explanation": "例如两分钟说明计划要点是 summarize；",
+          "example": "summarize ",
+          "boundary": "选择哪种，取决于听者需要概览还是跟着做。"
+        }
+      },
+      {
+        "id": "g4",
+        "title": "这句话在做什么",
+        "text": "Could you 把句子写成请求，us 指定听众，revised 表明大家需要理解的是改过后的版本。自编回应：Certainly. Let’s start with the first stage.（当然，我们从第一阶段开始。）这样直接进入分步讲解，而不是只把文件发过去。",
+        "sourceIds": [
+          "lex"
+        ],
+        "claimIds": [
+          "pragmatics"
+        ],
+        "requirements": {
+          "anchor": "Could you 把句子写成请求，us 指定听众，revised 表明大家需要理解的是改过后的版本。",
+          "explanation": "自编回应：Certainly. Let’s start with the first stage.（当然，我们从第一阶段开始。",
+          "example": "Could you ",
+          "boundary": "）这样直接进入分步讲解，而不是只把文件发过去。"
+        }
+      },
+      {
+        "id": "g5",
+        "title": "工作中可以这样说",
+        "text": "自编工作表达：Could you walk me through how to submit this form?（你能一步步教我怎样提交这张表吗？）适合初次操作或对流程不熟时。将问题指向具体步骤，对方可边演示边说明；必要时再请其停在不懂的环节。",
+        "sourceIds": [
+          "lex"
+        ],
+        "claimIds": [
+          "transfer"
+        ],
+        "requirements": {
+          "anchor": "自编工作表达：Could you walk me through how to submit this form?（你能一步步教我怎样提交这张表吗？）适合初次操作或对流程不熟时。",
+          "explanation": "将问题指向具体步骤，对方可边演示边说明；",
+          "example": "Could you walk me through how to submit this form",
+          "boundary": "必要时再请其停在不懂的环节。"
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "lex",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/walk-through_1",
+        "title": "Oxford · walk through",
+        "publisher": "Oxford University Press",
+        "accessedAt": "2026-11-04",
+        "section": "Headword, part of speech, current contextual sense and usage patterns",
+        "retrievalStatus": "full_page",
+        "evidence": "walk through本句义：按步骤向某人说明或演示一件事。核对短语动词和walk someone through a plan；相关义项：另见extra条目。中文与英文定义为原创转述。",
+        "supportedClaims": [
+          "walk through本句义：按步骤向某人说明或演示一件事。核对短语动词和walk someone through a plan；相关义项：另见extra条目。中文与英文定义为原创转述。"
+        ],
+        "summaryZh": "walk through本句义：按步骤向某人说明或演示一件事。核对短语动词和walk someone through a plan；相关义项：另见extra条目。中文与英文定义为原创转述。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创教学转述及链接；不复制词典全文"
+      },
+      {
+        "id": "extra",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/walk_1",
+        "title": "Oxford · walk (v.)",
+        "publisher": "Oxford University Press",
+        "accessedAt": "2026-11-03",
+        "section": "Headword, part of speech and additional sense",
+        "retrievalStatus": "full_page",
+        "evidence": "陪同某人步行到某处；go with someone on foot to a place",
+        "supportedClaims": [
+          "陪同某人步行到某处；go with someone on foot to a place"
+        ],
+        "summaryZh": "陪同某人步行到某处；go with someone on foot to a place",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创教学转述及链接；不复制词典全文"
+      },
+      {
+        "id": "component",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/walk_1",
+        "title": "Oxford · walk",
+        "publisher": "Oxford University Press",
+        "accessedAt": "2026-11-03",
+        "section": "Headword British IPA and base verb sense",
+        "retrievalStatus": "full_page",
+        "evidence": "步行；一步一步移动；本页英式音标已核对。组成词联系不代替整体短语义。",
+        "supportedClaims": [
+          "步行；一步一步移动；本页英式音标已核对。组成词联系不代替整体短语义。"
+        ],
+        "summaryZh": "步行；一步一步移动；本页英式音标已核对。组成词联系不代替整体短语义。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创教学转述及链接；不复制词典全文"
+      },
+      {
+        "id": "particle",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/through_1",
+        "title": "Oxford · through",
+        "publisher": "Oxford University Press",
+        "accessedAt": "2026-11-03",
+        "section": "Headword British IPA and phrasal-verb lookup note",
+        "retrievalStatus": "full_page",
+        "evidence": "through英式音标/θruː/；具体短语义应查动词词条，不能逐字翻译。",
+        "supportedClaims": [
+          "through英式音标/θruː/；具体短语义应查动词词条，不能逐字翻译。"
+        ],
+        "summaryZh": "through英式音标/θruː/；具体短语义应查动词词条，不能逐字翻译。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创教学转述及链接；不复制词典全文"
+      },
+      {
+        "id": "grammar",
+        "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/phrasal-verbs",
+        "title": "British Council · Phrasal verbs",
+        "publisher": "British Council",
+        "accessedAt": "2026-11-03",
+        "section": "Phrasal verbs: meaning and separable word order",
+        "retrievalStatus": "full_page",
+        "evidence": "动词与小品词组成整体；可分短语中代词位置；具体义项仍按对应词典。",
+        "supportedClaims": [
+          "动词与小品词组成整体；可分短语中代词位置；具体义项仍按对应词典。"
+        ],
+        "summaryZh": "动词与小品词组成整体；可分短语中代词位置；具体义项仍按对应词典。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创教学转述及链接；不复制词典全文"
+      }
+    ],
+    "sourceLimitations": [
+      "主例句沿用公开词卡；场景分析与回应为教学整理，非真实工作记录。",
+      "当前义及扩展义为有据原创转述；非完整词典。",
+      "词源、IPA与全页例句见单独supplement，旧回执不适用于本版。"
+    ],
+    "writer": "whole50_author3",
+    "contextKind": "existing_public_learning_example",
+    "templateVersion": "WORDS-STATIC-V3.1-FIVE-ZONE-SOURCE-FIRST",
+    "contentRevision": 2,
+    "dictionaryEntries": [
+      {
+        "lemma": "walk through",
+        "pos": "短语动词",
+        "senses": [
+          {
+            "id": "walk-through:current",
+            "glossZh": "按步骤向某人说明或演示一件事",
+            "definitionEn": "explain or demonstrate something to someone step by step",
+            "sourceIds": [
+              "lex"
+            ]
+          }
+        ],
+        "source": "有据原创教学转述"
+      },
+      {
+        "lemma": "walk",
+        "pos": "v. · 组词联系",
+        "senses": [
+          {
+            "id": "walk:component",
+            "glossZh": "步行；一步一步移动；整体短语义见上",
+            "definitionEn": "move on foot without running",
+            "sourceIds": [
+              "component"
+            ]
+          }
+        ],
+        "source": "组成词基础义，不机械推出整体义"
+      },
+      {
+        "lemma": "walk",
+        "pos": "v.",
+        "senses": [
+          {
+            "id": "walk-through:extra",
+            "glossZh": "陪同某人步行到某处",
+            "definitionEn": "go with someone on foot to a place",
+            "sourceIds": [
+              "extra"
+            ]
+          }
+        ],
+        "source": "有据原创教学转述"
+      }
+    ],
+    "focusedEntries": [
+      {
+        "entry": {
+          "lemma": "walk through",
+          "pos": "短语动词",
+          "senses": [
+            {
+              "id": "walk-through:current",
+              "glossZh": "按步骤向某人说明或演示一件事",
+              "definitionEn": "explain or demonstrate something to someone step by step",
+              "sourceIds": [
+                "lex"
+              ]
+            }
+          ],
+          "source": "有据原创教学转述"
+        },
+        "sense": {
+          "id": "walk-through:current",
+          "glossZh": "按步骤向某人说明或演示一件事",
+          "definitionEn": "explain or demonstrate something to someone step by step",
+          "sourceIds": [
+            "lex"
+          ]
+        }
+      },
+      {
+        "entry": {
+          "lemma": "walk",
+          "pos": "v. · 组词联系",
+          "senses": [
+            {
+              "id": "walk:component",
+              "glossZh": "步行；一步一步移动；整体短语义见上",
+              "definitionEn": "move on foot without running",
+              "sourceIds": [
+                "component"
+              ]
+            }
+          ],
+          "source": "组成词基础义，不机械推出整体义"
+        },
+        "sense": {
+          "id": "walk:component",
+          "glossZh": "步行；一步一步移动；整体短语义见上",
+          "definitionEn": "move on foot without running",
+          "sourceIds": [
+            "component"
+          ]
+        }
+      }
+    ],
+    "claims": [
+      {
+        "id": "lexical",
+        "text": "walk through当前义为按步骤向某人说明或演示一件事；扩展相关义为陪同某人步行到某处",
+        "kind": "source_fact",
+        "sourceIds": [
+          "lex",
+          "extra"
+        ],
+        "evidenceNote": "词典所列词性/义项；中文与英文为原创转述，扩展词性明确。"
+      },
+      {
+        "id": "connection",
+        "text": "记“带我一步一步过一遍”。把 walk us through the plan 和 walk me through the process 连起来：us/me 是需要理解的人，plan/process 是要过的内容。走一遍是理解图像，不一定真的移动身体。",
+        "kind": "teaching_inference",
+        "sourceIds": [
+          "lex",
+          "grammar"
+        ],
+        "evidenceNote": "基于公开主例句和已核验词义的教学分析；情境对照/回应为自编，不是来源中的真实事件。"
+      },
+      {
+        "id": "syntax",
+        "text": "Could you 引出请求，walk us through 里的 us 是听讲的人，the revised plan 是讲解内容。不能省掉 through 把它读成普通走路；重点是带着听者理解计划各部分，句子并未要求重新批准计划。",
+        "kind": "teaching_inference",
+        "sourceIds": [
+          "lex",
+          "grammar"
+        ],
+        "evidenceNote": "基于公开主例句和已核验词义的教学分析；情境对照/回应为自编，不是来源中的真实事件。"
+      },
+      {
+        "id": "contrast",
+        "text": "summarize 是提炼重点，walk someone through 则更强调逐步带领。例如两分钟说明计划要点是 summarize；按阶段解释任务、输入和交接，则更像 walk us through the plan。选择哪种，取决于听者需要概览还是跟着做。",
+        "kind": "teaching_inference",
+        "sourceIds": [
+          "lex"
+        ],
+        "evidenceNote": "基于公开主例句和已核验词义的教学分析；情境对照/回应为自编，不是来源中的真实事件。"
+      },
+      {
+        "id": "pragmatics",
+        "text": "Could you 把句子写成请求，us 指定听众，revised 表明大家需要理解的是改过后的版本。自编回应：Certainly. Let’s start with the first stage.（当然，我们从第一阶段开始。）这样直接进入分步讲解，而不是只把文件发过去。",
+        "kind": "teaching_inference",
+        "sourceIds": [
+          "lex"
+        ],
+        "evidenceNote": "基于公开主例句和已核验词义的教学分析；情境对照/回应为自编，不是来源中的真实事件。"
+      },
+      {
+        "id": "transfer",
+        "text": "自编工作表达：Could you walk me through how to submit this form?（你能一步步教我怎样提交这张表吗？）适合初次操作或对流程不熟时。将问题指向具体步骤，对方可边演示边说明；必要时再请其停在不懂的环节。",
+        "kind": "authored_example",
+        "sourceIds": [
+          "lex"
+        ],
+        "evidenceNote": "作者自编迁移表达，按当前义项及所给语法核验，不是真实工作事件。"
+      }
+    ]
+  },
+  {
+    "cardId": "V20261012-064",
+    "term": "point out",
+    "context": "Let me point out one difference between the two options.",
+    "contextZh": "让我指出两个方案间的一处差异。",
+    "gloss": "指出",
+    "glossKind": "source_summary",
+    "pos": "短语动词",
+    "definitionEn": "draw someone's attention to information or a detail",
+    "definitionZh": "提醒别人注意某条信息或细节",
+    "contextTakeaway": "将注意力引向两个方案之间的一处差异。",
+    "bridgeText": "point out 是把一项信息特意指出来，让对方留意。本句要大家看到两个选项之间的一处差异；它可能是补充信息，不一定是在批评谁。",
+    "groups": [
+      {
+        "id": "g1",
+        "title": "先记住，再联系",
+        "text": "用“你看这里”帮助记住 point out 的提醒功能，动作未必真的用手指。搭配 point out a difference，把注意力放在信息上；它不等于只说 point，后者单独使用容易让人想到指向位置。",
+        "sourceIds": [
+          "lex",
+          "grammar"
+        ],
+        "claimIds": [
+          "lexical",
+          "connection"
+        ],
+        "requirements": {
+          "anchor": "用“你看这里”帮助记住 point out 的提醒功能，动作未必真的用手指。",
+          "explanation": "搭配 point out a difference，把注意力放在信息上；",
+          "example": "point out ",
+          "boundary": "它不等于只说 point，后者单独使用容易让人想到指向位置。"
+        }
+      },
+      {
+        "id": "g2",
+        "title": "句法与概念",
+        "text": "Let me point out 是引出自己要说明的内容；one difference 是对象，between the two options 限定比较双方。point out 也可接 that 从句。整句只预告指出一处不同，差异是什么还要看随后的说明。",
+        "sourceIds": [
+          "lex",
+          "grammar"
+        ],
+        "claimIds": [
+          "syntax"
+        ],
+        "requirements": {
+          "anchor": "Let me point out 是引出自己要说明的内容；",
+          "explanation": "one difference 是对象，between the two options 限定比较双方。",
+          "example": "Let me point out ",
+          "boundary": "整句只预告指出一处不同，差异是什么还要看随后的说明。"
+        }
+      },
+      {
+        "id": "g3",
+        "title": "辨析与英文邻居",
+        "text": "mention 可以只是顺带提到，point out 更突出“请注意这一点”。比如顺便提及有两个选项是 mention；明确指出两者保修期不同，就适合 point out。point out that… 后面还能接完整事实。",
+        "sourceIds": [
+          "lex"
+        ],
+        "claimIds": [
+          "contrast"
+        ],
+        "requirements": {
+          "anchor": "mention 可以只是顺带提到，point out 更突出“请注意这一点”。",
+          "explanation": "比如顺便提及有两个选项是 mention；",
+          "example": "mention ",
+          "boundary": "point out that… 后面还能接完整事实。"
+        }
+      },
+      {
+        "id": "g4",
+        "title": "这句话在做什么",
+        "text": "Let me 为接下来的说明取得发言空间，one difference 限定这次要指出的内容。自编回应：Which difference should we focus on?（我们该重点看哪一点区别？）说话者随后就应给出具体差异，让选择有依据。",
+        "sourceIds": [
+          "lex"
+        ],
+        "claimIds": [
+          "pragmatics"
+        ],
+        "requirements": {
+          "anchor": "Let me 为接下来的说明取得发言空间，one difference 限定这次要指出的内容。",
+          "explanation": "自编回应：Which difference should we focus on?（我们该重点看哪一点区别？）说话者随后就应给出具体差异，让选择有依据。",
+          "example": "Let me ",
+          "boundary": "自编回应：Which difference should we focus on?（我们该重点看哪一点区别？）说话者随后就应给出具体差异，让选择有依据。"
+        }
+      },
+      {
+        "id": "g5",
+        "title": "工作中可以这样说",
+        "text": "自编工作表达：I'd like to point out that the quote excludes shipping.（我想提醒一下，报价不含运费。）适合发现讨论遗漏重要条件时。先指出可核对的信息，再讨论影响；这句本身没有责怪报价方，也没有决定是否接受报价。",
+        "sourceIds": [
+          "lex"
+        ],
+        "claimIds": [
+          "transfer"
+        ],
+        "requirements": {
+          "anchor": "自编工作表达：I'd like to point out that the quote excludes shipping.（我想提醒一下，报价不含运费。",
+          "explanation": "）适合发现讨论遗漏重要条件时。",
+          "example": "I'd like to point out that the quote excludes shipping",
+          "boundary": "这句本身没有责怪报价方，也没有决定是否接受报价。"
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "lex",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/point-out",
+        "title": "Oxford · point out",
+        "publisher": "Oxford University Press",
+        "accessedAt": "2026-11-03",
+        "section": "Headword, part of speech, current contextual sense and usage patterns",
+        "retrievalStatus": "full_page",
+        "evidence": "point out本句义：提醒别人注意某条信息或细节。核对短语动词和point out a difference；相关义项：指出某人或某物的位置供辨认。中文与英文定义为原创转述。",
+        "supportedClaims": [
+          "point out本句义：提醒别人注意某条信息或细节。核对短语动词和point out a difference；相关义项：指出某人或某物的位置供辨认。中文与英文定义为原创转述。"
+        ],
+        "summaryZh": "point out本句义：提醒别人注意某条信息或细节。核对短语动词和point out a difference；相关义项：指出某人或某物的位置供辨认。中文与英文定义为原创转述。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创教学转述及链接；不复制词典全文"
+      },
+      {
+        "id": "component",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/point_2",
+        "title": "Oxford · point",
+        "publisher": "Oxford University Press",
+        "accessedAt": "2026-11-03",
+        "section": "Headword British IPA and base verb sense",
+        "retrievalStatus": "full_page",
+        "evidence": "指向；示意某人看哪里；本页英式音标已核对。组成词联系不代替整体短语义。",
+        "supportedClaims": [
+          "指向；示意某人看哪里；本页英式音标已核对。组成词联系不代替整体短语义。"
+        ],
+        "summaryZh": "指向；示意某人看哪里；本页英式音标已核对。组成词联系不代替整体短语义。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创教学转述及链接；不复制词典全文"
+      },
+      {
+        "id": "particle",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/out_1",
+        "title": "Oxford · out",
+        "publisher": "Oxford University Press",
+        "accessedAt": "2026-11-03",
+        "section": "Headword British IPA and phrasal-verb lookup note",
+        "retrievalStatus": "full_page",
+        "evidence": "out英式音标/aʊt/；具体短语义应查动词词条，不能逐字翻译。",
+        "supportedClaims": [
+          "out英式音标/aʊt/；具体短语义应查动词词条，不能逐字翻译。"
+        ],
+        "summaryZh": "out英式音标/aʊt/；具体短语义应查动词词条，不能逐字翻译。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创教学转述及链接；不复制词典全文"
+      },
+      {
+        "id": "grammar",
+        "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/phrasal-verbs",
+        "title": "British Council · Phrasal verbs",
+        "publisher": "British Council",
+        "accessedAt": "2026-11-03",
+        "section": "Phrasal verbs: meaning and separable word order",
+        "retrievalStatus": "full_page",
+        "evidence": "动词与小品词组成整体；可分短语中代词位置；具体义项仍按对应词典。",
+        "supportedClaims": [
+          "动词与小品词组成整体；可分短语中代词位置；具体义项仍按对应词典。"
+        ],
+        "summaryZh": "动词与小品词组成整体；可分短语中代词位置；具体义项仍按对应词典。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创教学转述及链接；不复制词典全文"
+      }
+    ],
+    "sourceLimitations": [
+      "主例句沿用公开词卡；场景分析与回应为教学整理，非真实工作记录。",
+      "当前义及扩展义为有据原创转述；非完整词典。",
+      "词源、IPA与全页例句见单独supplement，旧回执不适用于本版。"
+    ],
+    "writer": "whole50_author3",
+    "contextKind": "existing_public_learning_example",
+    "templateVersion": "WORDS-STATIC-V3.1-FIVE-ZONE-SOURCE-FIRST",
+    "contentRevision": 2,
+    "dictionaryEntries": [
+      {
+        "lemma": "point out",
+        "pos": "短语动词",
+        "senses": [
+          {
+            "id": "point-out:current",
+            "glossZh": "提醒别人注意某条信息或细节",
+            "definitionEn": "draw someone's attention to information or a detail",
+            "sourceIds": [
+              "lex"
+            ]
+          }
+        ],
+        "source": "有据原创教学转述"
+      },
+      {
+        "lemma": "point",
+        "pos": "v. · 组词联系",
+        "senses": [
+          {
+            "id": "point:component",
+            "glossZh": "指向；示意某人看哪里；整体短语义见上",
+            "definitionEn": "direct a finger or object towards something to show it",
+            "sourceIds": [
+              "component"
+            ]
+          }
+        ],
+        "source": "组成词基础义，不机械推出整体义"
+      },
+      {
+        "lemma": "point out",
+        "pos": "短语动词",
+        "senses": [
+          {
+            "id": "point-out:extra",
+            "glossZh": "指出某人或某物的位置供辨认",
+            "definitionEn": "show which person or object is meant by indicating it",
+            "sourceIds": [
+              "lex"
+            ]
+          }
+        ],
+        "source": "有据原创教学转述"
+      }
+    ],
+    "focusedEntries": [
+      {
+        "entry": {
+          "lemma": "point out",
+          "pos": "短语动词",
+          "senses": [
+            {
+              "id": "point-out:current",
+              "glossZh": "提醒别人注意某条信息或细节",
+              "definitionEn": "draw someone's attention to information or a detail",
+              "sourceIds": [
+                "lex"
+              ]
+            }
+          ],
+          "source": "有据原创教学转述"
+        },
+        "sense": {
+          "id": "point-out:current",
+          "glossZh": "提醒别人注意某条信息或细节",
+          "definitionEn": "draw someone's attention to information or a detail",
+          "sourceIds": [
+            "lex"
+          ]
+        }
+      },
+      {
+        "entry": {
+          "lemma": "point",
+          "pos": "v. · 组词联系",
+          "senses": [
+            {
+              "id": "point:component",
+              "glossZh": "指向；示意某人看哪里；整体短语义见上",
+              "definitionEn": "direct a finger or object towards something to show it",
+              "sourceIds": [
+                "component"
+              ]
+            }
+          ],
+          "source": "组成词基础义，不机械推出整体义"
+        },
+        "sense": {
+          "id": "point:component",
+          "glossZh": "指向；示意某人看哪里；整体短语义见上",
+          "definitionEn": "direct a finger or object towards something to show it",
+          "sourceIds": [
+            "component"
+          ]
+        }
+      }
+    ],
+    "claims": [
+      {
+        "id": "lexical",
+        "text": "point out当前义为提醒别人注意某条信息或细节；扩展相关义为指出某人或某物的位置供辨认",
+        "kind": "source_fact",
+        "sourceIds": [
+          "lex"
+        ],
+        "evidenceNote": "词典所列词性/义项；中文与英文为原创转述，扩展词性明确。"
+      },
+      {
+        "id": "connection",
+        "text": "用“你看这里”帮助记住 point out 的提醒功能，动作未必真的用手指。搭配 point out a difference，把注意力放在信息上；它不等于只说 point，后者单独使用容易让人想到指向位置。",
+        "kind": "teaching_inference",
+        "sourceIds": [
+          "lex",
+          "grammar"
+        ],
+        "evidenceNote": "基于公开主例句和已核验词义的教学分析；情境对照/回应为自编，不是来源中的真实事件。"
+      },
+      {
+        "id": "syntax",
+        "text": "Let me point out 是引出自己要说明的内容；one difference 是对象，between the two options 限定比较双方。point out 也可接 that 从句。整句只预告指出一处不同，差异是什么还要看随后的说明。",
+        "kind": "teaching_inference",
+        "sourceIds": [
+          "lex",
+          "grammar"
+        ],
+        "evidenceNote": "基于公开主例句和已核验词义的教学分析；情境对照/回应为自编，不是来源中的真实事件。"
+      },
+      {
+        "id": "contrast",
+        "text": "mention 可以只是顺带提到，point out 更突出“请注意这一点”。比如顺便提及有两个选项是 mention；明确指出两者保修期不同，就适合 point out。point out that… 后面还能接完整事实。",
+        "kind": "teaching_inference",
+        "sourceIds": [
+          "lex"
+        ],
+        "evidenceNote": "基于公开主例句和已核验词义的教学分析；情境对照/回应为自编，不是来源中的真实事件。"
+      },
+      {
+        "id": "pragmatics",
+        "text": "Let me 为接下来的说明取得发言空间，one difference 限定这次要指出的内容。自编回应：Which difference should we focus on?（我们该重点看哪一点区别？）说话者随后就应给出具体差异，让选择有依据。",
+        "kind": "teaching_inference",
+        "sourceIds": [
+          "lex"
+        ],
+        "evidenceNote": "基于公开主例句和已核验词义的教学分析；情境对照/回应为自编，不是来源中的真实事件。"
+      },
+      {
+        "id": "transfer",
+        "text": "自编工作表达：I'd like to point out that the quote excludes shipping.（我想提醒一下，报价不含运费。）适合发现讨论遗漏重要条件时。先指出可核对的信息，再讨论影响；这句本身没有责怪报价方，也没有决定是否接受报价。",
+        "kind": "authored_example",
+        "sourceIds": [
+          "lex"
+        ],
+        "evidenceNote": "作者自编迁移表达，按当前义项及所给语法核验，不是真实工作事件。"
+      }
+    ]
+  },
+  {
+    "cardId": "V20261012-065",
+    "term": "rule out",
+    "context": "We cannot rule out a delay at this stage.",
+    "contextZh": "现阶段，我们无法排除延误的可能。",
+    "gloss": "排除",
+    "glossKind": "source_summary",
+    "pos": "短语动词",
+    "definitionEn": "stop considering something as a possibility",
+    "definitionZh": "不再把某事视为可能情况或可选方案",
+    "contextTakeaway": "还不能排除延误；不是断言一定延误。",
+    "bridgeText": "cannot rule out 表示现在还不能排除一种可能。本句保留“可能延误”这个风险，但没有说延误一定发生或概率很高；它提醒大家别过早把风险当作不存在。",
+    "groups": [
+      {
+        "id": "g1",
+        "title": "先记住，再联系",
+        "text": "把 rule out 和“从可能清单里划掉”联系起来，这是记忆类比。再反过来记 cannot rule out：现在还不能划掉。否定词决定信息方向，少看一个 cannot，就会把风险判断完全读反。",
+        "sourceIds": [
+          "lex",
+          "grammar"
+        ],
+        "claimIds": [
+          "lexical",
+          "connection"
+        ],
+        "requirements": {
+          "anchor": "把 rule out 和“从可能清单里划掉”联系起来，这是记忆类比。",
+          "explanation": "再反过来记 cannot rule out：现在还不能划掉。",
+          "example": "rule out ",
+          "boundary": "否定词决定信息方向，少看一个 cannot，就会把风险判断完全读反。"
+        }
+      },
+      {
+        "id": "g2",
+        "title": "句法与概念",
+        "text": "cannot 否定 rule out，a delay 是不能排除的情况，at this stage 限定为现阶段。句子保留延误的可能性，却没有提供概率；因此不能换成“很可能延误”或“肯定延误”，两者都比原句更强。",
+        "sourceIds": [
+          "lex",
+          "grammar"
+        ],
+        "claimIds": [
+          "syntax"
+        ],
+        "requirements": {
+          "anchor": "cannot 否定 rule out，a delay 是不能排除的情况，at this stage 限定为现阶段。",
+          "explanation": "句子保留延误的可能性，却没有提供概率；",
+          "example": "cannot ",
+          "boundary": "因此不能换成“很可能延误”或“肯定延误”，两者都比原句更强。"
+        }
+      },
+      {
+        "id": "g3",
+        "title": "辨析与英文邻居",
+        "text": "unlikely 是可能性低，ruled out 是已被排除，两者力度不同。比如某种故障很少见，可以说 unlikely；证据确认不是它，才可以 rule it out。cannot rule out 也不同于 expect：前者保留可能，后者表示预期。",
+        "sourceIds": [
+          "lex"
+        ],
+        "claimIds": [
+          "contrast"
+        ],
+        "requirements": {
+          "anchor": "unlikely 是可能性低，ruled out 是已被排除，两者力度不同。",
+          "explanation": "比如某种故障很少见，可以说 unlikely；",
+          "example": "unlikely ",
+          "boundary": "cannot rule out 也不同于 expect：前者保留可能，后者表示预期。"
+        }
+      },
+      {
+        "id": "g4",
+        "title": "这句话在做什么",
+        "text": "cannot 与 at this stage 一起限定了判断：以目前信息，还不能排除延误。自编回应：What do we need to check before updating the schedule?（更新排期前还要核查什么？）这把保留风险转成核查行动，而不是直接宣布延期。",
+        "sourceIds": [
+          "lex"
+        ],
+        "claimIds": [
+          "pragmatics"
+        ],
+        "requirements": {
+          "anchor": "cannot 与 at this stage 一起限定了判断：以目前信息，还不能排除延误。",
+          "explanation": "自编回应：What do we need to check before updating the schedule?（更新排期前还要核查什么？）这把保留风险转成核查行动，而不是直接宣布延期。",
+          "example": "cannot ",
+          "boundary": "自编回应：What do we need to check before updating the schedule?（更新排期前还要核查什么？）这把保留风险转成核查行动，而不是直接宣布延期。"
+        }
+      },
+      {
+        "id": "g5",
+        "title": "工作中可以这样说",
+        "text": "自编工作表达：We haven't ruled out a scheduling error yet.（我们还没有排除排期错误的可能。）适合原因调查仍在进行时；说明它仍是候选解释，随后可补查证动作。不要把尚未排除写成已经确认的原因。",
+        "sourceIds": [
+          "lex"
+        ],
+        "claimIds": [
+          "transfer"
+        ],
+        "requirements": {
+          "anchor": "自编工作表达：We haven't ruled out a scheduling error yet.（我们还没有排除排期错误的可能。",
+          "explanation": "）适合原因调查仍在进行时；",
+          "example": "We haven't ruled out a scheduling error yet",
+          "boundary": "不要把尚未排除写成已经确认的原因。"
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "lex",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/rule-out",
+        "title": "Oxford · rule out",
+        "publisher": "Oxford University Press",
+        "accessedAt": "2026-11-03",
+        "section": "Headword, part of speech, current contextual sense and usage patterns",
+        "retrievalStatus": "full_page",
+        "evidence": "rule out本句义：不再把某事视为可能情况或可选方案。核对短语动词和rule out an option；相关义项：使某事不可能发生；使某人无法参加。中文与英文定义为原创转述。",
+        "supportedClaims": [
+          "rule out本句义：不再把某事视为可能情况或可选方案。核对短语动词和rule out an option；相关义项：使某事不可能发生；使某人无法参加。中文与英文定义为原创转述。"
+        ],
+        "summaryZh": "rule out本句义：不再把某事视为可能情况或可选方案。核对短语动词和rule out an option；相关义项：使某事不可能发生；使某人无法参加。中文与英文定义为原创转述。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创教学转述及链接；不复制词典全文"
+      },
+      {
+        "id": "component",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/rule_2",
+        "title": "Oxford · rule",
+        "publisher": "Oxford University Press",
+        "accessedAt": "2026-11-03",
+        "section": "Headword British IPA and base verb sense",
+        "retrievalStatus": "full_page",
+        "evidence": "作出正式裁定或决定；本页英式音标已核对。组成词联系不代替整体短语义。",
+        "supportedClaims": [
+          "作出正式裁定或决定；本页英式音标已核对。组成词联系不代替整体短语义。"
+        ],
+        "summaryZh": "作出正式裁定或决定；本页英式音标已核对。组成词联系不代替整体短语义。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创教学转述及链接；不复制词典全文"
+      },
+      {
+        "id": "particle",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/out_1",
+        "title": "Oxford · out",
+        "publisher": "Oxford University Press",
+        "accessedAt": "2026-11-03",
+        "section": "Headword British IPA and phrasal-verb lookup note",
+        "retrievalStatus": "full_page",
+        "evidence": "out英式音标/aʊt/；具体短语义应查动词词条，不能逐字翻译。",
+        "supportedClaims": [
+          "out英式音标/aʊt/；具体短语义应查动词词条，不能逐字翻译。"
+        ],
+        "summaryZh": "out英式音标/aʊt/；具体短语义应查动词词条，不能逐字翻译。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创教学转述及链接；不复制词典全文"
+      },
+      {
+        "id": "grammar",
+        "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/phrasal-verbs",
+        "title": "British Council · Phrasal verbs",
+        "publisher": "British Council",
+        "accessedAt": "2026-11-03",
+        "section": "Phrasal verbs: meaning and separable word order",
+        "retrievalStatus": "full_page",
+        "evidence": "动词与小品词组成整体；可分短语中代词位置；具体义项仍按对应词典。",
+        "supportedClaims": [
+          "动词与小品词组成整体；可分短语中代词位置；具体义项仍按对应词典。"
+        ],
+        "summaryZh": "动词与小品词组成整体；可分短语中代词位置；具体义项仍按对应词典。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创教学转述及链接；不复制词典全文"
+      }
+    ],
+    "sourceLimitations": [
+      "主例句沿用公开词卡；场景分析与回应为教学整理，非真实工作记录。",
+      "当前义及扩展义为有据原创转述；非完整词典。",
+      "词源、IPA与全页例句见单独supplement，旧回执不适用于本版。"
+    ],
+    "writer": "whole50_author3",
+    "contextKind": "existing_public_learning_example",
+    "templateVersion": "WORDS-STATIC-V3.1-FIVE-ZONE-SOURCE-FIRST",
+    "contentRevision": 2,
+    "dictionaryEntries": [
+      {
+        "lemma": "rule out",
+        "pos": "短语动词",
+        "senses": [
+          {
+            "id": "rule-out:current",
+            "glossZh": "不再把某事视为可能情况或可选方案",
+            "definitionEn": "stop considering something as a possibility",
+            "sourceIds": [
+              "lex"
+            ]
+          }
+        ],
+        "source": "有据原创教学转述"
+      },
+      {
+        "lemma": "rule",
+        "pos": "v. · 组词联系",
+        "senses": [
+          {
+            "id": "rule:component",
+            "glossZh": "作出正式裁定或决定；整体短语义见上",
+            "definitionEn": "give an official decision about a matter",
+            "sourceIds": [
+              "component"
+            ]
+          }
+        ],
+        "source": "组成词基础义，不机械推出整体义"
+      },
+      {
+        "lemma": "rule out",
+        "pos": "短语动词",
+        "senses": [
+          {
+            "id": "rule-out:extra",
+            "glossZh": "使某事不可能发生；使某人无法参加",
+            "definitionEn": "prevent an event or make a person unable to participate",
+            "sourceIds": [
+              "lex"
+            ]
+          }
+        ],
+        "source": "有据原创教学转述"
+      }
+    ],
+    "focusedEntries": [
+      {
+        "entry": {
+          "lemma": "rule out",
+          "pos": "短语动词",
+          "senses": [
+            {
+              "id": "rule-out:current",
+              "glossZh": "不再把某事视为可能情况或可选方案",
+              "definitionEn": "stop considering something as a possibility",
+              "sourceIds": [
+                "lex"
+              ]
+            }
+          ],
+          "source": "有据原创教学转述"
+        },
+        "sense": {
+          "id": "rule-out:current",
+          "glossZh": "不再把某事视为可能情况或可选方案",
+          "definitionEn": "stop considering something as a possibility",
+          "sourceIds": [
+            "lex"
+          ]
+        }
+      },
+      {
+        "entry": {
+          "lemma": "rule",
+          "pos": "v. · 组词联系",
+          "senses": [
+            {
+              "id": "rule:component",
+              "glossZh": "作出正式裁定或决定；整体短语义见上",
+              "definitionEn": "give an official decision about a matter",
+              "sourceIds": [
+                "component"
+              ]
+            }
+          ],
+          "source": "组成词基础义，不机械推出整体义"
+        },
+        "sense": {
+          "id": "rule:component",
+          "glossZh": "作出正式裁定或决定；整体短语义见上",
+          "definitionEn": "give an official decision about a matter",
+          "sourceIds": [
+            "component"
+          ]
+        }
+      }
+    ],
+    "claims": [
+      {
+        "id": "lexical",
+        "text": "rule out当前义为不再把某事视为可能情况或可选方案；扩展相关义为使某事不可能发生；使某人无法参加",
+        "kind": "source_fact",
+        "sourceIds": [
+          "lex"
+        ],
+        "evidenceNote": "词典所列词性/义项；中文与英文为原创转述，扩展词性明确。"
+      },
+      {
+        "id": "connection",
+        "text": "把 rule out 和“从可能清单里划掉”联系起来，这是记忆类比。再反过来记 cannot rule out：现在还不能划掉。否定词决定信息方向，少看一个 cannot，就会把风险判断完全读反。",
+        "kind": "teaching_inference",
+        "sourceIds": [
+          "lex",
+          "grammar"
+        ],
+        "evidenceNote": "基于公开主例句和已核验词义的教学分析；情境对照/回应为自编，不是来源中的真实事件。"
+      },
+      {
+        "id": "syntax",
+        "text": "cannot 否定 rule out，a delay 是不能排除的情况，at this stage 限定为现阶段。句子保留延误的可能性，却没有提供概率；因此不能换成“很可能延误”或“肯定延误”，两者都比原句更强。",
+        "kind": "teaching_inference",
+        "sourceIds": [
+          "lex",
+          "grammar"
+        ],
+        "evidenceNote": "基于公开主例句和已核验词义的教学分析；情境对照/回应为自编，不是来源中的真实事件。"
+      },
+      {
+        "id": "contrast",
+        "text": "unlikely 是可能性低，ruled out 是已被排除，两者力度不同。比如某种故障很少见，可以说 unlikely；证据确认不是它，才可以 rule it out。cannot rule out 也不同于 expect：前者保留可能，后者表示预期。",
+        "kind": "teaching_inference",
+        "sourceIds": [
+          "lex"
+        ],
+        "evidenceNote": "基于公开主例句和已核验词义的教学分析；情境对照/回应为自编，不是来源中的真实事件。"
+      },
+      {
+        "id": "pragmatics",
+        "text": "cannot 与 at this stage 一起限定了判断：以目前信息，还不能排除延误。自编回应：What do we need to check before updating the schedule?（更新排期前还要核查什么？）这把保留风险转成核查行动，而不是直接宣布延期。",
+        "kind": "teaching_inference",
+        "sourceIds": [
+          "lex"
+        ],
+        "evidenceNote": "基于公开主例句和已核验词义的教学分析；情境对照/回应为自编，不是来源中的真实事件。"
+      },
+      {
+        "id": "transfer",
+        "text": "自编工作表达：We haven't ruled out a scheduling error yet.（我们还没有排除排期错误的可能。）适合原因调查仍在进行时；说明它仍是候选解释，随后可补查证动作。不要把尚未排除写成已经确认的原因。",
+        "kind": "authored_example",
+        "sourceIds": [
+          "lex"
+        ],
+        "evidenceNote": "作者自编迁移表达，按当前义项及所给语法核验，不是真实工作事件。"
+      }
+    ]
+  },
+  {
+    "cardId": "V20261012-066",
+    "term": "hold off",
+    "context": "Let's hold off on the decision until we have the results.",
+    "contextZh": "等拿到结果后，我们再作决定吧。",
+    "gloss": "暂缓",
+    "glossKind": "source_summary",
+    "pos": "短语动词",
+    "definitionEn": "wait before taking an action",
+    "definitionZh": "先等待一段时间再采取行动",
+    "contextTakeaway": "先不作决定，等结果出来再处理。",
+    "bridgeText": "hold off on a decision 是先不作决定，等条件更合适再说。本句给了明确的等待条件：拿到结果。这比一句“以后再说”更清楚，因为大家知道该等什么。",
+    "groups": [
+      {
+        "id": "g1",
+        "title": "先记住，再联系",
+        "text": "把 hold off on a decision 记成“决定先放一下”，它留下以后继续的空间。不要仅把 off 解成取消；真正抓住的是暂不行动。until 后给出的条件，可帮助记住这一等待为什么有边界。",
+        "sourceIds": [
+          "lex",
+          "grammar"
+        ],
+        "claimIds": [
+          "lexical",
+          "connection"
+        ],
+        "requirements": {
+          "anchor": "把 hold off on a decision 记成“决定先放一下”，它留下以后继续的空间。",
+          "explanation": "不要仅把 off 解成取消；",
+          "example": "hold off on a decision ",
+          "boundary": "until 后给出的条件，可帮助记住这一等待为什么有边界。"
+        }
+      },
+      {
+        "id": "g2",
+        "title": "句法与概念",
+        "text": "Let's 提出共同安排，hold off on 后接 the decision；until we have the results 指明等待结束的条件。也可见 hold off doing something。句子没有给具体日期，但给了重新考虑决定的触发条件。",
+        "sourceIds": [
+          "lex",
+          "grammar"
+        ],
+        "claimIds": [
+          "syntax"
+        ],
+        "requirements": {
+          "anchor": "Let's 提出共同安排，hold off on 后接 the decision；",
+          "explanation": "until we have the results 指明等待结束的条件。",
+          "example": "Let's ",
+          "boundary": "句子没有给具体日期，但给了重新考虑决定的触发条件。"
+        }
+      },
+      {
+        "id": "g3",
+        "title": "辨析与英文邻居",
+        "text": "hold off 表示先别做，cancel 表示取消。比如核对数字前先不发报告是 hold off；决定这份报告不再发送才是 cancel。postpone 也可表示推迟，hold off 在这里尤其突出“暂时等一等”。",
+        "sourceIds": [
+          "lex"
+        ],
+        "claimIds": [
+          "contrast"
+        ],
+        "requirements": {
+          "anchor": "hold off 表示先别做，cancel 表示取消。",
+          "explanation": "比如核对数字前先不发报告是 hold off；",
+          "example": "hold off ",
+          "boundary": "postpone 也可表示推迟，hold off 在这里尤其突出“暂时等一等”。"
+        }
+      },
+      {
+        "id": "g4",
+        "title": "这句话在做什么",
+        "text": "Let’s 提出共同暂缓，until we have the results 指明重新行动的条件。自编回应：Agreed. I’ll share the results as soon as they arrive.（同意，结果一到我就分享。）回应明确了谁把等待结束所需的信息带回来。",
+        "sourceIds": [
+          "lex"
+        ],
+        "claimIds": [
+          "pragmatics"
+        ],
+        "requirements": {
+          "anchor": "Let’s 提出共同暂缓，until we have the results 指明重新行动的条件。",
+          "explanation": "自编回应：Agreed. I’ll share the results as soon as they arrive.（同意，结果一到我就分享。",
+          "example": "Let’s ",
+          "boundary": "）回应明确了谁把等待结束所需的信息带回来。"
+        }
+      },
+      {
+        "id": "g5",
+        "title": "工作中可以这样说",
+        "text": "自编工作表达：Can we hold off on sending the report until the figures are checked?（能等数字核对后再发送报告吗？）适合发送动作依赖数据确认时；说清暂缓对象和解除条件，听者便能判断现在应先完成哪项核对。",
+        "sourceIds": [
+          "lex"
+        ],
+        "claimIds": [
+          "transfer"
+        ],
+        "requirements": {
+          "anchor": "自编工作表达：Can we hold off on sending the report until the figures are checked?（能等数字核对后再发送报告吗？）适合发送动作依赖数据确认时；",
+          "explanation": "说清暂缓对象和解除条件，听者便能判断现在应先完成哪项核对。",
+          "example": "Can we hold off on sending the report until the figures are checked",
+          "boundary": "说清暂缓对象和解除条件，听者便能判断现在应先完成哪项核对。"
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "lex",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/hold-off",
+        "title": "Oxford · hold off",
+        "publisher": "Oxford University Press",
+        "accessedAt": "2026-11-03",
+        "section": "Headword, part of speech, current contextual sense and usage patterns",
+        "retrievalStatus": "full_page",
+        "evidence": "hold off本句义：先等待一段时间再采取行动。核对短语动词和hold off on a decision；相关义项：雨或风暴暂时没有开始。中文与英文定义为原创转述。",
+        "supportedClaims": [
+          "hold off本句义：先等待一段时间再采取行动。核对短语动词和hold off on a decision；相关义项：雨或风暴暂时没有开始。中文与英文定义为原创转述。"
+        ],
+        "summaryZh": "hold off本句义：先等待一段时间再采取行动。核对短语动词和hold off on a decision；相关义项：雨或风暴暂时没有开始。中文与英文定义为原创转述。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创教学转述及链接；不复制词典全文"
+      },
+      {
+        "id": "component",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/hold_1",
+        "title": "Oxford · hold",
+        "publisher": "Oxford University Press",
+        "accessedAt": "2026-11-03",
+        "section": "Headword British IPA and base verb sense",
+        "retrievalStatus": "full_page",
+        "evidence": "拿住；使保持在原处；本页英式音标已核对。组成词联系不代替整体短语义。",
+        "supportedClaims": [
+          "拿住；使保持在原处；本页英式音标已核对。组成词联系不代替整体短语义。"
+        ],
+        "summaryZh": "拿住；使保持在原处；本页英式音标已核对。组成词联系不代替整体短语义。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创教学转述及链接；不复制词典全文"
+      },
+      {
+        "id": "particle",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/off_1",
+        "title": "Oxford · off",
+        "publisher": "Oxford University Press",
+        "accessedAt": "2026-11-03",
+        "section": "Headword British IPA and phrasal-verb lookup note",
+        "retrievalStatus": "full_page",
+        "evidence": "off英式音标/ɒf/；具体短语义应查动词词条，不能逐字翻译。",
+        "supportedClaims": [
+          "off英式音标/ɒf/；具体短语义应查动词词条，不能逐字翻译。"
+        ],
+        "summaryZh": "off英式音标/ɒf/；具体短语义应查动词词条，不能逐字翻译。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创教学转述及链接；不复制词典全文"
+      },
+      {
+        "id": "grammar",
+        "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/phrasal-verbs",
+        "title": "British Council · Phrasal verbs",
+        "publisher": "British Council",
+        "accessedAt": "2026-11-03",
+        "section": "Phrasal verbs: meaning and separable word order",
+        "retrievalStatus": "full_page",
+        "evidence": "动词与小品词组成整体；可分短语中代词位置；具体义项仍按对应词典。",
+        "supportedClaims": [
+          "动词与小品词组成整体；可分短语中代词位置；具体义项仍按对应词典。"
+        ],
+        "summaryZh": "动词与小品词组成整体；可分短语中代词位置；具体义项仍按对应词典。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创教学转述及链接；不复制词典全文"
+      }
+    ],
+    "sourceLimitations": [
+      "主例句沿用公开词卡；场景分析与回应为教学整理，非真实工作记录。",
+      "当前义及扩展义为有据原创转述；非完整词典。",
+      "词源、IPA与全页例句见单独supplement，旧回执不适用于本版。"
+    ],
+    "writer": "whole50_author3",
+    "contextKind": "existing_public_learning_example",
+    "templateVersion": "WORDS-STATIC-V3.1-FIVE-ZONE-SOURCE-FIRST",
+    "contentRevision": 2,
+    "dictionaryEntries": [
+      {
+        "lemma": "hold off",
+        "pos": "短语动词",
+        "senses": [
+          {
+            "id": "hold-off:current",
+            "glossZh": "先等待一段时间再采取行动",
+            "definitionEn": "wait before taking an action",
+            "sourceIds": [
+              "lex"
+            ]
+          }
+        ],
+        "source": "有据原创教学转述"
+      },
+      {
+        "lemma": "hold",
+        "pos": "v. · 组词联系",
+        "senses": [
+          {
+            "id": "hold:component",
+            "glossZh": "拿住；使保持在原处；整体短语义见上",
+            "definitionEn": "keep someone or something in the hands or in position",
+            "sourceIds": [
+              "component"
+            ]
+          }
+        ],
+        "source": "组成词基础义，不机械推出整体义"
+      },
+      {
+        "lemma": "hold off",
+        "pos": "短语动词",
+        "senses": [
+          {
+            "id": "hold-off:extra",
+            "glossZh": "雨或风暴暂时没有开始",
+            "definitionEn": "not begin yet, especially of rain or a storm",
+            "sourceIds": [
+              "lex"
+            ]
+          }
+        ],
+        "source": "有据原创教学转述"
+      }
+    ],
+    "focusedEntries": [
+      {
+        "entry": {
+          "lemma": "hold off",
+          "pos": "短语动词",
+          "senses": [
+            {
+              "id": "hold-off:current",
+              "glossZh": "先等待一段时间再采取行动",
+              "definitionEn": "wait before taking an action",
+              "sourceIds": [
+                "lex"
+              ]
+            }
+          ],
+          "source": "有据原创教学转述"
+        },
+        "sense": {
+          "id": "hold-off:current",
+          "glossZh": "先等待一段时间再采取行动",
+          "definitionEn": "wait before taking an action",
+          "sourceIds": [
+            "lex"
+          ]
+        }
+      },
+      {
+        "entry": {
+          "lemma": "hold",
+          "pos": "v. · 组词联系",
+          "senses": [
+            {
+              "id": "hold:component",
+              "glossZh": "拿住；使保持在原处；整体短语义见上",
+              "definitionEn": "keep someone or something in the hands or in position",
+              "sourceIds": [
+                "component"
+              ]
+            }
+          ],
+          "source": "组成词基础义，不机械推出整体义"
+        },
+        "sense": {
+          "id": "hold:component",
+          "glossZh": "拿住；使保持在原处；整体短语义见上",
+          "definitionEn": "keep someone or something in the hands or in position",
+          "sourceIds": [
+            "component"
+          ]
+        }
+      }
+    ],
+    "claims": [
+      {
+        "id": "lexical",
+        "text": "hold off当前义为先等待一段时间再采取行动；扩展相关义为雨或风暴暂时没有开始",
+        "kind": "source_fact",
+        "sourceIds": [
+          "lex"
+        ],
+        "evidenceNote": "词典所列词性/义项；中文与英文为原创转述，扩展词性明确。"
+      },
+      {
+        "id": "connection",
+        "text": "把 hold off on a decision 记成“决定先放一下”，它留下以后继续的空间。不要仅把 off 解成取消；真正抓住的是暂不行动。until 后给出的条件，可帮助记住这一等待为什么有边界。",
+        "kind": "teaching_inference",
+        "sourceIds": [
+          "lex",
+          "grammar"
+        ],
+        "evidenceNote": "基于公开主例句和已核验词义的教学分析；情境对照/回应为自编，不是来源中的真实事件。"
+      },
+      {
+        "id": "syntax",
+        "text": "Let's 提出共同安排，hold off on 后接 the decision；until we have the results 指明等待结束的条件。也可见 hold off doing something。句子没有给具体日期，但给了重新考虑决定的触发条件。",
+        "kind": "teaching_inference",
+        "sourceIds": [
+          "lex",
+          "grammar"
+        ],
+        "evidenceNote": "基于公开主例句和已核验词义的教学分析；情境对照/回应为自编，不是来源中的真实事件。"
+      },
+      {
+        "id": "contrast",
+        "text": "hold off 表示先别做，cancel 表示取消。比如核对数字前先不发报告是 hold off；决定这份报告不再发送才是 cancel。postpone 也可表示推迟，hold off 在这里尤其突出“暂时等一等”。",
+        "kind": "teaching_inference",
+        "sourceIds": [
+          "lex"
+        ],
+        "evidenceNote": "基于公开主例句和已核验词义的教学分析；情境对照/回应为自编，不是来源中的真实事件。"
+      },
+      {
+        "id": "pragmatics",
+        "text": "Let’s 提出共同暂缓，until we have the results 指明重新行动的条件。自编回应：Agreed. I’ll share the results as soon as they arrive.（同意，结果一到我就分享。）回应明确了谁把等待结束所需的信息带回来。",
+        "kind": "teaching_inference",
+        "sourceIds": [
+          "lex"
+        ],
+        "evidenceNote": "基于公开主例句和已核验词义的教学分析；情境对照/回应为自编，不是来源中的真实事件。"
+      },
+      {
+        "id": "transfer",
+        "text": "自编工作表达：Can we hold off on sending the report until the figures are checked?（能等数字核对后再发送报告吗？）适合发送动作依赖数据确认时；说清暂缓对象和解除条件，听者便能判断现在应先完成哪项核对。",
+        "kind": "authored_example",
+        "sourceIds": [
+          "lex"
+        ],
+        "evidenceNote": "作者自编迁移表达，按当前义项及所给语法核验，不是真实工作事件。"
+      }
+    ]
+  },
+  {
+    "cardId": "V20261012-067",
+    "term": "work around",
+    "context": "Can we work around this constraint without changing the scope?",
+    "contextZh": "我们能在不改范围的情况下应对这项限制吗？",
+    "gloss": "设法绕过障碍",
+    "glossKind": "source_summary",
+    "pos": "短语动词",
+    "definitionEn": "find a way to continue despite a problem without removing it",
+    "definitionZh": "在问题未消除时找到避开其影响的做法",
+    "contextTakeaway": "寻找不改范围、仍能应对限制的办法。",
+    "bridgeText": "限制暂时还在，先换一种做法让工作继续。例如文件太大不能一次发送，就分成几份发；这改变了做法，没有改变每份文件的大小限制。",
+    "groups": [
+      {
+        "id": "g1",
+        "title": "先记住，再联系",
+        "text": "用“路障没搬走，先换条路”来记。work around a problem 是设法绕开问题，a workaround 是那个变通办法：一个说动作，一个给办法起名字。路障只是帮助理解的类比，不是在说每次都要真的绕路。",
+        "requirements": {
+          "anchor": "路障没搬走，先换条路",
+          "explanation": "一个说动作",
+          "example": "a workaround",
+          "boundary": "只是帮助理解的类比"
+        },
+        "claimIds": [
+          "lexical",
+          "connection"
+        ],
+        "sourceIds": [
+          "lex"
+        ]
+      },
+      {
+        "id": "g2",
+        "title": "句法与概念",
+        "text": "Can we work around this constraint? 问“我们能找到变通办法吗？”without changing the scope 又加了一道条件：工作范围不能变。work around 要连起来理解，后面接要应对的限制；不能把 around 单独译成“在周围”，否则整句会变成在限制旁边工作。",
+        "requirements": {
+          "anchor": "Can we work around this constraint?",
+          "explanation": "工作范围不能变",
+          "example": "without changing the scope",
+          "boundary": "不能把 around 单独译成"
+        },
+        "claimIds": [
+          "lexical",
+          "syntax"
+        ],
+        "sourceIds": [
+          "lex",
+          "grammar"
+        ]
+      },
+      {
+        "id": "g3",
+        "title": "辨析与英文邻居",
+        "text": "solve a problem 着眼于把问题解决；work around a problem 着眼于避开影响、让事情继续。自编对照：软件导出功能坏了，复制数据到别的工具继续做，是 workaround；修好导出功能，才是在解决这个故障。两种做法可以先后使用，并不互相排斥。",
+        "requirements": {
+          "anchor": "solve a problem",
+          "explanation": "避开影响、让事情继续",
+          "example": "软件导出功能坏了",
+          "boundary": "并不互相排斥"
+        },
+        "claimIds": [
+          "lexical",
+          "contrast"
+        ],
+        "sourceIds": [
+          "lex"
+        ]
+      },
+      {
+        "id": "g4",
+        "title": "这句话在做什么",
+        "text": "本句是在邀请大家找“范围不变”的可行办法。Can we 留出一起讨论的空间，without changing the scope 则把条件说清楚。自编回应：Could we split the work into smaller batches?（可以把工作分成更小批次吗？）这先提出一个候选做法，接下来再核对它是否满足那项限制。",
+        "requirements": {
+          "anchor": "邀请大家找",
+          "explanation": "Can we 留出",
+          "example": "Could we split the work into smaller batches?",
+          "boundary": "候选做法"
+        },
+        "claimIds": [
+          "lexical",
+          "action"
+        ],
+        "sourceIds": [
+          "lex"
+        ]
+      },
+      {
+        "id": "g5",
+        "title": "工作中可以这样说",
+        "text": "发送文件碰到单个文件大小限制时，可以说明具体的变通办法。自编：We could work around the file-size limit by sending separate files.（我们可以试着分开文件发送，来绕开大小限制。）by 后的 sending 说明怎么做；could 适合提出待尝试的办法，已经确认可行时可用 can。",
+        "requirements": {
+          "anchor": "单个文件大小限制",
+          "explanation": "by 后的 sending",
+          "example": "We could work around the file-size limit by sending separate files.",
+          "boundary": "could 适合提出待尝试的办法"
+        },
+        "claimIds": [
+          "lexical",
+          "use"
+        ],
+        "sourceIds": [
+          "lex"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "lex",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/work-around",
+        "title": "work around — Oxford Advanced Learner’s Dictionary",
+        "publisher": "Oxford University Press",
+        "section": "work around something, lines 95–99",
+        "retrievalStatus": "full_page",
+        "accessedAt": "2026-11-03",
+        "evidence": "短语表示找到避开某问题的工作方法，而未真正解决问题；结构work around something，关联名词workaround。",
+        "summaryZh": "短语表示找到避开某问题的工作方法，而未真正解决问题；结构work around something，关联名词workaround。",
+        "supportedClaims": [
+          "短语表示找到避开某问题的工作方法，而未真正解决问题；结构work around something，关联名词workaround。"
+        ],
+        "adaptationType": "paraphrase",
+        "useAssessment": "仅保存原创教学转述及原站链接；未保存来源全文；例句另标自编。"
+      },
+      {
+        "id": "noun",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/workaround",
+        "title": "workaround — Oxford Advanced Learner’s Dictionary",
+        "publisher": "Oxford University Press",
+        "section": "noun sense 1",
+        "retrievalStatus": "full_page",
+        "accessedAt": "2026-11-03",
+        "evidence": "名词workaround指避开问题而未实际解决问题的工作办法，软件情境尤常见。",
+        "summaryZh": "名词workaround指避开问题而未实际解决问题的工作办法，软件情境尤常见。",
+        "supportedClaims": [
+          "名词workaround指避开问题而未实际解决问题的工作办法，软件情境尤常见。"
+        ],
+        "adaptationType": "paraphrase",
+        "useAssessment": "仅保存原创教学转述及原站链接；未保存来源全文；例句另标自编。"
+      },
+      {
+        "id": "word",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/work_1",
+        "title": "work — Oxford Advanced Learner’s Dictionary",
+        "publisher": "Oxford University Press",
+        "section": "do job/task, sense 1, lines 113–126",
+        "retrievalStatus": "full_page",
+        "accessedAt": "2026-11-03",
+        "evidence": "work基本动词义为用体力或脑力做事，常用于工作；仅用于组词联系，不能据此独立推出work around的整体义。",
+        "summaryZh": "work基本动词义为用体力或脑力做事，常用于工作；仅用于组词联系，不能据此独立推出work around的整体义。",
+        "supportedClaims": [
+          "work基本动词义为用体力或脑力做事，常用于工作；仅用于组词联系，不能据此独立推出work around的整体义。"
+        ],
+        "adaptationType": "paraphrase",
+        "useAssessment": "仅保存原创教学转述及原站链接；未保存来源全文；例句另标自编。"
+      },
+      {
+        "id": "grammar",
+        "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/phrasal-verbs",
+        "title": "Phrasal verbs",
+        "publisher": "British Council",
+        "section": "Grammar explanation; Separable / Non-separable",
+        "retrievalStatus": "full_page",
+        "accessedAt": "2026-11-03",
+        "evidence": "正文23—63行解释动词与小品词形成整体、可分和不可分结构；小品词经常改变动词意义。只支持教学框架，具体短语结构由对应词典核对。",
+        "summaryZh": "正文23—63行解释动词与小品词形成整体、可分和不可分结构；小品词经常改变动词意义。只支持教学框架，具体短语结构由对应词典核对。",
+        "supportedClaims": [
+          "正文23—63行解释动词与小品词形成整体、可分和不可分结构；小品词经常改变动词意义。只支持教学框架，具体短语结构由对应词典核对。"
+        ],
+        "adaptationType": "paraphrase",
+        "useAssessment": "仅保存原创教学转述及原站链接；未保存来源全文；例句另标自编。"
+      }
+    ],
+    "sourceLimitations": [
+      "前区释义、五区说明均为原创教学转述；语境沿用原公开词卡，回应、类比及工作例句为教学编写。",
+      "词源、音标和附加例句已纳入本批整页补充包，须以新的整页独立回执核验；旧五区批准不能替代。",
+      "更多区域只列已核实的不同义项或明确标注的同族词，不是完整词典。"
+    ],
+    "writer": "whole50_author3",
+    "contextKind": "existing_public_learning_example",
+    "templateVersion": "WORDS-STATIC-V3.1-FIVE-ZONE-SOURCE-FIRST",
+    "contentRevision": 3,
+    "claims": [
+      {
+        "id": "lexical",
+        "text": "Oxford明确work around未消除问题、结构work around something；workaround为关联名词，work基本义只作联系。",
+        "kind": "source_fact",
+        "sourceIds": [
+          "lex",
+          "noun",
+          "word"
+        ],
+        "evidenceNote": "见对应sources.evidence的义项定位；定义为原创转述，不是逐字词典原文。"
+      },
+      {
+        "id": "connection",
+        "text": "用“路障没搬走，先换条路”来记。work around a problem 是设法绕开问题，a workaround 是那个变通办法：一个说动作，一个给办法起名字。路障只是帮助理解的类比，不是在说每次都要真的绕路。",
+        "kind": "teaching_inference",
+        "sourceIds": [
+          "lex"
+        ],
+        "evidenceNote": "按已核实词义整理的记忆联系，正文标明类比或同族关联，不推断历史词源。"
+      },
+      {
+        "id": "syntax",
+        "text": "Can we work around this constraint? 问“我们能找到变通办法吗？”without changing the scope 又加了一道条件：工作范围不能变。work around 要连起来理解，后面接要应对的限制；不能把 around 单独译成“在周围”，否则整句会变成在限制旁边工作。",
+        "kind": "teaching_inference",
+        "sourceIds": [
+          "lex",
+          "grammar"
+        ],
+        "evidenceNote": "以保留的完整例句分析结构；结构与解释对应，未把来源说成收录该自编句。"
+      },
+      {
+        "id": "contrast",
+        "text": "solve/work around是按Oxford未解决问题这一边界作出的教学对照；软件与文件场景均自编。",
+        "kind": "teaching_inference",
+        "sourceIds": [
+          "lex"
+        ],
+        "evidenceNote": "区分词典明确事实与用于解释的情境对照；不把常见倾向写成绝对规则。"
+      },
+      {
+        "id": "action",
+        "text": "本句是在邀请大家找“范围不变”的可行办法。Can we 留出一起讨论的空间，without changing the scope 则把条件说清楚。自编回应：Could we split the work into smaller batches?（可以把工作分成更小批次吗？）这先提出一个候选做法，接下来再核对它是否满足那项限制。",
+        "kind": "teaching_inference",
+        "sourceIds": [
+          "lex"
+        ],
+        "evidenceNote": "从原句措辞提出话语行动解释，回应是显式自编；未编造用户业务事实。"
+      },
+      {
+        "id": "use",
+        "text": "发送文件碰到单个文件大小限制时，可以说明具体的变通办法。自编：We could work around the file-size limit by sending separate files.（我们可以试着分开文件发送，来绕开大小限制。）by 后的 sending 说明怎么做；could 适合提出待尝试的办法，已经确认可行时可用 can。",
+        "kind": "authored_example",
+        "sourceIds": [
+          "lex"
+        ],
+        "evidenceNote": "自编工作表达及替换槽，需Reviewer核查英语自然度与当前义，不宣称来源提供这个原句。"
+      }
+    ],
+    "focusedEntries": [
+      {
+        "entry": {
+          "lemma": "work around",
+          "pos": "短语动词",
+          "senses": [
+            {
+              "id": "work-around:current",
+              "glossZh": "在问题未消除时找到避开其影响的做法",
+              "definitionEn": "find a way to continue despite a problem without removing it",
+              "sourceIds": [
+                "lex"
+              ]
+            }
+          ],
+          "source": "已核对来源的原创教学转述"
+        },
+        "sense": {
+          "id": "work-around:current",
+          "glossZh": "在问题未消除时找到避开其影响的做法",
+          "definitionEn": "find a way to continue despite a problem without removing it",
+          "sourceIds": [
+            "lex"
+          ]
+        }
+      },
+      {
+        "entry": {
+          "lemma": "work",
+          "pos": "动词 · 组词联系",
+          "senses": [
+            {
+              "id": "work:task",
+              "glossZh": "做事；进行需要体力或脑力的工作（整体短语义见上）",
+              "definitionEn": "carry out a task using physical or mental effort",
+              "sourceIds": [
+                "word"
+              ]
+            }
+          ],
+          "source": "已核对来源的原创教学转述"
+        },
+        "sense": {
+          "id": "work:task",
+          "glossZh": "做事；进行需要体力或脑力的工作（整体短语义见上）",
+          "definitionEn": "carry out a task using physical or mental effort",
+          "sourceIds": [
+            "word"
+          ]
+        }
+      }
+    ],
+    "dictionaryEntries": [
+      {
+        "lemma": "work around",
+        "pos": "短语动词",
+        "senses": [
+          {
+            "id": "work-around:current",
+            "glossZh": "在问题未消除时找到避开其影响的做法",
+            "definitionEn": "find a way to continue despite a problem without removing it",
+            "sourceIds": [
+              "lex"
+            ]
+          }
+        ],
+        "source": "已核对来源的原创教学转述"
+      },
+      {
+        "lemma": "work",
+        "pos": "动词 · 组词联系",
+        "senses": [
+          {
+            "id": "work:task",
+            "glossZh": "做事；进行需要体力或脑力的工作（整体短语义见上）",
+            "definitionEn": "carry out a task using physical or mental effort",
+            "sourceIds": [
+              "word"
+            ]
+          }
+        ],
+        "source": "已核对来源的原创教学转述"
+      },
+      {
+        "lemma": "workaround",
+        "pos": "名词",
+        "senses": [
+          {
+            "id": "workaround:method",
+            "glossZh": "绕开问题使工作继续的变通办法",
+            "definitionEn": "an alternative method that avoids a problem rather than removing it",
+            "sourceIds": [
+              "noun"
+            ]
+          }
+        ],
+        "source": "已核对来源的原创教学转述"
+      }
+    ],
+    "revisedBy": "root_integrator"
+  },
+  {
+    "cardId": "V20261012-068",
+    "term": "take on",
+    "context": "Our team cannot take on another task this week.",
+    "contextZh": "我们团队本周无法再承担任务。",
+    "gloss": "承担",
+    "glossKind": "source_summary",
+    "pos": "短语动词",
+    "definitionEn": "accept work or responsibility",
+    "definitionZh": "接受并承担工作或责任",
+    "contextTakeaway": "本周无力再承担额外任务。",
+    "bridgeText": "take on a task 强调接受并承担一项任务。本句说团队本周不能再接新的工作；它是在划定新增工作的容量边界，不是在汇报某项任务已经完成。",
+    "groups": [
+      {
+        "id": "g1",
+        "title": "先记住，再联系",
+        "text": "记住 take on a task，把它看作把一份责任接到自己手上，这是学习联想。关键不在“拿走”物品，而在接受工作；宾语 task 帮助锁定义项，不能把所有 take on 都译成承担。",
+        "sourceIds": [
+          "lex",
+          "grammar"
+        ],
+        "claimIds": [
+          "lexical",
+          "connection"
+        ],
+        "requirements": {
+          "anchor": "记住 take on a task，把它看作把一份责任接到自己手上，这是学习联想。",
+          "explanation": "关键不在“拿走”物品，而在接受工作；",
+          "example": "take on a task",
+          "boundary": "宾语 task 帮助锁定义项，不能把所有 take on 都译成承担。"
+        }
+      },
+      {
+        "id": "g2",
+        "title": "句法与概念",
+        "text": "Our team 是主语，cannot 表示本句说的能力限制，another task 强调再加一项，this week 限定时间。整句只划出本周无法新增任务的边界，没有说团队永远不接新任务，也未说明现有任务已完成。",
+        "sourceIds": [
+          "lex",
+          "grammar"
+        ],
+        "claimIds": [
+          "syntax"
+        ],
+        "requirements": {
+          "anchor": "Our team 是主语，cannot 表示本句说的能力限制，another task 强调再加一项，this week 限定时间。",
+          "explanation": "整句只划出本周无法新增任务的边界，没有说团队永远不接新任务，也未说明现有任务已完成。",
+          "example": "Our team ",
+          "boundary": "整句只划出本周无法新增任务的边界，没有说团队永远不接新任务，也未说明现有任务已完成。"
+        }
+      },
+      {
+        "id": "g3",
+        "title": "辨析与英文邻居",
+        "text": "take on a task 是接下任务，work on a task 是处理任务。今天同意下周负责评审，可以说 take on；到了下周实际做评审，才是 work on。另一个常见搭配 take on new staff 是雇用员工，需靠宾语分义。",
+        "sourceIds": [
+          "lex"
+        ],
+        "claimIds": [
+          "contrast"
+        ],
+        "requirements": {
+          "anchor": "take on a task 是接下任务，work on a task 是处理任务。",
+          "explanation": "今天同意下周负责评审，可以说 take on；",
+          "example": "take on a task ",
+          "boundary": "另一个常见搭配 take on new staff 是雇用员工，需靠宾语分义。"
+        }
+      },
+      {
+        "id": "g4",
+        "title": "这句话在做什么",
+        "text": "cannot 给出限制，another 强调是在现有工作上再加一项，this week 把限制放在本周。自编回应：Could you take it on next week instead?（改成下周，你们能接吗？）回应探索别的时间，而不是把本周的拒绝理解成永久拒绝。",
+        "sourceIds": [
+          "lex"
+        ],
+        "claimIds": [
+          "pragmatics"
+        ],
+        "requirements": {
+          "anchor": "cannot 给出限制，another 强调是在现有工作上再加一项，this week 把限制放在本周。",
+          "explanation": "自编回应：Could you take it on next week instead?（改成下周，你们能接吗？）回应探索别的时间，而不是把本周的拒绝理解成永久拒绝。",
+          "example": "cannot ",
+          "boundary": "自编回应：Could you take it on next week instead?（改成下周，你们能接吗？）回应探索别的时间，而不是把本周的拒绝理解成永久拒绝。"
+        }
+      },
+      {
+        "id": "g5",
+        "title": "工作中可以这样说",
+        "text": "自编工作表达：I can take on the review if another task is reassigned.（如果把另一项任务重新分配，我可以承担评审。）适合有条件接受工作时。把条件和承诺放在同一句，让对方清楚需要先调整什么，不能只转述前半句。",
+        "sourceIds": [
+          "lex"
+        ],
+        "claimIds": [
+          "transfer"
+        ],
+        "requirements": {
+          "anchor": "自编工作表达：I can take on the review if another task is reassigned.（如果把另一项任务重新分配，我可以承担评审。",
+          "explanation": "）适合有条件接受工作时。",
+          "example": "I can take on the review if another task is reassigned",
+          "boundary": "把条件和承诺放在同一句，让对方清楚需要先调整什么，不能只转述前半句。"
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "lex",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/take-on",
+        "title": "Oxford · take on",
+        "publisher": "Oxford University Press",
+        "accessedAt": "2026-11-03",
+        "section": "Headword, part of speech, current contextual sense and usage patterns",
+        "retrievalStatus": "full_page",
+        "evidence": "take on本句义：接受并承担工作或责任。核对短语动词和take on a task；相关义项：雇用；聘用。中文与英文定义为原创转述。",
+        "supportedClaims": [
+          "take on本句义：接受并承担工作或责任。核对短语动词和take on a task；相关义项：雇用；聘用。中文与英文定义为原创转述。"
+        ],
+        "summaryZh": "take on本句义：接受并承担工作或责任。核对短语动词和take on a task；相关义项：雇用；聘用。中文与英文定义为原创转述。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创教学转述及链接；不复制词典全文"
+      },
+      {
+        "id": "component",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/take_1",
+        "title": "Oxford · take",
+        "publisher": "Oxford University Press",
+        "accessedAt": "2026-11-03",
+        "section": "Headword British IPA and base verb sense",
+        "retrievalStatus": "full_page",
+        "evidence": "拿；带走（基本词义联系）；本页英式音标已核对。组成词联系不代替整体短语义。",
+        "supportedClaims": [
+          "拿；带走（基本词义联系）；本页英式音标已核对。组成词联系不代替整体短语义。"
+        ],
+        "summaryZh": "拿；带走（基本词义联系）；本页英式音标已核对。组成词联系不代替整体短语义。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创教学转述及链接；不复制词典全文"
+      },
+      {
+        "id": "particle",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/on_1",
+        "title": "Oxford · on",
+        "publisher": "Oxford University Press",
+        "accessedAt": "2026-11-03",
+        "section": "Headword British IPA and phrasal-verb lookup note",
+        "retrievalStatus": "full_page",
+        "evidence": "on英式音标/ɒn/；具体短语义应查动词词条，不能逐字翻译。",
+        "supportedClaims": [
+          "on英式音标/ɒn/；具体短语义应查动词词条，不能逐字翻译。"
+        ],
+        "summaryZh": "on英式音标/ɒn/；具体短语义应查动词词条，不能逐字翻译。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创教学转述及链接；不复制词典全文"
+      },
+      {
+        "id": "grammar",
+        "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/phrasal-verbs",
+        "title": "British Council · Phrasal verbs",
+        "publisher": "British Council",
+        "accessedAt": "2026-11-03",
+        "section": "Phrasal verbs: meaning and separable word order",
+        "retrievalStatus": "full_page",
+        "evidence": "动词与小品词组成整体；可分短语中代词位置；具体义项仍按对应词典。",
+        "supportedClaims": [
+          "动词与小品词组成整体；可分短语中代词位置；具体义项仍按对应词典。"
+        ],
+        "summaryZh": "动词与小品词组成整体；可分短语中代词位置；具体义项仍按对应词典。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创教学转述及链接；不复制词典全文"
+      }
+    ],
+    "sourceLimitations": [
+      "主例句沿用公开词卡；场景分析与回应为教学整理，非真实工作记录。",
+      "当前义及扩展义为有据原创转述；非完整词典。",
+      "词源、IPA与全页例句见单独supplement，旧回执不适用于本版。"
+    ],
+    "writer": "whole50_author3",
+    "contextKind": "existing_public_learning_example",
+    "templateVersion": "WORDS-STATIC-V3.1-FIVE-ZONE-SOURCE-FIRST",
+    "contentRevision": 2,
+    "dictionaryEntries": [
+      {
+        "lemma": "take on",
+        "pos": "短语动词",
+        "senses": [
+          {
+            "id": "take-on:current",
+            "glossZh": "接受并承担工作或责任",
+            "definitionEn": "accept work or responsibility",
+            "sourceIds": [
+              "lex"
+            ]
+          }
+        ],
+        "source": "有据原创教学转述"
+      },
+      {
+        "lemma": "take",
+        "pos": "v. · 组词联系",
+        "senses": [
+          {
+            "id": "take:component",
+            "glossZh": "拿；带走（基本词义联系）；整体短语义见上",
+            "definitionEn": "carry or move something from one place to another",
+            "sourceIds": [
+              "component"
+            ]
+          }
+        ],
+        "source": "组成词基础义，不机械推出整体义"
+      },
+      {
+        "lemma": "take on",
+        "pos": "短语动词",
+        "senses": [
+          {
+            "id": "take-on:extra",
+            "glossZh": "雇用；聘用",
+            "definitionEn": "employ someone to do a job",
+            "sourceIds": [
+              "lex"
+            ]
+          }
+        ],
+        "source": "有据原创教学转述"
+      }
+    ],
+    "focusedEntries": [
+      {
+        "entry": {
+          "lemma": "take on",
+          "pos": "短语动词",
+          "senses": [
+            {
+              "id": "take-on:current",
+              "glossZh": "接受并承担工作或责任",
+              "definitionEn": "accept work or responsibility",
+              "sourceIds": [
+                "lex"
+              ]
+            }
+          ],
+          "source": "有据原创教学转述"
+        },
+        "sense": {
+          "id": "take-on:current",
+          "glossZh": "接受并承担工作或责任",
+          "definitionEn": "accept work or responsibility",
+          "sourceIds": [
+            "lex"
+          ]
+        }
+      },
+      {
+        "entry": {
+          "lemma": "take",
+          "pos": "v. · 组词联系",
+          "senses": [
+            {
+              "id": "take:component",
+              "glossZh": "拿；带走（基本词义联系）；整体短语义见上",
+              "definitionEn": "carry or move something from one place to another",
+              "sourceIds": [
+                "component"
+              ]
+            }
+          ],
+          "source": "组成词基础义，不机械推出整体义"
+        },
+        "sense": {
+          "id": "take:component",
+          "glossZh": "拿；带走（基本词义联系）；整体短语义见上",
+          "definitionEn": "carry or move something from one place to another",
+          "sourceIds": [
+            "component"
+          ]
+        }
+      }
+    ],
+    "claims": [
+      {
+        "id": "lexical",
+        "text": "take on当前义为接受并承担工作或责任；扩展相关义为雇用；聘用",
+        "kind": "source_fact",
+        "sourceIds": [
+          "lex"
+        ],
+        "evidenceNote": "词典所列词性/义项；中文与英文为原创转述，扩展词性明确。"
+      },
+      {
+        "id": "connection",
+        "text": "记住 take on a task，把它看作把一份责任接到自己手上，这是学习联想。关键不在“拿走”物品，而在接受工作；宾语 task 帮助锁定义项，不能把所有 take on 都译成承担。",
+        "kind": "teaching_inference",
+        "sourceIds": [
+          "lex",
+          "grammar"
+        ],
+        "evidenceNote": "基于公开主例句和已核验词义的教学分析；情境对照/回应为自编，不是来源中的真实事件。"
+      },
+      {
+        "id": "syntax",
+        "text": "Our team 是主语，cannot 表示本句说的能力限制，another task 强调再加一项，this week 限定时间。整句只划出本周无法新增任务的边界，没有说团队永远不接新任务，也未说明现有任务已完成。",
+        "kind": "teaching_inference",
+        "sourceIds": [
+          "lex",
+          "grammar"
+        ],
+        "evidenceNote": "基于公开主例句和已核验词义的教学分析；情境对照/回应为自编，不是来源中的真实事件。"
+      },
+      {
+        "id": "contrast",
+        "text": "take on a task 是接下任务，work on a task 是处理任务。今天同意下周负责评审，可以说 take on；到了下周实际做评审，才是 work on。另一个常见搭配 take on new staff 是雇用员工，需靠宾语分义。",
+        "kind": "teaching_inference",
+        "sourceIds": [
+          "lex"
+        ],
+        "evidenceNote": "基于公开主例句和已核验词义的教学分析；情境对照/回应为自编，不是来源中的真实事件。"
+      },
+      {
+        "id": "pragmatics",
+        "text": "cannot 给出限制，another 强调是在现有工作上再加一项，this week 把限制放在本周。自编回应：Could you take it on next week instead?（改成下周，你们能接吗？）回应探索别的时间，而不是把本周的拒绝理解成永久拒绝。",
+        "kind": "teaching_inference",
+        "sourceIds": [
+          "lex"
+        ],
+        "evidenceNote": "基于公开主例句和已核验词义的教学分析；情境对照/回应为自编，不是来源中的真实事件。"
+      },
+      {
+        "id": "transfer",
+        "text": "自编工作表达：I can take on the review if another task is reassigned.（如果把另一项任务重新分配，我可以承担评审。）适合有条件接受工作时。把条件和承诺放在同一句，让对方清楚需要先调整什么，不能只转述前半句。",
+        "kind": "authored_example",
+        "sourceIds": [
+          "lex"
+        ],
+        "evidenceNote": "作者自编迁移表达，按当前义项及所给语法核验，不是真实工作事件。"
+      }
+    ]
+  },
+  {
+    "cardId": "V20261012-069",
+    "term": "weigh up",
+    "context": "We need to weigh up the options before choosing a supplier.",
+    "contextZh": "选择供应商前，我们需要权衡各个选项。",
+    "gloss": "权衡",
+    "glossKind": "source_summary",
+    "pos": "短语动词",
+    "definitionEn": "consider choices or their advantages and disadvantages carefully",
+    "definitionZh": "在决定前仔细比较选择及其利弊",
+    "contextTakeaway": "选择供应商之前先仔细比较各选项。",
+    "bridgeText": "不只是把选项看一遍，而是比较每个选项值得什么、要付出什么。例如一家报价低但交期长，另一家价格高但更快；weigh up 就是把这些取舍想清楚，再作选择。",
+    "groups": [
+      {
+        "id": "g1",
+        "title": "先记住，再联系",
+        "text": "借天平记：把好处和代价放上去比较。weigh 可以说称重量，也可以说衡量事情；weigh up the options 就把这种衡量用在几个选择上。这个图像是记忆联系，不是词源结论；真正要比较的可能是价格、时间或风险。",
+        "requirements": {
+          "anchor": "借天平记",
+          "explanation": "把好处和代价放上去比较",
+          "example": "weigh up the options",
+          "boundary": "不是词源结论"
+        },
+        "claimIds": [
+          "lexical",
+          "connection"
+        ],
+        "sourceIds": [
+          "lex"
+        ]
+      },
+      {
+        "id": "g2",
+        "title": "句法与概念",
+        "text": "weigh up the options 是先比较选项，before choosing a supplier 是后选供应商。need to 表示说话者认为比较是必要步骤。up 在这里属于短语，不是“往上”；也可以说 weigh the options up，用 them 代替 options 时说 weigh them up。",
+        "requirements": {
+          "anchor": "先比较选项",
+          "explanation": "before choosing a supplier",
+          "example": "weigh them up",
+          "boundary": "不是“往上”"
+        },
+        "claimIds": [
+          "lexical",
+          "syntax"
+        ],
+        "sourceIds": [
+          "lex",
+          "grammar"
+        ]
+      },
+      {
+        "id": "g3",
+        "title": "辨析与英文邻居",
+        "text": "consider the options 是考虑选项；weigh up the options 更突出把利弊拿来衡量。例如甲便宜但慢，乙贵但快：weigh up 提醒我们比较两种得失。choose 则是作出选择。常见 weigh the benefits against the costs，是把收益与成本放在一起比较。",
+        "requirements": {
+          "anchor": "consider the options",
+          "explanation": "更突出把利弊拿来衡量",
+          "example": "甲便宜但慢，乙贵但快",
+          "boundary": "choose 则是作出选择"
+        },
+        "claimIds": [
+          "lexical",
+          "contrast"
+        ],
+        "sourceIds": [
+          "lex"
+        ]
+      },
+      {
+        "id": "g4",
+        "title": "这句话在做什么",
+        "text": "这句话在提出一个选择前的步骤：先比，再定。We need to 明确提出要求，before choosing 把选择放在比较之后。自编回应：Let’s compare cost, quality and lead time first.（我们先比较成本、质量和交期吧。）回应把“权衡”落实成可讨论的标准；这些标准是例子，原句并没有列出它们。",
+        "requirements": {
+          "anchor": "先比，再定",
+          "explanation": "before choosing",
+          "example": "Let’s compare cost, quality and lead time first.",
+          "boundary": "原句并没有列出它们"
+        },
+        "claimIds": [
+          "lexical",
+          "action"
+        ],
+        "sourceIds": [
+          "lex"
+        ]
+      },
+      {
+        "id": "g5",
+        "title": "工作中可以这样说",
+        "text": "需要说明一项改动是否值得做时，可以把两面的因素说出来。自编：We need to weigh the time saved against the extra cost.（我们需要权衡节省的时间和额外成本。）weigh A against B 是把两者放在一起衡量；可把两项换成 benefits 和 risks，用于收益与风险的讨论。",
+        "requirements": {
+          "anchor": "改动是否值得做",
+          "explanation": "把两面的因素说出来",
+          "example": "We need to weigh the time saved against the extra cost.",
+          "boundary": "weigh A against B"
+        },
+        "claimIds": [
+          "lexical",
+          "use"
+        ],
+        "sourceIds": [
+          "lex"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "lex",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/weigh",
+        "title": "weigh — Oxford Advanced Learner’s Dictionary",
+        "publisher": "Oxford University Press",
+        "section": "senses 2–3, lines 125–137",
+        "retrievalStatus": "full_page",
+        "accessedAt": "2026-11-03",
+        "evidence": "weigh第2义称重量，第3义决定前仔细考虑；明确weigh something (up)、weigh (up) something against something，例有options、pros and cons。",
+        "summaryZh": "weigh第2义称重量，第3义决定前仔细考虑；明确weigh something (up)、weigh (up) something against something，例有options、pros and cons。",
+        "supportedClaims": [
+          "weigh第2义称重量，第3义决定前仔细考虑；明确weigh something (up)、weigh (up) something against something，例有options、pros and cons。"
+        ],
+        "adaptationType": "paraphrase",
+        "useAssessment": "仅保存原创教学转述及原站链接；未保存来源全文；例句另标自编。"
+      },
+      {
+        "id": "person",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/weigh-up",
+        "title": "weigh somebody up — Oxford Advanced Learner’s Dictionary",
+        "publisher": "Oxford University Press",
+        "section": "weigh somebody up, sense 1",
+        "retrievalStatus": "index_excerpt",
+        "accessedAt": "2026-11-03",
+        "evidence": "原站索引可见通过观察或交谈形成对某人的看法；只用于更多义项，不把这一条误当weigh options的定义。",
+        "summaryZh": "原站索引可见通过观察或交谈形成对某人的看法；只用于更多义项，不把这一条误当weigh options的定义。",
+        "supportedClaims": [
+          "原站索引可见通过观察或交谈形成对某人的看法；只用于更多义项，不把这一条误当weigh options的定义。"
+        ],
+        "adaptationType": "paraphrase",
+        "useAssessment": "仅保存原创教学转述及原站链接；未保存来源全文；例句另标自编。"
+      },
+      {
+        "id": "grammar",
+        "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/phrasal-verbs",
+        "title": "Phrasal verbs",
+        "publisher": "British Council",
+        "section": "Grammar explanation; Separable / Non-separable",
+        "retrievalStatus": "full_page",
+        "accessedAt": "2026-11-03",
+        "evidence": "正文23—63行解释动词与小品词形成整体、可分和不可分结构；小品词经常改变动词意义。只支持教学框架，具体短语结构由对应词典核对。",
+        "summaryZh": "正文23—63行解释动词与小品词形成整体、可分和不可分结构；小品词经常改变动词意义。只支持教学框架，具体短语结构由对应词典核对。",
+        "supportedClaims": [
+          "正文23—63行解释动词与小品词形成整体、可分和不可分结构；小品词经常改变动词意义。只支持教学框架，具体短语结构由对应词典核对。"
+        ],
+        "adaptationType": "paraphrase",
+        "useAssessment": "仅保存原创教学转述及原站链接；未保存来源全文；例句另标自编。"
+      }
+    ],
+    "sourceLimitations": [
+      "前区释义、五区说明均为原创教学转述；语境沿用原公开词卡，回应、类比及工作例句为教学编写。",
+      "词源、音标和附加例句已纳入本批整页补充包，须以新的整页独立回执核验；旧五区批准不能替代。",
+      "更多区域只列已核实的不同义项或明确标注的同族词，不是完整词典。",
+      "部分来源仅核查原站搜索索引的可见片段，证据范围见来源表，未标为全文。"
+    ],
+    "writer": "whole50_author3",
+    "contextKind": "existing_public_learning_example",
+    "templateVersion": "WORDS-STATIC-V3.1-FIVE-ZONE-SOURCE-FIRST",
+    "contentRevision": 3,
+    "claims": [
+      {
+        "id": "lexical",
+        "text": "Oxford weigh第3义明列权衡用法及可分结构，第二义称重；weigh somebody up判断人的义项与选项权衡分开。",
+        "kind": "source_fact",
+        "sourceIds": [
+          "lex",
+          "person"
+        ],
+        "evidenceNote": "见对应sources.evidence的义项定位；定义为原创转述，不是逐字词典原文。"
+      },
+      {
+        "id": "connection",
+        "text": "借天平记：把好处和代价放上去比较。weigh 可以说称重量，也可以说衡量事情；weigh up the options 就把这种衡量用在几个选择上。这个图像是记忆联系，不是词源结论；真正要比较的可能是价格、时间或风险。",
+        "kind": "teaching_inference",
+        "sourceIds": [
+          "lex"
+        ],
+        "evidenceNote": "按已核实词义整理的记忆联系，正文标明类比或同族关联，不推断历史词源。"
+      },
+      {
+        "id": "syntax",
+        "text": "weigh up the options 是先比较选项，before choosing a supplier 是后选供应商。need to 表示说话者认为比较是必要步骤。up 在这里属于短语，不是“往上”；也可以说 weigh the options up，用 them 代替 options 时说 weigh them up。",
+        "kind": "teaching_inference",
+        "sourceIds": [
+          "lex",
+          "grammar"
+        ],
+        "evidenceNote": "以保留的完整例句分析结构；结构与解释对应，未把来源说成收录该自编句。"
+      },
+      {
+        "id": "contrast",
+        "text": "consider/weigh up/choose对照为基于权衡义与原句before choosing的教学分析；价格交期对照为自编。",
+        "kind": "teaching_inference",
+        "sourceIds": [
+          "lex"
+        ],
+        "evidenceNote": "区分词典明确事实与用于解释的情境对照；不把常见倾向写成绝对规则。"
+      },
+      {
+        "id": "action",
+        "text": "这句话在提出一个选择前的步骤：先比，再定。We need to 明确提出要求，before choosing 把选择放在比较之后。自编回应：Let’s compare cost, quality and lead time first.（我们先比较成本、质量和交期吧。）回应把“权衡”落实成可讨论的标准；这些标准是例子，原句并没有列出它们。",
+        "kind": "teaching_inference",
+        "sourceIds": [
+          "lex"
+        ],
+        "evidenceNote": "从原句措辞提出话语行动解释，回应是显式自编；未编造用户业务事实。"
+      },
+      {
+        "id": "use",
+        "text": "需要说明一项改动是否值得做时，可以把两面的因素说出来。自编：We need to weigh the time saved against the extra cost.（我们需要权衡节省的时间和额外成本。）weigh A against B 是把两者放在一起衡量；可把两项换成 benefits 和 risks，用于收益与风险的讨论。",
+        "kind": "authored_example",
+        "sourceIds": [
+          "lex"
+        ],
+        "evidenceNote": "自编工作表达及替换槽，需Reviewer核查英语自然度与当前义，不宣称来源提供这个原句。"
+      }
+    ],
+    "focusedEntries": [
+      {
+        "entry": {
+          "lemma": "weigh up",
+          "pos": "短语动词",
+          "senses": [
+            {
+              "id": "weigh-up:current",
+              "glossZh": "在决定前仔细比较选择及其利弊",
+              "definitionEn": "consider choices or their advantages and disadvantages carefully",
+              "sourceIds": [
+                "lex"
+              ]
+            }
+          ],
+          "source": "已核对来源的原创教学转述"
+        },
+        "sense": {
+          "id": "weigh-up:current",
+          "glossZh": "在决定前仔细比较选择及其利弊",
+          "definitionEn": "consider choices or their advantages and disadvantages carefully",
+          "sourceIds": [
+            "lex"
+          ]
+        }
+      },
+      {
+        "entry": {
+          "lemma": "weigh",
+          "pos": "动词 · 本句相关义",
+          "senses": [
+            {
+              "id": "weigh:consider",
+              "glossZh": "仔细考虑；衡量（up 与它构成当前表达，不译成“向上”）",
+              "definitionEn": "think carefully about something in preparation for a decision",
+              "sourceIds": [
+                "lex",
+                "grammar"
+              ]
+            }
+          ],
+          "source": "已核对来源的原创教学转述"
+        },
+        "sense": {
+          "id": "weigh:consider",
+          "glossZh": "仔细考虑；衡量（up 与它构成当前表达，不译成“向上”）",
+          "definitionEn": "think carefully about something in preparation for a decision",
+          "sourceIds": [
+            "lex",
+            "grammar"
+          ]
+        }
+      }
+    ],
+    "dictionaryEntries": [
+      {
+        "lemma": "weigh up",
+        "pos": "短语动词",
+        "senses": [
+          {
+            "id": "weigh-up:current",
+            "glossZh": "在决定前仔细比较选择及其利弊",
+            "definitionEn": "consider choices or their advantages and disadvantages carefully",
+            "sourceIds": [
+              "lex"
+            ]
+          }
+        ],
+        "source": "已核对来源的原创教学转述"
+      },
+      {
+        "lemma": "weigh",
+        "pos": "动词 · 本句相关义",
+        "senses": [
+          {
+            "id": "weigh:consider",
+            "glossZh": "仔细考虑；衡量（up 与它构成当前表达，不译成“向上”）",
+            "definitionEn": "think carefully about something in preparation for a decision",
+            "sourceIds": [
+              "lex",
+              "grammar"
+            ]
+          }
+        ],
+        "source": "已核对来源的原创教学转述"
+      },
+      {
+        "lemma": "weigh",
+        "pos": "动词",
+        "senses": [
+          {
+            "id": "weigh:measure",
+            "glossZh": "称重量；测出某人或某物有多重",
+            "definitionEn": "measure the weight of a person or thing",
+            "sourceIds": [
+              "lex"
+            ]
+          }
+        ],
+        "source": "已核对来源的原创教学转述"
+      },
+      {
+        "lemma": "weigh somebody up",
+        "pos": "短语动词",
+        "senses": [
+          {
+            "id": "weigh-up:person",
+            "glossZh": "通过观察或交谈来判断一个人",
+            "definitionEn": "form a judgment of someone through observation or conversation",
+            "sourceIds": [
+              "person"
+            ]
+          }
+        ],
+        "source": "已核对来源的原创教学转述"
+      }
+    ],
+    "revisedBy": "root_integrator"
+  },
+  {
+    "cardId": "V20261012-070",
+    "term": "wrap up",
+    "context": "Let's wrap up by confirming the owner and due date.",
+    "contextZh": "我们以确认负责人和截止日期来收尾吧。",
+    "gloss": "收尾",
+    "glossKind": "source_summary",
+    "pos": "短语动词",
+    "definitionEn": "finish a discussion, activity, or piece of work",
+    "definitionZh": "将讨论、活动或工作收尾结束",
+    "contextTakeaway": "最后确认负责人及期限，然后结束。",
+    "bridgeText": "wrap up 在这里是把讨论收尾。by confirming the owner and due date 指定最后一步：确认负责人和期限。不是单纯停止说话，而是用这项确认完成本次交流。",
+    "groups": [
+      {
+        "id": "g1",
+        "title": "先记住，再联系",
+        "text": "把 wrap up a discussion 整块记成讨论收尾，不要在本句逐字想成包东西。可用“把散落事项收拢”作学习联想；这帮助记住结束前检查遗漏，但不是词源，也不是每次使用都必须总结。",
+        "sourceIds": [
+          "lex",
+          "grammar"
+        ],
+        "claimIds": [
+          "lexical",
+          "connection"
+        ],
+        "requirements": {
+          "anchor": "把 wrap up a discussion 整块记成讨论收尾，不要在本句逐字想成包东西。",
+          "explanation": "可用“把散落事项收拢”作学习联想；",
+          "example": "wrap up a discussion ",
+          "boundary": "这帮助记住结束前检查遗漏，但不是词源，也不是每次使用都必须总结。"
+        }
+      },
+      {
+        "id": "g2",
+        "title": "句法与概念",
+        "text": "Let's wrap up 提议收尾，后面的 by confirming 表明采用什么收尾动作。the owner 和 due date 是需确认的两项：由谁负责、何时到期。这里 owner 是任务负责人，不是在说明物品所有权。",
+        "sourceIds": [
+          "lex",
+          "grammar"
+        ],
+        "claimIds": [
+          "syntax"
+        ],
+        "requirements": {
+          "anchor": "Let's wrap up 提议收尾，后面的 by confirming 表明采用什么收尾动作。",
+          "explanation": "the owner 和 due date 是需确认的两项：由谁负责、何时到期。",
+          "example": "Let's wrap up ",
+          "boundary": "这里 owner 是任务负责人，不是在说明物品所有权。"
+        }
+      },
+      {
+        "id": "g3",
+        "title": "辨析与英文邻居",
+        "text": "wrap up 强调结束，summarize 强调概括。你可以用总结来收尾，也可以像本句一样确认安排。结束讨论时说 wrap up 很自然；如果还要继续讨论，只想先概括已有观点，summarize 更准确。",
+        "sourceIds": [
+          "lex"
+        ],
+        "claimIds": [
+          "contrast"
+        ],
+        "requirements": {
+          "anchor": "wrap up 强调结束，summarize 强调概括。",
+          "explanation": "你可以用总结来收尾，也可以像本句一样确认安排。",
+          "example": "wrap up ",
+          "boundary": "如果还要继续讨论，只想先概括已有观点，summarize 更准确。"
+        }
+      },
+      {
+        "id": "g4",
+        "title": "这句话在做什么",
+        "text": "Let’s 发出收尾提议，by confirming 指明结束前要补齐两项信息：谁负责、何时完成。自编回应：I’ll handle it and finish by Friday.（我来负责，星期五前完成。）这句回应同时填上负责人和期限，交流便有了可执行的落点。",
+        "sourceIds": [
+          "lex"
+        ],
+        "claimIds": [
+          "pragmatics"
+        ],
+        "requirements": {
+          "anchor": "Let’s 发出收尾提议，by confirming 指明结束前要补齐两项信息：谁负责、何时完成。",
+          "explanation": "自编回应：I’ll handle it and finish by Friday.（我来负责，星期五前完成。",
+          "example": "Let’s ",
+          "boundary": "）这句回应同时填上负责人和期限，交流便有了可执行的落点。"
+        }
+      },
+      {
+        "id": "g5",
+        "title": "工作中可以这样说",
+        "text": "自编工作表达：Let's wrap up the review and list the open issues.（我们结束这次评审，并列出尚未解决的问题吧。）适合时间到、但仍有待办时。结束一场评审并不等于关闭所有问题，列出未结事项可为下一次跟进保留入口。",
+        "sourceIds": [
+          "lex"
+        ],
+        "claimIds": [
+          "transfer"
+        ],
+        "requirements": {
+          "anchor": "自编工作表达：Let's wrap up the review and list the open issues.（我们结束这次评审，并列出尚未解决的问题吧。",
+          "explanation": "）适合时间到、但仍有待办时。",
+          "example": "Let's wrap up the review and list the open issues",
+          "boundary": "结束一场评审并不等于关闭所有问题，列出未结事项可为下一次跟进保留入口。"
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "lex",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/wrap-up",
+        "title": "Oxford · wrap up",
+        "publisher": "Oxford University Press",
+        "accessedAt": "2026-11-03",
+        "section": "Headword, part of speech, current contextual sense and usage patterns",
+        "retrievalStatus": "full_page",
+        "evidence": "wrap up本句义：将讨论、活动或工作收尾结束。核对短语动词和wrap up a discussion；相关义项：穿暖；给某人穿上保暖衣物。中文与英文定义为原创转述。",
+        "supportedClaims": [
+          "wrap up本句义：将讨论、活动或工作收尾结束。核对短语动词和wrap up a discussion；相关义项：穿暖；给某人穿上保暖衣物。中文与英文定义为原创转述。"
+        ],
+        "summaryZh": "wrap up本句义：将讨论、活动或工作收尾结束。核对短语动词和wrap up a discussion；相关义项：穿暖；给某人穿上保暖衣物。中文与英文定义为原创转述。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创教学转述及链接；不复制词典全文"
+      },
+      {
+        "id": "component",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/wrap_1",
+        "title": "Oxford · wrap",
+        "publisher": "Oxford University Press",
+        "accessedAt": "2026-11-03",
+        "section": "Headword British IPA and base verb sense",
+        "retrievalStatus": "full_page",
+        "evidence": "包裹；用材料围住；本页英式音标已核对。组成词联系不代替整体短语义。",
+        "supportedClaims": [
+          "包裹；用材料围住；本页英式音标已核对。组成词联系不代替整体短语义。"
+        ],
+        "summaryZh": "包裹；用材料围住；本页英式音标已核对。组成词联系不代替整体短语义。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创教学转述及链接；不复制词典全文"
+      },
+      {
+        "id": "particle",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/up_1",
+        "title": "Oxford · up",
+        "publisher": "Oxford University Press",
+        "accessedAt": "2026-11-03",
+        "section": "Headword British IPA and phrasal-verb lookup note",
+        "retrievalStatus": "full_page",
+        "evidence": "up英式音标/ʌp/；具体短语义应查动词词条，不能逐字翻译。",
+        "supportedClaims": [
+          "up英式音标/ʌp/；具体短语义应查动词词条，不能逐字翻译。"
+        ],
+        "summaryZh": "up英式音标/ʌp/；具体短语义应查动词词条，不能逐字翻译。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创教学转述及链接；不复制词典全文"
+      },
+      {
+        "id": "grammar",
+        "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/phrasal-verbs",
+        "title": "British Council · Phrasal verbs",
+        "publisher": "British Council",
+        "accessedAt": "2026-11-03",
+        "section": "Phrasal verbs: meaning and separable word order",
+        "retrievalStatus": "full_page",
+        "evidence": "动词与小品词组成整体；可分短语中代词位置；具体义项仍按对应词典。",
+        "supportedClaims": [
+          "动词与小品词组成整体；可分短语中代词位置；具体义项仍按对应词典。"
+        ],
+        "summaryZh": "动词与小品词组成整体；可分短语中代词位置；具体义项仍按对应词典。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创教学转述及链接；不复制词典全文"
+      }
+    ],
+    "sourceLimitations": [
+      "主例句沿用公开词卡；场景分析与回应为教学整理，非真实工作记录。",
+      "当前义及扩展义为有据原创转述；非完整词典。",
+      "词源、IPA与全页例句见单独supplement，旧回执不适用于本版。"
+    ],
+    "writer": "whole50_author3",
+    "contextKind": "existing_public_learning_example",
+    "templateVersion": "WORDS-STATIC-V3.1-FIVE-ZONE-SOURCE-FIRST",
+    "contentRevision": 2,
+    "dictionaryEntries": [
+      {
+        "lemma": "wrap up",
+        "pos": "短语动词",
+        "senses": [
+          {
+            "id": "wrap-up:current",
+            "glossZh": "将讨论、活动或工作收尾结束",
+            "definitionEn": "finish a discussion, activity, or piece of work",
+            "sourceIds": [
+              "lex"
+            ]
+          }
+        ],
+        "source": "有据原创教学转述"
+      },
+      {
+        "lemma": "wrap",
+        "pos": "v. · 组词联系",
+        "senses": [
+          {
+            "id": "wrap:component",
+            "glossZh": "包裹；用材料围住；整体短语义见上",
+            "definitionEn": "cover something with paper or another material",
+            "sourceIds": [
+              "component"
+            ]
+          }
+        ],
+        "source": "组成词基础义，不机械推出整体义"
+      },
+      {
+        "lemma": "wrap up",
+        "pos": "短语动词",
+        "senses": [
+          {
+            "id": "wrap-up:extra",
+            "glossZh": "穿暖；给某人穿上保暖衣物",
+            "definitionEn": "dress warmly or put warm clothing on someone",
+            "sourceIds": [
+              "lex"
+            ]
+          }
+        ],
+        "source": "有据原创教学转述"
+      }
+    ],
+    "focusedEntries": [
+      {
+        "entry": {
+          "lemma": "wrap up",
+          "pos": "短语动词",
+          "senses": [
+            {
+              "id": "wrap-up:current",
+              "glossZh": "将讨论、活动或工作收尾结束",
+              "definitionEn": "finish a discussion, activity, or piece of work",
+              "sourceIds": [
+                "lex"
+              ]
+            }
+          ],
+          "source": "有据原创教学转述"
+        },
+        "sense": {
+          "id": "wrap-up:current",
+          "glossZh": "将讨论、活动或工作收尾结束",
+          "definitionEn": "finish a discussion, activity, or piece of work",
+          "sourceIds": [
+            "lex"
+          ]
+        }
+      },
+      {
+        "entry": {
+          "lemma": "wrap",
+          "pos": "v. · 组词联系",
+          "senses": [
+            {
+              "id": "wrap:component",
+              "glossZh": "包裹；用材料围住；整体短语义见上",
+              "definitionEn": "cover something with paper or another material",
+              "sourceIds": [
+                "component"
+              ]
+            }
+          ],
+          "source": "组成词基础义，不机械推出整体义"
+        },
+        "sense": {
+          "id": "wrap:component",
+          "glossZh": "包裹；用材料围住；整体短语义见上",
+          "definitionEn": "cover something with paper or another material",
+          "sourceIds": [
+            "component"
+          ]
+        }
+      }
+    ],
+    "claims": [
+      {
+        "id": "lexical",
+        "text": "wrap up当前义为将讨论、活动或工作收尾结束；扩展相关义为穿暖；给某人穿上保暖衣物",
+        "kind": "source_fact",
+        "sourceIds": [
+          "lex"
+        ],
+        "evidenceNote": "词典所列词性/义项；中文与英文为原创转述，扩展词性明确。"
+      },
+      {
+        "id": "connection",
+        "text": "把 wrap up a discussion 整块记成讨论收尾，不要在本句逐字想成包东西。可用“把散落事项收拢”作学习联想；这帮助记住结束前检查遗漏，但不是词源，也不是每次使用都必须总结。",
+        "kind": "teaching_inference",
+        "sourceIds": [
+          "lex",
+          "grammar"
+        ],
+        "evidenceNote": "基于公开主例句和已核验词义的教学分析；情境对照/回应为自编，不是来源中的真实事件。"
+      },
+      {
+        "id": "syntax",
+        "text": "Let's wrap up 提议收尾，后面的 by confirming 表明采用什么收尾动作。the owner 和 due date 是需确认的两项：由谁负责、何时到期。这里 owner 是任务负责人，不是在说明物品所有权。",
+        "kind": "teaching_inference",
+        "sourceIds": [
+          "lex",
+          "grammar"
+        ],
+        "evidenceNote": "基于公开主例句和已核验词义的教学分析；情境对照/回应为自编，不是来源中的真实事件。"
+      },
+      {
+        "id": "contrast",
+        "text": "wrap up 强调结束，summarize 强调概括。你可以用总结来收尾，也可以像本句一样确认安排。结束讨论时说 wrap up 很自然；如果还要继续讨论，只想先概括已有观点，summarize 更准确。",
+        "kind": "teaching_inference",
+        "sourceIds": [
+          "lex"
+        ],
+        "evidenceNote": "基于公开主例句和已核验词义的教学分析；情境对照/回应为自编，不是来源中的真实事件。"
+      },
+      {
+        "id": "pragmatics",
+        "text": "Let’s 发出收尾提议，by confirming 指明结束前要补齐两项信息：谁负责、何时完成。自编回应：I’ll handle it and finish by Friday.（我来负责，星期五前完成。）这句回应同时填上负责人和期限，交流便有了可执行的落点。",
+        "kind": "teaching_inference",
+        "sourceIds": [
+          "lex"
+        ],
+        "evidenceNote": "基于公开主例句和已核验词义的教学分析；情境对照/回应为自编，不是来源中的真实事件。"
+      },
+      {
+        "id": "transfer",
+        "text": "自编工作表达：Let's wrap up the review and list the open issues.（我们结束这次评审，并列出尚未解决的问题吧。）适合时间到、但仍有待办时。结束一场评审并不等于关闭所有问题，列出未结事项可为下一次跟进保留入口。",
+        "kind": "authored_example",
+        "sourceIds": [
+          "lex"
+        ],
+        "evidenceNote": "作者自编迁移表达，按当前义项及所给语法核验，不是真实工作事件。"
+      }
+    ]
+  }
+]

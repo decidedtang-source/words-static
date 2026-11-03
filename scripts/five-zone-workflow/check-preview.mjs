@@ -10,6 +10,7 @@ const browser=await chromium.launch({executablePath:process.env.PLAYWRIGHT_CHROM
 const page=await browser.newPage(),errors=[],checks=[];page.on('pageerror',e=>errors.push(e.message));
 try{
  await page.goto(pathToFileURL(resolve(dir,'preview.html')).href);
+ if(!(await page.locator('aside>p').first().textContent()).includes(String(entries.length).padStart(2,'0')))throw Error('card count label mismatch');
  for(const [device,width,height] of [['windows',1440,810],['mac',1512,982],['phone-portrait',390,844],['phone-landscape',844,390],['tablet-portrait',820,1180],['tablet-landscape',1180,820]]){
   await page.setViewportSize({width,height});
   for(let i=0;i<entries.length;i++){
@@ -49,6 +50,8 @@ try{
  await page.setViewportSize({width:1440,height:810});await page.evaluate(()=>choose(2));await page.screenshot({path:resolve(dir,'evidence/desktop.png'),fullPage:true});
  await page.setViewportSize({width:390,height:844});await page.screenshot({path:resolve(dir,'evidence/phone.png'),fullPage:true});
  await page.goto(pathToFileURL(resolve(dir,'scores.html')).href);if(await page.locator('body').innerText().then(s=>!entries.every(e=>s.includes(e.term))))throw Error('score page missing entries');
+ if(await page.locator('details').count()!==entries.length||await page.locator('tbody>tr').count()!==entries.length)throw Error('score summary count');
+ await page.locator('details').first().locator('summary').click();if(await page.locator('details').first().locator('section').count()!==13)throw Error('score modules missing');
  if(errors.length)throw Error(errors.join('\n'));
  writeFileSync(resolve(dir,'evidence/browser.json'),JSON.stringify({checks,errors,scorePage:true,engine:'Chromium',realDevice:false,productionActivated:false},null,2)+'\n');
  console.log(JSON.stringify({passed:checks.length,scorePage:true,errors}));

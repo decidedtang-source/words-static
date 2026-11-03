@@ -1,0 +1,926 @@
+[
+  {
+    "at": "2026-11-03T16:02:11.400Z",
+    "processed": 10,
+    "transitions": [
+      {
+        "cardId": "V20261012-001",
+        "from": "NOT_STARTED",
+        "to": "REVIEW",
+        "key": "8fbe2fab8d091323ac273ee5a05e481b6611703f8131e8a80e0eab048fe5ce85"
+      },
+      {
+        "cardId": "V20261012-002",
+        "from": "NOT_STARTED",
+        "to": "REVIEW",
+        "key": "8c9c204a68cb3cb35ec7a9d131037d133799f22e3acaf516da4bb0fafd564055"
+      },
+      {
+        "cardId": "V20261012-003",
+        "from": "NOT_STARTED",
+        "to": "REVIEW",
+        "key": "a1709396837ccc262cb8cd7e13cbca7d612cfac459c4546e80af92a590a56b29"
+      },
+      {
+        "cardId": "V20261012-004",
+        "from": "NOT_STARTED",
+        "to": "REVIEW",
+        "key": "0303222f2f1bcc3ff4d6c87a6715efa2d9a475eda14dd5a07bb3232392d4d1b9"
+      },
+      {
+        "cardId": "V20261012-005",
+        "from": "NOT_STARTED",
+        "to": "REVIEW",
+        "key": "11c3f153627db52746ee18bbe696a5aca56b84996990770a65b63adc9beb9184"
+      },
+      {
+        "cardId": "V20261012-006",
+        "from": "NOT_STARTED",
+        "to": "REVIEW",
+        "key": "9c9a04d11c04f0f5dfce3dd1d268569a35c42e4cc7b21bda653b121d7a46083d"
+      },
+      {
+        "cardId": "V20261012-007",
+        "from": "NOT_STARTED",
+        "to": "REVIEW",
+        "key": "e8f33c39bb4be783cb5e6fdfb2ff34312cceee0e422fdc7a079b9428987ac00e"
+      },
+      {
+        "cardId": "V20261012-008",
+        "from": "NOT_STARTED",
+        "to": "REVIEW",
+        "key": "38f67e36665f65fb2bbff21d56a28784fbf052199dd795973597bfdc8dbc1b14"
+      },
+      {
+        "cardId": "V20261012-009",
+        "from": "NOT_STARTED",
+        "to": "REVIEW",
+        "key": "08fdb13d9e354061b212b74748a3072e70586025cc778d91e863911aa99e54ee"
+      },
+      {
+        "cardId": "V20261012-010",
+        "from": "NOT_STARTED",
+        "to": "REVIEW",
+        "key": "07a469860f688399a0c916cace3fd770ab2bef4fbbcc8c72e92fcf9abe2b6523"
+      }
+    ]
+  },
+  {
+    "at": "2026-11-03T16:02:11.764Z",
+    "processed": 50,
+    "transitions": [
+      {
+        "cardId": "V20261012-011",
+        "from": "NOT_STARTED",
+        "to": "REVIEW",
+        "key": "f2ace18fc811ae62f8e6e205d7138074a0abde759becb41a4f91767a5baa9106"
+      },
+      {
+        "cardId": "V20261012-012",
+        "from": "NOT_STARTED",
+        "to": "REVIEW",
+        "key": "59d45c445c35c3186f0771e92882db924d5d5ebb15399d595fc1aed840d2900e"
+      },
+      {
+        "cardId": "V20261012-013",
+        "from": "NOT_STARTED",
+        "to": "REVIEW",
+        "key": "44cdd40bb9d19128530979a6038a63ea734cda949852039439de6f959b6b6112"
+      },
+      {
+        "cardId": "V20261012-014",
+        "from": "NOT_STARTED",
+        "to": "REVIEW",
+        "key": "e699a1f26943a18a302a83f896808a133f13c9e5f4f7e08e2d6fa35d6712341d"
+      },
+      {
+        "cardId": "V20261012-015",
+        "from": "NOT_STARTED",
+        "to": "REVIEW",
+        "key": "8ae0fc06c201d7d8f13d9cdfdf27964abbe9d1b842c69b71856be2c53558bff1"
+      },
+      {
+        "cardId": "V20261012-016",
+        "from": "NOT_STARTED",
+        "to": "REVIEW",
+        "key": "b33e54b9286f00f3fd4f53fc20777fa2cc4ba960da10e99843c57ce52898545b"
+      },
+      {
+        "cardId": "V20261012-017",
+        "from": "NOT_STARTED",
+        "to": "REVIEW",
+        "key": "8f27538fc144ae7ac570453f6d22d1dbf54c095382a2624582f9b8c76a7d8fd9"
+      },
+      {
+        "cardId": "V20261012-018",
+        "from": "NOT_STARTED",
+        "to": "REVIEW",
+        "key": "11a34ea2b4a7f40c3f3f4e63b9f7ddc80c4319b3f70154ec0ad20cbc3e394034"
+      },
+      {
+        "cardId": "V20261012-019",
+        "from": "NOT_STARTED",
+        "to": "REVIEW",
+        "key": "78fcd3c1b8107586f360062333e4901c014d20110686f4e3a7924aa56ce11531"
+      },
+      {
+        "cardId": "V20261012-020",
+        "from": "NOT_STARTED",
+        "to": "REVIEW",
+        "key": "32d0e15deebb34ebb276df8e25120ecabaf4b735520e6239a76f8f93fdc24fd2"
+      },
+      {
+        "cardId": "V20261012-041",
+        "from": "NOT_STARTED",
+        "to": "REVIEW",
+        "key": "19fb1b25adab8c4e65402d3b86df2f133706313f0fde9a2a8486fb35f0f5e6f2"
+      },
+      {
+        "cardId": "V20261012-042",
+        "from": "NOT_STARTED",
+        "to": "REVIEW",
+        "key": "9591f476c0c1e2e9a3a3d38569b0452d2c8164f2da62770ccf7a150397e9a673"
+      },
+      {
+        "cardId": "V20261012-043",
+        "from": "NOT_STARTED",
+        "to": "REVIEW",
+        "key": "c8a65099656d846f431b94eb8260faeb83bf1aad08643ac604cc6e07f7f92d07"
+      },
+      {
+        "cardId": "V20261012-044",
+        "from": "NOT_STARTED",
+        "to": "REVIEW",
+        "key": "d3fad083316a491555d6f436ec45b496cb121f4ce9f2d73e22a47481c933f739"
+      },
+      {
+        "cardId": "V20261012-045",
+        "from": "NOT_STARTED",
+        "to": "REVIEW",
+        "key": "acd5bd4c1a41e71ecd01355e3fdd342d9c39410c7e131f043b801b25c1ff8aa2"
+      },
+      {
+        "cardId": "V20261012-046",
+        "from": "NOT_STARTED",
+        "to": "REVIEW",
+        "key": "2150537071154ddbc31ccbe999dcf138a04e7fcd7bac48658c94f70b6fdc7ef0"
+      },
+      {
+        "cardId": "V20261012-047",
+        "from": "NOT_STARTED",
+        "to": "REVIEW",
+        "key": "4daca83e6695bae04805f2090f09c93297496adc3007c08c98b5709dc60b35e0"
+      },
+      {
+        "cardId": "V20261012-048",
+        "from": "NOT_STARTED",
+        "to": "REVIEW",
+        "key": "54f770be004cd343f8807c1151b7ece97f976af94659ccd82da235a01c283d3e"
+      },
+      {
+        "cardId": "V20261012-049",
+        "from": "NOT_STARTED",
+        "to": "REVIEW",
+        "key": "0848f45448ed14f4295e87784a3d96eadb0d3777423cf449c4dd9efb37318f72"
+      },
+      {
+        "cardId": "V20261012-050",
+        "from": "NOT_STARTED",
+        "to": "REVIEW",
+        "key": "ee8d776886b29fbd1dce929b54eb2e464900a3deea41e1b22c17a54d66d12633"
+      },
+      {
+        "cardId": "V20261012-051",
+        "from": "NOT_STARTED",
+        "to": "REVIEW",
+        "key": "2131176969a263a9325006d9bc571e12aa86f838579026c5430b49f43f00db3d"
+      },
+      {
+        "cardId": "V20261012-052",
+        "from": "NOT_STARTED",
+        "to": "REVIEW",
+        "key": "64d087a8f3522e289c2cb07110139fd5f61e0a0099bd3e1958e65cf65e3f7e9a"
+      },
+      {
+        "cardId": "V20261012-053",
+        "from": "NOT_STARTED",
+        "to": "REVIEW",
+        "key": "887d8b0aa46e3a001a0a84b4a2fc45f6462eaf57bf5d651669972147e120a157"
+      },
+      {
+        "cardId": "V20261012-054",
+        "from": "NOT_STARTED",
+        "to": "REVIEW",
+        "key": "f47ab2fa0d499613e472b7bc5093824239a87c77746b381c4b72418d5c9a5d07"
+      },
+      {
+        "cardId": "V20261012-055",
+        "from": "NOT_STARTED",
+        "to": "REVIEW",
+        "key": "05598537294aa0ce98ff9754255e38e5b09dd19968ff95edb52f828cd95d9e18"
+      },
+      {
+        "cardId": "V20261012-056",
+        "from": "NOT_STARTED",
+        "to": "REVIEW",
+        "key": "7e49d1ffdc34d077a0a2a9bd27048548b6ef804eb7668b0c30e44f7e75b16c56"
+      },
+      {
+        "cardId": "V20261012-057",
+        "from": "NOT_STARTED",
+        "to": "REVIEW",
+        "key": "a54c1b73cb08d9002039c89b93686c6f42d994788c8d32b2dc7a3fe4f32d0413"
+      },
+      {
+        "cardId": "V20261012-058",
+        "from": "NOT_STARTED",
+        "to": "REVIEW",
+        "key": "ebbc8a1e79ef641056f95b5a6d325a4a2d6d910a839d54017c75b723a635cad1"
+      },
+      {
+        "cardId": "V20261012-059",
+        "from": "NOT_STARTED",
+        "to": "REVIEW",
+        "key": "e7ca7894c37f952342152d05660f048e15641aeaced740e58168297e0776e5e8"
+      },
+      {
+        "cardId": "V20261012-060",
+        "from": "NOT_STARTED",
+        "to": "REVIEW",
+        "key": "8732c18b19883d3b1f37806186f301ef205cc1794c0c10905386f4a84affc36c"
+      },
+      {
+        "cardId": "V20261012-061",
+        "from": "NOT_STARTED",
+        "to": "REVIEW",
+        "key": "e4d57a71dac99ae1460ee799e6576642c06bbf933931de5bd2ed76c8bfcd428d"
+      },
+      {
+        "cardId": "V20261012-062",
+        "from": "NOT_STARTED",
+        "to": "REVIEW",
+        "key": "5b7c6fb92a6fce6d3d423c818ec8ef06bb84ee7db2b4ba5b7a9ce8fa87d7b3d5"
+      },
+      {
+        "cardId": "V20261012-063",
+        "from": "NOT_STARTED",
+        "to": "REVIEW",
+        "key": "43f70f06b7a9033789a8300190f550136777dbdcfa23135e9257207a42cd9140"
+      },
+      {
+        "cardId": "V20261012-064",
+        "from": "NOT_STARTED",
+        "to": "REVIEW",
+        "key": "d36a304f2faf456782b351adf1ed88a69df5c4df4f15ea2386142000954c5d30"
+      },
+      {
+        "cardId": "V20261012-065",
+        "from": "NOT_STARTED",
+        "to": "REVIEW",
+        "key": "4cef3ff66043564f01fbfdf12773757428824b83f18a928cb512d30f9d82ab0e"
+      },
+      {
+        "cardId": "V20261012-066",
+        "from": "NOT_STARTED",
+        "to": "REVIEW",
+        "key": "61aaa91005d3a4856466c162946f35135f980988f19a4e536efb54c95150b0e9"
+      },
+      {
+        "cardId": "V20261012-067",
+        "from": "NOT_STARTED",
+        "to": "REVIEW",
+        "key": "39f6b0cc48e54c985ca0c4ad1e2b6b93e86bb5999e96965aa833ff807e521991"
+      },
+      {
+        "cardId": "V20261012-068",
+        "from": "NOT_STARTED",
+        "to": "REVIEW",
+        "key": "4bb7acbe6b3a29668811515573d587e4a43fe11a0ecf741fb3f0fd403e56b237"
+      },
+      {
+        "cardId": "V20261012-069",
+        "from": "NOT_STARTED",
+        "to": "REVIEW",
+        "key": "76330c16f59c7e19733cf9ca6391f56843fdacd8744fed94533970f3f9758938"
+      },
+      {
+        "cardId": "V20261012-070",
+        "from": "NOT_STARTED",
+        "to": "REVIEW",
+        "key": "0fb8d7f176c24da21d403bdaff0f8e1466f7a82a6bc46e2b7b441feb26d25b2f"
+      }
+    ]
+  },
+  {
+    "at": "2026-11-03T16:10:29.459Z",
+    "processed": 50,
+    "transitions": [
+      {
+        "cardId": "V20261012-001",
+        "from": "REVIEW",
+        "to": "CANDIDATE",
+        "key": "b267b9a727bf84b6920157a714402c8ff98229768df56deefcb82d858d3afd3b"
+      },
+      {
+        "cardId": "V20261012-002",
+        "from": "REVIEW",
+        "to": "CANDIDATE",
+        "key": "962be57760f17b01506162ab305b0855cadd7fbe8d41a82519cacc425d24ca96"
+      },
+      {
+        "cardId": "V20261012-003",
+        "from": "REVIEW",
+        "to": "CANDIDATE",
+        "key": "e4842bc307e8f2c421a3d839dd3b3d146d14039ab043aeee90a3c56adc34318c"
+      },
+      {
+        "cardId": "V20261012-004",
+        "from": "REVIEW",
+        "to": "CANDIDATE",
+        "key": "b0ed223c1e7a598043dc08d4777a4b695c3422a60c06ad36e05009ad704dc81d"
+      },
+      {
+        "cardId": "V20261012-005",
+        "from": "REVIEW",
+        "to": "CANDIDATE",
+        "key": "e7b472e18c9e6f625e240a75d5634b45400216c1149e61f594434ab239527c23"
+      },
+      {
+        "cardId": "V20261012-006",
+        "from": "REVIEW",
+        "to": "CANDIDATE",
+        "key": "9c4672007fc8ea57fcfe12089f222877bea6a83d830f20e5087ce433ab2cbbee"
+      },
+      {
+        "cardId": "V20261012-007",
+        "from": "REVIEW",
+        "to": "CANDIDATE",
+        "key": "14b4a35e4589bf9435a576f709016672849ba5225e559fa142951c9fc24dee41"
+      },
+      {
+        "cardId": "V20261012-008",
+        "from": "REVIEW",
+        "to": "CANDIDATE",
+        "key": "bc8bccb3afcdfd1436e2ce77b77cf8448d810256fab42a1ac95795fe620727f4"
+      },
+      {
+        "cardId": "V20261012-009",
+        "from": "REVIEW",
+        "to": "CANDIDATE",
+        "key": "81e3738ff248efd0317bb71a5d4b478bf1d2ec6ffdefe530417440435ea2c24b"
+      },
+      {
+        "cardId": "V20261012-010",
+        "from": "REVIEW",
+        "to": "CANDIDATE",
+        "key": "878e1a0be1fc6d2cb2b24cbca7e9e952cf7bbb2079160665200537186d9a66ee"
+      },
+      {
+        "cardId": "V20261012-011",
+        "from": "REVIEW",
+        "to": "CANDIDATE",
+        "key": "0a92a597f534467991415efea10623371766173010d6c726e1f0ffae52ae54a6"
+      },
+      {
+        "cardId": "V20261012-012",
+        "from": "REVIEW",
+        "to": "CANDIDATE",
+        "key": "179b5fe3c2615a1f9d21fe1fd539455655e6233e5f1fa8ce8ab18a28c1fb1640"
+      },
+      {
+        "cardId": "V20261012-013",
+        "from": "REVIEW",
+        "to": "CANDIDATE",
+        "key": "fa9cdf236569073bf770a9bcecb1d665afbba4a07e86a28362a0197a83f74fc6"
+      },
+      {
+        "cardId": "V20261012-014",
+        "from": "REVIEW",
+        "to": "CANDIDATE",
+        "key": "21416531f15e9a375c9437881d871440a95d6e5cb92406bbc841086039b52541"
+      },
+      {
+        "cardId": "V20261012-015",
+        "from": "REVIEW",
+        "to": "CANDIDATE",
+        "key": "0b8bd86d3bc3a807c45616b300742399fb9e6f1f87d95fd3bdecd82d95ddd05c"
+      },
+      {
+        "cardId": "V20261012-016",
+        "from": "REVIEW",
+        "to": "CANDIDATE",
+        "key": "6dadd2d66a9df18d579a423623d0c46114dbfa8a6283157242f90c965be7bd0f"
+      },
+      {
+        "cardId": "V20261012-017",
+        "from": "REVIEW",
+        "to": "CANDIDATE",
+        "key": "66317d982b8b6fd2cc765b0b72fcb5dd4620a4aa93dbe6707440e82cc6919448"
+      },
+      {
+        "cardId": "V20261012-018",
+        "from": "REVIEW",
+        "to": "CANDIDATE",
+        "key": "f070be4f69c5731efc5291bd4ffe123221a72b7e8725922cb746e2d9d5f9ff49"
+      },
+      {
+        "cardId": "V20261012-019",
+        "from": "REVIEW",
+        "to": "CANDIDATE",
+        "key": "4b6dc96aa59ed6c8bf0d193cfc6e6684bec3caeeb2bc8195959b94ae1ea98592"
+      },
+      {
+        "cardId": "V20261012-020",
+        "from": "REVIEW",
+        "to": "CANDIDATE",
+        "key": "93d6a068f06c6874e09b23fe6b8ca84d764e41884293dfbe73a0b74551fcfd7e"
+      },
+      {
+        "cardId": "V20261012-041",
+        "from": "REVIEW",
+        "to": "CANDIDATE",
+        "key": "bbf5a23bcbd1dc2d45708ca8ef2137627ec0dac84963eb196ace27dca59ff00f"
+      },
+      {
+        "cardId": "V20261012-042",
+        "from": "REVIEW",
+        "to": "CANDIDATE",
+        "key": "bb460f9cc5d13cce836cd09d1b21c511420af64c5c594894975f070eba01285f"
+      },
+      {
+        "cardId": "V20261012-043",
+        "from": "REVIEW",
+        "to": "CANDIDATE",
+        "key": "3105040c77839b9b1ada0d2ee8499f1547bf9858d4bf5814ded2409abf6e5b56"
+      },
+      {
+        "cardId": "V20261012-044",
+        "from": "REVIEW",
+        "to": "CANDIDATE",
+        "key": "ce3cdebf7058e30975a4b18275017fca027ddad612b1641668fd8d819851f06f"
+      },
+      {
+        "cardId": "V20261012-045",
+        "from": "REVIEW",
+        "to": "CANDIDATE",
+        "key": "147277217a66e58d84edad931a763080dc3f3e2425c1cc1122948816ed60253f"
+      },
+      {
+        "cardId": "V20261012-046",
+        "from": "REVIEW",
+        "to": "CANDIDATE",
+        "key": "da3f8d2f49a31cdb88ea4f23f56d63f1dbf4baf1bc143b51fdaf7ec74bf6b5b7"
+      },
+      {
+        "cardId": "V20261012-047",
+        "from": "REVIEW",
+        "to": "CANDIDATE",
+        "key": "ce8f847b2b28bd8a12bae1c0807aa5d9e58d8725432450d5d27995ff6633affc"
+      },
+      {
+        "cardId": "V20261012-048",
+        "from": "REVIEW",
+        "to": "CANDIDATE",
+        "key": "39ed03cf03b8159977e8e40e6e292be2ecb69a3a035728c72c4e4249b159e163"
+      },
+      {
+        "cardId": "V20261012-049",
+        "from": "REVIEW",
+        "to": "CANDIDATE",
+        "key": "070f26260267797b5006afdd945d2fb4baa744ad39368474148b25a10fa12d14"
+      },
+      {
+        "cardId": "V20261012-050",
+        "from": "REVIEW",
+        "to": "CANDIDATE",
+        "key": "6bbf148e01c47b665c93158c61587beefaa5d835dff7c854a7d032be35e392bd"
+      },
+      {
+        "cardId": "V20261012-051",
+        "from": "REVIEW",
+        "to": "CANDIDATE",
+        "key": "7b76db8c2e811faba5305519f10c2843f5b6570ff09d356eae0dcfa937ac5550"
+      },
+      {
+        "cardId": "V20261012-052",
+        "from": "REVIEW",
+        "to": "CANDIDATE",
+        "key": "383721394a65f97e001cfe4bc888a3984b2f1f0eaec190e641db5d9088d5b109"
+      },
+      {
+        "cardId": "V20261012-053",
+        "from": "REVIEW",
+        "to": "CANDIDATE",
+        "key": "90e14a613c650de04d81628867656e4cf8061daea834503c9cde675e56bb9adc"
+      },
+      {
+        "cardId": "V20261012-054",
+        "from": "REVIEW",
+        "to": "CANDIDATE",
+        "key": "fbd9f679607cffcdd1cbe458308b2e118fe2106a4a5b3a2f3e1f1e72a1a8ab11"
+      },
+      {
+        "cardId": "V20261012-055",
+        "from": "REVIEW",
+        "to": "CANDIDATE",
+        "key": "524bd241e433cebe7e30c0516d85febed505f62a9caea8b02bd2b5f963120314"
+      },
+      {
+        "cardId": "V20261012-056",
+        "from": "REVIEW",
+        "to": "CANDIDATE",
+        "key": "ba4c5dd0fdf8114acb37bd9e4f4108425a04421bc5247839a47c5c85d7acf8c7"
+      },
+      {
+        "cardId": "V20261012-057",
+        "from": "REVIEW",
+        "to": "CANDIDATE",
+        "key": "c588faa922572ccaa5b9caeace801bd764611b931bb81ea1563ff0d9629281c3"
+      },
+      {
+        "cardId": "V20261012-058",
+        "from": "REVIEW",
+        "to": "CANDIDATE",
+        "key": "cecc527267b085edb158b2373d5b0b57dd0ca40ee8fc02716700d47c7c80269c"
+      },
+      {
+        "cardId": "V20261012-059",
+        "from": "REVIEW",
+        "to": "CANDIDATE",
+        "key": "71c7be9d9baf1efa79545ac5afd5c9fb78b196cc6326823e58288930cac1c3dd"
+      },
+      {
+        "cardId": "V20261012-060",
+        "from": "REVIEW",
+        "to": "CANDIDATE",
+        "key": "f74141901c0f1a98a175bbb51bed686e33509e03a32f53ee825f8f405c007bda"
+      },
+      {
+        "cardId": "V20261012-061",
+        "from": "REVIEW",
+        "to": "CANDIDATE",
+        "key": "192d46c14922d4eff208123c1bd0fcadafa5ec00b631f7ec168600dada7f69d7"
+      },
+      {
+        "cardId": "V20261012-062",
+        "from": "REVIEW",
+        "to": "CANDIDATE",
+        "key": "5ea1eb59d4af29a30ba01e35aa1fb67b51c75f542dd923d16b139ecca3d2f23a"
+      },
+      {
+        "cardId": "V20261012-063",
+        "from": "REVIEW",
+        "to": "CANDIDATE",
+        "key": "3072eab25ba8efc33183e7c3c5f56a6638308b50df3945152564044ee4a584fc"
+      },
+      {
+        "cardId": "V20261012-064",
+        "from": "REVIEW",
+        "to": "CANDIDATE",
+        "key": "673d32246e0c431abccd3e068139a036edec231b8e8016c5ca803de1bc70b367"
+      },
+      {
+        "cardId": "V20261012-065",
+        "from": "REVIEW",
+        "to": "CANDIDATE",
+        "key": "a39367b686e8eb2c25a0b62035656f71d0986f4ffc7d098745e3b3ec366539cc"
+      },
+      {
+        "cardId": "V20261012-066",
+        "from": "REVIEW",
+        "to": "CANDIDATE",
+        "key": "27af18ad4f33080f450c9efa68928ef3c087652afba00a9608a9aaa5c3bc43e6"
+      },
+      {
+        "cardId": "V20261012-067",
+        "from": "REVIEW",
+        "to": "CANDIDATE",
+        "key": "305f37a8fdeefc8ec54cafc93b18ab22af6be2656711dcc0a7a026421204686a"
+      },
+      {
+        "cardId": "V20261012-068",
+        "from": "REVIEW",
+        "to": "CANDIDATE",
+        "key": "49312958bb262eedafa4f02e2fa332fb7d5b6c0dc13fec9dfc8f596d56bc6c81"
+      },
+      {
+        "cardId": "V20261012-069",
+        "from": "REVIEW",
+        "to": "CANDIDATE",
+        "key": "9225c8771726d9015dd99bc1e0ca2c8102ef08afb79986942016ef5e4874b8c6"
+      },
+      {
+        "cardId": "V20261012-070",
+        "from": "REVIEW",
+        "to": "CANDIDATE",
+        "key": "88423b2924e03ec73cb2049ab00430591b209423183d902a59a4a1e59f3e5568"
+      }
+    ]
+  },
+  {
+    "at": "2026-11-03T16:24:38.669Z",
+    "processed": 50,
+    "transitions": [
+      {
+        "cardId": "V20261012-001",
+        "from": "CANDIDATE",
+        "to": "CANDIDATE",
+        "key": "33b8ab5089d85ee89aabebafdf9208f8795762b354e3cb7e66215d2486214cf0"
+      },
+      {
+        "cardId": "V20261012-002",
+        "from": "CANDIDATE",
+        "to": "CANDIDATE",
+        "key": "b42b15c4ca563c87c22c37cbb92b890de9ae3b9ac251cc876c87def5320d0e7e"
+      },
+      {
+        "cardId": "V20261012-003",
+        "from": "CANDIDATE",
+        "to": "CANDIDATE",
+        "key": "f52e2fa7444d075ca1043473199eb51dd7e9ff7ec36ccf0a6b3b73b37f2d13ed"
+      },
+      {
+        "cardId": "V20261012-004",
+        "from": "CANDIDATE",
+        "to": "CANDIDATE",
+        "key": "4ae13ba56ed43655ef71a05ffc10a618b53bed169449d8dbdc8767ffc89a1cd2"
+      },
+      {
+        "cardId": "V20261012-005",
+        "from": "CANDIDATE",
+        "to": "CANDIDATE",
+        "key": "77cbda7076808c5ee4fe1f125d8c56515a7cb7c14136889da584b29bfc661c35"
+      },
+      {
+        "cardId": "V20261012-006",
+        "from": "CANDIDATE",
+        "to": "CANDIDATE",
+        "key": "889b2994671edce42771800d8a073602e5a992a27f43cde70f6e3ceea8079b42"
+      },
+      {
+        "cardId": "V20261012-007",
+        "from": "CANDIDATE",
+        "to": "CANDIDATE",
+        "key": "5dc56e0c27b42354062eba4f9d847aec58e2f3ec684a3ad7f51b9b8aca6cfe93"
+      },
+      {
+        "cardId": "V20261012-008",
+        "from": "CANDIDATE",
+        "to": "CANDIDATE",
+        "key": "64787604eabb73a2323250deb3b5d5f21295e3af54cc4eae341353af3f797f2c"
+      },
+      {
+        "cardId": "V20261012-009",
+        "from": "CANDIDATE",
+        "to": "CANDIDATE",
+        "key": "3bb768c12869321c20651df029fbfc1015c083207a3d7c799824a3f25b590c28"
+      },
+      {
+        "cardId": "V20261012-010",
+        "from": "CANDIDATE",
+        "to": "CANDIDATE",
+        "key": "244f801d8732440a26cf87b885e46485c2678334a148417646f30d83afd2d02f"
+      },
+      {
+        "cardId": "V20261012-011",
+        "from": "CANDIDATE",
+        "to": "CANDIDATE",
+        "key": "5dcff0845f84045626ca27fae3dfa05cd2f93f6ead905837d8624907730d0b68"
+      },
+      {
+        "cardId": "V20261012-012",
+        "from": "CANDIDATE",
+        "to": "CANDIDATE",
+        "key": "c10a65af9b3853d74ae289db7161c08a7246682e5c33eb6e9a00f4b8ef1ac444"
+      },
+      {
+        "cardId": "V20261012-013",
+        "from": "CANDIDATE",
+        "to": "CANDIDATE",
+        "key": "f173c1d604ffbc0ba5ff9538ae66373edd919e549e3bb1203609c0c56f5d6185"
+      },
+      {
+        "cardId": "V20261012-014",
+        "from": "CANDIDATE",
+        "to": "CANDIDATE",
+        "key": "3c15cce50636a11d1b3f500173767b8d4786d7fa99b6a7cf8217d1262ea114d1"
+      },
+      {
+        "cardId": "V20261012-015",
+        "from": "CANDIDATE",
+        "to": "CANDIDATE",
+        "key": "70baed758f21e0ab2673fd3ff5aacbcf740023809ba6b5855d8b5f42ee4e9638"
+      },
+      {
+        "cardId": "V20261012-016",
+        "from": "CANDIDATE",
+        "to": "CANDIDATE",
+        "key": "0702da961381fa0e1762fc29b5c80b7b7696acad984d228c183255e12235295b"
+      },
+      {
+        "cardId": "V20261012-017",
+        "from": "CANDIDATE",
+        "to": "CANDIDATE",
+        "key": "285603af8da13c33ed9bc20d742779c9ec88c878b98d81d6cfa095b266246048"
+      },
+      {
+        "cardId": "V20261012-018",
+        "from": "CANDIDATE",
+        "to": "CANDIDATE",
+        "key": "ab4d40cb596af5a10245d2ec4ffe61057e19bc0eadc48caae07865e5de66fa10"
+      },
+      {
+        "cardId": "V20261012-019",
+        "from": "CANDIDATE",
+        "to": "CANDIDATE",
+        "key": "8a6583ce11a796d94bdeea4c6989393b27b4cc61adcaa175fa5a687f4b692822"
+      },
+      {
+        "cardId": "V20261012-020",
+        "from": "CANDIDATE",
+        "to": "CANDIDATE",
+        "key": "f6cd8d0e548fb2d649f0f9c1ccb1f4b2fbf6d5289e077dc96f932d394f025976"
+      },
+      {
+        "cardId": "V20261012-041",
+        "from": "CANDIDATE",
+        "to": "CANDIDATE",
+        "key": "7f79b6d3b7c730f2917c4dfd220d8b1424b354fb4a1fabdd64e948c880fb5976"
+      },
+      {
+        "cardId": "V20261012-042",
+        "from": "CANDIDATE",
+        "to": "CANDIDATE",
+        "key": "a60bdda4137ec421fc0a11bb3640dabf160ff40e470c04cc757965bde7dfb6f2"
+      },
+      {
+        "cardId": "V20261012-043",
+        "from": "CANDIDATE",
+        "to": "CANDIDATE",
+        "key": "3198a182884e753d32a13e36742d6639116f61d039eac9f99079af6bf3802752"
+      },
+      {
+        "cardId": "V20261012-044",
+        "from": "CANDIDATE",
+        "to": "CANDIDATE",
+        "key": "45ad8380f9377ab42c967befdc6a0eb2fe76904da2a8a46281ddeb7468154a7a"
+      },
+      {
+        "cardId": "V20261012-045",
+        "from": "CANDIDATE",
+        "to": "CANDIDATE",
+        "key": "f250a112b6870b047046fa60af3aa99a92c5e42c84f2da8ebf6048c0912c048f"
+      },
+      {
+        "cardId": "V20261012-046",
+        "from": "CANDIDATE",
+        "to": "CANDIDATE",
+        "key": "d5c2a8ff84bef2e3d108621744d505931859a1dd16256f74a95802bcaeb43be4"
+      },
+      {
+        "cardId": "V20261012-047",
+        "from": "CANDIDATE",
+        "to": "CANDIDATE",
+        "key": "95ea075b9bd96f9506d4dd9bfa2dbac02f932a84e0c4a4e8ebcb216e870314f7"
+      },
+      {
+        "cardId": "V20261012-048",
+        "from": "CANDIDATE",
+        "to": "CANDIDATE",
+        "key": "8425bfe9a507a4ece19c7305ffb0f79f3e44f1c4bd678b706889e41a09c4551b"
+      },
+      {
+        "cardId": "V20261012-049",
+        "from": "CANDIDATE",
+        "to": "CANDIDATE",
+        "key": "8f94ca42071db03b441da3040bc1a091c5a36db266f6062fc7c565de9658ad2c"
+      },
+      {
+        "cardId": "V20261012-050",
+        "from": "CANDIDATE",
+        "to": "CANDIDATE",
+        "key": "986a697bb4f49cea28b7b5e97e79bbc2adfad3f5724005de8067d76a004ef0c5"
+      },
+      {
+        "cardId": "V20261012-051",
+        "from": "CANDIDATE",
+        "to": "CANDIDATE",
+        "key": "731a465643dc85c22514a999c6468b926149151174f51455ca258aefe38d0b82"
+      },
+      {
+        "cardId": "V20261012-052",
+        "from": "CANDIDATE",
+        "to": "CANDIDATE",
+        "key": "4b3ce5bc48c4162453daee854e763ebd1e0c99e0e75226d479561677c6af416c"
+      },
+      {
+        "cardId": "V20261012-053",
+        "from": "CANDIDATE",
+        "to": "CANDIDATE",
+        "key": "1bf2a9c5c4eebebbc8f3a1b1c12053624b6a54b99252f1ffd1c50eb2d2926739"
+      },
+      {
+        "cardId": "V20261012-054",
+        "from": "CANDIDATE",
+        "to": "CANDIDATE",
+        "key": "aedd4079ef796eeb4b3878a5d3f97c359804833aec6d6bce86975e9161b05387"
+      },
+      {
+        "cardId": "V20261012-055",
+        "from": "CANDIDATE",
+        "to": "CANDIDATE",
+        "key": "99e5d73cc0224da339bded3d9a17da5fee6f6a828103d644e51430368f6c3027"
+      },
+      {
+        "cardId": "V20261012-056",
+        "from": "CANDIDATE",
+        "to": "CANDIDATE",
+        "key": "2cbb542dbeb5702af21543be7d297674bf21ad534dfc4b12b921e55e9e5d1e0d"
+      },
+      {
+        "cardId": "V20261012-057",
+        "from": "CANDIDATE",
+        "to": "CANDIDATE",
+        "key": "b925d290350f0c566db7ab64864eee2c3f020f63828f5b3455ecfb372e9ecac5"
+      },
+      {
+        "cardId": "V20261012-058",
+        "from": "CANDIDATE",
+        "to": "CANDIDATE",
+        "key": "e97b8ad8231a487ddab658c3cad3fc529aa5428be16030391e7948174b6ee570"
+      },
+      {
+        "cardId": "V20261012-059",
+        "from": "CANDIDATE",
+        "to": "CANDIDATE",
+        "key": "3ee72da817c63b724d153dfce784e24ae06bc3da02a65a4ca02a513e9b435181"
+      },
+      {
+        "cardId": "V20261012-060",
+        "from": "CANDIDATE",
+        "to": "CANDIDATE",
+        "key": "ad50297fe6ac422b4e5d1ee778cac8bd7b2f990b89c84b5364a9f251206103da"
+      },
+      {
+        "cardId": "V20261012-061",
+        "from": "CANDIDATE",
+        "to": "CANDIDATE",
+        "key": "971d394876ffb68441d9515cf61809febf3b17779a8b6a10457016b257dc7174"
+      },
+      {
+        "cardId": "V20261012-062",
+        "from": "CANDIDATE",
+        "to": "CANDIDATE",
+        "key": "b1a64efe6f04578be67e7835cba1efff64b5979fa1f7f2a730728eabb6d61d41"
+      },
+      {
+        "cardId": "V20261012-063",
+        "from": "CANDIDATE",
+        "to": "CANDIDATE",
+        "key": "d03ee53bfa384e72393e7fe6d92f2c82978a985320ec168606bfaec955745216"
+      },
+      {
+        "cardId": "V20261012-064",
+        "from": "CANDIDATE",
+        "to": "CANDIDATE",
+        "key": "61ca4671bb2d6b81ee48141f20439597c967ae59c0feb53373c800aacbe924a6"
+      },
+      {
+        "cardId": "V20261012-065",
+        "from": "CANDIDATE",
+        "to": "CANDIDATE",
+        "key": "56ffe125dd6b1854e6435b20eef5e9b8e07f6d1b16929250912d08f94b6aca92"
+      },
+      {
+        "cardId": "V20261012-066",
+        "from": "CANDIDATE",
+        "to": "CANDIDATE",
+        "key": "c9d33c156f326584ea233e4d12455009233ab17a866e10d64732d31c5bdbb61f"
+      },
+      {
+        "cardId": "V20261012-067",
+        "from": "CANDIDATE",
+        "to": "CANDIDATE",
+        "key": "2a77c485e80a83f58b778f3601b918a6f6aa39d0d08fe7ebf63091c7dbf7e6ec"
+      },
+      {
+        "cardId": "V20261012-068",
+        "from": "CANDIDATE",
+        "to": "CANDIDATE",
+        "key": "fb5a6b686b6d8d6e7d9e9758fe4e2dda9e5ce64bc80d833b213b6f31e3d65083"
+      },
+      {
+        "cardId": "V20261012-069",
+        "from": "CANDIDATE",
+        "to": "CANDIDATE",
+        "key": "0c0f41923afc39fa78790a97acab2e791d893ca06a617636f944d8e03fa4444e"
+      },
+      {
+        "cardId": "V20261012-070",
+        "from": "CANDIDATE",
+        "to": "CANDIDATE",
+        "key": "4c02bb0fda7a42aee74f6d7bf3971b37a84b5b47b7856c328a1139229fd07ff0"
+      }
+    ]
+  }
+]

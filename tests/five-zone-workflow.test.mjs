@@ -4,7 +4,7 @@ import {mkdtempSync,writeFileSync,readFileSync} from 'node:fs';
 import {tmpdir} from 'node:os';
 import {join,resolve} from 'node:path';
 import {spawnSync} from 'node:child_process';
-import {validateEntry, reviewEntry, fingerprint, runBatch, additionalEntries} from '../scripts/five-zone-workflow/core.mjs';
+import {validateEntry, reviewEntry, fingerprint, runBatch, additionalEntries, reviewCoverage} from '../scripts/five-zone-workflow/core.mjs';
 
 const fixture=()=>({cardId:'synthetic',term:'test',context:'A test.',contextZh:'测试。',gloss:'测试',pos:'n.',definitionEn:'a check',definitionZh:'检查',contextTakeaway:'进行检查',bridgeText:'用结果检查是否达到标准',writer:'synthetic-writer',
  sources:[{id:'s',url:'https://example.org/test',title:'Synthetic fixture',retrievalStatus:'partial',section:'Visible excerpt',evidence:'Synthetic evidence only'}],
@@ -14,8 +14,10 @@ const fixture=()=>({cardId:'synthetic',term:'test',context:'A test.',contextZh:'
 const receipt=e=>({cardId:e.cardId,reviewer:'synthetic-reviewer',fingerprint:fingerprint(e),ruleVersion:'five-zone/2',front:{decision:'PASS',reason:'synthetic only'},hardGates:'PASS',sourceChecks:[{claimId:'c',verdict:'SUPPORTED',note:'Synthetic visible evidence checked'}],zones:e.groups.map(g=>({id:g.id,scores:{accuracy:3,completion:3,readability:3,increment:3},reasons:{accuracy:'synthetic',completion:'synthetic',readability:'synthetic',increment:'synthetic'},requirementsVerdict:'PASS',issues:[]}))});
 test('reject focused sense outside reviewed dictionary',()=>{const e=fixture();e.focusedEntries=[{entry:e.dictionaryEntries[0],sense:{id:'unknown',glossZh:'invented'}}];assert.ok(validateEntry(e).length)});
 test('frozen zone titles cannot change through content',()=>{const e=fixture();e.groups[0].title='new design';assert.ok(validateEntry(e).length)});
+test('punctuation alone cannot satisfy a teaching requirement',()=>{const e=fixture();e.groups[4].requirements.boundary='）。';assert.ok(validateEntry(e).length)});
 test('expanded dictionary excludes visible senses without deleting distinct senses',()=>{const e=fixture();e.dictionaryEntries[0].senses.push({id:'different',glossZh:'另义',definitionEn:'another sense',sourceIds:['s']});const before=JSON.stringify(e);assert.deepEqual(additionalEntries(e)[0].senses.map(s=>s.id),['different']);assert.equal(JSON.stringify(e),before)});
 test('valid synthetic contract is accepted without implying real semantic approval',()=>{const e=fixture();assert.deepEqual(validateEntry(e),[]);assert.equal(reviewEntry(e,receipt(e)).status,'CANDIDATE')});
+test('coverage cannot count self-review or duplicate evidence as approved',()=>{const e=fixture(),r=receipt(e);assert.deepEqual(reviewCoverage(e,r),{zones:5,claims:1});r.reviewer=e.writer;assert.deepEqual(reviewCoverage(e,r),{zones:0,claims:0});r.reviewer='independent';r.sourceChecks.push({...r.sourceChecks[0]});assert.deepEqual(reviewCoverage(e,r),{zones:0,claims:0});});
 for(const [name,mutate] of [
  ['missing zone',e=>e.groups.pop()],['missing teaching task',e=>delete e.groups[0].requirements.example],
  ['orphan claim',e=>e.groups[0].claimIds=['unknown']],['unsupported source',e=>e.claims[0].sourceIds=['unknown']],
