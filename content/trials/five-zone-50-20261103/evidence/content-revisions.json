@@ -1,0 +1,27 @@
+{
+  "date": "2026-11-03",
+  "editor": "root",
+  "reviewer": "trial_reviewer_2",
+  "changes": [
+    {
+      "cardId": "V20261012-019",
+      "field": "groups.g4.text",
+      "reason": "Remove an unsupported assumption about the supplied sentence",
+      "before": "本句指出当前安排只有一条路，要求补上评审人缺席时的办法。自编回应：“I can check whether another reviewer is available.”（我可以确认是否有其他评审人。）接下来核对替补人员，而不是把假设写成已发生的事实。",
+      "after": "本句要求提前准备评审人无法参与时的替代办法，并未断言评审人一定缺席。自编回应：“I can check whether another reviewer is available.”（我可以确认是否有其他评审人。）接下来核对替补人员，而不是把假设写成已发生的事实。",
+      "oldContentHash": "e8520dc21243a74a1cc97e682ff00d110f25f719c3de27cda668ec3fd8c696a3",
+      "newContentHash": "44fcb47a69406362c774974e0f8b6a9c0602da1bd3e7475a57a30144247fb5f5",
+      "sourceEvidenceHash": "fd7c8625df2160323be6fca490b078ff1cf51d5db2df3471344c8c77a198d00c"
+    },
+    {
+      "cardId": "V20261012-045",
+      "field": "groups.g4.text",
+      "reason": "Remove an unsupported assumption about the supplied sentence",
+      "before": "本句把“原则上可以接受”推进到可检查的标准。自编回应：“We need the revised price and a delivery date.”（我们需要修订后的价格和交货日期。）下一步据此补材料；这两项只是示例，不是当前提案的真实条件。",
+      "after": "本句要求对方把接受提案所需的条件说具体，并不表示提案已经获准。自编回应：“We need the revised price and a delivery date.”（我们需要修订后的价格和交货日期。）下一步据此补材料；这两项只是示例，不是当前提案的真实条件。",
+      "oldContentHash": "8f3ab36fc25a67441de559edc18a44d2cb12be349adcc140520b384def8736a8",
+      "newContentHash": "96f464ab900083d1a8c685157d31d6d17c65eef584039469ff2b34501a981adc",
+      "sourceEvidenceHash": "5fd0a5fe6db7f82cb9e9e439d971b73935ea6eafd129277a4ab985a6b736710a"
+    }
+  ]
+}

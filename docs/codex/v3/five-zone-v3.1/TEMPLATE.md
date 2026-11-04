@@ -10,7 +10,7 @@
 |04 这句话在做什么|Language Game + Pragmatic Action|卡在哪里→此话推动什么→对方怎样接→讨论如何变化|来源机构开头；把身份/语气假设说成必然|
 |05 工作中可以这样说|Workplace Use|一到两句可用表达，说明何时选哪句|把04重写一遍、无证据效果承诺|
 
-完整方法保留：Syntax → Concept → Contrast → Language Game → English Neighbors → Pragmatic Action → Workplace Use；分组顺序不改变各项审查义务。词源不属于五区必填项，只有有据且帮助理解时放前方切换区域。
+完整方法保留：Syntax → Concept → Contrast → Language Game → English Neighbors → Pragmatic Action → Workplace Use。五区仅指后方讲解，不代表全页范围。前方词源／演变是冻结基线中的独立必交模块，与其他前区、例句及复制一起逐模块QA；不得因它不在01—05内而跳过。查不到必要资料应逐词记录缺口并阻断完整交付，不编造历史。
 
 ## 每项生产记录（规划合同，不宣称已改schema）
 

@@ -1,0 +1,26 @@
+{
+  "date": "2026-11-03",
+  "count": 50,
+  "errors": [],
+  "warnings": [],
+  "uniqueSources": 66,
+  "sourceUses": 138,
+  "retrievalStatusCounts": {
+    "index_excerpt": 65,
+    "full_page": 45,
+    "partial": 28
+  },
+  "reviewStatus": {
+    "APPROVE": 50
+  },
+  "batchSha256": "bed6b27fe4727df2bfca04ba4c1a0a88c25c5d1a2194376d1f11100ffaf853b5",
+  "previewSha256": "8eb899ea98b27454ce3ff8fd44fe7d80ae3c152d6553f30aaff48dc9f6103f23",
+  "frozenLayoutSha256": "333de3a36c28d4ef5d17f52a6cdb64cbe63bff2915aa7b4eadf1c6a554bb34ed",
+  "normalizedTrialLayoutSha256": "333de3a36c28d4ef5d17f52a6cdb64cbe63bff2915aa7b4eadf1c6a554bb34ed",
+  "allowedTemplateTextChanges": [
+    "source attribution label",
+    "source explanation URL",
+    "source explanation link label"
+  ],
+  "productionActivated": false
+}

@@ -1,0 +1,2481 @@
+{
+  "ruleVersion": "learner-dictionary/1",
+  "cards": [
+    {
+      "cardId": "V20261012-001",
+      "term": "scope",
+      "writer": "learner-dictionary-author",
+      "sources": [
+        "https://www.oxfordlearnersdictionaries.com/definition/english/scope_1",
+        "https://www.oxfordlearnersdictionaries.com/definition/english/scope_2"
+      ],
+      "scope": "Common learner meanings and usage, with separately preserved full licensed source entries; not an exhaustive dictionary merger",
+      "senses": [
+        {
+          "id": "scope-learner-1",
+          "pos": "名词〔通常不可数〕",
+          "meaning": "某项工作、讨论或权力涉及的范围。",
+          "usage": "the scope of; within / beyond the scope",
+          "example": {
+            "en": "The course covers topics beyond the scope of this book.",
+            "zh": "这门课涉及的主题超出了这本书的范围。",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.oxfordlearnersdictionaries.com/definition/english/scope_1"
+          ]
+        },
+        {
+          "id": "scope-learner-2",
+          "pos": "名词〔不可数〕",
+          "meaning": "做某事或发挥能力的机会、空间。",
+          "usage": "scope for something; scope to do something",
+          "example": {
+            "en": "The role offers scope for creativity.",
+            "zh": "这个职位有发挥创造力的空间。",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.oxfordlearnersdictionaries.com/definition/english/scope_1"
+          ]
+        },
+        {
+          "id": "scope-learner-3",
+          "pos": "动词〔及物，非正式〕",
+          "meaning": "仔细查看或全面观察。",
+          "usage": "scope something",
+          "example": {
+            "en": "She scoped the room before choosing a seat.",
+            "zh": "她先仔细看了看房间，然后选了一个座位。",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.oxfordlearnersdictionaries.com/definition/english/scope_2"
+          ]
+        },
+        {
+          "id": "scope-learner-4",
+          "pos": "动词〔及物〕",
+          "meaning": "开始工作前调查任务的规模、范围和需求。",
+          "usage": "scope a project; scope something out",
+          "example": {
+            "en": "We need to scope the repair work before requesting quotes.",
+            "zh": "询价前，我们需要摸清维修工作的范围。",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.oxfordlearnersdictionaries.com/definition/english/scope_2"
+          ]
+        }
+      ],
+      "contextSenseId": "scope-learner-1",
+      "context": "We need to define the scope before estimating the cost.",
+      "bridgeText": "把它想成这次工作要覆盖的边界：同样说“做测试”，只测功能还是也测性能，工作量会不同。谈费用前先说明 scope，双方才是在估同一件事。"
+    },
+    {
+      "cardId": "V20261012-002",
+      "term": "objective",
+      "writer": "learner-dictionary-author",
+      "sources": [
+        "https://www.oxfordlearnersdictionaries.com/definition/english/objective_1",
+        "https://www.oxfordlearnersdictionaries.com/definition/english/objective_2"
+      ],
+      "scope": "Common learner meanings and usage, with separately preserved full licensed source entries; not an exhaustive dictionary merger",
+      "senses": [
+        {
+          "id": "objective-learner-1",
+          "pos": "名词〔可数〕",
+          "meaning": "希望达到的目标。",
+          "usage": "an objective; achieve / meet an objective",
+          "example": {
+            "en": "Her main objective is to become financially independent.",
+            "zh": "她的主要目标是实现经济独立。",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.oxfordlearnersdictionaries.com/definition/english/objective_1"
+          ]
+        },
+        {
+          "id": "objective-learner-2",
+          "pos": "形容词",
+          "meaning": "根据事实判断，不让个人感情或偏见左右结论的；客观的。",
+          "usage": "an objective assessment; remain objective",
+          "example": {
+            "en": "We asked an independent expert for an objective assessment.",
+            "zh": "我们请一位独立专家作客观评估。",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.oxfordlearnersdictionaries.com/definition/english/objective_2"
+          ]
+        }
+      ],
+      "contextSenseId": "objective-learner-1",
+      "context": "Our objective is to reduce the time spent on approvals.",
+      "bridgeText": "objective回答“希望做到什么”。在这句里，重点是让审批少花时间；采用哪张表单、开几次会，都只是可能实现目标的办法。"
+    },
+    {
+      "cardId": "V20261012-003",
+      "term": "deliverable",
+      "writer": "learner-dictionary-author",
+      "sources": [
+        "https://www.oxfordlearnersdictionaries.com/definition/english/deliverable_2",
+        "https://www.oxfordlearnersdictionaries.com/definition/english/deliverable_1",
+        "https://dictionary.cambridge.org/dictionary/english/deliverable"
+      ],
+      "scope": "Common learner meanings and usage, with separately preserved full licensed source entries; not an exhaustive dictionary merger",
+      "senses": [
+        {
+          "id": "deliverable-learner-1",
+          "pos": "名词〔可数，常用复数〕",
+          "meaning": "项目或约定中需要完成并提供的成果，如报告、软件或产品。",
+          "usage": "project deliverables; agree on the deliverables",
+          "example": {
+            "en": "The final deliverables are a report and a working prototype.",
+            "zh": "最终交付成果是一份报告和一个可运行的原型。",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.oxfordlearnersdictionaries.com/definition/english/deliverable_2"
+          ]
+        },
+        {
+          "id": "deliverable-learner-2",
+          "pos": "形容词",
+          "meaning": "能够运送或交付的。",
+          "usage": "deliverable goods; in a deliverable state",
+          "example": {
+            "en": "The package is deliverable to this address.",
+            "zh": "这个包裹可以投递到这个地址。",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://dictionary.cambridge.org/dictionary/english/deliverable"
+          ]
+        },
+        {
+          "id": "deliverable-learner-3",
+          "pos": "形容词",
+          "meaning": "计划、成果等能够实现或完成的。",
+          "usage": "a deliverable plan / result",
+          "example": {
+            "en": "The team must decide whether the proposed improvements are deliverable.",
+            "zh": "团队必须判断提议的改进能否实现。",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.oxfordlearnersdictionaries.com/definition/english/deliverable_1"
+          ]
+        }
+      ],
+      "contextSenseId": "deliverable-learner-1",
+      "context": "Please list the deliverables for the first phase.",
+      "bridgeText": "deliverable把讨论落到“最后交出什么”。写报告、检查数据是活动，完成并应交付的报告才是成果。原句要求列第一阶段的成果清单，方便大家核对。"
+    },
+    {
+      "cardId": "V20261012-004",
+      "term": "milestone",
+      "writer": "learner-dictionary-author",
+      "sources": [
+        "https://www.oxfordlearnersdictionaries.com/definition/english/milestone"
+      ],
+      "scope": "Common learner meanings and usage, with separately preserved full licensed source entries; not an exhaustive dictionary merger",
+      "senses": [
+        {
+          "id": "milestone-learner-1",
+          "pos": "名词〔可数〕",
+          "meaning": "人生、事业或项目发展中的重要事件或阶段。",
+          "usage": "reach / mark a milestone; a milestone in",
+          "example": {
+            "en": "Opening her first shop was a milestone in her career.",
+            "zh": "开第一家店是她职业生涯中的一个里程碑。",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.oxfordlearnersdictionaries.com/definition/english/milestone"
+          ]
+        },
+        {
+          "id": "milestone-learner-2",
+          "pos": "名词〔可数〕",
+          "meaning": "路旁标明到某地距离的石碑或标志。",
+          "usage": "a roadside milestone",
+          "example": {
+            "en": "An old milestone stood beside the road.",
+            "zh": "路旁立着一块旧里程碑。",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.oxfordlearnersdictionaries.com/definition/english/milestone"
+          ]
+        }
+      ],
+      "contextSenseId": "milestone-learner-1",
+      "context": "We reached the first milestone after the review.",
+      "bridgeText": "milestone突出一个值得标记的重要节点。达到首个milestone，说明项目走到了一处关键位置；后面通常还有工作，所以它不等同于“整个项目完成”。"
+    },
+    {
+      "cardId": "V20261012-005",
+      "term": "priority",
+      "writer": "learner-dictionary-author",
+      "sources": [
+        "https://www.oxfordlearnersdictionaries.com/definition/english/priority"
+      ],
+      "scope": "Common learner meanings and usage, with separately preserved full licensed source entries; not an exhaustive dictionary merger",
+      "senses": [
+        {
+          "id": "priority-learner-1",
+          "pos": "名词〔可数〕",
+          "meaning": "因为更重要或紧急而应先处理的事情。",
+          "usage": "a top priority; set priorities",
+          "example": {
+            "en": "Finding somewhere safe to stay is our first priority.",
+            "zh": "找到安全的住处是我们的首要任务。",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.oxfordlearnersdictionaries.com/definition/english/priority"
+          ]
+        },
+        {
+          "id": "priority-learner-2",
+          "pos": "名词〔不可数〕",
+          "meaning": "比其他事项优先获得处理或考虑的地位。",
+          "usage": "give priority to; take priority over",
+          "example": {
+            "en": "Emergency vehicles have priority over other traffic.",
+            "zh": "紧急车辆比其他车辆享有优先通行权。",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.oxfordlearnersdictionaries.com/definition/english/priority"
+          ]
+        }
+      ],
+      "contextSenseId": "priority-learner-1",
+      "context": "We need to set priorities for the remaining work.",
+      "bridgeText": "priority用来表达取舍：事情都要做时，哪件先得到时间和资源？set priorities就是把这种优先安排说清楚，而不是把每件事都标为同样紧急。"
+    },
+    {
+      "cardId": "V20261012-006",
+      "term": "constraint",
+      "writer": "learner-dictionary-author",
+      "sources": [
+        "https://www.oxfordlearnersdictionaries.com/definition/english/constraint"
+      ],
+      "scope": "Common learner meanings and usage, with separately preserved full licensed source entries; not an exhaustive dictionary merger",
+      "senses": [
+        {
+          "id": "constraint-learner-1",
+          "pos": "名词〔可数〕",
+          "meaning": "限制行动或选择的条件、规则或因素。",
+          "usage": "a constraint on; budget / time constraints",
+          "example": {
+            "en": "The small room puts a constraint on the number of guests.",
+            "zh": "房间小，限制了可邀请的客人数。",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.oxfordlearnersdictionaries.com/definition/english/constraint"
+          ]
+        },
+        {
+          "id": "constraint-learner-2",
+          "pos": "名词〔不可数，较正式〕",
+          "meaning": "受到拘束、无法自然行动或表达的状态。",
+          "usage": "without constraint",
+          "example": {
+            "en": "She spoke freely and without constraint.",
+            "zh": "她毫无拘束地畅所欲言。",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.oxfordlearnersdictionaries.com/definition/english/constraint"
+          ]
+        }
+      ],
+      "contextSenseId": "constraint-learner-1",
+      "context": "The main constraint is the number of available reviewers.",
+      "bridgeText": "constraint是方案必须面对的限制条件。原句说可用评审人数限制了安排；即使每个人都很能干，总人数有限也会影响一次能评审多少内容。"
+    },
+    {
+      "cardId": "V20261012-007",
+      "term": "dependency",
+      "writer": "learner-dictionary-author",
+      "sources": [
+        "https://www.oxfordlearnersdictionaries.com/definition/english/dependency",
+        "https://www.collinsdictionary.com/dictionary/english/dependency",
+        "https://www.apm.org.uk/resources/what-is-project-management/what-is-scheduling-in-project-management/"
+      ],
+      "scope": "Common learner meanings and usage, with separately preserved full licensed source entries; not an exhaustive dictionary merger",
+      "senses": [
+        {
+          "id": "dependency-learner-1",
+          "pos": "名词〔不可数〕",
+          "meaning": "依赖他人或某物才能生活或运作的状态。",
+          "usage": "dependency on; reduce dependency",
+          "example": {
+            "en": "The policy aims to reduce dependency on imported fuel.",
+            "zh": "这项政策旨在减少对进口燃料的依赖。",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.oxfordlearnersdictionaries.com/definition/english/dependency"
+          ]
+        },
+        {
+          "id": "dependency-learner-2",
+          "pos": "名词〔可数或不可数〕",
+          "meaning": "对酒精、药物等形成的依赖。",
+          "usage": "alcohol / drug dependency",
+          "example": {
+            "en": "The clinic treats people with alcohol dependency.",
+            "zh": "这家诊所治疗酒精依赖患者。",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.collinsdictionary.com/dictionary/english/dependency"
+          ]
+        },
+        {
+          "id": "dependency-learner-3",
+          "pos": "名词〔可数〕",
+          "meaning": "由另一个国家统治的属地。",
+          "usage": "an overseas dependency",
+          "example": {
+            "en": "The island was once a dependency of another country.",
+            "zh": "这座岛曾是另一个国家的属地。",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.oxfordlearnersdictionaries.com/definition/english/dependency"
+          ]
+        },
+        {
+          "id": "dependency-learner-4",
+          "pos": "名词〔可数，项目用语〕",
+          "meaning": "项目中一项活动与其他活动、所需输入或条件之间的依赖关系。",
+          "usage": "identify dependencies; a dependency between activities",
+          "example": {
+            "en": "We listed the dependencies between the installation tasks.",
+            "zh": "我们列出了各项安装任务之间的依赖关系。",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.apm.org.uk/resources/what-is-project-management/what-is-scheduling-in-project-management/"
+          ]
+        }
+      ],
+      "contextSenseId": "dependency-learner-4",
+      "context": "Please identify dependencies before finalizing the schedule.",
+      "bridgeText": "项目里的dependency说明一项工作离不开哪个输入或条件。排期不能只加上各任务的时长，还要知道它们怎样相互依赖；这样才看得出可能的等待。"
+    },
+    {
+      "cardId": "V20261012-008",
+      "term": "assumption",
+      "writer": "learner-dictionary-author",
+      "sources": [
+        "https://www.oxfordlearnersdictionaries.com/definition/english/assumption"
+      ],
+      "scope": "Common learner meanings and usage, with separately preserved full licensed source entries; not an exhaustive dictionary merger",
+      "senses": [
+        {
+          "id": "assumption-learner-1",
+          "pos": "名词〔可数〕",
+          "meaning": "尚未得到充分证实却被认为是真的看法或前提。",
+          "usage": "make an assumption; the assumption that",
+          "example": {
+            "en": "We booked two rooms on the assumption that everyone would come.",
+            "zh": "我们假定大家都会来，因此订了两个房间。",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.oxfordlearnersdictionaries.com/definition/english/assumption"
+          ]
+        },
+        {
+          "id": "assumption-learner-2",
+          "pos": "名词〔可数或不可数，正式〕",
+          "meaning": "开始取得或承担权力、责任、控制等。",
+          "usage": "the assumption of power / responsibility",
+          "example": {
+            "en": "The agreement marked her assumption of full responsibility.",
+            "zh": "这项协议标志着她开始承担全部责任。",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.oxfordlearnersdictionaries.com/definition/english/assumption"
+          ]
+        }
+      ],
+      "contextSenseId": "assumption-learner-1",
+      "context": "This assumption needs to be checked with the supplier.",
+      "bridgeText": "assumption是暂时接受、但还需要依据的前提。本句提醒先向供应商核实这个条件；如果答案不同，建立在它上面的估算或安排也可能要调整。"
+    },
+    {
+      "cardId": "V20261012-009",
+      "term": "baseline",
+      "writer": "learner-dictionary-author",
+      "sources": [
+        "https://www.oxfordlearnersdictionaries.com/definition/english/baseline"
+      ],
+      "scope": "Common learner meanings and usage, with separately preserved full licensed source entries; not an exhaustive dictionary merger",
+      "senses": [
+        {
+          "id": "baseline-learner-1",
+          "pos": "名词〔可数，通常单数〕",
+          "meaning": "用来衡量后来变化的起点、数据或比较标准。",
+          "usage": "establish a baseline; a baseline for comparison",
+          "example": {
+            "en": "We recorded the initial temperature as a baseline.",
+            "zh": "我们记录初始温度，作为后续比较的基准。",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.oxfordlearnersdictionaries.com/definition/english/baseline"
+          ]
+        },
+        {
+          "id": "baseline-learner-2",
+          "pos": "名词〔可数，体育〕",
+          "meaning": "网球等场地的底线，或棒球跑垒的垒线。",
+          "usage": "behind the baseline",
+          "example": {
+            "en": "The tennis player waited just behind the baseline.",
+            "zh": "那名网球选手在底线后方等候。",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.oxfordlearnersdictionaries.com/definition/english/baseline"
+          ]
+        }
+      ],
+      "contextSenseId": "baseline-learner-1",
+      "context": "We need a baseline before measuring the improvement.",
+      "bridgeText": "baseline回答“和什么相比”。要说审批变快，先要知道原来的耗时；这个起始记录是baseline，希望降到的耗时才是target。"
+    },
+    {
+      "cardId": "V20261012-010",
+      "term": "buffer",
+      "writer": "learner-dictionary-author",
+      "sources": [
+        "https://www.oxfordlearnersdictionaries.com/definition/english/buffer_1",
+        "https://www.oxfordlearnersdictionaries.com/definition/english/buffer_2"
+      ],
+      "scope": "Common learner meanings and usage, with separately preserved full licensed source entries; not an exhaustive dictionary merger",
+      "senses": [
+        {
+          "id": "buffer-learner-1",
+          "pos": "名词〔可数〕",
+          "meaning": "减轻冲击、风险或困难的保护因素，也可指预留的钱或时间。",
+          "usage": "a buffer against; a buffer between",
+          "example": {
+            "en": "We keep some savings as a buffer against unexpected expenses.",
+            "zh": "我们留些积蓄，以应付意外开支。",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.oxfordlearnersdictionaries.com/definition/english/buffer_1"
+          ]
+        },
+        {
+          "id": "buffer-learner-2",
+          "pos": "名词〔可数〕",
+          "meaning": "隔开事物并减少碰撞的空间或缓冲装置。",
+          "usage": "a buffer zone; a buffer between",
+          "example": {
+            "en": "A strip of trees forms a buffer between the houses and the road.",
+            "zh": "一排树在房屋和道路之间形成缓冲带。",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.oxfordlearnersdictionaries.com/definition/english/buffer_1"
+          ]
+        },
+        {
+          "id": "buffer-learner-3",
+          "pos": "名词〔可数，计算机〕",
+          "meaning": "数据继续传送前暂时存放的缓冲区。",
+          "usage": "a memory buffer",
+          "example": {
+            "en": "The data stays in a buffer before it is printed.",
+            "zh": "数据打印前会暂存在缓冲区中。",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.oxfordlearnersdictionaries.com/definition/english/buffer_1"
+          ]
+        },
+        {
+          "id": "buffer-learner-4",
+          "pos": "动词〔及物〕",
+          "meaning": "保护某人或某物，使其少受不利影响。",
+          "usage": "buffer someone/something against / from",
+          "example": {
+            "en": "The thick walls buffer the rooms against traffic noise.",
+            "zh": "厚墙减弱了房间受到的交通噪声干扰。",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.oxfordlearnersdictionaries.com/definition/english/buffer_2"
+          ]
+        },
+        {
+          "id": "buffer-learner-5",
+          "pos": "动词〔及物，计算机〕",
+          "meaning": "先暂存数据，再进行播放、处理或传输。",
+          "usage": "buffer data / video",
+          "example": {
+            "en": "The player buffers the video before playback starts.",
+            "zh": "播放器在开始播放前先缓冲视频数据。",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.oxfordlearnersdictionaries.com/definition/english/buffer_2"
+          ]
+        }
+      ],
+      "contextSenseId": "buffer-learner-1",
+      "context": "The plan includes a two-day buffer for review.",
+      "bridgeText": "buffer是预留来应对变化的余量。这里的两天不是已经发生的延期，而是计划里给评审留出的弹性；还应分清正常评审时长和额外缓冲。"
+    },
+    {
+      "cardId": "V20261012-011",
+      "term": "sequence",
+      "writer": "learner-dictionary-author",
+      "sources": [
+        "https://www.oxfordlearnersdictionaries.com/definition/english/sequence_1",
+        "https://www.oxfordlearnersdictionaries.com/definition/english/sequence_2"
+      ],
+      "scope": "Common learner meanings and usage, with separately preserved full licensed source entries; not an exhaustive dictionary merger",
+      "senses": [
+        {
+          "id": "sequence-learner-1",
+          "pos": "名词〔可数〕",
+          "meaning": "按某种顺序发生或排列的一连串事物。",
+          "usage": "a sequence of events",
+          "example": {
+            "en": "A sequence of small mistakes caused the failure.",
+            "zh": "一连串小错误导致了这次失败。",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.oxfordlearnersdictionaries.com/definition/english/sequence_1"
+          ]
+        },
+        {
+          "id": "sequence-learner-2",
+          "pos": "名词〔可数或不可数〕",
+          "meaning": "事物先后排列的顺序。",
+          "usage": "in sequence; in the correct sequence",
+          "example": {
+            "en": "Put the photographs in chronological sequence.",
+            "zh": "把这些照片按时间顺序排列。",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.oxfordlearnersdictionaries.com/definition/english/sequence_1"
+          ]
+        },
+        {
+          "id": "sequence-learner-3",
+          "pos": "名词〔可数，影视〕",
+          "meaning": "围绕同一事件或主题的一段连续镜头。",
+          "usage": "an opening / action sequence",
+          "example": {
+            "en": "The film opens with a short dream sequence.",
+            "zh": "电影以一小段梦境镜头开场。",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.oxfordlearnersdictionaries.com/definition/english/sequence_1"
+          ]
+        },
+        {
+          "id": "sequence-learner-4",
+          "pos": "动词〔及物〕",
+          "meaning": "给事物排序；在科学中也指测定成分的先后次序。",
+          "usage": "sequence activities; sequence DNA",
+          "example": {
+            "en": "The researchers sequenced the DNA sample.",
+            "zh": "研究人员对这份DNA样本进行了测序。",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.oxfordlearnersdictionaries.com/definition/english/sequence_2"
+          ]
+        }
+      ],
+      "contextSenseId": "sequence-learner-2",
+      "context": "Let's agree on the sequence of the remaining activities.",
+      "bridgeText": "sequence强调先后衔接。原句不是重新列出还有什么工作，而是要商定剩下这些活动按什么次序进行；日期和持续多久则还需要另行排程。"
+    },
+    {
+      "cardId": "V20261012-012",
+      "term": "capacity",
+      "writer": "learner-dictionary-author",
+      "sources": [
+        "https://www.oxfordlearnersdictionaries.com/definition/english/capacity"
+      ],
+      "scope": "Common learner meanings and usage, with separately preserved full licensed source entries; not an exhaustive dictionary merger",
+      "senses": [
+        {
+          "id": "capacity-learner-1",
+          "pos": "名词〔可数或不可数〕",
+          "meaning": "容器或场所能容纳的数量。",
+          "usage": "a capacity of; at full capacity",
+          "example": {
+            "en": "The hall has a capacity of three hundred people.",
+            "zh": "大厅可容纳三百人。",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.oxfordlearnersdictionaries.com/definition/english/capacity"
+          ]
+        },
+        {
+          "id": "capacity-learner-2",
+          "pos": "名词〔通常不可数〕",
+          "meaning": "在一定条件下能生产或承接的最大工作量。",
+          "usage": "production capacity; capacity to do",
+          "example": {
+            "en": "The factory lacks the capacity to meet the new demand.",
+            "zh": "工厂的产能不足以满足新增需求。",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.oxfordlearnersdictionaries.com/definition/english/capacity"
+          ]
+        },
+        {
+          "id": "capacity-learner-3",
+          "pos": "名词〔可数或不可数〕",
+          "meaning": "做某事、理解某事或感受某事的能力。",
+          "usage": "a capacity for; the capacity to learn",
+          "example": {
+            "en": "Children have a remarkable capacity to learn languages.",
+            "zh": "儿童学习语言的能力很强。",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.oxfordlearnersdictionaries.com/definition/english/capacity"
+          ]
+        },
+        {
+          "id": "capacity-learner-4",
+          "pos": "名词〔可数，正式〕",
+          "meaning": "某人所具有的身份或承担的职能。",
+          "usage": "in a personal / official capacity; in one's capacity as",
+          "example": {
+            "en": "She attended in her capacity as chair of the committee.",
+            "zh": "她以委员会主席的身份出席。",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.oxfordlearnersdictionaries.com/definition/english/capacity"
+          ]
+        }
+      ],
+      "contextSenseId": "capacity-learner-2",
+      "context": "We do not have enough capacity to start both projects.",
+      "bridgeText": "capacity在这里谈团队能承接多少工作。原句说不足以启动两个项目，可能涉及人力、时间或其他资源；需要问清哪部分不足，而不是立刻判断团队技术差。"
+    },
+    {
+      "cardId": "V20261012-013",
+      "term": "allocate",
+      "writer": "learner-dictionary-author",
+      "sources": [
+        "https://www.oxfordlearnersdictionaries.com/definition/english/allocate"
+      ],
+      "scope": "Common learner meanings and usage, with separately preserved full licensed source entries; not an exhaustive dictionary merger",
+      "senses": [
+        {
+          "id": "allocate-learner-1",
+          "pos": "动词〔及物〕",
+          "meaning": "把资金、时间、空间等分给特定的人或用途。",
+          "usage": "allocate something to someone; allocate someone something; allocate something for something",
+          "example": {
+            "en": "The school allocated extra funds to the library.",
+            "zh": "学校给图书馆增拨了经费。",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.oxfordlearnersdictionaries.com/definition/english/allocate"
+          ]
+        }
+      ],
+      "contextSenseId": "allocate-learner-1",
+      "context": "We should allocate more time to the initial review.",
+      "bridgeText": "allocate着重资源安排：把多少时间、资金或人员分给哪项工作。原句建议给初步评审增加时间份额，下一步应把“更多”说成具体时长。"
+    },
+    {
+      "cardId": "V20261012-014",
+      "term": "delegate",
+      "writer": "learner-dictionary-author",
+      "sources": [
+        "https://www.oxfordlearnersdictionaries.com/definition/english/delegate_1",
+        "https://www.oxfordlearnersdictionaries.com/definition/english/delegate_2"
+      ],
+      "scope": "Common learner meanings and usage, with separately preserved full licensed source entries; not an exhaustive dictionary merger",
+      "senses": [
+        {
+          "id": "delegate-learner-1",
+          "pos": "动词〔及物或不及物〕",
+          "meaning": "把职责、任务或权力交给他人代为承担。",
+          "usage": "delegate something to someone; learn to delegate",
+          "example": {
+            "en": "She delegated the booking arrangements to her assistant.",
+            "zh": "她把预订安排交给了助理。",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.oxfordlearnersdictionaries.com/definition/english/delegate_2"
+          ]
+        },
+        {
+          "id": "delegate-learner-2",
+          "pos": "动词〔及物，通常被动〕",
+          "meaning": "委派某人代表他人执行一项工作。",
+          "usage": "be delegated to do something",
+          "example": {
+            "en": "Two members were delegated to inspect the site.",
+            "zh": "两名成员被委派去检查现场。",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.oxfordlearnersdictionaries.com/definition/english/delegate_2"
+          ]
+        },
+        {
+          "id": "delegate-learner-3",
+          "pos": "名词〔可数〕",
+          "meaning": "被选出或派出代表他人参加会议等的代表。",
+          "usage": "a conference delegate; 名词末尾读/ɡət/，动词读/ɡeɪt/",
+          "example": {
+            "en": "Each school sent two delegates to the conference.",
+            "zh": "每所学校派了两名代表参会。",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.oxfordlearnersdictionaries.com/definition/english/delegate_1"
+          ]
+        }
+      ],
+      "contextSenseId": "delegate-learner-1",
+      "context": "You can delegate the data collection to another team member.",
+      "bridgeText": "delegate说明由别人代为承担部分工作或职责。原句提出把数据收集交给另一位成员；要让交接可执行，还需说清范围、完成时间和遇到问题找谁。"
+    },
+    {
+      "cardId": "V20261012-015",
+      "term": "ownership",
+      "writer": "learner-dictionary-author",
+      "sources": [
+        "https://www.oxfordlearnersdictionaries.com/definition/english/ownership"
+      ],
+      "scope": "Common learner meanings and usage, with separately preserved full licensed source entries; not an exhaustive dictionary merger",
+      "senses": [
+        {
+          "id": "ownership-learner-1",
+          "pos": "名词〔不可数〕",
+          "meaning": "拥有某项财产或事物的状态或权利。",
+          "usage": "ownership of; transfer ownership",
+          "example": {
+            "en": "Ownership of the building changed last year.",
+            "zh": "这栋楼的所有权去年发生了变更。",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.oxfordlearnersdictionaries.com/definition/english/ownership"
+          ]
+        },
+        {
+          "id": "ownership-learner-2",
+          "pos": "名词〔不可数，工作用语〕",
+          "meaning": "对某项工作或问题承担责任并主动推动处理。",
+          "usage": "take ownership of",
+          "example": {
+            "en": "The new manager took ownership of the unresolved complaints.",
+            "zh": "新经理接手负责处理尚未解决的投诉。",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.oxfordlearnersdictionaries.com/definition/english/ownership"
+          ]
+        }
+      ],
+      "contextSenseId": "ownership-learner-2",
+      "context": "Who will take ownership of this open item?",
+      "bridgeText": "在工作交流里，take ownership是主动承担并跟进某件事。原句问谁接手这项尚未结清的事项；重点是明确责任归属，不是讨论财产归谁所有。"
+    },
+    {
+      "cardId": "V20261012-016",
+      "term": "accountable",
+      "writer": "learner-dictionary-author",
+      "sources": [
+        "https://www.oxfordlearnersdictionaries.com/definition/english/accountable"
+      ],
+      "scope": "Common learner meanings and usage, with separately preserved full licensed source entries; not an exhaustive dictionary merger",
+      "senses": [
+        {
+          "id": "accountable-learner-1",
+          "pos": "形容词〔通常不直接放在名词前〕",
+          "meaning": "必须对自己的决定或行为作出说明并承担责任的。",
+          "usage": "accountable to someone for something; hold someone accountable",
+          "example": {
+            "en": "The director is accountable to the board for the budget.",
+            "zh": "主任须就预算向董事会负责。",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.oxfordlearnersdictionaries.com/definition/english/accountable"
+          ]
+        }
+      ],
+      "contextSenseId": "accountable-learner-1",
+      "context": "One person must be accountable for the final decision.",
+      "bridgeText": "重点不只是“有人做了”，而是“谁需要交代这个决定及其理由”。别人问起为何这样决定时，被指定 accountable 的人要能说明。"
+    },
+    {
+      "cardId": "V20261012-017",
+      "term": "deadline",
+      "writer": "learner-dictionary-author",
+      "sources": [
+        "https://www.oxfordlearnersdictionaries.com/definition/english/deadline"
+      ],
+      "scope": "Common learner meanings and usage, with separately preserved full licensed source entries; not an exhaustive dictionary merger",
+      "senses": [
+        {
+          "id": "deadline-learner-1",
+          "pos": "名词〔可数〕",
+          "meaning": "某事必须完成或提交的最晚时间。",
+          "usage": "meet / miss / extend a deadline; a deadline for",
+          "example": {
+            "en": "The deadline for applications is next Friday.",
+            "zh": "申请截止时间是下周五。",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.oxfordlearnersdictionaries.com/definition/english/deadline"
+          ]
+        }
+      ],
+      "contextSenseId": "deadline-learner-1",
+      "context": "We need a decision today to meet the deadline.",
+      "bridgeText": "deadline说的是必须完成某事的最晚时间。本句把“今天要决定”和“之后按期完成”连起来；today是作决定的时点，未必就是最终截止日。"
+    },
+    {
+      "cardId": "V20261012-018",
+      "term": "commitment",
+      "writer": "learner-dictionary-author",
+      "sources": [
+        "https://www.oxfordlearnersdictionaries.com/definition/english/commitment"
+      ],
+      "scope": "Common learner meanings and usage, with separately preserved full licensed source entries; not an exhaustive dictionary merger",
+      "senses": [
+        {
+          "id": "commitment-learner-1",
+          "pos": "名词〔可数或不可数〕",
+          "meaning": "答应做某事的承诺。",
+          "usage": "make a commitment to do; a commitment to something",
+          "example": {
+            "en": "They made a commitment to keep the service open.",
+            "zh": "他们承诺保持这项服务开放。",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.oxfordlearnersdictionaries.com/definition/english/commitment"
+          ]
+        },
+        {
+          "id": "commitment-learner-2",
+          "pos": "名词〔不可数〕",
+          "meaning": "愿意持续投入时间和努力的热忱、忠诚或专注。",
+          "usage": "commitment to; show commitment",
+          "example": {
+            "en": "Learning an instrument takes practice and commitment.",
+            "zh": "学习乐器需要练习和持续投入。",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.oxfordlearnersdictionaries.com/definition/english/commitment"
+          ]
+        },
+        {
+          "id": "commitment-learner-3",
+          "pos": "名词〔可数，常用复数〕",
+          "meaning": "已经承担、需要投入时间或金钱的义务。",
+          "usage": "family / work / financial commitments",
+          "example": {
+            "en": "I cannot travel this week because of family commitments.",
+            "zh": "由于家庭事务，我这周无法出行。",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.oxfordlearnersdictionaries.com/definition/english/commitment"
+          ]
+        }
+      ],
+      "contextSenseId": "commitment-learner-1",
+      "context": "Please confirm the conditions behind this commitment.",
+      "bridgeText": "对方已经答应了一件事，这里要追问：这个答应是建立在什么条件上的？比如交期是否以材料到齐为前提。"
+    },
+    {
+      "cardId": "V20261012-019",
+      "term": "contingency",
+      "writer": "learner-dictionary-author",
+      "sources": [
+        "https://www.oxfordlearnersdictionaries.com/definition/english/contingency"
+      ],
+      "scope": "Common learner meanings and usage, with separately preserved full licensed source entries; not an exhaustive dictionary merger",
+      "senses": [
+        {
+          "id": "contingency-learner-1",
+          "pos": "名词〔可数〕",
+          "meaning": "未来可能发生、需要预作准备的情况，尤其是问题。",
+          "usage": "plan for contingencies; a contingency plan / fund",
+          "example": {
+            "en": "We set aside money for unexpected contingencies.",
+            "zh": "我们留了一笔钱，以应付可能出现的意外情况。",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.oxfordlearnersdictionaries.com/definition/english/contingency"
+          ]
+        },
+        {
+          "id": "contingency-learner-2",
+          "pos": "名词〔可数或不可数〕",
+          "meaning": "为可能增加的支出预留的款项。",
+          "usage": "a contingency for additional costs",
+          "example": {
+            "en": "The budget includes a contingency for repairs.",
+            "zh": "预算中包含一笔维修预留款。",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.oxfordlearnersdictionaries.com/definition/english/contingency"
+          ]
+        }
+      ],
+      "contextSenseId": "contingency-learner-1",
+      "context": "We need a contingency plan if the reviewer is unavailable.",
+      "bridgeText": "不是说评审人已经缺席，而是提前问：如果他来不了，谁来接替？contingency 指可能出现的状况，plan 才是备用办法。"
+    },
+    {
+      "cardId": "V20261012-020",
+      "term": "trade-off",
+      "writer": "learner-dictionary-author",
+      "sources": [
+        "https://www.oxfordlearnersdictionaries.com/definition/english/trade-off_2"
+      ],
+      "scope": "Common learner meanings and usage, with separately preserved full licensed source entries; not an exhaustive dictionary merger",
+      "senses": [
+        {
+          "id": "trade-off-learner-1",
+          "pos": "名词〔可数〕",
+          "meaning": "为了得到一种好处而接受另一种损失或不足的取舍。",
+          "usage": "a trade-off between A and B; 名词常带连字符",
+          "example": {
+            "en": "There is a trade-off between a lighter device and a larger battery.",
+            "zh": "更轻的设备和更大的电池之间需要取舍。",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.oxfordlearnersdictionaries.com/definition/english/trade-off_2"
+          ]
+        }
+      ],
+      "contextSenseId": "trade-off-learner-1",
+      "context": "There is a trade-off between a faster delivery and a lower cost.",
+      "bridgeText": "把快与便宜放在一起看：如果想更快到货，可能需要加钱；如果坚持低价，可能要等更久。句子说存在这种限制，还没替大家作选择。"
+    },
+    {
+      "cardId": "V20261012-041",
+      "term": "agenda",
+      "writer": "learner-dictionary-author",
+      "sources": [
+        "https://www.oxfordlearnersdictionaries.com/definition/english/agenda"
+      ],
+      "scope": "Common learner meanings and usage, with separately preserved full licensed source entries; not an exhaustive dictionary merger",
+      "senses": [
+        {
+          "id": "agenda-learner-1",
+          "pos": "名词〔可数〕",
+          "meaning": "会议准备讨论的事项清单。",
+          "usage": "on the agenda; set the agenda",
+          "example": {
+            "en": "The first item on the agenda is the new timetable.",
+            "zh": "议程的第一项是新的时间表。",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.oxfordlearnersdictionaries.com/definition/english/agenda"
+          ]
+        },
+        {
+          "id": "agenda-learner-2",
+          "pos": "名词〔可数〕",
+          "meaning": "个人或组织想推动的目标和计划。",
+          "usage": "a political agenda; a hidden agenda",
+          "example": {
+            "en": "The group has a clear environmental agenda.",
+            "zh": "这个团体有明确的环保目标。",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.oxfordlearnersdictionaries.com/definition/english/agenda"
+          ]
+        }
+      ],
+      "contextSenseId": "agenda-learner-1",
+      "context": "Please send the agenda before the meeting.",
+      "bridgeText": "这里要的是会前发出的讨论清单。参会者看过清单才能准备资料；agenda 不等于会后记录了什么决定的会议纪要。"
+    },
+    {
+      "cardId": "V20261012-042",
+      "term": "context",
+      "writer": "learner-dictionary-author",
+      "sources": [
+        "https://www.oxfordlearnersdictionaries.com/definition/english/context"
+      ],
+      "scope": "Common learner meanings and usage, with separately preserved full licensed source entries; not an exhaustive dictionary merger",
+      "senses": [
+        {
+          "id": "context-learner-1",
+          "pos": "名词〔可数或不可数〕",
+          "meaning": "帮助理解某件事的背景或周围情况。",
+          "usage": "in the context of; put something in context",
+          "example": {
+            "en": "The figures make sense in the context of rising prices.",
+            "zh": "考虑到物价上涨的背景，这些数字就容易理解了。",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.oxfordlearnersdictionaries.com/definition/english/context"
+          ]
+        },
+        {
+          "id": "context-learner-2",
+          "pos": "名词〔可数或不可数〕",
+          "meaning": "词语或句子前后的语言内容；上下文。",
+          "usage": "in context; out of context",
+          "example": {
+            "en": "The quotation is misleading when taken out of context.",
+            "zh": "这段引文脱离上下文后会产生误导。",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.oxfordlearnersdictionaries.com/definition/english/context"
+          ]
+        }
+      ],
+      "contextSenseId": "context-learner-1",
+      "context": "Let me provide some context before we discuss the options.",
+      "bridgeText": "先说明事情是在什么情况下发生的，再比较选项。例如报价变高，可能是需求增加了；没有这个背景，听者容易把它理解成单纯涨价。"
+    },
+    {
+      "cardId": "V20261012-043",
+      "term": "clarify",
+      "writer": "learner-dictionary-author",
+      "sources": [
+        "https://www.oxfordlearnersdictionaries.com/definition/english/clarify",
+        "https://www.collinsdictionary.com/dictionary/english/clarify"
+      ],
+      "scope": "Common learner meanings and usage, with separately preserved full licensed source entries; not an exhaustive dictionary merger",
+      "senses": [
+        {
+          "id": "clarify-learner-1",
+          "pos": "动词〔及物〕",
+          "meaning": "把不清楚的事情解释得更明确、更容易理解。",
+          "usage": "clarify something; clarify what / whether",
+          "example": {
+            "en": "Could you clarify whether visitors need tickets?",
+            "zh": "你能说明访客是否需要门票吗？",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.oxfordlearnersdictionaries.com/definition/english/clarify"
+          ]
+        },
+        {
+          "id": "clarify-learner-2",
+          "pos": "动词〔及物，烹饪等〕",
+          "meaning": "去除液体中的杂质，使其澄清。",
+          "usage": "clarify butter / stock",
+          "example": {
+            "en": "The cook clarified the butter before using it.",
+            "zh": "厨师使用黄油前先将其澄清处理。",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.collinsdictionary.com/dictionary/english/clarify"
+          ]
+        }
+      ],
+      "contextSenseId": "clarify-learner-1",
+      "context": "Could you clarify what is included in this request?",
+      "bridgeText": "对方提出了请求，但你还不清楚它包含哪些工作。clarify 在这里要求补清范围：例如是否只含测试，还是也含安装。"
+    },
+    {
+      "cardId": "V20261012-044",
+      "term": "confirm",
+      "writer": "learner-dictionary-author",
+      "sources": [
+        "https://www.oxfordlearnersdictionaries.com/definition/english/confirm"
+      ],
+      "scope": "Common learner meanings and usage, with separately preserved full licensed source entries; not an exhaustive dictionary merger",
+      "senses": [
+        {
+          "id": "confirm-learner-1",
+          "pos": "动词〔及物〕",
+          "meaning": "用证据证明某事属实，或使原有判断更确定。",
+          "usage": "confirm a suspicion; confirm that",
+          "example": {
+            "en": "The test confirmed that the water was safe.",
+            "zh": "检测证实水是安全的。",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.oxfordlearnersdictionaries.com/definition/english/confirm"
+          ]
+        },
+        {
+          "id": "confirm-learner-2",
+          "pos": "动词〔及物〕",
+          "meaning": "确认安排、预订或信息，使其明确或确定下来。",
+          "usage": "confirm a booking; confirm the details",
+          "example": {
+            "en": "Please confirm the number of guests by Thursday.",
+            "zh": "请在周四前确认来宾人数。",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.oxfordlearnersdictionaries.com/definition/english/confirm"
+          ]
+        },
+        {
+          "id": "confirm-learner-3",
+          "pos": "动词〔及物〕",
+          "meaning": "正式批准任命或认可某人的职位。",
+          "usage": "confirm an appointment; confirm someone in a post",
+          "example": {
+            "en": "The committee confirmed her appointment as director.",
+            "zh": "委员会正式批准了她的主任任命。",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.oxfordlearnersdictionaries.com/definition/english/confirm"
+          ]
+        },
+        {
+          "id": "confirm-learner-4",
+          "pos": "动词〔及物，通常被动，宗教〕",
+          "meaning": "为某人施行坚振礼。",
+          "usage": "be confirmed",
+          "example": {
+            "en": "He was confirmed at the local church.",
+            "zh": "他在当地教堂接受了坚振礼。",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.oxfordlearnersdictionaries.com/definition/english/confirm"
+          ]
+        }
+      ],
+      "contextSenseId": "confirm-learner-2",
+      "context": "Please confirm who will own the next action.",
+      "bridgeText": "现在需要一个明确的人名：下一步到底谁负责？请对方核实或确定这个归属，好让行动事项有人接手。"
+    },
+    {
+      "cardId": "V20261012-045",
+      "term": "specify",
+      "writer": "learner-dictionary-author",
+      "sources": [
+        "https://www.oxfordlearnersdictionaries.com/definition/english/specify"
+      ],
+      "scope": "Common learner meanings and usage, with separately preserved full licensed source entries; not an exhaustive dictionary merger",
+      "senses": [
+        {
+          "id": "specify-learner-1",
+          "pos": "动词〔及物〕",
+          "meaning": "明确、具体地说明或规定内容。",
+          "usage": "specify something; specify that / how / whether",
+          "example": {
+            "en": "The form asks you to specify which days you are available.",
+            "zh": "表格要求你具体说明哪些天有空。",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.oxfordlearnersdictionaries.com/definition/english/specify"
+          ]
+        }
+      ],
+      "contextSenseId": "specify-learner-1",
+      "context": "Please specify the conditions for accepting this proposal.",
+      "bridgeText": "不要只说条件合适就接受。specify 要求把条件逐项说清楚，例如需要什么价格、日期或文件，才能判断是否满足要求。"
+    },
+    {
+      "cardId": "V20261012-046",
+      "term": "elaborate",
+      "writer": "learner-dictionary-author",
+      "sources": [
+        "https://www.oxfordlearnersdictionaries.com/definition/english/elaborate_1",
+        "https://www.oxfordlearnersdictionaries.com/definition/english/elaborate_2"
+      ],
+      "scope": "Common learner meanings and usage, with separately preserved full licensed source entries; not an exhaustive dictionary merger",
+      "senses": [
+        {
+          "id": "elaborate-learner-1",
+          "pos": "动词〔及物或不及物〕",
+          "meaning": "进一步详细说明，使已有信息更充分。",
+          "usage": "elaborate on / upon something; 动词末尾读/reɪt/",
+          "example": {
+            "en": "Could you elaborate on your reasons for leaving?",
+            "zh": "你能详细说明离开的原因吗？",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.oxfordlearnersdictionaries.com/definition/english/elaborate_2"
+          ]
+        },
+        {
+          "id": "elaborate-learner-2",
+          "pos": "形容词〔通常用于名词前〕",
+          "meaning": "细节丰富、结构复杂或精心制作的。",
+          "usage": "an elaborate design / plan; 形容词末尾读/rət/",
+          "example": {
+            "en": "The ceiling has an elaborate floral design.",
+            "zh": "天花板上有精细复杂的花卉图案。",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.oxfordlearnersdictionaries.com/definition/english/elaborate_1"
+          ]
+        }
+      ],
+      "contextSenseId": "elaborate-learner-1",
+      "context": "Could you elaborate on the concern about timing?",
+      "bridgeText": "已经知道对方担心时间安排，现在请他把担心展开：是哪一步耗时长，会影响什么？这里需要相关细节，而不是重复一句时间有问题。"
+    },
+    {
+      "cardId": "V20261012-047",
+      "term": "summarize",
+      "writer": "learner-dictionary-author",
+      "sources": [
+        "https://www.oxfordlearnersdictionaries.com/definition/english/summarize"
+      ],
+      "scope": "Common learner meanings and usage, with separately preserved full licensed source entries; not an exhaustive dictionary merger",
+      "senses": [
+        {
+          "id": "summarize-learner-1",
+          "pos": "动词〔及物或不及物〕",
+          "meaning": "用较少的话概括最重要的内容。",
+          "usage": "summarize the findings; 英式也写summarise",
+          "example": {
+            "en": "Could you summarize the story in three sentences?",
+            "zh": "你能用三句话概括这个故事吗？",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.oxfordlearnersdictionaries.com/definition/english/summarize"
+          ]
+        }
+      ],
+      "contextSenseId": "summarize-learner-1",
+      "context": "Let me summarize the decisions and remaining questions.",
+      "bridgeText": "把长讨论压缩成听得懂的重点：一栏是已决定的事，另一栏是还没解决的问题。简短不等于把未解决的部分省掉。"
+    },
+    {
+      "cardId": "V20261012-048",
+      "term": "recap",
+      "writer": "learner-dictionary-author",
+      "sources": [
+        "https://www.oxfordlearnersdictionaries.com/definition/english/recap_1",
+        "https://www.oxfordlearnersdictionaries.com/definition/english/recap_2"
+      ],
+      "scope": "Common learner meanings and usage, with separately preserved full licensed source entries; not an exhaustive dictionary merger",
+      "senses": [
+        {
+          "id": "recap-learner-1",
+          "pos": "动词〔及物或不及物〕",
+          "meaning": "简要重述刚讲过或发生过的主要内容。",
+          "usage": "recap the main points; to recap",
+          "example": {
+            "en": "Before we continue, let me recap what happened yesterday.",
+            "zh": "继续之前，我先简要回顾一下昨天发生的事。",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.oxfordlearnersdictionaries.com/definition/english/recap_1"
+          ]
+        },
+        {
+          "id": "recap-learner-2",
+          "pos": "名词〔可数或不可数〕",
+          "meaning": "对已有内容所作的简短回顾或总结。",
+          "usage": "a recap of",
+          "example": {
+            "en": "The episode starts with a recap of last week’s events.",
+            "zh": "这集以对上周剧情的简短回顾开场。",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.oxfordlearnersdictionaries.com/definition/english/recap_2"
+          ]
+        }
+      ],
+      "contextSenseId": "recap-learner-1",
+      "context": "Could you recap the main points for the new team member?",
+      "bridgeText": "新成员刚进入讨论，需要先知道大家谈到了哪里。recap 要把前面的要点补给他，而不是从头重演整场会议。"
+    },
+    {
+      "cardId": "V20261012-049",
+      "term": "align",
+      "writer": "learner-dictionary-author",
+      "sources": [
+        "https://www.oxfordlearnersdictionaries.com/definition/english/align",
+        "https://www.oxfordlearnersdictionaries.com/definition/english/align-yourself-with"
+      ],
+      "scope": "Common learner meanings and usage, with separately preserved full licensed source entries; not an exhaustive dictionary merger",
+      "senses": [
+        {
+          "id": "align-learner-1",
+          "pos": "动词〔及物或不及物〕",
+          "meaning": "排成直线，或调整到正确的相对位置。",
+          "usage": "align A with B; align the wheels",
+          "example": {
+            "en": "Align the edge of the paper with the guide.",
+            "zh": "把纸的边缘与导向标记对齐。",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.oxfordlearnersdictionaries.com/definition/english/align"
+          ]
+        },
+        {
+          "id": "align-learner-2",
+          "pos": "动词〔及物〕",
+          "meaning": "使目标、做法等相互一致或协调。",
+          "usage": "align something with; be aligned with",
+          "example": {
+            "en": "The course content is aligned with the exam requirements.",
+            "zh": "课程内容与考试要求相一致。",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.oxfordlearnersdictionaries.com/definition/english/align"
+          ]
+        },
+        {
+          "id": "align-learner-3",
+          "pos": "动词",
+          "meaning": "公开支持某一群体或立场，与其站在一起。",
+          "usage": "align oneself with",
+          "example": {
+            "en": "He refused to align himself with either faction.",
+            "zh": "他拒绝加入任何一派。",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.oxfordlearnersdictionaries.com/definition/english/align-yourself-with"
+          ]
+        }
+      ],
+      "contextSenseId": "align-learner-2",
+      "context": "We need to align on priorities before assigning the work.",
+      "bridgeText": "先让大家对先做什么有一致理解，再分任务。否则有人先赶测试，有人先改设计，各自很忙却可能互相卡住。"
+    },
+    {
+      "cardId": "V20261012-050",
+      "term": "consensus",
+      "writer": "learner-dictionary-author",
+      "sources": [
+        "https://www.oxfordlearnersdictionaries.com/definition/english/consensus",
+        "https://dictionary.cambridge.org/us/dictionary/english/consensus"
+      ],
+      "scope": "Common learner meanings and usage, with separately preserved full licensed source entries; not an exhaustive dictionary merger",
+      "senses": [
+        {
+          "id": "consensus-learner-1",
+          "pos": "名词〔通常单数或不可数〕",
+          "meaning": "一群人在意见或判断上形成的大体一致。",
+          "usage": "reach a consensus; consensus on / about",
+          "example": {
+            "en": "There is a broad consensus on the need for change.",
+            "zh": "大家普遍同意有必要改变。",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.oxfordlearnersdictionaries.com/definition/english/consensus",
+            "https://dictionary.cambridge.org/us/dictionary/english/consensus"
+          ]
+        }
+      ],
+      "contextSenseId": "consensus-learner-1",
+      "context": "We reached a consensus on the main objective.",
+      "bridgeText": "大家已经就主要目标形成了共同意见。注意限定词 on the main objective：一致的是目标，句子没有说预算、做法和期限也都谈妥了。"
+    },
+    {
+      "cardId": "V20261012-051",
+      "term": "concern",
+      "writer": "learner-dictionary-author",
+      "sources": [
+        "https://www.oxfordlearnersdictionaries.com/definition/english/concern_1",
+        "https://www.oxfordlearnersdictionaries.com/definition/english/concern_2"
+      ],
+      "scope": "Common learner meanings and usage, with separately preserved full licensed source entries; not an exhaustive dictionary merger",
+      "senses": [
+        {
+          "id": "concern-learner-1",
+          "pos": "名词〔不可数〕",
+          "meaning": "担心、忧虑。",
+          "usage": "concern about / over; express concern",
+          "example": {
+            "en": "There is growing concern about water quality.",
+            "zh": "人们对水质越来越担忧。",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.oxfordlearnersdictionaries.com/definition/english/concern_2"
+          ]
+        },
+        {
+          "id": "concern-learner-2",
+          "pos": "名词〔可数〕",
+          "meaning": "使人担忧的问题或关注的重要事项。",
+          "usage": "a major concern; one's main concern",
+          "example": {
+            "en": "The cost of repairs is my main concern.",
+            "zh": "维修费用是我最担心的问题。",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.oxfordlearnersdictionaries.com/definition/english/concern_2"
+          ]
+        },
+        {
+          "id": "concern-learner-3",
+          "pos": "名词〔不可数〕",
+          "meaning": "对他人的关心。",
+          "usage": "concern for someone",
+          "example": {
+            "en": "She showed real concern for her neighbours.",
+            "zh": "她真心关心邻居。",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.oxfordlearnersdictionaries.com/definition/english/concern_2"
+          ]
+        },
+        {
+          "id": "concern-learner-4",
+          "pos": "名词〔可数〕",
+          "meaning": "与某人有关或由某人负责的事情。",
+          "usage": "none of someone's concern; someone's concern",
+          "example": {
+            "en": "The arrangements are my concern, so I will handle them.",
+            "zh": "这些安排由我负责，我来处理。",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.oxfordlearnersdictionaries.com/definition/english/concern_2"
+          ]
+        },
+        {
+          "id": "concern-learner-5",
+          "pos": "名词〔可数〕",
+          "meaning": "商业公司或企业。",
+          "usage": "a business concern; a going concern",
+          "example": {
+            "en": "The company is a small family concern.",
+            "zh": "这是一家小型家族企业。",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.oxfordlearnersdictionaries.com/definition/english/concern_2"
+          ]
+        },
+        {
+          "id": "concern-learner-6",
+          "pos": "动词〔及物〕",
+          "meaning": "与某人或某事有关、涉及；也可指内容主要谈论什么。",
+          "usage": "concern someone/something; be concerned with; concern itself with",
+          "example": {
+            "en": "The announcement concerns all passengers.",
+            "zh": "这则通知涉及所有乘客。",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.oxfordlearnersdictionaries.com/definition/english/concern_1"
+          ]
+        },
+        {
+          "id": "concern-learner-7",
+          "pos": "动词〔及物〕",
+          "meaning": "使人担忧。",
+          "usage": "something concerns someone; it concerns me that",
+          "example": {
+            "en": "The sudden change in his behaviour concerns me.",
+            "zh": "他行为的突然变化让我担心。",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.oxfordlearnersdictionaries.com/definition/english/concern_1"
+          ]
+        },
+        {
+          "id": "concern-learner-8",
+          "pos": "动词〔反身结构〕",
+          "meaning": "关注某件事，或把精力用于考虑、处理它。",
+          "usage": "concern yourself with / about something",
+          "example": {
+            "en": "She concerns herself with the practical details of the project.",
+            "zh": "她关注并处理项目的实际细节。",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.oxfordlearnersdictionaries.com/definition/english/concern_1"
+          ]
+        }
+      ],
+      "contextSenseId": "concern-learner-2",
+      "context": "My main concern is the time available for review.",
+      "bridgeText": "说话者先指出最放心不下的一点：留给评审的时间。先把这个问题放到桌面上，还不是宣布整个方案必须作废。"
+    },
+    {
+      "cardId": "V20261012-052",
+      "term": "objection",
+      "writer": "learner-dictionary-author",
+      "sources": [
+        "https://www.oxfordlearnersdictionaries.com/definition/english/objection"
+      ],
+      "scope": "Common learner meanings and usage, with separately preserved full licensed source entries; not an exhaustive dictionary merger",
+      "senses": [
+        {
+          "id": "objection-learner-1",
+          "pos": "名词〔可数或不可数〕",
+          "meaning": "对某事表示反对，或反对的理由；法庭上也可指正式异议。",
+          "usage": "an objection to something / doing; raise an objection",
+          "example": {
+            "en": "Do you have any objection to us opening the window?",
+            "zh": "你介意我们打开窗户吗？",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.oxfordlearnersdictionaries.com/definition/english/objection"
+          ]
+        }
+      ],
+      "contextSenseId": "objection-learner-1",
+      "context": "Does anyone have an objection to the revised sequence?",
+      "bridgeText": "顺序已经调整过，现在给大家一个明确提出反对的机会。回答时最好指出哪一步有问题，以及新顺序为什么不合适。"
+    },
+    {
+      "cardId": "V20261012-053",
+      "term": "reservation",
+      "writer": "learner-dictionary-author",
+      "sources": [
+        "https://www.oxfordlearnersdictionaries.com/definition/english/reservation"
+      ],
+      "scope": "Common learner meanings and usage, with separately preserved full licensed source entries; not an exhaustive dictionary merger",
+      "senses": [
+        {
+          "id": "reservation-learner-1",
+          "pos": "名词〔可数〕",
+          "meaning": "为住宿、座位等提前作出的预订。",
+          "usage": "make / cancel a reservation",
+          "example": {
+            "en": "I made a reservation for two at seven o’clock.",
+            "zh": "我预订了七点的两人位。",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.oxfordlearnersdictionaries.com/definition/english/reservation"
+          ]
+        },
+        {
+          "id": "reservation-learner-2",
+          "pos": "名词〔可数或不可数；可数时通常用复数〕",
+          "meaning": "使人不能完全接受某事的疑虑或保留意见。",
+          "usage": "have reservations about; without reservation",
+          "example": {
+            "en": "She has reservations about moving so far away.",
+            "zh": "她对搬到那么远的地方有所顾虑。",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.oxfordlearnersdictionaries.com/definition/english/reservation"
+          ]
+        },
+        {
+          "id": "reservation-learner-3",
+          "pos": "名词〔可数，美国用法〕",
+          "meaning": "美国为原住民保留的地区。",
+          "usage": "a reservation; a Native American reservation",
+          "example": {
+            "en": "The museum explains the history of the reservation.",
+            "zh": "博物馆介绍了这片原住民保留地的历史。",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.oxfordlearnersdictionaries.com/definition/english/reservation"
+          ]
+        }
+      ],
+      "contextSenseId": "reservation-learner-2",
+      "context": "I have reservations about committing before the review.",
+      "bridgeText": "说话者暂时不能完全接受在评审前就作出承诺。疑虑针对这个时间点；你需要继续问原因，而不是直接把他算成赞成者。"
+    },
+    {
+      "cardId": "V20261012-054",
+      "term": "rationale",
+      "writer": "learner-dictionary-author",
+      "sources": [
+        "https://www.oxfordlearnersdictionaries.com/definition/english/rationale"
+      ],
+      "scope": "Common learner meanings and usage, with separately preserved full licensed source entries; not an exhaustive dictionary merger",
+      "senses": [
+        {
+          "id": "rationale-learner-1",
+          "pos": "名词〔可数，正式〕",
+          "meaning": "某个决定、方法或信念背后的理由及其逻辑依据。",
+          "usage": "the rationale for / behind",
+          "example": {
+            "en": "The teacher explained the rationale for the new marking system.",
+            "zh": "老师解释了采用新评分制度的理由。",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.oxfordlearnersdictionaries.com/definition/english/rationale"
+          ]
+        }
+      ],
+      "contextSenseId": "rationale-learner-1",
+      "context": "Could you explain the rationale for changing the priority?",
+      "bridgeText": "已经知道优先级变了，现在问的是为什么要改。对方应解释新信息或限制怎样导致这个决定，而不只是再说一次新的排序。"
+    },
+    {
+      "cardId": "V20261012-055",
+      "term": "proposal",
+      "writer": "learner-dictionary-author",
+      "sources": [
+        "https://www.oxfordlearnersdictionaries.com/definition/english/proposal"
+      ],
+      "scope": "Common learner meanings and usage, with separately preserved full licensed source entries; not an exhaustive dictionary merger",
+      "senses": [
+        {
+          "id": "proposal-learner-1",
+          "pos": "名词〔可数或不可数〕",
+          "meaning": "提交给他人考虑的建议、方案，或提出建议这一行为。",
+          "usage": "a proposal for; a proposal to do",
+          "example": {
+            "en": "The council approved a proposal to build a new park.",
+            "zh": "市政委员会批准了建设新公园的提案。",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.oxfordlearnersdictionaries.com/definition/english/proposal"
+          ]
+        },
+        {
+          "id": "proposal-learner-2",
+          "pos": "名词〔可数〕",
+          "meaning": "求婚。",
+          "usage": "a marriage proposal; accept a proposal",
+          "example": {
+            "en": "She accepted his marriage proposal.",
+            "zh": "她答应了他的求婚。",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.oxfordlearnersdictionaries.com/definition/english/proposal"
+          ]
+        }
+      ],
+      "contextSenseId": "proposal-learner-1",
+      "context": "Please review the proposal before tomorrow's discussion.",
+      "bridgeText": "在工作讨论里，proposal 是拿出来请别人考虑的方案。它通常不只说“我有个想法”，还会说明准备做什么、为什么值得做，让别人有内容可以审阅和讨论。"
+    },
+    {
+      "cardId": "V20261012-056",
+      "term": "alternative",
+      "writer": "learner-dictionary-author",
+      "sources": [
+        "https://www.oxfordlearnersdictionaries.com/definition/english/alternative_1",
+        "https://www.oxfordlearnersdictionaries.com/definition/english/alternative_2"
+      ],
+      "scope": "Common learner meanings and usage, with separately preserved full licensed source entries; not an exhaustive dictionary merger",
+      "senses": [
+        {
+          "id": "alternative-learner-1",
+          "pos": "名词〔可数〕",
+          "meaning": "可以取代当前选择的另一种选择。",
+          "usage": "an alternative to; have no alternative but to",
+          "example": {
+            "en": "Cycling is a cheap alternative to driving.",
+            "zh": "骑车是比开车便宜的替代出行方式。",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.oxfordlearnersdictionaries.com/definition/english/alternative_1"
+          ]
+        },
+        {
+          "id": "alternative-learner-2",
+          "pos": "形容词〔此义通常用于名词前〕",
+          "meaning": "可用来替代另一事物的。",
+          "usage": "an alternative route / method",
+          "example": {
+            "en": "We found an alternative route through the village.",
+            "zh": "我们找到了一条穿过村庄的替代路线。",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.oxfordlearnersdictionaries.com/definition/english/alternative_2"
+          ]
+        },
+        {
+          "id": "alternative-learner-3",
+          "pos": "形容词",
+          "meaning": "不同于主流或传统方式的。",
+          "usage": "alternative medicine / lifestyles",
+          "example": {
+            "en": "The article discusses alternative forms of education.",
+            "zh": "这篇文章讨论非传统的教育形式。",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.oxfordlearnersdictionaries.com/definition/english/alternative_2"
+          ]
+        }
+      ],
+      "contextSenseId": "alternative-learner-1",
+      "context": "We should consider an alternative if the date is too tight.",
+      "bridgeText": "当前安排太紧时，alternative 是另一个可考虑的选择。比如原日期做不到，可以考虑别的日期，也可以另拟做法；这个词没有替你决定具体换哪一项。"
+    },
+    {
+      "cardId": "V20261012-057",
+      "term": "compromise",
+      "writer": "learner-dictionary-author",
+      "sources": [
+        "https://www.oxfordlearnersdictionaries.com/definition/english/compromise_1",
+        "https://www.oxfordlearnersdictionaries.com/definition/english/compromise_2"
+      ],
+      "scope": "Common learner meanings and usage, with separately preserved full licensed source entries; not an exhaustive dictionary merger",
+      "senses": [
+        {
+          "id": "compromise-learner-1",
+          "pos": "名词〔可数或不可数〕",
+          "meaning": "各方作出部分让步后达成的协议或折中办法。",
+          "usage": "reach a compromise; a compromise between",
+          "example": {
+            "en": "They reached a compromise over how to share the costs.",
+            "zh": "他们就如何分摊费用达成了妥协。",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.oxfordlearnersdictionaries.com/definition/english/compromise_1"
+          ]
+        },
+        {
+          "id": "compromise-learner-2",
+          "pos": "动词〔不及物〕",
+          "meaning": "降低部分要求或作出让步，以达成一致。",
+          "usage": "compromise on; compromise with someone",
+          "example": {
+            "en": "Neither side was willing to compromise on the price.",
+            "zh": "双方都不愿在价格上让步。",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.oxfordlearnersdictionaries.com/definition/english/compromise_2"
+          ]
+        },
+        {
+          "id": "compromise-learner-3",
+          "pos": "动词〔及物〕",
+          "meaning": "损害安全、质量、名誉等；使其面临风险。",
+          "usage": "compromise safety / quality / security",
+          "example": {
+            "en": "The shortcut could compromise the safety of the building.",
+            "zh": "这种省事做法可能危及建筑安全。",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.oxfordlearnersdictionaries.com/definition/english/compromise_2"
+          ]
+        },
+        {
+          "id": "compromise-learner-4",
+          "pos": "动词〔及物或不及物〕",
+          "meaning": "违背原先坚持的原则，或降低自己设定的标准。",
+          "usage": "compromise principles; compromise on standards",
+          "example": {
+            "en": "She refused to compromise her principles for promotion.",
+            "zh": "她拒绝为获得晋升而违背自己的原则。",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.oxfordlearnersdictionaries.com/definition/english/compromise_2"
+          ]
+        }
+      ],
+      "contextSenseId": "compromise-learner-1",
+      "context": "We reached a compromise on the review schedule.",
+      "bridgeText": "本句说双方已经谈成一个折中安排。比如一方想周一评审，另一方想周五，最后接受周三；重点是各自调整要求后取得一致，而不是争论谁完全获胜。"
+    },
+    {
+      "cardId": "V20261012-058",
+      "term": "negotiate",
+      "writer": "learner-dictionary-author",
+      "sources": [
+        "https://www.oxfordlearnersdictionaries.com/definition/english/negotiate"
+      ],
+      "scope": "Common learner meanings and usage, with separately preserved full licensed source entries; not an exhaustive dictionary merger",
+      "senses": [
+        {
+          "id": "negotiate-learner-1",
+          "pos": "动词〔及物或不及物〕",
+          "meaning": "通过讨论争取就条件或安排达成协议。",
+          "usage": "negotiate with someone over something; negotiate a deal",
+          "example": {
+            "en": "They are negotiating with the landlord over the rent.",
+            "zh": "他们正在与房东商谈租金。",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.oxfordlearnersdictionaries.com/definition/english/negotiate"
+          ]
+        },
+        {
+          "id": "negotiate-learner-2",
+          "pos": "动词〔及物〕",
+          "meaning": "成功通过或越过难走的路段、障碍等。",
+          "usage": "negotiate a bend / obstacle",
+          "example": {
+            "en": "The driver carefully negotiated the narrow bend.",
+            "zh": "司机小心地驶过狭窄的弯道。",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.oxfordlearnersdictionaries.com/definition/english/negotiate"
+          ]
+        }
+      ],
+      "contextSenseId": "negotiate-learner-1",
+      "context": "We may need to negotiate a more realistic deadline.",
+      "bridgeText": "negotiate a deadline 是把截止时间拿来协商，争取一个双方可接受的安排。你可以说明现日期哪里不现实，再讨论能否延后或调整条件；它比单纯告知日期多了协商这一步。"
+    },
+    {
+      "cardId": "V20261012-059",
+      "term": "conclude",
+      "writer": "learner-dictionary-author",
+      "sources": [
+        "https://www.oxfordlearnersdictionaries.com/definition/english/conclude"
+      ],
+      "scope": "Common learner meanings and usage, with separately preserved full licensed source entries; not an exhaustive dictionary merger",
+      "senses": [
+        {
+          "id": "conclude-learner-1",
+          "pos": "动词〔及物，此义通常不用进行时〕",
+          "meaning": "根据事实或推理得出结论。",
+          "usage": "conclude that; conclude from",
+          "example": {
+            "en": "We concluded from the tracks that an animal had entered.",
+            "zh": "我们根据足迹判断有动物进来过。",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.oxfordlearnersdictionaries.com/definition/english/conclude"
+          ]
+        },
+        {
+          "id": "conclude-learner-2",
+          "pos": "动词〔及物或不及物〕",
+          "meaning": "结束或使结束某项活动。",
+          "usage": "conclude a meeting; conclude with / by",
+          "example": {
+            "en": "The concert concluded with a short encore.",
+            "zh": "音乐会以一段简短的返场演出结束。",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.oxfordlearnersdictionaries.com/definition/english/conclude"
+          ]
+        },
+        {
+          "id": "conclude-learner-3",
+          "pos": "动词〔及物，正式〕",
+          "meaning": "经过协商正式达成协议或交易。",
+          "usage": "conclude an agreement / deal",
+          "example": {
+            "en": "The two firms concluded a licensing agreement.",
+            "zh": "两家公司达成了一项许可协议。",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.oxfordlearnersdictionaries.com/definition/english/conclude"
+          ]
+        }
+      ],
+      "contextSenseId": "conclude-learner-2",
+      "context": "Let's conclude the meeting by confirming the next steps.",
+      "bridgeText": "本句的 conclude 是结束会议：宾语 the meeting 是一项活动，by confirming the next steps 说明结束时要做的动作。判断当前义要结合这些内容，而不是单看有没有 that 从句。"
+    },
+    {
+      "cardId": "V20261012-060",
+      "term": "document",
+      "writer": "learner-dictionary-author",
+      "sources": [
+        "https://www.oxfordlearnersdictionaries.com/definition/english/document_1",
+        "https://www.oxfordlearnersdictionaries.com/definition/english/document_2"
+      ],
+      "scope": "Common learner meanings and usage, with separately preserved full licensed source entries; not an exhaustive dictionary merger",
+      "senses": [
+        {
+          "id": "document-learner-1",
+          "pos": "名词〔可数〕",
+          "meaning": "记录信息的纸质文件或电子文档。",
+          "usage": "an official document; save a document",
+          "example": {
+            "en": "Please bring a document showing your address.",
+            "zh": "请带一份能证明你住址的文件。",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.oxfordlearnersdictionaries.com/definition/english/document_1"
+          ]
+        },
+        {
+          "id": "document-learner-2",
+          "pos": "动词〔及物〕",
+          "meaning": "用文字、照片等详细记录，或提供文献证据。",
+          "usage": "document a process / event; be well documented",
+          "example": {
+            "en": "The photographs document the changes in the neighbourhood.",
+            "zh": "这些照片记录了街区的变化。",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.oxfordlearnersdictionaries.com/definition/english/document_2"
+          ]
+        }
+      ],
+      "contextSenseId": "document-learner-2",
+      "context": "Please document the decision and the reason behind it.",
+      "bridgeText": "这里的 document 是动词，要求把决定和理由记录下来。只写“同意修改”还不够，本句还希望读者以后知道为什么改；核心是留下可追溯内容，而不是把文件排得漂亮。"
+    },
+    {
+      "cardId": "V20261012-061",
+      "term": "follow up",
+      "writer": "learner-dictionary-author",
+      "sources": [
+        "https://www.oxfordlearnersdictionaries.com/definition/english/follow-up_1",
+        "https://dictionary.cambridge.org/dictionary/english/follow-up"
+      ],
+      "scope": "Common learner meanings and usage, with separately preserved full licensed source entries; not an exhaustive dictionary merger",
+      "senses": [
+        {
+          "id": "follow-up-learner-1",
+          "pos": "短语动词",
+          "meaning": "对先前开始的事继续采取行动、了解进展或深入调查。",
+          "usage": "follow up on something; follow something up",
+          "example": {
+            "en": "The reporter followed up on the anonymous tip.",
+            "zh": "记者继续调查了那条匿名线索。",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.oxfordlearnersdictionaries.com/definition/english/follow-up_1",
+            "https://dictionary.cambridge.org/dictionary/english/follow-up"
+          ]
+        },
+        {
+          "id": "follow-up-learner-2",
+          "pos": "短语动词",
+          "meaning": "接着做另一件事，以进一步发挥前一行动的效果。",
+          "usage": "follow something up with something",
+          "example": {
+            "en": "She followed up the phone call with an email.",
+            "zh": "打完电话后，她又发了一封邮件。",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.oxfordlearnersdictionaries.com/definition/english/follow-up_1"
+          ]
+        }
+      ],
+      "contextSenseId": "follow-up-learner-1",
+      "context": "I'll follow up on the open action tomorrow.",
+      "bridgeText": "follow up 是对已经提出或开始的事情继续处理。本句的 open action 是尚未完成的行动项，明天要继续查它的进展；只是发起第一次联系，通常还谈不上这层“后续”。"
+    },
+    {
+      "cardId": "V20261012-062",
+      "term": "bring up",
+      "writer": "learner-dictionary-author",
+      "sources": [
+        "https://www.oxfordlearnersdictionaries.com/definition/english/bring-up"
+      ],
+      "scope": "Common learner meanings and usage, with separately preserved full licensed source entries; not an exhaustive dictionary merger",
+      "senses": [
+        {
+          "id": "bring-up-learner-1",
+          "pos": "短语动词〔可分开〕",
+          "meaning": "提出话题或问题供讨论。",
+          "usage": "bring something up; bring it up",
+          "example": {
+            "en": "Please bring this question up at the next meeting.",
+            "zh": "请在下次会议上提出这个问题。",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.oxfordlearnersdictionaries.com/definition/english/bring-up"
+          ]
+        },
+        {
+          "id": "bring-up-learner-2",
+          "pos": "短语动词〔可分开〕",
+          "meaning": "抚养、养育孩子。",
+          "usage": "bring someone up; be brought up to do",
+          "example": {
+            "en": "Her grandparents brought her up.",
+            "zh": "她由祖父母抚养长大。",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.oxfordlearnersdictionaries.com/definition/english/bring-up"
+          ]
+        },
+        {
+          "id": "bring-up-learner-3",
+          "pos": "短语动词〔可分开〕",
+          "meaning": "呕出食物等。",
+          "usage": "bring something up",
+          "example": {
+            "en": "The child brought up most of his dinner.",
+            "zh": "孩子把晚饭大部分都吐了出来。",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.oxfordlearnersdictionaries.com/definition/english/bring-up"
+          ]
+        },
+        {
+          "id": "bring-up-learner-4",
+          "pos": "短语动词〔可分开，计算机〕",
+          "meaning": "使信息或页面出现在屏幕上。",
+          "usage": "bring up a page / menu",
+          "example": {
+            "en": "Click the icon to bring up the settings menu.",
+            "zh": "点击图标打开设置菜单。",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.oxfordlearnersdictionaries.com/definition/english/bring-up"
+          ]
+        }
+      ],
+      "contextSenseId": "bring-up-learner-1",
+      "context": "I'd like to bring up one issue before we finish.",
+      "bridgeText": "bring up an issue 是把问题提出，让大家开始注意或讨论。本句想在结束前补提一件事；它只表示把议题带进来，还没有保证当场解决。"
+    },
+    {
+      "cardId": "V20261012-063",
+      "term": "walk through",
+      "writer": "learner-dictionary-author",
+      "sources": [
+        "https://www.oxfordlearnersdictionaries.com/definition/english/walk-through_1",
+        "https://en.wiktionary.org/wiki/walk_through"
+      ],
+      "scope": "Common learner meanings and usage, with separately preserved full licensed source entries; not an exhaustive dictionary merger",
+      "senses": [
+        {
+          "id": "walk-through-learner-1",
+          "pos": "短语动词",
+          "meaning": "逐步向某人讲解或演示一个过程。",
+          "usage": "walk someone through something",
+          "example": {
+            "en": "The nurse walked me through the steps of the test.",
+            "zh": "护士一步步向我说明了检查流程。",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.oxfordlearnersdictionaries.com/definition/english/walk-through_1"
+          ]
+        },
+        {
+          "id": "walk-through-learner-2",
+          "pos": "短语动词",
+          "meaning": "按步骤粗略演练或排练。",
+          "usage": "walk through a scene / routine",
+          "example": {
+            "en": "The actors walked through the scene before filming.",
+            "zh": "演员们在拍摄前粗略排练了这场戏。",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://en.wiktionary.org/wiki/walk_through"
+          ]
+        }
+      ],
+      "contextSenseId": "walk-through-learner-1",
+      "context": "Could you walk us through the revised plan?",
+      "bridgeText": "walk someone through something 是带着对方一步一步了解过程。本句要求对方把修订后的计划讲一遍，重点是让听者跟上各步骤，而不只是说计划已经改好了。"
+    },
+    {
+      "cardId": "V20261012-064",
+      "term": "point out",
+      "writer": "learner-dictionary-author",
+      "sources": [
+        "https://www.oxfordlearnersdictionaries.com/definition/english/point-out"
+      ],
+      "scope": "Common learner meanings and usage, with separately preserved full licensed source entries; not an exhaustive dictionary merger",
+      "senses": [
+        {
+          "id": "point-out-learner-1",
+          "pos": "短语动词〔可分开〕",
+          "meaning": "向别人说明某个事实或问题，提醒其注意。",
+          "usage": "point something out to someone; point out that; point it out",
+          "example": {
+            "en": "She pointed out that the dates on the form were wrong.",
+            "zh": "她指出表格上的日期有误。",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.oxfordlearnersdictionaries.com/definition/english/point-out"
+          ]
+        },
+        {
+          "id": "point-out-learner-2",
+          "pos": "短语动词〔可分开〕",
+          "meaning": "用手指等指出某人或某物所在的位置。",
+          "usage": "point someone/something out",
+          "example": {
+            "en": "He pointed out his house on the hillside.",
+            "zh": "他指了指山坡上的自家房子。",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.oxfordlearnersdictionaries.com/definition/english/point-out"
+          ]
+        }
+      ],
+      "contextSenseId": "point-out-learner-1",
+      "context": "Let me point out one difference between the two options.",
+      "bridgeText": "point out 是把一项信息特意指出来，让对方留意。本句要大家看到两个选项之间的一处差异；它可能是补充信息，不一定是在批评谁。"
+    },
+    {
+      "cardId": "V20261012-065",
+      "term": "rule out",
+      "writer": "learner-dictionary-author",
+      "sources": [
+        "https://www.oxfordlearnersdictionaries.com/definition/english/rule-out"
+      ],
+      "scope": "Common learner meanings and usage, with separately preserved full licensed source entries; not an exhaustive dictionary merger",
+      "senses": [
+        {
+          "id": "rule-out-learner-1",
+          "pos": "短语动词〔可分开〕",
+          "meaning": "排除某种可能、选择或人选，不再考虑。",
+          "usage": "rule something/someone out; rule out doing",
+          "example": {
+            "en": "The doctor ruled out an infection.",
+            "zh": "医生排除了感染的可能。",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.oxfordlearnersdictionaries.com/definition/english/rule-out"
+          ]
+        },
+        {
+          "id": "rule-out-learner-2",
+          "pos": "短语动词〔可分开〕",
+          "meaning": "使某种行动或结果不可能发生。",
+          "usage": "rule out the possibility of; rule someone out of",
+          "example": {
+            "en": "The injury ruled him out of the final.",
+            "zh": "伤病使他无法参加决赛。",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.oxfordlearnersdictionaries.com/definition/english/rule-out"
+          ]
+        }
+      ],
+      "contextSenseId": "rule-out-learner-1",
+      "context": "We cannot rule out a delay at this stage.",
+      "bridgeText": "cannot rule out 表示现在还不能排除一种可能。本句保留“可能延误”这个风险，但没有说延误一定发生或概率很高；它提醒大家别过早把风险当作不存在。"
+    },
+    {
+      "cardId": "V20261012-066",
+      "term": "hold off",
+      "writer": "learner-dictionary-author",
+      "sources": [
+        "https://www.oxfordlearnersdictionaries.com/definition/english/hold-off",
+        "https://dictionary.cambridge.org/dictionary/english/hold-off?topic=waiting"
+      ],
+      "scope": "Common learner meanings and usage, with separately preserved full licensed source entries; not an exhaustive dictionary merger",
+      "senses": [
+        {
+          "id": "hold-off-learner-1",
+          "pos": "短语动词",
+          "meaning": "暂缓行动，等一等再做。",
+          "usage": "hold off on something / doing; hold off until",
+          "example": {
+            "en": "We held off on buying the tickets until the dates were confirmed.",
+            "zh": "我们等日期确认后才买票。",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.oxfordlearnersdictionaries.com/definition/english/hold-off",
+            "https://dictionary.cambridge.org/dictionary/english/hold-off?topic=waiting"
+          ]
+        },
+        {
+          "id": "hold-off-learner-2",
+          "pos": "短语动词",
+          "meaning": "雨、风暴等暂时没有开始。",
+          "usage": "the rain holds off",
+          "example": {
+            "en": "We can eat outside if the rain holds off.",
+            "zh": "如果暂时不下雨，我们就可以在外面吃。",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.oxfordlearnersdictionaries.com/definition/english/hold-off"
+          ]
+        },
+        {
+          "id": "hold-off-learner-3",
+          "pos": "短语动词〔可分开〕",
+          "meaning": "抵挡对手或攻击，使其不能靠近或获胜。",
+          "usage": "hold someone off",
+          "example": {
+            "en": "The defenders held off the attack until help arrived.",
+            "zh": "防守方顶住了进攻，直到援军到来。",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.oxfordlearnersdictionaries.com/definition/english/hold-off"
+          ]
+        }
+      ],
+      "contextSenseId": "hold-off-learner-1",
+      "context": "Let's hold off on the decision until we have the results.",
+      "bridgeText": "hold off on a decision 是先不作决定，等条件更合适再说。本句给了明确的等待条件：拿到结果。这比一句“以后再说”更清楚，因为大家知道该等什么。"
+    },
+    {
+      "cardId": "V20261012-067",
+      "term": "work around",
+      "writer": "learner-dictionary-author",
+      "sources": [
+        "https://www.oxfordlearnersdictionaries.com/definition/english/work-around"
+      ],
+      "scope": "Common learner meanings and usage, with separately preserved full licensed source entries; not an exhaustive dictionary merger",
+      "senses": [
+        {
+          "id": "work-around-learner-1",
+          "pos": "短语动词",
+          "meaning": "在障碍仍存在时改变做法，使事情能够继续。",
+          "usage": "work around a problem / limitation; 名词workaround通常连写",
+          "example": {
+            "en": "We worked around the road closure by taking a different route.",
+            "zh": "道路封闭后，我们改走另一条路。",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.oxfordlearnersdictionaries.com/definition/english/work-around"
+          ]
+        }
+      ],
+      "contextSenseId": "work-around-learner-1",
+      "context": "Can we work around this constraint without changing the scope?",
+      "bridgeText": "限制暂时还在，先换一种做法让工作继续。例如文件太大不能一次发送，就分成几份发；这改变了做法，没有改变每份文件的大小限制。"
+    },
+    {
+      "cardId": "V20261012-068",
+      "term": "take on",
+      "writer": "learner-dictionary-author",
+      "sources": [
+        "https://www.oxfordlearnersdictionaries.com/definition/english/take-on"
+      ],
+      "scope": "Common learner meanings and usage, with separately preserved full licensed source entries; not an exhaustive dictionary merger",
+      "senses": [
+        {
+          "id": "take-on-learner-1",
+          "pos": "短语动词〔可分开〕",
+          "meaning": "接受并承担任务、责任或挑战。",
+          "usage": "take on work / responsibility",
+          "example": {
+            "en": "She took on the task of organizing the festival.",
+            "zh": "她承担了组织节庆活动的任务。",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.oxfordlearnersdictionaries.com/definition/english/take-on"
+          ]
+        },
+        {
+          "id": "take-on-learner-2",
+          "pos": "短语动词〔可分开〕",
+          "meaning": "雇用员工，或接收客户等。",
+          "usage": "take on staff / clients",
+          "example": {
+            "en": "The shop is taking on extra staff for the summer.",
+            "zh": "这家店正在为夏季增聘员工。",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.oxfordlearnersdictionaries.com/definition/english/take-on"
+          ]
+        },
+        {
+          "id": "take-on-learner-3",
+          "pos": "短语动词〔此义不用于被动〕",
+          "meaning": "呈现某种特征、外观或意义。",
+          "usage": "take on a colour / meaning",
+          "example": {
+            "en": "The story takes on a different meaning when you know the ending.",
+            "zh": "知道结局后，这个故事就有了不同的含义。",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.oxfordlearnersdictionaries.com/definition/english/take-on"
+          ]
+        },
+        {
+          "id": "take-on-learner-4",
+          "pos": "短语动词〔可分开，此义不用于被动〕",
+          "meaning": "与某人竞争、对抗或较量。",
+          "usage": "take someone on",
+          "example": {
+            "en": "The local team will take on the champions tomorrow.",
+            "zh": "本地队明天将迎战冠军队。",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.oxfordlearnersdictionaries.com/definition/english/take-on"
+          ]
+        },
+        {
+          "id": "take-on-learner-5",
+          "pos": "短语动词〔可分开〕",
+          "meaning": "车辆或船只让乘客上来，或装入燃料等。",
+          "usage": "take on passengers / fuel",
+          "example": {
+            "en": "The ship stopped to take on fuel.",
+            "zh": "船停下来补充燃料。",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.oxfordlearnersdictionaries.com/definition/english/take-on"
+          ]
+        }
+      ],
+      "contextSenseId": "take-on-learner-1",
+      "context": "Our team cannot take on another task this week.",
+      "bridgeText": "take on a task 强调接受并承担一项任务。本句说团队本周不能再接新的工作；它是在划定新增工作的容量边界，不是在汇报某项任务已经完成。"
+    },
+    {
+      "cardId": "V20261012-069",
+      "term": "weigh up",
+      "writer": "learner-dictionary-author",
+      "sources": [
+        "https://www.oxfordlearnersdictionaries.com/definition/english/weigh",
+        "https://www.oxfordlearnersdictionaries.com/definition/english/weigh-up"
+      ],
+      "scope": "Common learner meanings and usage, with separately preserved full licensed source entries; not an exhaustive dictionary merger",
+      "senses": [
+        {
+          "id": "weigh-up-learner-1",
+          "pos": "短语动词〔可分开，英式常见〕",
+          "meaning": "仔细比较信息、利弊或选项，以形成判断或作决定。",
+          "usage": "weigh up the options; weigh A against B; weigh it up",
+          "example": {
+            "en": "We weighed up the cost and convenience before choosing a flat.",
+            "zh": "选公寓前，我们比较了费用和便利程度。",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.oxfordlearnersdictionaries.com/definition/english/weigh"
+          ]
+        },
+        {
+          "id": "weigh-up-learner-2",
+          "pos": "短语动词〔可分开〕",
+          "meaning": "通过观察或交谈判断一个人的性格、能力或可信程度。",
+          "usage": "weigh someone up; weigh them up",
+          "example": {
+            "en": "She watched the new player closely, weighing him up.",
+            "zh": "她仔细观察那名新球员，评估他的能力。",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.oxfordlearnersdictionaries.com/definition/english/weigh-up"
+          ]
+        }
+      ],
+      "contextSenseId": "weigh-up-learner-1",
+      "context": "We need to weigh up the options before choosing a supplier.",
+      "bridgeText": "不只是把选项看一遍，而是比较每个选项值得什么、要付出什么。例如一家报价低但交期长，另一家价格高但更快；weigh up 就是把这些取舍想清楚，再作选择。"
+    },
+    {
+      "cardId": "V20261012-070",
+      "term": "wrap up",
+      "writer": "learner-dictionary-author",
+      "sources": [
+        "https://www.oxfordlearnersdictionaries.com/definition/english/wrap-up",
+        "https://www.oxfordlearnersdictionaries.com/definition/english/wrap_1"
+      ],
+      "scope": "Common learner meanings and usage, with separately preserved full licensed source entries; not an exhaustive dictionary merger",
+      "senses": [
+        {
+          "id": "wrap-up-learner-1",
+          "pos": "短语动词〔可分开〕",
+          "meaning": "把东西包起来。",
+          "usage": "wrap something up; wrap it up",
+          "example": {
+            "en": "Could you wrap the present up for me?",
+            "zh": "你能帮我把礼物包起来吗？",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.oxfordlearnersdictionaries.com/definition/english/wrap_1"
+          ]
+        },
+        {
+          "id": "wrap-up-learner-2",
+          "pos": "短语动词〔及物或不及物，非正式〕",
+          "meaning": "完成工作、结束讨论或活动。",
+          "usage": "wrap up a meeting; wrap things up",
+          "example": {
+            "en": "We should wrap up the discussion before lunch.",
+            "zh": "我们应该在午饭前结束讨论。",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.oxfordlearnersdictionaries.com/definition/english/wrap-up"
+          ]
+        },
+        {
+          "id": "wrap-up-learner-3",
+          "pos": "短语动词",
+          "meaning": "穿暖和，或给别人裹上保暖衣物。",
+          "usage": "wrap up warm; wrap someone up",
+          "example": {
+            "en": "Wrap up warm before you go outside.",
+            "zh": "出门前穿暖和些。",
+            "kind": "authored_example"
+          },
+          "sourceUrls": [
+            "https://www.oxfordlearnersdictionaries.com/definition/english/wrap-up"
+          ]
+        }
+      ],
+      "contextSenseId": "wrap-up-learner-2",
+      "context": "Let's wrap up by confirming the owner and due date.",
+      "bridgeText": "wrap up 在这里是把讨论收尾。by confirming the owner and due date 指定最后一步：确认负责人和期限。不是单纯停止说话，而是用这项确认完成本次交流。"
+    }
+  ]
+}

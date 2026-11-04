@@ -1,0 +1,2348 @@
+[
+  {
+    "cardId": "V20261012-055",
+    "reviewer": "whole50_reviewer_group3",
+    "reviewedAt": "2026-11-04",
+    "ruleVersion": "five-zone/2",
+    "fingerprint": "3cd2eeaa3765f91b8644ec05d5168de11fcbdb8aa17e842150bcd72240e270c1",
+    "hardGates": "PASS",
+    "front": {
+      "decision": "PASS",
+      "reason": "Collins COBUILD分别列方案、求婚；Oxford验证IPA，Cambridge教材支持建议加理由。当前义、不同扩展义和直接说明已逐项核查。"
+    },
+    "sourceChecks": [
+      {
+        "claimId": "lexical",
+        "verdict": "SUPPORTED",
+        "note": "Collins COBUILD分别列方案、求婚；Oxford验证IPA，Cambridge教材支持建议加理由"
+      },
+      {
+        "claimId": "connection",
+        "verdict": "SUPPORTED",
+        "note": "摆到桌上与propose/proposal对应，保留未获接受的边界；属语境教学推断；词义事实与自编场景已分开。"
+      },
+      {
+        "claimId": "syntax",
+        "verdict": "SUPPORTED",
+        "note": "review的对象及before时间要求均正确，做什么加何时直观；属语境教学推断；词义事实与自编场景已分开。"
+      },
+      {
+        "claimId": "contrast",
+        "verdict": "SUPPORTED",
+        "note": "用改开会日期区分suggestion与proposal，承认两词重叠；属语境教学推断；词义事实与自编场景已分开。"
+      },
+      {
+        "claimId": "action",
+        "verdict": "SUPPORTED",
+        "note": "今晚读并带问题回应会前任务，形成可观察的准备动作；属语境教学推断；词义事实与自编场景已分开。"
+      },
+      {
+        "claimId": "use",
+        "verdict": "SUPPORTED",
+        "note": "reasons换estimated cost给出真正可复用的替换槽；以自编用法审核，不宣称来源收录原句。"
+      }
+    ],
+    "zones": [
+      {
+        "id": "g1",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "decision": "PASS",
+        "requirementsVerdict": "PASS",
+        "reasons": {
+          "accuracy": "摆到桌上与propose/proposal对应，保留未获接受的边界",
+          "completion": "proposal本区以“把方案摆到桌上”定位任务；解释、例子和适用边界均在正文实现。",
+          "readability": "中文先说明动作再接英文，“review a proposal”与本句主题相连。",
+          "increment": "摆到桌上与propose/proposal对应，保留未获接受的边界。基本任务达成，但与直接说明仍有部分重复，可压缩重复提醒。"
+        },
+        "issues": [
+          {
+            "message": "proposal g1可减少与前区重复，保留本区的记忆联系。",
+            "blocking": false
+          }
+        ]
+      },
+      {
+        "id": "g2",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "decision": "PASS",
+        "requirementsVerdict": "PASS",
+        "reasons": {
+          "accuracy": "review的对象及before时间要求均正确，做什么加何时直观",
+          "completion": "proposal本区以“做什么＋什么时候”定位任务；解释、例子和适用边界均在正文实现。",
+          "readability": "中文先说明动作再接英文，“Please review the proposal”与本句主题相连。",
+          "increment": "review的对象及before时间要求均正确，做什么加何时直观。基本任务达成，但与直接说明仍有部分重复，可压缩重复提醒。"
+        },
+        "issues": [
+          {
+            "message": "proposal g2可减少与前区重复，保留本区的句法线索。",
+            "blocking": false
+          }
+        ]
+      },
+      {
+        "id": "g3",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "decision": "PASS",
+        "requirementsVerdict": "PASS",
+        "reasons": {
+          "accuracy": "用改开会日期区分suggestion与proposal，承认两词重叠",
+          "completion": "proposal本区以“都能表示建议”定位任务；解释、例子和适用边界均在正文实现。",
+          "readability": "中文先说明动作再接英文，“改在周五开会”与本句主题相连。",
+          "increment": "用改开会日期区分suggestion与proposal，承认两词重叠。相对前区增加了具体对照、回应或可复用表达。"
+        },
+        "issues": []
+      },
+      {
+        "id": "g4",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "decision": "PASS",
+        "requirementsVerdict": "PASS",
+        "reasons": {
+          "accuracy": "今晚读并带问题回应会前任务，形成可观察的准备动作",
+          "completion": "proposal本区以“明天要讨论这份方案”定位任务；解释、例子和适用边界均在正文实现。",
+          "readability": "中文先说明动作再接英文，“I’ll read it tonight and bring my questions tomorrow.”与本句主题相连。",
+          "increment": "今晚读并带问题回应会前任务，形成可观察的准备动作。相对前区增加了具体对照、回应或可复用表达。"
+        },
+        "issues": []
+      },
+      {
+        "id": "g5",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "decision": "PASS",
+        "requirementsVerdict": "PASS",
+        "reasons": {
+          "accuracy": "reasons换estimated cost给出真正可复用的替换槽",
+          "completion": "proposal本区以“方案只有做法、没有理由”定位任务；解释、例子和适用边界均在正文实现。",
+          "readability": "中文先说明动作再接英文，“Could you add the reasons for this change to the proposal?”与本句主题相连。",
+          "increment": "reasons换estimated cost给出真正可复用的替换槽。相对前区增加了具体对照、回应或可复用表达。"
+        },
+        "issues": []
+      }
+    ]
+  },
+  {
+    "cardId": "V20261012-056",
+    "reviewer": "whole50_reviewer_group3",
+    "reviewedAt": "2026-11-04",
+    "ruleVersion": "five-zone/2",
+    "fingerprint": "fd8931771b137dd5f4b7295824acc93f3a3e6a207a2f8f7baa276bf202de375a",
+    "hardGates": "PASS",
+    "front": {
+      "decision": "PASS",
+      "reason": "Oxford alternative_1可数选项；alternative_2第2义是非传统方式。当前义、不同扩展义和直接说明已逐项核查。"
+    },
+    "sourceChecks": [
+      {
+        "claimId": "lexical",
+        "verdict": "SUPPORTED",
+        "note": "Oxford alternative_1可数选项；alternative_2第2义是非传统方式"
+      },
+      {
+        "claimId": "connection",
+        "verdict": "SUPPORTED",
+        "note": "另一条路的类比不冒充词源，alternative to给出被替换对象；属语境教学推断；词义事实与自编场景已分开。"
+      },
+      {
+        "claimId": "syntax",
+        "verdict": "SUPPORTED",
+        "note": "should是建议、if是条件；必须避免把if加强成只有才；属语境教学推断；词义事实与自编场景已分开。"
+      },
+      {
+        "claimId": "contrast",
+        "verdict": "SUPPORTED",
+        "note": "周三既定、周五备选的对照使option差异具体；属语境教学推断；词义事实与自编场景已分开。"
+      },
+      {
+        "claimId": "pragmatics",
+        "verdict": "SUPPORTED",
+        "note": "Friday回应提供候选日期；原版只有才的条件逻辑需要纠正；属语境教学推断；词义事实与自编场景已分开。"
+      },
+      {
+        "claimId": "transfer",
+        "verdict": "SUPPORTED",
+        "note": "supplier迁移自然，但没有给出替换槽或完整的后续问答；以自编用法审核，不宣称来源收录原句。"
+      }
+    ],
+    "zones": [
+      {
+        "id": "g1",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 4,
+          "increment": 3
+        },
+        "decision": "PASS",
+        "requirementsVerdict": "PASS",
+        "reasons": {
+          "accuracy": "另一条路的类比不冒充词源，alternative to给出被替换对象",
+          "completion": "alternative本区以“用“眼前这条路走不通，还有另一条吗”作记忆提示。”定位任务；已有说明与用例，可再加一轮具体回应或操作例以巩固。",
+          "readability": "中文先说明动作再接英文，“an alternative to the current plan”与本句主题相连。",
+          "increment": "另一条路的类比不冒充词源，alternative to给出被替换对象。基本任务达成，但与直接说明仍有部分重复，可压缩重复提醒。"
+        },
+        "issues": [
+          {
+            "message": "alternative g1可减少与前区重复，保留本区的记忆联系。",
+            "blocking": false
+          }
+        ]
+      },
+      {
+        "id": "g2",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "decision": "PASS",
+        "requirementsVerdict": "PASS",
+        "reasons": {
+          "accuracy": "should是建议、if是条件；必须避免把if加强成只有才",
+          "completion": "alternative本区以“should consider 表示建议考虑，an alternative 是考虑的对象；”定位任务；解释、例子和适用边界均在正文实现。",
+          "readability": "中文先说明动作再接英文，“should consider ”与本句主题相连。",
+          "increment": "should是建议、if是条件；必须避免把if加强成只有才。基本任务达成，但与直接说明仍有部分重复，可压缩重复提醒。"
+        },
+        "issues": [
+          {
+            "message": "alternative g2可减少与前区重复，保留本区的句法线索。",
+            "blocking": false
+          }
+        ]
+      },
+      {
+        "id": "g3",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "decision": "PASS",
+        "requirementsVerdict": "PASS",
+        "reasons": {
+          "accuracy": "周三既定、周五备选的对照使option差异具体",
+          "completion": "alternative本区以“option 泛指可以选的项目，alternative 在这里更突出“换掉眼前安排的另一选择”。”定位任务；解释、例子和适用边界均在正文实现。",
+          "readability": "中文先说明动作再接英文，“option ”与本句主题相连。",
+          "increment": "周三既定、周五备选的对照使option差异具体。相对前区增加了具体对照、回应或可复用表达。"
+        },
+        "issues": []
+      },
+      {
+        "id": "g4",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "decision": "PASS",
+        "requirementsVerdict": "PASS",
+        "reasons": {
+          "accuracy": "Friday回应提供候选日期；原版只有才的条件逻辑需要纠正",
+          "completion": "alternative本区以“这句话把日期过紧的担忧转成寻找别的选择。”定位任务；解释、例子和适用边界均在正文实现。",
+          "readability": "中文先说明动作再接英文，“Could Friday work instead?”与本句主题相连。",
+          "increment": "Friday回应提供候选日期；原版只有才的条件逻辑需要纠正。基本任务达成，但与直接说明仍有部分重复，可压缩重复提醒。"
+        },
+        "issues": [
+          {
+            "message": "alternative g4可减少与前区重复，保留本区的具体回应。",
+            "blocking": false
+          }
+        ]
+      },
+      {
+        "id": "g5",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 4,
+          "increment": 3
+        },
+        "decision": "PASS",
+        "requirementsVerdict": "PASS",
+        "reasons": {
+          "accuracy": "supplier迁移自然，但没有给出替换槽或完整的后续问答",
+          "completion": "alternative本区以“自编工作表达：Do we have an alternative to this supplier?（我们有可替代这家供应商的选择吗？）适合想先摸清备用选项时。”定位任务；已有说明与用例，未给显式替换槽，迁移需要读者自行调整。",
+          "readability": "中文先说明动作再接英文，“Do we have an alternative to this supplier?”与本句主题相连。",
+          "increment": "supplier迁移自然，但没有给出替换槽或完整的后续问答。基本任务达成，但与直接说明仍有部分重复，可压缩重复提醒。"
+        },
+        "issues": [
+          {
+            "message": "alternative g5可减少与前区重复，保留本区的迁移或对照。",
+            "blocking": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "V20261012-057",
+    "reviewer": "whole50_reviewer_group3",
+    "reviewedAt": "2026-11-04",
+    "ruleVersion": "five-zone/2",
+    "fingerprint": "b44a4e6d1878e9180ea29d3137d149de1502046c5fdbe9d0cce68227d63c2efa",
+    "hardGates": "PASS",
+    "front": {
+      "decision": "PASS",
+      "reason": "Oxford compromise_1第1义双方让步；compromise_2列危及/损害。当前义、不同扩展义和直接说明已逐项核查。"
+    },
+    "sourceChecks": [
+      {
+        "claimId": "lexical",
+        "verdict": "SUPPORTED",
+        "note": "Oxford compromise_1第1义双方让步；compromise_2列危及/损害"
+      },
+      {
+        "claimId": "connection",
+        "verdict": "SUPPORTED",
+        "note": "reach a compromise和compromise on连接名词及动词，让步非单方；属语境教学推断；词义事实与自编场景已分开。"
+      },
+      {
+        "claimId": "syntax",
+        "verdict": "SUPPORTED",
+        "note": "reached过去式和on排期范围读对，未虚构让步细节；属语境教学推断；词义事实与自编场景已分开。"
+      },
+      {
+        "claimId": "contrast",
+        "verdict": "SUPPORTED",
+        "note": "都选周三与各自让步后选周三形成有效最小对照；属语境教学推断；词义事实与自编场景已分开。"
+      },
+      {
+        "claimId": "pragmatics",
+        "verdict": "SUPPORTED",
+        "note": "追问最终日期能把折中结果落实为日程；属语境教学推断；词义事实与自编场景已分开。"
+      },
+      {
+        "claimId": "transfer",
+        "verdict": "SUPPORTED",
+        "note": "delivery schedule可迁移，但若再示范一项具体让步会更可操作；以自编用法审核，不宣称来源收录原句。"
+      }
+    ],
+    "zones": [
+      {
+        "id": "g1",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "decision": "PASS",
+        "requirementsVerdict": "PASS",
+        "reasons": {
+          "accuracy": "reach a compromise和compromise on连接名词及动词，让步非单方",
+          "completion": "compromise本区以“记住“各让一点，找到能接受的安排”。”定位任务；解释、例子和适用边界均在正文实现。",
+          "readability": "中文先说明动作再接英文，“reach a compromise”与本句主题相连。",
+          "increment": "reach a compromise和compromise on连接名词及动词，让步非单方。基本任务达成，但与直接说明仍有部分重复，可压缩重复提醒。"
+        },
+        "issues": [
+          {
+            "message": "compromise g1可减少与前区重复，保留本区的记忆联系。",
+            "blocking": false
+          }
+        ]
+      },
+      {
+        "id": "g2",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 3,
+          "increment": 3
+        },
+        "decision": "PASS",
+        "requirementsVerdict": "PASS",
+        "reasons": {
+          "accuracy": "reached过去式和on排期范围读对，未虚构让步细节",
+          "completion": "compromise本区以“reached 是过去式，a compromise 是达成的结果；”定位任务；解释、例子和适用边界均在正文实现。",
+          "readability": "表达能读懂，但说明较抽象或层次稍密；“reached ”与本句主题相连。",
+          "increment": "reached过去式和on排期范围读对，未虚构让步细节。基本任务达成，但与直接说明仍有部分重复，可压缩重复提醒。"
+        },
+        "issues": [
+          {
+            "message": "compromise g2可减少与前区重复，保留本区的句法线索。",
+            "blocking": false
+          }
+        ]
+      },
+      {
+        "id": "g3",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "decision": "PASS",
+        "requirementsVerdict": "PASS",
+        "reasons": {
+          "accuracy": "都选周三与各自让步后选周三形成有效最小对照",
+          "completion": "compromise本区以“agreement 泛指达成一致；”定位任务；解释、例子和适用边界均在正文实现。",
+          "readability": "中文先说明动作再接英文，“agreement ”与本句主题相连。",
+          "increment": "都选周三与各自让步后选周三形成有效最小对照。相对前区增加了具体对照、回应或可复用表达。"
+        },
+        "issues": []
+      },
+      {
+        "id": "g4",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "decision": "PASS",
+        "requirementsVerdict": "PASS",
+        "reasons": {
+          "accuracy": "追问最终日期能把折中结果落实为日程",
+          "completion": "compromise本区以“We reached 把这句话说成结果汇报：评审日期已经谈出了折中。”定位任务；解释、例子和适用边界均在正文实现。",
+          "readability": "中文先说明动作再接英文，“What date did you agree on?”与本句主题相连。",
+          "increment": "追问最终日期能把折中结果落实为日程。基本任务达成，但与直接说明仍有部分重复，可压缩重复提醒。"
+        },
+        "issues": [
+          {
+            "message": "compromise g4可减少与前区重复，保留本区的具体回应。",
+            "blocking": false
+          }
+        ]
+      },
+      {
+        "id": "g5",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 4,
+          "increment": 3
+        },
+        "decision": "PASS",
+        "requirementsVerdict": "PASS",
+        "reasons": {
+          "accuracy": "delivery schedule可迁移，但若再示范一项具体让步会更可操作",
+          "completion": "compromise本区以“自编工作表达：Could we reach a compromise on the delivery schedule?（我们能就交付时间表达成折中吗？）适合双方安排不同、仍愿讨论调整时。”定位任务；已有说明与用例，未给显式替换槽，迁移需要读者自行调整。",
+          "readability": "中文先说明动作再接英文，“Could we reach a compromise on the delivery schedule?”与本句主题相连。",
+          "increment": "delivery schedule可迁移，但若再示范一项具体让步会更可操作。基本任务达成，但与直接说明仍有部分重复，可压缩重复提醒。"
+        },
+        "issues": [
+          {
+            "message": "compromise g5可减少与前区重复，保留本区的迁移或对照。",
+            "blocking": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "V20261012-058",
+    "reviewer": "whole50_reviewer_group3",
+    "reviewedAt": "2026-11-04",
+    "ruleVersion": "five-zone/2",
+    "fingerprint": "d3206a82dcbf8a08362e6d09ee520beacffa76f8b05fd09f4d2803b148dde98b",
+    "hardGates": "PASS",
+    "front": {
+      "decision": "PASS",
+      "reason": "Oxford negotiate有协商与设法通过障碍义；may非已达成。当前义、不同扩展义和直接说明已逐项核查。"
+    },
+    "sourceChecks": [
+      {
+        "claimId": "lexical",
+        "verdict": "SUPPORTED",
+        "note": "Oxford negotiate有协商与设法通过障碍义；may非已达成"
+      },
+      {
+        "claimId": "connection",
+        "verdict": "SUPPORTED",
+        "note": "谈什么与和谁谈形成实用搭配对，非单方更改；属语境教学推断；词义事实与自编场景已分开。"
+      },
+      {
+        "claimId": "syntax",
+        "verdict": "SUPPORTED",
+        "note": "may need to的模态与more realistic的比较含义均有解释；属语境教学推断；词义事实与自编场景已分开。"
+      },
+      {
+        "claimId": "contrast",
+        "verdict": "SUPPORTED",
+        "note": "discuss影响和negotiate条件在同一延期场景有区分；属语境教学推断；词义事实与自编场景已分开。"
+      },
+      {
+        "claimId": "pragmatics",
+        "verdict": "SUPPORTED",
+        "note": "询问可合理承诺日期把协商提议推进到准备依据；属语境教学推断；词义事实与自编场景已分开。"
+      },
+      {
+        "claimId": "transfer",
+        "verdict": "SUPPORTED",
+        "note": "allows time for testing给出期限调整的实质条件；以自编用法审核，不宣称来源收录原句。"
+      }
+    ],
+    "zones": [
+      {
+        "id": "g1",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "decision": "PASS",
+        "requirementsVerdict": "PASS",
+        "reasons": {
+          "accuracy": "谈什么与和谁谈形成实用搭配对，非单方更改",
+          "completion": "negotiate本区以“记住 negotiate a deadline，不是单方面把日期改掉，而是把期限带进讨论。”定位任务；解释、例子和适用边界均在正文实现。",
+          "readability": "中文先说明动作再接英文，“negotiate a deadline”与本句主题相连。",
+          "increment": "谈什么与和谁谈形成实用搭配对，非单方更改。基本任务达成，但与直接说明仍有部分重复，可压缩重复提醒。"
+        },
+        "issues": [
+          {
+            "message": "negotiate g1可减少与前区重复，保留本区的记忆联系。",
+            "blocking": false
+          }
+        ]
+      },
+      {
+        "id": "g2",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "decision": "PASS",
+        "requirementsVerdict": "PASS",
+        "reasons": {
+          "accuracy": "may need to的模态与more realistic的比较含义均有解释",
+          "completion": "negotiate本区以“may need to 表示可能有必要，negotiate 后直接接 a more realistic deadline。”定位任务；解释、例子和适用边界均在正文实现。",
+          "readability": "中文先说明动作再接英文，“may need to ”与本句主题相连。",
+          "increment": "may need to的模态与more realistic的比较含义均有解释。相对前区增加了具体对照、回应或可复用表达。"
+        },
+        "issues": []
+      },
+      {
+        "id": "g3",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "decision": "PASS",
+        "requirementsVerdict": "PASS",
+        "reasons": {
+          "accuracy": "discuss影响和negotiate条件在同一延期场景有区分",
+          "completion": "negotiate本区以“discuss 可以只是交换看法；”定位任务；解释、例子和适用边界均在正文实现。",
+          "readability": "中文先说明动作再接英文，“discuss ”与本句主题相连。",
+          "increment": "discuss影响和negotiate条件在同一延期场景有区分。相对前区增加了具体对照、回应或可复用表达。"
+        },
+        "issues": []
+      },
+      {
+        "id": "g4",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "decision": "PASS",
+        "requirementsVerdict": "PASS",
+        "reasons": {
+          "accuracy": "询问可合理承诺日期把协商提议推进到准备依据",
+          "completion": "negotiate本区以“may need to 保留判断空间，说话者提出“可能得重新谈日期”。”定位任务；解释、例子和适用边界均在正文实现。",
+          "readability": "中文先说明动作再接英文，“What date could we reasonably commit to?”与本句主题相连。",
+          "increment": "询问可合理承诺日期把协商提议推进到准备依据。基本任务达成，但与直接说明仍有部分重复，可压缩重复提醒。"
+        },
+        "issues": [
+          {
+            "message": "negotiate g4可减少与前区重复，保留本区的具体回应。",
+            "blocking": false
+          }
+        ]
+      },
+      {
+        "id": "g5",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "decision": "PASS",
+        "requirementsVerdict": "PASS",
+        "reasons": {
+          "accuracy": "allows time for testing给出期限调整的实质条件",
+          "completion": "negotiate本区以“自编工作表达：Can we negotiate a deadline that allows time for testing?（我们能协商一个留出测试时间的期限吗？）适合提出调整要求时，说明调整要满足的具体条件；”定位任务；解释、例子和适用边界均在正文实现。",
+          "readability": "中文先说明动作再接英文，“Can we negotiate a deadline that allows time for testing?”与本句主题相连。",
+          "increment": "allows time for testing给出期限调整的实质条件。基本任务达成，但与直接说明仍有部分重复，可压缩重复提醒。"
+        },
+        "issues": [
+          {
+            "message": "negotiate g5可减少与前区重复，保留本区的迁移或对照。",
+            "blocking": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "V20261012-059",
+    "reviewer": "whole50_reviewer_group3",
+    "reviewedAt": "2026-11-04",
+    "ruleVersion": "five-zone/2",
+    "fingerprint": "0a22db2435d0b93d52e6e958b0d8cf0300033a92148886643ed4db497cb9da3c",
+    "hardGates": "PASS",
+    "front": {
+      "decision": "PASS",
+      "reason": "Oxford conclude既可接名词活动表结束，也可接something/that表推断。当前义、不同扩展义和直接说明已逐项核查。"
+    },
+    "sourceChecks": [
+      {
+        "claimId": "lexical",
+        "verdict": "SUPPORTED",
+        "note": "Oxford conclude既可接名词活动表结束，也可接something/that表推断"
+      },
+      {
+        "claimId": "connection",
+        "verdict": "SUPPORTED",
+        "note": "活动结束和that判断均有例，帮助识别常见多义；属语境教学推断；词义事实与自编场景已分开。"
+      },
+      {
+        "claimId": "syntax",
+        "verdict": "SUPPORTED",
+        "note": "the meeting为活动宾语，by confirming是收尾方式；属语境教学推断；词义事实与自编场景已分开。"
+      },
+      {
+        "claimId": "contrast",
+        "verdict": "SUPPORTED",
+        "note": "结束和概括有先后关系示范，较正式为倾向非硬规则；属语境教学推断；词义事实与自编场景已分开。"
+      },
+      {
+        "claimId": "pragmatics",
+        "verdict": "SUPPORTED",
+        "note": "检查设备的下一步回应conclude by的最后任务；属语境教学推断；词义事实与自编场景已分开。"
+      },
+      {
+        "claimId": "transfer",
+        "verdict": "SUPPORTED",
+        "note": "总结remaining questions不等于所有问题已解决；以自编用法审核，不宣称来源收录原句。"
+      }
+    ],
+    "zones": [
+      {
+        "id": "g1",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "decision": "PASS",
+        "requirementsVerdict": "PASS",
+        "reasons": {
+          "accuracy": "活动结束和that判断均有例，帮助识别常见多义",
+          "completion": "conclude本区以“把 conclude the meeting 记成“给会议收尾”，再联系 conclude that repairs are necessary（得出需要维修的结论）。”定位任务；解释、例子和适用边界均在正文实现。",
+          "readability": "中文先说明动作再接英文，“conclude the meeting ”与本句主题相连。",
+          "increment": "活动结束和that判断均有例，帮助识别常见多义。相对前区增加了具体对照、回应或可复用表达。"
+        },
+        "issues": []
+      },
+      {
+        "id": "g2",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "decision": "PASS",
+        "requirementsVerdict": "PASS",
+        "reasons": {
+          "accuracy": "the meeting为活动宾语，by confirming是收尾方式",
+          "completion": "conclude本区以“Let's 提议共同做一件事，conclude 的对象是 the meeting；”定位任务；解释、例子和适用边界均在正文实现。",
+          "readability": "中文先说明动作再接英文，“Let's ”与本句主题相连。",
+          "increment": "the meeting为活动宾语，by confirming是收尾方式。基本任务达成，但与直接说明仍有部分重复，可压缩重复提醒。"
+        },
+        "issues": [
+          {
+            "message": "conclude g2可减少与前区重复，保留本区的句法线索。",
+            "blocking": false
+          }
+        ]
+      },
+      {
+        "id": "g3",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "decision": "PASS",
+        "requirementsVerdict": "PASS",
+        "reasons": {
+          "accuracy": "结束和概括有先后关系示范，较正式为倾向非硬规则",
+          "completion": "conclude本区以“conclude the meeting 和 end the meeting 都是结束会议，conclude 较正式；”定位任务；解释、例子和适用边界均在正文实现。",
+          "readability": "中文先说明动作再接英文，“conclude the meeting ”与本句主题相连。",
+          "increment": "结束和概括有先后关系示范，较正式为倾向非硬规则。相对前区增加了具体对照、回应或可复用表达。"
+        },
+        "issues": []
+      },
+      {
+        "id": "g4",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "decision": "PASS",
+        "requirementsVerdict": "PASS",
+        "reasons": {
+          "accuracy": "检查设备的下一步回应conclude by的最后任务",
+          "completion": "conclude本区以“Let’s 是提出共同安排，conclude 让会议进入结束阶段，by confirming 又指定最后要做的动作。”定位任务；解释、例子和适用边界均在正文实现。",
+          "readability": "中文先说明动作再接英文，“The next step is to inspect the unit on Tuesday.”与本句主题相连。",
+          "increment": "检查设备的下一步回应conclude by的最后任务。基本任务达成，但与直接说明仍有部分重复，可压缩重复提醒。"
+        },
+        "issues": [
+          {
+            "message": "conclude g4可减少与前区重复，保留本区的具体回应。",
+            "blocking": false
+          }
+        ]
+      },
+      {
+        "id": "g5",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 4,
+          "increment": 3
+        },
+        "decision": "PASS",
+        "requirementsVerdict": "PASS",
+        "reasons": {
+          "accuracy": "总结remaining questions不等于所有问题已解决",
+          "completion": "conclude本区以“自编工作表达：I'd like to conclude by summarising the remaining questions.（我想通过概括尚未解决的问题来结束。”定位任务；已有说明与用例，未给显式替换槽，迁移需要读者自行调整。",
+          "readability": "中文先说明动作再接英文，“I'd like to conclude by summarising the remaining questions.”与本句主题相连。",
+          "increment": "总结remaining questions不等于所有问题已解决。基本任务达成，但与直接说明仍有部分重复，可压缩重复提醒。"
+        },
+        "issues": [
+          {
+            "message": "conclude g5可减少与前区重复，保留本区的迁移或对照。",
+            "blocking": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "V20261012-060",
+    "reviewer": "whole50_reviewer_group3",
+    "reviewedAt": "2026-11-04",
+    "ruleVersion": "five-zone/2",
+    "fingerprint": "eca9d1b8e8aad07396caa4114b48e56d1c451ea60e53af4737edf260dfc4556a",
+    "hardGates": "PASS",
+    "front": {
+      "decision": "PASS",
+      "reason": "Oxford document_2明确动词读/ment/，document_1名词读/mənt/。当前义、不同扩展义和直接说明已逐项核查。"
+    },
+    "sourceChecks": [
+      {
+        "claimId": "lexical",
+        "verdict": "SUPPORTED",
+        "note": "Oxford document_2明确动词读/ment/，document_1名词读/mənt/"
+      },
+      {
+        "claimId": "connection",
+        "verdict": "SUPPORTED",
+        "note": "document名词材料与动词记录清楚相连；属语境教学推断；词义事实与自编场景已分开。"
+      },
+      {
+        "claimId": "syntax",
+        "verdict": "SUPPORTED",
+        "note": "decision和reason并列，it指decision，指出漏项后果；属语境教学推断；词义事实与自编场景已分开。"
+      },
+      {
+        "claimId": "contrast",
+        "verdict": "SUPPORTED",
+        "note": "讨论完成而纪要未写的例子有效区分discuss/document；属语境教学推断；词义事实与自编场景已分开。"
+      },
+      {
+        "claimId": "pragmatics",
+        "verdict": "SUPPORTED",
+        "note": "both与meeting notes回应两项对象并明确保存位置；属语境教学推断；词义事实与自编场景已分开。"
+      },
+      {
+        "claimId": "transfer",
+        "verdict": "SUPPORTED",
+        "note": "approved process变更可记录，但未给如何填写记录的例子；以自编用法审核，不宣称来源收录原句。"
+      }
+    ],
+    "zones": [
+      {
+        "id": "g1",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "decision": "PASS",
+        "requirementsVerdict": "PASS",
+        "reasons": {
+          "accuracy": "document名词材料与动词记录清楚相连",
+          "completion": "document本区以“把 a document（一份文件）与 document a decision（记录一个决定）连起来记。”定位任务；解释、例子和适用边界均在正文实现。",
+          "readability": "中文先说明动作再接英文，“a document”与本句主题相连。",
+          "increment": "document名词材料与动词记录清楚相连。相对前区增加了具体对照、回应或可复用表达。"
+        },
+        "issues": []
+      },
+      {
+        "id": "g2",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "decision": "PASS",
+        "requirementsVerdict": "PASS",
+        "reasons": {
+          "accuracy": "decision和reason并列，it指decision，指出漏项后果",
+          "completion": "document本区以“Please document 是祈使句，document 后的两个并列对象是 the decision 和 the reason behind it。”定位任务；解释、例子和适用边界均在正文实现。",
+          "readability": "中文先说明动作再接英文，“Please document ”与本句主题相连。",
+          "increment": "decision和reason并列，it指decision，指出漏项后果。相对前区增加了具体对照、回应或可复用表达。"
+        },
+        "issues": []
+      },
+      {
+        "id": "g3",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "decision": "PASS",
+        "requirementsVerdict": "PASS",
+        "reasons": {
+          "accuracy": "讨论完成而纪要未写的例子有效区分discuss/document",
+          "completion": "document本区以“discuss a decision 是讨论决定，document a decision 是留下记录。”定位任务；解释、例子和适用边界均在正文实现。",
+          "readability": "中文先说明动作再接英文，“discuss a decision ”与本句主题相连。",
+          "increment": "讨论完成而纪要未写的例子有效区分discuss/document。相对前区增加了具体对照、回应或可复用表达。"
+        },
+        "issues": []
+      },
+      {
+        "id": "g4",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "decision": "PASS",
+        "requirementsVerdict": "PASS",
+        "reasons": {
+          "accuracy": "both与meeting notes回应两项对象并明确保存位置",
+          "completion": "document本区以“Please document 提出记录任务，and 把记录对象扩成两项：决定，以及背后的理由。”定位任务；解释、例子和适用边界均在正文实现。",
+          "readability": "中文先说明动作再接英文，“I’ll add both to the meeting notes.”与本句主题相连。",
+          "increment": "both与meeting notes回应两项对象并明确保存位置。相对前区增加了具体对照、回应或可复用表达。"
+        },
+        "issues": []
+      },
+      {
+        "id": "g5",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 4,
+          "increment": 3
+        },
+        "decision": "PASS",
+        "requirementsVerdict": "PASS",
+        "reasons": {
+          "accuracy": "approved process变更可记录，但未给如何填写记录的例子",
+          "completion": "document本区以“自编工作表达：Please document any changes to the agreed process.（请记录对已议定流程的任何改动。”定位任务；已有说明与用例，未给显式替换槽，迁移需要读者自行调整。",
+          "readability": "中文先说明动作再接英文，“Please document any changes to the agreed process.”与本句主题相连。",
+          "increment": "approved process变更可记录，但未给如何填写记录的例子。基本任务达成，但与直接说明仍有部分重复，可压缩重复提醒。"
+        },
+        "issues": [
+          {
+            "message": "document g5可减少与前区重复，保留本区的迁移或对照。",
+            "blocking": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "V20261012-061",
+    "reviewer": "whole50_reviewer_group3",
+    "reviewedAt": "2026-11-04",
+    "ruleVersion": "five-zone/2",
+    "fingerprint": "dd34e32109213322819a35d1f776a2c351980f0dd2973d022311207cf439864b",
+    "hardGates": "PASS",
+    "front": {
+      "decision": "PASS",
+      "reason": "Oxford follow-up_1后续行动，_2是形容词；Cambridge补验follow up on。当前义、不同扩展义和直接说明已逐项核查。"
+    },
+    "sourceChecks": [
+      {
+        "claimId": "lexical",
+        "verdict": "SUPPORTED",
+        "note": "Oxford follow-up_1后续行动，_2是形容词；Cambridge补验follow up on"
+      },
+      {
+        "claimId": "connection",
+        "verdict": "SUPPORTED",
+        "note": "先前动作加后续动作的联系清楚，连字符用法有提醒；属语境教学推断；词义事实与自编场景已分开。"
+      },
+      {
+        "claimId": "syntax",
+        "verdict": "SUPPORTED",
+        "note": "will承诺、on事项、tomorrow时间三项完整，跟进非完成；属语境教学推断；词义事实与自编场景已分开。"
+      },
+      {
+        "claimId": "contrast",
+        "verdict": "SUPPORTED",
+        "note": "首次检查与会后追问构成对照，with人/on事可复用；属语境教学推断；词义事实与自编场景已分开。"
+      },
+      {
+        "claimId": "pragmatics",
+        "verdict": "SUPPORTED",
+        "note": "要求未结时回报可推进工作，但只有一轮接话；属语境教学推断；词义事实与自编场景已分开。"
+      },
+      {
+        "claimId": "transfer",
+        "verdict": "SUPPORTED",
+        "note": "missing information加this afternoon比裸follow up更明确；以自编用法审核，不宣称来源收录原句。"
+      }
+    ],
+    "zones": [
+      {
+        "id": "g1",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "decision": "PASS",
+        "requirementsVerdict": "PASS",
+        "reasons": {
+          "accuracy": "先前动作加后续动作的联系清楚，连字符用法有提醒",
+          "completion": "follow up本区以“把它记成“上次之后，再做下一步”，重点在前后两次行动有关联。”定位任务；解释、例子和适用边界均在正文实现。",
+          "readability": "中文先说明动作再接英文，“follow up on an action ”与本句主题相连。",
+          "increment": "先前动作加后续动作的联系清楚，连字符用法有提醒。基本任务达成，但与直接说明仍有部分重复，可压缩重复提醒。"
+        },
+        "issues": [
+          {
+            "message": "follow up g1可减少与前区重复，保留本区的记忆联系。",
+            "blocking": false
+          }
+        ]
+      },
+      {
+        "id": "g2",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "decision": "PASS",
+        "requirementsVerdict": "PASS",
+        "reasons": {
+          "accuracy": "will承诺、on事项、tomorrow时间三项完整，跟进非完成",
+          "completion": "follow up本区以“I'll 是 I will，表示这里承担下一次行动；”定位任务；解释、例子和适用边界均在正文实现。",
+          "readability": "中文先说明动作再接英文，“I'll ”与本句主题相连。",
+          "increment": "will承诺、on事项、tomorrow时间三项完整，跟进非完成。相对前区增加了具体对照、回应或可复用表达。"
+        },
+        "issues": []
+      },
+      {
+        "id": "g3",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "decision": "PASS",
+        "requirementsVerdict": "PASS",
+        "reasons": {
+          "accuracy": "首次检查与会后追问构成对照，with人/on事可复用",
+          "completion": "follow up本区以“check 可以是任何一次检查，follow up 更突出接着此前的事往下做。”定位任务；解释、例子和适用边界均在正文实现。",
+          "readability": "中文先说明动作再接英文，“check ”与本句主题相连。",
+          "increment": "首次检查与会后追问构成对照，with人/on事可复用。相对前区增加了具体对照、回应或可复用表达。"
+        },
+        "issues": []
+      },
+      {
+        "id": "g4",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 4,
+          "increment": 3
+        },
+        "decision": "PASS",
+        "requirementsVerdict": "PASS",
+        "reasons": {
+          "accuracy": "要求未结时回报可推进工作，但只有一轮接话",
+          "completion": "follow up本区以“I’ll 把这句话变成承诺，on the open action 指定跟进哪件事，tomorrow 给出时间。”定位任务；已有说明与用例，可再加一轮具体回应或操作例以巩固。",
+          "readability": "中文先说明动作再接英文，“Please let me know if it is still open.”与本句主题相连。",
+          "increment": "要求未结时回报可推进工作，但只有一轮接话。基本任务达成，但与直接说明仍有部分重复，可压缩重复提醒。"
+        },
+        "issues": [
+          {
+            "message": "follow up g4可减少与前区重复，保留本区的具体回应。",
+            "blocking": false
+          }
+        ]
+      },
+      {
+        "id": "g5",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "decision": "PASS",
+        "requirementsVerdict": "PASS",
+        "reasons": {
+          "accuracy": "missing information加this afternoon比裸follow up更明确",
+          "completion": "follow up本区以“自编工作表达：I'll follow up on the missing information this afternoon.（今天下午我会跟进缺失的信息。”定位任务；解释、例子和适用边界均在正文实现。",
+          "readability": "中文先说明动作再接英文，“I'll follow up on the missing information this afternoon.”与本句主题相连。",
+          "increment": "missing information加this afternoon比裸follow up更明确。基本任务达成，但与直接说明仍有部分重复，可压缩重复提醒。"
+        },
+        "issues": [
+          {
+            "message": "follow up g5可减少与前区重复，保留本区的迁移或对照。",
+            "blocking": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "V20261012-062",
+    "reviewer": "whole50_reviewer_group3",
+    "reviewedAt": "2026-11-04",
+    "ruleVersion": "five-zone/2",
+    "fingerprint": "8faa09a0c65ed8ad108be2a9866a68251ad6015fc7579d185a82e67f9e03d252",
+    "hardGates": "PASS",
+    "front": {
+      "decision": "PASS",
+      "reason": "Oxford bring-up分别列提出话题、养育；可说bring it up。当前义、不同扩展义和直接说明已逐项核查。"
+    },
+    "sourceChecks": [
+      {
+        "claimId": "lexical",
+        "verdict": "SUPPORTED",
+        "note": "Oxford bring-up分别列提出话题、养育；可说bring it up"
+      },
+      {
+        "claimId": "connection",
+        "verdict": "SUPPORTED",
+        "note": "issue宾语锁定谈话义，与养育义区分；属语境教学推断；词义事实与自编场景已分开。"
+      },
+      {
+        "claimId": "syntax",
+        "verdict": "SUPPORTED",
+        "note": "bring it up的代词位置与Oxford及BC一致；属语境教学推断；词义事实与自编场景已分开。"
+      },
+      {
+        "claimId": "contrast",
+        "verdict": "SUPPORTED",
+        "note": "引入议题再讨论解决方案的先后让辨析易懂；属语境教学推断；词义事实与自编场景已分开。"
+      },
+      {
+        "claimId": "pragmatics",
+        "verdict": "SUPPORTED",
+        "note": "Sure回应给出发言入口，兼顾时间不足时的应对；属语境教学推断；词义事实与自编场景已分开。"
+      },
+      {
+        "claimId": "transfer",
+        "verdict": "SUPPORTED",
+        "note": "staffing与next meeting把主题和时机说清，但无替换槽；以自编用法审核，不宣称来源收录原句。"
+      }
+    ],
+    "zones": [
+      {
+        "id": "g1",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "decision": "PASS",
+        "requirementsVerdict": "PASS",
+        "reasons": {
+          "accuracy": "issue宾语锁定谈话义，与养育义区分",
+          "completion": "bring up本区以“把 bring up an issue 连成一块，记住它负责让话题进入对话。”定位任务；解释、例子和适用边界均在正文实现。",
+          "readability": "中文先说明动作再接英文，“bring up an issue ”与本句主题相连。",
+          "increment": "issue宾语锁定谈话义，与养育义区分。基本任务达成，但与直接说明仍有部分重复，可压缩重复提醒。"
+        },
+        "issues": [
+          {
+            "message": "bring up g1可减少与前区重复，保留本区的记忆联系。",
+            "blocking": false
+          }
+        ]
+      },
+      {
+        "id": "g2",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "decision": "PASS",
+        "requirementsVerdict": "PASS",
+        "reasons": {
+          "accuracy": "bring it up的代词位置与Oxford及BC一致",
+          "completion": "bring up本区以“I'd like to 后接 bring up，表示想做什么；”定位任务；解释、例子和适用边界均在正文实现。",
+          "readability": "中文先说明动作再接英文，“I'd like to ”与本句主题相连。",
+          "increment": "bring it up的代词位置与Oxford及BC一致。相对前区增加了具体对照、回应或可复用表达。"
+        },
+        "issues": []
+      },
+      {
+        "id": "g3",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "decision": "PASS",
+        "requirementsVerdict": "PASS",
+        "reasons": {
+          "accuracy": "引入议题再讨论解决方案的先后让辨析易懂",
+          "completion": "bring up本区以“bring up 侧重把话题引入，discuss 侧重已经围绕它展开交流。”定位任务；解释、例子和适用边界均在正文实现。",
+          "readability": "中文先说明动作再接英文，“bring up ”与本句主题相连。",
+          "increment": "引入议题再讨论解决方案的先后让辨析易懂。相对前区增加了具体对照、回应或可复用表达。"
+        },
+        "issues": []
+      },
+      {
+        "id": "g4",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "decision": "PASS",
+        "requirementsVerdict": "PASS",
+        "reasons": {
+          "accuracy": "Sure回应给出发言入口，兼顾时间不足时的应对",
+          "completion": "bring up本区以“I’d like to 先表达想说一件事，before we finish 说明希望现在留一点时间。”定位任务；解释、例子和适用边界均在正文实现。",
+          "readability": "中文先说明动作再接英文，“Sure—what’s the issue?”与本句主题相连。",
+          "increment": "Sure回应给出发言入口，兼顾时间不足时的应对。相对前区增加了具体对照、回应或可复用表达。"
+        },
+        "issues": []
+      },
+      {
+        "id": "g5",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 4,
+          "increment": 3
+        },
+        "decision": "PASS",
+        "requirementsVerdict": "PASS",
+        "reasons": {
+          "accuracy": "staffing与next meeting把主题和时机说清，但无替换槽",
+          "completion": "bring up本区以“自编工作表达：Could we bring up the staffing issue at the next meeting?（我们能在下次会议提出人员配置问题吗？）适合安排讨论时机。”定位任务；已有说明与用例，未给显式替换槽，迁移需要读者自行调整。",
+          "readability": "中文先说明动作再接英文，“Could we bring up the staffing issue at the next meeting?”与本句主题相连。",
+          "increment": "staffing与next meeting把主题和时机说清，但无替换槽。基本任务达成，但与直接说明仍有部分重复，可压缩重复提醒。"
+        },
+        "issues": [
+          {
+            "message": "bring up g5可减少与前区重复，保留本区的迁移或对照。",
+            "blocking": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "V20261012-063",
+    "reviewer": "whole50_reviewer_group3",
+    "reviewedAt": "2026-11-04",
+    "ruleVersion": "five-zone/2",
+    "fingerprint": "46364d98b1c6533c952601e7696d05e32897743fdd1cf48351a0db17fe1f263d",
+    "hardGates": "PASS",
+    "front": {
+      "decision": "PASS",
+      "reason": "Oxford walk-through_1明确逐阶段帮助理解；walk_1可另表陪同步行。当前义、不同扩展义和直接说明已逐项核查。"
+    },
+    "sourceChecks": [
+      {
+        "claimId": "lexical",
+        "verdict": "SUPPORTED",
+        "note": "Oxford walk-through_1明确逐阶段帮助理解；walk_1可另表陪同步行"
+      },
+      {
+        "claimId": "connection",
+        "verdict": "SUPPORTED",
+        "note": "walk us/me through把人和过程配对，整体理解清楚；属语境教学推断；词义事实与自编场景已分开。"
+      },
+      {
+        "claimId": "syntax",
+        "verdict": "SUPPORTED",
+        "note": "us为听众、plan为内容，through不可按普通走路删掉；属语境教学推断；词义事实与自编场景已分开。"
+      },
+      {
+        "claimId": "contrast",
+        "verdict": "SUPPORTED",
+        "note": "两分钟概览与按阶段讲解构成成熟对照；属语境教学推断；词义事实与自编场景已分开。"
+      },
+      {
+        "claimId": "pragmatics",
+        "verdict": "SUPPORTED",
+        "note": "从first stage开始回应分步请求，优于仅发文件；属语境教学推断；词义事实与自编场景已分开。"
+      },
+      {
+        "claimId": "transfer",
+        "verdict": "SUPPORTED",
+        "note": "提交表单场景可执行，允许停在不懂步骤继续问；以自编用法审核，不宣称来源收录原句。"
+      }
+    ],
+    "zones": [
+      {
+        "id": "g1",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "decision": "PASS",
+        "requirementsVerdict": "PASS",
+        "reasons": {
+          "accuracy": "walk us/me through把人和过程配对，整体理解清楚",
+          "completion": "walk through本区以“记“带我一步一步过一遍”。”定位任务；解释、例子和适用边界均在正文实现。",
+          "readability": "中文先说明动作再接英文，“walk us through the plan ”与本句主题相连。",
+          "increment": "walk us/me through把人和过程配对，整体理解清楚。相对前区增加了具体对照、回应或可复用表达。"
+        },
+        "issues": []
+      },
+      {
+        "id": "g2",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "decision": "PASS",
+        "requirementsVerdict": "PASS",
+        "reasons": {
+          "accuracy": "us为听众、plan为内容，through不可按普通走路删掉",
+          "completion": "walk through本区以“Could you 引出请求，walk us through 里的 us 是听讲的人，the revised plan 是讲解内容。”定位任务；解释、例子和适用边界均在正文实现。",
+          "readability": "中文先说明动作再接英文，“Could you ”与本句主题相连。",
+          "increment": "us为听众、plan为内容，through不可按普通走路删掉。基本任务达成，但与直接说明仍有部分重复，可压缩重复提醒。"
+        },
+        "issues": [
+          {
+            "message": "walk through g2可减少与前区重复，保留本区的句法线索。",
+            "blocking": false
+          }
+        ]
+      },
+      {
+        "id": "g3",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "decision": "PASS",
+        "requirementsVerdict": "PASS",
+        "reasons": {
+          "accuracy": "两分钟概览与按阶段讲解构成成熟对照",
+          "completion": "walk through本区以“summarize 是提炼重点，walk someone through 则更强调逐步带领。”定位任务；解释、例子和适用边界均在正文实现。",
+          "readability": "中文先说明动作再接英文，“summarize ”与本句主题相连。",
+          "increment": "两分钟概览与按阶段讲解构成成熟对照。相对前区增加了具体对照、回应或可复用表达。"
+        },
+        "issues": []
+      },
+      {
+        "id": "g4",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "decision": "PASS",
+        "requirementsVerdict": "PASS",
+        "reasons": {
+          "accuracy": "从first stage开始回应分步请求，优于仅发文件",
+          "completion": "walk through本区以“Could you 把句子写成请求，us 指定听众，revised 表明大家需要理解的是改过后的版本。”定位任务；解释、例子和适用边界均在正文实现。",
+          "readability": "中文先说明动作再接英文，“Certainly. Let’s start with the first stage.”与本句主题相连。",
+          "increment": "从first stage开始回应分步请求，优于仅发文件。基本任务达成，但与直接说明仍有部分重复，可压缩重复提醒。"
+        },
+        "issues": [
+          {
+            "message": "walk through g4可减少与前区重复，保留本区的具体回应。",
+            "blocking": false
+          }
+        ]
+      },
+      {
+        "id": "g5",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "decision": "PASS",
+        "requirementsVerdict": "PASS",
+        "reasons": {
+          "accuracy": "提交表单场景可执行，允许停在不懂步骤继续问",
+          "completion": "walk through本区以“自编工作表达：Could you walk me through how to submit this form?（你能一步步教我怎样提交这张表吗？）适合初次操作或对流程不熟时。”定位任务；解释、例子和适用边界均在正文实现。",
+          "readability": "中文先说明动作再接英文，“Could you walk me through how to submit this form?”与本句主题相连。",
+          "increment": "提交表单场景可执行，允许停在不懂步骤继续问。相对前区增加了具体对照、回应或可复用表达。"
+        },
+        "issues": []
+      }
+    ]
+  },
+  {
+    "cardId": "V20261012-064",
+    "reviewer": "whole50_reviewer_group3",
+    "reviewedAt": "2026-11-04",
+    "ruleVersion": "five-zone/2",
+    "fingerprint": "06480ac3ca97926a69accd95802d66d7d1f33b785de6c45a9aeaf5a6e5943379",
+    "hardGates": "PASS",
+    "front": {
+      "decision": "PASS",
+      "reason": "Oxford point-out分别列提醒信息、指给人辨认位置。当前义、不同扩展义和直接说明已逐项核查。"
+    },
+    "sourceChecks": [
+      {
+        "claimId": "lexical",
+        "verdict": "SUPPORTED",
+        "note": "Oxford point-out分别列提醒信息、指给人辨认位置"
+      },
+      {
+        "claimId": "connection",
+        "verdict": "SUPPORTED",
+        "note": "你看这里联系提醒功能，未声称必须实际指手；属语境教学推断；词义事实与自编场景已分开。"
+      },
+      {
+        "claimId": "syntax",
+        "verdict": "SUPPORTED",
+        "note": "one difference及between两方的结构对应原句；属语境教学推断；词义事实与自编场景已分开。"
+      },
+      {
+        "claimId": "contrast",
+        "verdict": "SUPPORTED",
+        "note": "顺便mention与特意point out用保修期差异对照；属语境教学推断；词义事实与自编场景已分开。"
+      },
+      {
+        "claimId": "pragmatics",
+        "verdict": "SUPPORTED",
+        "note": "追问哪个区别可推进但未给出实际差异示范；属语境教学推断；词义事实与自编场景已分开。"
+      },
+      {
+        "claimId": "transfer",
+        "verdict": "SUPPORTED",
+        "note": "quote excludes shipping明确可核对信息，语气不过度推断责备；以自编用法审核，不宣称来源收录原句。"
+      }
+    ],
+    "zones": [
+      {
+        "id": "g1",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 4,
+          "increment": 3
+        },
+        "decision": "PASS",
+        "requirementsVerdict": "PASS",
+        "reasons": {
+          "accuracy": "你看这里联系提醒功能，未声称必须实际指手",
+          "completion": "point out本区以“用“你看这里”帮助记住 point out 的提醒功能，动作未必真的用手指。”定位任务；已有说明与用例，可再加一轮具体回应或操作例以巩固。",
+          "readability": "中文先说明动作再接英文，“point out ”与本句主题相连。",
+          "increment": "你看这里联系提醒功能，未声称必须实际指手。基本任务达成，但与直接说明仍有部分重复，可压缩重复提醒。"
+        },
+        "issues": [
+          {
+            "message": "point out g1可减少与前区重复，保留本区的记忆联系。",
+            "blocking": false
+          }
+        ]
+      },
+      {
+        "id": "g2",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "decision": "PASS",
+        "requirementsVerdict": "PASS",
+        "reasons": {
+          "accuracy": "one difference及between两方的结构对应原句",
+          "completion": "point out本区以“Let me point out 是引出自己要说明的内容；”定位任务；解释、例子和适用边界均在正文实现。",
+          "readability": "中文先说明动作再接英文，“Let me point out ”与本句主题相连。",
+          "increment": "one difference及between两方的结构对应原句。基本任务达成，但与直接说明仍有部分重复，可压缩重复提醒。"
+        },
+        "issues": [
+          {
+            "message": "point out g2可减少与前区重复，保留本区的句法线索。",
+            "blocking": false
+          }
+        ]
+      },
+      {
+        "id": "g3",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "decision": "PASS",
+        "requirementsVerdict": "PASS",
+        "reasons": {
+          "accuracy": "顺便mention与特意point out用保修期差异对照",
+          "completion": "point out本区以“mention 可以只是顺带提到，point out 更突出“请注意这一点”。”定位任务；解释、例子和适用边界均在正文实现。",
+          "readability": "中文先说明动作再接英文，“mention ”与本句主题相连。",
+          "increment": "顺便mention与特意point out用保修期差异对照。相对前区增加了具体对照、回应或可复用表达。"
+        },
+        "issues": []
+      },
+      {
+        "id": "g4",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 3,
+          "increment": 3
+        },
+        "decision": "PASS",
+        "requirementsVerdict": "PASS",
+        "reasons": {
+          "accuracy": "追问哪个区别可推进但未给出实际差异示范",
+          "completion": "point out本区以“Let me 为接下来的说明取得发言空间，one difference 限定这次要指出的内容。”定位任务；已有说明与用例，可再加一轮具体回应或操作例以巩固。",
+          "readability": "表达能读懂，但说明较抽象或层次稍密；“Which difference should we focus on?”与本句主题相连。",
+          "increment": "追问哪个区别可推进但未给出实际差异示范。基本任务达成，但与直接说明仍有部分重复，可压缩重复提醒。"
+        },
+        "issues": [
+          {
+            "message": "point out g4可减少与前区重复，保留本区的具体回应。",
+            "blocking": false
+          }
+        ]
+      },
+      {
+        "id": "g5",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "decision": "PASS",
+        "requirementsVerdict": "PASS",
+        "reasons": {
+          "accuracy": "quote excludes shipping明确可核对信息，语气不过度推断责备",
+          "completion": "point out本区以“自编工作表达：I'd like to point out that the quote excludes shipping.（我想提醒一下，报价不含运费。”定位任务；解释、例子和适用边界均在正文实现。",
+          "readability": "中文先说明动作再接英文，“I'd like to point out that the quote excludes shipping.”与本句主题相连。",
+          "increment": "quote excludes shipping明确可核对信息，语气不过度推断责备。相对前区增加了具体对照、回应或可复用表达。"
+        },
+        "issues": []
+      }
+    ]
+  },
+  {
+    "cardId": "V20261012-065",
+    "reviewer": "whole50_reviewer_group3",
+    "reviewedAt": "2026-11-04",
+    "ruleVersion": "five-zone/2",
+    "fingerprint": "b720bdfe56a52dd33e1b3e4ee4853a6c5e17967273a6946b31ba00dcf1dbd9ea",
+    "hardGates": "PASS",
+    "front": {
+      "decision": "PASS",
+      "reason": "Oxford rule-out分别为排除可能和阻止参加/发生，否定不表示肯定会发生。当前义、不同扩展义和直接说明已逐项核查。"
+    },
+    "sourceChecks": [
+      {
+        "claimId": "lexical",
+        "verdict": "SUPPORTED",
+        "note": "Oxford rule-out分别为排除可能和阻止参加/发生，否定不表示肯定会发生"
+      },
+      {
+        "claimId": "connection",
+        "verdict": "SUPPORTED",
+        "note": "划掉候选项与cannot反向联系突出关键否定；属语境教学推断；词义事实与自编场景已分开。"
+      },
+      {
+        "claimId": "syntax",
+        "verdict": "SUPPORTED",
+        "note": "cannot和at this stage共同限制推断，不把可能变概率；属语境教学推断；词义事实与自编场景已分开。"
+      },
+      {
+        "claimId": "contrast",
+        "verdict": "SUPPORTED",
+        "note": "unlikely、rule out、expect力度有具体故障对比；属语境教学推断；词义事实与自编场景已分开。"
+      },
+      {
+        "claimId": "pragmatics",
+        "verdict": "SUPPORTED",
+        "note": "风险保留转为核查行动，但核查对象仍比较笼统；属语境教学推断；词义事实与自编场景已分开。"
+      },
+      {
+        "claimId": "transfer",
+        "verdict": "SUPPORTED",
+        "note": "yet保留未排除状态，调查场景自然；以自编用法审核，不宣称来源收录原句。"
+      }
+    ],
+    "zones": [
+      {
+        "id": "g1",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "decision": "PASS",
+        "requirementsVerdict": "PASS",
+        "reasons": {
+          "accuracy": "划掉候选项与cannot反向联系突出关键否定",
+          "completion": "rule out本区以“把 rule out 和“从可能清单里划掉”联系起来，这是记忆类比。”定位任务；解释、例子和适用边界均在正文实现。",
+          "readability": "中文先说明动作再接英文，“rule out ”与本句主题相连。",
+          "increment": "划掉候选项与cannot反向联系突出关键否定。相对前区增加了具体对照、回应或可复用表达。"
+        },
+        "issues": []
+      },
+      {
+        "id": "g2",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "decision": "PASS",
+        "requirementsVerdict": "PASS",
+        "reasons": {
+          "accuracy": "cannot和at this stage共同限制推断，不把可能变概率",
+          "completion": "rule out本区以“cannot 否定 rule out，a delay 是不能排除的情况，at this stage 限定为现阶段。”定位任务；解释、例子和适用边界均在正文实现。",
+          "readability": "中文先说明动作再接英文，“cannot ”与本句主题相连。",
+          "increment": "cannot和at this stage共同限制推断，不把可能变概率。相对前区增加了具体对照、回应或可复用表达。"
+        },
+        "issues": []
+      },
+      {
+        "id": "g3",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "decision": "PASS",
+        "requirementsVerdict": "PASS",
+        "reasons": {
+          "accuracy": "unlikely、rule out、expect力度有具体故障对比",
+          "completion": "rule out本区以“unlikely 是可能性低，ruled out 是已被排除，两者力度不同。”定位任务；解释、例子和适用边界均在正文实现。",
+          "readability": "中文先说明动作再接英文，“unlikely ”与本句主题相连。",
+          "increment": "unlikely、rule out、expect力度有具体故障对比。相对前区增加了具体对照、回应或可复用表达。"
+        },
+        "issues": []
+      },
+      {
+        "id": "g4",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 4,
+          "increment": 3
+        },
+        "decision": "PASS",
+        "requirementsVerdict": "PASS",
+        "reasons": {
+          "accuracy": "风险保留转为核查行动，但核查对象仍比较笼统",
+          "completion": "rule out本区以“cannot 与 at this stage 一起限定了判断：以目前信息，还不能排除延误。”定位任务；已有说明与用例，可再加一轮具体回应或操作例以巩固。",
+          "readability": "中文先说明动作再接英文，“What do we need to check before updating the schedule?”与本句主题相连。",
+          "increment": "风险保留转为核查行动，但核查对象仍比较笼统。基本任务达成，但与直接说明仍有部分重复，可压缩重复提醒。"
+        },
+        "issues": [
+          {
+            "message": "rule out g4可减少与前区重复，保留本区的具体回应。",
+            "blocking": false
+          }
+        ]
+      },
+      {
+        "id": "g5",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 4,
+          "increment": 3
+        },
+        "decision": "PASS",
+        "requirementsVerdict": "PASS",
+        "reasons": {
+          "accuracy": "yet保留未排除状态，调查场景自然",
+          "completion": "rule out本区以“自编工作表达：We haven't ruled out a scheduling error yet.（我们还没有排除排期错误的可能。”定位任务；已有说明与用例，未给显式替换槽，迁移需要读者自行调整。",
+          "readability": "中文先说明动作再接英文，“We haven't ruled out a scheduling error yet.”与本句主题相连。",
+          "increment": "yet保留未排除状态，调查场景自然。基本任务达成，但与直接说明仍有部分重复，可压缩重复提醒。"
+        },
+        "issues": [
+          {
+            "message": "rule out g5可减少与前区重复，保留本区的迁移或对照。",
+            "blocking": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "V20261012-066",
+    "reviewer": "whole50_reviewer_group3",
+    "reviewedAt": "2026-11-04",
+    "ruleVersion": "five-zone/2",
+    "fingerprint": "396b67f839adf305c8032de411d94ca26f36895a4074fe73ed4ed9a0640f7fde",
+    "hardGates": "PASS",
+    "front": {
+      "decision": "PASS",
+      "reason": "Oxford hold-off有暂不行动和雨未开始，Cambridge另证hold off on。当前义、不同扩展义和直接说明已逐项核查。"
+    },
+    "sourceChecks": [
+      {
+        "claimId": "lexical",
+        "verdict": "SUPPORTED",
+        "note": "Oxford hold-off有暂不行动和雨未开始，Cambridge另证hold off on"
+      },
+      {
+        "claimId": "connection",
+        "verdict": "SUPPORTED",
+        "note": "暂放决定与until边界呼应，不等于取消；属语境教学推断；词义事实与自编场景已分开。"
+      },
+      {
+        "claimId": "syntax",
+        "verdict": "SUPPORTED",
+        "note": "on后对象和until触发条件准确，doing变体有出处；属语境教学推断；词义事实与自编场景已分开。"
+      },
+      {
+        "claimId": "contrast",
+        "verdict": "SUPPORTED",
+        "note": "先不发报告与取消发送构成容易理解的对照；属语境教学推断；词义事实与自编场景已分开。"
+      },
+      {
+        "claimId": "pragmatics",
+        "verdict": "SUPPORTED",
+        "note": "结果一到就分享，使等待有明确的信息接手者；属语境教学推断；词义事实与自编场景已分开。"
+      },
+      {
+        "claimId": "transfer",
+        "verdict": "SUPPORTED",
+        "note": "sending report与figures checked绑定动作和解除条件；以自编用法审核，不宣称来源收录原句。"
+      }
+    ],
+    "zones": [
+      {
+        "id": "g1",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "decision": "PASS",
+        "requirementsVerdict": "PASS",
+        "reasons": {
+          "accuracy": "暂放决定与until边界呼应，不等于取消",
+          "completion": "hold off本区以“把 hold off on a decision 记成“决定先放一下”，它留下以后继续的空间。”定位任务；解释、例子和适用边界均在正文实现。",
+          "readability": "中文先说明动作再接英文，“hold off on a decision ”与本句主题相连。",
+          "increment": "暂放决定与until边界呼应，不等于取消。基本任务达成，但与直接说明仍有部分重复，可压缩重复提醒。"
+        },
+        "issues": [
+          {
+            "message": "hold off g1可减少与前区重复，保留本区的记忆联系。",
+            "blocking": false
+          }
+        ]
+      },
+      {
+        "id": "g2",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "decision": "PASS",
+        "requirementsVerdict": "PASS",
+        "reasons": {
+          "accuracy": "on后对象和until触发条件准确，doing变体有出处",
+          "completion": "hold off本区以“Let's 提出共同安排，hold off on 后接 the decision；”定位任务；解释、例子和适用边界均在正文实现。",
+          "readability": "中文先说明动作再接英文，“Let's ”与本句主题相连。",
+          "increment": "on后对象和until触发条件准确，doing变体有出处。相对前区增加了具体对照、回应或可复用表达。"
+        },
+        "issues": []
+      },
+      {
+        "id": "g3",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "decision": "PASS",
+        "requirementsVerdict": "PASS",
+        "reasons": {
+          "accuracy": "先不发报告与取消发送构成容易理解的对照",
+          "completion": "hold off本区以“hold off 表示先别做，cancel 表示取消。”定位任务；解释、例子和适用边界均在正文实现。",
+          "readability": "中文先说明动作再接英文，“hold off ”与本句主题相连。",
+          "increment": "先不发报告与取消发送构成容易理解的对照。相对前区增加了具体对照、回应或可复用表达。"
+        },
+        "issues": []
+      },
+      {
+        "id": "g4",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "decision": "PASS",
+        "requirementsVerdict": "PASS",
+        "reasons": {
+          "accuracy": "结果一到就分享，使等待有明确的信息接手者",
+          "completion": "hold off本区以“Let’s 提出共同暂缓，until we have the results 指明重新行动的条件。”定位任务；解释、例子和适用边界均在正文实现。",
+          "readability": "中文先说明动作再接英文，“Agreed. I’ll share the results as soon as they arrive.”与本句主题相连。",
+          "increment": "结果一到就分享，使等待有明确的信息接手者。相对前区增加了具体对照、回应或可复用表达。"
+        },
+        "issues": []
+      },
+      {
+        "id": "g5",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "decision": "PASS",
+        "requirementsVerdict": "PASS",
+        "reasons": {
+          "accuracy": "sending report与figures checked绑定动作和解除条件",
+          "completion": "hold off本区以“自编工作表达：Can we hold off on sending the report until the figures are checked?（能等数字核对后再发送报告吗？）适合发送动作依赖数据确认时；”定位任务；解释、例子和适用边界均在正文实现。",
+          "readability": "中文先说明动作再接英文，“Can we hold off on sending the report until the figures are checked?”与本句主题相连。",
+          "increment": "sending report与figures checked绑定动作和解除条件。相对前区增加了具体对照、回应或可复用表达。"
+        },
+        "issues": []
+      }
+    ]
+  },
+  {
+    "cardId": "V20261012-067",
+    "reviewer": "whole50_reviewer_group3",
+    "reviewedAt": "2026-11-04",
+    "ruleVersion": "five-zone/2",
+    "fingerprint": "b4faa610635b9a43b43d2eed7d203747d0121a47e99b713e0f0cfd31fed2e870",
+    "hardGates": "PASS",
+    "front": {
+      "decision": "PASS",
+      "reason": "Oxford work-around明示避开影响而问题仍在；workaround为名词。当前义、不同扩展义和直接说明已逐项核查。"
+    },
+    "sourceChecks": [
+      {
+        "claimId": "lexical",
+        "verdict": "SUPPORTED",
+        "note": "Oxford work-around明示避开影响而问题仍在；workaround为名词"
+      },
+      {
+        "claimId": "connection",
+        "verdict": "SUPPORTED",
+        "note": "路障仍在换路、动词与名词workaround区分清晰；属语境教学推断；词义事实与自编场景已分开。"
+      },
+      {
+        "claimId": "syntax",
+        "verdict": "SUPPORTED",
+        "note": "without限制范围不变，避免逐字在周围工作；属语境教学推断；词义事实与自编场景已分开。"
+      },
+      {
+        "claimId": "contrast",
+        "verdict": "SUPPORTED",
+        "note": "复制导出与修好导出是具体有效的对照；属语境教学推断；词义事实与自编场景已分开。"
+      },
+      {
+        "claimId": "action",
+        "verdict": "SUPPORTED",
+        "note": "分批候选仍需核对限制，提案与确认不混同；属语境教学推断；词义事实与自编场景已分开。"
+      },
+      {
+        "claimId": "use",
+        "verdict": "SUPPORTED",
+        "note": "文件分开发送有具体动作，could与can有清楚使用条件；以自编用法审核，不宣称来源收录原句。"
+      }
+    ],
+    "zones": [
+      {
+        "id": "g1",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "decision": "PASS",
+        "requirementsVerdict": "PASS",
+        "reasons": {
+          "accuracy": "路障仍在换路、动词与名词workaround区分清晰",
+          "completion": "work around本区以“路障没搬走，先换条路”定位任务；解释、例子和适用边界均在正文实现。",
+          "readability": "中文先说明动作再接英文，“a workaround”与本句主题相连。",
+          "increment": "路障仍在换路、动词与名词workaround区分清晰。相对前区增加了具体对照、回应或可复用表达。"
+        },
+        "issues": []
+      },
+      {
+        "id": "g2",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "decision": "PASS",
+        "requirementsVerdict": "PASS",
+        "reasons": {
+          "accuracy": "without限制范围不变，避免逐字在周围工作",
+          "completion": "work around本区以“Can we work around this constraint?”定位任务；解释、例子和适用边界均在正文实现。",
+          "readability": "中文先说明动作再接英文，“without changing the scope”与本句主题相连。",
+          "increment": "without限制范围不变，避免逐字在周围工作。相对前区增加了具体对照、回应或可复用表达。"
+        },
+        "issues": []
+      },
+      {
+        "id": "g3",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "decision": "PASS",
+        "requirementsVerdict": "PASS",
+        "reasons": {
+          "accuracy": "复制导出与修好导出是具体有效的对照",
+          "completion": "work around本区以“solve a problem”定位任务；解释、例子和适用边界均在正文实现。",
+          "readability": "中文先说明动作再接英文，“软件导出功能坏了，复制数据到别的工具继续做，是 workaround；修好导出功能，才是在解决这个故障”与本句主题相连。",
+          "increment": "复制导出与修好导出是具体有效的对照。相对前区增加了具体对照、回应或可复用表达。"
+        },
+        "issues": []
+      },
+      {
+        "id": "g4",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "decision": "PASS",
+        "requirementsVerdict": "PASS",
+        "reasons": {
+          "accuracy": "分批候选仍需核对限制，提案与确认不混同",
+          "completion": "work around本区以“邀请大家找”定位任务；解释、例子和适用边界均在正文实现。",
+          "readability": "中文先说明动作再接英文，“Could we split the work into smaller batches?”与本句主题相连。",
+          "increment": "分批候选仍需核对限制，提案与确认不混同。相对前区增加了具体对照、回应或可复用表达。"
+        },
+        "issues": []
+      },
+      {
+        "id": "g5",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "decision": "PASS",
+        "requirementsVerdict": "PASS",
+        "reasons": {
+          "accuracy": "文件分开发送有具体动作，could与can有清楚使用条件",
+          "completion": "work around本区以“单个文件大小限制”定位任务；解释、例子和适用边界均在正文实现。",
+          "readability": "中文先说明动作再接英文，“We could work around the file-size limit by sending separate files.”与本句主题相连。",
+          "increment": "文件分开发送有具体动作，could与can有清楚使用条件。相对前区增加了具体对照、回应或可复用表达。"
+        },
+        "issues": []
+      }
+    ]
+  },
+  {
+    "cardId": "V20261012-068",
+    "reviewer": "whole50_reviewer_group3",
+    "reviewedAt": "2026-11-04",
+    "ruleVersion": "five-zone/2",
+    "fingerprint": "4951fae8053113067e9f030bacbb4b3a3cabb15fc73cb99e37d82c4fa20b59d4",
+    "hardGates": "PASS",
+    "front": {
+      "decision": "PASS",
+      "reason": "Oxford take-on明确接受责任及雇用员工，不能从母词逐字翻译。当前义、不同扩展义和直接说明已逐项核查。"
+    },
+    "sourceChecks": [
+      {
+        "claimId": "lexical",
+        "verdict": "SUPPORTED",
+        "note": "Oxford take-on明确接受责任及雇用员工，不能从母词逐字翻译"
+      },
+      {
+        "claimId": "connection",
+        "verdict": "SUPPORTED",
+        "note": "task锁定接受责任而非所有take on的统一译法；属语境教学推断；词义事实与自编场景已分开。"
+      },
+      {
+        "claimId": "syntax",
+        "verdict": "SUPPORTED",
+        "note": "cannot、another、this week读出容量和时间边界；属语境教学推断；词义事实与自编场景已分开。"
+      },
+      {
+        "claimId": "contrast",
+        "verdict": "SUPPORTED",
+        "note": "接下任务与开始处理按时间对照，新员工义有提示；属语境教学推断；词义事实与自编场景已分开。"
+      },
+      {
+        "claimId": "pragmatics",
+        "verdict": "SUPPORTED",
+        "note": "改问下周可否接手，回应临时容量而非永久拒绝；属语境教学推断；词义事实与自编场景已分开。"
+      },
+      {
+        "claimId": "transfer",
+        "verdict": "SUPPORTED",
+        "note": "if另一任务重分配把有条件承诺讲完整；以自编用法审核，不宣称来源收录原句。"
+      }
+    ],
+    "zones": [
+      {
+        "id": "g1",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "decision": "PASS",
+        "requirementsVerdict": "PASS",
+        "reasons": {
+          "accuracy": "task锁定接受责任而非所有take on的统一译法",
+          "completion": "take on本区以“记住 take on a task，把它看作把一份责任接到自己手上，这是学习联想。”定位任务；解释、例子和适用边界均在正文实现。",
+          "readability": "中文先说明动作再接英文，“take on a task”与本句主题相连。",
+          "increment": "task锁定接受责任而非所有take on的统一译法。基本任务达成，但与直接说明仍有部分重复，可压缩重复提醒。"
+        },
+        "issues": [
+          {
+            "message": "take on g1可减少与前区重复，保留本区的记忆联系。",
+            "blocking": false
+          }
+        ]
+      },
+      {
+        "id": "g2",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "decision": "PASS",
+        "requirementsVerdict": "PASS",
+        "reasons": {
+          "accuracy": "cannot、another、this week读出容量和时间边界",
+          "completion": "take on本区以“Our team 是主语，cannot 表示本句说的能力限制，another task 强调再加一项，this week 限定时间。”定位任务；解释、例子和适用边界均在正文实现。",
+          "readability": "中文先说明动作再接英文，“Our team ”与本句主题相连。",
+          "increment": "cannot、another、this week读出容量和时间边界。相对前区增加了具体对照、回应或可复用表达。"
+        },
+        "issues": []
+      },
+      {
+        "id": "g3",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "decision": "PASS",
+        "requirementsVerdict": "PASS",
+        "reasons": {
+          "accuracy": "接下任务与开始处理按时间对照，新员工义有提示",
+          "completion": "take on本区以“take on a task 是接下任务，work on a task 是处理任务。”定位任务；解释、例子和适用边界均在正文实现。",
+          "readability": "中文先说明动作再接英文，“take on a task ”与本句主题相连。",
+          "increment": "接下任务与开始处理按时间对照，新员工义有提示。相对前区增加了具体对照、回应或可复用表达。"
+        },
+        "issues": []
+      },
+      {
+        "id": "g4",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "decision": "PASS",
+        "requirementsVerdict": "PASS",
+        "reasons": {
+          "accuracy": "改问下周可否接手，回应临时容量而非永久拒绝",
+          "completion": "take on本区以“cannot 给出限制，another 强调是在现有工作上再加一项，this week 把限制放在本周。”定位任务；解释、例子和适用边界均在正文实现。",
+          "readability": "中文先说明动作再接英文，“Could you take it on next week instead?”与本句主题相连。",
+          "increment": "改问下周可否接手，回应临时容量而非永久拒绝。相对前区增加了具体对照、回应或可复用表达。"
+        },
+        "issues": []
+      },
+      {
+        "id": "g5",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "decision": "PASS",
+        "requirementsVerdict": "PASS",
+        "reasons": {
+          "accuracy": "if另一任务重分配把有条件承诺讲完整",
+          "completion": "take on本区以“自编工作表达：I can take on the review if another task is reassigned.（如果把另一项任务重新分配，我可以承担评审。”定位任务；解释、例子和适用边界均在正文实现。",
+          "readability": "中文先说明动作再接英文，“I can take on the review if another task is reassigned.”与本句主题相连。",
+          "increment": "if另一任务重分配把有条件承诺讲完整。相对前区增加了具体对照、回应或可复用表达。"
+        },
+        "issues": []
+      }
+    ]
+  },
+  {
+    "cardId": "V20261012-069",
+    "reviewer": "whole50_reviewer_group3",
+    "reviewedAt": "2026-11-04",
+    "ruleVersion": "five-zone/2",
+    "fingerprint": "6fce1b03c7796879679e02cf2db404e764d3403cddd915c9a41fd9b9fa800fae",
+    "hardGates": "PASS",
+    "front": {
+      "decision": "PASS",
+      "reason": "Oxford weigh第3义明确weigh something (up)/against；weigh-up另列识人。当前义、不同扩展义和直接说明已逐项核查。"
+    },
+    "sourceChecks": [
+      {
+        "claimId": "lexical",
+        "verdict": "SUPPORTED",
+        "note": "Oxford weigh第3义明确weigh something (up)/against；weigh-up另列识人"
+      },
+      {
+        "claimId": "connection",
+        "verdict": "SUPPORTED",
+        "note": "天平记忆与称重、衡量现代义相连且未冒称起源；属语境教学推断；词义事实与自编场景已分开。"
+      },
+      {
+        "claimId": "syntax",
+        "verdict": "SUPPORTED",
+        "note": "before顺序、need必要性及them位置都有说明；属语境教学推断；词义事实与自编场景已分开。"
+      },
+      {
+        "claimId": "contrast",
+        "verdict": "SUPPORTED",
+        "note": "价格和交期对照有具体利弊，against搭配补充有效；属语境教学推断；词义事实与自编场景已分开。"
+      },
+      {
+        "claimId": "action",
+        "verdict": "SUPPORTED",
+        "note": "cost quality lead time把权衡落到标准且标为自编；属语境教学推断；词义事实与自编场景已分开。"
+      },
+      {
+        "claimId": "use",
+        "verdict": "SUPPORTED",
+        "note": "time saved对extra cost及替换benefits risks真正支持迁移；以自编用法审核，不宣称来源收录原句。"
+      }
+    ],
+    "zones": [
+      {
+        "id": "g1",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "decision": "PASS",
+        "requirementsVerdict": "PASS",
+        "reasons": {
+          "accuracy": "天平记忆与称重、衡量现代义相连且未冒称起源",
+          "completion": "weigh up本区以“借天平记”定位任务；解释、例子和适用边界均在正文实现。",
+          "readability": "中文先说明动作再接英文，“weigh up the options”与本句主题相连。",
+          "increment": "天平记忆与称重、衡量现代义相连且未冒称起源。相对前区增加了具体对照、回应或可复用表达。"
+        },
+        "issues": []
+      },
+      {
+        "id": "g2",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "decision": "PASS",
+        "requirementsVerdict": "PASS",
+        "reasons": {
+          "accuracy": "before顺序、need必要性及them位置都有说明",
+          "completion": "weigh up本区以“先比较选项”定位任务；解释、例子和适用边界均在正文实现。",
+          "readability": "中文先说明动作再接英文，“weigh them up”与本句主题相连。",
+          "increment": "before顺序、need必要性及them位置都有说明。相对前区增加了具体对照、回应或可复用表达。"
+        },
+        "issues": []
+      },
+      {
+        "id": "g3",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "decision": "PASS",
+        "requirementsVerdict": "PASS",
+        "reasons": {
+          "accuracy": "价格和交期对照有具体利弊，against搭配补充有效",
+          "completion": "weigh up本区以“consider the options”定位任务；解释、例子和适用边界均在正文实现。",
+          "readability": "中文先说明动作再接英文，“甲便宜但慢，乙贵但快”与本句主题相连。",
+          "increment": "价格和交期对照有具体利弊，against搭配补充有效。相对前区增加了具体对照、回应或可复用表达。"
+        },
+        "issues": []
+      },
+      {
+        "id": "g4",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "decision": "PASS",
+        "requirementsVerdict": "PASS",
+        "reasons": {
+          "accuracy": "cost quality lead time把权衡落到标准且标为自编",
+          "completion": "weigh up本区以“先比，再定”定位任务；解释、例子和适用边界均在正文实现。",
+          "readability": "中文先说明动作再接英文，“Let’s compare cost, quality and lead time first.”与本句主题相连。",
+          "increment": "cost quality lead time把权衡落到标准且标为自编。相对前区增加了具体对照、回应或可复用表达。"
+        },
+        "issues": []
+      },
+      {
+        "id": "g5",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "decision": "PASS",
+        "requirementsVerdict": "PASS",
+        "reasons": {
+          "accuracy": "time saved对extra cost及替换benefits risks真正支持迁移",
+          "completion": "weigh up本区以“改动是否值得做”定位任务；解释、例子和适用边界均在正文实现。",
+          "readability": "中文先说明动作再接英文，“We need to weigh the time saved against the extra cost.”与本句主题相连。",
+          "increment": "time saved对extra cost及替换benefits risks真正支持迁移。相对前区增加了具体对照、回应或可复用表达。"
+        },
+        "issues": []
+      }
+    ]
+  },
+  {
+    "cardId": "V20261012-070",
+    "reviewer": "whole50_reviewer_group3",
+    "reviewedAt": "2026-11-04",
+    "ruleVersion": "five-zone/2",
+    "fingerprint": "8a2095fbe8816ab8e5e0eaaab55f5a61c103f1ddd8f38adf3878165ac9b80846",
+    "hardGates": "PASS",
+    "front": {
+      "decision": "PASS",
+      "reason": "Oxford wrap-up有结束活动及穿暖义，wrap_1为包裹基础义。当前义、不同扩展义和直接说明已逐项核查。"
+    },
+    "sourceChecks": [
+      {
+        "claimId": "lexical",
+        "verdict": "SUPPORTED",
+        "note": "Oxford wrap-up有结束活动及穿暖义，wrap_1为包裹基础义"
+      },
+      {
+        "claimId": "connection",
+        "verdict": "SUPPORTED",
+        "note": "收拢事项图像有助记忆且说明不必每次总结；属语境教学推断；词义事实与自编场景已分开。"
+      },
+      {
+        "claimId": "syntax",
+        "verdict": "SUPPORTED",
+        "note": "by confirming指方式，owner和due date双对象清楚；属语境教学推断；词义事实与自编场景已分开。"
+      },
+      {
+        "claimId": "contrast",
+        "verdict": "SUPPORTED",
+        "note": "结束与概括区别正确，但未用新对照句进一步展示；属语境教学推断；词义事实与自编场景已分开。"
+      },
+      {
+        "claimId": "pragmatics",
+        "verdict": "SUPPORTED",
+        "note": "我负责加周五前两项回应正中原句任务；属语境教学推断；词义事实与自编场景已分开。"
+      },
+      {
+        "claimId": "transfer",
+        "verdict": "SUPPORTED",
+        "note": "open issues提醒结束不等于结清，但缺少替换槽；以自编用法审核，不宣称来源收录原句。"
+      }
+    ],
+    "zones": [
+      {
+        "id": "g1",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 4,
+          "increment": 3
+        },
+        "decision": "PASS",
+        "requirementsVerdict": "PASS",
+        "reasons": {
+          "accuracy": "收拢事项图像有助记忆且说明不必每次总结",
+          "completion": "wrap up本区以“把 wrap up a discussion 整块记成讨论收尾，不要在本句逐字想成包东西。”定位任务；已有说明与用例，可再加一轮具体回应或操作例以巩固。",
+          "readability": "中文先说明动作再接英文，“wrap up a discussion ”与本句主题相连。",
+          "increment": "收拢事项图像有助记忆且说明不必每次总结。基本任务达成，但与直接说明仍有部分重复，可压缩重复提醒。"
+        },
+        "issues": [
+          {
+            "message": "wrap up g1可减少与前区重复，保留本区的记忆联系。",
+            "blocking": false
+          }
+        ]
+      },
+      {
+        "id": "g2",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "decision": "PASS",
+        "requirementsVerdict": "PASS",
+        "reasons": {
+          "accuracy": "by confirming指方式，owner和due date双对象清楚",
+          "completion": "wrap up本区以“Let's wrap up 提议收尾，后面的 by confirming 表明采用什么收尾动作。”定位任务；解释、例子和适用边界均在正文实现。",
+          "readability": "中文先说明动作再接英文，“Let's wrap up ”与本句主题相连。",
+          "increment": "by confirming指方式，owner和due date双对象清楚。相对前区增加了具体对照、回应或可复用表达。"
+        },
+        "issues": []
+      },
+      {
+        "id": "g3",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 4,
+          "increment": 3
+        },
+        "decision": "PASS",
+        "requirementsVerdict": "PASS",
+        "reasons": {
+          "accuracy": "结束与概括区别正确，但未用新对照句进一步展示",
+          "completion": "wrap up本区以“wrap up 强调结束，summarize 强调概括。”定位任务；已有说明与用例，可再加一轮具体回应或操作例以巩固。",
+          "readability": "中文先说明动作再接英文，“wrap up ”与本句主题相连。",
+          "increment": "结束与概括区别正确，但未用新对照句进一步展示。基本任务达成，但与直接说明仍有部分重复，可压缩重复提醒。"
+        },
+        "issues": [
+          {
+            "message": "wrap up g3可减少与前区重复，保留本区的迁移或对照。",
+            "blocking": false
+          }
+        ]
+      },
+      {
+        "id": "g4",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "decision": "PASS",
+        "requirementsVerdict": "PASS",
+        "reasons": {
+          "accuracy": "我负责加周五前两项回应正中原句任务",
+          "completion": "wrap up本区以“Let’s 发出收尾提议，by confirming 指明结束前要补齐两项信息：谁负责、何时完成。”定位任务；解释、例子和适用边界均在正文实现。",
+          "readability": "中文先说明动作再接英文，“I’ll handle it and finish by Friday.”与本句主题相连。",
+          "increment": "我负责加周五前两项回应正中原句任务。相对前区增加了具体对照、回应或可复用表达。"
+        },
+        "issues": []
+      },
+      {
+        "id": "g5",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 4,
+          "increment": 3
+        },
+        "decision": "PASS",
+        "requirementsVerdict": "PASS",
+        "reasons": {
+          "accuracy": "open issues提醒结束不等于结清，但缺少替换槽",
+          "completion": "wrap up本区以“自编工作表达：Let's wrap up the review and list the open issues.（我们结束这次评审，并列出尚未解决的问题吧。”定位任务；已有说明与用例，未给显式替换槽，迁移需要读者自行调整。",
+          "readability": "中文先说明动作再接英文，“Let's wrap up the review and list the open issues.”与本句主题相连。",
+          "increment": "open issues提醒结束不等于结清，但缺少替换槽。基本任务达成，但与直接说明仍有部分重复，可压缩重复提醒。"
+        },
+        "issues": [
+          {
+            "message": "wrap up g5可减少与前区重复，保留本区的迁移或对照。",
+            "blocking": false
+          }
+        ]
+      }
+    ]
+  }
+]

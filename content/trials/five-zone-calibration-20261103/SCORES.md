@@ -1,0 +1,529 @@
+# 整页分区 QA（后五区只是其中一部分）
+
+- scope: CANDIDATE；整页内容模块已审，页面功能另见browser证据
+- accountable: CANDIDATE；整页内容模块已审，页面功能另见browser证据
+- proposal: CANDIDATE；整页内容模块已审，页面功能另见browser证据
+- work around: CANDIDATE；整页内容模块已审，页面功能另见browser证据
+- weigh up: CANDIDATE；整页内容模块已审，页面功能另见browser证据
+
+## scope：前区、例句和复制负载
+
+### headword — 82.5
+
+- accuracy: 4/4 — Oxford词头/skəʊp/及不可数名词核实，define the scope符合APM用法。
+- completion: 3/4 — 词头、英式宽式IPA、词性及搭配齐全；未提供声音示范。
+- readability: 3/4 — 显示简短；n.仍是缩写，但补不可数提示。
+- increment: 3/4 — 从只看词义增加发音和define搭配，尚无搭配中文。
+
+### currentSense — 81.25
+
+- accuracy: 3/4 — 范围/工作及成果的英文释义符合当前句；中文包含/不包含说明的是边界。
+- completion: 3/4 — 词性、中英当前义齐全，单词无需机械拆词。
+- readability: 4/4 — 中文工作范围直观，英文短而容易对照。
+- increment: 3/4 — 相比大字“范围”补充项目对象，但并非更广义词典定义。
+
+### directExplanation — 88.75
+
+- accuracy: 3/4 — 功能测试/性能测试情景是合理教学例，不误称真实项目。
+- completion: 4/4 — 用同样测试为何工作量不同，解释先明确范围的作用。
+- readability: 4/4 — 具体两种测试让抽象边界容易理解。
+- increment: 3/4 — 增加成本逻辑；与后01/02仍存在教学复现。
+
+### etymology — 82.5
+
+- accuracy: 4/4 — Etymonline支持意大利/希腊路径及早期行动空间，未伪造单线演化。
+- completion: 3/4 — 历史、现代关联、回到本句三层齐全，非历史义替代现代义。
+- readability: 3/4 — scopo/skopos加解释可读；三段仍偏多。
+- increment: 3/4 — 新增真实历史，但现代/项目段与前桥接有重复。
+
+### context — 88.75
+
+- accuracy: 4/4 — 原英文before估价顺序与中文及先记提示一致。
+- completion: 3/4 — 整句、中译与当前抓手齐全。
+- readability: 4/4 — “先说清做哪些工作，再估算费用”简洁直接。
+- increment: 3/4 — 以整句强化行动顺序，部分内容与桥接重合。
+
+### additionalSenses — 86.25
+
+- accuracy: 4/4 — Oxford/Cambridge机会义支持room or opportunity，未混入当前范围义。
+- completion: 3/4 — 给出真正不同的机会/发挥余地义，不再重复前方当前义。
+- readability: 3/4 — 中英文短释易懂，但缺scope for的义项内例句。
+- increment: 4/4 — 从范围扩展到机会义，确有新信息。
+
+### examples — 88.75
+
+- accuracy: 4/4 — excludes staff training英语自然，中译“不包括”准确。
+- completion: 3/4 — 保留原主例句及一条不同补充例句；kind清楚。
+- readability: 4/4 — 补充句短而明白。
+- increment: 3/4 — excludes新增排除表达，但training场景已多次使用。
+
+### copyPayload — 82.5
+
+- accuracy: 4/4 — 冻结负载分别是scope和【深析】scope，与词头一致。
+- completion: 3/4 — 仅验收冻结静态原型的精确文本；未当成生产全文复制。
+- readability: 3/4 — 输出短且明确，按钮“原文”仍依赖原型约定。
+- increment: 3/4 — 提供交接入口；不增加词汇内容，适用范围明确。
+
+## accountable：前区、例句和复制负载
+
+### headword — 82.5
+
+- accuracy: 4/4 — Oxford /əˈkaʊntəbl/与形容词已核；accountable for outcome自然。
+- completion: 3/4 — IPA/词性/搭配齐全，未包含音频。
+- readability: 3/4 — 词头及搭配简短；adj.需要基本缩写知识。
+- increment: 3/4 — for搭配支持记忆，完整for/to说明在后文。
+
+### currentSense — 75
+
+- accuracy: 3/4 — 责任及解释义正确；中文“最终结果”比英文行动/结果及本句决定略窄。
+- completion: 3/4 — 当前义中英文与词性均有，符合本句责任场景。
+- readability: 3/4 — “作出解释并承担责任”能懂，但不如“说明理由并负责”直接。
+- increment: 3/4 — 比大字须对结果负责增加解释义，仍有重复。
+
+### directExplanation — 96.25
+
+- accuracy: 4/4 — Oxford明确对决定/行为负责并能解释；桥接未当成必须亲手干活。
+- completion: 4/4 — 把抽象问责转换成被问为何这样决定时要能回答。
+- readability: 4/4 — 谁需要交代、为何这样决定的问法具体。
+- increment: 3/4 — 解释责任的实际表现，和01抓手有部分重合。
+
+### etymology — 82.5
+
+- accuracy: 4/4 — Etymonline古法语acontable及account受托财物说明联系已核实。
+- completion: 3/4 — 历史、现代交代、本句for/to三层完整，未限于财务。
+- readability: 3/4 — 历史段含古法语但解释紧随；后两段较易读。
+- increment: 3/4 — 新增可考来历；交代责任及for/to与已有区重复。
+
+### context — 88.75
+
+- accuracy: 4/4 — One person/must/final decision与中译一致，没有擅自指定人名。
+- completion: 3/4 — 完整本句及责任人提示齐全。
+- readability: 4/4 — “明确的负责者”简明。
+- increment: 3/4 — 将释义落到决定责任，但与直接解释有重合。
+
+### additionalSenses — 86.25
+
+- accuracy: 4/4 — Cambridge accountability名词义支持，lemma明确未伪装accountable新义。
+- completion: 3/4 — 同族名词作为额外词条展示，不重复当前形容词。
+- readability: 3/4 — 中文状态或制度稍抽象，但与英文对应。
+- increment: 4/4 — 提供真正不同词形和词性，帮助词族迁移。
+
+### examples — 88.75
+
+- accuracy: 4/4 — The director is accountable for quality及“总监须对质量负责”自然准确。
+- completion: 3/4 — 主句与质量责任补充句齐全，属既有学习例。
+- readability: 4/4 — 短句容易直接理解。
+- increment: 3/4 — 由决定换到质量，但模式相同、场景细节有限。
+
+### copyPayload — 82.5
+
+- accuracy: 4/4 — 冻结负载accountable与【深析】accountable准确。
+- completion: 3/4 — 两种静态原型文本完整，未宣称生产级全文复制。
+- readability: 3/4 — 输出清晰，但未携带当前语境。
+- increment: 3/4 — 有后续深析入口，信息量仍受冻结约定限制。
+
+## proposal：前区、例句和复制负载
+
+### headword — 82.5
+
+- accuracy: 4/4 — Oxford /prəˈpəʊzl/与名词核实；本句the proposal是可数的具体方案。
+- completion: 3/4 — 词头、IPA、当前可数提示与review搭配齐全。
+- readability: 3/4 — “本句可数”比绝对说只能可数更清楚。
+- increment: 3/4 — 提供词形读法及review对象，但不含音频。
+
+### currentSense — 88.75
+
+- accuracy: 4/4 — Collins当前供考虑方案义支持中英文；未把已接受写入定义。
+- completion: 3/4 — 当前中英释义、词性完整。
+- readability: 4/4 — “供他人考虑的建议或方案”简洁。
+- increment: 3/4 — 比大字提案略具体，但本质仍是同一义的澄清。
+
+### directExplanation — 88.75
+
+- accuracy: 3/4 — 教材中方案配理由支撑工作说明，使用“通常”避免强制所有proposal长文。
+- completion: 4/4 — 解释为何方案可审阅：说明做什么和为什么。
+- readability: 4/4 — 从想法到可讨论内容的过渡自然。
+- increment: 3/4 — 有新增用途说明，和03较完整建议对照有交叉。
+
+### etymology — 82.5
+
+- accuracy: 4/4 — Etymonline支持propose+-al及古法语提出联系；未误作希腊词源。
+- completion: 3/4 — 构词历史、现代图像、回到review场景齐全。
+- readability: 3/4 — 名词后缀和古义解释可跟上，但末段批准提醒又出现。
+- increment: 3/4 — 新增历史构词；摆桌上和审阅/批准与前后内容重复。
+
+### context — 81.25
+
+- accuracy: 3/4 — 原文及中译一致；审阅不等于批准是合理边界，不断言最终结果。
+- completion: 3/4 — 本句、时间要求和先记完整。
+- readability: 4/4 — “请在明天讨论前审阅提案”直接。
+- increment: 3/4 — 落到具体时间安排；先记的批准提醒与01仍重合。
+
+### additionalSenses — 92.5
+
+- accuracy: 4/4 — Collins/Oxford求婚义均可核实，中英转述一致。
+- completion: 3/4 — 新增求婚义，按不同sense保留，不把前方当前义再列一遍。
+- readability: 4/4 — 请求结婚易懂，无额外术语。
+- increment: 4/4 — 明确说明同一词可进入完全不同生活语境。
+
+### examples — 88.75
+
+- accuracy: 4/4 — includes a training budget与培训预算译文准确。
+- completion: 3/4 — 除主句外有方案内容例句，结构完整。
+- readability: 4/4 — 英文短、中文直接。
+- increment: 3/4 — 增加includes结构与方案内容，仍是简单替换示例。
+
+### copyPayload — 82.5
+
+- accuracy: 4/4 — 冻结负载proposal及【深析】proposal匹配词头。
+- completion: 3/4 — 满足原型两种精确负载，不代表生产复制全部内容。
+- readability: 3/4 — 输出简短；没有带入本句时间背景。
+- increment: 3/4 — 可用于后续查询，但范围依旧是原型词头交接。
+
+## work around：前区、例句和复制负载
+
+### headword — 75
+
+- accuracy: 3/4 — work /wɜːk/、around /əˈraʊnd/分别核实；合写明确非整短语固定句重音。
+- completion: 3/4 — 组成词宽式读音、短语词性、constraint搭配都有。
+- readability: 3/4 — 连续IPA较长，书面备注解释组合方式但无音频。
+- increment: 3/4 — 补齐发音核验；搭配与本句基本相同。
+
+### currentSense — 90
+
+- accuracy: 4/4 — Oxford整体避开问题而不消除义匹配，work基础义明确标组词联系。
+- completion: 4/4 — 整体当前义与适用基础词联系均保留，未机械逐词翻译around。
+- readability: 3/4 — 分两块容易对照，但中文完整定义较长。
+- increment: 3/4 — 词组义及work区别有用，基础义不是新的语境义。
+
+### directExplanation — 96.25
+
+- accuracy: 4/4 — 分文件不改变单文件限制，是正确且明确的教学场景。
+- completion: 4/4 — 用办法改变/限制仍在说明核心区别。
+- readability: 4/4 — 文件太大分开传具体直观。
+- increment: 3/4 — 比定义解释机制，但05又使用文件例子。
+
+### etymology — 82.5
+
+- accuracy: 4/4 — Etymonline work古英语来源、Oxford around绕到另一侧和problem例已独立核验。
+- completion: 3/4 — 已考的单词历史与未知整短语年代分开，现代联系和本句条件齐全。
+- readability: 3/4 — 说明易懂，历史未知边界提醒略多。
+- increment: 3/4 — 新增work历史与around联系，回到本句部分重复02。
+
+### context — 88.75
+
+- accuracy: 4/4 — without changing scope条件中译完整，未将变通译成彻底解决。
+- completion: 3/4 — 英文、中译及不改范围提示齐全。
+- readability: 4/4 — “寻找不改范围的办法”直接。
+- increment: 3/4 — 强调具体约束，和直接解释有区别但与02复现。
+
+### additionalSenses — 92.5
+
+- accuracy: 4/4 — Oxford workaround名词义核实，未把词形当动词拆开。
+- completion: 3/4 — 额外名词有lemma/POS和不同sense，无前区重复。
+- readability: 4/4 — 变通办法的中文自然。
+- increment: 4/4 — 让读者把动作转成办法名词，新增词性运用。
+
+### examples — 88.75
+
+- accuracy: 4/4 — worked around storage limitation准确；中译改绕开，纠正“克服”可能误示消除。
+- completion: 3/4 — 主句加存储限制例句完整，英文沿用可核对。
+- readability: 4/4 — 句子短，中文补工作继续利于理解。
+- increment: 3/4 — 增加过去时和不同限制，但仍同一基本用法。
+
+### copyPayload — 82.5
+
+- accuracy: 4/4 — 两负载为work around及【深析】work around，保留空格。
+- completion: 3/4 — 覆盖冻结原型两种文本，未混入其他词卡。
+- readability: 3/4 — 输出可辨但不包含限制条件。
+- increment: 3/4 — 可交接词组查询，原型不承担生产语境全文负载。
+
+## weigh up：前区、例句和复制负载
+
+### headword — 75
+
+- accuracy: 3/4 — Oxford /weɪ/及up /ʌp/核实，未伪造固定短语重音。
+- completion: 3/4 — 组成词宽式IPA、短语词性和options搭配齐全。
+- readability: 3/4 — 两词IPA简短；组成方式说明位于证据中。
+- increment: 3/4 — 补齐读音出处，搭配仍与原句相同。
+
+### currentSense — 82.5
+
+- accuracy: 4/4 — Oxford weigh第3义支持当前权衡，up不译向上，基础weigh义对应。
+- completion: 3/4 — 整词组及weigh当前相关义都有，来源清楚。
+- readability: 3/4 — 中英文清楚，但两个释义接近会产生轻度重复感。
+- increment: 3/4 — 保留整体/组成联系，增量不如明确不同义项。
+
+### directExplanation — 96.25
+
+- accuracy: 4/4 — 低价慢交期与高价快交期是合理自编利弊对照。
+- completion: 4/4 — 解释不止看一遍，而是比较所付与所得。
+- readability: 4/4 — 二选一情境很容易理解。
+- increment: 3/4 — 增加取舍判断；03再次出现同一价格交期模式。
+
+### etymology — 82.5
+
+- accuracy: 4/4 — Etymonline确认古英语wegan和14世纪考虑义，正文不偷推weigh up年代。
+- completion: 3/4 — 历史/现代权重联系/当前比较次序三层完整。
+- readability: 3/4 — 古词和年代后有白话；三段说明仍较密。
+- increment: 3/4 — 新增可考语义历史，against迁移在05已有。
+
+### context — 88.75
+
+- accuracy: 4/4 — before choosing supplier与中译先权衡后选择准确。
+- completion: 3/4 — 完整原句、中译、先记齐全。
+- readability: 4/4 — “选择之前先仔细比较”短而易读。
+- increment: 3/4 — 强调语境步骤，和02/04有必要复现。
+
+### additionalSenses — 93.75
+
+- accuracy: 4/4 — Oxford称重及判断某人两条义分别核实，未混入当前选项权衡。
+- completion: 4/4 — 两个不同额外义项有独立lemma与释义，覆盖词与短语变化。
+- readability: 3/4 — 说明基本清楚，但读者需留意somebody而非options。
+- increment: 4/4 — 由决策扩到实物称重和评价人，提供新边界。
+
+### examples — 88.75
+
+- accuracy: 4/4 — weigh up benefits and risks自然，中译一致。
+- completion: 3/4 — 主句与简短祈使补充句完整。
+- readability: 4/4 — 短句可直接复用。
+- increment: 3/4 — 与后05讨论收益风险重合，增量中等。
+
+### copyPayload — 82.5
+
+- accuracy: 4/4 — 两负载weigh up及【深析】weigh up保留词组完整。
+- completion: 3/4 — 符合冻结原型精确约定，生产级全文复制另验收。
+- readability: 3/4 — 输出易识别，没有当前supplier语境。
+- increment: 3/4 — 提供继续学习入口，但不增加分析内容。
+
+# 五词逐区评分
+
+规则 five-zone/2；独立编辑判断，不代表实测学习成绩。不发布。
+
+|词条|01|02|03|04|05|加权总分|状态|
+|---|---:|---:|---:|---:|---:|---:|---|
+|scope|81.25|82.5|75|82.5|75|79.3125|CANDIDATE|
+|accountable|81.25|82.5|75|82.5|82.5|80.8125|CANDIDATE|
+|proposal|81.25|88.75|75|88.75|86.25|84.375|CANDIDATE|
+|work around|88.75|90|92.5|82.5|82.5|86.9375|CANDIDATE|
+|weigh up|88.75|93.75|75|88.75|82.5|85.75|CANDIDATE|
+
+## scope
+
+当前门禁无未解决问题
+
+### g1 — 81.25
+
+- accuracy: 3/4 — 范围义及out of scope符合Cambridge/APM；类比未冒充词源。
+- completion: 3/4 — 画边界、安装/培训正反例和关联搭配齐全。
+- readability: 4/4 — 先给“画边界”，随后一正一反例，首读容易建立图像。
+- increment: 3/4 — 比前区增加in/out搭配，但画边界仍有轻度重复。
+- 改进建议：比前区增加in/out搭配，但画边界仍有轻度重复。
+
+### g2 — 82.5
+
+- accuracy: 3/4 — before estimating所隐含主语为we，次序解释正确。
+- completion: 4/4 — 把结构转成两项动作并解释为什么影响估价，超过只列词性。
+- readability: 3/4 — “before后的estimating表示动作”可懂，但术语和因果集中在一段。
+- increment: 3/4 — 新增结构关系；与04必要性有适度交叉。
+- 改进建议：新增结构关系；与04必要性有适度交叉。
+
+### g3 — 75
+
+- accuracy: 3/4 — APM确认范围和目标可涉及同一产出，正文没有强行互斥。
+- completion: 3/4 — 培训例子能区分包含内容与预期结果，也给in/out搭配。
+- readability: 3/4 — “目标也可以直接写成要交付的成果”稍抽象，整段偏长。
+- increment: 3/4 — 有概念对照；末尾in/out已在01出现，仍有精简余地。
+- 改进建议：有概念对照；末尾in/out已在01出现，仍有精简余地。
+
+### g4 — 82.5
+
+- accuracy: 3/4 — need to、before支持准备步骤分析；未虚构已有争执。
+- completion: 4/4 — 行动、措辞线索、培训回应和纳入估价的下一步齐全。
+- readability: 3/4 — 具体回应直观，“算进或排除出估价”略书面。
+- increment: 3/4 — 新增互动回应，但顺序与02重叠。
+- 改进建议：新增互动回应，但顺序与02重叠。
+
+### g5 — 75
+
+- accuracy: 3/4 — included in the scope自然；替换为installation/data migration成立。
+- completion: 3/4 — 有临时新任务时机、完整问句、中文和替换槽。
+- readability: 3/4 — 句意明白，英文替换项可再配简短中文以降低负担。
+- increment: 3/4 — 新任务场景与替换槽增加迁移，但培训对象与04重复。
+- 改进建议：新任务场景与替换槽增加迁移，但培训对象与04重复。
+
+## accountable
+
+当前门禁无未解决问题
+
+### g1 — 81.25
+
+- accuracy: 3/4 — Cambridge官方PDF同时支持account for解释义和accountable责任义。
+- completion: 3/4 — “要负责，也要说得清”有抓手，同族联系明确。
+- readability: 4/4 — 核心抓手短而具体，后文说明容易理解。
+- increment: 3/4 — 银行账户排除与非词源提醒略多，但避免误联想。
+- 改进建议：银行账户排除与非词源提醒略多，但避免误联想。
+
+### g2 — 82.5
+
+- accuracy: 4/4 — 官方PDF直接列accountable for (doing)与to sb，must及one person限定准确。
+- completion: 3/4 — 同时解释事项/对象和本句要求，任务完成。
+- readability: 3/4 — for/to对照清楚；末句制度提醒可更短。
+- increment: 3/4 — 新增结构对照，但单一责任人解释将在04再次出现。
+- 改进建议：新增结构对照，但单一责任人解释将在04再次出现。
+
+### g3 — 75
+
+- accuracy: 3/4 — AHD同义说明支持重叠与交代责任侧重，不采RACI绝对二分。
+- completion: 3/4 — 同一报告情境有对照，hold someone accountable提供搭配。
+- readability: 3/4 — “说明报告及其问题”略抽象；若说解释数据或结论会更具体。
+- increment: 3/4 — 有实用辨析，但段落较长，不能给高效率满分。
+- 改进建议：有实用辨析，但段落较长，不能给高效率满分。
+
+### g4 — 82.5
+
+- accuracy: 3/4 — must/one person支持要求明确责任人，句子没有指名的分析正确。
+- completion: 4/4 — 说明动作、措辞、缺的姓名和自然追问，下一步清楚。
+- readability: 3/4 — 整段可懂；“责任人范围收紧”可改为“指定一个人”。
+- increment: 3/4 — 从句法推进到具体追问；与02仍有必要重复。
+- 改进建议：从句法推进到具体追问；与02仍有必要重复。
+
+### g5 — 82.5
+
+- accuracy: 4/4 — to+人、for+事项官方词典有据，合并问句自然。
+- completion: 3/4 — 交接场景、问句、译文及budget替换齐全。
+- readability: 3/4 — 可直接使用，长问句需读者稍停顿。
+- increment: 3/4 — 将02结构转为自己汇报对象的场景，新增迁移但非全新信息。
+- 改进建议：将02结构转为自己汇报对象的场景，新增迁移但非全新信息。
+
+## proposal
+
+当前门禁无未解决问题
+
+### g1 — 81.25
+
+- accuracy: 3/4 — Collins提案义与propose同族联系一致，不误作已批准。
+- completion: 3/4 — 桌上方案图像加review搭配形成抓手。
+- readability: 4/4 — 先给具体图像再解释词族，自然易懂。
+- increment: 3/4 — “供别人考虑”与桥接有重复，但搭配和图像仍有价值。
+- 改进建议：“供别人考虑”与桥接有重复，但搭配和图像仍有价值。
+
+### g2 — 88.75
+
+- accuracy: 3/4 — Please review动作、the proposal对象及before时间界限准确。
+- completion: 4/4 — 把结构归纳为做什么/什么时候，帮助读者抓句子任务。
+- readability: 4/4 — 白话解释先行，不要求先掌握语法术语。
+- increment: 3/4 — 比01增加结构，和04时间解释略重复。
+- 改进建议：比01增加结构，和04时间解释略重复。
+
+### g3 — 75
+
+- accuracy: 3/4 — Collins常正式/书面倾向及同义suggestion有据，未绝对二分。
+- completion: 3/4 — 同一会议改期情境提供具体差异、重叠限制和submit搭配。
+- readability: 3/4 — 末句较长且有双重否定，首读仍可懂但不够简练。
+- increment: 3/4 — 有效对照，但与桥接方案内容说明重复部分可压缩。
+- 改进建议：有效对照，但与桥接方案内容说明重复部分可压缩。
+
+### g4 — 88.75
+
+- accuracy: 3/4 — 原句tomorrow/before和Please review支持会前准备分析，回应标自编。
+- completion: 4/4 — 背景→要求→措辞→回应→准备完成路径完整。
+- readability: 4/4 — 今晚读、明天带问题的回应具体，直接解释这句话在做什么。
+- increment: 3/4 — 有新的承接动作；前半与02重复，所以增量不给4。
+- 改进建议：有新的承接动作；前半与02重复，所以增量不给4。
+
+### g5 — 86.25
+
+- accuracy: 3/4 — add reasons/cost to proposal自然；教材支持建议需给依据的组织思路。
+- completion: 4/4 — 时机明确，提供完整表达和信息槽替换。
+- readability: 3/4 — 表达可直接用，但长英文名词短语需要稍慢阅读。
+- increment: 4/4 — 从审阅过渡到补缺信息，增加可执行沟通动作，非重复04。
+
+
+## work around
+
+当前门禁无未解决问题
+
+### g1 — 88.75
+
+- accuracy: 4/4 — Oxford直接支持问题仍在及workaround名词，未强行词源化。
+- completion: 3/4 — 路障图像、动词/名词联系齐全。
+- readability: 4/4 — “一个说动作，一个给办法起名字”易理解。
+- increment: 3/4 — 新增词性联系，绕路图像与前区仍部分重叠。
+- 改进建议：新增词性联系，绕路图像与前区仍部分重叠。
+
+### g2 — 90
+
+- accuracy: 4/4 — Oxford结构work around something及BC整体短语解释支持，without限制准确。
+- completion: 4/4 — 解释Can we的问法、限制条件及逐词误译，关键理解任务齐全。
+- readability: 3/4 — 条理清楚但三个点在一段，略密。
+- increment: 3/4 — 明确不可逐字拆译与条件约束，和前方拆词区适度重复。
+- 改进建议：明确不可逐字拆译与条件约束，和前方拆词区适度重复。
+
+### g3 — 92.5
+
+- accuracy: 3/4 — 按Oxford未解决问题边界作教学对照，软件情境标自编。
+- completion: 4/4 — 同一软件故障中演示绕开和修好，解释结果差别。
+- readability: 4/4 — 复制数据与修好导出功能直观，易判断。
+- increment: 4/4 — 不同于词性/结构，真正增加两种做法的判断能力。
+
+
+### g4 — 82.5
+
+- accuracy: 3/4 — Can we可作共同寻策邀请；without条件明确，候选方案不冒充有效事实。
+- completion: 4/4 — 行动、线索、条件、回应和核对下一步完整。
+- readability: 3/4 — “候选做法”稍偏工作术语，但整体可跟上。
+- increment: 3/4 — 回应具体，但条件在02已有解释。
+- 改进建议：回应具体，但条件在02已有解释。
+
+### g5 — 82.5
+
+- accuracy: 3/4 — could提出可能办法、can报告可行做法是此处合理教学选择，未说二者唯一功能。
+- completion: 4/4 — 场景、整句、中文、by方法与情态选择都有。
+- readability: 3/4 — 句子较长但解释紧跟英文，能用于实际沟通。
+- increment: 3/4 — 增加by结构和确定性差异；文件例子与桥接重复，故不给4。
+- 改进建议：增加by结构和确定性差异；文件例子与桥接重复，故不给4。
+
+## weigh up
+
+当前门禁无未解决问题
+
+### g1 — 88.75
+
+- accuracy: 4/4 — Oxford weigh第2/3义支持称重与权衡，类比明确不是词源。
+- completion: 3/4 — 天平抓手及两义联系完成记忆任务。
+- readability: 4/4 — 好处/代价图像直观。
+- increment: 3/4 — 与桥接比较取舍有重复，增加基础义联系但未到最高增量。
+- 改进建议：与桥接比较取舍有重复，增加基础义联系但未到最高增量。
+
+### g2 — 93.75
+
+- accuracy: 4/4 — Oxford weigh something (up)与BC代词位置规则支持weigh them up。
+- completion: 4/4 — 句子先后顺序、need to、up功能和位置变化齐全。
+- readability: 3/4 — 信息密度偏高，需要停顿，但说明都紧贴本句。
+- increment: 4/4 — 可分结构和代词位置是前区没有的新操作知识。
+
+
+### g3 — 75
+
+- accuracy: 3/4 — consider与weigh的侧重可由权衡义合理归纳，未声称互斥。
+- completion: 3/4 — 同一价格/交期情境、choose结果及against搭配齐全。
+- readability: 3/4 — 先后对照清楚，末尾再加搭配略多。
+- increment: 3/4 — 对照有用，但甲便宜乙快与桥接相同，效率中等。
+- 改进建议：对照有用，但甲便宜乙快与桥接相同，效率中等。
+
+### g4 — 88.75
+
+- accuracy: 3/4 — need to/before支持比较在先；候选标准明确标为例子。
+- completion: 4/4 — 将抽象权衡落到成本/质量/交期，行动与回应完整。
+- readability: 4/4 — “先比，再定”易记，回应可直接接上。
+- increment: 3/4 — 新增标准化回应；原句顺序与02重复。
+- 改进建议：新增标准化回应；原句顺序与02重复。
+
+### g5 — 82.5
+
+- accuracy: 4/4 — Oxford明确weigh (up) A against B，省up的迁移形式正确。
+- completion: 3/4 — 改动是否值得做的场景、句子/中文和替换项齐全。
+- readability: 3/4 — 句子自然，但从标题weigh up转成无up形式需读者自己联系。
+- increment: 3/4 — 增加权衡两面的表达，但against搭配已在03介绍。
+- 改进建议：增加权衡两面的表达，但against搭配已在03介绍。

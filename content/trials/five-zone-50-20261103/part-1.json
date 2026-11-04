@@ -1,0 +1,1949 @@
+[
+  {
+    "cardId": "V20261012-001",
+    "term": "scope",
+    "context": "We need to define the scope before estimating the cost.",
+    "contextZh": "估算成本前，我们需要界定范围。",
+    "contextKind": "existing_public_card_example",
+    "contextSource": "input-1.json；既有公开词卡教学例句，非工作事件纪实",
+    "gloss": "范围",
+    "glossKind": "source_summary",
+    "pos": "n.",
+    "definitionEn": "the work and results included in a project",
+    "definitionZh": "项目包含和不包含的工作范围",
+    "contextTakeaway": "先说清做哪些工作，再估算费用。",
+    "bridgeText": "这里的 scope 指项目包含和不包含的工作范围。",
+    "groups": [
+      {
+        "id": "g1",
+        "title": "先记住，再联系",
+        "text": "想成给项目画边界：框里要做、框外暂不做。这是记忆类比。读到 define the scope，就联系会议里先列清交付项和排除项；否则同一份报价，双方可能想的是两套工作。",
+        "sourceIds": [
+          "lexical",
+          "method"
+        ]
+      },
+      {
+        "id": "g2",
+        "title": "句法与概念",
+        "text": "define 的宾语是 the scope，before estimating the cost 表示先后次序，省略的估算者仍是 we。本句把界定范围设为估价前的步骤；并没有说范围从此永久不能调整。",
+        "sourceIds": [
+          "lexical"
+        ]
+      },
+      {
+        "id": "g3",
+        "title": "辨析与英文邻居",
+        "text": "scope 关注包含哪些工作；objective 关注要达到什么目的。做一份测试报告可以在范围内，降低返工率则可能是目标。常用 in scope / out of scope，分别指出边界内外。",
+        "sourceIds": [
+          "lexical",
+          "method"
+        ]
+      },
+      {
+        "id": "g4",
+        "title": "这句话在做什么",
+        "text": "报价讨论若先卡在数字上，本句把下一步拉回工作边界，用 need 表明必要性。自编回应：Does the scope include training?（范围包括培训吗？）先澄清这一项，再估算对应工时。",
+        "sourceIds": [
+          "lexical",
+          "method",
+          "communication"
+        ]
+      },
+      {
+        "id": "g5",
+        "title": "工作中可以这样说",
+        "text": "自编：Could we confirm what is out of scope?（我们能确认哪些工作不在范围内吗？）需求说明已有清单、但排除项不清时使用；比笼统要求把范围写清楚更容易得到具体答复。",
+        "sourceIds": [
+          "lexical",
+          "method",
+          "communication"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "lexical",
+        "url": "https://www.collinsdictionary.com/dictionary/english/scope",
+        "title": "SCOPE — Collins English Dictionary",
+        "publisher": "HarperCollins",
+        "accessedAt": "2026-11-03",
+        "section": "COBUILD noun sense 2: area included",
+        "retrievalStatus": "index_excerpt",
+        "supportedClaims": [
+          "当前词义及词性；常见搭配（01—03）",
+          "definitionEn / definitionZh为自行转述，不是原文",
+          "句法分析为Writer对已给例句的拆解"
+        ],
+        "summaryZh": "项目包含和不包含的工作范围",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      },
+      {
+        "id": "method",
+        "url": "https://www.apm.org.uk/resources/what-is-project-management/what-is-scope-management/",
+        "title": "What is scope management?",
+        "publisher": "Association for Project Management",
+        "accessedAt": "2026-11-03",
+        "section": "Project scope; Life cycle",
+        "retrievalStatus": "full_page",
+        "supportedClaims": [
+          "明确范围内外，并记录规划所用假设。",
+          "04—05为该方法在自编职场对话中的应用；不声称来源收录原句或保证沟通效果"
+        ],
+        "summaryZh": "明确范围内外，并记录规划所用假设。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      },
+      {
+        "id": "communication",
+        "url": "https://www.apm.org.uk/resources/what-is-project-management/what-is-project-communication/",
+        "title": "What is project communication?",
+        "publisher": "Association for Project Management",
+        "accessedAt": "2026-11-03",
+        "section": "Definition; Stakeholder communication; Planning models",
+        "retrievalStatus": "partial",
+        "supportedClaims": [
+          "04的回应与下一步按明确目的、接收反馈、确认理解的方法补写"
+        ],
+        "summaryZh": "双向沟通并确认理解；具体对话为原创应用。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      }
+    ],
+    "sourceLimitations": [
+      "词典原站直接打开返回403；词义依据来自可见搜索索引内容，未声称完整抓取。",
+      "context沿用授权输入中的公开教学例句；01类比及04/05对话为作者教学补写，非真实事件。",
+      "相邻词的比较是针对本句的教学对照，不主张在全部语境中互斥；未作词源或IPA核验。"
+    ],
+    "writer": "trial_writer_1"
+  },
+  {
+    "cardId": "V20261012-002",
+    "term": "objective",
+    "context": "Our objective is to reduce the time spent on approvals.",
+    "contextZh": "我们的目标是减少审批所用的时间。",
+    "contextKind": "existing_public_card_example",
+    "contextSource": "input-1.json；既有公开词卡教学例句，非工作事件纪实",
+    "gloss": "目标",
+    "glossKind": "source_summary",
+    "pos": "n.",
+    "definitionEn": "a result that you want to achieve",
+    "definitionZh": "希望达成的具体目标",
+    "contextTakeaway": "目标是减少审批耗时。",
+    "bridgeText": "这里的 objective 指希望达成的具体目标。",
+    "groups": [
+      {
+        "id": "g1",
+        "title": "先记住，再联系",
+        "text": "可把 objective 记成工作完成后希望看到的变化，不只是今天做的动作。发出一份表单是行动，减少等待审批的时间才是本句目标。这个联系帮助你从任务清单回到做事的目的。",
+        "sourceIds": [
+          "lexical"
+        ]
+      },
+      {
+        "id": "g2",
+        "title": "句法与概念",
+        "text": "Our objective 是主语，is 后的 to reduce 说明目标内容。the time spent on approvals 中 spent 修饰 time，意思是花在审批上的时间；不是缩短批准的有效期，也不是减少审批人数。",
+        "sourceIds": [
+          "lexical"
+        ]
+      },
+      {
+        "id": "g3",
+        "title": "辨析与英文邻居",
+        "text": "objective 与 goal 都可以表示目标，前者常见于较正式的工作计划，不必硬分为永远具体与永远宽泛。deliverable 则是交出的成果；表单可以交付，审批效率的改善需要另行观察。",
+        "sourceIds": [
+          "lexical"
+        ]
+      },
+      {
+        "id": "g4",
+        "title": "这句话在做什么",
+        "text": "本句在给改进讨论定方向：评估方案时，要看它能否减少审批耗时。自编回应：How will we measure that time?（我们如何测量这段时间？）把方向接成可核实指标，而非立刻承诺某个降幅。",
+        "sourceIds": [
+          "lexical",
+          "method"
+        ]
+      },
+      {
+        "id": "g5",
+        "title": "工作中可以这样说",
+        "text": "自编：Our objective is to cut the review time by one day.（我们的目标是把评审时间缩短一天。）适合已有测量口径、正在讨论改进目标时；一天是示例目标，不能读成已经实现的结果。",
+        "sourceIds": [
+          "lexical",
+          "method"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "lexical",
+        "url": "https://dictionary.cambridge.org/dictionary/english/objective",
+        "title": "OBJECTIVE — Cambridge Dictionary",
+        "publisher": "Cambridge University Press",
+        "accessedAt": "2026-11-03",
+        "section": "noun: AIM; Business English",
+        "retrievalStatus": "index_excerpt",
+        "supportedClaims": [
+          "当前词义及词性；常见搭配（01—03）",
+          "definitionEn / definitionZh为自行转述，不是原文",
+          "句法分析为Writer对已给例句的拆解"
+        ],
+        "summaryZh": "希望达成的具体目标",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      },
+      {
+        "id": "method",
+        "url": "https://www.apm.org.uk/resources/what-is-project-management/what-is-project-communication/",
+        "title": "What is project communication?",
+        "publisher": "Association for Project Management",
+        "accessedAt": "2026-11-03",
+        "section": "Definition; Stakeholder communication; Planning models",
+        "retrievalStatus": "partial",
+        "supportedClaims": [
+          "沟通要明确目的、对象与反馈，并核对共同理解。",
+          "04—05为该方法在自编职场对话中的应用；不声称来源收录原句或保证沟通效果"
+        ],
+        "summaryZh": "沟通要明确目的、对象与反馈，并核对共同理解。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      }
+    ],
+    "sourceLimitations": [
+      "词典原站直接打开返回403；词义依据来自可见搜索索引内容，未声称完整抓取。",
+      "context沿用授权输入中的公开教学例句；01类比及04/05对话为作者教学补写，非真实事件。",
+      "相邻词的比较是针对本句的教学对照，不主张在全部语境中互斥；未作词源或IPA核验。"
+    ],
+    "writer": "trial_writer_1"
+  },
+  {
+    "cardId": "V20261012-003",
+    "term": "deliverable",
+    "context": "Please list the deliverables for the first phase.",
+    "contextZh": "请列出第一阶段的交付成果。",
+    "contextKind": "existing_public_card_example",
+    "contextSource": "input-1.json；既有公开词卡教学例句，非工作事件纪实",
+    "gloss": "交付成果",
+    "glossKind": "source_summary",
+    "pos": "n.",
+    "definitionEn": "an agreed result that a project must provide",
+    "definitionZh": "项目需要交付的成果或文件",
+    "contextTakeaway": "列的是第一阶段要交出的成果。",
+    "bridgeText": "这里的 deliverable 指项目需要交付的成果或文件。",
+    "groups": [
+      {
+        "id": "g1",
+        "title": "先记住，再联系",
+        "text": "记住“交得出、能检查”的成果，而不是只记做过多少事。开三次会通常是活动，交出会议决定形成的方案才可能是 deliverable；具体交什么，还得看项目约定，未必都是纸质文件。",
+        "sourceIds": [
+          "lexical",
+          "method"
+        ]
+      },
+      {
+        "id": "g2",
+        "title": "句法与概念",
+        "text": "Please list 是请对方列清单，deliverables 用复数，说明可能不止一项；for the first phase 把清单限定为第一阶段。句子要求说清成果，不是要求今天把第一阶段所有工作都做完。",
+        "sourceIds": [
+          "lexical"
+        ]
+      },
+      {
+        "id": "g3",
+        "title": "辨析与英文邻居",
+        "text": "deliverable 是交付的东西或成果；task 是为了产生成果而做的任务。撰写、检查、修改是任务，完成的报告是成果。与 milestone 相比，前者回答交什么，后者强调进度上的重要节点。",
+        "sourceIds": [
+          "lexical",
+          "method"
+        ]
+      },
+      {
+        "id": "g4",
+        "title": "这句话在做什么",
+        "text": "如果大家只说“第一阶段推进中”，本句要求拿出可核对的成果清单。自编回应：The first deliverable is a draft report.（第一项交付成果是报告初稿。）随后可确认版本、接收者和验收要求。",
+        "sourceIds": [
+          "lexical",
+          "method",
+          "communication"
+        ]
+      },
+      {
+        "id": "g5",
+        "title": "工作中可以这样说",
+        "text": "自编：Can we agree on the deliverables for this phase?（我们能商定这一阶段的交付成果吗？）适合分工前确认要交什么；agree on 邀请共同确定，不能把提议当作已经获得对方验收。",
+        "sourceIds": [
+          "lexical",
+          "method",
+          "communication"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "lexical",
+        "url": "https://dictionary.cambridge.org/dictionary/english/deliverable",
+        "title": "DELIVERABLE — Cambridge Dictionary",
+        "publisher": "Cambridge University Press",
+        "accessedAt": "2026-11-03",
+        "section": "Business English noun",
+        "retrievalStatus": "index_excerpt",
+        "supportedClaims": [
+          "当前词义及词性；常见搭配（01—03）",
+          "definitionEn / definitionZh为自行转述，不是原文",
+          "句法分析为Writer对已给例句的拆解"
+        ],
+        "summaryZh": "项目需要交付的成果或文件",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      },
+      {
+        "id": "method",
+        "url": "https://www.apm.org.uk/resources/glossary/",
+        "title": "Project management Glossary",
+        "publisher": "Association for Project Management",
+        "accessedAt": "2026-11-03",
+        "section": "Deliverable; Dependency; Scheduling; Scope",
+        "retrievalStatus": "partial",
+        "supportedClaims": [
+          "区分交付成果、活动关系与排期。",
+          "04—05为该方法在自编职场对话中的应用；不声称来源收录原句或保证沟通效果"
+        ],
+        "summaryZh": "区分交付成果、活动关系与排期。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      },
+      {
+        "id": "communication",
+        "url": "https://www.apm.org.uk/resources/what-is-project-management/what-is-project-communication/",
+        "title": "What is project communication?",
+        "publisher": "Association for Project Management",
+        "accessedAt": "2026-11-03",
+        "section": "Definition; Stakeholder communication; Planning models",
+        "retrievalStatus": "partial",
+        "supportedClaims": [
+          "04的回应与下一步按明确目的、接收反馈、确认理解的方法补写"
+        ],
+        "summaryZh": "双向沟通并确认理解；具体对话为原创应用。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      }
+    ],
+    "sourceLimitations": [
+      "词典原站直接打开返回403；词义依据来自可见搜索索引内容，未声称完整抓取。",
+      "context沿用授权输入中的公开教学例句；01类比及04/05对话为作者教学补写，非真实事件。",
+      "相邻词的比较是针对本句的教学对照，不主张在全部语境中互斥；未作词源或IPA核验。"
+    ],
+    "writer": "trial_writer_1"
+  },
+  {
+    "cardId": "V20261012-004",
+    "term": "milestone",
+    "context": "We reached the first milestone after the review.",
+    "contextZh": "评审后，我们达成了第一个里程碑。",
+    "contextKind": "existing_public_card_example",
+    "contextSource": "input-1.json；既有公开词卡教学例句，非工作事件纪实",
+    "gloss": "里程碑",
+    "glossKind": "source_summary",
+    "pos": "n.",
+    "definitionEn": "an important point that shows progress in a project",
+    "definitionZh": "标志阶段成果达成的重要节点",
+    "contextTakeaway": "首个重要进度节点已经达成。",
+    "bridgeText": "这里的 milestone 指标志阶段成果达成的重要节点。",
+    "groups": [
+      {
+        "id": "g1",
+        "title": "先记住，再联系",
+        "text": "可以用旅程中的路标帮助记忆：它告诉你走到哪里，而不是替你完成路程。这是类比。本句的 first milestone 表示第一个重要节点，记住 reach a milestone 这个搭配即可。",
+        "sourceIds": [
+          "lexical",
+          "method"
+        ]
+      },
+      {
+        "id": "g2",
+        "title": "句法与概念",
+        "text": "reached 是过去式，表示说话者报告节点已达成；after the review 说明时间在评审之后。仅凭 after 不能断言评审本身就是节点，也不能推断评审已批准整项项目。",
+        "sourceIds": [
+          "lexical"
+        ]
+      },
+      {
+        "id": "g3",
+        "title": "辨析与英文邻居",
+        "text": "milestone 看阶段进展，deadline 看最晚完成时间。某个节点可以有自己的截止日，但两者不是同一件事。deliverable 是应交成果，节点则可用成果被接受等事件来定义，须按实际计划判断。",
+        "sourceIds": [
+          "lexical",
+          "method"
+        ]
+      },
+      {
+        "id": "g4",
+        "title": "这句话在做什么",
+        "text": "本句用于进度汇报，把状态从尚在推进更新为首个节点已到达。自编回应：What is the next milestone?（下一个里程碑是什么？）讨论于是从确认当前进展转向下一段，而非默认整个项目完工。",
+        "sourceIds": [
+          "lexical",
+          "method",
+          "communication"
+        ]
+      },
+      {
+        "id": "g5",
+        "title": "工作中可以这样说",
+        "text": "自编：We expect to reach the next milestone in June.（我们预计六月达成下一个里程碑。）适合汇报预测；expect 保留了估计性质，应再说明具体节点是什么，避免只用月份代替完成标准。",
+        "sourceIds": [
+          "lexical",
+          "method",
+          "communication"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "lexical",
+        "url": "https://dictionary.cambridge.org/dictionary/english/milestone",
+        "title": "MILESTONE — Cambridge Dictionary",
+        "publisher": "Cambridge University Press",
+        "accessedAt": "2026-11-03",
+        "section": "IMPORTANT EVENT; Business English project milestone",
+        "retrievalStatus": "index_excerpt",
+        "supportedClaims": [
+          "当前词义及词性；常见搭配（01—03）",
+          "definitionEn / definitionZh为自行转述，不是原文",
+          "句法分析为Writer对已给例句的拆解"
+        ],
+        "summaryZh": "标志阶段成果达成的重要节点",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      },
+      {
+        "id": "method",
+        "url": "https://www.apm.org.uk/resources/glossary/",
+        "title": "Project management Glossary",
+        "publisher": "Association for Project Management",
+        "accessedAt": "2026-11-03",
+        "section": "Deliverable; Dependency; Scheduling; Scope",
+        "retrievalStatus": "partial",
+        "supportedClaims": [
+          "区分交付成果、活动关系与排期。",
+          "04—05为该方法在自编职场对话中的应用；不声称来源收录原句或保证沟通效果"
+        ],
+        "summaryZh": "区分交付成果、活动关系与排期。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      },
+      {
+        "id": "communication",
+        "url": "https://www.apm.org.uk/resources/what-is-project-management/what-is-project-communication/",
+        "title": "What is project communication?",
+        "publisher": "Association for Project Management",
+        "accessedAt": "2026-11-03",
+        "section": "Definition; Stakeholder communication; Planning models",
+        "retrievalStatus": "partial",
+        "supportedClaims": [
+          "04的回应与下一步按明确目的、接收反馈、确认理解的方法补写"
+        ],
+        "summaryZh": "双向沟通并确认理解；具体对话为原创应用。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      }
+    ],
+    "sourceLimitations": [
+      "词典原站直接打开返回403；词义依据来自可见搜索索引内容，未声称完整抓取。",
+      "context沿用授权输入中的公开教学例句；01类比及04/05对话为作者教学补写，非真实事件。",
+      "相邻词的比较是针对本句的教学对照，不主张在全部语境中互斥；未作词源或IPA核验。"
+    ],
+    "writer": "trial_writer_1"
+  },
+  {
+    "cardId": "V20261012-005",
+    "term": "priority",
+    "context": "We need to set priorities for the remaining work.",
+    "contextZh": "我们需要为剩余工作设定优先级。",
+    "contextKind": "existing_public_card_example",
+    "contextSource": "input-1.json；既有公开词卡教学例句，非工作事件纪实",
+    "gloss": "优先事项；优先级",
+    "glossKind": "source_summary",
+    "pos": "n.",
+    "definitionEn": "something important enough to be dealt with before other work",
+    "definitionZh": "需要优先处理的事项或优先程度",
+    "contextTakeaway": "要为剩余工作确定优先安排。",
+    "bridgeText": "这里的 priority 指需要优先处理的事项或优先程度。",
+    "groups": [
+      {
+        "id": "g1",
+        "title": "先记住，再联系",
+        "text": "把 priority 和排队联系起来：时间有限时，哪些事先得到注意和资源？这个记忆画面强调取舍。本句不是说剩余工作都不重要，而是要把先处理什么讲清楚，避免所有事都同时排第一。",
+        "sourceIds": [
+          "lexical",
+          "method"
+        ]
+      },
+      {
+        "id": "g2",
+        "title": "句法与概念",
+        "text": "set priorities 中 priorities 是复数，指为多项工作确定优先安排；for the remaining work 限定比较对象。We need to 提出当前需要的行动，还没有宣布哪项已经获得最高优先级。",
+        "sourceIds": [
+          "lexical"
+        ]
+      },
+      {
+        "id": "g3",
+        "title": "辨析与英文邻居",
+        "text": "priority 说重要性或优先处理的地位，sequence 说先后步骤。某个检查即使不是最重要的目标，也可能必须先做，才能开始下一步。top priority 比一般的 important 更明确地表达优先取舍。",
+        "sourceIds": [
+          "lexical",
+          "method"
+        ]
+      },
+      {
+        "id": "g4",
+        "title": "这句话在做什么",
+        "text": "本句把“还有很多事”转成“先做哪几件”的讨论。自编回应：Can we put the safety review first?（我们能先做安全评审吗？）对方提出排序供商议，接下来应比较影响和限制，而非把建议当决定。",
+        "sourceIds": [
+          "lexical",
+          "method",
+          "communication"
+        ]
+      },
+      {
+        "id": "g5",
+        "title": "工作中可以这样说",
+        "text": "自编：Which task should take priority this week?（本周哪项任务应该优先？）适合两项任务竞争同一人力时使用；问题要求明确取舍，若各方答案不同，可继续说明各自的理由和延迟影响。",
+        "sourceIds": [
+          "lexical",
+          "method",
+          "communication"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "lexical",
+        "url": "https://dictionary.cambridge.org/us/dictionary/english/priority",
+        "title": "PRIORITY — Cambridge Dictionary",
+        "publisher": "Cambridge University Press",
+        "accessedAt": "2026-11-03",
+        "section": "Business English priority",
+        "retrievalStatus": "index_excerpt",
+        "supportedClaims": [
+          "当前词义及词性；常见搭配（01—03）",
+          "definitionEn / definitionZh为自行转述，不是原文",
+          "句法分析为Writer对已给例句的拆解"
+        ],
+        "summaryZh": "需要优先处理的事项或优先程度",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      },
+      {
+        "id": "method",
+        "url": "https://www.apm.org.uk/blog/what-is-resource-management/",
+        "title": "What is resource management?",
+        "publisher": "Association for Project Management",
+        "accessedAt": "2026-11-03",
+        "section": "What are resources; Allocation, Aggregation, Scheduling",
+        "retrievalStatus": "partial",
+        "supportedClaims": [
+          "核对所需资源、可用量及使用时间。",
+          "04—05为该方法在自编职场对话中的应用；不声称来源收录原句或保证沟通效果"
+        ],
+        "summaryZh": "核对所需资源、可用量及使用时间。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      },
+      {
+        "id": "communication",
+        "url": "https://www.apm.org.uk/resources/what-is-project-management/what-is-project-communication/",
+        "title": "What is project communication?",
+        "publisher": "Association for Project Management",
+        "accessedAt": "2026-11-03",
+        "section": "Definition; Stakeholder communication; Planning models",
+        "retrievalStatus": "partial",
+        "supportedClaims": [
+          "04的回应与下一步按明确目的、接收反馈、确认理解的方法补写"
+        ],
+        "summaryZh": "双向沟通并确认理解；具体对话为原创应用。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      }
+    ],
+    "sourceLimitations": [
+      "词典原站直接打开返回403；词义依据来自可见搜索索引内容，未声称完整抓取。",
+      "context沿用授权输入中的公开教学例句；01类比及04/05对话为作者教学补写，非真实事件。",
+      "相邻词的比较是针对本句的教学对照，不主张在全部语境中互斥；未作词源或IPA核验。"
+    ],
+    "writer": "trial_writer_1"
+  },
+  {
+    "cardId": "V20261012-006",
+    "term": "constraint",
+    "context": "The main constraint is the number of available reviewers.",
+    "contextZh": "主要限制是可用评审人员的数量。",
+    "contextKind": "existing_public_card_example",
+    "contextSource": "input-1.json；既有公开词卡教学例句，非工作事件纪实",
+    "gloss": "限制条件",
+    "glossKind": "source_summary",
+    "pos": "n.",
+    "definitionEn": "a condition that limits the available choices",
+    "definitionZh": "限制可选方案的条件",
+    "contextTakeaway": "当前主要限制是可用的评审人数。",
+    "bridgeText": "这里的 constraint 指限制可选方案的条件。",
+    "groups": [
+      {
+        "id": "g1",
+        "title": "先记住，再联系",
+        "text": "可把 constraint 记成方案必须绕着走的限制：不只是不方便，而是它会缩小可选空间。本句提到评审人数，提醒你即使工作量已知，还要看有多少人能够投入评审。",
+        "sourceIds": [
+          "lexical",
+          "method"
+        ]
+      },
+      {
+        "id": "g2",
+        "title": "句法与概念",
+        "text": "The main constraint is 后面给出限制来源：the number of available reviewers。核心是 number，即可用人数；available 修饰 reviewers。它没有说这些人水平不足，也没有给出每人的具体工时。",
+        "sourceIds": [
+          "lexical"
+        ]
+      },
+      {
+        "id": "g3",
+        "title": "辨析与英文邻居",
+        "text": "constraint 是限制条件；risk 是可能出现的不确定影响。现有评审人数不足可作为当前限制，评审人员未来可能请假则可成为风险。limited resources 与 resource constraint 是相邻的常见说法。",
+        "sourceIds": [
+          "lexical",
+          "method"
+        ]
+      },
+      {
+        "id": "g4",
+        "title": "这句话在做什么",
+        "text": "本句解释计划为何受限，把讨论焦点放到评审人力。自编回应：Could we stagger the reviews?（我们可以错开评审时间吗？）这提供一个待评估方案，让讨论从催促速度转向能否重新安排资源。",
+        "sourceIds": [
+          "lexical",
+          "method",
+          "communication"
+        ]
+      },
+      {
+        "id": "g5",
+        "title": "工作中可以这样说",
+        "text": "自编：We need a plan that works within our budget constraints.（我们需要一个在预算限制内可行的计划。）适合比较方案时先说明边界；within 表示在限制内工作，并不是请求对方自动提高预算。",
+        "sourceIds": [
+          "lexical",
+          "method",
+          "communication"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "lexical",
+        "url": "https://dictionary.cambridge.org/us/dictionary/english/constraint",
+        "title": "CONSTRAINT — Cambridge Dictionary",
+        "publisher": "Cambridge University Press",
+        "accessedAt": "2026-11-03",
+        "section": "Business English constraint",
+        "retrievalStatus": "index_excerpt",
+        "supportedClaims": [
+          "当前词义及词性；常见搭配（01—03）",
+          "definitionEn / definitionZh为自行转述，不是原文",
+          "句法分析为Writer对已给例句的拆解"
+        ],
+        "summaryZh": "限制可选方案的条件",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      },
+      {
+        "id": "method",
+        "url": "https://www.apm.org.uk/blog/what-is-resource-management/",
+        "title": "What is resource management?",
+        "publisher": "Association for Project Management",
+        "accessedAt": "2026-11-03",
+        "section": "What are resources; Allocation, Aggregation, Scheduling",
+        "retrievalStatus": "partial",
+        "supportedClaims": [
+          "核对所需资源、可用量及使用时间。",
+          "04—05为该方法在自编职场对话中的应用；不声称来源收录原句或保证沟通效果"
+        ],
+        "summaryZh": "核对所需资源、可用量及使用时间。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      },
+      {
+        "id": "communication",
+        "url": "https://www.apm.org.uk/resources/what-is-project-management/what-is-project-communication/",
+        "title": "What is project communication?",
+        "publisher": "Association for Project Management",
+        "accessedAt": "2026-11-03",
+        "section": "Definition; Stakeholder communication; Planning models",
+        "retrievalStatus": "partial",
+        "supportedClaims": [
+          "04的回应与下一步按明确目的、接收反馈、确认理解的方法补写"
+        ],
+        "summaryZh": "双向沟通并确认理解；具体对话为原创应用。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      }
+    ],
+    "sourceLimitations": [
+      "词典原站直接打开返回403；词义依据来自可见搜索索引内容，未声称完整抓取。",
+      "context沿用授权输入中的公开教学例句；01类比及04/05对话为作者教学补写，非真实事件。",
+      "相邻词的比较是针对本句的教学对照，不主张在全部语境中互斥；未作词源或IPA核验。"
+    ],
+    "writer": "trial_writer_1"
+  },
+  {
+    "cardId": "V20261012-007",
+    "term": "dependency",
+    "context": "Please identify dependencies before finalizing the schedule.",
+    "contextZh": "确定日程前，请识别各项依赖关系。",
+    "contextKind": "existing_public_card_example",
+    "contextSource": "input-1.json；既有公开词卡教学例句，非工作事件纪实",
+    "gloss": "依赖关系",
+    "glossKind": "source_summary",
+    "pos": "n.",
+    "definitionEn": "a link in which one activity relies on another",
+    "definitionZh": "一项工作对另一项工作或条件的依赖",
+    "contextTakeaway": "日程定稿前先查清活动之间的依赖。",
+    "bridgeText": "这里的 dependency 指一项工作对另一项工作或条件的依赖。",
+    "groups": [
+      {
+        "id": "g1",
+        "title": "先记住，再联系",
+        "text": "用“A要等B”来记最容易，但也要知道依赖不一定都是等上一项结束才开始。这里先把需要的前置成果和相互影响找出来，才能判断哪段日程不能只凭自己团队的速度决定。",
+        "sourceIds": [
+          "lexical",
+          "method"
+        ]
+      },
+      {
+        "id": "g2",
+        "title": "句法与概念",
+        "text": "identify 的宾语是 dependencies；before finalizing the schedule 表明要先识别，再定稿日程。复数表示需要检查多项关系。它请求的是查清依赖，并未说明这些依赖全是问题或一定会延期。",
+        "sourceIds": [
+          "lexical"
+        ]
+      },
+      {
+        "id": "g3",
+        "title": "辨析与英文邻居",
+        "text": "dependency 解释任务为何相连，sequence 描述做事顺序；顺序也可能只是管理安排，不一定代表硬性依赖。blocker 则强调当前已经挡住进展的事项，不能把所有正常依赖都叫阻塞。",
+        "sourceIds": [
+          "lexical",
+          "method"
+        ]
+      },
+      {
+        "id": "g4",
+        "title": "这句话在做什么",
+        "text": "排期若只看每项要几天，容易漏掉等待条件。本句要求先检查这些关系。自编回应：Testing depends on the prototype being ready.（测试要等原型准备好。）下一步便可确认原型何时可用。",
+        "sourceIds": [
+          "lexical",
+          "method",
+          "communication"
+        ]
+      },
+      {
+        "id": "g5",
+        "title": "工作中可以这样说",
+        "text": "自编：Is there a dependency on the supplier's test report?（这项工作是否依赖供应商的测试报告？）适合确认外部输入时；问清依赖对象之后，还应核对需要的版本与日期，不能只记录供应商名称。",
+        "sourceIds": [
+          "lexical",
+          "method",
+          "communication"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "lexical",
+        "url": "https://dictionary.cambridge.org/us/dictionary/english/dependency",
+        "title": "DEPENDENCY — Cambridge Dictionary",
+        "publisher": "Cambridge University Press",
+        "accessedAt": "2026-11-03",
+        "section": "NEED; project sense supplemented by APM glossary",
+        "retrievalStatus": "index_excerpt",
+        "supportedClaims": [
+          "当前词义及词性；常见搭配（01—03）",
+          "definitionEn / definitionZh为自行转述，不是原文",
+          "句法分析为Writer对已给例句的拆解"
+        ],
+        "summaryZh": "一项工作对另一项工作或条件的依赖",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      },
+      {
+        "id": "method",
+        "url": "https://www.apm.org.uk/resources/glossary/",
+        "title": "Project management Glossary",
+        "publisher": "Association for Project Management",
+        "accessedAt": "2026-11-03",
+        "section": "Deliverable; Dependency; Scheduling; Scope",
+        "retrievalStatus": "partial",
+        "supportedClaims": [
+          "区分交付成果、活动关系与排期。",
+          "04—05为该方法在自编职场对话中的应用；不声称来源收录原句或保证沟通效果"
+        ],
+        "summaryZh": "区分交付成果、活动关系与排期。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      },
+      {
+        "id": "communication",
+        "url": "https://www.apm.org.uk/resources/what-is-project-management/what-is-project-communication/",
+        "title": "What is project communication?",
+        "publisher": "Association for Project Management",
+        "accessedAt": "2026-11-03",
+        "section": "Definition; Stakeholder communication; Planning models",
+        "retrievalStatus": "partial",
+        "supportedClaims": [
+          "04的回应与下一步按明确目的、接收反馈、确认理解的方法补写"
+        ],
+        "summaryZh": "双向沟通并确认理解；具体对话为原创应用。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      }
+    ],
+    "sourceLimitations": [
+      "词典原站直接打开返回403；词义依据来自可见搜索索引内容，未声称完整抓取。",
+      "context沿用授权输入中的公开教学例句；01类比及04/05对话为作者教学补写，非真实事件。",
+      "相邻词的比较是针对本句的教学对照，不主张在全部语境中互斥；未作词源或IPA核验。"
+    ],
+    "writer": "trial_writer_1"
+  },
+  {
+    "cardId": "V20261012-008",
+    "term": "assumption",
+    "context": "This assumption needs to be checked with the supplier.",
+    "contextZh": "这项假设需要与供应商核实。",
+    "contextKind": "existing_public_card_example",
+    "contextSource": "input-1.json；既有公开词卡教学例句，非工作事件纪实",
+    "gloss": "假设",
+    "glossKind": "source_summary",
+    "pos": "n.",
+    "definitionEn": "something treated as true before it has been verified",
+    "definitionZh": "尚未证实但暂时作为规划基础的条件",
+    "contextTakeaway": "这项规划前提仍须向供应商核实。",
+    "bridgeText": "这里的 assumption 指尚未证实但暂时作为规划基础的条件。",
+    "groups": [
+      {
+        "id": "g1",
+        "title": "先记住，再联系",
+        "text": "把 assumption 想成计划暂时站着的一块垫板：先借它继续推算，但还要检查稳不稳。这是记忆类比。称它为假设不是说它必然错误，而是提醒人不要把尚未核实的条件当成事实。",
+        "sourceIds": [
+          "lexical",
+          "method"
+        ]
+      },
+      {
+        "id": "g2",
+        "title": "句法与概念",
+        "text": "This assumption 是被检查的对象，needs to be checked 用被动式突出核实动作；with the supplier 指向核实的沟通对象。句子并未说供应商已经认同，也未指定究竟由谁负责联系。",
+        "sourceIds": [
+          "lexical"
+        ]
+      },
+      {
+        "id": "g3",
+        "title": "辨析与英文邻居",
+        "text": "assumption 是暂时接受的前提，fact 是已有依据支持的事实；estimate 则是对数量或时间的估计。估算可以依赖假设，例如交期估计基于材料届时可用，不能把三者混成一项已确认承诺。",
+        "sourceIds": [
+          "lexical",
+          "method"
+        ]
+      },
+      {
+        "id": "g4",
+        "title": "这句话在做什么",
+        "text": "本句给讨论加一道核实步骤，避免直接按未经证实的前提继续承诺。自编回应：I'll ask the supplier to confirm it.（我会请供应商确认。）回应接下核实动作，之后还需回报答案和计划影响。",
+        "sourceIds": [
+          "lexical",
+          "method",
+          "communication"
+        ]
+      },
+      {
+        "id": "g5",
+        "title": "工作中可以这样说",
+        "text": "自编：Our estimate is based on the assumption that the parts arrive on Monday.（我们的估算以零件周一到货为前提。）适合解释估算依据；应让听者知道日期尚属假设，而不是把到货说成已确认事实。",
+        "sourceIds": [
+          "lexical",
+          "method",
+          "communication"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "lexical",
+        "url": "https://dictionary.cambridge.org/dictionary/english/assumption",
+        "title": "ASSUMPTION — Cambridge Dictionary",
+        "publisher": "Cambridge University Press",
+        "accessedAt": "2026-11-03",
+        "section": "BELIEF; Business English",
+        "retrievalStatus": "index_excerpt",
+        "supportedClaims": [
+          "当前词义及词性；常见搭配（01—03）",
+          "definitionEn / definitionZh为自行转述，不是原文",
+          "句法分析为Writer对已给例句的拆解"
+        ],
+        "summaryZh": "尚未证实但暂时作为规划基础的条件",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      },
+      {
+        "id": "method",
+        "url": "https://www.apm.org.uk/resources/what-is-project-management/what-is-scope-management/",
+        "title": "What is scope management?",
+        "publisher": "Association for Project Management",
+        "accessedAt": "2026-11-03",
+        "section": "Project scope; Life cycle",
+        "retrievalStatus": "full_page",
+        "supportedClaims": [
+          "明确范围内外，并记录规划所用假设。",
+          "04—05为该方法在自编职场对话中的应用；不声称来源收录原句或保证沟通效果"
+        ],
+        "summaryZh": "明确范围内外，并记录规划所用假设。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      },
+      {
+        "id": "communication",
+        "url": "https://www.apm.org.uk/resources/what-is-project-management/what-is-project-communication/",
+        "title": "What is project communication?",
+        "publisher": "Association for Project Management",
+        "accessedAt": "2026-11-03",
+        "section": "Definition; Stakeholder communication; Planning models",
+        "retrievalStatus": "partial",
+        "supportedClaims": [
+          "04的回应与下一步按明确目的、接收反馈、确认理解的方法补写"
+        ],
+        "summaryZh": "双向沟通并确认理解；具体对话为原创应用。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      }
+    ],
+    "sourceLimitations": [
+      "词典原站直接打开返回403；词义依据来自可见搜索索引内容，未声称完整抓取。",
+      "context沿用授权输入中的公开教学例句；01类比及04/05对话为作者教学补写，非真实事件。",
+      "相邻词的比较是针对本句的教学对照，不主张在全部语境中互斥；未作词源或IPA核验。"
+    ],
+    "writer": "trial_writer_1"
+  },
+  {
+    "cardId": "V20261012-009",
+    "term": "baseline",
+    "context": "We need a baseline before measuring the improvement.",
+    "contextZh": "衡量改进前，我们需要一个基准。",
+    "contextKind": "existing_public_card_example",
+    "contextSource": "input-1.json；既有公开词卡教学例句，非工作事件纪实",
+    "gloss": "基准",
+    "glossKind": "source_summary",
+    "pos": "n.",
+    "definitionEn": "a starting value used to compare later results",
+    "definitionZh": "用于比较后续变化的基准",
+    "contextTakeaway": "先有比较基准，才能衡量变化。",
+    "bridgeText": "这里的 baseline 指用于比较后续变化的基准。",
+    "groups": [
+      {
+        "id": "g1",
+        "title": "先记住，再联系",
+        "text": "想到称重前先记下起始读数：以后说变多或变少，必须知道和什么比。这是记忆类比。本句的 baseline 用作改进前的参照，不要求它本身优秀，也不表示它就是最终目标。",
+        "sourceIds": [
+          "lexical"
+        ]
+      },
+      {
+        "id": "g2",
+        "title": "句法与概念",
+        "text": "We need a baseline 表明缺少比较起点；before measuring the improvement 说明先建立基准再测改进。measurement 的对象是 improvement。整句谈比较条件，不是在保证后面一定会得到正向改善。",
+        "sourceIds": [
+          "lexical"
+        ]
+      },
+      {
+        "id": "g3",
+        "title": "辨析与英文邻居",
+        "text": "baseline 是起始参照，target 是希望达到的值。benchmark 也可作比较标准，常用于对照其他表现，但并不永远代表行业最佳。看本句的 before measuring，最合适的是先有改进前的记录。",
+        "sourceIds": [
+          "lexical"
+        ]
+      },
+      {
+        "id": "g4",
+        "title": "这句话在做什么",
+        "text": "大家若已经说效率提高，本句追问比较依据。自编回应：Let's use last month's average review time.（我们用上个月的平均评审时间吧。）这提出可讨论的基准，再确认数据口径是否一致。",
+        "sourceIds": [
+          "lexical",
+          "method"
+        ]
+      },
+      {
+        "id": "g5",
+        "title": "工作中可以这样说",
+        "text": "自编：Let's record the current error rate as our baseline.（我们把当前错误率记作基准吧。）适合启动改进试验前使用；同时说明统计期间和错误定义，才能让之后的数字有可比较的含义。",
+        "sourceIds": [
+          "lexical",
+          "method"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "lexical",
+        "url": "https://dictionary.cambridge.org/dictionary/english/baseline",
+        "title": "BASELINE — Cambridge Dictionary",
+        "publisher": "Cambridge University Press",
+        "accessedAt": "2026-11-03",
+        "section": "comparison starting point; Business English",
+        "retrievalStatus": "index_excerpt",
+        "supportedClaims": [
+          "当前词义及词性；常见搭配（01—03）",
+          "definitionEn / definitionZh为自行转述，不是原文",
+          "句法分析为Writer对已给例句的拆解"
+        ],
+        "summaryZh": "用于比较后续变化的基准",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      },
+      {
+        "id": "method",
+        "url": "https://www.apm.org.uk/resources/what-is-project-management/what-is-project-communication/",
+        "title": "What is project communication?",
+        "publisher": "Association for Project Management",
+        "accessedAt": "2026-11-03",
+        "section": "Definition; Stakeholder communication; Planning models",
+        "retrievalStatus": "partial",
+        "supportedClaims": [
+          "沟通要明确目的、对象与反馈，并核对共同理解。",
+          "04—05为该方法在自编职场对话中的应用；不声称来源收录原句或保证沟通效果"
+        ],
+        "summaryZh": "沟通要明确目的、对象与反馈，并核对共同理解。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      }
+    ],
+    "sourceLimitations": [
+      "词典原站直接打开返回403；词义依据来自可见搜索索引内容，未声称完整抓取。",
+      "context沿用授权输入中的公开教学例句；01类比及04/05对话为作者教学补写，非真实事件。",
+      "相邻词的比较是针对本句的教学对照，不主张在全部语境中互斥；未作词源或IPA核验。"
+    ],
+    "writer": "trial_writer_1"
+  },
+  {
+    "cardId": "V20261012-010",
+    "term": "buffer",
+    "context": "The plan includes a two-day buffer for review.",
+    "contextZh": "计划为评审预留了两天缓冲时间。",
+    "contextKind": "existing_public_card_example",
+    "contextSource": "input-1.json；既有公开词卡教学例句，非工作事件纪实",
+    "gloss": "缓冲时间或资源",
+    "glossKind": "source_summary",
+    "pos": "n.",
+    "definitionEn": "extra time or resources kept to absorb unexpected problems",
+    "definitionZh": "为应对不确定性预留的时间或资源",
+    "contextTakeaway": "计划为评审预留了两天余量。",
+    "bridgeText": "这里的 buffer 指为应对不确定性预留的时间或资源。",
+    "groups": [
+      {
+        "id": "g1",
+        "title": "先记住，再联系",
+        "text": "把 buffer 想成两件物体之间的一层软垫：多出来的一点空间承接冲击。这是类比。在计划中，时间或资源也能起这种作用；这里预留两天，是给评审的不确定性留余量。",
+        "sourceIds": [
+          "lexical"
+        ]
+      },
+      {
+        "id": "g2",
+        "title": "句法与概念",
+        "text": "includes 表示缓冲已经列在计划里；a two-day buffer 是一个两天的缓冲，two-day 作前置修饰时 day 不加复数。for review 说明用途，不等于评审所有正常工作只需要两天。",
+        "sourceIds": [
+          "lexical"
+        ]
+      },
+      {
+        "id": "g3",
+        "title": "辨析与英文邻居",
+        "text": "buffer 是事先预留的余量，delay 是实际发生的延误。留两天缓冲并不说明已经延期。extra time 可以泛指多一些时间，而 buffer 更突出它用来应对变化或防止影响继续扩散。",
+        "sourceIds": [
+          "lexical"
+        ]
+      },
+      {
+        "id": "g4",
+        "title": "这句话在做什么",
+        "text": "本句向听者说明日程中的两天为何存在，使预留时间有可理解的用途。自编回应：Is that buffer included in the final date?（最终日期里已经算入这段缓冲了吗？）回应帮助避免重复加时。",
+        "sourceIds": [
+          "lexical",
+          "method"
+        ]
+      },
+      {
+        "id": "g5",
+        "title": "工作中可以这样说",
+        "text": "自编：Could we keep a one-day buffer before shipment?（我们能在发货前保留一天缓冲吗？）适合讨论日程余量；这是请求保留准备空间，并不表示发货日期可自行推迟，也不是对风险的保证。",
+        "sourceIds": [
+          "lexical",
+          "method"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "lexical",
+        "url": "https://dictionary.cambridge.org/us/dictionary/english/buffer",
+        "title": "BUFFER — Cambridge Dictionary",
+        "publisher": "Cambridge University Press",
+        "accessedAt": "2026-11-03",
+        "section": "PROTECTION; buffer for unforeseen delays",
+        "retrievalStatus": "index_excerpt",
+        "supportedClaims": [
+          "当前词义及词性；常见搭配（01—03）",
+          "definitionEn / definitionZh为自行转述，不是原文",
+          "句法分析为Writer对已给例句的拆解"
+        ],
+        "summaryZh": "为应对不确定性预留的时间或资源",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      },
+      {
+        "id": "method",
+        "url": "https://www.apm.org.uk/resources/what-is-project-management/what-is-project-communication/",
+        "title": "What is project communication?",
+        "publisher": "Association for Project Management",
+        "accessedAt": "2026-11-03",
+        "section": "Definition; Stakeholder communication; Planning models",
+        "retrievalStatus": "partial",
+        "supportedClaims": [
+          "沟通要明确目的、对象与反馈，并核对共同理解。",
+          "04—05为该方法在自编职场对话中的应用；不声称来源收录原句或保证沟通效果"
+        ],
+        "summaryZh": "沟通要明确目的、对象与反馈，并核对共同理解。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      }
+    ],
+    "sourceLimitations": [
+      "词典原站直接打开返回403；词义依据来自可见搜索索引内容，未声称完整抓取。",
+      "context沿用授权输入中的公开教学例句；01类比及04/05对话为作者教学补写，非真实事件。",
+      "相邻词的比较是针对本句的教学对照，不主张在全部语境中互斥；未作词源或IPA核验。"
+    ],
+    "writer": "trial_writer_1"
+  },
+  {
+    "cardId": "V20261012-011",
+    "term": "sequence",
+    "context": "Let's agree on the sequence of the remaining activities.",
+    "contextZh": "我们来商定剩余活动的先后顺序。",
+    "contextKind": "existing_public_card_example",
+    "contextSource": "input-1.json；既有公开词卡教学例句，非工作事件纪实",
+    "gloss": "顺序",
+    "glossKind": "source_summary",
+    "pos": "n.",
+    "definitionEn": "the order in which related actions happen",
+    "definitionZh": "行动或步骤的先后顺序",
+    "contextTakeaway": "共同商定剩余活动的先后顺序。",
+    "bridgeText": "这里的 sequence 指行动或步骤的先后顺序。",
+    "groups": [
+      {
+        "id": "g1",
+        "title": "先记住，再联系",
+        "text": "把 sequence 记成步骤编号：同样几件事，换个顺序可能就做不下去。先装零件还是先检验，影响的是过程安排。本句要商定剩余活动的衔接，而不是重新决定项目究竟要交付什么。",
+        "sourceIds": [
+          "lexical",
+          "method"
+        ]
+      },
+      {
+        "id": "g2",
+        "title": "句法与概念",
+        "text": "Let's agree on 是提议一起商定，on 后接 the sequence；of the remaining activities 说明哪些活动的顺序。Let's 通常把说话者包含在内，但是否真的共同决策仍取决于实际场合与权限。",
+        "sourceIds": [
+          "lexical"
+        ]
+      },
+      {
+        "id": "g3",
+        "title": "辨析与英文邻居",
+        "text": "sequence 侧重前后排列，schedule 还包含何时做、多久完成。priority 侧重先重视什么，未必等同实际执行顺序。自然搭配有 in sequence 与 a sequence of steps，帮助你识别步骤的连接。",
+        "sourceIds": [
+          "lexical",
+          "method"
+        ]
+      },
+      {
+        "id": "g4",
+        "title": "这句话在做什么",
+        "text": "大家若各自开始剩余工作，衔接可能未被确认。本句邀请先把顺序对齐。自编回应：Should we inspect the parts before assembly?（我们应该先检查零件再装配吗？）回应提出一个具体先后关系供确认。",
+        "sourceIds": [
+          "lexical",
+          "method",
+          "communication"
+        ]
+      },
+      {
+        "id": "g5",
+        "title": "工作中可以这样说",
+        "text": "自编：Could you walk me through the assembly sequence?（你能给我讲一下装配顺序吗？）适合交接或学习流程时；walk me through 请求逐步说明，方便你确认每一步接什么，而不只拿到任务名称。",
+        "sourceIds": [
+          "lexical",
+          "method",
+          "communication"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "lexical",
+        "url": "https://dictionary.cambridge.org/dictionary/english/sequence",
+        "title": "SEQUENCE — Cambridge Dictionary",
+        "publisher": "Cambridge University Press",
+        "accessedAt": "2026-11-03",
+        "section": "ORDERED SERIES",
+        "retrievalStatus": "index_excerpt",
+        "supportedClaims": [
+          "当前词义及词性；常见搭配（01—03）",
+          "definitionEn / definitionZh为自行转述，不是原文",
+          "句法分析为Writer对已给例句的拆解"
+        ],
+        "summaryZh": "行动或步骤的先后顺序",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      },
+      {
+        "id": "method",
+        "url": "https://www.apm.org.uk/resources/glossary/",
+        "title": "Project management Glossary",
+        "publisher": "Association for Project Management",
+        "accessedAt": "2026-11-03",
+        "section": "Deliverable; Dependency; Scheduling; Scope",
+        "retrievalStatus": "partial",
+        "supportedClaims": [
+          "区分交付成果、活动关系与排期。",
+          "04—05为该方法在自编职场对话中的应用；不声称来源收录原句或保证沟通效果"
+        ],
+        "summaryZh": "区分交付成果、活动关系与排期。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      },
+      {
+        "id": "communication",
+        "url": "https://www.apm.org.uk/resources/what-is-project-management/what-is-project-communication/",
+        "title": "What is project communication?",
+        "publisher": "Association for Project Management",
+        "accessedAt": "2026-11-03",
+        "section": "Definition; Stakeholder communication; Planning models",
+        "retrievalStatus": "partial",
+        "supportedClaims": [
+          "04的回应与下一步按明确目的、接收反馈、确认理解的方法补写"
+        ],
+        "summaryZh": "双向沟通并确认理解；具体对话为原创应用。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      }
+    ],
+    "sourceLimitations": [
+      "词典原站直接打开返回403；词义依据来自可见搜索索引内容，未声称完整抓取。",
+      "context沿用授权输入中的公开教学例句；01类比及04/05对话为作者教学补写，非真实事件。",
+      "相邻词的比较是针对本句的教学对照，不主张在全部语境中互斥；未作词源或IPA核验。"
+    ],
+    "writer": "trial_writer_1"
+  },
+  {
+    "cardId": "V20261012-012",
+    "term": "capacity",
+    "context": "We do not have enough capacity to start both projects.",
+    "contextZh": "我们没有足够能力同时启动两个项目。",
+    "contextKind": "existing_public_card_example",
+    "contextSource": "input-1.json；既有公开词卡教学例句，非工作事件纪实",
+    "gloss": "承载能力；产能",
+    "glossKind": "source_summary",
+    "pos": "n.",
+    "definitionEn": "the amount of work a team can take on",
+    "definitionZh": "团队或系统能够承担工作的能力与数量",
+    "contextTakeaway": "现有承载量不足以同时启动两项。",
+    "bridgeText": "这里的 capacity 指团队或系统能够承担工作的能力与数量。",
+    "groups": [
+      {
+        "id": "g1",
+        "title": "先记住，再联系",
+        "text": "用容器容量来联系团队工作量：会做不等于还能再接。这个类比帮助你理解，本句可能是在说可投入的人员与时间不够；要进一步追问瓶颈，不能据此给团队能力差下结论。",
+        "sourceIds": [
+          "lexical",
+          "method"
+        ]
+      },
+      {
+        "id": "g2",
+        "title": "句法与概念",
+        "text": "do not have enough capacity 是否定足够的承载量，to start both projects 说明拟承担的动作。both 指两个项目都启动。它不表示两个项目一个也不能做，也没有说以后永远不能同时开展。",
+        "sourceIds": [
+          "lexical"
+        ]
+      },
+      {
+        "id": "g3",
+        "title": "辨析与英文邻居",
+        "text": "capacity 在此强调能承接多少工作；capability 常用于说明有没有完成某类工作的能力，两者语义仍会重叠。busy 是笼统地忙，available capacity 则有助于具体谈还能分配多少人时。",
+        "sourceIds": [
+          "lexical",
+          "method"
+        ]
+      },
+      {
+        "id": "g4",
+        "title": "这句话在做什么",
+        "text": "本句对同时启动两项的安排提出资源限制，让对方考虑排序或调整。自编回应：Which project should we start first?（我们应该先启动哪一个？）这是一个推进选择的回应，不替管理者决定优先级。",
+        "sourceIds": [
+          "lexical",
+          "method",
+          "communication"
+        ]
+      },
+      {
+        "id": "g5",
+        "title": "工作中可以这样说",
+        "text": "自编：Do we have capacity for another review this week?（本周我们还有能力再安排一次评审吗？）适合接受新任务前核实负荷；说明 this week 把问题限定到当前时段，避免变成对团队总体能力的评价。",
+        "sourceIds": [
+          "lexical",
+          "method",
+          "communication"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "lexical",
+        "url": "https://dictionary.cambridge.org/dictionary/english/capacity",
+        "title": "CAPACITY — Cambridge Dictionary",
+        "publisher": "Cambridge University Press",
+        "accessedAt": "2026-11-03",
+        "section": "AMOUNT / ability",
+        "retrievalStatus": "index_excerpt",
+        "supportedClaims": [
+          "当前词义及词性；常见搭配（01—03）",
+          "definitionEn / definitionZh为自行转述，不是原文",
+          "句法分析为Writer对已给例句的拆解"
+        ],
+        "summaryZh": "团队或系统能够承担工作的能力与数量",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      },
+      {
+        "id": "method",
+        "url": "https://www.apm.org.uk/blog/what-is-resource-management/",
+        "title": "What is resource management?",
+        "publisher": "Association for Project Management",
+        "accessedAt": "2026-11-03",
+        "section": "What are resources; Allocation, Aggregation, Scheduling",
+        "retrievalStatus": "partial",
+        "supportedClaims": [
+          "核对所需资源、可用量及使用时间。",
+          "04—05为该方法在自编职场对话中的应用；不声称来源收录原句或保证沟通效果"
+        ],
+        "summaryZh": "核对所需资源、可用量及使用时间。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      },
+      {
+        "id": "communication",
+        "url": "https://www.apm.org.uk/resources/what-is-project-management/what-is-project-communication/",
+        "title": "What is project communication?",
+        "publisher": "Association for Project Management",
+        "accessedAt": "2026-11-03",
+        "section": "Definition; Stakeholder communication; Planning models",
+        "retrievalStatus": "partial",
+        "supportedClaims": [
+          "04的回应与下一步按明确目的、接收反馈、确认理解的方法补写"
+        ],
+        "summaryZh": "双向沟通并确认理解；具体对话为原创应用。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      }
+    ],
+    "sourceLimitations": [
+      "词典原站直接打开返回403；词义依据来自可见搜索索引内容，未声称完整抓取。",
+      "context沿用授权输入中的公开教学例句；01类比及04/05对话为作者教学补写，非真实事件。",
+      "相邻词的比较是针对本句的教学对照，不主张在全部语境中互斥；未作词源或IPA核验。"
+    ],
+    "writer": "trial_writer_1"
+  },
+  {
+    "cardId": "V20261012-013",
+    "term": "allocate",
+    "context": "We should allocate more time to the initial review.",
+    "contextZh": "我们应给初步评审分配更多时间。",
+    "contextKind": "existing_public_card_example",
+    "contextSource": "input-1.json；既有公开词卡教学例句，非工作事件纪实",
+    "gloss": "分配",
+    "glossKind": "source_summary",
+    "pos": "v.",
+    "definitionEn": "to assign part of the available resources to a purpose",
+    "definitionZh": "把时间、人员或资源分配给某项工作",
+    "contextTakeaway": "建议给初步评审增加时间份额。",
+    "bridgeText": "这里的 allocate 指把时间、人员或资源分配给某项工作。",
+    "groups": [
+      {
+        "id": "g1",
+        "title": "先记住，再联系",
+        "text": "把 allocate 记成给时间、资金或人员划份额：总量有限，就要说明哪一部分留给哪项工作。本句说给初步评审更多时间，是资源安排的建议，不只是提醒大家更认真地评审。",
+        "sourceIds": [
+          "lexical",
+          "method"
+        ]
+      },
+      {
+        "id": "g2",
+        "title": "句法与概念",
+        "text": "should allocate 表示建议，allocate 的宾语是 more time，to the initial review 指分配去向。more 是相对原安排增加多少，但句中未给具体数值；initial review 指初步评审而非最后验收。",
+        "sourceIds": [
+          "lexical"
+        ]
+      },
+      {
+        "id": "g3",
+        "title": "辨析与英文邻居",
+        "text": "allocate 强调把资源配置到某处，spend 强调资源被花掉。可以先 allocate time，再实际 spend time；前者并不保证后者已发生。assign 常用于分派任务，而 allocate time 更清楚地谈时间份额。",
+        "sourceIds": [
+          "lexical",
+          "method"
+        ]
+      },
+      {
+        "id": "g4",
+        "title": "这句话在做什么",
+        "text": "本句在调整计划：初步评审可能需要更大的时间份额。自编回应：How much extra time do you suggest?（你建议再增加多少时间？）回应把方向变成可排期的数值，之后还需看其他活动的影响。",
+        "sourceIds": [
+          "lexical",
+          "method",
+          "communication"
+        ]
+      },
+      {
+        "id": "g5",
+        "title": "工作中可以这样说",
+        "text": "自编：Can we allocate two hours to the design review?（我们能给设计评审安排两小时吗？）适合排会议或工作计划时；把时长与用途一起说出，便于对方核对可用时间并作出明确答复。",
+        "sourceIds": [
+          "lexical",
+          "method",
+          "communication"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "lexical",
+        "url": "https://dictionary.cambridge.org/us/dictionary/english/allocate",
+        "title": "ALLOCATE — Cambridge Dictionary",
+        "publisher": "Cambridge University Press",
+        "accessedAt": "2026-11-03",
+        "section": "Business English allocate sth to/for",
+        "retrievalStatus": "index_excerpt",
+        "supportedClaims": [
+          "当前词义及词性；常见搭配（01—03）",
+          "definitionEn / definitionZh为自行转述，不是原文",
+          "句法分析为Writer对已给例句的拆解"
+        ],
+        "summaryZh": "把时间、人员或资源分配给某项工作",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      },
+      {
+        "id": "method",
+        "url": "https://www.apm.org.uk/blog/what-is-resource-management/",
+        "title": "What is resource management?",
+        "publisher": "Association for Project Management",
+        "accessedAt": "2026-11-03",
+        "section": "What are resources; Allocation, Aggregation, Scheduling",
+        "retrievalStatus": "partial",
+        "supportedClaims": [
+          "核对所需资源、可用量及使用时间。",
+          "04—05为该方法在自编职场对话中的应用；不声称来源收录原句或保证沟通效果"
+        ],
+        "summaryZh": "核对所需资源、可用量及使用时间。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      },
+      {
+        "id": "communication",
+        "url": "https://www.apm.org.uk/resources/what-is-project-management/what-is-project-communication/",
+        "title": "What is project communication?",
+        "publisher": "Association for Project Management",
+        "accessedAt": "2026-11-03",
+        "section": "Definition; Stakeholder communication; Planning models",
+        "retrievalStatus": "partial",
+        "supportedClaims": [
+          "04的回应与下一步按明确目的、接收反馈、确认理解的方法补写"
+        ],
+        "summaryZh": "双向沟通并确认理解；具体对话为原创应用。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      }
+    ],
+    "sourceLimitations": [
+      "词典原站直接打开返回403；词义依据来自可见搜索索引内容，未声称完整抓取。",
+      "context沿用授权输入中的公开教学例句；01类比及04/05对话为作者教学补写，非真实事件。",
+      "相邻词的比较是针对本句的教学对照，不主张在全部语境中互斥；未作词源或IPA核验。"
+    ],
+    "writer": "trial_writer_1"
+  },
+  {
+    "cardId": "V20261012-014",
+    "term": "delegate",
+    "context": "You can delegate the data collection to another team member.",
+    "contextZh": "你可以把数据收集委派给另一位团队成员。",
+    "contextKind": "existing_public_card_example",
+    "contextSource": "input-1.json；既有公开词卡教学例句，非工作事件纪实",
+    "gloss": "委派",
+    "glossKind": "source_summary",
+    "pos": "v.",
+    "definitionEn": "to give another person a task or responsibility to perform",
+    "definitionZh": "把具体任务及适当权限交给别人",
+    "contextTakeaway": "可以把数据收集工作交给其他同事。",
+    "bridgeText": "这里的 delegate 指把具体任务及适当权限交给别人。",
+    "groups": [
+      {
+        "id": "g1",
+        "title": "先记住，再联系",
+        "text": "记成把一块明确的工作交给合适的人处理。这里交出去的是数据收集，不是把整个项目丢给别人；记住“交什么、交给谁”，再在实际分工里确认完成标准和需要的权限。",
+        "sourceIds": [
+          "lexical",
+          "method"
+        ]
+      },
+      {
+        "id": "g2",
+        "title": "句法与概念",
+        "text": "can delegate 表示可以采取的做法；the data collection 是委派的任务，to another team member 指接收者。本句用 delegate 作动词，不是会议代表这个名词义，也没有直接宣布某位同事已接手。",
+        "sourceIds": [
+          "lexical"
+        ]
+      },
+      {
+        "id": "g3",
+        "title": "辨析与英文邻居",
+        "text": "delegate 强调由别人代为承担任务或职责；allocate 更强调分配资源份额。给某人两天时间可说 allocate time，把数据收集工作交给某人可说 delegate the task；别只给任务而漏了必要说明。",
+        "sourceIds": [
+          "lexical",
+          "method"
+        ]
+      },
+      {
+        "id": "g4",
+        "title": "这句话在做什么",
+        "text": "本句给任务集中在一人手上的情况提出分工选项。自编回应：Can I delegate it to Mei after confirming her availability?（确认梅有空后，我可以交给她吗？）接下来核实人选、要求和汇报方式。",
+        "sourceIds": [
+          "lexical",
+          "method",
+          "communication"
+        ]
+      },
+      {
+        "id": "g5",
+        "title": "工作中可以这样说",
+        "text": "自编：I'd like to delegate the weekly data check to you.（我想把每周的数据检查委派给你。）适合有相应分工权限时开启交接；随后应说明检查范围、完成时间和遇到问题向谁反馈，而非只说这一句。",
+        "sourceIds": [
+          "lexical",
+          "method",
+          "communication"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "lexical",
+        "url": "https://dictionary.cambridge.org/us/dictionary/english/delegate",
+        "title": "DELEGATE — Cambridge Dictionary",
+        "publisher": "Cambridge University Press",
+        "accessedAt": "2026-11-03",
+        "section": "verb GIVE; Business English",
+        "retrievalStatus": "index_excerpt",
+        "supportedClaims": [
+          "当前词义及词性；常见搭配（01—03）",
+          "definitionEn / definitionZh为自行转述，不是原文",
+          "句法分析为Writer对已给例句的拆解"
+        ],
+        "summaryZh": "把具体任务及适当权限交给别人",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      },
+      {
+        "id": "method",
+        "url": "https://www.apm.org.uk/blog/seven-tips-on-how-to-delegate-effectively/",
+        "title": "Seven tips on how to delegate effectively",
+        "publisher": "Association for Project Management",
+        "accessedAt": "2026-11-03",
+        "section": "3 Focus on relationships; 5 Empower people",
+        "retrievalStatus": "partial",
+        "supportedClaims": [
+          "委派需解释任务要求，并提供资源与支持。",
+          "04—05为该方法在自编职场对话中的应用；不声称来源收录原句或保证沟通效果"
+        ],
+        "summaryZh": "委派需解释任务要求，并提供资源与支持。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      },
+      {
+        "id": "communication",
+        "url": "https://www.apm.org.uk/resources/what-is-project-management/what-is-project-communication/",
+        "title": "What is project communication?",
+        "publisher": "Association for Project Management",
+        "accessedAt": "2026-11-03",
+        "section": "Definition; Stakeholder communication; Planning models",
+        "retrievalStatus": "partial",
+        "supportedClaims": [
+          "04的回应与下一步按明确目的、接收反馈、确认理解的方法补写"
+        ],
+        "summaryZh": "双向沟通并确认理解；具体对话为原创应用。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      }
+    ],
+    "sourceLimitations": [
+      "词典原站直接打开返回403；词义依据来自可见搜索索引内容，未声称完整抓取。",
+      "context沿用授权输入中的公开教学例句；01类比及04/05对话为作者教学补写，非真实事件。",
+      "相邻词的比较是针对本句的教学对照，不主张在全部语境中互斥；未作词源或IPA核验。"
+    ],
+    "writer": "trial_writer_1"
+  },
+  {
+    "cardId": "V20261012-015",
+    "term": "ownership",
+    "context": "Who will take ownership of this open item?",
+    "contextZh": "谁来负责推进这项未结事项？",
+    "contextKind": "existing_public_card_example",
+    "contextSource": "input-1.json；既有公开词卡教学例句，非工作事件纪实",
+    "gloss": "责任归属",
+    "glossKind": "source_summary",
+    "pos": "n.",
+    "definitionEn": "responsibility for seeing an issue or piece of work through",
+    "definitionZh": "对事项负责并推动到结果的责任归属",
+    "contextTakeaway": "要明确谁跟进这项未结事项。",
+    "bridgeText": "这里的 ownership 指对事项负责并推动到结果的责任归属。",
+    "groups": [
+      {
+        "id": "g1",
+        "title": "先记住，再联系",
+        "text": "把 take ownership 联系到“这件事由我跟进”，就能从财产所有权切到工作责任。本句的 open item 是尚未结清的事项；需要有人推动和协调，不等于此人必须独自完成每一个动作。",
+        "sourceIds": [
+          "lexical",
+          "method"
+        ]
+      },
+      {
+        "id": "g2",
+        "title": "句法与概念",
+        "text": "Who will take ownership of ...? 询问未来由谁承担责任；of 后接 this open item，明确负责对象。ownership 在这里是不可数名词。问句尚未指定负责人，不能读成已经把任务交给听话的人。",
+        "sourceIds": [
+          "lexical"
+        ]
+      },
+      {
+        "id": "g3",
+        "title": "辨析与英文邻居",
+        "text": "ownership 突出主动接住并跟进事项，accountability 突出需要对行动或结果作出解释。实际组织可能另有角色定义；不要只凭 ownership 这个词就推断此人拥有预算、审批或最终签字权限。",
+        "sourceIds": [
+          "lexical",
+          "method"
+        ]
+      },
+      {
+        "id": "g4",
+        "title": "这句话在做什么",
+        "text": "事项还没有明确跟进人时，本句邀请指定或认领责任，让讨论从“有人该处理”变成“谁来推进”。自编回应：I'll take ownership and report back tomorrow.（我来跟进，明天回报。）这明确了人和反馈时间。",
+        "sourceIds": [
+          "lexical",
+          "method",
+          "communication"
+        ]
+      },
+      {
+        "id": "g5",
+        "title": "工作中可以这样说",
+        "text": "自编：Could we clarify ownership of the testing issues?（我们能明确一下测试问题由谁负责跟进吗？）适合多人参与却无人统筹时；clarify 先要求说清职责，可随后逐项确认，而不是暗中指责某人失职。",
+        "sourceIds": [
+          "lexical",
+          "method",
+          "communication"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "lexical",
+        "url": "https://dictionary.cambridge.org/us/dictionary/english/ownership",
+        "title": "OWNERSHIP — Cambridge Dictionary",
+        "publisher": "Cambridge University Press",
+        "accessedAt": "2026-11-03",
+        "section": "Business English: responsibility for idea or problem",
+        "retrievalStatus": "index_excerpt",
+        "supportedClaims": [
+          "当前词义及词性；常见搭配（01—03）",
+          "definitionEn / definitionZh为自行转述，不是原文",
+          "句法分析为Writer对已给例句的拆解"
+        ],
+        "summaryZh": "对事项负责并推动到结果的责任归属",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      },
+      {
+        "id": "method",
+        "url": "https://www.apm.org.uk/resources/find-a-resource/competence-framework/overview/setting-up-for-success/",
+        "title": "Setting up for success",
+        "publisher": "Association for Project Management",
+        "accessedAt": "2026-11-03",
+        "section": "Governance arrangements: levels of ownership",
+        "retrievalStatus": "partial",
+        "supportedClaims": [
+          "明确职责、问责、权限与汇报安排。",
+          "04—05为该方法在自编职场对话中的应用；不声称来源收录原句或保证沟通效果"
+        ],
+        "summaryZh": "明确职责、问责、权限与汇报安排。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      },
+      {
+        "id": "communication",
+        "url": "https://www.apm.org.uk/resources/what-is-project-management/what-is-project-communication/",
+        "title": "What is project communication?",
+        "publisher": "Association for Project Management",
+        "accessedAt": "2026-11-03",
+        "section": "Definition; Stakeholder communication; Planning models",
+        "retrievalStatus": "partial",
+        "supportedClaims": [
+          "04的回应与下一步按明确目的、接收反馈、确认理解的方法补写"
+        ],
+        "summaryZh": "双向沟通并确认理解；具体对话为原创应用。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      }
+    ],
+    "sourceLimitations": [
+      "词典原站直接打开返回403；词义依据来自可见搜索索引内容，未声称完整抓取。",
+      "context沿用授权输入中的公开教学例句；01类比及04/05对话为作者教学补写，非真实事件。",
+      "相邻词的比较是针对本句的教学对照，不主张在全部语境中互斥；未作词源或IPA核验。"
+    ],
+    "writer": "trial_writer_1"
+  },
+  {
+    "cardId": "V20261012-016",
+    "term": "accountable",
+    "context": "One person must be accountable for the final decision.",
+    "contextZh": "必须有一个人对最终决定负责。",
+    "contextKind": "existing_public_card_example",
+    "contextSource": "input-1.json；既有公开词卡教学例句，非工作事件纪实",
+    "gloss": "须对结果负责的",
+    "glossKind": "source_summary",
+    "pos": "adj.",
+    "definitionEn": "responsible for an action or result and required to explain it",
+    "definitionZh": "需要对最终结果作出解释并承担责任的",
+    "contextTakeaway": "最终决定需要有明确的负责者。",
+    "bridgeText": "这里的 accountable 指需要对最终结果作出解释并承担责任的。",
+    "groups": [
+      {
+        "id": "g1",
+        "title": "先记住，再联系",
+        "text": "把 accountable 和“需要说得清为什么”联系起来：不只接任务，还要能解释自己的行动或决定。本句谈最终决定的责任归属，不是在说负责人必须亲手完成所有准备工作。",
+        "sourceIds": [
+          "lexical",
+          "method"
+        ]
+      },
+      {
+        "id": "g2",
+        "title": "句法与概念",
+        "text": "must be accountable 中 accountable 是形容词；for the final decision 表示对什么负责。accountable to someone 则说明向谁交代。One person 来自本句具体要求，不能扩张成任何组织都只能一人负责。",
+        "sourceIds": [
+          "lexical"
+        ]
+      },
+      {
+        "id": "g3",
+        "title": "辨析与英文邻居",
+        "text": "responsible 与 accountable 在日常英语中可重叠，后者更突出解释与问责。RACI 等管理方法会另作角色区分，但不能把某一套规则当所有场合的词义。answerable 是表达向人交代的相邻词。",
+        "sourceIds": [
+          "lexical",
+          "method"
+        ]
+      },
+      {
+        "id": "g4",
+        "title": "这句话在做什么",
+        "text": "本句要求把最终决定的责任明确下来，避免多人参与却无人能说明结果。自编回应：Who has the authority to make that decision?（谁有权作出这个决定？）接着核对责任和决策权限是否对应。",
+        "sourceIds": [
+          "lexical",
+          "method",
+          "communication"
+        ]
+      },
+      {
+        "id": "g5",
+        "title": "工作中可以这样说",
+        "text": "自编：Who is accountable for approving the final version?（谁须对最终版本的批准负责？）适合确认审批职责；for 后接 approving 可自然表达对某项行动负责，不能凭这句询问就认定已获批准。",
+        "sourceIds": [
+          "lexical",
+          "method",
+          "communication"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "lexical",
+        "url": "https://dictionary.cambridge.org/dictionary/english/accountable",
+        "title": "ACCOUNTABLE — Cambridge Dictionary",
+        "publisher": "Cambridge University Press",
+        "accessedAt": "2026-11-03",
+        "section": "Business English accountable for/to",
+        "retrievalStatus": "index_excerpt",
+        "supportedClaims": [
+          "当前词义及词性；常见搭配（01—03）",
+          "definitionEn / definitionZh为自行转述，不是原文",
+          "句法分析为Writer对已给例句的拆解"
+        ],
+        "summaryZh": "需要对最终结果作出解释并承担责任的",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      },
+      {
+        "id": "method",
+        "url": "https://www.apm.org.uk/resources/find-a-resource/competence-framework/overview/setting-up-for-success/",
+        "title": "Setting up for success",
+        "publisher": "Association for Project Management",
+        "accessedAt": "2026-11-03",
+        "section": "Governance arrangements: levels of ownership",
+        "retrievalStatus": "partial",
+        "supportedClaims": [
+          "明确职责、问责、权限与汇报安排。",
+          "04—05为该方法在自编职场对话中的应用；不声称来源收录原句或保证沟通效果"
+        ],
+        "summaryZh": "明确职责、问责、权限与汇报安排。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      },
+      {
+        "id": "communication",
+        "url": "https://www.apm.org.uk/resources/what-is-project-management/what-is-project-communication/",
+        "title": "What is project communication?",
+        "publisher": "Association for Project Management",
+        "accessedAt": "2026-11-03",
+        "section": "Definition; Stakeholder communication; Planning models",
+        "retrievalStatus": "partial",
+        "supportedClaims": [
+          "04的回应与下一步按明确目的、接收反馈、确认理解的方法补写"
+        ],
+        "summaryZh": "双向沟通并确认理解；具体对话为原创应用。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      }
+    ],
+    "sourceLimitations": [
+      "词典原站直接打开返回403；词义依据来自可见搜索索引内容，未声称完整抓取。",
+      "context沿用授权输入中的公开教学例句；01类比及04/05对话为作者教学补写，非真实事件。",
+      "相邻词的比较是针对本句的教学对照，不主张在全部语境中互斥；未作词源或IPA核验。"
+    ],
+    "writer": "trial_writer_1"
+  },
+  {
+    "cardId": "V20261012-017",
+    "term": "deadline",
+    "context": "We need a decision today to meet the deadline.",
+    "contextZh": "为赶上截止期限，我们今天需要作出决定。",
+    "contextKind": "existing_public_card_example",
+    "contextSource": "input-1.json；既有公开词卡教学例句，非工作事件纪实",
+    "gloss": "截止期限",
+    "glossKind": "source_summary",
+    "pos": "n.",
+    "definitionEn": "the latest time by which something must be completed",
+    "definitionZh": "必须完成某事的最后期限",
+    "contextTakeaway": "今天作决定，是为了后续能按期完成。",
+    "bridgeText": "这里的 deadline 指必须完成某事的最后期限。",
+    "groups": [
+      {
+        "id": "g1",
+        "title": "先记住，再联系",
+        "text": "把 deadline 记成日历上最后可接受的完成点，常连着 meet 或 miss 一起学。本句把今天的决定与之后按期完成连起来，提醒人当前决定有时间影响，并没有交代最终截止是哪一天。",
+        "sourceIds": [
+          "lexical"
+        ]
+      },
+      {
+        "id": "g2",
+        "title": "句法与概念",
+        "text": "We need a decision today 是主要要求；to meet the deadline 说明为何今天需要决定。meet 在这里是按期达到要求，不是与期限见面。today 修饰需要决定的时间，不能直接当作最终项目截止日。",
+        "sourceIds": [
+          "lexical"
+        ]
+      },
+      {
+        "id": "g3",
+        "title": "辨析与英文邻居",
+        "text": "deadline 是最晚期限，target date 可表示计划争取的日期，约束程度要看具体约定。milestone 强调重要进度节点，也可配截止日。把期限与节点名称一起说，通常比孤立报一个日期更清楚。",
+        "sourceIds": [
+          "lexical"
+        ]
+      },
+      {
+        "id": "g4",
+        "title": "这句话在做什么",
+        "text": "决定迟迟未定时，本句给出现在需要答复的理由，以免拖累后续工作。自编回应：What decision do you need from us today?（今天需要我们作出什么决定？）回应把催促转成明确的待决事项。",
+        "sourceIds": [
+          "lexical",
+          "method"
+        ]
+      },
+      {
+        "id": "g5",
+        "title": "工作中可以这样说",
+        "text": "自编：Could we confirm the deadline for submitting the report?（我们能确认报告提交的截止期限吗？）适合接下任务时使用；若跨时区或有具体收件时间，再确认日期和时间，避免双方理解成不同的截止点。",
+        "sourceIds": [
+          "lexical",
+          "method"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "lexical",
+        "url": "https://dictionary.cambridge.org/us/dictionary/english/deadline",
+        "title": "DEADLINE — Cambridge Dictionary",
+        "publisher": "Cambridge University Press",
+        "accessedAt": "2026-11-03",
+        "section": "Business English meet/set a deadline",
+        "retrievalStatus": "index_excerpt",
+        "supportedClaims": [
+          "当前词义及词性；常见搭配（01—03）",
+          "definitionEn / definitionZh为自行转述，不是原文",
+          "句法分析为Writer对已给例句的拆解"
+        ],
+        "summaryZh": "必须完成某事的最后期限",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      },
+      {
+        "id": "method",
+        "url": "https://www.apm.org.uk/resources/what-is-project-management/what-is-project-communication/",
+        "title": "What is project communication?",
+        "publisher": "Association for Project Management",
+        "accessedAt": "2026-11-03",
+        "section": "Definition; Stakeholder communication; Planning models",
+        "retrievalStatus": "partial",
+        "supportedClaims": [
+          "沟通要明确目的、对象与反馈，并核对共同理解。",
+          "04—05为该方法在自编职场对话中的应用；不声称来源收录原句或保证沟通效果"
+        ],
+        "summaryZh": "沟通要明确目的、对象与反馈，并核对共同理解。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      }
+    ],
+    "sourceLimitations": [
+      "词典原站直接打开返回403；词义依据来自可见搜索索引内容，未声称完整抓取。",
+      "context沿用授权输入中的公开教学例句；01类比及04/05对话为作者教学补写，非真实事件。",
+      "相邻词的比较是针对本句的教学对照，不主张在全部语境中互斥；未作词源或IPA核验。"
+    ],
+    "writer": "trial_writer_1"
+  }
+]

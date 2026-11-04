@@ -1,0 +1,3009 @@
+{
+  "checks": [
+    {
+      "device": "windows",
+      "width": 1440,
+      "height": 810,
+      "term": "scope",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "windows",
+      "width": 1440,
+      "height": 810,
+      "term": "objective",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "windows",
+      "width": 1440,
+      "height": 810,
+      "term": "deliverable",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "windows",
+      "width": 1440,
+      "height": 810,
+      "term": "milestone",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "windows",
+      "width": 1440,
+      "height": 810,
+      "term": "priority",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "windows",
+      "width": 1440,
+      "height": 810,
+      "term": "constraint",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "windows",
+      "width": 1440,
+      "height": 810,
+      "term": "dependency",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "windows",
+      "width": 1440,
+      "height": 810,
+      "term": "assumption",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "windows",
+      "width": 1440,
+      "height": 810,
+      "term": "baseline",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "windows",
+      "width": 1440,
+      "height": 810,
+      "term": "buffer",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "windows",
+      "width": 1440,
+      "height": 810,
+      "term": "sequence",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "windows",
+      "width": 1440,
+      "height": 810,
+      "term": "capacity",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "windows",
+      "width": 1440,
+      "height": 810,
+      "term": "allocate",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "windows",
+      "width": 1440,
+      "height": 810,
+      "term": "delegate",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "windows",
+      "width": 1440,
+      "height": 810,
+      "term": "ownership",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "windows",
+      "width": 1440,
+      "height": 810,
+      "term": "accountable",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "windows",
+      "width": 1440,
+      "height": 810,
+      "term": "deadline",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "windows",
+      "width": 1440,
+      "height": 810,
+      "term": "commitment",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "windows",
+      "width": 1440,
+      "height": 810,
+      "term": "contingency",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "windows",
+      "width": 1440,
+      "height": 810,
+      "term": "trade-off",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "windows",
+      "width": 1440,
+      "height": 810,
+      "term": "agenda",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "windows",
+      "width": 1440,
+      "height": 810,
+      "term": "context",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "windows",
+      "width": 1440,
+      "height": 810,
+      "term": "clarify",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "windows",
+      "width": 1440,
+      "height": 810,
+      "term": "confirm",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "windows",
+      "width": 1440,
+      "height": 810,
+      "term": "specify",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "windows",
+      "width": 1440,
+      "height": 810,
+      "term": "elaborate",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "windows",
+      "width": 1440,
+      "height": 810,
+      "term": "summarize",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "windows",
+      "width": 1440,
+      "height": 810,
+      "term": "recap",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "windows",
+      "width": 1440,
+      "height": 810,
+      "term": "align",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "windows",
+      "width": 1440,
+      "height": 810,
+      "term": "consensus",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "windows",
+      "width": 1440,
+      "height": 810,
+      "term": "concern",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "windows",
+      "width": 1440,
+      "height": 810,
+      "term": "objection",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "windows",
+      "width": 1440,
+      "height": 810,
+      "term": "reservation",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "windows",
+      "width": 1440,
+      "height": 810,
+      "term": "rationale",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "windows",
+      "width": 1440,
+      "height": 810,
+      "term": "proposal",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "windows",
+      "width": 1440,
+      "height": 810,
+      "term": "alternative",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "windows",
+      "width": 1440,
+      "height": 810,
+      "term": "compromise",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "windows",
+      "width": 1440,
+      "height": 810,
+      "term": "negotiate",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "windows",
+      "width": 1440,
+      "height": 810,
+      "term": "conclude",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "windows",
+      "width": 1440,
+      "height": 810,
+      "term": "document",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "windows",
+      "width": 1440,
+      "height": 810,
+      "term": "follow up",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "windows",
+      "width": 1440,
+      "height": 810,
+      "term": "bring up",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "windows",
+      "width": 1440,
+      "height": 810,
+      "term": "walk through",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "windows",
+      "width": 1440,
+      "height": 810,
+      "term": "point out",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "windows",
+      "width": 1440,
+      "height": 810,
+      "term": "rule out",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "windows",
+      "width": 1440,
+      "height": 810,
+      "term": "hold off",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "windows",
+      "width": 1440,
+      "height": 810,
+      "term": "work around",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "windows",
+      "width": 1440,
+      "height": 810,
+      "term": "take on",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "windows",
+      "width": 1440,
+      "height": 810,
+      "term": "weigh up",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "windows",
+      "width": 1440,
+      "height": 810,
+      "term": "wrap up",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "mac",
+      "width": 1512,
+      "height": 982,
+      "term": "scope",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "mac",
+      "width": 1512,
+      "height": 982,
+      "term": "objective",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "mac",
+      "width": 1512,
+      "height": 982,
+      "term": "deliverable",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "mac",
+      "width": 1512,
+      "height": 982,
+      "term": "milestone",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "mac",
+      "width": 1512,
+      "height": 982,
+      "term": "priority",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "mac",
+      "width": 1512,
+      "height": 982,
+      "term": "constraint",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "mac",
+      "width": 1512,
+      "height": 982,
+      "term": "dependency",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "mac",
+      "width": 1512,
+      "height": 982,
+      "term": "assumption",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "mac",
+      "width": 1512,
+      "height": 982,
+      "term": "baseline",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "mac",
+      "width": 1512,
+      "height": 982,
+      "term": "buffer",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "mac",
+      "width": 1512,
+      "height": 982,
+      "term": "sequence",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "mac",
+      "width": 1512,
+      "height": 982,
+      "term": "capacity",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "mac",
+      "width": 1512,
+      "height": 982,
+      "term": "allocate",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "mac",
+      "width": 1512,
+      "height": 982,
+      "term": "delegate",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "mac",
+      "width": 1512,
+      "height": 982,
+      "term": "ownership",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "mac",
+      "width": 1512,
+      "height": 982,
+      "term": "accountable",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "mac",
+      "width": 1512,
+      "height": 982,
+      "term": "deadline",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "mac",
+      "width": 1512,
+      "height": 982,
+      "term": "commitment",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "mac",
+      "width": 1512,
+      "height": 982,
+      "term": "contingency",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "mac",
+      "width": 1512,
+      "height": 982,
+      "term": "trade-off",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "mac",
+      "width": 1512,
+      "height": 982,
+      "term": "agenda",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "mac",
+      "width": 1512,
+      "height": 982,
+      "term": "context",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "mac",
+      "width": 1512,
+      "height": 982,
+      "term": "clarify",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "mac",
+      "width": 1512,
+      "height": 982,
+      "term": "confirm",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "mac",
+      "width": 1512,
+      "height": 982,
+      "term": "specify",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "mac",
+      "width": 1512,
+      "height": 982,
+      "term": "elaborate",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "mac",
+      "width": 1512,
+      "height": 982,
+      "term": "summarize",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "mac",
+      "width": 1512,
+      "height": 982,
+      "term": "recap",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "mac",
+      "width": 1512,
+      "height": 982,
+      "term": "align",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "mac",
+      "width": 1512,
+      "height": 982,
+      "term": "consensus",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "mac",
+      "width": 1512,
+      "height": 982,
+      "term": "concern",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "mac",
+      "width": 1512,
+      "height": 982,
+      "term": "objection",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "mac",
+      "width": 1512,
+      "height": 982,
+      "term": "reservation",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "mac",
+      "width": 1512,
+      "height": 982,
+      "term": "rationale",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "mac",
+      "width": 1512,
+      "height": 982,
+      "term": "proposal",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "mac",
+      "width": 1512,
+      "height": 982,
+      "term": "alternative",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "mac",
+      "width": 1512,
+      "height": 982,
+      "term": "compromise",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "mac",
+      "width": 1512,
+      "height": 982,
+      "term": "negotiate",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "mac",
+      "width": 1512,
+      "height": 982,
+      "term": "conclude",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "mac",
+      "width": 1512,
+      "height": 982,
+      "term": "document",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "mac",
+      "width": 1512,
+      "height": 982,
+      "term": "follow up",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "mac",
+      "width": 1512,
+      "height": 982,
+      "term": "bring up",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "mac",
+      "width": 1512,
+      "height": 982,
+      "term": "walk through",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "mac",
+      "width": 1512,
+      "height": 982,
+      "term": "point out",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "mac",
+      "width": 1512,
+      "height": 982,
+      "term": "rule out",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "mac",
+      "width": 1512,
+      "height": 982,
+      "term": "hold off",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "mac",
+      "width": 1512,
+      "height": 982,
+      "term": "work around",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "mac",
+      "width": 1512,
+      "height": 982,
+      "term": "take on",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "mac",
+      "width": 1512,
+      "height": 982,
+      "term": "weigh up",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "mac",
+      "width": 1512,
+      "height": 982,
+      "term": "wrap up",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "phone-portrait",
+      "width": 390,
+      "height": 844,
+      "term": "scope",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "phone-portrait",
+      "width": 390,
+      "height": 844,
+      "term": "objective",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "phone-portrait",
+      "width": 390,
+      "height": 844,
+      "term": "deliverable",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "phone-portrait",
+      "width": 390,
+      "height": 844,
+      "term": "milestone",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "phone-portrait",
+      "width": 390,
+      "height": 844,
+      "term": "priority",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "phone-portrait",
+      "width": 390,
+      "height": 844,
+      "term": "constraint",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "phone-portrait",
+      "width": 390,
+      "height": 844,
+      "term": "dependency",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "phone-portrait",
+      "width": 390,
+      "height": 844,
+      "term": "assumption",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "phone-portrait",
+      "width": 390,
+      "height": 844,
+      "term": "baseline",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "phone-portrait",
+      "width": 390,
+      "height": 844,
+      "term": "buffer",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "phone-portrait",
+      "width": 390,
+      "height": 844,
+      "term": "sequence",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "phone-portrait",
+      "width": 390,
+      "height": 844,
+      "term": "capacity",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "phone-portrait",
+      "width": 390,
+      "height": 844,
+      "term": "allocate",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "phone-portrait",
+      "width": 390,
+      "height": 844,
+      "term": "delegate",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "phone-portrait",
+      "width": 390,
+      "height": 844,
+      "term": "ownership",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "phone-portrait",
+      "width": 390,
+      "height": 844,
+      "term": "accountable",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "phone-portrait",
+      "width": 390,
+      "height": 844,
+      "term": "deadline",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "phone-portrait",
+      "width": 390,
+      "height": 844,
+      "term": "commitment",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "phone-portrait",
+      "width": 390,
+      "height": 844,
+      "term": "contingency",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "phone-portrait",
+      "width": 390,
+      "height": 844,
+      "term": "trade-off",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "phone-portrait",
+      "width": 390,
+      "height": 844,
+      "term": "agenda",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "phone-portrait",
+      "width": 390,
+      "height": 844,
+      "term": "context",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "phone-portrait",
+      "width": 390,
+      "height": 844,
+      "term": "clarify",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "phone-portrait",
+      "width": 390,
+      "height": 844,
+      "term": "confirm",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "phone-portrait",
+      "width": 390,
+      "height": 844,
+      "term": "specify",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "phone-portrait",
+      "width": 390,
+      "height": 844,
+      "term": "elaborate",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "phone-portrait",
+      "width": 390,
+      "height": 844,
+      "term": "summarize",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "phone-portrait",
+      "width": 390,
+      "height": 844,
+      "term": "recap",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "phone-portrait",
+      "width": 390,
+      "height": 844,
+      "term": "align",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "phone-portrait",
+      "width": 390,
+      "height": 844,
+      "term": "consensus",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "phone-portrait",
+      "width": 390,
+      "height": 844,
+      "term": "concern",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "phone-portrait",
+      "width": 390,
+      "height": 844,
+      "term": "objection",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "phone-portrait",
+      "width": 390,
+      "height": 844,
+      "term": "reservation",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "phone-portrait",
+      "width": 390,
+      "height": 844,
+      "term": "rationale",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "phone-portrait",
+      "width": 390,
+      "height": 844,
+      "term": "proposal",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "phone-portrait",
+      "width": 390,
+      "height": 844,
+      "term": "alternative",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "phone-portrait",
+      "width": 390,
+      "height": 844,
+      "term": "compromise",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "phone-portrait",
+      "width": 390,
+      "height": 844,
+      "term": "negotiate",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "phone-portrait",
+      "width": 390,
+      "height": 844,
+      "term": "conclude",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "phone-portrait",
+      "width": 390,
+      "height": 844,
+      "term": "document",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "phone-portrait",
+      "width": 390,
+      "height": 844,
+      "term": "follow up",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "phone-portrait",
+      "width": 390,
+      "height": 844,
+      "term": "bring up",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "phone-portrait",
+      "width": 390,
+      "height": 844,
+      "term": "walk through",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "phone-portrait",
+      "width": 390,
+      "height": 844,
+      "term": "point out",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "phone-portrait",
+      "width": 390,
+      "height": 844,
+      "term": "rule out",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "phone-portrait",
+      "width": 390,
+      "height": 844,
+      "term": "hold off",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "phone-portrait",
+      "width": 390,
+      "height": 844,
+      "term": "work around",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "phone-portrait",
+      "width": 390,
+      "height": 844,
+      "term": "take on",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "phone-portrait",
+      "width": 390,
+      "height": 844,
+      "term": "weigh up",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "phone-portrait",
+      "width": 390,
+      "height": 844,
+      "term": "wrap up",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "phone-landscape",
+      "width": 844,
+      "height": 390,
+      "term": "scope",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "phone-landscape",
+      "width": 844,
+      "height": 390,
+      "term": "objective",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "phone-landscape",
+      "width": 844,
+      "height": 390,
+      "term": "deliverable",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "phone-landscape",
+      "width": 844,
+      "height": 390,
+      "term": "milestone",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "phone-landscape",
+      "width": 844,
+      "height": 390,
+      "term": "priority",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "phone-landscape",
+      "width": 844,
+      "height": 390,
+      "term": "constraint",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "phone-landscape",
+      "width": 844,
+      "height": 390,
+      "term": "dependency",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "phone-landscape",
+      "width": 844,
+      "height": 390,
+      "term": "assumption",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "phone-landscape",
+      "width": 844,
+      "height": 390,
+      "term": "baseline",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "phone-landscape",
+      "width": 844,
+      "height": 390,
+      "term": "buffer",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "phone-landscape",
+      "width": 844,
+      "height": 390,
+      "term": "sequence",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "phone-landscape",
+      "width": 844,
+      "height": 390,
+      "term": "capacity",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "phone-landscape",
+      "width": 844,
+      "height": 390,
+      "term": "allocate",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "phone-landscape",
+      "width": 844,
+      "height": 390,
+      "term": "delegate",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "phone-landscape",
+      "width": 844,
+      "height": 390,
+      "term": "ownership",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "phone-landscape",
+      "width": 844,
+      "height": 390,
+      "term": "accountable",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "phone-landscape",
+      "width": 844,
+      "height": 390,
+      "term": "deadline",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "phone-landscape",
+      "width": 844,
+      "height": 390,
+      "term": "commitment",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "phone-landscape",
+      "width": 844,
+      "height": 390,
+      "term": "contingency",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "phone-landscape",
+      "width": 844,
+      "height": 390,
+      "term": "trade-off",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "phone-landscape",
+      "width": 844,
+      "height": 390,
+      "term": "agenda",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "phone-landscape",
+      "width": 844,
+      "height": 390,
+      "term": "context",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "phone-landscape",
+      "width": 844,
+      "height": 390,
+      "term": "clarify",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "phone-landscape",
+      "width": 844,
+      "height": 390,
+      "term": "confirm",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "phone-landscape",
+      "width": 844,
+      "height": 390,
+      "term": "specify",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "phone-landscape",
+      "width": 844,
+      "height": 390,
+      "term": "elaborate",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "phone-landscape",
+      "width": 844,
+      "height": 390,
+      "term": "summarize",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "phone-landscape",
+      "width": 844,
+      "height": 390,
+      "term": "recap",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "phone-landscape",
+      "width": 844,
+      "height": 390,
+      "term": "align",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "phone-landscape",
+      "width": 844,
+      "height": 390,
+      "term": "consensus",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "phone-landscape",
+      "width": 844,
+      "height": 390,
+      "term": "concern",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "phone-landscape",
+      "width": 844,
+      "height": 390,
+      "term": "objection",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "phone-landscape",
+      "width": 844,
+      "height": 390,
+      "term": "reservation",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "phone-landscape",
+      "width": 844,
+      "height": 390,
+      "term": "rationale",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "phone-landscape",
+      "width": 844,
+      "height": 390,
+      "term": "proposal",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "phone-landscape",
+      "width": 844,
+      "height": 390,
+      "term": "alternative",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "phone-landscape",
+      "width": 844,
+      "height": 390,
+      "term": "compromise",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "phone-landscape",
+      "width": 844,
+      "height": 390,
+      "term": "negotiate",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "phone-landscape",
+      "width": 844,
+      "height": 390,
+      "term": "conclude",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "phone-landscape",
+      "width": 844,
+      "height": 390,
+      "term": "document",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "phone-landscape",
+      "width": 844,
+      "height": 390,
+      "term": "follow up",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "phone-landscape",
+      "width": 844,
+      "height": 390,
+      "term": "bring up",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "phone-landscape",
+      "width": 844,
+      "height": 390,
+      "term": "walk through",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "phone-landscape",
+      "width": 844,
+      "height": 390,
+      "term": "point out",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "phone-landscape",
+      "width": 844,
+      "height": 390,
+      "term": "rule out",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "phone-landscape",
+      "width": 844,
+      "height": 390,
+      "term": "hold off",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "phone-landscape",
+      "width": 844,
+      "height": 390,
+      "term": "work around",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "phone-landscape",
+      "width": 844,
+      "height": 390,
+      "term": "take on",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "phone-landscape",
+      "width": 844,
+      "height": 390,
+      "term": "weigh up",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "phone-landscape",
+      "width": 844,
+      "height": 390,
+      "term": "wrap up",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "tablet-portrait",
+      "width": 820,
+      "height": 1180,
+      "term": "scope",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "tablet-portrait",
+      "width": 820,
+      "height": 1180,
+      "term": "objective",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "tablet-portrait",
+      "width": 820,
+      "height": 1180,
+      "term": "deliverable",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "tablet-portrait",
+      "width": 820,
+      "height": 1180,
+      "term": "milestone",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "tablet-portrait",
+      "width": 820,
+      "height": 1180,
+      "term": "priority",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "tablet-portrait",
+      "width": 820,
+      "height": 1180,
+      "term": "constraint",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "tablet-portrait",
+      "width": 820,
+      "height": 1180,
+      "term": "dependency",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "tablet-portrait",
+      "width": 820,
+      "height": 1180,
+      "term": "assumption",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "tablet-portrait",
+      "width": 820,
+      "height": 1180,
+      "term": "baseline",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "tablet-portrait",
+      "width": 820,
+      "height": 1180,
+      "term": "buffer",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "tablet-portrait",
+      "width": 820,
+      "height": 1180,
+      "term": "sequence",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "tablet-portrait",
+      "width": 820,
+      "height": 1180,
+      "term": "capacity",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "tablet-portrait",
+      "width": 820,
+      "height": 1180,
+      "term": "allocate",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "tablet-portrait",
+      "width": 820,
+      "height": 1180,
+      "term": "delegate",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "tablet-portrait",
+      "width": 820,
+      "height": 1180,
+      "term": "ownership",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "tablet-portrait",
+      "width": 820,
+      "height": 1180,
+      "term": "accountable",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "tablet-portrait",
+      "width": 820,
+      "height": 1180,
+      "term": "deadline",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "tablet-portrait",
+      "width": 820,
+      "height": 1180,
+      "term": "commitment",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "tablet-portrait",
+      "width": 820,
+      "height": 1180,
+      "term": "contingency",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "tablet-portrait",
+      "width": 820,
+      "height": 1180,
+      "term": "trade-off",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "tablet-portrait",
+      "width": 820,
+      "height": 1180,
+      "term": "agenda",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "tablet-portrait",
+      "width": 820,
+      "height": 1180,
+      "term": "context",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "tablet-portrait",
+      "width": 820,
+      "height": 1180,
+      "term": "clarify",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "tablet-portrait",
+      "width": 820,
+      "height": 1180,
+      "term": "confirm",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "tablet-portrait",
+      "width": 820,
+      "height": 1180,
+      "term": "specify",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "tablet-portrait",
+      "width": 820,
+      "height": 1180,
+      "term": "elaborate",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "tablet-portrait",
+      "width": 820,
+      "height": 1180,
+      "term": "summarize",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "tablet-portrait",
+      "width": 820,
+      "height": 1180,
+      "term": "recap",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "tablet-portrait",
+      "width": 820,
+      "height": 1180,
+      "term": "align",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "tablet-portrait",
+      "width": 820,
+      "height": 1180,
+      "term": "consensus",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "tablet-portrait",
+      "width": 820,
+      "height": 1180,
+      "term": "concern",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "tablet-portrait",
+      "width": 820,
+      "height": 1180,
+      "term": "objection",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "tablet-portrait",
+      "width": 820,
+      "height": 1180,
+      "term": "reservation",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "tablet-portrait",
+      "width": 820,
+      "height": 1180,
+      "term": "rationale",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "tablet-portrait",
+      "width": 820,
+      "height": 1180,
+      "term": "proposal",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "tablet-portrait",
+      "width": 820,
+      "height": 1180,
+      "term": "alternative",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "tablet-portrait",
+      "width": 820,
+      "height": 1180,
+      "term": "compromise",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "tablet-portrait",
+      "width": 820,
+      "height": 1180,
+      "term": "negotiate",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "tablet-portrait",
+      "width": 820,
+      "height": 1180,
+      "term": "conclude",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "tablet-portrait",
+      "width": 820,
+      "height": 1180,
+      "term": "document",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "tablet-portrait",
+      "width": 820,
+      "height": 1180,
+      "term": "follow up",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "tablet-portrait",
+      "width": 820,
+      "height": 1180,
+      "term": "bring up",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "tablet-portrait",
+      "width": 820,
+      "height": 1180,
+      "term": "walk through",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "tablet-portrait",
+      "width": 820,
+      "height": 1180,
+      "term": "point out",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "tablet-portrait",
+      "width": 820,
+      "height": 1180,
+      "term": "rule out",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "tablet-portrait",
+      "width": 820,
+      "height": 1180,
+      "term": "hold off",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "tablet-portrait",
+      "width": 820,
+      "height": 1180,
+      "term": "work around",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "tablet-portrait",
+      "width": 820,
+      "height": 1180,
+      "term": "take on",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "tablet-portrait",
+      "width": 820,
+      "height": 1180,
+      "term": "weigh up",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "tablet-portrait",
+      "width": 820,
+      "height": 1180,
+      "term": "wrap up",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "tablet-landscape",
+      "width": 1180,
+      "height": 820,
+      "term": "scope",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "tablet-landscape",
+      "width": 1180,
+      "height": 820,
+      "term": "objective",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "tablet-landscape",
+      "width": 1180,
+      "height": 820,
+      "term": "deliverable",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "tablet-landscape",
+      "width": 1180,
+      "height": 820,
+      "term": "milestone",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "tablet-landscape",
+      "width": 1180,
+      "height": 820,
+      "term": "priority",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "tablet-landscape",
+      "width": 1180,
+      "height": 820,
+      "term": "constraint",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "tablet-landscape",
+      "width": 1180,
+      "height": 820,
+      "term": "dependency",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "tablet-landscape",
+      "width": 1180,
+      "height": 820,
+      "term": "assumption",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "tablet-landscape",
+      "width": 1180,
+      "height": 820,
+      "term": "baseline",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "tablet-landscape",
+      "width": 1180,
+      "height": 820,
+      "term": "buffer",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "tablet-landscape",
+      "width": 1180,
+      "height": 820,
+      "term": "sequence",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "tablet-landscape",
+      "width": 1180,
+      "height": 820,
+      "term": "capacity",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "tablet-landscape",
+      "width": 1180,
+      "height": 820,
+      "term": "allocate",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "tablet-landscape",
+      "width": 1180,
+      "height": 820,
+      "term": "delegate",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "tablet-landscape",
+      "width": 1180,
+      "height": 820,
+      "term": "ownership",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "tablet-landscape",
+      "width": 1180,
+      "height": 820,
+      "term": "accountable",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "tablet-landscape",
+      "width": 1180,
+      "height": 820,
+      "term": "deadline",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "tablet-landscape",
+      "width": 1180,
+      "height": 820,
+      "term": "commitment",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "tablet-landscape",
+      "width": 1180,
+      "height": 820,
+      "term": "contingency",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "tablet-landscape",
+      "width": 1180,
+      "height": 820,
+      "term": "trade-off",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "tablet-landscape",
+      "width": 1180,
+      "height": 820,
+      "term": "agenda",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "tablet-landscape",
+      "width": 1180,
+      "height": 820,
+      "term": "context",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "tablet-landscape",
+      "width": 1180,
+      "height": 820,
+      "term": "clarify",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "tablet-landscape",
+      "width": 1180,
+      "height": 820,
+      "term": "confirm",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "tablet-landscape",
+      "width": 1180,
+      "height": 820,
+      "term": "specify",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "tablet-landscape",
+      "width": 1180,
+      "height": 820,
+      "term": "elaborate",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "tablet-landscape",
+      "width": 1180,
+      "height": 820,
+      "term": "summarize",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "tablet-landscape",
+      "width": 1180,
+      "height": 820,
+      "term": "recap",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "tablet-landscape",
+      "width": 1180,
+      "height": 820,
+      "term": "align",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "tablet-landscape",
+      "width": 1180,
+      "height": 820,
+      "term": "consensus",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "tablet-landscape",
+      "width": 1180,
+      "height": 820,
+      "term": "concern",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "tablet-landscape",
+      "width": 1180,
+      "height": 820,
+      "term": "objection",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "tablet-landscape",
+      "width": 1180,
+      "height": 820,
+      "term": "reservation",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "tablet-landscape",
+      "width": 1180,
+      "height": 820,
+      "term": "rationale",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "tablet-landscape",
+      "width": 1180,
+      "height": 820,
+      "term": "proposal",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "tablet-landscape",
+      "width": 1180,
+      "height": 820,
+      "term": "alternative",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "tablet-landscape",
+      "width": 1180,
+      "height": 820,
+      "term": "compromise",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "tablet-landscape",
+      "width": 1180,
+      "height": 820,
+      "term": "negotiate",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "tablet-landscape",
+      "width": 1180,
+      "height": 820,
+      "term": "conclude",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "tablet-landscape",
+      "width": 1180,
+      "height": 820,
+      "term": "document",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "tablet-landscape",
+      "width": 1180,
+      "height": 820,
+      "term": "follow up",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "tablet-landscape",
+      "width": 1180,
+      "height": 820,
+      "term": "bring up",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "tablet-landscape",
+      "width": 1180,
+      "height": 820,
+      "term": "walk through",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "tablet-landscape",
+      "width": 1180,
+      "height": 820,
+      "term": "point out",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "tablet-landscape",
+      "width": 1180,
+      "height": 820,
+      "term": "rule out",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "tablet-landscape",
+      "width": 1180,
+      "height": 820,
+      "term": "hold off",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "tablet-landscape",
+      "width": 1180,
+      "height": 820,
+      "term": "work around",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "tablet-landscape",
+      "width": 1180,
+      "height": 820,
+      "term": "take on",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "tablet-landscape",
+      "width": 1180,
+      "height": 820,
+      "term": "weigh up",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    },
+    {
+      "device": "tablet-landscape",
+      "width": 1180,
+      "height": 820,
+      "term": "wrap up",
+      "pass": true,
+      "etymologyToggle": true,
+      "examples": true,
+      "copySuccessAndDenial": true
+    }
+  ],
+  "errors": [],
+  "scorePage": true,
+  "engine": "Chromium",
+  "realDevice": false,
+  "productionActivated": false
+}

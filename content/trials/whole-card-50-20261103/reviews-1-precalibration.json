@@ -1,0 +1,2229 @@
+[
+  {
+    "cardId": "V20261012-001",
+    "reviewer": "whole50_reviewer_group1",
+    "reviewedAt": "2026-11-04",
+    "ruleVersion": "five-zone/2",
+    "fingerprint": "2b46fbb64adf40930f7417613edaf79773ed5a5ce5755a1f2a93ce57e7e0f1a7",
+    "front": {
+      "decision": "PASS",
+      "reason": "已独立核对scope当前义、桥接、focused与additional；前区事实结合整页回执验收。"
+    },
+    "hardGates": "PASS",
+    "sourceChecks": [
+      {
+        "claimId": "lexical",
+        "verdict": "SUPPORTED",
+        "note": "独立查Oxford scope当前/附加义与对应词性；Cambridge直读403，改用索引可见范围/机会义并以Oxford交叉核实；APM定义已读。"
+      },
+      {
+        "claimId": "connection",
+        "verdict": "SUPPORTED",
+        "note": "对原句和来源义项独立分析：画边界与安装/培训正反例清楚，类比不作词源；未当来源中的真实事件。"
+      },
+      {
+        "claimId": "syntax",
+        "verdict": "SUPPORTED",
+        "note": "对原句和来源义项独立分析：before estimating的动作主语和先后解释正确，句法术语稍密；未当来源中的真实事件。"
+      },
+      {
+        "claimId": "contrast",
+        "verdict": "SUPPORTED",
+        "note": "对原句和来源义项独立分析：范围和目标可共享产出，避免了互斥，但培训例子复现；未当来源中的真实事件。"
+      },
+      {
+        "claimId": "action",
+        "verdict": "SUPPORTED",
+        "note": "对原句和来源义项独立分析：need to/before支持准备行动，回应询问培训可推进估价；未当来源中的真实事件。"
+      },
+      {
+        "claimId": "use",
+        "verdict": "SUPPORTED",
+        "note": "逐句核对自编场景及替换语法：included in scope问句和替换槽可用，training与04重复；未当来源中的真实事件。"
+      }
+    ],
+    "zones": [
+      {
+        "id": "g1",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "画边界与安装/培训正反例清楚，类比不作词源",
+          "completion": "正文已实际覆盖先记住，再联系的主要教学任务；画边界与安装/培训正反例清楚。",
+          "readability": "画边界与安装/培训正反例清楚，类比不作词源；段内同时有英文术语与中文解释，仍有阅读负担。",
+          "increment": "画边界与安装/培训正反例清楚，类比不作词源；与前区或相邻区存在适度教学复现，未给满分。"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g2",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "before estimating的动作主语和先后解释正确，句法术语稍密",
+          "completion": "正文已实际覆盖句法与概念的主要教学任务；before estimating的动作主语和先后解释正确。",
+          "readability": "before estimating的动作主语和先后解释正确，句法术语稍密；段内同时有英文术语与中文解释，仍有阅读负担。",
+          "increment": "before estimating的动作主语和先后解释正确，句法术语稍密；与前区或相邻区存在适度教学复现，未给满分。"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g3",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "范围和目标可共享产出，避免了互斥，但培训例子复现",
+          "completion": "正文已实际覆盖辨析与英文邻居的主要教学任务；范围和目标可共享产出。",
+          "readability": "范围和目标可共享产出，避免了互斥，但培训例子复现；段内同时有英文术语与中文解释，仍有阅读负担。",
+          "increment": "范围和目标可共享产出，避免了互斥，但培训例子复现；与前区或相邻区存在适度教学复现，未给满分。"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g4",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "need to/before支持准备行动，回应询问培训可推进估价",
+          "completion": "正文已实际覆盖这句话在做什么的主要教学任务；need to/before支持准备行动。",
+          "readability": "need to/before支持准备行动，回应询问培训可推进估价；段内同时有英文术语与中文解释，仍有阅读负担。",
+          "increment": "need to/before支持准备行动，回应询问培训可推进估价；与前区或相邻区存在适度教学复现，未给满分。"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g5",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "included in scope问句和替换槽可用，training与04重复",
+          "completion": "正文已实际覆盖工作中可以这样说的主要教学任务；included in scope问句和替换槽可用。",
+          "readability": "included in scope问句和替换槽可用，training与04重复；段内同时有英文术语与中文解释，仍有阅读负担。",
+          "increment": "included in scope问句和替换槽可用，training与04重复；与前区或相邻区存在适度教学复现，未给满分。"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      }
+    ]
+  },
+  {
+    "cardId": "V20261012-002",
+    "reviewer": "whole50_reviewer_group1",
+    "reviewedAt": "2026-11-04",
+    "ruleVersion": "five-zone/2",
+    "fingerprint": "6550e5dda00d72f1630e653725a2f5f3ae191bfb8c62318be82bdae9dbed2674",
+    "front": {
+      "decision": "PASS",
+      "reason": "已独立核对objective当前义、桥接、focused与additional；前区事实结合整页回执验收。"
+    },
+    "hardGates": "PASS",
+    "sourceChecks": [
+      {
+        "claimId": "c1",
+        "verdict": "SUPPORTED",
+        "note": "独立查Oxford objective当前/附加义与对应词性；所列词义为转述，不是词典逐字引用。"
+      },
+      {
+        "claimId": "c2",
+        "verdict": "SUPPORTED",
+        "note": "对原句和来源义项独立分析：表单动作和审批耗时结果对照具体，记忆线索明确；未当来源中的真实事件。"
+      },
+      {
+        "claimId": "c3",
+        "verdict": "SUPPORTED",
+        "note": "对原句和来源义项独立分析：spent修饰time与不定式内容分析正确，不误解审批有效期；未当来源中的真实事件。"
+      },
+      {
+        "claimId": "c4",
+        "verdict": "SUPPORTED",
+        "note": "对原句和来源义项独立分析：goal和objective不强行一宽一窄，deliverable另看可交成果；未当来源中的真实事件。"
+      },
+      {
+        "claimId": "c5",
+        "verdict": "SUPPORTED",
+        "note": "对原句和来源义项独立分析：问如何测时承接目标表述，给了后续比较依据；未当来源中的真实事件。"
+      },
+      {
+        "claimId": "c6",
+        "verdict": "SUPPORTED",
+        "note": "逐句核对自编场景及替换语法：cut review time by one day可替换数值，目标和成绩分清；未当来源中的真实事件。"
+      }
+    ],
+    "zones": [
+      {
+        "id": "g1",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "表单动作和审批耗时结果对照具体，记忆线索明确",
+          "completion": "正文已实际覆盖先记住，再联系的主要教学任务；表单动作和审批耗时结果对照具体。",
+          "readability": "抓手具体且首读易懂：可把 objective 记成工作完成后希望看到的变化，不只是今天做的动作。",
+          "increment": "表单动作和审批耗时结果对照具体，记忆线索明确；与前区或相邻区存在适度教学复现，未给满分。"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g2",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "spent修饰time与不定式内容分析正确，不误解审批有效期",
+          "completion": "正文已实际覆盖句法与概念的主要教学任务；spent修饰time与不定式内容分析正确。",
+          "readability": "spent修饰time与不定式内容分析正确，不误解审批有效期；段内同时有英文术语与中文解释，仍有阅读负担。",
+          "increment": "spent修饰time与不定式内容分析正确，不误解审批有效期；与前区或相邻区存在适度教学复现，未给满分。"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g3",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "goal和objective不强行一宽一窄，deliverable另看可交成果",
+          "completion": "正文已实际覆盖辨析与英文邻居的主要教学任务；goal和objective不强行一宽一窄。",
+          "readability": "goal和objective不强行一宽一窄，deliverable另看可交成果；段内同时有英文术语与中文解释，仍有阅读负担。",
+          "increment": "goal和objective不强行一宽一窄，deliverable另看可交成果；与前区或相邻区存在适度教学复现，未给满分。"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g4",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "问如何测时承接目标表述，给了后续比较依据",
+          "completion": "正文已实际覆盖这句话在做什么的主要教学任务；问如何测时承接目标表述。",
+          "readability": "问如何测时承接目标表述，给了后续比较依据；段内同时有英文术语与中文解释，仍有阅读负担。",
+          "increment": "问如何测时承接目标表述，给了后续比较依据；与前区或相邻区存在适度教学复现，未给满分。"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g5",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 3,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "cut review time by one day可替换数值，目标和成绩分清",
+          "completion": "正文已实际覆盖工作中可以这样说的主要教学任务；cut review time by one day可替换数值。",
+          "readability": "cut review time by one day可替换数值，目标和成绩分清；段内同时有英文术语与中文解释，仍有阅读负担。",
+          "increment": "cut review time by one day可替换数值，目标和成绩分清"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      }
+    ]
+  },
+  {
+    "cardId": "V20261012-003",
+    "reviewer": "whole50_reviewer_group1",
+    "reviewedAt": "2026-11-04",
+    "ruleVersion": "five-zone/2",
+    "fingerprint": "a17f70edd84475f76984009ef1195474fd7077abae6ce063da8529564f5db4c9",
+    "front": {
+      "decision": "PASS",
+      "reason": "已独立核对deliverable当前义、桥接、focused与additional；前区事实结合整页回执验收。"
+    },
+    "hardGates": "PASS",
+    "sourceChecks": [
+      {
+        "claimId": "c1",
+        "verdict": "SUPPORTED",
+        "note": "独立查Oxford deliverable当前/附加义与对应词性；所列词义为转述，不是词典逐字引用。"
+      },
+      {
+        "claimId": "c2",
+        "verdict": "SUPPORTED",
+        "note": "对原句和来源义项独立分析：开会与可交方案对照清楚，说明成果不限纸质；未当来源中的真实事件。"
+      },
+      {
+        "claimId": "c3",
+        "verdict": "SUPPORTED",
+        "note": "对原句和来源义项独立分析：list/复数/for first phase拆解完整，避免要求立即做完的过推；未当来源中的真实事件。"
+      },
+      {
+        "claimId": "c4",
+        "verdict": "SUPPORTED",
+        "note": "对原句和来源义项独立分析：task与成果关系明确，milestone作为节点另分；未当来源中的真实事件。"
+      },
+      {
+        "claimId": "c5",
+        "verdict": "SUPPORTED",
+        "note": "对原句和来源义项独立分析：draft report回应把抽象成果具体化，并追问接收要求；未当来源中的真实事件。"
+      },
+      {
+        "claimId": "c6",
+        "verdict": "SUPPORTED",
+        "note": "逐句核对自编场景及替换语法：agree on deliverables句式适合启动讨论，phase可替为pilot；未当来源中的真实事件。"
+      }
+    ],
+    "zones": [
+      {
+        "id": "g1",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "开会与可交方案对照清楚，说明成果不限纸质",
+          "completion": "正文已实际覆盖先记住，再联系的主要教学任务；开会与可交方案对照清楚。",
+          "readability": "开会与可交方案对照清楚，说明成果不限纸质；段内同时有英文术语与中文解释，仍有阅读负担。",
+          "increment": "开会与可交方案对照清楚，说明成果不限纸质；与前区或相邻区存在适度教学复现，未给满分。"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g2",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "list/复数/for first phase拆解完整，避免要求立即做完的过推",
+          "completion": "正文已实际覆盖句法与概念的主要教学任务；list/复数/for first phase拆解完整。",
+          "readability": "list/复数/for first phase拆解完整，避免要求立即做完的过推；段内同时有英文术语与中文解释，仍有阅读负担。",
+          "increment": "list/复数/for first phase拆解完整，避免要求立即做完的过推；与前区或相邻区存在适度教学复现，未给满分。"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g3",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "task与成果关系明确，milestone作为节点另分",
+          "completion": "正文已实际覆盖辨析与英文邻居的主要教学任务；task与成果关系明确。",
+          "readability": "task与成果关系明确，milestone作为节点另分；段内同时有英文术语与中文解释，仍有阅读负担。",
+          "increment": "task与成果关系明确，milestone作为节点另分；与前区或相邻区存在适度教学复现，未给满分。"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g4",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "draft report回应把抽象成果具体化，并追问接收要求",
+          "completion": "正文已实际覆盖这句话在做什么的主要教学任务；draft report回应把抽象成果具体化。",
+          "readability": "draft report回应把抽象成果具体化，并追问接收要求；段内同时有英文术语与中文解释，仍有阅读负担。",
+          "increment": "draft report回应把抽象成果具体化，并追问接收要求；与前区或相邻区存在适度教学复现，未给满分。"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g5",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "agree on deliverables句式适合启动讨论，phase可替为pilot",
+          "completion": "正文已实际覆盖工作中可以这样说的主要教学任务；agree on deliverables句式适合启动讨论。",
+          "readability": "agree on deliverables句式适合启动讨论，phase可替为pilot；段内同时有英文术语与中文解释，仍有阅读负担。",
+          "increment": "agree on deliverables句式适合启动讨论，phase可替为pilot；与前区或相邻区存在适度教学复现，未给满分。"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      }
+    ]
+  },
+  {
+    "cardId": "V20261012-004",
+    "reviewer": "whole50_reviewer_group1",
+    "reviewedAt": "2026-11-04",
+    "ruleVersion": "five-zone/2",
+    "fingerprint": "243a5e5e18994f63aaa2383dfa8d87e49bbd46de88aec9b8256a7eab602bf381",
+    "front": {
+      "decision": "PASS",
+      "reason": "已独立核对milestone当前义、桥接、focused与additional；前区事实结合整页回执验收。"
+    },
+    "hardGates": "PASS",
+    "sourceChecks": [
+      {
+        "claimId": "c1",
+        "verdict": "SUPPORTED",
+        "note": "独立查Oxford milestone当前/附加义与对应词性；所列词义为转述，不是词典逐字引用。"
+      },
+      {
+        "claimId": "c2",
+        "verdict": "SUPPORTED",
+        "note": "对原句和来源义项独立分析：路标联系易记，不把路标当完成整个旅程；未当来源中的真实事件。"
+      },
+      {
+        "claimId": "c3",
+        "verdict": "SUPPORTED",
+        "note": "对原句和来源义项独立分析：过去式与after关系辨清，尤其没有推出评审即节点；未当来源中的真实事件。"
+      },
+      {
+        "claimId": "c4",
+        "verdict": "SUPPORTED",
+        "note": "对原句和来源义项独立分析：节点、期限、交付物可关联但非同一概念，略密；未当来源中的真实事件。"
+      },
+      {
+        "claimId": "c5",
+        "verdict": "SUPPORTED",
+        "note": "对原句和来源义项独立分析：已达成的进度汇报与下一节点问答自然；未当来源中的真实事件。"
+      },
+      {
+        "claimId": "c6",
+        "verdict": "SUPPORTED",
+        "note": "逐句核对自编场景及替换语法：expect与reached对照能迁移预测和已发生，补出时态差别；未当来源中的真实事件。"
+      }
+    ],
+    "zones": [
+      {
+        "id": "g1",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "路标联系易记，不把路标当完成整个旅程",
+          "completion": "正文已实际覆盖先记住，再联系的主要教学任务；路标联系易记。",
+          "readability": "抓手具体且首读易懂：可以用旅程中的路标帮助记忆：它告诉你走到哪里，而不是替你完成路程。",
+          "increment": "路标联系易记，不把路标当完成整个旅程；与前区或相邻区存在适度教学复现，未给满分。"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g2",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "过去式与after关系辨清，尤其没有推出评审即节点",
+          "completion": "正文已实际覆盖句法与概念的主要教学任务；过去式与after关系辨清。",
+          "readability": "过去式与after关系辨清，尤其没有推出评审即节点；段内同时有英文术语与中文解释，仍有阅读负担。",
+          "increment": "过去式与after关系辨清，尤其没有推出评审即节点；与前区或相邻区存在适度教学复现，未给满分。"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g3",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "节点、期限、交付物可关联但非同一概念，略密",
+          "completion": "正文已实际覆盖辨析与英文邻居的主要教学任务；节点、期限、交付物可关联但非同一概念。",
+          "readability": "节点、期限、交付物可关联但非同一概念，略密；段内同时有英文术语与中文解释，仍有阅读负担。",
+          "increment": "节点、期限、交付物可关联但非同一概念，略密；与前区或相邻区存在适度教学复现，未给满分。"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g4",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "已达成的进度汇报与下一节点问答自然",
+          "completion": "正文已实际覆盖这句话在做什么的主要教学任务；已达成的进度汇报与下一节点问答自然。",
+          "readability": "已达成的进度汇报与下一节点问答自然；段内同时有英文术语与中文解释，仍有阅读负担。",
+          "increment": "已达成的进度汇报与下一节点问答自然；与前区或相邻区存在适度教学复现，未给满分。"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g5",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 3,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "expect与reached对照能迁移预测和已发生，补出时态差别",
+          "completion": "正文已实际覆盖工作中可以这样说的主要教学任务；expect与reached对照能迁移预测和已发生。",
+          "readability": "expect与reached对照能迁移预测和已发生，补出时态差别；段内同时有英文术语与中文解释，仍有阅读负担。",
+          "increment": "expect与reached对照能迁移预测和已发生，补出时态差别"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      }
+    ]
+  },
+  {
+    "cardId": "V20261012-005",
+    "reviewer": "whole50_reviewer_group1",
+    "reviewedAt": "2026-11-04",
+    "ruleVersion": "five-zone/2",
+    "fingerprint": "b0bb8c46d6b807f4c5d36a1f493d01c0028a78f6a9a7750278834bc1b9ceef41",
+    "front": {
+      "decision": "PASS",
+      "reason": "复审：当前可数优先事项已与附加不可数优先地位分开；focused/definition/claim同步，g5实际时段边界完整。"
+    },
+    "hardGates": "PASS",
+    "sourceChecks": [
+      {
+        "claimId": "c1",
+        "verdict": "SUPPORTED",
+        "note": "独立查Oxford priority当前/附加义与对应词性；所列词义为转述，不是词典逐字引用。"
+      },
+      {
+        "claimId": "c2",
+        "verdict": "SUPPORTED",
+        "note": "对原句和来源义项独立分析：排队图像表现资源取舍，不说其余工作不重要；未当来源中的真实事件。"
+      },
+      {
+        "claimId": "c3",
+        "verdict": "SUPPORTED",
+        "note": "对原句和来源义项独立分析：复数priorities和remaining限定读得清楚；未当来源中的真实事件。"
+      },
+      {
+        "claimId": "c4",
+        "verdict": "SUPPORTED",
+        "note": "对原句和来源义项独立分析：重要性与执行步骤区分，检查可以先做的例子有帮助；未当来源中的真实事件。"
+      },
+      {
+        "claimId": "c5",
+        "verdict": "SUPPORTED",
+        "note": "对原句和来源义项独立分析：安全评审回应具体且留给共同决定；未当来源中的真实事件。"
+      },
+      {
+        "claimId": "c6",
+        "verdict": "SUPPORTED",
+        "note": "逐句核对自编场景及替换语法：争用人力场景加this week边界，提出具体优先项；未当来源中的真实事件。"
+      }
+    ],
+    "zones": [
+      {
+        "id": "g1",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "排队图像表现资源取舍，不说其余工作不重要",
+          "completion": "正文已实际覆盖先记住，再联系的主要教学任务；排队图像表现资源取舍。",
+          "readability": "排队图像表现资源取舍，不说其余工作不重要；段内同时有英文术语与中文解释，仍有阅读负担。",
+          "increment": "排队图像表现资源取舍，不说其余工作不重要；与前区或相邻区存在适度教学复现，未给满分。"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g2",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "复数priorities和remaining限定读得清楚",
+          "completion": "正文已实际覆盖句法与概念的主要教学任务；复数priorities和remaining限定读得清楚。",
+          "readability": "复数priorities和remaining限定读得清楚；段内同时有英文术语与中文解释，仍有阅读负担。",
+          "increment": "复数priorities和remaining限定读得清楚；与前区或相邻区存在适度教学复现，未给满分。"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g3",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "重要性与执行步骤区分，检查可以先做的例子有帮助",
+          "completion": "正文已实际覆盖辨析与英文邻居的主要教学任务；重要性与执行步骤区分。",
+          "readability": "重要性与执行步骤区分，检查可以先做的例子有帮助；段内同时有英文术语与中文解释，仍有阅读负担。",
+          "increment": "重要性与执行步骤区分，检查可以先做的例子有帮助；与前区或相邻区存在适度教学复现，未给满分。"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g4",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "安全评审回应具体且留给共同决定",
+          "completion": "正文已实际覆盖这句话在做什么的主要教学任务；安全评审回应具体且留给共同决定。",
+          "readability": "安全评审回应具体且留给共同决定；段内同时有英文术语与中文解释，仍有阅读负担。",
+          "increment": "安全评审回应具体且留给共同决定；与前区或相邻区存在适度教学复现，未给满分。"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g5",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "争用人力场景加this week边界，提出具体优先项",
+          "completion": "正文已实际覆盖工作中可以这样说的主要教学任务；争用人力场景加this week边界。",
+          "readability": "争用人力场景加this week边界，提出具体优先项；段内同时有英文术语与中文解释，仍有阅读负担。",
+          "increment": "争用人力场景加this week边界，提出具体优先项；与前区或相邻区存在适度教学复现，未给满分。"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      }
+    ]
+  },
+  {
+    "cardId": "V20261012-006",
+    "reviewer": "whole50_reviewer_group1",
+    "reviewedAt": "2026-11-04",
+    "ruleVersion": "five-zone/2",
+    "fingerprint": "32e0cd38a596a92eac931f944e113ae6b280fdee5d380ffde1ad63607c2bafc0",
+    "front": {
+      "decision": "PASS",
+      "reason": "已独立核对constraint当前义、桥接、focused与additional；前区事实结合整页回执验收。"
+    },
+    "hardGates": "PASS",
+    "sourceChecks": [
+      {
+        "claimId": "c1",
+        "verdict": "SUPPORTED",
+        "note": "独立查Oxford constraint当前/附加义与对应词性；所列词义为转述，不是词典逐字引用。"
+      },
+      {
+        "claimId": "c2",
+        "verdict": "SUPPORTED",
+        "note": "对原句和来源义项独立分析：人数缩小方案空间的联系贴合主例句；未当来源中的真实事件。"
+      },
+      {
+        "claimId": "c3",
+        "verdict": "SUPPORTED",
+        "note": "对原句和来源义项独立分析：number是核心，available修饰reviewers，不推断技能差；未当来源中的真实事件。"
+      },
+      {
+        "claimId": "c4",
+        "verdict": "SUPPORTED",
+        "note": "对原句和来源义项独立分析：当前限制和未来风险作谨慎对照，可直接用于判断；未当来源中的真实事件。"
+      },
+      {
+        "claimId": "c5",
+        "verdict": "SUPPORTED",
+        "note": "对原句和来源义项独立分析：stagger reviews回应尝试在同人数下变安排，需再查可行性；未当来源中的真实事件。"
+      },
+      {
+        "claimId": "c6",
+        "verdict": "SUPPORTED",
+        "note": "逐句核对自编场景及替换语法：within budget constraints到space替换成立，边界用途明确；未当来源中的真实事件。"
+      }
+    ],
+    "zones": [
+      {
+        "id": "g1",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "人数缩小方案空间的联系贴合主例句",
+          "completion": "正文已实际覆盖先记住，再联系的主要教学任务；人数缩小方案空间的联系贴合主例句。",
+          "readability": "人数缩小方案空间的联系贴合主例句；段内同时有英文术语与中文解释，仍有阅读负担。",
+          "increment": "人数缩小方案空间的联系贴合主例句；与前区或相邻区存在适度教学复现，未给满分。"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g2",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "number是核心，available修饰reviewers，不推断技能差",
+          "completion": "正文已实际覆盖句法与概念的主要教学任务；number是核心。",
+          "readability": "number是核心，available修饰reviewers，不推断技能差；段内同时有英文术语与中文解释，仍有阅读负担。",
+          "increment": "number是核心，available修饰reviewers，不推断技能差；与前区或相邻区存在适度教学复现，未给满分。"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g3",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "当前限制和未来风险作谨慎对照，可直接用于判断",
+          "completion": "正文已实际覆盖辨析与英文邻居的主要教学任务；当前限制和未来风险作谨慎对照。",
+          "readability": "当前限制和未来风险作谨慎对照，可直接用于判断；段内同时有英文术语与中文解释，仍有阅读负担。",
+          "increment": "当前限制和未来风险作谨慎对照，可直接用于判断；与前区或相邻区存在适度教学复现，未给满分。"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g4",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "stagger reviews回应尝试在同人数下变安排，需再查可行性",
+          "completion": "正文已实际覆盖这句话在做什么的主要教学任务；stagger reviews回应尝试在同人数下变安排。",
+          "readability": "stagger reviews回应尝试在同人数下变安排，需再查可行性；段内同时有英文术语与中文解释，仍有阅读负担。",
+          "increment": "stagger reviews回应尝试在同人数下变安排，需再查可行性；与前区或相邻区存在适度教学复现，未给满分。"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g5",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "within budget constraints到space替换成立，边界用途明确",
+          "completion": "正文已实际覆盖工作中可以这样说的主要教学任务；within budget constraints到space替换成立。",
+          "readability": "within budget constraints到space替换成立，边界用途明确；段内同时有英文术语与中文解释，仍有阅读负担。",
+          "increment": "within budget constraints到space替换成立，边界用途明确；与前区或相邻区存在适度教学复现，未给满分。"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      }
+    ]
+  },
+  {
+    "cardId": "V20261012-007",
+    "reviewer": "whole50_reviewer_group1",
+    "reviewedAt": "2026-11-04",
+    "ruleVersion": "five-zone/2",
+    "fingerprint": "fee911803d5c8fd8c6b15f1b3ee366c9ce458aafb5daf6ac567c8367632d8586",
+    "front": {
+      "decision": "PASS",
+      "reason": "已独立核对dependency当前义、桥接、focused与additional；前区事实结合整页回执验收。"
+    },
+    "hardGates": "PASS",
+    "sourceChecks": [
+      {
+        "claimId": "c1",
+        "verdict": "SUPPORTED",
+        "note": "独立查Oxford dependency当前/附加义与对应词性；所列词义为转述，不是词典逐字引用。"
+      },
+      {
+        "claimId": "c2",
+        "verdict": "SUPPORTED",
+        "note": "对原句和来源义项独立分析：A等B直观且注明不一定结束后才开始；未当来源中的真实事件。"
+      },
+      {
+        "claimId": "c3",
+        "verdict": "SUPPORTED",
+        "note": "对原句和来源义项独立分析：identify dependencies和before finalizing讲明检查先于定稿；未当来源中的真实事件。"
+      },
+      {
+        "claimId": "c4",
+        "verdict": "SUPPORTED",
+        "note": "对原句和来源义项独立分析：正常依赖和blocker分开，不把先后顺序等同硬依赖；未当来源中的真实事件。"
+      },
+      {
+        "claimId": "c5",
+        "verdict": "SUPPORTED",
+        "note": "对原句和来源义项独立分析：原型就绪回应指定依赖对象，下一步查可用时间；未当来源中的真实事件。"
+      },
+      {
+        "claimId": "c6",
+        "verdict": "SUPPORTED",
+        "note": "逐句核对自编场景及替换语法：supplier report和design approval替换都能用于问前提；未当来源中的真实事件。"
+      }
+    ],
+    "zones": [
+      {
+        "id": "g1",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "A等B直观且注明不一定结束后才开始",
+          "completion": "正文已实际覆盖先记住，再联系的主要教学任务；A等B直观且注明不一定结束后才开始。",
+          "readability": "A等B直观且注明不一定结束后才开始；段内同时有英文术语与中文解释，仍有阅读负担。",
+          "increment": "A等B直观且注明不一定结束后才开始；与前区或相邻区存在适度教学复现，未给满分。"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g2",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "identify dependencies和before finalizing讲明检查先于定稿",
+          "completion": "正文已实际覆盖句法与概念的主要教学任务；identify dependencies和before finalizing讲明检查先于定稿。",
+          "readability": "identify dependencies和before finalizing讲明检查先于定稿；段内同时有英文术语与中文解释，仍有阅读负担。",
+          "increment": "identify dependencies和before finalizing讲明检查先于定稿；与前区或相邻区存在适度教学复现，未给满分。"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g3",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "正常依赖和blocker分开，不把先后顺序等同硬依赖",
+          "completion": "正文已实际覆盖辨析与英文邻居的主要教学任务；正常依赖和blocker分开。",
+          "readability": "正常依赖和blocker分开，不把先后顺序等同硬依赖；段内同时有英文术语与中文解释，仍有阅读负担。",
+          "increment": "正常依赖和blocker分开，不把先后顺序等同硬依赖；与前区或相邻区存在适度教学复现，未给满分。"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g4",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "原型就绪回应指定依赖对象，下一步查可用时间",
+          "completion": "正文已实际覆盖这句话在做什么的主要教学任务；原型就绪回应指定依赖对象。",
+          "readability": "原型就绪回应指定依赖对象，下一步查可用时间；段内同时有英文术语与中文解释，仍有阅读负担。",
+          "increment": "原型就绪回应指定依赖对象，下一步查可用时间；与前区或相邻区存在适度教学复现，未给满分。"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g5",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "supplier report和design approval替换都能用于问前提",
+          "completion": "正文已实际覆盖工作中可以这样说的主要教学任务；supplier report和design approval替换都能用于问前提。",
+          "readability": "supplier report和design approval替换都能用于问前提；段内同时有英文术语与中文解释，仍有阅读负担。",
+          "increment": "supplier report和design approval替换都能用于问前提；与前区或相邻区存在适度教学复现，未给满分。"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      }
+    ]
+  },
+  {
+    "cardId": "V20261012-008",
+    "reviewer": "whole50_reviewer_group1",
+    "reviewedAt": "2026-11-04",
+    "ruleVersion": "five-zone/2",
+    "fingerprint": "2d2ce76557ff83c682641fb3937e5370b6d4387a0b74e58fc2fd9e22744b4afc",
+    "front": {
+      "decision": "PASS",
+      "reason": "已独立核对assumption当前义、桥接、focused与additional；前区事实结合整页回执验收。"
+    },
+    "hardGates": "PASS",
+    "sourceChecks": [
+      {
+        "claimId": "c1",
+        "verdict": "SUPPORTED",
+        "note": "独立查Oxford assumption当前/附加义与对应词性；所列词义为转述，不是词典逐字引用。"
+      },
+      {
+        "claimId": "c2",
+        "verdict": "SUPPORTED",
+        "note": "对原句和来源义项独立分析：垫板类比标示为记忆，不把假设等于错误；未当来源中的真实事件。"
+      },
+      {
+        "claimId": "c3",
+        "verdict": "SUPPORTED",
+        "note": "对原句和来源义项独立分析：被动need to be checked与with supplier解释自然；未当来源中的真实事件。"
+      },
+      {
+        "claimId": "c4",
+        "verdict": "SUPPORTED",
+        "note": "对原句和来源义项独立分析：估算可基于假设，fact需依据，三者关系比硬分更好；未当来源中的真实事件。"
+      },
+      {
+        "claimId": "c5",
+        "verdict": "SUPPORTED",
+        "note": "对原句和来源义项独立分析：回应接下联系供应商动作，未冒充已经确认；未当来源中的真实事件。"
+      },
+      {
+        "claimId": "c6",
+        "verdict": "SUPPORTED",
+        "note": "逐句核对自编场景及替换语法：based on assumption that结构完整，最后提醒另外标明确认依据；未当来源中的真实事件。"
+      }
+    ],
+    "zones": [
+      {
+        "id": "g1",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "垫板类比标示为记忆，不把假设等于错误",
+          "completion": "正文已实际覆盖先记住，再联系的主要教学任务；垫板类比标示为记忆。",
+          "readability": "垫板类比标示为记忆，不把假设等于错误；段内同时有英文术语与中文解释，仍有阅读负担。",
+          "increment": "垫板类比标示为记忆，不把假设等于错误；与前区或相邻区存在适度教学复现，未给满分。"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g2",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "被动need to be checked与with supplier解释自然",
+          "completion": "正文已实际覆盖句法与概念的主要教学任务；被动need to be checked与with supplier解释自然。",
+          "readability": "被动need to be checked与with supplier解释自然；段内同时有英文术语与中文解释，仍有阅读负担。",
+          "increment": "被动need to be checked与with supplier解释自然；与前区或相邻区存在适度教学复现，未给满分。"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g3",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "估算可基于假设，fact需依据，三者关系比硬分更好",
+          "completion": "正文已实际覆盖辨析与英文邻居的主要教学任务；估算可基于假设。",
+          "readability": "估算可基于假设，fact需依据，三者关系比硬分更好；段内同时有英文术语与中文解释，仍有阅读负担。",
+          "increment": "估算可基于假设，fact需依据，三者关系比硬分更好；与前区或相邻区存在适度教学复现，未给满分。"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g4",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "回应接下联系供应商动作，未冒充已经确认",
+          "completion": "正文已实际覆盖这句话在做什么的主要教学任务；回应接下联系供应商动作。",
+          "readability": "回应接下联系供应商动作，未冒充已经确认；段内同时有英文术语与中文解释，仍有阅读负担。",
+          "increment": "回应接下联系供应商动作，未冒充已经确认；与前区或相邻区存在适度教学复现，未给满分。"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g5",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "based on assumption that结构完整，最后提醒另外标明确认依据",
+          "completion": "正文已实际覆盖工作中可以这样说的主要教学任务；based on assumption that结构完整。",
+          "readability": "based on assumption that结构完整，最后提醒另外标明确认依据；段内同时有英文术语与中文解释，仍有阅读负担。",
+          "increment": "based on assumption that结构完整，最后提醒另外标明确认依据；与前区或相邻区存在适度教学复现，未给满分。"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      }
+    ]
+  },
+  {
+    "cardId": "V20261012-009",
+    "reviewer": "whole50_reviewer_group1",
+    "reviewedAt": "2026-11-04",
+    "ruleVersion": "five-zone/2",
+    "fingerprint": "c32af10273d60313a73a0ec90f657191e53d47d474ff9572cd96fc812ca0ea51",
+    "front": {
+      "decision": "PASS",
+      "reason": "已独立核对baseline当前义、桥接、focused与additional；前区事实结合整页回执验收。"
+    },
+    "hardGates": "PASS",
+    "sourceChecks": [
+      {
+        "claimId": "c1",
+        "verdict": "SUPPORTED",
+        "note": "独立查Oxford baseline当前/附加义与对应词性；所列词义为转述，不是词典逐字引用。"
+      },
+      {
+        "claimId": "c2",
+        "verdict": "SUPPORTED",
+        "note": "对原句和来源义项独立分析：起始称重读数便于记忆，不把基准当目标；未当来源中的真实事件。"
+      },
+      {
+        "claimId": "c3",
+        "verdict": "SUPPORTED",
+        "note": "对原句和来源义项独立分析：before measuring强调参照先于比较，未把目标值混入；未当来源中的真实事件。"
+      },
+      {
+        "claimId": "c4",
+        "verdict": "SUPPORTED",
+        "note": "对原句和来源义项独立分析：benchmark不永远行业最佳的限定准确，辨析有实际意义；未当来源中的真实事件。"
+      },
+      {
+        "claimId": "c5",
+        "verdict": "SUPPORTED",
+        "note": "对原句和来源义项独立分析：上月平均耗时是候选基准，提醒再核统计口径；未当来源中的真实事件。"
+      },
+      {
+        "claimId": "c6",
+        "verdict": "SUPPORTED",
+        "note": "逐句核对自编场景及替换语法：error rate换review time自然，统计期间提醒可执行；未当来源中的真实事件。"
+      }
+    ],
+    "zones": [
+      {
+        "id": "g1",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "起始称重读数便于记忆，不把基准当目标",
+          "completion": "正文已实际覆盖先记住，再联系的主要教学任务；起始称重读数便于记忆。",
+          "readability": "抓手具体且首读易懂：想到称重前先记下起始读数：以后说变多或变少，必须知道和什么比。",
+          "increment": "起始称重读数便于记忆，不把基准当目标；与前区或相邻区存在适度教学复现，未给满分。"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g2",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "before measuring强调参照先于比较，未把目标值混入",
+          "completion": "正文已实际覆盖句法与概念的主要教学任务；before measuring强调参照先于比较。",
+          "readability": "before measuring强调参照先于比较，未把目标值混入；段内同时有英文术语与中文解释，仍有阅读负担。",
+          "increment": "before measuring强调参照先于比较，未把目标值混入；与前区或相邻区存在适度教学复现，未给满分。"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g3",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "benchmark不永远行业最佳的限定准确，辨析有实际意义",
+          "completion": "正文已实际覆盖辨析与英文邻居的主要教学任务；benchmark不永远行业最佳的限定准确。",
+          "readability": "benchmark不永远行业最佳的限定准确，辨析有实际意义；段内同时有英文术语与中文解释，仍有阅读负担。",
+          "increment": "benchmark不永远行业最佳的限定准确，辨析有实际意义；与前区或相邻区存在适度教学复现，未给满分。"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g4",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "上月平均耗时是候选基准，提醒再核统计口径",
+          "completion": "正文已实际覆盖这句话在做什么的主要教学任务；上月平均耗时是候选基准。",
+          "readability": "上月平均耗时是候选基准，提醒再核统计口径；段内同时有英文术语与中文解释，仍有阅读负担。",
+          "increment": "上月平均耗时是候选基准，提醒再核统计口径；与前区或相邻区存在适度教学复现，未给满分。"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g5",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 3,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "error rate换review time自然，统计期间提醒可执行",
+          "completion": "正文已实际覆盖工作中可以这样说的主要教学任务；error rate换review time自然。",
+          "readability": "error rate换review time自然，统计期间提醒可执行；段内同时有英文术语与中文解释，仍有阅读负担。",
+          "increment": "error rate换review time自然，统计期间提醒可执行"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      }
+    ]
+  },
+  {
+    "cardId": "V20261012-010",
+    "reviewer": "whole50_reviewer_group1",
+    "reviewedAt": "2026-11-04",
+    "ruleVersion": "five-zone/2",
+    "fingerprint": "23777518ec2020f6368595c85fe05c25b82dac14b4d25f76aae6638f65a62285",
+    "front": {
+      "decision": "PASS",
+      "reason": "已独立核对buffer当前义、桥接、focused与additional；前区事实结合整页回执验收。"
+    },
+    "hardGates": "PASS",
+    "sourceChecks": [
+      {
+        "claimId": "c1",
+        "verdict": "SUPPORTED",
+        "note": "独立查Oxford buffer当前/附加义与对应词性；所列词义为转述，不是词典逐字引用。"
+      },
+      {
+        "claimId": "c2",
+        "verdict": "SUPPORTED",
+        "note": "对原句和来源义项独立分析：软垫类比承接变化，时限余量不是保证无风险；未当来源中的真实事件。"
+      },
+      {
+        "claimId": "c3",
+        "verdict": "SUPPORTED",
+        "note": "对原句和来源义项独立分析：two-day前置day不加s正确，区分正常评审总时长；未当来源中的真实事件。"
+      },
+      {
+        "claimId": "c4",
+        "verdict": "SUPPORTED",
+        "note": "对原句和来源义项独立分析：buffer预留与delay发生区别实用，extra time差别合理；未当来源中的真实事件。"
+      },
+      {
+        "claimId": "c5",
+        "verdict": "SUPPORTED",
+        "note": "对原句和来源义项独立分析：问最终日期是否已计缓冲，避免各方口径不同；未当来源中的真实事件。"
+      },
+      {
+        "claimId": "c6",
+        "verdict": "SUPPORTED",
+        "note": "逐句核对自编场景及替换语法：one-day buffer before shipment自然，可换two-day且明确建议；未当来源中的真实事件。"
+      }
+    ],
+    "zones": [
+      {
+        "id": "g1",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "软垫类比承接变化，时限余量不是保证无风险",
+          "completion": "正文已实际覆盖先记住，再联系的主要教学任务；软垫类比承接变化。",
+          "readability": "抓手具体且首读易懂：把 buffer 想成两件物体之间的一层软垫：多出来的一点空间承接冲击。",
+          "increment": "软垫类比承接变化，时限余量不是保证无风险；与前区或相邻区存在适度教学复现，未给满分。"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g2",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "two-day前置day不加s正确，区分正常评审总时长",
+          "completion": "正文已实际覆盖句法与概念的主要教学任务；two-day前置day不加s正确。",
+          "readability": "two-day前置day不加s正确，区分正常评审总时长；段内同时有英文术语与中文解释，仍有阅读负担。",
+          "increment": "two-day前置day不加s正确，区分正常评审总时长；与前区或相邻区存在适度教学复现，未给满分。"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g3",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "buffer预留与delay发生区别实用，extra time差别合理",
+          "completion": "正文已实际覆盖辨析与英文邻居的主要教学任务；buffer预留与delay发生区别实用。",
+          "readability": "buffer预留与delay发生区别实用，extra time差别合理；段内同时有英文术语与中文解释，仍有阅读负担。",
+          "increment": "buffer预留与delay发生区别实用，extra time差别合理；与前区或相邻区存在适度教学复现，未给满分。"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g4",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "问最终日期是否已计缓冲，避免各方口径不同",
+          "completion": "正文已实际覆盖这句话在做什么的主要教学任务；问最终日期是否已计缓冲。",
+          "readability": "问最终日期是否已计缓冲，避免各方口径不同；段内同时有英文术语与中文解释，仍有阅读负担。",
+          "increment": "问最终日期是否已计缓冲，避免各方口径不同；与前区或相邻区存在适度教学复现，未给满分。"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g5",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 3,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "one-day buffer before shipment自然，可换two-day且明确建议",
+          "completion": "正文已实际覆盖工作中可以这样说的主要教学任务；one-day buffer before shipment自然。",
+          "readability": "one-day buffer before shipment自然，可换two-day且明确建议；段内同时有英文术语与中文解释，仍有阅读负担。",
+          "increment": "one-day buffer before shipment自然，可换two-day且明确建议"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      }
+    ]
+  },
+  {
+    "cardId": "V20261012-011",
+    "reviewer": "whole50_reviewer_group1",
+    "reviewedAt": "2026-11-04",
+    "ruleVersion": "five-zone/2",
+    "fingerprint": "a6c887c36501d7455a13fd1315d1a9fcadaa960be73f3a777c8fda3f5682bb7f",
+    "front": {
+      "decision": "PASS",
+      "reason": "已独立核对sequence当前义、桥接、focused与additional；前区事实结合整页回执验收。"
+    },
+    "hardGates": "PASS",
+    "sourceChecks": [
+      {
+        "claimId": "c1",
+        "verdict": "SUPPORTED",
+        "note": "独立查Oxford sequence当前/附加义与对应词性；所列词义为转述，不是词典逐字引用。"
+      },
+      {
+        "claimId": "c2",
+        "verdict": "SUPPORTED",
+        "note": "对原句和来源义项独立分析：步骤编号联系具体，未把顺序等同交付要求；未当来源中的真实事件。"
+      },
+      {
+        "claimId": "c3",
+        "verdict": "SUPPORTED",
+        "note": "对原句和来源义项独立分析：agree on及of短语解释正确，权限边界保守；未当来源中的真实事件。"
+      },
+      {
+        "claimId": "c4",
+        "verdict": "SUPPORTED",
+        "note": "对原句和来源义项独立分析：schedule包含时间而sequence谈顺序，priority单列；未当来源中的真实事件。"
+      },
+      {
+        "claimId": "c5",
+        "verdict": "SUPPORTED",
+        "note": "对原句和来源义项独立分析：检查后装配的回应给出具体排列，便于共同确认；未当来源中的真实事件。"
+      },
+      {
+        "claimId": "c6",
+        "verdict": "SUPPORTED",
+        "note": "逐句核对自编场景及替换语法：walk me through assembly sequence自然，替换testing可用；未当来源中的真实事件。"
+      }
+    ],
+    "zones": [
+      {
+        "id": "g1",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "步骤编号联系具体，未把顺序等同交付要求",
+          "completion": "正文已实际覆盖先记住，再联系的主要教学任务；步骤编号联系具体。",
+          "readability": "步骤编号联系具体，未把顺序等同交付要求；段内同时有英文术语与中文解释，仍有阅读负担。",
+          "increment": "步骤编号联系具体，未把顺序等同交付要求；与前区或相邻区存在适度教学复现，未给满分。"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g2",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "agree on及of短语解释正确，权限边界保守",
+          "completion": "正文已实际覆盖句法与概念的主要教学任务；agree on及of短语解释正确。",
+          "readability": "agree on及of短语解释正确，权限边界保守；段内同时有英文术语与中文解释，仍有阅读负担。",
+          "increment": "agree on及of短语解释正确，权限边界保守；与前区或相邻区存在适度教学复现，未给满分。"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g3",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "schedule包含时间而sequence谈顺序，priority单列",
+          "completion": "正文已实际覆盖辨析与英文邻居的主要教学任务；schedule包含时间而sequence谈顺序。",
+          "readability": "schedule包含时间而sequence谈顺序，priority单列；段内同时有英文术语与中文解释，仍有阅读负担。",
+          "increment": "schedule包含时间而sequence谈顺序，priority单列；与前区或相邻区存在适度教学复现，未给满分。"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g4",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "检查后装配的回应给出具体排列，便于共同确认",
+          "completion": "正文已实际覆盖这句话在做什么的主要教学任务；检查后装配的回应给出具体排列。",
+          "readability": "检查后装配的回应给出具体排列，便于共同确认；段内同时有英文术语与中文解释，仍有阅读负担。",
+          "increment": "检查后装配的回应给出具体排列，便于共同确认；与前区或相邻区存在适度教学复现，未给满分。"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g5",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "walk me through assembly sequence自然，替换testing可用",
+          "completion": "正文已实际覆盖工作中可以这样说的主要教学任务；walk me through assembly sequence自然。",
+          "readability": "walk me through assembly sequence自然，替换testing可用；段内同时有英文术语与中文解释，仍有阅读负担。",
+          "increment": "walk me through assembly sequence自然，替换testing可用；与前区或相邻区存在适度教学复现，未给满分。"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      }
+    ]
+  },
+  {
+    "cardId": "V20261012-012",
+    "reviewer": "whole50_reviewer_group1",
+    "reviewedAt": "2026-11-04",
+    "ruleVersion": "five-zone/2",
+    "fingerprint": "d703c2a5dae0254c1e846fe979cb9a6919dc399d66155afa7a433554709dbcc0",
+    "front": {
+      "decision": "PASS",
+      "reason": "已独立核对capacity当前义、桥接、focused与additional；前区事实结合整页回执验收。"
+    },
+    "hardGates": "PASS",
+    "sourceChecks": [
+      {
+        "claimId": "c1",
+        "verdict": "SUPPORTED",
+        "note": "独立查Oxford capacity当前/附加义与对应词性；所列词义为转述，不是词典逐字引用。"
+      },
+      {
+        "claimId": "c2",
+        "verdict": "SUPPORTED",
+        "note": "对原句和来源义项独立分析：会做不等于还能接的容器类比贴合当前句；未当来源中的真实事件。"
+      },
+      {
+        "claimId": "c3",
+        "verdict": "SUPPORTED",
+        "note": "对原句和来源义项独立分析：not enough与both避免读成两个全不能做，否定范围讲清；未当来源中的真实事件。"
+      },
+      {
+        "claimId": "c4",
+        "verdict": "SUPPORTED",
+        "note": "对原句和来源义项独立分析：capacity/capability明确可重叠，没有机械二分；未当来源中的真实事件。"
+      },
+      {
+        "claimId": "c5",
+        "verdict": "SUPPORTED",
+        "note": "对原句和来源义项独立分析：先启动哪个项目回应自然，未把资源问题归咎技能差；未当来源中的真实事件。"
+      },
+      {
+        "claimId": "c6",
+        "verdict": "SUPPORTED",
+        "note": "逐句核对自编场景及替换语法：capacity for another review加本周窗口，可直接问当前余力；未当来源中的真实事件。"
+      }
+    ],
+    "zones": [
+      {
+        "id": "g1",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "会做不等于还能接的容器类比贴合当前句",
+          "completion": "正文已实际覆盖先记住，再联系的主要教学任务；会做不等于还能接的容器类比贴合当前句。",
+          "readability": "会做不等于还能接的容器类比贴合当前句；段内同时有英文术语与中文解释，仍有阅读负担。",
+          "increment": "会做不等于还能接的容器类比贴合当前句；与前区或相邻区存在适度教学复现，未给满分。"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g2",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "not enough与both避免读成两个全不能做，否定范围讲清",
+          "completion": "正文已实际覆盖句法与概念的主要教学任务；not enough与both避免读成两个全不能做。",
+          "readability": "not enough与both避免读成两个全不能做，否定范围讲清；段内同时有英文术语与中文解释，仍有阅读负担。",
+          "increment": "not enough与both避免读成两个全不能做，否定范围讲清；与前区或相邻区存在适度教学复现，未给满分。"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g3",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "capacity/capability明确可重叠，没有机械二分",
+          "completion": "正文已实际覆盖辨析与英文邻居的主要教学任务；capacity/capability明确可重叠。",
+          "readability": "capacity/capability明确可重叠，没有机械二分；段内同时有英文术语与中文解释，仍有阅读负担。",
+          "increment": "capacity/capability明确可重叠，没有机械二分；与前区或相邻区存在适度教学复现，未给满分。"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g4",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "先启动哪个项目回应自然，未把资源问题归咎技能差",
+          "completion": "正文已实际覆盖这句话在做什么的主要教学任务；先启动哪个项目回应自然。",
+          "readability": "先启动哪个项目回应自然，未把资源问题归咎技能差；段内同时有英文术语与中文解释，仍有阅读负担。",
+          "increment": "先启动哪个项目回应自然，未把资源问题归咎技能差；与前区或相邻区存在适度教学复现，未给满分。"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g5",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "capacity for another review加本周窗口，可直接问当前余力",
+          "completion": "正文已实际覆盖工作中可以这样说的主要教学任务；capacity for another review加本周窗口。",
+          "readability": "capacity for another review加本周窗口，可直接问当前余力；段内同时有英文术语与中文解释，仍有阅读负担。",
+          "increment": "capacity for another review加本周窗口，可直接问当前余力；与前区或相邻区存在适度教学复现，未给满分。"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      }
+    ]
+  },
+  {
+    "cardId": "V20261012-013",
+    "reviewer": "whole50_reviewer_group1",
+    "reviewedAt": "2026-11-04",
+    "ruleVersion": "five-zone/2",
+    "fingerprint": "d4ead6a5b091c4aee99bb4d45c71cf367708cf67ef4f79bd230880a976ee57ab",
+    "front": {
+      "decision": "PASS",
+      "reason": "已独立核对allocate当前义、桥接、focused与additional；前区事实结合整页回执验收。"
+    },
+    "hardGates": "PASS",
+    "sourceChecks": [
+      {
+        "claimId": "c1",
+        "verdict": "SUPPORTED",
+        "note": "独立查Oxford allocate当前/附加义与对应词性；所列词义为转述，不是词典逐字引用。"
+      },
+      {
+        "claimId": "c2",
+        "verdict": "SUPPORTED",
+        "note": "对原句和来源义项独立分析：划份额联系时间人手资金，具体说明用途；未当来源中的真实事件。"
+      },
+      {
+        "claimId": "c3",
+        "verdict": "SUPPORTED",
+        "note": "对原句和来源义项独立分析：should建议、more未给数值、to去向均核对正确；未当来源中的真实事件。"
+      },
+      {
+        "claimId": "c4",
+        "verdict": "SUPPORTED",
+        "note": "对原句和来源义项独立分析：allocate计划和spend实际花费对照可操作，不声称互斥；未当来源中的真实事件。"
+      },
+      {
+        "claimId": "c5",
+        "verdict": "SUPPORTED",
+        "note": "对原句和来源义项独立分析：追问extra time把方向变数字，推进实际排程；未当来源中的真实事件。"
+      },
+      {
+        "claimId": "c6",
+        "verdict": "SUPPORTED",
+        "note": "逐句核对自编场景及替换语法：two hours to design review替换half a day语法正确；未当来源中的真实事件。"
+      }
+    ],
+    "zones": [
+      {
+        "id": "g1",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "划份额联系时间人手资金，具体说明用途",
+          "completion": "正文已实际覆盖先记住，再联系的主要教学任务；划份额联系时间人手资金。",
+          "readability": "划份额联系时间人手资金，具体说明用途；段内同时有英文术语与中文解释，仍有阅读负担。",
+          "increment": "划份额联系时间人手资金，具体说明用途；与前区或相邻区存在适度教学复现，未给满分。"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g2",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "should建议、more未给数值、to去向均核对正确",
+          "completion": "正文已实际覆盖句法与概念的主要教学任务；should建议、more未给数值、to去向均核对正确。",
+          "readability": "should建议、more未给数值、to去向均核对正确；段内同时有英文术语与中文解释，仍有阅读负担。",
+          "increment": "should建议、more未给数值、to去向均核对正确；与前区或相邻区存在适度教学复现，未给满分。"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g3",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "allocate计划和spend实际花费对照可操作，不声称互斥",
+          "completion": "正文已实际覆盖辨析与英文邻居的主要教学任务；allocate计划和spend实际花费对照可操作。",
+          "readability": "allocate计划和spend实际花费对照可操作，不声称互斥；段内同时有英文术语与中文解释，仍有阅读负担。",
+          "increment": "allocate计划和spend实际花费对照可操作，不声称互斥；与前区或相邻区存在适度教学复现，未给满分。"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g4",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "追问extra time把方向变数字，推进实际排程",
+          "completion": "正文已实际覆盖这句话在做什么的主要教学任务；追问extra time把方向变数字。",
+          "readability": "追问extra time把方向变数字，推进实际排程；段内同时有英文术语与中文解释，仍有阅读负担。",
+          "increment": "追问extra time把方向变数字，推进实际排程；与前区或相邻区存在适度教学复现，未给满分。"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g5",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "two hours to design review替换half a day语法正确",
+          "completion": "正文已实际覆盖工作中可以这样说的主要教学任务；two hours to design review替换half a day语法正确。",
+          "readability": "two hours to design review替换half a day语法正确；段内同时有英文术语与中文解释，仍有阅读负担。",
+          "increment": "two hours to design review替换half a day语法正确；与前区或相邻区存在适度教学复现，未给满分。"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      }
+    ]
+  },
+  {
+    "cardId": "V20261012-014",
+    "reviewer": "whole50_reviewer_group1",
+    "reviewedAt": "2026-11-04",
+    "ruleVersion": "five-zone/2",
+    "fingerprint": "c18700dd33903a29a6096eee44f3ae7b1f2374640b533457e5f1ee2d9d161fa8",
+    "front": {
+      "decision": "PASS",
+      "reason": "已独立核对delegate当前义、桥接、focused与additional；前区事实结合整页回执验收。"
+    },
+    "hardGates": "PASS",
+    "sourceChecks": [
+      {
+        "claimId": "c1",
+        "verdict": "SUPPORTED",
+        "note": "独立查Oxford delegate当前/附加义与对应词性；所列词义为转述，不是词典逐字引用。"
+      },
+      {
+        "claimId": "c2",
+        "verdict": "SUPPORTED",
+        "note": "对原句和来源义项独立分析：交明确任务而非甩整个项目，任务与权限提醒有据；未当来源中的真实事件。"
+      },
+      {
+        "claimId": "c3",
+        "verdict": "SUPPORTED",
+        "note": "对原句和来源义项独立分析：can是选项，to指出接收者，不错读成已移交；未当来源中的真实事件。"
+      },
+      {
+        "claimId": "c4",
+        "verdict": "SUPPORTED",
+        "note": "对原句和来源义项独立分析：delegate任务与allocate份额区别够用，末句提出交接说明；未当来源中的真实事件。"
+      },
+      {
+        "claimId": "c5",
+        "verdict": "SUPPORTED",
+        "note": "对原句和来源义项独立分析：确认人选可用时间后委派的回应保守自然；未当来源中的真实事件。"
+      },
+      {
+        "claimId": "c6",
+        "verdict": "SUPPORTED",
+        "note": "逐句核对自编场景及替换语法：weekly data check迁移明确，要求补标准时间避免空交接；未当来源中的真实事件。"
+      }
+    ],
+    "zones": [
+      {
+        "id": "g1",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "交明确任务而非甩整个项目，任务与权限提醒有据",
+          "completion": "正文已实际覆盖先记住，再联系的主要教学任务；交明确任务而非甩整个项目。",
+          "readability": "交明确任务而非甩整个项目，任务与权限提醒有据；段内同时有英文术语与中文解释，仍有阅读负担。",
+          "increment": "交明确任务而非甩整个项目，任务与权限提醒有据；与前区或相邻区存在适度教学复现，未给满分。"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g2",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "can是选项，to指出接收者，不错读成已移交",
+          "completion": "正文已实际覆盖句法与概念的主要教学任务；can是选项。",
+          "readability": "can是选项，to指出接收者，不错读成已移交；段内同时有英文术语与中文解释，仍有阅读负担。",
+          "increment": "can是选项，to指出接收者，不错读成已移交；与前区或相邻区存在适度教学复现，未给满分。"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g3",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "delegate任务与allocate份额区别够用，末句提出交接说明",
+          "completion": "正文已实际覆盖辨析与英文邻居的主要教学任务；delegate任务与allocate份额区别够用。",
+          "readability": "delegate任务与allocate份额区别够用，末句提出交接说明；段内同时有英文术语与中文解释，仍有阅读负担。",
+          "increment": "delegate任务与allocate份额区别够用，末句提出交接说明；与前区或相邻区存在适度教学复现，未给满分。"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g4",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "确认人选可用时间后委派的回应保守自然",
+          "completion": "正文已实际覆盖这句话在做什么的主要教学任务；确认人选可用时间后委派的回应保守自然。",
+          "readability": "确认人选可用时间后委派的回应保守自然；段内同时有英文术语与中文解释，仍有阅读负担。",
+          "increment": "确认人选可用时间后委派的回应保守自然；与前区或相邻区存在适度教学复现，未给满分。"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g5",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "weekly data check迁移明确，要求补标准时间避免空交接",
+          "completion": "正文已实际覆盖工作中可以这样说的主要教学任务；weekly data check迁移明确。",
+          "readability": "weekly data check迁移明确，要求补标准时间避免空交接；段内同时有英文术语与中文解释，仍有阅读负担。",
+          "increment": "weekly data check迁移明确，要求补标准时间避免空交接；与前区或相邻区存在适度教学复现，未给满分。"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      }
+    ]
+  },
+  {
+    "cardId": "V20261012-015",
+    "reviewer": "whole50_reviewer_group1",
+    "reviewedAt": "2026-11-04",
+    "ruleVersion": "five-zone/2",
+    "fingerprint": "7a42f564d0d02da05afe3bf2dad9adda96a630fc95deb52015732ae0ef0659eb",
+    "front": {
+      "decision": "PASS",
+      "reason": "已独立核对ownership当前义、桥接、focused与additional；前区事实结合整页回执验收。"
+    },
+    "hardGates": "PASS",
+    "sourceChecks": [
+      {
+        "claimId": "c1",
+        "verdict": "SUPPORTED",
+        "note": "独立查Oxford ownership当前/附加义与对应词性；所列词义为转述，不是词典逐字引用。"
+      },
+      {
+        "claimId": "c2",
+        "verdict": "SUPPORTED",
+        "note": "对原句和来源义项独立分析：由我跟进的联系说明责任，不要求一人亲做全部；未当来源中的真实事件。"
+      },
+      {
+        "claimId": "c3",
+        "verdict": "SUPPORTED",
+        "note": "对原句和来源义项独立分析：who will及of的对象解释正确，没把问句读成指定人；未当来源中的真实事件。"
+      },
+      {
+        "claimId": "c4",
+        "verdict": "SUPPORTED",
+        "note": "对原句和来源义项独立分析：ownership/accountability侧重不同且不推断审批权限；未当来源中的真实事件。"
+      },
+      {
+        "claimId": "c5",
+        "verdict": "SUPPORTED",
+        "note": "对原句和来源义项独立分析：认领加明日反馈回应完成互动，下一步清楚；未当来源中的真实事件。"
+      },
+      {
+        "claimId": "c6",
+        "verdict": "SUPPORTED",
+        "note": "逐句核对自编场景及替换语法：clarify ownership of testing issues在多方场景自然；未当来源中的真实事件。"
+      }
+    ],
+    "zones": [
+      {
+        "id": "g1",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "由我跟进的联系说明责任，不要求一人亲做全部",
+          "completion": "正文已实际覆盖先记住，再联系的主要教学任务；由我跟进的联系说明责任。",
+          "readability": "抓手具体且首读易懂：把 take ownership 联系到“这件事由我跟进”，就能从财产所有权切到工作责任。",
+          "increment": "由我跟进的联系说明责任，不要求一人亲做全部；与前区或相邻区存在适度教学复现，未给满分。"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g2",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "who will及of的对象解释正确，没把问句读成指定人",
+          "completion": "正文已实际覆盖句法与概念的主要教学任务；who will及of的对象解释正确。",
+          "readability": "who will及of的对象解释正确，没把问句读成指定人；段内同时有英文术语与中文解释，仍有阅读负担。",
+          "increment": "who will及of的对象解释正确，没把问句读成指定人；与前区或相邻区存在适度教学复现，未给满分。"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g3",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "ownership/accountability侧重不同且不推断审批权限",
+          "completion": "正文已实际覆盖辨析与英文邻居的主要教学任务；ownership/accountability侧重不同且不推断审批权限。",
+          "readability": "ownership/accountability侧重不同且不推断审批权限；段内同时有英文术语与中文解释，仍有阅读负担。",
+          "increment": "ownership/accountability侧重不同且不推断审批权限；与前区或相邻区存在适度教学复现，未给满分。"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g4",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "认领加明日反馈回应完成互动，下一步清楚",
+          "completion": "正文已实际覆盖这句话在做什么的主要教学任务；认领加明日反馈回应完成互动。",
+          "readability": "认领加明日反馈回应完成互动，下一步清楚；段内同时有英文术语与中文解释，仍有阅读负担。",
+          "increment": "认领加明日反馈回应完成互动，下一步清楚；与前区或相邻区存在适度教学复现，未给满分。"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g5",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "clarify ownership of testing issues在多方场景自然",
+          "completion": "正文已实际覆盖工作中可以这样说的主要教学任务；clarify ownership of testing issues在多方场景自然。",
+          "readability": "clarify ownership of testing issues在多方场景自然；段内同时有英文术语与中文解释，仍有阅读负担。",
+          "increment": "clarify ownership of testing issues在多方场景自然；与前区或相邻区存在适度教学复现，未给满分。"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      }
+    ]
+  },
+  {
+    "cardId": "V20261012-016",
+    "reviewer": "whole50_reviewer_group1",
+    "reviewedAt": "2026-11-04",
+    "ruleVersion": "five-zone/2",
+    "fingerprint": "e0ed853fa4d3b3f24a31e7a834a6529eb6df246908e29ecbdd828841272231b3",
+    "front": {
+      "decision": "PASS",
+      "reason": "已独立核对accountable当前义、桥接、focused与additional；前区事实结合整页回执验收。"
+    },
+    "hardGates": "PASS",
+    "sourceChecks": [
+      {
+        "claimId": "lexical",
+        "verdict": "SUPPORTED",
+        "note": "独立查Oxford accountable当前/附加义与对应词性；Cambridge Business PDF第6页、AHD责任近义辨析及VOA正文已核对。"
+      },
+      {
+        "claimId": "connection",
+        "verdict": "SUPPORTED",
+        "note": "对原句和来源义项独立分析：account for解释原因的现代联系并非银行账户，边界明确；未当来源中的真实事件。"
+      },
+      {
+        "claimId": "syntax",
+        "verdict": "SUPPORTED",
+        "note": "对原句和来源义项独立分析：for事项/to人和must/one person各有说明，略长；未当来源中的真实事件。"
+      },
+      {
+        "claimId": "contrast",
+        "verdict": "SUPPORTED",
+        "note": "对原句和来源义项独立分析：responsible和accountable重叠解释准确，避免背锅等俗化误导；未当来源中的真实事件。"
+      },
+      {
+        "claimId": "action",
+        "verdict": "SUPPORTED",
+        "note": "对原句和来源义项独立分析：must one person的要求与未指名区分，追问人选成立；未当来源中的真实事件。"
+      },
+      {
+        "claimId": "use",
+        "verdict": "SUPPORTED",
+        "note": "逐句核对自编场景及替换语法：accountable to for问句完整，预算替换自然；未当来源中的真实事件。"
+      }
+    ],
+    "zones": [
+      {
+        "id": "g1",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "account for解释原因的现代联系并非银行账户，边界明确",
+          "completion": "正文已实际覆盖先记住，再联系的主要教学任务；account for解释原因的现代联系并非银行账户。",
+          "readability": "account for解释原因的现代联系并非银行账户，边界明确；段内同时有英文术语与中文解释，仍有阅读负担。",
+          "increment": "account for解释原因的现代联系并非银行账户，边界明确；与前区或相邻区存在适度教学复现，未给满分。"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g2",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "for事项/to人和must/one person各有说明，略长",
+          "completion": "正文已实际覆盖句法与概念的主要教学任务；for事项/to人和must/one person各有说明。",
+          "readability": "for事项/to人和must/one person各有说明，略长；段内同时有英文术语与中文解释，仍有阅读负担。",
+          "increment": "for事项/to人和must/one person各有说明，略长；与前区或相邻区存在适度教学复现，未给满分。"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g3",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "responsible和accountable重叠解释准确，避免背锅等俗化误导",
+          "completion": "正文已实际覆盖辨析与英文邻居的主要教学任务；responsible和accountable重叠解释准确。",
+          "readability": "responsible和accountable重叠解释准确，避免背锅等俗化误导；段内同时有英文术语与中文解释，仍有阅读负担。",
+          "increment": "responsible和accountable重叠解释准确，避免背锅等俗化误导；与前区或相邻区存在适度教学复现，未给满分。"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g4",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "must one person的要求与未指名区分，追问人选成立",
+          "completion": "正文已实际覆盖这句话在做什么的主要教学任务；must one person的要求与未指名区分。",
+          "readability": "must one person的要求与未指名区分，追问人选成立；段内同时有英文术语与中文解释，仍有阅读负担。",
+          "increment": "must one person的要求与未指名区分，追问人选成立；与前区或相邻区存在适度教学复现，未给满分。"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g5",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "accountable to for问句完整，预算替换自然",
+          "completion": "正文已实际覆盖工作中可以这样说的主要教学任务；accountable to for问句完整。",
+          "readability": "accountable to for问句完整，预算替换自然；段内同时有英文术语与中文解释，仍有阅读负担。",
+          "increment": "accountable to for问句完整，预算替换自然；与前区或相邻区存在适度教学复现，未给满分。"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      }
+    ]
+  },
+  {
+    "cardId": "V20261012-017",
+    "reviewer": "whole50_reviewer_group1",
+    "reviewedAt": "2026-11-04",
+    "ruleVersion": "five-zone/2",
+    "fingerprint": "b82f14469f947c78e161272d4ec3f58cf166eb5bf8a4deb579142816d199225a",
+    "front": {
+      "decision": "PASS",
+      "reason": "已独立核对deadline当前义、桥接、focused与additional；前区事实结合整页回执验收。"
+    },
+    "hardGates": "PASS",
+    "sourceChecks": [
+      {
+        "claimId": "c1",
+        "verdict": "SUPPORTED",
+        "note": "独立查Oxford deadline当前/附加义与对应词性；所列词义为转述，不是词典逐字引用。"
+      },
+      {
+        "claimId": "c2",
+        "verdict": "SUPPORTED",
+        "note": "对原句和来源义项独立分析：日历最晚点加meet/miss搭配能记，today非截止日；未当来源中的真实事件。"
+      },
+      {
+        "claimId": "c3",
+        "verdict": "SUPPORTED",
+        "note": "对原句和来源义项独立分析：to meet目的与today修饰决定时间区分准确；未当来源中的真实事件。"
+      },
+      {
+        "claimId": "c4",
+        "verdict": "SUPPORTED",
+        "note": "对原句和来源义项独立分析：target date约束取决约定，milestone也可有截止日；未当来源中的真实事件。"
+      },
+      {
+        "claimId": "c5",
+        "verdict": "SUPPORTED",
+        "note": "对原句和来源义项独立分析：追问今天具体要什么决定，比单纯催促更能推进；未当来源中的真实事件。"
+      },
+      {
+        "claimId": "c6",
+        "verdict": "SUPPORTED",
+        "note": "逐句核对自编场景及替换语法：deadline for submitting report自然，周一几点补精度；未当来源中的真实事件。"
+      }
+    ],
+    "zones": [
+      {
+        "id": "g1",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "日历最晚点加meet/miss搭配能记，today非截止日",
+          "completion": "正文已实际覆盖先记住，再联系的主要教学任务；日历最晚点加meet/miss搭配能记。",
+          "readability": "抓手具体且首读易懂：把 deadline 记成日历上最后可接受的完成点，常连着 meet 或 miss 一起学。",
+          "increment": "日历最晚点加meet/miss搭配能记，today非截止日；与前区或相邻区存在适度教学复现，未给满分。"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g2",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "to meet目的与today修饰决定时间区分准确",
+          "completion": "正文已实际覆盖句法与概念的主要教学任务；to meet目的与today修饰决定时间区分准确。",
+          "readability": "to meet目的与today修饰决定时间区分准确；段内同时有英文术语与中文解释，仍有阅读负担。",
+          "increment": "to meet目的与today修饰决定时间区分准确；与前区或相邻区存在适度教学复现，未给满分。"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g3",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "target date约束取决约定，milestone也可有截止日",
+          "completion": "正文已实际覆盖辨析与英文邻居的主要教学任务；target date约束取决约定。",
+          "readability": "target date约束取决约定，milestone也可有截止日；段内同时有英文术语与中文解释，仍有阅读负担。",
+          "increment": "target date约束取决约定，milestone也可有截止日；与前区或相邻区存在适度教学复现，未给满分。"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g4",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "追问今天具体要什么决定，比单纯催促更能推进",
+          "completion": "正文已实际覆盖这句话在做什么的主要教学任务；追问今天具体要什么决定。",
+          "readability": "追问今天具体要什么决定，比单纯催促更能推进；段内同时有英文术语与中文解释，仍有阅读负担。",
+          "increment": "追问今天具体要什么决定，比单纯催促更能推进；与前区或相邻区存在适度教学复现，未给满分。"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g5",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 3,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "deadline for submitting report自然，周一几点补精度",
+          "completion": "正文已实际覆盖工作中可以这样说的主要教学任务；deadline for submitting report自然。",
+          "readability": "deadline for submitting report自然，周一几点补精度；段内同时有英文术语与中文解释，仍有阅读负担。",
+          "increment": "deadline for submitting report自然，周一几点补精度"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      }
+    ]
+  }
+]

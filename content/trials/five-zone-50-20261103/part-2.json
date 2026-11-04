@@ -1,0 +1,1968 @@
+[
+  {
+    "cardId": "V20261012-018",
+    "term": "commitment",
+    "context": "Please confirm the conditions behind this commitment.",
+    "contextZh": "请确认这项承诺所依据的条件。",
+    "gloss": "承诺",
+    "glossKind": "source_summary",
+    "pos": "n.",
+    "definitionEn": "a firm promise to take an action",
+    "definitionZh": "对具体行动或交付作出的明确承诺",
+    "contextTakeaway": "这里问的是承诺成立的条件。",
+    "bridgeText": "这里问的是承诺成立的条件。",
+    "groups": [
+      {
+        "id": "g1",
+        "title": "先记住，再联系",
+        "text": "把 make a commitment 和“答应后要兑现”连起来记。它还可表示投入，但 this commitment 指一项具体承诺。记忆时抓住承诺的对象和行动，比只记“很认真”更能读懂本句；这不是在评价某人的工作态度。",
+        "sourceIds": [
+          "lex-commitment"
+        ]
+      },
+      {
+        "id": "g2",
+        "title": "句法与概念",
+        "text": "confirm 后的宾语是 conditions，behind this commitment 修饰这些条件。behind 在这里表示背后的依据，不是空间位置。概念上，句子要求核对承诺依赖什么条件，而没有直接宣告承诺已经可以无条件执行。",
+        "sourceIds": [
+          "lex-commitment"
+        ]
+      },
+      {
+        "id": "g3",
+        "title": "辨析与英文邻居",
+        "text": "promise 是容易理解的英文邻居；commitment 在此同样指明确答应承担事情。intention 只说打算做，不能自动当成承诺。记 make a commitment 和 honour a commitment，分别对应作出承诺与履行承诺。",
+        "sourceIds": [
+          "lex-commitment",
+          "lex-intention"
+        ]
+      },
+      {
+        "id": "g4",
+        "title": "这句话在做什么",
+        "text": "本句把讨论从“已经答应了”推进到“凭哪些条件能兑现”。自编接话：“It depends on final approval.”（这取决于最终批准。）下一步可列出批准条件；这句话本身不是批准通知，也不保证承诺一定履行。",
+        "sourceIds": [
+          "lex-commitment",
+          "method-meeting"
+        ]
+      },
+      {
+        "id": "g5",
+        "title": "工作中可以这样说",
+        "text": "自编：“We cannot make a commitment until the scope is clear.”（范围明确前，我们无法作出承诺。）在对方要求确定交付、但关键边界尚未说明时用；把缺少的条件说出来，便于对方补充后再谈承诺。",
+        "sourceIds": [
+          "lex-commitment",
+          "method-meeting"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "lex-commitment",
+        "url": "https://dictionary.cambridge.org/dictionary/english/commitment",
+        "title": "COMMITMENT — Cambridge Dictionary",
+        "publisher": "Cambridge University Press & Assessment",
+        "accessedAt": "2026-11-03",
+        "section": "noun: promise / Business English",
+        "retrievalStatus": "index_excerpt",
+        "supportedClaims": [
+          "definition:当前义与词性",
+          "g1:现代义联系与搭配",
+          "g2:词典可见搭配；整句分析为Writer整理",
+          "g3:当前义范围；与其他已核词义对照"
+        ],
+        "summaryZh": "对具体行动或交付作出的明确承诺",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      },
+      {
+        "id": "method-meeting",
+        "url": "https://www.oxfordonlineenglish.com/attending-business-meeting",
+        "title": "Attending a Business Meeting – Video",
+        "publisher": "Oxford Online English",
+        "accessedAt": "2026-11-03",
+        "section": "Full Script §§2–4; lines 455–559",
+        "retrievalStatus": "full_page",
+        "supportedClaims": [
+          "g4:按沟通功能组织互动，提问需指出具体不明之处",
+          "g5:练习提问、回应与承诺；自编句非来源原文",
+          "g2:elaborate on 与 clarify 的教学搭配"
+        ],
+        "summaryZh": "按建议、提问、承诺等功能练习；讲明具体问题，再给出回应。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      },
+      {
+        "id": "lex-intention",
+        "url": "https://www.collinsdictionary.com/us/dictionary/english/intention",
+        "title": "INTENTION — Collins English Dictionary",
+        "publisher": "HarperCollins",
+        "accessedAt": "2026-11-03",
+        "section": "Synonymy note: plan or design",
+        "retrievalStatus": "index_excerpt",
+        "supportedClaims": [
+          "g3:intention 表达心中的计划"
+        ],
+        "summaryZh": "intention 表示打算，不自动构成对他人的承诺。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      }
+    ],
+    "sourceLimitations": [
+      "词义据实际可见原站索引内容整理；原页直连失败，不宣称全文阅读。",
+      "词典支持词义与可见搭配；原句句法拆解、记忆类比及语用分析为Writer整理，补充对话与工作句均为自编。",
+      "教学来源仅支持沟通或概括方法，不冒充各词释义来源。"
+    ],
+    "writer": "trial_writer_2"
+  },
+  {
+    "cardId": "V20261012-019",
+    "term": "contingency",
+    "context": "We need a contingency plan if the reviewer is unavailable.",
+    "contextZh": "如果评审人员无法参与，我们需要应急计划。",
+    "gloss": "意外情况",
+    "glossKind": "source_summary",
+    "pos": "n.",
+    "definitionEn": "a possible future problem that needs preparation",
+    "definitionZh": "可能发生且需要预先准备的意外情况",
+    "contextTakeaway": "评审人缺席是预先准备的可能情况。",
+    "bridgeText": "评审人缺席是预先准备的可能情况。",
+    "groups": [
+      {
+        "id": "g1",
+        "title": "先记住，再联系",
+        "text": "可以用“如果出状况，备用安排怎么办”来记 contingency。词典里的情况是可能发生、往往会带来麻烦的事，不等于已经发生的事故。把 contingency plan 整块记成应急预案，就能接上本句的评审安排。",
+        "sourceIds": [
+          "lex-contingency"
+        ]
+      },
+      {
+        "id": "g2",
+        "title": "句法与概念",
+        "text": "contingency 在这里放在 plan 前，限定计划的用途；整组才是“应急计划”。if 引出要预防的情况，is unavailable 表示评审人不能参与。need 表示说话者认为有必要准备，并没有断言那个人一定缺席。",
+        "sourceIds": [
+          "lex-contingency"
+        ]
+      },
+      {
+        "id": "g3",
+        "title": "辨析与英文邻居",
+        "text": "contingency 是要防备的可能情况；contingency plan 才是应对安排。backup plan 是易懂的邻居，侧重备选办法。不要把 risk 和 plan 混为一谈：前者讨论不利情况，后者说明发生时如何处理。",
+        "sourceIds": [
+          "lex-contingency"
+        ]
+      },
+      {
+        "id": "g4",
+        "title": "这句话在做什么",
+        "text": "本句要求提前准备评审人无法参与时的替代办法，并未断言评审人一定缺席。自编回应：“I can check whether another reviewer is available.”（我可以确认是否有其他评审人。）接下来核对替补人员，而不是把假设写成已发生的事实。",
+        "sourceIds": [
+          "lex-contingency",
+          "method-meeting"
+        ]
+      },
+      {
+        "id": "g5",
+        "title": "工作中可以这样说",
+        "text": "自编：“What is our contingency plan if the system goes down?”（如果系统宕机，我们的应急计划是什么？）在上线前讨论准备是否充分时用；具体写出 if 后的情况，让问题落到可检查的备用安排。",
+        "sourceIds": [
+          "lex-contingency",
+          "method-meeting"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "lex-contingency",
+        "url": "https://dictionary.cambridge.org/dictionary/english/contingency",
+        "title": "CONTINGENCY — Cambridge Dictionary",
+        "publisher": "Cambridge University Press & Assessment",
+        "accessedAt": "2026-11-03",
+        "section": "noun: future possible event; contingency plan",
+        "retrievalStatus": "index_excerpt",
+        "supportedClaims": [
+          "definition:当前义与词性",
+          "g1:现代义联系与搭配",
+          "g2:词典可见搭配；整句分析为Writer整理",
+          "g3:当前义范围；与其他已核词义对照"
+        ],
+        "summaryZh": "可能发生且需要预先准备的意外情况",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      },
+      {
+        "id": "method-meeting",
+        "url": "https://www.oxfordonlineenglish.com/attending-business-meeting",
+        "title": "Attending a Business Meeting – Video",
+        "publisher": "Oxford Online English",
+        "accessedAt": "2026-11-03",
+        "section": "Full Script §§2–4; lines 455–559",
+        "retrievalStatus": "full_page",
+        "supportedClaims": [
+          "g4:按沟通功能组织互动，提问需指出具体不明之处",
+          "g5:练习提问、回应与承诺；自编句非来源原文",
+          "g2:elaborate on 与 clarify 的教学搭配"
+        ],
+        "summaryZh": "按建议、提问、承诺等功能练习；讲明具体问题，再给出回应。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      }
+    ],
+    "sourceLimitations": [
+      "词义据实际可见原站索引内容整理；原页直连失败，不宣称全文阅读。",
+      "词典支持词义与可见搭配；原句句法拆解、记忆类比及语用分析为Writer整理，补充对话与工作句均为自编。",
+      "教学来源仅支持沟通或概括方法，不冒充各词释义来源。"
+    ],
+    "writer": "trial_writer_2"
+  },
+  {
+    "cardId": "V20261012-020",
+    "term": "trade-off",
+    "context": "There is a trade-off between a faster delivery and a lower cost.",
+    "contextZh": "更快交付与更低成本之间存在取舍。",
+    "gloss": "取舍；权衡",
+    "glossKind": "source_summary",
+    "pos": "n.",
+    "definitionEn": "a situation where gaining one benefit means giving up another",
+    "definitionZh": "获得一项优势时需要付出的另一项代价",
+    "contextTakeaway": "更快交付与更低成本难以同时兼得。",
+    "bridgeText": "更快交付与更低成本难以同时兼得。",
+    "groups": [
+      {
+        "id": "g1",
+        "title": "先记住，再联系",
+        "text": "用“两项都想要，却不能都拿满”的画面记 trade-off，这是教学类比。重点是取得某个好处时要让出另一项好处。回到本句，速度和成本是同时想优化的两端；并不是所有选择都自动构成这种取舍。",
+        "sourceIds": [
+          "lex-trade-off"
+        ]
+      },
+      {
+        "id": "g2",
+        "title": "句法与概念",
+        "text": "There is 引出存在的情况；a trade-off 是名词核心，between A and B 列出两端。faster 与 lower 都在作比较。句子报告两项目标之间的限制，但没有告诉我们最终选哪一端，也没有给出具体价格差。",
+        "sourceIds": [
+          "lex-trade-off"
+        ]
+      },
+      {
+        "id": "g3",
+        "title": "辨析与英文邻居",
+        "text": "choice 只是选择；trade-off 还指出选择伴随的损失。compromise 可作英文邻居，但本句重点不是双方各让一步，而是快与便宜难以兼得。谈取舍时把两端说全，比单说“有代价”更容易判断。",
+        "sourceIds": [
+          "lex-trade-off"
+        ]
+      },
+      {
+        "id": "g4",
+        "title": "这句话在做什么",
+        "text": "本句纠正“既要更快又要更便宜”的期待，邀请团队讨论优先级。自编回应：“How much extra would faster delivery cost?”（更快交付要多花多少钱？）这样把抽象取舍转成具体比较，之后才可能选择方案。",
+        "sourceIds": [
+          "lex-trade-off",
+          "method-agree"
+        ]
+      },
+      {
+        "id": "g5",
+        "title": "工作中可以这样说",
+        "text": "自编：“What trade-offs are we accepting with this design?”（采用这个设计，我们接受了哪些取舍？）用于方案评审中追问得到与放弃的东西；请对方说明收益和代价，不能仅凭 trade-off 一词认定方案值得。",
+        "sourceIds": [
+          "lex-trade-off",
+          "method-agree"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "lex-trade-off",
+        "url": "https://dictionary.cambridge.org/dictionary/english/tradeoff",
+        "title": "TRADE-OFF — Cambridge Dictionary",
+        "publisher": "Cambridge University Press & Assessment",
+        "accessedAt": "2026-11-03",
+        "section": "tradeoff: two desired qualities; loss of a benefit",
+        "retrievalStatus": "index_excerpt",
+        "supportedClaims": [
+          "definition:当前义与词性",
+          "g1:现代义联系与搭配",
+          "g2:词典可见搭配；整句分析为Writer整理",
+          "g3:当前义范围；与其他已核词义对照"
+        ],
+        "summaryZh": "获得一项优势时需要付出的另一项代价",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      },
+      {
+        "id": "method-agree",
+        "url": "https://learnenglish.britishcouncil.org/free-resources/speaking/b1/agreeing-disagreeing",
+        "title": "Agreeing and disagreeing",
+        "publisher": "British Council",
+        "accessedAt": "2026-11-03",
+        "section": "Transcript lines 21–77",
+        "retrievalStatus": "full_page",
+        "supportedClaims": [
+          "g4:表达不同意后给理由，再讨论调整；不保证意见必然一致",
+          "g5:用自编场景练习回应立场"
+        ],
+        "summaryZh": "通过给理由和调整方案展示同意、不同意的互动。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      }
+    ],
+    "sourceLimitations": [
+      "词义据实际可见原站索引内容整理；原页直连失败，不宣称全文阅读。",
+      "词典支持词义与可见搭配；原句句法拆解、记忆类比及语用分析为Writer整理，补充对话与工作句均为自编。",
+      "教学来源仅支持沟通或概括方法，不冒充各词释义来源。"
+    ],
+    "writer": "trial_writer_2"
+  },
+  {
+    "cardId": "V20261012-041",
+    "term": "agenda",
+    "context": "Please send the agenda before the meeting.",
+    "contextZh": "请在会议前发送议程。",
+    "gloss": "议程",
+    "glossKind": "source_summary",
+    "pos": "n.",
+    "definitionEn": "a list of topics planned for a meeting",
+    "definitionZh": "会议准备讨论的事项清单",
+    "contextTakeaway": "会前发送要讨论的事项清单。",
+    "bridgeText": "会前发送要讨论的事项清单。",
+    "groups": [
+      {
+        "id": "g1",
+        "title": "先记住，再联系",
+        "text": "想到开会前先看“今天谈哪几件事”，就能记住 agenda 的本句义。清单中的一项可叫 an item on the agenda。它还可以指更广泛的目标，但 meeting 已把这里限定为会议议程，不必猜测隐藏动机。",
+        "sourceIds": [
+          "lex-agenda"
+        ]
+      },
+      {
+        "id": "g2",
+        "title": "句法与概念",
+        "text": "send 的宾语是 the agenda，表示双方能识别的那份议程；before the meeting 修饰发送时间。句子要求先发清单，再开会。它没有指定必须提前几天，所以需要明确截止时间时，应在后续沟通中补上。",
+        "sourceIds": [
+          "lex-agenda"
+        ]
+      },
+      {
+        "id": "g3",
+        "title": "辨析与英文邻居",
+        "text": "agenda 告诉人们准备讨论什么；schedule 更侧重时间安排。minutes 则记录会议经过或结果。把这三个词放在同一次会议里比较：会前看议程，按时间表进行，会后读纪要，就不容易混用。",
+        "sourceIds": [
+          "lex-agenda",
+          "lex-schedule",
+          "lex-minutes"
+        ]
+      },
+      {
+        "id": "g4",
+        "title": "这句话在做什么",
+        "text": "本句在安排会前准备，避免参会者到场才知道主题。自编回应：“I’ll send it this afternoon.”（我今天下午发。）回应补上可执行的时间，随后发送议程；不能仅从原句认定议程已写好或对方已接受。",
+        "sourceIds": [
+          "lex-agenda",
+          "method-agenda"
+        ]
+      },
+      {
+        "id": "g5",
+        "title": "工作中可以这样说",
+        "text": "自编：“Could we add the staffing issue to the agenda?”（我们能把人员配置问题加入议程吗？）当你希望正式安排一个讨论主题时用；它是在申请加入清单，是否排入仍需主持人或团队确认。",
+        "sourceIds": [
+          "lex-agenda",
+          "method-agenda"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "lex-agenda",
+        "url": "https://www.cambridge.org/elt/workinginenglish/vocabonline/unit20.htm",
+        "title": "Working in English — Business English Vocabulary Online, Unit 20",
+        "publisher": "Cambridge University Press & Assessment",
+        "accessedAt": "2026-11-03",
+        "section": "unit20: agenda (n), meeting subjects",
+        "retrievalStatus": "index_excerpt",
+        "supportedClaims": [
+          "definition:当前义与词性",
+          "g1:现代义联系与搭配",
+          "g2:词典可见搭配；整句分析为Writer整理",
+          "g3:当前义范围；与其他已核词义对照"
+        ],
+        "summaryZh": "会议准备讨论的事项清单",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      },
+      {
+        "id": "method-agenda",
+        "url": "https://downloads.bbc.co.uk/worldservice/learningenglish/business/talkingbusiness/pdfs/2.1_agenda.pdf",
+        "title": "Talking Business — Meetings: Agenda setting",
+        "publisher": "BBC Learning English",
+        "accessedAt": "2026-11-03",
+        "section": "Useful Phrases; Transcript clips 1–2",
+        "retrievalStatus": "index_excerpt",
+        "supportedClaims": [
+          "g4:列出议题并核对顺序",
+          "g5:练习把具体事项放进会议议程"
+        ],
+        "summaryZh": "会议开始时说明议题与次序。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      },
+      {
+        "id": "lex-schedule",
+        "url": "https://www.dictionary.com/browse/schedule",
+        "title": "SCHEDULE — Dictionary.com",
+        "publisher": "Dictionary.com",
+        "accessedAt": "2026-11-03",
+        "section": "definition: planned things and times",
+        "retrievalStatus": "index_excerpt",
+        "supportedClaims": [
+          "g3:schedule 注重安排与时间"
+        ],
+        "summaryZh": "列出事项与实施时间。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      },
+      {
+        "id": "lex-minutes",
+        "url": "https://dictionary.law.com/Default.aspx?selected=1254",
+        "title": "minutes — The People’s Law Dictionary",
+        "publisher": "Law.com / Fine Communications",
+        "accessedAt": "2026-11-03",
+        "section": "definition 1: written record of meetings",
+        "retrievalStatus": "index_excerpt",
+        "supportedClaims": [
+          "g3:minutes 是会议书面记录"
+        ],
+        "summaryZh": "会议纪要是会议的书面记录。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      }
+    ],
+    "sourceLimitations": [
+      "词义据实际可见原站索引内容整理；原页直连失败，不宣称全文阅读。",
+      "词典支持词义与可见搭配；原句句法拆解、记忆类比及语用分析为Writer整理，补充对话与工作句均为自编。",
+      "教学来源仅支持沟通或概括方法，不冒充各词释义来源。"
+    ],
+    "writer": "trial_writer_2"
+  },
+  {
+    "cardId": "V20261012-042",
+    "term": "context",
+    "context": "Let me provide some context before we discuss the options.",
+    "contextZh": "讨论选项前，让我先提供一些背景。",
+    "gloss": "背景",
+    "glossKind": "source_summary",
+    "pos": "n.",
+    "definitionEn": "background circumstances that help explain something",
+    "definitionZh": "理解当前事项所需的背景",
+    "contextTakeaway": "先补背景，再比较选项。",
+    "bridgeText": "先补背景，再比较选项。",
+    "groups": [
+      {
+        "id": "g1",
+        "title": "先记住，再联系",
+        "text": "可把 context 想成照片外的环境，这是帮助记忆的类比：单看一个数字可能不明白，知道它产生时的情况才容易理解。这里的背景服务于后面的选项讨论，不是要求把所有历史资料从头讲一遍。",
+        "sourceIds": [
+          "lex-context"
+        ]
+      },
+      {
+        "id": "g2",
+        "title": "句法与概念",
+        "text": "Let me 后接动词原形 provide，表示说话者要先做一件事；some context 是补充的信息，before 从句标出先后关系。概念上，是先提供共同理解所需的背景，再讨论选项，而非已经替大家选好方案。",
+        "sourceIds": [
+          "lex-context"
+        ]
+      },
+      {
+        "id": "g3",
+        "title": "辨析与英文邻居",
+        "text": "background 是本句接近的英文邻居。context 更突出周围情况如何影响理解；detail 则可能只是某个具体细节，不一定解释背景。还可记 in context：把信息放回相关情境后理解，避免孤立解读。",
+        "sourceIds": [
+          "lex-context"
+        ]
+      },
+      {
+        "id": "g4",
+        "title": "这句话在做什么",
+        "text": "本句暂缓进入选项比较，为听者补齐理解起点。自编接话：“Please explain what changed.”（请说明发生了什么变化。）接下来先听变化背景，再评估方案；这只是话题安排，不代表听者必然接受说话者的判断。",
+        "sourceIds": [
+          "lex-context",
+          "method-meeting"
+        ]
+      },
+      {
+        "id": "g5",
+        "title": "工作中可以这样说",
+        "text": "自编：“For context, the estimate assumes a two-week review.”（补充一下背景，这份估算假设评审需要两周。）在读者容易误解数字时用，说明与解读直接有关的前提；这里是自编示例，并非真实评审安排。",
+        "sourceIds": [
+          "lex-context",
+          "method-meeting"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "lex-context",
+        "url": "https://dictionary.cambridge.org/dictionary/english/context",
+        "title": "CONTEXT — Cambridge Dictionary",
+        "publisher": "Cambridge University Press & Assessment",
+        "accessedAt": "2026-11-03",
+        "section": "noun: CAUSE OF EVENT / LANGUAGE",
+        "retrievalStatus": "index_excerpt",
+        "supportedClaims": [
+          "definition:当前义与词性",
+          "g1:现代义联系与搭配",
+          "g2:词典可见搭配；整句分析为Writer整理",
+          "g3:当前义范围；与其他已核词义对照"
+        ],
+        "summaryZh": "理解当前事项所需的背景",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      },
+      {
+        "id": "method-meeting",
+        "url": "https://www.oxfordonlineenglish.com/attending-business-meeting",
+        "title": "Attending a Business Meeting – Video",
+        "publisher": "Oxford Online English",
+        "accessedAt": "2026-11-03",
+        "section": "Full Script §§2–4; lines 455–559",
+        "retrievalStatus": "full_page",
+        "supportedClaims": [
+          "g4:按沟通功能组织互动，提问需指出具体不明之处",
+          "g5:练习提问、回应与承诺；自编句非来源原文",
+          "g2:elaborate on 与 clarify 的教学搭配"
+        ],
+        "summaryZh": "按建议、提问、承诺等功能练习；讲明具体问题，再给出回应。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      }
+    ],
+    "sourceLimitations": [
+      "词义据实际可见原站索引内容整理；原页直连失败，不宣称全文阅读。",
+      "词典支持词义与可见搭配；原句句法拆解、记忆类比及语用分析为Writer整理，补充对话与工作句均为自编。",
+      "教学来源仅支持沟通或概括方法，不冒充各词释义来源。"
+    ],
+    "writer": "trial_writer_2"
+  },
+  {
+    "cardId": "V20261012-043",
+    "term": "clarify",
+    "context": "Could you clarify what is included in this request?",
+    "contextZh": "你能澄清这项请求包含什么吗？",
+    "gloss": "澄清",
+    "glossKind": "source_summary",
+    "pos": "v.",
+    "definitionEn": "to make a meaning or issue easier to understand",
+    "definitionZh": "把含糊的意思、范围或要求讲清楚",
+    "contextTakeaway": "请对方说清请求包含哪些内容。",
+    "bridgeText": "请对方说清请求包含哪些内容。",
+    "groups": [
+      {
+        "id": "g1",
+        "title": "先记住，再联系",
+        "text": "记 clear 与 clarify 的意义联系：原来模糊的内容，经解释后变清楚。这里的学习重点是“哪里不清楚”，不是要求对方说得越长越好。把 clarify the scope 当作练习搭配，便于想到范围澄清的场景。",
+        "sourceIds": [
+          "lex-clarify"
+        ]
+      },
+      {
+        "id": "g2",
+        "title": "句法与概念",
+        "text": "Could you 构成请求；clarify 后接 what is included in this request，整个从句是要澄清的内容。what 从句保持陈述结构，不再写成疑问句倒装。概念重点是请求范围，尤其哪些项目包含在内。",
+        "sourceIds": [
+          "lex-clarify"
+        ]
+      },
+      {
+        "id": "g3",
+        "title": "辨析与英文邻居",
+        "text": "clarify 针对模糊之处；confirm 针对已有信息是否属实或确定；elaborate 则展开更多细节。三者可能出现在同一讨论，但任务不同。若你连范围都不明白，先求澄清比直接要求确认更准确。",
+        "sourceIds": [
+          "lex-clarify",
+          "lex-confirm",
+          "lex-elaborate"
+        ]
+      },
+      {
+        "id": "g4",
+        "title": "这句话在做什么",
+        "text": "本句把沟通卡点定位到范围，而不是笼统地说没听懂。自编回应：“It includes testing, but not installation.”（包括测试，但不包括安装。）这样回应给出边界，下一步才能判断工作量；此范围仅属自编教学情境。",
+        "sourceIds": [
+          "lex-clarify",
+          "method-meeting"
+        ]
+      },
+      {
+        "id": "g5",
+        "title": "工作中可以这样说",
+        "text": "自编：“Could you clarify whether training is included?”（你能说明培训是否包含在内吗？）当报价或请求中某项服务的边界不清时用。把不确定的项目放进 whether 从句，让对方能直接回答，而不用重述整份方案。",
+        "sourceIds": [
+          "lex-clarify",
+          "method-meeting"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "lex-clarify",
+        "url": "https://dictionary.cambridge.org/dictionary/english/clarify",
+        "title": "CLARIFY — Cambridge Dictionary",
+        "publisher": "Cambridge University Press & Assessment",
+        "accessedAt": "2026-11-03",
+        "section": "verb: EXPLAIN",
+        "retrievalStatus": "index_excerpt",
+        "supportedClaims": [
+          "definition:当前义与词性",
+          "g1:现代义联系与搭配",
+          "g2:词典可见搭配；整句分析为Writer整理",
+          "g3:当前义范围；与其他已核词义对照"
+        ],
+        "summaryZh": "把含糊的意思、范围或要求讲清楚",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      },
+      {
+        "id": "method-meeting",
+        "url": "https://www.oxfordonlineenglish.com/attending-business-meeting",
+        "title": "Attending a Business Meeting – Video",
+        "publisher": "Oxford Online English",
+        "accessedAt": "2026-11-03",
+        "section": "Full Script §§2–4; lines 455–559",
+        "retrievalStatus": "full_page",
+        "supportedClaims": [
+          "g4:按沟通功能组织互动，提问需指出具体不明之处",
+          "g5:练习提问、回应与承诺；自编句非来源原文",
+          "g2:elaborate on 与 clarify 的教学搭配"
+        ],
+        "summaryZh": "按建议、提问、承诺等功能练习；讲明具体问题，再给出回应。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      },
+      {
+        "id": "lex-confirm",
+        "url": "https://dictionary.cambridge.org/us/dictionary/english/confirm",
+        "title": "CONFIRM — Cambridge Dictionary",
+        "publisher": "Cambridge University Press & Assessment",
+        "accessedAt": "2026-11-03",
+        "section": "verb: MAKE CERTAIN / PROVE TRUE",
+        "retrievalStatus": "index_excerpt",
+        "supportedClaims": [
+          "definition:当前义与词性",
+          "g1:现代义联系与搭配",
+          "g2:词典可见搭配；整句分析为Writer整理",
+          "g3:当前义范围；与其他已核词义对照"
+        ],
+        "summaryZh": "确认信息、安排或双方理解是否成立",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      },
+      {
+        "id": "lex-elaborate",
+        "url": "https://dictionary.cambridge.org/us/dictionary/english/elaborate",
+        "title": "ELABORATE — Cambridge Dictionary",
+        "publisher": "Cambridge University Press & Assessment",
+        "accessedAt": "2026-11-03",
+        "section": "verb: add information; elaborate on",
+        "retrievalStatus": "index_excerpt",
+        "supportedClaims": [
+          "definition:当前义与词性",
+          "g1:现代义联系与搭配",
+          "g2:词典可见搭配；整句分析为Writer整理",
+          "g3:当前义范围；与其他已核词义对照"
+        ],
+        "summaryZh": "对已经说出的观点进一步详细说明",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      }
+    ],
+    "sourceLimitations": [
+      "词义据实际可见原站索引内容整理；原页直连失败，不宣称全文阅读。",
+      "词典支持词义与可见搭配；原句句法拆解、记忆类比及语用分析为Writer整理，补充对话与工作句均为自编。",
+      "教学来源仅支持沟通或概括方法，不冒充各词释义来源。"
+    ],
+    "writer": "trial_writer_2"
+  },
+  {
+    "cardId": "V20261012-044",
+    "term": "confirm",
+    "context": "Please confirm who will own the next action.",
+    "contextZh": "请确认谁将负责下一项行动。",
+    "gloss": "确认",
+    "glossKind": "source_summary",
+    "pos": "v.",
+    "definitionEn": "to establish or state that something is certain",
+    "definitionZh": "确认信息、安排或双方理解是否成立",
+    "contextTakeaway": "把下一项行动的负责人确认下来。",
+    "bridgeText": "把下一项行动的负责人确认下来。",
+    "groups": [
+      {
+        "id": "g1",
+        "title": "先记住，再联系",
+        "text": "可用“暂定信息旁边打一个核对勾”的画面记 confirm，这是教学类比。勾表示核实后的确定，不是凭空创造事实。本句要核对责任归属；词典中它也能用于确定会议安排，但这里不是确认会议时间。",
+        "sourceIds": [
+          "lex-confirm"
+        ]
+      },
+      {
+        "id": "g2",
+        "title": "句法与概念",
+        "text": "confirm 的宾语是 who will own the next action 这个从句，who 在从句中作主语；own 在工作语境中表示承担责任。句子要确定谁负责下一步，不是询问某个物品属于谁，也没有直接指定负责人。",
+        "sourceIds": [
+          "lex-confirm"
+        ]
+      },
+      {
+        "id": "g3",
+        "title": "辨析与英文邻居",
+        "text": "clarify 是讲清不懂的内容，confirm 是核定信息；approve 表示批准，两者不能一律互换。确认谁负责不自动等于批准其方案。常用邻居是 confirm the details，把需要核实的具体细节列出来。",
+        "sourceIds": [
+          "lex-confirm",
+          "lex-clarify"
+        ]
+      },
+      {
+        "id": "g4",
+        "title": "这句话在做什么",
+        "text": "本句在结束讨论前补上行动归属，防止下一步无人接手。自编回应：“Maya will take responsibility for the review.”（Maya 将负责评审。）接下来可记录负责人和任务；这个姓名与分工只是自编示范。",
+        "sourceIds": [
+          "lex-confirm",
+          "method-meeting"
+        ]
+      },
+      {
+        "id": "g5",
+        "title": "工作中可以这样说",
+        "text": "自编：“Please confirm the quantity before we place the order.”（请在我们下单前确认数量。）在执行动作依赖一项信息时用；把确认事项和后续动作接起来，说明为什么现在需要核实，而不暗示订单已经批准。",
+        "sourceIds": [
+          "lex-confirm",
+          "method-meeting"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "lex-confirm",
+        "url": "https://dictionary.cambridge.org/us/dictionary/english/confirm",
+        "title": "CONFIRM — Cambridge Dictionary",
+        "publisher": "Cambridge University Press & Assessment",
+        "accessedAt": "2026-11-03",
+        "section": "verb: MAKE CERTAIN / PROVE TRUE",
+        "retrievalStatus": "index_excerpt",
+        "supportedClaims": [
+          "definition:当前义与词性",
+          "g1:现代义联系与搭配",
+          "g2:词典可见搭配；整句分析为Writer整理",
+          "g3:当前义范围；与其他已核词义对照"
+        ],
+        "summaryZh": "确认信息、安排或双方理解是否成立",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      },
+      {
+        "id": "method-meeting",
+        "url": "https://www.oxfordonlineenglish.com/attending-business-meeting",
+        "title": "Attending a Business Meeting – Video",
+        "publisher": "Oxford Online English",
+        "accessedAt": "2026-11-03",
+        "section": "Full Script §§2–4; lines 455–559",
+        "retrievalStatus": "full_page",
+        "supportedClaims": [
+          "g4:按沟通功能组织互动，提问需指出具体不明之处",
+          "g5:练习提问、回应与承诺；自编句非来源原文",
+          "g2:elaborate on 与 clarify 的教学搭配"
+        ],
+        "summaryZh": "按建议、提问、承诺等功能练习；讲明具体问题，再给出回应。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      },
+      {
+        "id": "lex-clarify",
+        "url": "https://dictionary.cambridge.org/dictionary/english/clarify",
+        "title": "CLARIFY — Cambridge Dictionary",
+        "publisher": "Cambridge University Press & Assessment",
+        "accessedAt": "2026-11-03",
+        "section": "verb: EXPLAIN",
+        "retrievalStatus": "index_excerpt",
+        "supportedClaims": [
+          "definition:当前义与词性",
+          "g1:现代义联系与搭配",
+          "g2:词典可见搭配；整句分析为Writer整理",
+          "g3:当前义范围；与其他已核词义对照"
+        ],
+        "summaryZh": "把含糊的意思、范围或要求讲清楚",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      }
+    ],
+    "sourceLimitations": [
+      "词义据实际可见原站索引内容整理；原页直连失败，不宣称全文阅读。",
+      "词典支持词义与可见搭配；原句句法拆解、记忆类比及语用分析为Writer整理，补充对话与工作句均为自编。",
+      "教学来源仅支持沟通或概括方法，不冒充各词释义来源。"
+    ],
+    "writer": "trial_writer_2"
+  },
+  {
+    "cardId": "V20261012-045",
+    "term": "specify",
+    "context": "Please specify the conditions for accepting this proposal.",
+    "contextZh": "请明确说明接受此提案的条件。",
+    "gloss": "明确说明",
+    "glossKind": "source_summary",
+    "pos": "v.",
+    "definitionEn": "to state something precisely and explicitly",
+    "definitionZh": "明确写出或说出具体要求",
+    "contextTakeaway": "把接受提案的条件具体列出来。",
+    "bridgeText": "把接受提案的条件具体列出来。",
+    "groups": [
+      {
+        "id": "g1",
+        "title": "先记住，再联系",
+        "text": "用“把空白栏填到别人不必猜”的画面记 specify，这是记忆类比。核心是明确而具体，例如说明日期、数量或条件。它不是单纯多说几句；本句需要能辨认的接受条件，重复“条件合适”仍不够具体。",
+        "sourceIds": [
+          "lex-specify"
+        ]
+      },
+      {
+        "id": "g2",
+        "title": "句法与概念",
+        "text": "specify 后直接接 the conditions；for accepting this proposal 修饰 conditions，其中 accepting 是介词 for 后的动名词。整句要说明接受提案所需的条件，不是命令对方现在就接受，也不表示条件已经满足。",
+        "sourceIds": [
+          "lex-specify"
+        ]
+      },
+      {
+        "id": "g3",
+        "title": "辨析与英文邻居",
+        "text": "say 是广义的说，specify 强调说得确切；clarify 侧重解决不清楚的地方。若对方只说“尽快”，可请其 specify a date，把日期明确下来。词语差别在信息精度，不在说话长度或音量。",
+        "sourceIds": [
+          "lex-specify",
+          "lex-clarify"
+        ]
+      },
+      {
+        "id": "g4",
+        "title": "这句话在做什么",
+        "text": "本句要求对方把接受提案所需的条件说具体，并不表示提案已经获准。自编回应：“We need the revised price and a delivery date.”（我们需要修订后的价格和交货日期。）下一步据此补材料；这两项只是示例，不是当前提案的真实条件。",
+        "sourceIds": [
+          "lex-specify",
+          "method-meeting"
+        ]
+      },
+      {
+        "id": "g5",
+        "title": "工作中可以这样说",
+        "text": "自编：“Please specify the required file format.”（请明确说明所需的文件格式。）在交付要求尚不足以执行时用；它要求一个具体答案，适合填补规格空缺，比让对方重新解释整个任务更聚焦。",
+        "sourceIds": [
+          "lex-specify",
+          "method-meeting"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "lex-specify",
+        "url": "https://dictionary.cambridge.org/dictionary/english/specify",
+        "title": "SPECIFY — Cambridge Dictionary",
+        "publisher": "Cambridge University Press & Assessment",
+        "accessedAt": "2026-11-03",
+        "section": "verb / Business English",
+        "retrievalStatus": "index_excerpt",
+        "supportedClaims": [
+          "definition:当前义与词性",
+          "g1:现代义联系与搭配",
+          "g2:词典可见搭配；整句分析为Writer整理",
+          "g3:当前义范围；与其他已核词义对照"
+        ],
+        "summaryZh": "明确写出或说出具体要求",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      },
+      {
+        "id": "method-meeting",
+        "url": "https://www.oxfordonlineenglish.com/attending-business-meeting",
+        "title": "Attending a Business Meeting – Video",
+        "publisher": "Oxford Online English",
+        "accessedAt": "2026-11-03",
+        "section": "Full Script §§2–4; lines 455–559",
+        "retrievalStatus": "full_page",
+        "supportedClaims": [
+          "g4:按沟通功能组织互动，提问需指出具体不明之处",
+          "g5:练习提问、回应与承诺；自编句非来源原文",
+          "g2:elaborate on 与 clarify 的教学搭配"
+        ],
+        "summaryZh": "按建议、提问、承诺等功能练习；讲明具体问题，再给出回应。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      },
+      {
+        "id": "lex-clarify",
+        "url": "https://dictionary.cambridge.org/dictionary/english/clarify",
+        "title": "CLARIFY — Cambridge Dictionary",
+        "publisher": "Cambridge University Press & Assessment",
+        "accessedAt": "2026-11-03",
+        "section": "verb: EXPLAIN",
+        "retrievalStatus": "index_excerpt",
+        "supportedClaims": [
+          "definition:当前义与词性",
+          "g1:现代义联系与搭配",
+          "g2:词典可见搭配；整句分析为Writer整理",
+          "g3:当前义范围；与其他已核词义对照"
+        ],
+        "summaryZh": "把含糊的意思、范围或要求讲清楚",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      }
+    ],
+    "sourceLimitations": [
+      "词义据实际可见原站索引内容整理；原页直连失败，不宣称全文阅读。",
+      "词典支持词义与可见搭配；原句句法拆解、记忆类比及语用分析为Writer整理，补充对话与工作句均为自编。",
+      "教学来源仅支持沟通或概括方法，不冒充各词释义来源。"
+    ],
+    "writer": "trial_writer_2"
+  },
+  {
+    "cardId": "V20261012-046",
+    "term": "elaborate",
+    "context": "Could you elaborate on the concern about timing?",
+    "contextZh": "你能详细说明对时间安排的担忧吗？",
+    "gloss": "详细说明",
+    "glossKind": "source_summary",
+    "pos": "v.",
+    "definitionEn": "to add details to something already said",
+    "definitionZh": "对已经说出的观点进一步详细说明",
+    "contextTakeaway": "请把时间安排方面的担忧展开说明。",
+    "bridgeText": "请把时间安排方面的担忧展开说明。",
+    "groups": [
+      {
+        "id": "g1",
+        "title": "先记住，再联系",
+        "text": "把 elaborate on 和“把刚才那一点展开”一起记。通常已有一个观点，现在需要细节或解释来理解它。这里已有 concern，所以不是另起新话题；也不是 elaborate 作形容词时的“复杂精细”的意思。",
+        "sourceIds": [
+          "lex-elaborate"
+        ]
+      },
+      {
+        "id": "g2",
+        "title": "句法与概念",
+        "text": "本句用 elaborate on，on 后接 the concern；about timing 再限定是哪方面的担忧。读成“详细说明／关于时间安排的担忧”，不要把 on 和 about 都直接连到动词上。请求的目标是补充既有观点。",
+        "sourceIds": [
+          "lex-elaborate"
+        ]
+      },
+      {
+        "id": "g3",
+        "title": "辨析与英文邻居",
+        "text": "clarify 可以用简单说法消除含糊；elaborate 往往增加解释或细节。expand on 是接近的英文邻居，常用于继续展开一个观点。细节增加后仍应回答原问题，不能因为说得更多就认为已经解释清楚。",
+        "sourceIds": [
+          "lex-elaborate",
+          "lex-clarify"
+        ]
+      },
+      {
+        "id": "g4",
+        "title": "这句话在做什么",
+        "text": "本句表明听者已听到时间有问题，却还不知道具体卡在哪里。自编回应：“The review may take three extra days.”（评审可能多花三天。）下一步讨论这个额外时间如何影响计划；这里的三天是自编示例。",
+        "sourceIds": [
+          "lex-elaborate",
+          "method-meeting"
+        ]
+      },
+      {
+        "id": "g5",
+        "title": "工作中可以这样说",
+        "text": "自编：“Could you elaborate on how the delay affects testing?”（你能详细说明延误怎样影响测试吗？）当你知道问题名称，但还不能判断影响时用。把希望展开的角度补在 on 后，帮助对方提供相关细节。",
+        "sourceIds": [
+          "lex-elaborate",
+          "method-meeting"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "lex-elaborate",
+        "url": "https://dictionary.cambridge.org/us/dictionary/english/elaborate",
+        "title": "ELABORATE — Cambridge Dictionary",
+        "publisher": "Cambridge University Press & Assessment",
+        "accessedAt": "2026-11-03",
+        "section": "verb: add information; elaborate on",
+        "retrievalStatus": "index_excerpt",
+        "supportedClaims": [
+          "definition:当前义与词性",
+          "g1:现代义联系与搭配",
+          "g2:词典可见搭配；整句分析为Writer整理",
+          "g3:当前义范围；与其他已核词义对照"
+        ],
+        "summaryZh": "对已经说出的观点进一步详细说明",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      },
+      {
+        "id": "method-meeting",
+        "url": "https://www.oxfordonlineenglish.com/attending-business-meeting",
+        "title": "Attending a Business Meeting – Video",
+        "publisher": "Oxford Online English",
+        "accessedAt": "2026-11-03",
+        "section": "Full Script §§2–4; lines 455–559",
+        "retrievalStatus": "full_page",
+        "supportedClaims": [
+          "g4:按沟通功能组织互动，提问需指出具体不明之处",
+          "g5:练习提问、回应与承诺；自编句非来源原文",
+          "g2:elaborate on 与 clarify 的教学搭配"
+        ],
+        "summaryZh": "按建议、提问、承诺等功能练习；讲明具体问题，再给出回应。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      },
+      {
+        "id": "lex-clarify",
+        "url": "https://dictionary.cambridge.org/dictionary/english/clarify",
+        "title": "CLARIFY — Cambridge Dictionary",
+        "publisher": "Cambridge University Press & Assessment",
+        "accessedAt": "2026-11-03",
+        "section": "verb: EXPLAIN",
+        "retrievalStatus": "index_excerpt",
+        "supportedClaims": [
+          "definition:当前义与词性",
+          "g1:现代义联系与搭配",
+          "g2:词典可见搭配；整句分析为Writer整理",
+          "g3:当前义范围；与其他已核词义对照"
+        ],
+        "summaryZh": "把含糊的意思、范围或要求讲清楚",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      }
+    ],
+    "sourceLimitations": [
+      "词义据实际可见原站索引内容整理；原页直连失败，不宣称全文阅读。",
+      "词典支持词义与可见搭配；原句句法拆解、记忆类比及语用分析为Writer整理，补充对话与工作句均为自编。",
+      "教学来源仅支持沟通或概括方法，不冒充各词释义来源。"
+    ],
+    "writer": "trial_writer_2"
+  },
+  {
+    "cardId": "V20261012-047",
+    "term": "summarize",
+    "context": "Let me summarize the decisions and remaining questions.",
+    "contextZh": "让我概括各项决定和剩余问题。",
+    "gloss": "概括",
+    "glossKind": "source_summary",
+    "pos": "v.",
+    "definitionEn": "to present the main points briefly and clearly",
+    "definitionZh": "概括重点而不是重复全部细节",
+    "contextTakeaway": "把决定与未决问题分别概括。",
+    "bridgeText": "把决定与未决问题分别概括。",
+    "groups": [
+      {
+        "id": "g1",
+        "title": "先记住，再联系",
+        "text": "用“留下骨架，省去枝节”的画面记 summarize，这是教学类比。骨架是关键事实和观点，不是随意删短。这里要保留两类内容：已经决定的事与还没回答的问题，才能让听者掌握讨论落点。",
+        "sourceIds": [
+          "lex-summarize",
+          "method-summary"
+        ]
+      },
+      {
+        "id": "g2",
+        "title": "句法与概念",
+        "text": "Let me summarize 表示说话者准备进行概括；decisions 和 remaining questions 是并列宾语。remaining 修饰仍留下的问题。句法把已决与未决内容放在同一回顾动作里，概念上仍需分清它们的不同状态。",
+        "sourceIds": [
+          "lex-summarize"
+        ]
+      },
+      {
+        "id": "g3",
+        "title": "辨析与英文邻居",
+        "text": "repeat 是重复，可能一字不改；summarize 要筛出重点并缩短。recap 与它接近，但常突出回顾此前讲过的内容。不要把尚未解决的问题省略掉，否则短了，却可能把讨论误报成全部完成。",
+        "sourceIds": [
+          "lex-summarize",
+          "lex-recap"
+        ]
+      },
+      {
+        "id": "g4",
+        "title": "这句话在做什么",
+        "text": "本句在讨论变散时收束信息，为后续核对提供共同版本。自编回应：“Please include the unresolved budget question.”（请把尚未解决的预算问题也列进去。）接下来补齐要点，而不是用总结口吻把未决事项写成决定。",
+        "sourceIds": [
+          "lex-summarize",
+          "method-summary"
+        ]
+      },
+      {
+        "id": "g5",
+        "title": "工作中可以这样说",
+        "text": "自编：“Could you summarize the findings in three points?”（你能用三个要点概括调查结果吗？）在接收大量材料、需要先了解重点时用；三个要点是此示例的格式要求，不是 summarize 这个词自带的固定数量。",
+        "sourceIds": [
+          "lex-summarize",
+          "method-summary"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "lex-summarize",
+        "url": "https://dictionary.cambridge.org/us/dictionary/english/summarize",
+        "title": "SUMMARIZE — Cambridge Dictionary",
+        "publisher": "Cambridge University Press & Assessment",
+        "accessedAt": "2026-11-03",
+        "section": "verb: important facts in a short clear form",
+        "retrievalStatus": "index_excerpt",
+        "supportedClaims": [
+          "definition:当前义与词性",
+          "g1:现代义联系与搭配",
+          "g2:词典可见搭配；整句分析为Writer整理",
+          "g3:当前义范围；与其他已核词义对照"
+        ],
+        "summaryZh": "概括重点而不是重复全部细节",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      },
+      {
+        "id": "method-summary",
+        "url": "https://downloads.bbc.co.uk/skillswise/english/en07unde/factsheet/en07unde-l1-f-what-is-summarising.pdf",
+        "title": "What is summarising?",
+        "publisher": "BBC Skillswise",
+        "accessedAt": "2026-11-03",
+        "section": "page 1, lines 3–13",
+        "retrievalStatus": "full_page",
+        "supportedClaims": [
+          "g1:保留重点，删除不必要细节",
+          "g4:概括帮助听者作后续判断"
+        ],
+        "summaryZh": "概括提取重点，不加入不必要细节。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      },
+      {
+        "id": "lex-recap",
+        "url": "https://dictionary.cambridge.org/us/dictionary/english/recap",
+        "title": "RECAP — Cambridge Dictionary",
+        "publisher": "Cambridge University Press & Assessment",
+        "accessedAt": "2026-11-03",
+        "section": "verb / Business English MEETINGS",
+        "retrievalStatus": "index_excerpt",
+        "supportedClaims": [
+          "definition:当前义与词性",
+          "g1:现代义联系与搭配",
+          "g2:词典可见搭配；整句分析为Writer整理",
+          "g3:当前义范围；与其他已核词义对照"
+        ],
+        "summaryZh": "简短回顾已经讨论或发生的内容",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      }
+    ],
+    "sourceLimitations": [
+      "词义据实际可见原站索引内容整理；原页直连失败，不宣称全文阅读。",
+      "词典支持词义与可见搭配；原句句法拆解、记忆类比及语用分析为Writer整理，补充对话与工作句均为自编。",
+      "教学来源仅支持沟通或概括方法，不冒充各词释义来源。"
+    ],
+    "writer": "trial_writer_2"
+  },
+  {
+    "cardId": "V20261012-048",
+    "term": "recap",
+    "context": "Could you recap the main points for the new team member?",
+    "contextZh": "你能为新成员简要回顾要点吗？",
+    "gloss": "简要回顾",
+    "glossKind": "source_summary",
+    "pos": "v.",
+    "definitionEn": "to briefly go over the main points again",
+    "definitionZh": "简短回顾已经讨论或发生的内容",
+    "contextTakeaway": "为新成员回顾已讨论的要点。",
+    "bridgeText": "为新成员回顾已讨论的要点。",
+    "groups": [
+      {
+        "id": "g1",
+        "title": "先记住，再联系",
+        "text": "想象有人刚加入讨论，需要把前面的关键内容再过一遍，这就是本句 recap 的记忆场景。它强调回顾要点，不是从头逐句重播。把 recap the main points 整块记住，比只记“重复”更能掌握取舍。",
+        "sourceIds": [
+          "lex-recap",
+          "method-summary"
+        ]
+      },
+      {
+        "id": "g2",
+        "title": "句法与概念",
+        "text": "Could you 后接动词 recap，the main points 是宾语；for the new team member 表明回顾是给谁听的。句子交代听者需求，却没有说明新成员为何错过内容，不能据此补写迟到或缺席的真实故事。",
+        "sourceIds": [
+          "lex-recap"
+        ]
+      },
+      {
+        "id": "g3",
+        "title": "辨析与英文邻居",
+        "text": "summarize 也概括重点，recap 更突出再次带过先前内容；两者可有重叠，不必硬分口语与书面语。review 范围更广，还可能包含检查或评估。这里没有要求重新评判决定，只要先让新成员跟上。",
+        "sourceIds": [
+          "lex-recap",
+          "lex-summarize"
+        ]
+      },
+      {
+        "id": "g4",
+        "title": "这句话在做什么",
+        "text": "本句为新成员补上共同背景，让其能进入后续讨论。自编回应：“We agreed on the goal, but the schedule is still open.”（目标已一致，时间表仍未定。）回顾后新成员可针对未决事项提问；这段进度是自编示例。",
+        "sourceIds": [
+          "lex-recap",
+          "method-summary"
+        ]
+      },
+      {
+        "id": "g5",
+        "title": "工作中可以这样说",
+        "text": "自编：“Let’s recap the action points before we finish.”（结束前，我们来回顾一下行动事项。）用于会议将结束、需要再过一遍分工时。它提示大家回看已经谈到的内容；若发现遗漏，仍要另行补充并核对。",
+        "sourceIds": [
+          "lex-recap",
+          "method-summary"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "lex-recap",
+        "url": "https://dictionary.cambridge.org/us/dictionary/english/recap",
+        "title": "RECAP — Cambridge Dictionary",
+        "publisher": "Cambridge University Press & Assessment",
+        "accessedAt": "2026-11-03",
+        "section": "verb / Business English MEETINGS",
+        "retrievalStatus": "index_excerpt",
+        "supportedClaims": [
+          "definition:当前义与词性",
+          "g1:现代义联系与搭配",
+          "g2:词典可见搭配；整句分析为Writer整理",
+          "g3:当前义范围；与其他已核词义对照"
+        ],
+        "summaryZh": "简短回顾已经讨论或发生的内容",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      },
+      {
+        "id": "method-summary",
+        "url": "https://downloads.bbc.co.uk/skillswise/english/en07unde/factsheet/en07unde-l1-f-what-is-summarising.pdf",
+        "title": "What is summarising?",
+        "publisher": "BBC Skillswise",
+        "accessedAt": "2026-11-03",
+        "section": "page 1, lines 3–13",
+        "retrievalStatus": "full_page",
+        "supportedClaims": [
+          "g1:保留重点，删除不必要细节",
+          "g4:概括帮助听者作后续判断"
+        ],
+        "summaryZh": "概括提取重点，不加入不必要细节。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      },
+      {
+        "id": "lex-summarize",
+        "url": "https://dictionary.cambridge.org/us/dictionary/english/summarize",
+        "title": "SUMMARIZE — Cambridge Dictionary",
+        "publisher": "Cambridge University Press & Assessment",
+        "accessedAt": "2026-11-03",
+        "section": "verb: important facts in a short clear form",
+        "retrievalStatus": "index_excerpt",
+        "supportedClaims": [
+          "definition:当前义与词性",
+          "g1:现代义联系与搭配",
+          "g2:词典可见搭配；整句分析为Writer整理",
+          "g3:当前义范围；与其他已核词义对照"
+        ],
+        "summaryZh": "概括重点而不是重复全部细节",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      }
+    ],
+    "sourceLimitations": [
+      "词义据实际可见原站索引内容整理；原页直连失败，不宣称全文阅读。",
+      "词典支持词义与可见搭配；原句句法拆解、记忆类比及语用分析为Writer整理，补充对话与工作句均为自编。",
+      "教学来源仅支持沟通或概括方法，不冒充各词释义来源。"
+    ],
+    "writer": "trial_writer_2"
+  },
+  {
+    "cardId": "V20261012-049",
+    "term": "align",
+    "context": "We need to align on priorities before assigning the work.",
+    "contextZh": "分配工作前，我们需要就优先级达成一致。",
+    "gloss": "使一致；协调",
+    "glossKind": "source_summary",
+    "pos": "v.",
+    "definitionEn": "to bring plans or views into agreement",
+    "definitionZh": "使目标、理解或安排彼此一致",
+    "contextTakeaway": "先统一优先级，再分配工作。",
+    "bridgeText": "先统一优先级，再分配工作。",
+    "groups": [
+      {
+        "id": "g1",
+        "title": "先记住，再联系",
+        "text": "可把对齐表格列的画面借来记 align，这是现代用法间的记忆联系，不是词源解释。实物可排成一线，工作目标也可彼此相符。本句对齐的是大家对优先级的理解，避免各自按不同顺序安排任务。",
+        "sourceIds": [
+          "lex-align"
+        ]
+      },
+      {
+        "id": "g2",
+        "title": "句法与概念",
+        "text": "need to align 表示有必要协调；on priorities 给出要达成一致的议题。before assigning the work 表示在分工之前，assigning 跟在介词 before 后。句子规定讨论先后，尚未说明团队已经达成一致。",
+        "sourceIds": [
+          "lex-align"
+        ]
+      },
+      {
+        "id": "g3",
+        "title": "辨析与英文邻居",
+        "text": "agree 可表达同意某件事；align 在此突出让大家的方向相符。还可用 align A with B 表示使一项安排与另一项相配。原句的 align on 是结合上下文理解的工作表达，不把它冒充词典独立收录的固定短语。",
+        "sourceIds": [
+          "lex-align"
+        ]
+      },
+      {
+        "id": "g4",
+        "title": "这句话在做什么",
+        "text": "本句暂缓分派任务，先处理大家可能采用不同优先顺序的问题。自编回应：“Let’s decide which task must come first.”（先决定哪项任务必须优先吧。）下一步明确排序再分工；说 need to align 并不保证分歧自然消失。",
+        "sourceIds": [
+          "lex-align",
+          "method-agree"
+        ]
+      },
+      {
+        "id": "g5",
+        "title": "工作中可以这样说",
+        "text": "自编：“We need to align the plan with the available resources.”（我们需要让计划与可用资源相匹配。）当目标与人力或设备条件不相符时用。with 后给出参照对象，比只说“我们需要对齐”更明确。",
+        "sourceIds": [
+          "lex-align",
+          "method-agree"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "lex-align",
+        "url": "https://dictionary.cambridge.org/us/dictionary/english/align",
+        "title": "ALIGN — Cambridge Dictionary",
+        "publisher": "Cambridge University Press & Assessment",
+        "accessedAt": "2026-11-03",
+        "section": "verb: STRAIGHT LINE / Business English",
+        "retrievalStatus": "index_excerpt",
+        "supportedClaims": [
+          "definition:当前义与词性",
+          "g1:现代义联系与搭配",
+          "g2:词典可见搭配；整句分析为Writer整理",
+          "g3:当前义范围；与其他已核词义对照"
+        ],
+        "summaryZh": "使目标、理解或安排彼此一致",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      },
+      {
+        "id": "method-agree",
+        "url": "https://learnenglish.britishcouncil.org/free-resources/speaking/b1/agreeing-disagreeing",
+        "title": "Agreeing and disagreeing",
+        "publisher": "British Council",
+        "accessedAt": "2026-11-03",
+        "section": "Transcript lines 21–77",
+        "retrievalStatus": "full_page",
+        "supportedClaims": [
+          "g4:表达不同意后给理由，再讨论调整；不保证意见必然一致",
+          "g5:用自编场景练习回应立场"
+        ],
+        "summaryZh": "通过给理由和调整方案展示同意、不同意的互动。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      }
+    ],
+    "sourceLimitations": [
+      "词义据实际可见原站索引内容整理；原页直连失败，不宣称全文阅读。",
+      "词典支持词义与可见搭配；原句句法拆解、记忆类比及语用分析为Writer整理，补充对话与工作句均为自编。",
+      "教学来源仅支持沟通或概括方法，不冒充各词释义来源。"
+    ],
+    "writer": "trial_writer_2"
+  },
+  {
+    "cardId": "V20261012-050",
+    "term": "consensus",
+    "context": "We reached a consensus on the main objective.",
+    "contextZh": "我们就主要目标达成了共识。",
+    "gloss": "共识",
+    "glossKind": "source_summary",
+    "pos": "n.",
+    "definitionEn": "broad agreement within a group",
+    "definitionZh": "团队对某个方向形成的普遍共识",
+    "contextTakeaway": "团队对主要目标已有普遍共识。",
+    "bridgeText": "团队对主要目标已有普遍共识。",
+    "groups": [
+      {
+        "id": "g1",
+        "title": "先记住，再联系",
+        "text": "可以记 reach a consensus 为“讨论后走到共同接受的位置”，这是教学类比。重点是群体广泛接受某个看法，不必把它想成每个人的每个细节都完全相同。本句只谈主要目标，不能扩展成全部事项一致。",
+        "sourceIds": [
+          "lex-consensus"
+        ]
+      },
+      {
+        "id": "g2",
+        "title": "句法与概念",
+        "text": "reached 是过去式，报告形成了共识；on the main objective 限定共识涉及什么。a consensus 在此指一次共同意见的形成。句子没有交代采用了投票、逐人确认还是其他程序，也不能据此认定所有方案已批准。",
+        "sourceIds": [
+          "lex-consensus"
+        ]
+      },
+      {
+        "id": "g3",
+        "title": "辨析与英文邻居",
+        "text": "agreement 可泛指同意，也可指具体协议；consensus 强调群体普遍接受的意见。unanimity 表示一致无异议，要求更强。看到 consensus 时先问“在哪个议题上”，避免把局部共识误读成所有人全面支持。",
+        "sourceIds": [
+          "lex-consensus",
+          "lex-unanimity"
+        ]
+      },
+      {
+        "id": "g4",
+        "title": "这句话在做什么",
+        "text": "本句向听者报告讨论已有一个共同落点，好让后续工作围绕目标继续。自编回应：“Can we write down the agreed objective?”（我们能把共同确认的目标写下来吗？）下一步把目标表述固定下来，仍可另外讨论方法和资源。",
+        "sourceIds": [
+          "lex-consensus",
+          "method-agree"
+        ]
+      },
+      {
+        "id": "g5",
+        "title": "工作中可以这样说",
+        "text": "自编：“We have a consensus on the goal, but not on the timeline.”（我们对目标有共识，但对时间表还没有。）当需要准确报告进度时用；把已一致和未一致的部分并列，便于团队知道下一轮要继续谈什么。",
+        "sourceIds": [
+          "lex-consensus",
+          "method-agree"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "lex-consensus",
+        "url": "https://dictionary.cambridge.org/dictionary/english/consensus?topic=accepting-and-agreeing",
+        "title": "CONSENSUS — Cambridge Dictionary",
+        "publisher": "Cambridge University Press & Assessment",
+        "accessedAt": "2026-11-03",
+        "section": "noun: generally accepted opinion / Business English",
+        "retrievalStatus": "index_excerpt",
+        "supportedClaims": [
+          "definition:当前义与词性",
+          "g1:现代义联系与搭配",
+          "g2:词典可见搭配；整句分析为Writer整理",
+          "g3:当前义范围；与其他已核词义对照"
+        ],
+        "summaryZh": "团队对某个方向形成的普遍共识",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      },
+      {
+        "id": "method-agree",
+        "url": "https://learnenglish.britishcouncil.org/free-resources/speaking/b1/agreeing-disagreeing",
+        "title": "Agreeing and disagreeing",
+        "publisher": "British Council",
+        "accessedAt": "2026-11-03",
+        "section": "Transcript lines 21–77",
+        "retrievalStatus": "full_page",
+        "supportedClaims": [
+          "g4:表达不同意后给理由，再讨论调整；不保证意见必然一致",
+          "g5:用自编场景练习回应立场"
+        ],
+        "summaryZh": "通过给理由和调整方案展示同意、不同意的互动。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      },
+      {
+        "id": "lex-unanimity",
+        "url": "https://dictionary.cambridge.org/dictionary/english/unanimity",
+        "title": "UNANIMITY — Cambridge Dictionary",
+        "publisher": "Cambridge University Press & Assessment",
+        "accessedAt": "2026-11-03",
+        "section": "American Dictionary: complete agreement",
+        "retrievalStatus": "index_excerpt",
+        "supportedClaims": [
+          "g3:unanimity 强调每个成员完全同意"
+        ],
+        "summaryZh": "所有成员完全同意。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      }
+    ],
+    "sourceLimitations": [
+      "词义据实际可见原站索引内容整理；原页直连失败，不宣称全文阅读。",
+      "词典支持词义与可见搭配；原句句法拆解、记忆类比及语用分析为Writer整理，补充对话与工作句均为自编。",
+      "教学来源仅支持沟通或概括方法，不冒充各词释义来源。"
+    ],
+    "writer": "trial_writer_2"
+  },
+  {
+    "cardId": "V20261012-051",
+    "term": "concern",
+    "context": "My main concern is the time available for review.",
+    "contextZh": "我主要担心可供评审的时间。",
+    "gloss": "担忧；关注事项",
+    "glossKind": "source_summary",
+    "pos": "n.",
+    "definitionEn": "a worry or an issue that causes worry",
+    "definitionZh": "值得注意或让人担心的事项",
+    "contextTakeaway": "主要担心评审可用时间不足。",
+    "bridgeText": "主要担心评审可用时间不足。",
+    "groups": [
+      {
+        "id": "g1",
+        "title": "先记住，再联系",
+        "text": "把 concern 放在“什么让我放心不下”这个问题后面记。本句不是公司这一词义，而是说话者的担忧。main 把最重要的一项挑出来；记 concern about timing，可帮助你把担忧对象说得具体。",
+        "sourceIds": [
+          "lex-concern"
+        ]
+      },
+      {
+        "id": "g2",
+        "title": "句法与概念",
+        "text": "My main concern 作主语，is 后说明担忧对象；available for review 修饰 time，表示可供评审使用的时间。原句没有直接写 insufficient，但语境中是在提出时间方面的担心；不能据此断言时间已经证实不够。",
+        "sourceIds": [
+          "lex-concern"
+        ]
+      },
+      {
+        "id": "g3",
+        "title": "辨析与英文邻居",
+        "text": "concern 可以先把担忧摆出来，并不必然反对整个方案；objection 更明确地表达反对。worry 是熟悉的英文邻居。把这一区别用于回应：先问担忧来自哪里，比立刻把对方当成否决者更贴合句意。",
+        "sourceIds": [
+          "lex-concern",
+          "lex-objection"
+        ]
+      },
+      {
+        "id": "g4",
+        "title": "这句话在做什么",
+        "text": "本句把讨论焦点引向评审时间，希望大家正视这一问题。自编回应：“How much review time would you need?”（你需要多少评审时间？）接下来比较需求和安排，而不是只回应“别担心”；是否确有不足仍需信息。",
+        "sourceIds": [
+          "lex-concern",
+          "method-agree"
+        ]
+      },
+      {
+        "id": "g5",
+        "title": "工作中可以这样说",
+        "text": "自编：“I have a concern about the testing window.”（我对测试时间窗口有些担忧。）适合在尚未决定反对方案时先提出问题。随后说明具体原因或询问可用时间，让听者知道需要检查什么；不要把担忧当作证实的故障。",
+        "sourceIds": [
+          "lex-concern",
+          "method-agree"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "lex-concern",
+        "url": "https://dictionary.cambridge.org/us/dictionary/english/concern",
+        "title": "CONCERN — Cambridge Dictionary",
+        "publisher": "Cambridge University Press & Assessment",
+        "accessedAt": "2026-11-03",
+        "section": "noun: WORRY",
+        "retrievalStatus": "index_excerpt",
+        "supportedClaims": [
+          "definition:当前义与词性",
+          "g1:现代义联系与搭配",
+          "g2:词典可见搭配；整句分析为Writer整理",
+          "g3:当前义范围；与其他已核词义对照"
+        ],
+        "summaryZh": "值得注意或让人担心的事项",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      },
+      {
+        "id": "method-agree",
+        "url": "https://learnenglish.britishcouncil.org/free-resources/speaking/b1/agreeing-disagreeing",
+        "title": "Agreeing and disagreeing",
+        "publisher": "British Council",
+        "accessedAt": "2026-11-03",
+        "section": "Transcript lines 21–77",
+        "retrievalStatus": "full_page",
+        "supportedClaims": [
+          "g4:表达不同意后给理由，再讨论调整；不保证意见必然一致",
+          "g5:用自编场景练习回应立场"
+        ],
+        "summaryZh": "通过给理由和调整方案展示同意、不同意的互动。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      },
+      {
+        "id": "lex-objection",
+        "url": "https://dictionary.cambridge.org/us/dictionary/english/objection",
+        "title": "OBJECTION — Cambridge Dictionary",
+        "publisher": "Cambridge University Press & Assessment",
+        "accessedAt": "2026-11-03",
+        "section": "noun / Business English",
+        "retrievalStatus": "index_excerpt",
+        "supportedClaims": [
+          "definition:当前义与词性",
+          "g1:现代义联系与搭配",
+          "g2:词典可见搭配；整句分析为Writer整理",
+          "g3:当前义范围；与其他已核词义对照"
+        ],
+        "summaryZh": "对提议明确表示反对的理由或意见",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      }
+    ],
+    "sourceLimitations": [
+      "词义据实际可见原站索引内容整理；原页直连失败，不宣称全文阅读。",
+      "词典支持词义与可见搭配；原句句法拆解、记忆类比及语用分析为Writer整理，补充对话与工作句均为自编。",
+      "教学来源仅支持沟通或概括方法，不冒充各词释义来源。"
+    ],
+    "writer": "trial_writer_2"
+  },
+  {
+    "cardId": "V20261012-052",
+    "term": "objection",
+    "context": "Does anyone have an objection to the revised sequence?",
+    "contextZh": "有人反对调整后的顺序吗？",
+    "gloss": "反对意见",
+    "glossKind": "source_summary",
+    "pos": "n.",
+    "definitionEn": "an expression or reason for opposing something",
+    "definitionZh": "对提议明确表示反对的理由或意见",
+    "contextTakeaway": "在采用调整后的顺序前征询反对意见。",
+    "bridgeText": "在采用调整后的顺序前征询反对意见。",
+    "groups": [
+      {
+        "id": "g1",
+        "title": "先记住，再联系",
+        "text": "把 objection 和“我不赞成这一点”联系起来。它可以是反对的表达，也可以是反对理由，不只是心里不放心。记 have an objection 与 raise an objection，分别帮助你表达持有和提出异议的动作。",
+        "sourceIds": [
+          "lex-objection"
+        ]
+      },
+      {
+        "id": "g2",
+        "title": "句法与概念",
+        "text": "Does anyone have 构成询问；an objection 是宾语，to the revised sequence 说明反对对象。这里 to 是介词；若后面换成动作，要用动名词。revised 说明顺序经过调整，但没有说明是谁调整或已经获批。",
+        "sourceIds": [
+          "lex-objection"
+        ]
+      },
+      {
+        "id": "g3",
+        "title": "辨析与英文邻居",
+        "text": "concern 提出担忧，reservation 表示尚不能完全接受，objection 则更明确地反对。它们可能围绕同一方案出现，但不要机械地排成固定情绪等级。raise an objection 是提出异议，仍应说明具体理由。",
+        "sourceIds": [
+          "lex-objection",
+          "lex-concern",
+          "lex-reservation"
+        ]
+      },
+      {
+        "id": "g4",
+        "title": "这句话在做什么",
+        "text": "本句在继续推进前给大家提出异议的机会。自编回应：“Yes, the new order leaves too little time for testing.”（有，新顺序给测试的时间太少。）接下来检查或调整顺序；没人当场说话也不应自动写成正式批准。",
+        "sourceIds": [
+          "lex-objection",
+          "method-agree"
+        ]
+      },
+      {
+        "id": "g5",
+        "title": "工作中可以这样说",
+        "text": "自编：“My objection is to the timing, not the proposal itself.”（我反对的是时机，而不是提案本身。）当你需要限定反对范围时用。它把可讨论的争点单独指出，避免听者误以为你否定了整个方向。",
+        "sourceIds": [
+          "lex-objection",
+          "method-agree"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "lex-objection",
+        "url": "https://dictionary.cambridge.org/us/dictionary/english/objection",
+        "title": "OBJECTION — Cambridge Dictionary",
+        "publisher": "Cambridge University Press & Assessment",
+        "accessedAt": "2026-11-03",
+        "section": "noun / Business English",
+        "retrievalStatus": "index_excerpt",
+        "supportedClaims": [
+          "definition:当前义与词性",
+          "g1:现代义联系与搭配",
+          "g2:词典可见搭配；整句分析为Writer整理",
+          "g3:当前义范围；与其他已核词义对照"
+        ],
+        "summaryZh": "对提议明确表示反对的理由或意见",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      },
+      {
+        "id": "method-agree",
+        "url": "https://learnenglish.britishcouncil.org/free-resources/speaking/b1/agreeing-disagreeing",
+        "title": "Agreeing and disagreeing",
+        "publisher": "British Council",
+        "accessedAt": "2026-11-03",
+        "section": "Transcript lines 21–77",
+        "retrievalStatus": "full_page",
+        "supportedClaims": [
+          "g4:表达不同意后给理由，再讨论调整；不保证意见必然一致",
+          "g5:用自编场景练习回应立场"
+        ],
+        "summaryZh": "通过给理由和调整方案展示同意、不同意的互动。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      },
+      {
+        "id": "lex-concern",
+        "url": "https://dictionary.cambridge.org/us/dictionary/english/concern",
+        "title": "CONCERN — Cambridge Dictionary",
+        "publisher": "Cambridge University Press & Assessment",
+        "accessedAt": "2026-11-03",
+        "section": "noun: WORRY",
+        "retrievalStatus": "index_excerpt",
+        "supportedClaims": [
+          "definition:当前义与词性",
+          "g1:现代义联系与搭配",
+          "g2:词典可见搭配；整句分析为Writer整理",
+          "g3:当前义范围；与其他已核词义对照"
+        ],
+        "summaryZh": "值得注意或让人担心的事项",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      },
+      {
+        "id": "lex-reservation",
+        "url": "https://dictionary.cambridge.org/dictionary/english/reservation?q=reservations",
+        "title": "RESERVATION — Cambridge Dictionary",
+        "publisher": "Cambridge University Press & Assessment",
+        "accessedAt": "2026-11-03",
+        "section": "noun: DOUBT",
+        "retrievalStatus": "index_excerpt",
+        "supportedClaims": [
+          "definition:当前义与词性",
+          "g1:现代义联系与搭配",
+          "g2:词典可见搭配；整句分析为Writer整理",
+          "g3:当前义范围；与其他已核词义对照"
+        ],
+        "summaryZh": "尚未消除的保留意见或疑虑",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      }
+    ],
+    "sourceLimitations": [
+      "词义据实际可见原站索引内容整理；原页直连失败，不宣称全文阅读。",
+      "词典支持词义与可见搭配；原句句法拆解、记忆类比及语用分析为Writer整理，补充对话与工作句均为自编。",
+      "教学来源仅支持沟通或概括方法，不冒充各词释义来源。"
+    ],
+    "writer": "trial_writer_2"
+  },
+  {
+    "cardId": "V20261012-053",
+    "term": "reservation",
+    "context": "I have reservations about committing before the review.",
+    "contextZh": "在评审前作出承诺，我有保留意见。",
+    "gloss": "保留意见；疑虑",
+    "glossKind": "source_summary",
+    "pos": "n.",
+    "definitionEn": "a doubt that prevents complete acceptance",
+    "definitionZh": "尚未消除的保留意见或疑虑",
+    "contextTakeaway": "对评审前承诺仍有疑虑。",
+    "bridgeText": "对评审前承诺仍有疑虑。",
+    "groups": [
+      {
+        "id": "g1",
+        "title": "先记住，再联系",
+        "text": "先辨认搭配：酒店里 make a reservation 是预订，讨论方案时 have reservations about 是有保留意见。这里后面谈提前承诺，所以应选疑虑义。把“还没能完全点头”作为记忆画面，比只背“保留”更直接。",
+        "sourceIds": [
+          "lex-reservation"
+        ]
+      },
+      {
+        "id": "g2",
+        "title": "句法与概念",
+        "text": "have reservations about 后接 committing，about 是介词，所以用动名词；before the review 说明承诺的时间。句子指出保留意见针对评审前承诺，并没有直接说评审后一定同意，更不是报告已经作出承诺。",
+        "sourceIds": [
+          "lex-reservation"
+        ]
+      },
+      {
+        "id": "g3",
+        "title": "辨析与英文邻居",
+        "text": "reservation 在此说明尚不能完全接受；objection 更直接表达反对。doubt 是接近的英文邻居。复数 reservations 在疑虑义中常见，不能看到复数就误判成多次酒店预订，仍要看 about 后面的内容。",
+        "sourceIds": [
+          "lex-reservation",
+          "lex-objection"
+        ]
+      },
+      {
+        "id": "g4",
+        "title": "这句话在做什么",
+        "text": "本句让对方知道目前还不能把说话者算作完全支持者。自编回应：“What would you need to know before committing?”（承诺前你还需要了解什么？）下一步明确缺少的信息或条件；疑虑不是自动否决，也不是同意。",
+        "sourceIds": [
+          "lex-reservation",
+          "method-agree"
+        ]
+      },
+      {
+        "id": "g5",
+        "title": "工作中可以这样说",
+        "text": "自编：“I still have reservations about the cost estimate.”（我对这份成本估算仍有疑虑。）当你愿意继续讨论但尚不能完全接受时用；接着指出不确定的假设或数据，帮助对方回应具体问题，而非猜测你的立场。",
+        "sourceIds": [
+          "lex-reservation",
+          "method-agree"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "lex-reservation",
+        "url": "https://dictionary.cambridge.org/dictionary/english/reservation?q=reservations",
+        "title": "RESERVATION — Cambridge Dictionary",
+        "publisher": "Cambridge University Press & Assessment",
+        "accessedAt": "2026-11-03",
+        "section": "noun: DOUBT",
+        "retrievalStatus": "index_excerpt",
+        "supportedClaims": [
+          "definition:当前义与词性",
+          "g1:现代义联系与搭配",
+          "g2:词典可见搭配；整句分析为Writer整理",
+          "g3:当前义范围；与其他已核词义对照"
+        ],
+        "summaryZh": "尚未消除的保留意见或疑虑",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      },
+      {
+        "id": "method-agree",
+        "url": "https://learnenglish.britishcouncil.org/free-resources/speaking/b1/agreeing-disagreeing",
+        "title": "Agreeing and disagreeing",
+        "publisher": "British Council",
+        "accessedAt": "2026-11-03",
+        "section": "Transcript lines 21–77",
+        "retrievalStatus": "full_page",
+        "supportedClaims": [
+          "g4:表达不同意后给理由，再讨论调整；不保证意见必然一致",
+          "g5:用自编场景练习回应立场"
+        ],
+        "summaryZh": "通过给理由和调整方案展示同意、不同意的互动。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      },
+      {
+        "id": "lex-objection",
+        "url": "https://dictionary.cambridge.org/us/dictionary/english/objection",
+        "title": "OBJECTION — Cambridge Dictionary",
+        "publisher": "Cambridge University Press & Assessment",
+        "accessedAt": "2026-11-03",
+        "section": "noun / Business English",
+        "retrievalStatus": "index_excerpt",
+        "supportedClaims": [
+          "definition:当前义与词性",
+          "g1:现代义联系与搭配",
+          "g2:词典可见搭配；整句分析为Writer整理",
+          "g3:当前义范围；与其他已核词义对照"
+        ],
+        "summaryZh": "对提议明确表示反对的理由或意见",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      }
+    ],
+    "sourceLimitations": [
+      "词义据实际可见原站索引内容整理；原页直连失败，不宣称全文阅读。",
+      "词典支持词义与可见搭配；原句句法拆解、记忆类比及语用分析为Writer整理，补充对话与工作句均为自编。",
+      "教学来源仅支持沟通或概括方法，不冒充各词释义来源。"
+    ],
+    "writer": "trial_writer_2"
+  },
+  {
+    "cardId": "V20261012-054",
+    "term": "rationale",
+    "context": "Could you explain the rationale for changing the priority?",
+    "contextZh": "你能解释改变优先级的理由吗？",
+    "gloss": "理由；依据",
+    "glossKind": "source_summary",
+    "pos": "n.",
+    "definitionEn": "the reasons used to explain a decision or action",
+    "definitionZh": "某项决定或方案背后的理由",
+    "contextTakeaway": "追问更改优先级背后的理由。",
+    "bridgeText": "追问更改优先级背后的理由。",
+    "groups": [
+      {
+        "id": "g1",
+        "title": "先记住，再联系",
+        "text": "把 rationale 连到“为什么这样决定”来记，不必硬拆拼写。它常指支撑行动或决定的一组理由，而不只是一句随口解释。本句问改变优先级的依据；知道谁作决定还不等于知道为什么作这个决定。",
+        "sourceIds": [
+          "lex-rationale"
+        ]
+      },
+      {
+        "id": "g2",
+        "title": "句法与概念",
+        "text": "explain 后接 the rationale，for changing the priority 说明这组理由对应什么行动。for 是介词，后接 changing。句子请求解释改变的依据，并未断言改变不合理，也未表示说话者已经接受新的优先顺序。",
+        "sourceIds": [
+          "lex-rationale"
+        ]
+      },
+      {
+        "id": "g3",
+        "title": "辨析与英文邻居",
+        "text": "reason 是更常见、更宽泛的英文邻居；rationale 突出用于解释某项决定的依据。evidence 是支持判断的证据，不能直接等同理由：证据可以构成理由的一部分，仍需说明它怎样支持这项选择。",
+        "sourceIds": [
+          "lex-rationale"
+        ]
+      },
+      {
+        "id": "g4",
+        "title": "这句话在做什么",
+        "text": "本句把注意力从“顺序改了”转向“为什么改”，为理解或评估决定补充信息。自编回应：“The new deadline makes this task more urgent.”（新期限让这项任务更紧急。）下一步核对期限与优先级的关系；这里的期限为自编。",
+        "sourceIds": [
+          "lex-rationale",
+          "method-meeting"
+        ]
+      },
+      {
+        "id": "g5",
+        "title": "工作中可以这样说",
+        "text": "自编：“Please include the rationale for each proposed change.”（请附上每项拟议变更的理由。）在收集评审材料时用，让评审者能把改什么与为什么改联系起来。提供理由不等于理由已经充分，还需结合相关证据判断。",
+        "sourceIds": [
+          "lex-rationale",
+          "method-meeting"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "lex-rationale",
+        "url": "https://dictionary.cambridge.org/dictionary/english/rationale?topic=motives-and-reasons",
+        "title": "RATIONALE — Cambridge Dictionary",
+        "publisher": "Cambridge University Press & Assessment",
+        "accessedAt": "2026-11-03",
+        "section": "noun: reasons explaining a decision",
+        "retrievalStatus": "index_excerpt",
+        "supportedClaims": [
+          "definition:当前义与词性",
+          "g1:现代义联系与搭配",
+          "g2:词典可见搭配；整句分析为Writer整理",
+          "g3:当前义范围；与其他已核词义对照"
+        ],
+        "summaryZh": "某项决定或方案背后的理由",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      },
+      {
+        "id": "method-meeting",
+        "url": "https://www.oxfordonlineenglish.com/attending-business-meeting",
+        "title": "Attending a Business Meeting – Video",
+        "publisher": "Oxford Online English",
+        "accessedAt": "2026-11-03",
+        "section": "Full Script §§2–4; lines 455–559",
+        "retrievalStatus": "full_page",
+        "supportedClaims": [
+          "g4:按沟通功能组织互动，提问需指出具体不明之处",
+          "g5:练习提问、回应与承诺；自编句非来源原文",
+          "g2:elaborate on 与 clarify 的教学搭配"
+        ],
+        "summaryZh": "按建议、提问、承诺等功能练习；讲明具体问题，再给出回应。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创转述与链接；未复制原文全文"
+      }
+    ],
+    "sourceLimitations": [
+      "词义据实际可见原站索引内容整理；原页直连失败，不宣称全文阅读。",
+      "词典支持词义与可见搭配；原句句法拆解、记忆类比及语用分析为Writer整理，补充对话与工作句均为自编。",
+      "教学来源仅支持沟通或概括方法，不冒充各词释义来源。"
+    ],
+    "writer": "trial_writer_2"
+  }
+]

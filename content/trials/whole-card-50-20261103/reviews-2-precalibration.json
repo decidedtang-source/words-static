@@ -1,0 +1,2246 @@
+[
+  {
+    "cardId": "V20261012-018",
+    "ruleVersion": "five-zone/2",
+    "reviewer": "whole50_reviewer_group2",
+    "reviewedAt": "2026-11-04",
+    "fingerprint": "95f4740d420fc57d264819fcc86eab40e0f534a549edbf64a434fe70f0cc3655",
+    "hardGates": "PASS",
+    "front": {
+      "decision": "PASS",
+      "reason": "commitment当前义、桥接与原句逐项核对；词典为转述，未把自编例句当原站引文。"
+    },
+    "sourceChecks": [
+      {
+        "claimId": "lexical",
+        "verdict": "SUPPORTED",
+        "note": "已独立读Oxford commitment和所列词族页；核对对具体行动或交付作出的明确承诺及扩展项。"
+      },
+      {
+        "claimId": "g1",
+        "verdict": "SUPPORTED",
+        "note": "逐句核对commitment/g1与原句结构及Oxford意义；是教学推断非历史事实。"
+      },
+      {
+        "claimId": "g2",
+        "verdict": "SUPPORTED",
+        "note": "逐句核对commitment/g2与原句结构及Oxford意义；是教学推断非历史事实。"
+      },
+      {
+        "claimId": "g3",
+        "verdict": "SUPPORTED",
+        "note": "逐句核对commitment/g3与原句结构及Oxford意义；是教学推断非历史事实。"
+      },
+      {
+        "claimId": "g4",
+        "verdict": "SUPPORTED",
+        "note": "逐句核对commitment/g4与原句结构及Oxford意义；是教学推断非历史事实。"
+      },
+      {
+        "claimId": "g5",
+        "verdict": "SUPPORTED",
+        "note": "核读commitment迁移句、中文和替换槽；作为自编表达成立，不声称资料收录原句。"
+      }
+    ],
+    "zones": [
+      {
+        "id": "g1",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "承诺义与投入义区分正确",
+          "completion": "make a commitment提供抓手，缺少单独的微场景演示",
+          "readability": "答应后要兑现容易理解",
+          "increment": "增量是承诺对象，投入义已在前区出现"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g2",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 3,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "conditions是宾语、behind作后置修饰准确",
+          "completion": "解释结构并保留承诺未必无条件的边界",
+          "readability": "后半句无条件执行略抽象",
+          "increment": "揭示问条件而非重复承诺"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g3",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 3,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "promise邻近、intention未达承诺成立",
+          "completion": "有make/honour配对，尚缺同一场景两句对照",
+          "readability": "明确答应承担事情略书面",
+          "increment": "补充履行与作出两个实用动词"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g4",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "confirm和conditions对应核实前提",
+          "completion": "条件、回应、核对日期构成完整互动",
+          "readability": "零件周五到货便于理解",
+          "increment": "给出原句没有的可行动回应"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g5",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "until前提句与承诺义匹配",
+          "completion": "时机、替换槽及后续补信息齐备",
+          "readability": "范围未清的情景直接",
+          "increment": "转为自己暂不能承诺的表达"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      }
+    ]
+  },
+  {
+    "cardId": "V20261012-019",
+    "ruleVersion": "five-zone/2",
+    "reviewer": "whole50_reviewer_group2",
+    "reviewedAt": "2026-11-04",
+    "fingerprint": "bacf1257cf56bce61e45f1e41f915439ecf3824f3e5cf9dc7b58a4b1520d851e",
+    "hardGates": "PASS",
+    "front": {
+      "decision": "PASS",
+      "reason": "contingency当前义、桥接与原句逐项核对；词典为转述，未把自编例句当原站引文。"
+    },
+    "sourceChecks": [
+      {
+        "claimId": "lexical",
+        "verdict": "SUPPORTED",
+        "note": "已独立读Oxford contingency和所列词族页；核对可能发生且需要预先准备的意外情况及扩展项。"
+      },
+      {
+        "claimId": "g1",
+        "verdict": "SUPPORTED",
+        "note": "逐句核对contingency/g1与原句结构及Oxford意义；是教学推断非历史事实。"
+      },
+      {
+        "claimId": "g2",
+        "verdict": "SUPPORTED",
+        "note": "逐句核对contingency/g2与原句结构及Oxford意义；是教学推断非历史事实。"
+      },
+      {
+        "claimId": "g3",
+        "verdict": "SUPPORTED",
+        "note": "逐句核对contingency/g3与原句结构及Oxford意义；是教学推断非历史事实。"
+      },
+      {
+        "claimId": "g4",
+        "verdict": "SUPPORTED",
+        "note": "逐句核对contingency/g4与原句结构及Oxford意义；是教学推断非历史事实。"
+      },
+      {
+        "claimId": "g5",
+        "verdict": "SUPPORTED",
+        "note": "核读contingency迁移句、中文和替换槽；作为自编表达成立，不声称资料收录原句。"
+      }
+    ],
+    "zones": [
+      {
+        "id": "g1",
+        "scores": {
+          "accuracy": 3,
+          "completion": 3,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "当前预防义适合；不是所有contingency都负面",
+          "completion": "有预案搭配和未发生边界，独立实例较少",
+          "readability": "备用安排易记",
+          "increment": "仍较接近桥接的情况/计划区分"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g2",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 3,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "名词前置修饰plan、if条件均准确",
+          "completion": "解释need不等于必然发生",
+          "readability": "限定计划用途略语法化",
+          "increment": "区分状况和整组应急计划"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g3",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "事件与应对办法未混淆",
+          "completion": "backup plan邻近但risk对照较宽泛",
+          "readability": "前者后者指代可追溯",
+          "increment": "重复g1的情况/计划区分较多"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g4",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "假设转准备任务有句面依据",
+          "completion": "替补回应与时间权限核对完整",
+          "readability": "待命回应短而具体",
+          "increment": "将可能问题转成下一步"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g5",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "if系统故障条件自然",
+          "completion": "问题、替换延误、答案要求齐全",
+          "readability": "宕机例子直接",
+          "increment": "从陈述需预案转到主动问预案"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      }
+    ]
+  },
+  {
+    "cardId": "V20261012-020",
+    "ruleVersion": "five-zone/2",
+    "reviewer": "whole50_reviewer_group2",
+    "reviewedAt": "2026-11-04",
+    "fingerprint": "207e01b502815b85ca8cd9dda7949b2dd8ab682eb1ba7a564a8f23455a50005e",
+    "hardGates": "PASS",
+    "front": {
+      "decision": "PASS",
+      "reason": "trade-off当前义、桥接与原句逐项核对；词典为转述，未把自编例句当原站引文。"
+    },
+    "sourceChecks": [
+      {
+        "claimId": "lexical",
+        "verdict": "SUPPORTED",
+        "note": "已独立读Oxford trade-off和所列词族页；核对获得一项优势时需要付出的另一项代价及扩展项。"
+      },
+      {
+        "claimId": "g1",
+        "verdict": "SUPPORTED",
+        "note": "逐句核对trade-off/g1与原句结构及Oxford意义；是教学推断非历史事实。"
+      },
+      {
+        "claimId": "g2",
+        "verdict": "SUPPORTED",
+        "note": "逐句核对trade-off/g2与原句结构及Oxford意义；是教学推断非历史事实。"
+      },
+      {
+        "claimId": "g3",
+        "verdict": "SUPPORTED",
+        "note": "逐句核对trade-off/g3与原句结构及Oxford意义；是教学推断非历史事实。"
+      },
+      {
+        "claimId": "g4",
+        "verdict": "SUPPORTED",
+        "note": "逐句核对trade-off/g4与原句结构及Oxford意义；是教学推断非历史事实。"
+      },
+      {
+        "claimId": "g5",
+        "verdict": "SUPPORTED",
+        "note": "核读trade-off迁移句、中文和替换槽；作为自编表达成立，不声称资料收录原句。"
+      }
+    ],
+    "zones": [
+      {
+        "id": "g1",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "取舍伴随放弃另一好处准确",
+          "completion": "类比、快/便宜两端、非所有选择边界齐",
+          "readability": "不能都拿满形象",
+          "increment": "与桥接的快/便宜仍有复述"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g2",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 3,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "存在句与between并列两端分析成立",
+          "completion": "指出比较级及未决定代价",
+          "readability": "名词核心术语略多",
+          "increment": "补明比较结构和信息缺口"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g3",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "choice不必有损失；compromise不只此义",
+          "completion": "区分重点明确，少一个直接英文对照句",
+          "readability": "各让一步便于理解",
+          "increment": "新增普通选择与成本取舍差别"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g4",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "原句提示冲突而非作决定",
+          "completion": "询价回应与再选优先项齐全",
+          "readability": "询问多花多少具体",
+          "increment": "末句未替选重复g2，但互动有增量"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g5",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "trade-offs复数用于多种权衡自然",
+          "completion": "评审时机、替换、收益损失两端完整",
+          "readability": "设计问题可以直接照用",
+          "increment": "从一项取舍迁移到多项设计评估"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      }
+    ]
+  },
+  {
+    "cardId": "V20261012-041",
+    "ruleVersion": "five-zone/2",
+    "reviewer": "whole50_reviewer_group2",
+    "reviewedAt": "2026-11-04",
+    "fingerprint": "c4707476c6635fc159e43a3f5baa33f330efa918156c9313b43a086fad1c8581",
+    "hardGates": "PASS",
+    "front": {
+      "decision": "PASS",
+      "reason": "agenda当前义、桥接与原句逐项核对；词典为转述，未把自编例句当原站引文。"
+    },
+    "sourceChecks": [
+      {
+        "claimId": "lexical",
+        "verdict": "SUPPORTED",
+        "note": "已独立读Oxford agenda和所列词族页；核对会议准备讨论的事项清单及扩展项。"
+      },
+      {
+        "claimId": "g1",
+        "verdict": "SUPPORTED",
+        "note": "逐句核对agenda/g1与原句结构及Oxford意义；是教学推断非历史事实。"
+      },
+      {
+        "claimId": "g2",
+        "verdict": "SUPPORTED",
+        "note": "逐句核对agenda/g2与原句结构及Oxford意义；是教学推断非历史事实。"
+      },
+      {
+        "claimId": "g3",
+        "verdict": "SUPPORTED",
+        "note": "逐句核对agenda/g3与原句结构及Oxford意义；是教学推断非历史事实。"
+      },
+      {
+        "claimId": "g4",
+        "verdict": "SUPPORTED",
+        "note": "逐句核对agenda/g4与原句结构及Oxford意义；是教学推断非历史事实。"
+      },
+      {
+        "claimId": "g5",
+        "verdict": "SUPPORTED",
+        "note": "核读agenda迁移句、中文和替换槽；作为自编表达成立，不声称资料收录原句。"
+      }
+    ],
+    "zones": [
+      {
+        "id": "g1",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "meeting约束会议清单义正确",
+          "completion": "item搭配和广义边界齐",
+          "readability": "今天谈什么直观",
+          "increment": "与直接解释同是清单，item提供补充"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g2",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "send宾语及before时间准确",
+          "completion": "具体句子与未指定天数边界齐",
+          "readability": "先发清单再开会简明",
+          "increment": "补上原句时间精度限制"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g3",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "agenda/schedule/minutes侧重点准确",
+          "completion": "同一场会议前中后对照完整",
+          "readability": "三步顺序好读",
+          "increment": "新增纪要和时间表两邻居"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g4",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "Please请求与会前顺序对应",
+          "completion": "回复具体发送时间、随后准备齐",
+          "readability": "下午发送可执行",
+          "increment": "提前几天提醒重复g2"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": [
+          {
+            "blocking": false,
+            "note": "会前未定几天重复g2"
+          }
+        ]
+      },
+      {
+        "id": "g5",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "add to the agenda搭配准确",
+          "completion": "请求场合、延期替换、非已解决齐",
+          "readability": "用一句问句呈现很清晰",
+          "increment": "从发送议程迁移到添加议题"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      }
+    ]
+  },
+  {
+    "cardId": "V20261012-042",
+    "ruleVersion": "five-zone/2",
+    "reviewer": "whole50_reviewer_group2",
+    "reviewedAt": "2026-11-04",
+    "fingerprint": "f72be896a60f69ae8ca88bfe7d8eaaa599c7693c4e935984241ef103bcda139d",
+    "hardGates": "PASS",
+    "front": {
+      "decision": "PASS",
+      "reason": "context当前义、桥接与原句逐项核对；词典为转述，未把自编例句当原站引文。"
+    },
+    "sourceChecks": [
+      {
+        "claimId": "lexical",
+        "verdict": "SUPPORTED",
+        "note": "已独立读Oxford context和所列词族页；核对理解当前事项所需的背景及扩展项。"
+      },
+      {
+        "claimId": "g1",
+        "verdict": "SUPPORTED",
+        "note": "逐句核对context/g1与原句结构及Oxford意义；是教学推断非历史事实。"
+      },
+      {
+        "claimId": "g2",
+        "verdict": "SUPPORTED",
+        "note": "逐句核对context/g2与原句结构及Oxford意义；是教学推断非历史事实。"
+      },
+      {
+        "claimId": "g3",
+        "verdict": "SUPPORTED",
+        "note": "逐句核对context/g3与原句结构及Oxford意义；是教学推断非历史事实。"
+      },
+      {
+        "claimId": "g4",
+        "verdict": "SUPPORTED",
+        "note": "逐句核对context/g4与原句结构及Oxford意义；是教学推断非历史事实。"
+      },
+      {
+        "claimId": "g5",
+        "verdict": "SUPPORTED",
+        "note": "核读context迁移句、中文和替换槽；作为自编表达成立，不声称资料收录原句。"
+      }
+    ],
+    "zones": [
+      {
+        "id": "g1",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "环境照片类比明示非史实",
+          "completion": "数字与相关性边界完整",
+          "readability": "照片外环境可理解",
+          "increment": "补充理解依赖周围条件的图景"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g2",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 3,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "Let me加原形及before从句准确",
+          "completion": "先背景后选项、非已经选择齐",
+          "readability": "共同理解所需背景略抽象",
+          "increment": "解释发言次序而非孤立译词"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g3",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "background相近、detail可不解释背景合理",
+          "completion": "缺少具体同场景context/detail对照",
+          "readability": "更突出如何影响理解稍抽象",
+          "increment": "in context新增但重述背景占比高"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g4",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "Let me标发言安排适当",
+          "completion": "客户新要求回应说明选项变化",
+          "readability": "两项要求易懂",
+          "increment": "末句所有历史与g1重复"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": [
+          {
+            "blocking": false,
+            "note": "不讲全部历史重复g1"
+          }
+        ]
+      },
+      {
+        "id": "g5",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "For context补前提自然",
+          "completion": "两周评审与含安装替换完整",
+          "readability": "一条前提接一句解释容易读",
+          "increment": "可直接用于邮件补背景"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      }
+    ]
+  },
+  {
+    "cardId": "V20261012-043",
+    "ruleVersion": "five-zone/2",
+    "reviewer": "whole50_reviewer_group2",
+    "reviewedAt": "2026-11-04",
+    "fingerprint": "8fbfbd02241489f9e1a0274a517847cff93f832088a2265949e78f76d37bc7d3",
+    "hardGates": "PASS",
+    "front": {
+      "decision": "PASS",
+      "reason": "clarify当前义、桥接与原句逐项核对；词典为转述，未把自编例句当原站引文。"
+    },
+    "sourceChecks": [
+      {
+        "claimId": "lexical",
+        "verdict": "SUPPORTED",
+        "note": "已独立读Oxford clarify和所列词族页；核对把含糊的意思、范围或要求讲清楚及扩展项。"
+      },
+      {
+        "claimId": "g1",
+        "verdict": "SUPPORTED",
+        "note": "逐句核对clarify/g1与原句结构及Oxford意义；是教学推断非历史事实。"
+      },
+      {
+        "claimId": "g2",
+        "verdict": "SUPPORTED",
+        "note": "逐句核对clarify/g2与原句结构及Oxford意义；是教学推断非历史事实。"
+      },
+      {
+        "claimId": "g3",
+        "verdict": "SUPPORTED",
+        "note": "逐句核对clarify/g3与原句结构及Oxford意义；是教学推断非历史事实。"
+      },
+      {
+        "claimId": "g4",
+        "verdict": "SUPPORTED",
+        "note": "逐句核对clarify/g4与原句结构及Oxford意义；是教学推断非历史事实。"
+      },
+      {
+        "claimId": "g5",
+        "verdict": "SUPPORTED",
+        "note": "核读clarify迁移句、中文和替换槽；作为自编表达成立，不声称资料收录原句。"
+      }
+    ],
+    "zones": [
+      {
+        "id": "g1",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "clear联系不冒充词源",
+          "completion": "范围搭配、非越长越好边界齐",
+          "readability": "模糊到清楚容易记",
+          "increment": "与桥接范围不明重合较多"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g2",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 3,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "what从句无疑问倒装分析成立",
+          "completion": "全句请求与范围对象对应",
+          "readability": "整个从句作内容的表达略专业",
+          "increment": "给出可迁移语序提示"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g3",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "clarify/confirm/elaborate任务区别有保留",
+          "completion": "同一讨论中按信息状态选择",
+          "readability": "先澄清再确认具体",
+          "increment": "新增三词分工"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g4",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "包含项与排除项回答范围问题",
+          "completion": "一正一反答复并接估量任务",
+          "readability": "测试/安装例子直接",
+          "increment": "给出有效回答的形式"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g5",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "whether从句与服务是否包含自然",
+          "completion": "三服务替换及进一步问次数完整",
+          "readability": "短问句容易复用",
+          "increment": "由开放what转为具体whether"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      }
+    ]
+  },
+  {
+    "cardId": "V20261012-044",
+    "ruleVersion": "five-zone/2",
+    "reviewer": "whole50_reviewer_group2",
+    "reviewedAt": "2026-11-04",
+    "fingerprint": "88528a63920fa2b4a21ad03a36d4585f62635595ed45a661af0a8d88c0f191c5",
+    "hardGates": "PASS",
+    "front": {
+      "decision": "PASS",
+      "reason": "confirm当前义、桥接与原句逐项核对；词典为转述，未把自编例句当原站引文。"
+    },
+    "sourceChecks": [
+      {
+        "claimId": "lexical",
+        "verdict": "SUPPORTED",
+        "note": "已独立读Oxford confirm和所列词族页；核对确认信息、安排或双方理解是否成立及扩展项。"
+      },
+      {
+        "claimId": "g1",
+        "verdict": "SUPPORTED",
+        "note": "逐句核对confirm/g1与原句结构及Oxford意义；是教学推断非历史事实。"
+      },
+      {
+        "claimId": "g2",
+        "verdict": "SUPPORTED",
+        "note": "逐句核对confirm/g2与原句结构及Oxford意义；是教学推断非历史事实。"
+      },
+      {
+        "claimId": "g3",
+        "verdict": "SUPPORTED",
+        "note": "逐句核对confirm/g3与原句结构及Oxford意义；是教学推断非历史事实。"
+      },
+      {
+        "claimId": "g4",
+        "verdict": "SUPPORTED",
+        "note": "逐句核对confirm/g4与原句结构及Oxford意义；是教学推断非历史事实。"
+      },
+      {
+        "claimId": "g5",
+        "verdict": "SUPPORTED",
+        "note": "核读confirm迁移句、中文和替换槽；作为自编表达成立，不声称资料收录原句。"
+      }
+    ],
+    "zones": [
+      {
+        "id": "g1",
+        "scores": {
+          "accuracy": 3,
+          "completion": 3,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "核对勾适合此句；confirm也可正式确定非既有事实",
+          "completion": "类比和责任对象齐，场景较简",
+          "readability": "打勾直观",
+          "increment": "内容大半为当前义复述"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g2",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 3,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "who主语和own责任义准确",
+          "completion": "分清负责人和物品所有者",
+          "readability": "名词从句句法用语稍密",
+          "increment": "能避免own字面误译"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g3",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "确认与批准非同义成立",
+          "completion": "有details搭配，少具体两句对照",
+          "readability": "三动作区分清晰",
+          "increment": "已在bridge核实；approve增加边界"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g4",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "who请求负责人信息正确",
+          "completion": "姓名、任务、期限形成闭环",
+          "readability": "Maya短答清楚",
+          "increment": "新增记录行动项动作"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g5",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "confirm quantity/address自然",
+          "completion": "已有信息核对场合与缺信息边界明确",
+          "readability": "下单前核数量直接",
+          "increment": "转入采购场景并能替换"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      }
+    ]
+  },
+  {
+    "cardId": "V20261012-045",
+    "ruleVersion": "five-zone/2",
+    "reviewer": "whole50_reviewer_group2",
+    "reviewedAt": "2026-11-04",
+    "fingerprint": "868bce3b8038e263b89c8b5b14a673457759efad707f368129a419625242097c",
+    "hardGates": "PASS",
+    "front": {
+      "decision": "PASS",
+      "reason": "specify当前义、桥接与原句逐项核对；词典为转述，未把自编例句当原站引文。"
+    },
+    "sourceChecks": [
+      {
+        "claimId": "lexical",
+        "verdict": "SUPPORTED",
+        "note": "已独立读Oxford specify和所列词族页；核对明确写出或说出具体要求及扩展项。"
+      },
+      {
+        "claimId": "g1",
+        "verdict": "SUPPORTED",
+        "note": "逐句核对specify/g1与原句结构及Oxford意义；是教学推断非历史事实。"
+      },
+      {
+        "claimId": "g2",
+        "verdict": "SUPPORTED",
+        "note": "逐句核对specify/g2与原句结构及Oxford意义；是教学推断非历史事实。"
+      },
+      {
+        "claimId": "g3",
+        "verdict": "SUPPORTED",
+        "note": "逐句核对specify/g3与原句结构及Oxford意义；是教学推断非历史事实。"
+      },
+      {
+        "claimId": "g4",
+        "verdict": "SUPPORTED",
+        "note": "逐句核对specify/g4与原句结构及Oxford意义；是教学推断非历史事实。"
+      },
+      {
+        "claimId": "g5",
+        "verdict": "SUPPORTED",
+        "note": "核读specify迁移句、中文和替换槽；作为自编表达成立，不声称资料收录原句。"
+      }
+    ],
+    "zones": [
+      {
+        "id": "g1",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "具体明确义准确",
+          "completion": "日期数量类比和空泛反例完整",
+          "readability": "空白栏画面易懂",
+          "increment": "增加可执行精度抓手"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g2",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 3,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "conditions后for加动名词准确",
+          "completion": "不是立即接受、未满足条件边界齐",
+          "readability": "修饰conditions是必要术语",
+          "increment": "拆明要求条件而非接受提案"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g3",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "say宽泛、specify精确、clarify消歧合理",
+          "completion": "尽快到日期构成同场景演示",
+          "readability": "日期对比简短",
+          "increment": "把信息精度与字数区分"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g4",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "列修订价和日期符合索取材料的条件",
+          "completion": "答复仍未给具体可接受价格或日期阈值，只达基本任务",
+          "readability": "可执行信息表述略空",
+          "increment": "有回应但具体精度不及g3"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g5",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "specify required format自然",
+          "completion": "文件格式、尺寸替换、具体答案边界齐",
+          "readability": "PDF/XLSX直观",
+          "increment": "展示哪些回答才能填补要求"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      }
+    ]
+  },
+  {
+    "cardId": "V20261012-046",
+    "ruleVersion": "five-zone/2",
+    "reviewer": "whole50_reviewer_group2",
+    "reviewedAt": "2026-11-04",
+    "fingerprint": "57cd4df26841dd4238216cdbfc252dd33e8121a93cd3c4280e61244bdbac95ad",
+    "hardGates": "PASS",
+    "front": {
+      "decision": "PASS",
+      "reason": "elaborate当前义、桥接与原句逐项核对；词典为转述，未把自编例句当原站引文。"
+    },
+    "sourceChecks": [
+      {
+        "claimId": "lexical",
+        "verdict": "SUPPORTED",
+        "note": "已独立读Oxford elaborate和所列词族页；核对对已经说出的观点进一步详细说明及扩展项。"
+      },
+      {
+        "claimId": "g1",
+        "verdict": "SUPPORTED",
+        "note": "逐句核对elaborate/g1与原句结构及Oxford意义；是教学推断非历史事实。"
+      },
+      {
+        "claimId": "g2",
+        "verdict": "SUPPORTED",
+        "note": "逐句核对elaborate/g2与原句结构及Oxford意义；是教学推断非历史事实。"
+      },
+      {
+        "claimId": "g3",
+        "verdict": "SUPPORTED",
+        "note": "逐句核对elaborate/g3与原句结构及Oxford意义；是教学推断非历史事实。"
+      },
+      {
+        "claimId": "g4",
+        "verdict": "SUPPORTED",
+        "note": "逐句核对elaborate/g4与原句结构及Oxford意义；是教学推断非历史事实。"
+      },
+      {
+        "claimId": "g5",
+        "verdict": "SUPPORTED",
+        "note": "核读elaborate迁移句、中文和替换槽；作为自编表达成立，不声称资料收录原句。"
+      }
+    ],
+    "zones": [
+      {
+        "id": "g1",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "on搭配与动词义正确",
+          "completion": "已知观点及词性边界齐",
+          "readability": "把一点展开易懂",
+          "increment": "与bridge展开担忧相似"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g2",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "on接concern、about修饰concern准确",
+          "completion": "分组读法与误连介词边界齐",
+          "readability": "斜线读法降低难度",
+          "increment": "解决两个介词的实际困惑"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g3",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "增加细节与消歧区别非绝对化",
+          "completion": "有expand on邻居，缺一组微对话",
+          "readability": "解释越多未必清楚自然",
+          "increment": "补充相近动词功能区别"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g4",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "请求具体影响由担忧语境推得",
+          "completion": "三天延误、测试减少、后续调整齐",
+          "readability": "因果清楚",
+          "increment": "用后果解释完成请求"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g5",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "elaborate on how结构自然",
+          "completion": "时机、成本替换及相关性限制完整",
+          "readability": "延误影响测试容易说",
+          "increment": "迁移到从句追问影响"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      }
+    ]
+  },
+  {
+    "cardId": "V20261012-047",
+    "ruleVersion": "five-zone/2",
+    "reviewer": "whole50_reviewer_group2",
+    "reviewedAt": "2026-11-04",
+    "fingerprint": "3b45819ca8fa7862659c80cf1ac90ca6692207695c66bcbeef05a026286619fa",
+    "hardGates": "PASS",
+    "front": {
+      "decision": "PASS",
+      "reason": "summarize当前义、桥接与原句逐项核对；词典为转述，未把自编例句当原站引文。"
+    },
+    "sourceChecks": [
+      {
+        "claimId": "lexical",
+        "verdict": "SUPPORTED",
+        "note": "已独立读Oxford summarize和所列词族页；核对概括重点而不是重复全部细节及扩展项。"
+      },
+      {
+        "claimId": "g1",
+        "verdict": "SUPPORTED",
+        "note": "逐句核对summarize/g1与原句结构及Oxford意义；是教学推断非历史事实。"
+      },
+      {
+        "claimId": "g2",
+        "verdict": "SUPPORTED",
+        "note": "逐句核对summarize/g2与原句结构及Oxford意义；是教学推断非历史事实。"
+      },
+      {
+        "claimId": "g3",
+        "verdict": "SUPPORTED",
+        "note": "逐句核对summarize/g3与原句结构及Oxford意义；是教学推断非历史事实。"
+      },
+      {
+        "claimId": "g4",
+        "verdict": "SUPPORTED",
+        "note": "逐句核对summarize/g4与原句结构及Oxford意义；是教学推断非历史事实。"
+      },
+      {
+        "claimId": "g5",
+        "verdict": "SUPPORTED",
+        "note": "核读summarize迁移句、中文和替换槽；作为自编表达成立，不声称资料收录原句。"
+      }
+    ],
+    "zones": [
+      {
+        "id": "g1",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "骨架类比对应抓重点非任删",
+          "completion": "已决未决都保留的例子齐",
+          "readability": "骨架枝节易读",
+          "increment": "补充哪些重点不能丢"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g2",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 3,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "并列宾语与remaining修饰正确",
+          "completion": "已决与未决概念分开",
+          "readability": "句法/概念两个术语稍集中",
+          "increment": "说明and两类信息不可合并"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g3",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "repeat与summary不等同、recap邻近合理",
+          "completion": "少同内容重述与概括的直接对照",
+          "readability": "短了却误报完成清楚",
+          "increment": "已决未决提醒与g1重叠"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g4",
+        "scores": {
+          "accuracy": 3,
+          "completion": 4,
+          "readability": 3,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "The supplier is agreed可理解但不如We agreed on the supplier自然",
+          "completion": "两类状态和纠错机会完整",
+          "readability": "供应商已定的英文偏公事化",
+          "increment": "具体一行总结示范有增量"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": [
+          {
+            "blocking": false,
+            "note": "The supplier is agreed可读但改为We agreed on the supplier更自然"
+          }
+        ]
+      },
+      {
+        "id": "g5",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "in three points可规定概要格式",
+          "completion": "时机、段落替换与非词义固定数量齐",
+          "readability": "三点到一段易懂",
+          "increment": "提供可控制输出长度的表达"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      }
+    ]
+  },
+  {
+    "cardId": "V20261012-048",
+    "ruleVersion": "five-zone/2",
+    "reviewer": "whole50_reviewer_group2",
+    "reviewedAt": "2026-11-04",
+    "fingerprint": "2cfc583efc6044446efccc0c72cd27ae230878b83ed98778e61fe8128f26dd4c",
+    "hardGates": "PASS",
+    "front": {
+      "decision": "PASS",
+      "reason": "recap当前义、桥接与原句逐项核对；词典为转述，未把自编例句当原站引文。"
+    },
+    "sourceChecks": [
+      {
+        "claimId": "lexical",
+        "verdict": "SUPPORTED",
+        "note": "已独立读Oxford recap和所列词族页；核对简短回顾已经讨论或发生的内容及扩展项。"
+      },
+      {
+        "claimId": "g1",
+        "verdict": "SUPPORTED",
+        "note": "逐句核对recap/g1与原句结构及Oxford意义；是教学推断非历史事实。"
+      },
+      {
+        "claimId": "g2",
+        "verdict": "SUPPORTED",
+        "note": "逐句核对recap/g2与原句结构及Oxford意义；是教学推断非历史事实。"
+      },
+      {
+        "claimId": "g3",
+        "verdict": "SUPPORTED",
+        "note": "逐句核对recap/g3与原句结构及Oxford意义；是教学推断非历史事实。"
+      },
+      {
+        "claimId": "g4",
+        "verdict": "SUPPORTED",
+        "note": "逐句核对recap/g4与原句结构及Oxford意义；是教学推断非历史事实。"
+      },
+      {
+        "claimId": "g5",
+        "verdict": "SUPPORTED",
+        "note": "核读recap迁移句、中文和替换槽；作为自编表达成立，不声称资料收录原句。"
+      }
+    ],
+    "zones": [
+      {
+        "id": "g1",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "已谈内容回顾而非逐句重播准确",
+          "completion": "新人场景和main points搭配完整",
+          "readability": "加入会议的场景直观",
+          "increment": "与bridge几乎同情景"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g2",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "for指受益/对象，宾语main points准确",
+          "completion": "按内容/为谁拆句完整",
+          "readability": "两段式读法清楚",
+          "increment": "不必逐句重播重复g1"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g3",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "recap与summarize重叠，review更广准确",
+          "completion": "有同语境限制但少对照例句",
+          "readability": "不硬分口语书面有用",
+          "increment": "新增review可检查评估"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g4",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "为新人补进度是合理语用",
+          "completion": "目标已定时间未定与加入讨论齐",
+          "readability": "双状态回顾清楚",
+          "increment": "给出可接着参与的具体问题"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g5",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "recap action points自然",
+          "completion": "收尾场景、替换与新旧事项边界齐",
+          "readability": "收尾表达简短",
+          "increment": "迁移到行动分工提醒"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      }
+    ]
+  },
+  {
+    "cardId": "V20261012-049",
+    "ruleVersion": "five-zone/2",
+    "reviewer": "whole50_reviewer_group2",
+    "reviewedAt": "2026-11-04",
+    "fingerprint": "addf7f89a314699630da8ad776674fa41641e89ae22e9e88ee54a8237561b600",
+    "hardGates": "PASS",
+    "front": {
+      "decision": "PASS",
+      "reason": "align当前义、桥接与原句逐项核对；词典为转述，未把自编例句当原站引文。"
+    },
+    "sourceChecks": [
+      {
+        "claimId": "lexical",
+        "verdict": "SUPPORTED",
+        "note": "已独立读Oxford align和所列词族页；核对使目标、理解或安排彼此一致及扩展项。"
+      },
+      {
+        "claimId": "g1",
+        "verdict": "SUPPORTED",
+        "note": "逐句核对align/g1与原句结构及Oxford意义；是教学推断非历史事实。另读Atlassian Sprint Planning的align on priorities实际用法。"
+      },
+      {
+        "claimId": "g2",
+        "verdict": "SUPPORTED",
+        "note": "逐句核对align/g2与原句结构及Oxford意义；是教学推断非历史事实。另读Atlassian Sprint Planning的align on priorities实际用法。"
+      },
+      {
+        "claimId": "g3",
+        "verdict": "SUPPORTED",
+        "note": "逐句核对align/g3与原句结构及Oxford意义；是教学推断非历史事实。另读Atlassian Sprint Planning的align on priorities实际用法。"
+      },
+      {
+        "claimId": "g4",
+        "verdict": "SUPPORTED",
+        "note": "逐句核对align/g4与原句结构及Oxford意义；是教学推断非历史事实。另读Atlassian Sprint Planning的align on priorities实际用法。"
+      },
+      {
+        "claimId": "g5",
+        "verdict": "SUPPORTED",
+        "note": "核读align迁移句、中文和替换槽；作为自编表达成立，不声称资料收录原句。"
+      }
+    ],
+    "zones": [
+      {
+        "id": "g1",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "实体对齐到目标一致明示现代联系",
+          "completion": "图形、任务优先级和边界齐",
+          "readability": "表格列对齐可想象",
+          "increment": "与词源现代联系相近"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g2",
+        "scores": {
+          "accuracy": 3,
+          "completion": 4,
+          "readability": 3,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "align on工作用法已另核Atlassian；before加-ing准确",
+          "completion": "先协调再分工及未完成边界完整",
+          "readability": "有必要协调略抽象",
+          "increment": "说明on议题与before次序"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g3",
+        "scores": {
+          "accuracy": 3,
+          "completion": 4,
+          "readability": 3,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "on议题与with参照在两示例中成立，不能推为通用所有结构规则",
+          "completion": "有计划资源对照示例",
+          "readability": "参照对象术语稍硬",
+          "increment": "新增另一动词结构"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g4",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "before触发先后解释适当",
+          "completion": "测试/重设问句与排序后分配齐",
+          "readability": "直接二选一易懂",
+          "increment": "把笼统对齐变具体排序"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g5",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "align plan with resources搭配成立",
+          "completion": "forecast/orders替换保留结构",
+          "readability": "A/B槽清楚",
+          "increment": "可把口号落实成对象匹配"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      }
+    ]
+  },
+  {
+    "cardId": "V20261012-050",
+    "ruleVersion": "five-zone/2",
+    "reviewer": "whole50_reviewer_group2",
+    "reviewedAt": "2026-11-04",
+    "fingerprint": "22c5e833041d842989f8d1290d31ac42713660810c1f8a9c57a7746fd98aa800",
+    "hardGates": "PASS",
+    "front": {
+      "decision": "PASS",
+      "reason": "consensus当前义、桥接与原句逐项核对；词典为转述，未把自编例句当原站引文。"
+    },
+    "sourceChecks": [
+      {
+        "claimId": "lexical",
+        "verdict": "SUPPORTED",
+        "note": "已独立读Oxford consensus和所列词族页；核对团队对某个方向形成的普遍共识及扩展项。"
+      },
+      {
+        "claimId": "g1",
+        "verdict": "SUPPORTED",
+        "note": "逐句核对consensus/g1与原句结构及Oxford意义；是教学推断非历史事实。"
+      },
+      {
+        "claimId": "g2",
+        "verdict": "SUPPORTED",
+        "note": "逐句核对consensus/g2与原句结构及Oxford意义；是教学推断非历史事实。"
+      },
+      {
+        "claimId": "g3",
+        "verdict": "SUPPORTED",
+        "note": "复审独立读取Oxford agreement义1具体安排和义2共同意见，再对照Oxford consensus及broad/rough例；周五开会为显式自编，例子成立且保留agreement可用于群体的边界。"
+      },
+      {
+        "claimId": "g4",
+        "verdict": "SUPPORTED",
+        "note": "逐句核对consensus/g4与原句结构及Oxford意义；是教学推断非历史事实。"
+      },
+      {
+        "claimId": "g5",
+        "verdict": "SUPPORTED",
+        "note": "核读consensus迁移句、中文和替换槽；作为自编表达成立，不声称资料收录原句。"
+      }
+    ],
+    "zones": [
+      {
+        "id": "g1",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "广泛共识非所有事项一致；Oxford有broad/rough例",
+          "completion": "reach搭配和范围界限齐",
+          "readability": "走到共同位置易理解",
+          "increment": "范围说明已见bridge"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g2",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "reached时态与on范围准确",
+          "completion": "未明程序和批准边界齐",
+          "readability": "一次共同意见形成略抽象",
+          "increment": "范围重复前区"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g3",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 3,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "已独立读Oxford agreement义1/2与consensus；两方/群体并非绝对人数规则明确保留",
+          "completion": "周五开会同一场景展示具体约定和群体共同意见，搭配及边界齐全",
+          "readability": "两个英文短语和解释连排偏密，但能对应同一具体场景",
+          "increment": "不再复述范围/投票程序；增加agreement与consensus何时选用的可见对照"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g4",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "报告既有共识的语用正确",
+          "completion": "写下目标回应能推进",
+          "readability": "末句程序提醒冗长",
+          "increment": "首尾与g2重合，中间对话仍有新增"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g5",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "goal but not timeline对照自然",
+          "completion": "汇报时机及两个槽完整",
+          "readability": "but明示未定事项易读",
+          "increment": "能直接汇报一致与分歧"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      }
+    ],
+    "revisionNote": "初审g3完成2/增量2已退修；另一Writer补同场景对照，当前重新审核。lexical来源事实与g3教学推断已分开。"
+  },
+  {
+    "cardId": "V20261012-051",
+    "ruleVersion": "five-zone/2",
+    "reviewer": "whole50_reviewer_group2",
+    "reviewedAt": "2026-11-04",
+    "fingerprint": "4a6ae040c3ad30f70cf3918cdcb81a3454e95152e41517005ebdadf8fb4adbf6",
+    "hardGates": "PASS",
+    "front": {
+      "decision": "PASS",
+      "reason": "concern当前义、桥接与原句逐项核对；词典为转述，未把自编例句当原站引文。"
+    },
+    "sourceChecks": [
+      {
+        "claimId": "lexical",
+        "verdict": "SUPPORTED",
+        "note": "已独立读Oxford concern和所列词族页；核对值得注意或让人担心的事项及扩展项。"
+      },
+      {
+        "claimId": "g1",
+        "verdict": "SUPPORTED",
+        "note": "逐句核对concern/g1与原句结构及Oxford意义；是教学推断非历史事实。"
+      },
+      {
+        "claimId": "g2",
+        "verdict": "SUPPORTED",
+        "note": "逐句核对concern/g2与原句结构及Oxford意义；是教学推断非历史事实。"
+      },
+      {
+        "claimId": "g3",
+        "verdict": "SUPPORTED",
+        "note": "逐句核对concern/g3与原句结构及Oxford意义；是教学推断非历史事实。"
+      },
+      {
+        "claimId": "g4",
+        "verdict": "SUPPORTED",
+        "note": "逐句核对concern/g4与原句结构及Oxford意义；是教学推断非历史事实。"
+      },
+      {
+        "claimId": "g5",
+        "verdict": "SUPPORTED",
+        "note": "核读concern迁移句、中文和替换槽；作为自编表达成立，不声称资料收录原句。"
+      }
+    ],
+    "zones": [
+      {
+        "id": "g1",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "担忧义与企业义区分正确",
+          "completion": "放心不下抓手和about搭配齐",
+          "readability": "从中文问题记词容易",
+          "increment": "main挑主要项补充有限"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g2",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 3,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "available修饰time准确，未断言不足",
+          "completion": "主表结构及insufficient信息边界完整",
+          "readability": "信息未直接给出需要多读一步",
+          "increment": "区分担忧与已证实不足很有用"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g3",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "担忧不等于反对，objection倾向明确反对",
+          "completion": "提供回应策略但少英语对照句",
+          "readability": "否决者比泛反对形象",
+          "increment": "教听者怎样对待担忧"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g4",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "My main concern定位问题准确",
+          "completion": "问所需时长、比较安排、下一步完整",
+          "readability": "多少时间直接可答",
+          "increment": "将情绪关切化为可核实条件"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g5",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "concern about搭配与语境合适",
+          "completion": "窗口到交期替换和原因示例齐",
+          "readability": "只剩一天测试有具体信息",
+          "increment": "教如何提出可回应的担忧"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      }
+    ]
+  },
+  {
+    "cardId": "V20261012-052",
+    "ruleVersion": "five-zone/2",
+    "reviewer": "whole50_reviewer_group2",
+    "reviewedAt": "2026-11-04",
+    "fingerprint": "5bb5204a72fec7860993240b8b3065f2142a82ed9a5708144fde47dad1ac1ca4",
+    "hardGates": "PASS",
+    "front": {
+      "decision": "PASS",
+      "reason": "objection当前义、桥接与原句逐项核对；词典为转述，未把自编例句当原站引文。"
+    },
+    "sourceChecks": [
+      {
+        "claimId": "lexical",
+        "verdict": "SUPPORTED",
+        "note": "已独立读Oxford objection和所列词族页；核对对提议明确表示反对的理由或意见及扩展项。"
+      },
+      {
+        "claimId": "g1",
+        "verdict": "SUPPORTED",
+        "note": "逐句核对objection/g1与原句结构及Oxford意义；是教学推断非历史事实。"
+      },
+      {
+        "claimId": "g2",
+        "verdict": "SUPPORTED",
+        "note": "逐句核对objection/g2与原句结构及Oxford意义；是教学推断非历史事实。"
+      },
+      {
+        "claimId": "g3",
+        "verdict": "SUPPORTED",
+        "note": "逐句核对objection/g3与原句结构及Oxford意义；是教学推断非历史事实。"
+      },
+      {
+        "claimId": "g4",
+        "verdict": "SUPPORTED",
+        "note": "逐句核对objection/g4与原句结构及Oxford意义；是教学推断非历史事实。"
+      },
+      {
+        "claimId": "g5",
+        "verdict": "SUPPORTED",
+        "note": "核读objection迁移句、中文和替换槽；作为自编表达成立，不声称资料收录原句。"
+      }
+    ],
+    "zones": [
+      {
+        "id": "g1",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "异议可为表达或理由正确",
+          "completion": "have/raise配对和非担忧边界齐",
+          "readability": "我不赞成直白",
+          "increment": "与当前义重合，两个动词补充可用"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g2",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 3,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "to介词+动名词有Oxford直接例证",
+          "completion": "对象、过去分词及未获批边界齐",
+          "readability": "术语稍密但围绕原句",
+          "increment": "避免to后用原形错误"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g3",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "不把三词排固定情绪阶梯正确",
+          "completion": "有raise搭配但缺同场景三句展示",
+          "readability": "尚不能完全接受略长",
+          "increment": "表达程度差异保持弹性"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g4",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "询问反对对象符合Does anyone",
+          "completion": "测试时间不足答复及核对影响完整",
+          "readability": "新顺序的后果很清楚",
+          "increment": "说明沉默不能自动视为批准"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g5",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "objection to timing not proposal自然",
+          "completion": "误解场合、cost替换、需理由齐",
+          "readability": "局部反对易懂",
+          "increment": "提供限定分歧范围的句式"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      }
+    ]
+  },
+  {
+    "cardId": "V20261012-053",
+    "ruleVersion": "five-zone/2",
+    "reviewer": "whole50_reviewer_group2",
+    "reviewedAt": "2026-11-04",
+    "fingerprint": "ee18442e62a5bb65885d706715f0a8310dd8bd7407a8e2a1f05904c43d42926f",
+    "hardGates": "PASS",
+    "front": {
+      "decision": "PASS",
+      "reason": "reservation当前义、桥接与原句逐项核对；词典为转述，未把自编例句当原站引文。"
+    },
+    "sourceChecks": [
+      {
+        "claimId": "lexical",
+        "verdict": "SUPPORTED",
+        "note": "已独立读Oxford reservation和所列词族页；核对尚未消除的保留意见或疑虑及扩展项。"
+      },
+      {
+        "claimId": "g1",
+        "verdict": "SUPPORTED",
+        "note": "逐句核对reservation/g1与原句结构及Oxford意义；是教学推断非历史事实。"
+      },
+      {
+        "claimId": "g2",
+        "verdict": "SUPPORTED",
+        "note": "逐句核对reservation/g2与原句结构及Oxford意义；是教学推断非历史事实。"
+      },
+      {
+        "claimId": "g3",
+        "verdict": "SUPPORTED",
+        "note": "逐句核对reservation/g3与原句结构及Oxford意义；是教学推断非历史事实。"
+      },
+      {
+        "claimId": "g4",
+        "verdict": "SUPPORTED",
+        "note": "逐句核对reservation/g4与原句结构及Oxford意义；是教学推断非历史事实。"
+      },
+      {
+        "claimId": "g5",
+        "verdict": "SUPPORTED",
+        "note": "核读reservation迁移句、中文和替换槽；作为自编表达成立，不声称资料收录原句。"
+      }
+    ],
+    "zones": [
+      {
+        "id": "g1",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "两种搭配驱动不同义正确",
+          "completion": "酒店与讨论双场景形成对照",
+          "readability": "完全点头形象",
+          "increment": "同词多义记忆作用明显"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g2",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 3,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "about后-ing、before时间准确",
+          "completion": "保留意见对象与未承诺边界齐",
+          "readability": "动名词术语必要但略密",
+          "increment": "读清保留的是时间点"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g3",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "reservation疑虑、objection反对合理",
+          "completion": "复数和酒店警示有用但具体对照不足",
+          "readability": "复数不等于多次酒店直观",
+          "increment": "预订对照已在g1出现"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g4",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "从保留意见追问承诺前所需信息，未暗示已同意",
+          "completion": "疑虑对象、可回应问句和找信息后继续谈三步齐备",
+          "readability": "重复的评审后不一定同意已删除，短段更易跟随",
+          "increment": "保留主动追问信息缺口的新增动作，边界提醒留给g2"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g5",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "reservations about estimate自然",
+          "completion": "实施计划替换与假设数据补充齐",
+          "readability": "具体疑虑场景清楚",
+          "increment": "可用于保持讨论开放"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      }
+    ],
+    "revisionNote": "另一Writer删除重复末句，核对claims/requirements同步，重新审核。"
+  },
+  {
+    "cardId": "V20261012-054",
+    "ruleVersion": "five-zone/2",
+    "reviewer": "whole50_reviewer_group2",
+    "reviewedAt": "2026-11-04",
+    "fingerprint": "86512e6aeed4872faf5f691ff365129f656ba2939828e5b5c512542899968ec9",
+    "hardGates": "PASS",
+    "front": {
+      "decision": "PASS",
+      "reason": "rationale当前义、桥接与原句逐项核对；词典为转述，未把自编例句当原站引文。"
+    },
+    "sourceChecks": [
+      {
+        "claimId": "lexical",
+        "verdict": "SUPPORTED",
+        "note": "已独立读Oxford rationale和所列词族页；核对某项决定或方案背后的理由及扩展项。"
+      },
+      {
+        "claimId": "g1",
+        "verdict": "SUPPORTED",
+        "note": "逐句核对rationale/g1与原句结构及Oxford意义；是教学推断非历史事实。"
+      },
+      {
+        "claimId": "g2",
+        "verdict": "SUPPORTED",
+        "note": "逐句核对rationale/g2与原句结构及Oxford意义；是教学推断非历史事实。"
+      },
+      {
+        "claimId": "g3",
+        "verdict": "SUPPORTED",
+        "note": "逐句核对rationale/g3与原句结构及Oxford意义；是教学推断非历史事实。"
+      },
+      {
+        "claimId": "g4",
+        "verdict": "SUPPORTED",
+        "note": "逐句核对rationale/g4与原句结构及Oxford意义；是教学推断非历史事实。"
+      },
+      {
+        "claimId": "g5",
+        "verdict": "SUPPORTED",
+        "note": "核读rationale迁移句、中文和替换槽；作为自编表达成立，不声称资料收录原句。"
+      }
+    ],
+    "zones": [
+      {
+        "id": "g1",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "理由体系与谁决定不同正确",
+          "completion": "有提问抓手但少独立微场景",
+          "readability": "不硬拆拼写提示占篇幅",
+          "increment": "比只译理由多一个为什么视角"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g2",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 3,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "for后changing及宾语结构准确",
+          "completion": "请求解释而非认定错误边界齐",
+          "readability": "这组理由对应行动略学术",
+          "increment": "避免误读质问成直接否定"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g3",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "reason宽泛、evidence支持理由非理由本身正确",
+          "completion": "缺一事实到理由的同场景直接对照",
+          "readability": "仍需说明怎样支持略抽象",
+          "increment": "证据与推理区分新增"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g4",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "Could you explain请求理由准确",
+          "completion": "期限提前到紧急度的因果完整",
+          "readability": "信息到决定连线清楚",
+          "increment": "有理由仍需验证的后续有价值"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      },
+      {
+        "id": "g5",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "rationale for each change自然",
+          "completion": "资料场合、exception槽和附依据齐",
+          "readability": "改什么为何改易读",
+          "increment": "迁移到书面变更说明"
+        },
+        "requirementsVerdict": "PASS",
+        "issues": []
+      }
+    ]
+  }
+]

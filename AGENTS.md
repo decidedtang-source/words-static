@@ -1,6 +1,16 @@
+> **2026-11-05 Owner确认冻结**：当前50词示例与词典默认展开/前置版式固定为 [WORDS-STATIC-V3.1-DICTIONARY-FIRST-20261105](docs/design/dictionary-learner-50-20261105/README.md)，冻结目录不可覆盖。覆盖历史暂不冻结及旧排序说明；仅预览基线，不是main/Pages发布。
+
+> **2026-11-05 Owner版式调整**：词典义项默认展开，位于 B·直接释义之前，可手动折叠；本句先记和后五区保持原内容与顺序。仅候选预览，不发布。此要求覆盖历史排序。
+
+> **2026-11-04 最新Owner补充**：完整词典区必须可独立查阅，核对主要常用义、词性、语法和对应例句，Bridge再连接当前语境。源记录全量不等于常用覆盖完整。执行 [LEARNER-DICTIONARY-QA](docs/codex/v3/five-zone-v3.1/LEARNER-DICTIONARY-QA.md) 和 verify-learner-dictionary.mjs；新版暂不冻结最终基线，不发布。
+
+> **2026-11-04 Owner词典区纠正**：标题改为“词典义项”，按明确词典版本完整收录原文释义、源例句、用法与标签，中文译释另标；不能只列更多摘要或过滤当前义。新要求与QA见 [FULL-DICTIONARY-QA](docs/codex/v3/five-zone-v3.1/FULL-DICTIONARY-QA.md)，优先于本文件历史冲突描述。版式冻结，不发布。
+
 > **2026-11-03 最新正式登记：WORDS-STATIC-V3.1-FIVE-ZONE-SOURCE-FIRST**。先读 [五区来源整理版基线、工作流与QA](docs/codex/v3/five-zone-v3.1/README.md)。Owner已确认模板和“按五区需求检索成熟解释→整理→必要补写→独立QA”的内容生产方法。保留展开的当前拆词释义，随后直接释义区→本句先记→更多词典义项，再进入完整01—05。冻结HTML不可覆盖。此登记优先于下方历史规划中冲突的排序和讲解方法；仅模板/规划新版本，不是生产发布或内容独立审核通过。GitHub Pages、FSRS、学习记录、Notion选词和定时任务边界保持。状态 **READY_FOR_OWNER_REVIEW / NOT_DEPLOYED**。
 
 # Codex working contract — Words Static / English Vocabulary
+
+> **整页QA范围纠正**：后五区仅是讲解子模块。按 [WHOLE-CARD-QA](docs/codex/v3/five-zone-v3.1/WHOLE-CARD-QA.md)逐一生产和审核整页13模块，必须包括词源切换、词头及例句，不可用五区PASS声称整页完整。版式不变，不发布。此范围纠正优先于历史“词源可省略”说明。
 
 > **最新 Owner 产品方向（2026-11-03）**：先读 [B 默认、C1 按需切换的产品总纲](docs/codex/v3/OWNER-B-C1-PRODUCT-BRIEF.md)。保留现有 V3 词典/本句与完整原 01–05 五区，桥接区域默认展示 B（现代常见义＋具体使用场景＋当前义），C1 提供按需深入的词典来源、义项关联及有据词源；A 不作为用户可见模式。**Codex 自行决定架构和 UI、版本/审核/测试方案，先复现和评分，再在隔离分支实施；不可未经单独许可合并 main 或发布。** 这优先于历史 A/B/C 三选一、把五区改为三/四区的探索文档。
 

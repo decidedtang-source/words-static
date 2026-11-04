@@ -1,0 +1,977 @@
+[
+  {
+    "cardId": "V20261012-001",
+    "reviewer": "five_final_review",
+    "ruleVersion": "whole-card/1",
+    "fingerprint": "03a56c85c422b8daf0c28a614d0f46dfbd62c10bb471459ffafb76ea2f904ceb",
+    "modules": [
+      {
+        "id": "headword",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "Oxford词头/skəʊp/及不可数名词核实，define the scope符合APM用法。",
+          "completion": "词头、英式宽式IPA、词性及搭配齐全；未提供声音示范。",
+          "readability": "显示简短；n.仍是缩写，但补不可数提示。",
+          "increment": "从只看词义增加发音和define搭配，尚无搭配中文。"
+        },
+        "decision": "PASS",
+        "issues": [
+          {
+            "message": "从只看词义增加发音和define搭配，尚无搭配中文。",
+            "blocking": false
+          }
+        ]
+      },
+      {
+        "id": "currentSense",
+        "scores": {
+          "accuracy": 3,
+          "completion": 3,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "范围/工作及成果的英文释义符合当前句；中文包含/不包含说明的是边界。",
+          "completion": "词性、中英当前义齐全，单词无需机械拆词。",
+          "readability": "中文工作范围直观，英文短而容易对照。",
+          "increment": "相比大字“范围”补充项目对象，但并非更广义词典定义。"
+        },
+        "decision": "PASS",
+        "issues": [
+          {
+            "message": "相比大字“范围”补充项目对象，但并非更广义词典定义。",
+            "blocking": false
+          }
+        ]
+      },
+      {
+        "id": "directExplanation",
+        "scores": {
+          "accuracy": 3,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "功能测试/性能测试情景是合理教学例，不误称真实项目。",
+          "completion": "用同样测试为何工作量不同，解释先明确范围的作用。",
+          "readability": "具体两种测试让抽象边界容易理解。",
+          "increment": "增加成本逻辑；与后01/02仍存在教学复现。"
+        },
+        "decision": "PASS",
+        "issues": [
+          {
+            "message": "增加成本逻辑；与后01/02仍存在教学复现。",
+            "blocking": false
+          }
+        ]
+      },
+      {
+        "id": "etymology",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "Etymonline支持意大利/希腊路径及早期行动空间，未伪造单线演化。",
+          "completion": "历史、现代关联、回到本句三层齐全，非历史义替代现代义。",
+          "readability": "scopo/skopos加解释可读；三段仍偏多。",
+          "increment": "新增真实历史，但现代/项目段与前桥接有重复。"
+        },
+        "decision": "PASS",
+        "issues": [
+          {
+            "message": "新增真实历史，但现代/项目段与前桥接有重复。",
+            "blocking": false
+          }
+        ]
+      },
+      {
+        "id": "context",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "原英文before估价顺序与中文及先记提示一致。",
+          "completion": "整句、中译与当前抓手齐全。",
+          "readability": "“先说清做哪些工作，再估算费用”简洁直接。",
+          "increment": "以整句强化行动顺序，部分内容与桥接重合。"
+        },
+        "decision": "PASS",
+        "issues": [
+          {
+            "message": "以整句强化行动顺序，部分内容与桥接重合。",
+            "blocking": false
+          }
+        ]
+      },
+      {
+        "id": "additionalSenses",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 3,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "Oxford/Cambridge机会义支持room or opportunity，未混入当前范围义。",
+          "completion": "给出真正不同的机会/发挥余地义，不再重复前方当前义。",
+          "readability": "中英文短释易懂，但缺scope for的义项内例句。",
+          "increment": "从范围扩展到机会义，确有新信息。"
+        },
+        "decision": "PASS",
+        "issues": []
+      },
+      {
+        "id": "examples",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "excludes staff training英语自然，中译“不包括”准确。",
+          "completion": "保留原主例句及一条不同补充例句；kind清楚。",
+          "readability": "补充句短而明白。",
+          "increment": "excludes新增排除表达，但training场景已多次使用。"
+        },
+        "decision": "PASS",
+        "issues": [
+          {
+            "message": "excludes新增排除表达，但training场景已多次使用。",
+            "blocking": false
+          }
+        ]
+      },
+      {
+        "id": "copyPayload",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "冻结负载分别是scope和【深析】scope，与词头一致。",
+          "completion": "仅验收冻结静态原型的精确文本；未当成生产全文复制。",
+          "readability": "输出短且明确，按钮“原文”仍依赖原型约定。",
+          "increment": "提供交接入口；不增加词汇内容，适用范围明确。"
+        },
+        "decision": "PASS",
+        "issues": [
+          {
+            "message": "提供交接入口；不增加词汇内容，适用范围明确。",
+            "blocking": false
+          }
+        ]
+      }
+    ],
+    "sourceChecks": [
+      {
+        "sourceId": "etym",
+        "verdict": "SUPPORTED",
+        "note": "独立检索Etymonline主词条，确认scopo/scopus/skopos与早期行动空间，不主张唯一线性变化。"
+      },
+      {
+        "sourceId": "lex",
+        "verdict": "SUPPORTED",
+        "note": "独立打开Oxford scope_1，核对/skəʊp/、不可数性、范围/机会及Word Origin。"
+      },
+      {
+        "sourceId": "project",
+        "verdict": "SUPPORTED",
+        "note": "独立核对APM范围管理，项目边界及in/out描述支持当前用途。"
+      }
+    ]
+  },
+  {
+    "cardId": "V20261012-016",
+    "reviewer": "five_final_review",
+    "ruleVersion": "whole-card/1",
+    "fingerprint": "ec5d548f648985e4ed1ba0986c9dff4a5635cdd7284d4bda634048d8d463023e",
+    "modules": [
+      {
+        "id": "headword",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "Oxford /əˈkaʊntəbl/与形容词已核；accountable for outcome自然。",
+          "completion": "IPA/词性/搭配齐全，未包含音频。",
+          "readability": "词头及搭配简短；adj.需要基本缩写知识。",
+          "increment": "for搭配支持记忆，完整for/to说明在后文。"
+        },
+        "decision": "PASS",
+        "issues": [
+          {
+            "message": "for搭配支持记忆，完整for/to说明在后文。",
+            "blocking": false
+          }
+        ]
+      },
+      {
+        "id": "currentSense",
+        "scores": {
+          "accuracy": 3,
+          "completion": 3,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "责任及解释义正确；中文“最终结果”比英文行动/结果及本句决定略窄。",
+          "completion": "当前义中英文与词性均有，符合本句责任场景。",
+          "readability": "“作出解释并承担责任”能懂，但不如“说明理由并负责”直接。",
+          "increment": "比大字须对结果负责增加解释义，仍有重复。"
+        },
+        "decision": "PASS",
+        "issues": [
+          {
+            "message": "比大字须对结果负责增加解释义，仍有重复。",
+            "blocking": false
+          }
+        ]
+      },
+      {
+        "id": "directExplanation",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "Oxford明确对决定/行为负责并能解释；桥接未当成必须亲手干活。",
+          "completion": "把抽象问责转换成被问为何这样决定时要能回答。",
+          "readability": "谁需要交代、为何这样决定的问法具体。",
+          "increment": "解释责任的实际表现，和01抓手有部分重合。"
+        },
+        "decision": "PASS",
+        "issues": [
+          {
+            "message": "解释责任的实际表现，和01抓手有部分重合。",
+            "blocking": false
+          }
+        ]
+      },
+      {
+        "id": "etymology",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "Etymonline古法语acontable及account受托财物说明联系已核实。",
+          "completion": "历史、现代交代、本句for/to三层完整，未限于财务。",
+          "readability": "历史段含古法语但解释紧随；后两段较易读。",
+          "increment": "新增可考来历；交代责任及for/to与已有区重复。"
+        },
+        "decision": "PASS",
+        "issues": [
+          {
+            "message": "新增可考来历；交代责任及for/to与已有区重复。",
+            "blocking": false
+          }
+        ]
+      },
+      {
+        "id": "context",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "One person/must/final decision与中译一致，没有擅自指定人名。",
+          "completion": "完整本句及责任人提示齐全。",
+          "readability": "“明确的负责者”简明。",
+          "increment": "将释义落到决定责任，但与直接解释有重合。"
+        },
+        "decision": "PASS",
+        "issues": [
+          {
+            "message": "将释义落到决定责任，但与直接解释有重合。",
+            "blocking": false
+          }
+        ]
+      },
+      {
+        "id": "additionalSenses",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 3,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "Cambridge accountability名词义支持，lemma明确未伪装accountable新义。",
+          "completion": "同族名词作为额外词条展示，不重复当前形容词。",
+          "readability": "中文状态或制度稍抽象，但与英文对应。",
+          "increment": "提供真正不同词形和词性，帮助词族迁移。"
+        },
+        "decision": "PASS",
+        "issues": []
+      },
+      {
+        "id": "examples",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "The director is accountable for quality及“总监须对质量负责”自然准确。",
+          "completion": "主句与质量责任补充句齐全，属既有学习例。",
+          "readability": "短句容易直接理解。",
+          "increment": "由决定换到质量，但模式相同、场景细节有限。"
+        },
+        "decision": "PASS",
+        "issues": [
+          {
+            "message": "由决定换到质量，但模式相同、场景细节有限。",
+            "blocking": false
+          }
+        ]
+      },
+      {
+        "id": "copyPayload",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "冻结负载accountable与【深析】accountable准确。",
+          "completion": "两种静态原型文本完整，未宣称生产级全文复制。",
+          "readability": "输出清晰，但未携带当前语境。",
+          "increment": "有后续深析入口，信息量仍受冻结约定限制。"
+        },
+        "decision": "PASS",
+        "issues": [
+          {
+            "message": "有后续深析入口，信息量仍受冻结约定限制。",
+            "blocking": false
+          }
+        ]
+      }
+    ],
+    "sourceChecks": [
+      {
+        "sourceId": "etym",
+        "verdict": "SUPPORTED",
+        "note": "独立检索Etymonline accountable及关联account段，古法语与受托财物说明联系匹配。"
+      },
+      {
+        "sourceId": "lex",
+        "verdict": "SUPPORTED",
+        "note": "独立打开Oxford accountable，音标、形容词、对行为/决定负责及to/for均可见。"
+      }
+    ]
+  },
+  {
+    "cardId": "V20261012-055",
+    "reviewer": "five_final_review",
+    "ruleVersion": "whole-card/1",
+    "fingerprint": "2ec5762c0fc7368581f5c1eb8e043fbe673182a563589a84ad04f4be9843e2d5",
+    "modules": [
+      {
+        "id": "headword",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "Oxford /prəˈpəʊzl/与名词核实；本句the proposal是可数的具体方案。",
+          "completion": "词头、IPA、当前可数提示与review搭配齐全。",
+          "readability": "“本句可数”比绝对说只能可数更清楚。",
+          "increment": "提供词形读法及review对象，但不含音频。"
+        },
+        "decision": "PASS",
+        "issues": [
+          {
+            "message": "提供词形读法及review对象，但不含音频。",
+            "blocking": false
+          }
+        ]
+      },
+      {
+        "id": "currentSense",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "Collins当前供考虑方案义支持中英文；未把已接受写入定义。",
+          "completion": "当前中英释义、词性完整。",
+          "readability": "“供他人考虑的建议或方案”简洁。",
+          "increment": "比大字提案略具体，但本质仍是同一义的澄清。"
+        },
+        "decision": "PASS",
+        "issues": [
+          {
+            "message": "比大字提案略具体，但本质仍是同一义的澄清。",
+            "blocking": false
+          }
+        ]
+      },
+      {
+        "id": "directExplanation",
+        "scores": {
+          "accuracy": 3,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "教材中方案配理由支撑工作说明，使用“通常”避免强制所有proposal长文。",
+          "completion": "解释为何方案可审阅：说明做什么和为什么。",
+          "readability": "从想法到可讨论内容的过渡自然。",
+          "increment": "有新增用途说明，和03较完整建议对照有交叉。"
+        },
+        "decision": "PASS",
+        "issues": [
+          {
+            "message": "有新增用途说明，和03较完整建议对照有交叉。",
+            "blocking": false
+          }
+        ]
+      },
+      {
+        "id": "etymology",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "Etymonline支持propose+-al及古法语提出联系；未误作希腊词源。",
+          "completion": "构词历史、现代图像、回到review场景齐全。",
+          "readability": "名词后缀和古义解释可跟上，但末段批准提醒又出现。",
+          "increment": "新增历史构词；摆桌上和审阅/批准与前后内容重复。"
+        },
+        "decision": "PASS",
+        "issues": [
+          {
+            "message": "新增历史构词；摆桌上和审阅/批准与前后内容重复。",
+            "blocking": false
+          }
+        ]
+      },
+      {
+        "id": "context",
+        "scores": {
+          "accuracy": 3,
+          "completion": 3,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "原文及中译一致；审阅不等于批准是合理边界，不断言最终结果。",
+          "completion": "本句、时间要求和先记完整。",
+          "readability": "“请在明天讨论前审阅提案”直接。",
+          "increment": "落到具体时间安排；先记的批准提醒与01仍重合。"
+        },
+        "decision": "PASS",
+        "issues": [
+          {
+            "message": "落到具体时间安排；先记的批准提醒与01仍重合。",
+            "blocking": false
+          }
+        ]
+      },
+      {
+        "id": "additionalSenses",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "Collins/Oxford求婚义均可核实，中英转述一致。",
+          "completion": "新增求婚义，按不同sense保留，不把前方当前义再列一遍。",
+          "readability": "请求结婚易懂，无额外术语。",
+          "increment": "明确说明同一词可进入完全不同生活语境。"
+        },
+        "decision": "PASS",
+        "issues": []
+      },
+      {
+        "id": "examples",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "includes a training budget与培训预算译文准确。",
+          "completion": "除主句外有方案内容例句，结构完整。",
+          "readability": "英文短、中文直接。",
+          "increment": "增加includes结构与方案内容，仍是简单替换示例。"
+        },
+        "decision": "PASS",
+        "issues": [
+          {
+            "message": "增加includes结构与方案内容，仍是简单替换示例。",
+            "blocking": false
+          }
+        ]
+      },
+      {
+        "id": "copyPayload",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "冻结负载proposal及【深析】proposal匹配词头。",
+          "completion": "满足原型两种精确负载，不代表生产复制全部内容。",
+          "readability": "输出简短；没有带入本句时间背景。",
+          "increment": "可用于后续查询，但范围依旧是原型词头交接。"
+        },
+        "decision": "PASS",
+        "issues": [
+          {
+            "message": "可用于后续查询，但范围依旧是原型词头交接。",
+            "blocking": false
+          }
+        ]
+      }
+    ],
+    "sourceChecks": [
+      {
+        "sourceId": "etym",
+        "verdict": "SUPPORTED",
+        "note": "独立检索Etymonline proposal，propose加名词后缀-al及提出供考虑路径匹配。"
+      },
+      {
+        "sourceId": "lex",
+        "verdict": "SUPPORTED",
+        "note": "独立打开Oxford proposal，音标、可数/不可数说明及考虑/批准/拒绝搭配匹配；review区别是教学分析。"
+      }
+    ]
+  },
+  {
+    "cardId": "V20261012-067",
+    "reviewer": "five_final_review",
+    "ruleVersion": "whole-card/1",
+    "fingerprint": "6f7e64e8b469a7d540f73debc294cd41f9c268081b36743791d52b5d3e560473",
+    "modules": [
+      {
+        "id": "headword",
+        "scores": {
+          "accuracy": 3,
+          "completion": 3,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "work /wɜːk/、around /əˈraʊnd/分别核实；合写明确非整短语固定句重音。",
+          "completion": "组成词宽式读音、短语词性、constraint搭配都有。",
+          "readability": "连续IPA较长，书面备注解释组合方式但无音频。",
+          "increment": "补齐发音核验；搭配与本句基本相同。"
+        },
+        "decision": "PASS",
+        "issues": [
+          {
+            "message": "补齐发音核验；搭配与本句基本相同。",
+            "blocking": false
+          }
+        ]
+      },
+      {
+        "id": "currentSense",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "Oxford整体避开问题而不消除义匹配，work基础义明确标组词联系。",
+          "completion": "整体当前义与适用基础词联系均保留，未机械逐词翻译around。",
+          "readability": "分两块容易对照，但中文完整定义较长。",
+          "increment": "词组义及work区别有用，基础义不是新的语境义。"
+        },
+        "decision": "PASS",
+        "issues": [
+          {
+            "message": "词组义及work区别有用，基础义不是新的语境义。",
+            "blocking": false
+          }
+        ]
+      },
+      {
+        "id": "directExplanation",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "分文件不改变单文件限制，是正确且明确的教学场景。",
+          "completion": "用办法改变/限制仍在说明核心区别。",
+          "readability": "文件太大分开传具体直观。",
+          "increment": "比定义解释机制，但05又使用文件例子。"
+        },
+        "decision": "PASS",
+        "issues": [
+          {
+            "message": "比定义解释机制，但05又使用文件例子。",
+            "blocking": false
+          }
+        ]
+      },
+      {
+        "id": "etymology",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "Etymonline work古英语来源、Oxford around绕到另一侧和problem例已独立核验。",
+          "completion": "已考的单词历史与未知整短语年代分开，现代联系和本句条件齐全。",
+          "readability": "说明易懂，历史未知边界提醒略多。",
+          "increment": "新增work历史与around联系，回到本句部分重复02。"
+        },
+        "decision": "PASS",
+        "issues": [
+          {
+            "message": "新增work历史与around联系，回到本句部分重复02。",
+            "blocking": false
+          }
+        ]
+      },
+      {
+        "id": "context",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "without changing scope条件中译完整，未将变通译成彻底解决。",
+          "completion": "英文、中译及不改范围提示齐全。",
+          "readability": "“寻找不改范围的办法”直接。",
+          "increment": "强调具体约束，和直接解释有区别但与02复现。"
+        },
+        "decision": "PASS",
+        "issues": [
+          {
+            "message": "强调具体约束，和直接解释有区别但与02复现。",
+            "blocking": false
+          }
+        ]
+      },
+      {
+        "id": "additionalSenses",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "Oxford workaround名词义核实，未把词形当动词拆开。",
+          "completion": "额外名词有lemma/POS和不同sense，无前区重复。",
+          "readability": "变通办法的中文自然。",
+          "increment": "让读者把动作转成办法名词，新增词性运用。"
+        },
+        "decision": "PASS",
+        "issues": []
+      },
+      {
+        "id": "examples",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "worked around storage limitation准确；中译改绕开，纠正“克服”可能误示消除。",
+          "completion": "主句加存储限制例句完整，英文沿用可核对。",
+          "readability": "句子短，中文补工作继续利于理解。",
+          "increment": "增加过去时和不同限制，但仍同一基本用法。"
+        },
+        "decision": "PASS",
+        "issues": [
+          {
+            "message": "增加过去时和不同限制，但仍同一基本用法。",
+            "blocking": false
+          }
+        ]
+      },
+      {
+        "id": "copyPayload",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "两负载为work around及【深析】work around，保留空格。",
+          "completion": "覆盖冻结原型两种文本，未混入其他词卡。",
+          "readability": "输出可辨但不包含限制条件。",
+          "increment": "可交接词组查询，原型不承担生产语境全文负载。"
+        },
+        "decision": "PASS",
+        "issues": [
+          {
+            "message": "可交接词组查询，原型不承担生产语境全文负载。",
+            "blocking": false
+          }
+        ]
+      }
+    ],
+    "sourceChecks": [
+      {
+        "sourceId": "etym",
+        "verdict": "SUPPORTED",
+        "note": "独立检索Etymonline work，古英语动词形成路径支持；作者未宣称该页证明整体短语年代。"
+      },
+      {
+        "sourceId": "lex",
+        "verdict": "SUPPORTED",
+        "note": "已独立核验Oxford work-around整体义，变通未解决边界匹配。"
+      },
+      {
+        "sourceId": "word",
+        "verdict": "SUPPORTED",
+        "note": "独立打开Oxford work_1，英式/wɜːk/及动词工作义可见。"
+      },
+      {
+        "sourceId": "particle",
+        "verdict": "SUPPORTED",
+        "note": "独立打开Oxford around_1，/əˈraʊnd/及第2义way around problem例支持现代联系，非历史路线证明。"
+      }
+    ]
+  },
+  {
+    "cardId": "V20261012-069",
+    "reviewer": "five_final_review",
+    "ruleVersion": "whole-card/1",
+    "fingerprint": "eb9ed96ecf44859957076bd94e53454db760aa6718d208a7302b6bcbfb5402eb",
+    "modules": [
+      {
+        "id": "headword",
+        "scores": {
+          "accuracy": 3,
+          "completion": 3,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "Oxford /weɪ/及up /ʌp/核实，未伪造固定短语重音。",
+          "completion": "组成词宽式IPA、短语词性和options搭配齐全。",
+          "readability": "两词IPA简短；组成方式说明位于证据中。",
+          "increment": "补齐读音出处，搭配仍与原句相同。"
+        },
+        "decision": "PASS",
+        "issues": [
+          {
+            "message": "补齐读音出处，搭配仍与原句相同。",
+            "blocking": false
+          }
+        ]
+      },
+      {
+        "id": "currentSense",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "Oxford weigh第3义支持当前权衡，up不译向上，基础weigh义对应。",
+          "completion": "整词组及weigh当前相关义都有，来源清楚。",
+          "readability": "中英文清楚，但两个释义接近会产生轻度重复感。",
+          "increment": "保留整体/组成联系，增量不如明确不同义项。"
+        },
+        "decision": "PASS",
+        "issues": [
+          {
+            "message": "保留整体/组成联系，增量不如明确不同义项。",
+            "blocking": false
+          }
+        ]
+      },
+      {
+        "id": "directExplanation",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "低价慢交期与高价快交期是合理自编利弊对照。",
+          "completion": "解释不止看一遍，而是比较所付与所得。",
+          "readability": "二选一情境很容易理解。",
+          "increment": "增加取舍判断；03再次出现同一价格交期模式。"
+        },
+        "decision": "PASS",
+        "issues": [
+          {
+            "message": "增加取舍判断；03再次出现同一价格交期模式。",
+            "blocking": false
+          }
+        ]
+      },
+      {
+        "id": "etymology",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "Etymonline确认古英语wegan和14世纪考虑义，正文不偷推weigh up年代。",
+          "completion": "历史/现代权重联系/当前比较次序三层完整。",
+          "readability": "古词和年代后有白话；三段说明仍较密。",
+          "increment": "新增可考语义历史，against迁移在05已有。"
+        },
+        "decision": "PASS",
+        "issues": [
+          {
+            "message": "新增可考语义历史，against迁移在05已有。",
+            "blocking": false
+          }
+        ]
+      },
+      {
+        "id": "context",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "before choosing supplier与中译先权衡后选择准确。",
+          "completion": "完整原句、中译、先记齐全。",
+          "readability": "“选择之前先仔细比较”短而易读。",
+          "increment": "强调语境步骤，和02/04有必要复现。"
+        },
+        "decision": "PASS",
+        "issues": [
+          {
+            "message": "强调语境步骤，和02/04有必要复现。",
+            "blocking": false
+          }
+        ]
+      },
+      {
+        "id": "additionalSenses",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 3,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "Oxford称重及判断某人两条义分别核实，未混入当前选项权衡。",
+          "completion": "两个不同额外义项有独立lemma与释义，覆盖词与短语变化。",
+          "readability": "说明基本清楚，但读者需留意somebody而非options。",
+          "increment": "由决策扩到实物称重和评价人，提供新边界。"
+        },
+        "decision": "PASS",
+        "issues": []
+      },
+      {
+        "id": "examples",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "weigh up benefits and risks自然，中译一致。",
+          "completion": "主句与简短祈使补充句完整。",
+          "readability": "短句可直接复用。",
+          "increment": "与后05讨论收益风险重合，增量中等。"
+        },
+        "decision": "PASS",
+        "issues": [
+          {
+            "message": "与后05讨论收益风险重合，增量中等。",
+            "blocking": false
+          }
+        ]
+      },
+      {
+        "id": "copyPayload",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "两负载weigh up及【深析】weigh up保留词组完整。",
+          "completion": "符合冻结原型精确约定，生产级全文复制另验收。",
+          "readability": "输出易识别，没有当前supplier语境。",
+          "increment": "提供继续学习入口，但不增加分析内容。"
+        },
+        "decision": "PASS",
+        "issues": [
+          {
+            "message": "提供继续学习入口，但不增加分析内容。",
+            "blocking": false
+          }
+        ]
+      }
+    ],
+    "sourceChecks": [
+      {
+        "sourceId": "etym",
+        "verdict": "SUPPORTED",
+        "note": "独立检索Etymonline weigh，古英语wegan及14世纪中期思量义均可见，未见短语首见年代而正文也未宣称。"
+      },
+      {
+        "sourceId": "lex",
+        "verdict": "SUPPORTED",
+        "note": "独立打开Oxford weigh，/weɪ/、称重/考虑及against结构核实。"
+      },
+      {
+        "sourceId": "particle",
+        "verdict": "SUPPORTED",
+        "note": "独立打开Oxford up_1，/ʌp/及查动词条目理解短语的说明可见。"
+      }
+    ]
+  }
+]

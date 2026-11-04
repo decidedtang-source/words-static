@@ -1,0 +1,2919 @@
+[
+  {
+    "cardId": "V20261012-055",
+    "reviewer": "whole50_reviewer_group3",
+    "reviewedAt": "2026-11-04",
+    "ruleVersion": "whole-card/1",
+    "fingerprint": "e57fd1256143ca1a5c031fcbaa20f012deddabf97cb2ad20ec99f5b32ae128d3",
+    "sourceChecks": [
+      {
+        "sourceId": "etym",
+        "verdict": "SUPPORTED",
+        "note": "proposal=propose+-al，链接propose支持提出的词源"
+      },
+      {
+        "sourceId": "lex",
+        "verdict": "SUPPORTED",
+        "note": "独立打开https://www.oxfordlearnersdictionaries.com/definition/english/proposal核对相应词性/音标/义项；Collins COBUILD分别列方案、求婚；Oxford验证IPA，Cambridge教材支持建议加理由；学习例句为编写内容而非来源逐字引文。"
+      }
+    ],
+    "modules": [
+      {
+        "id": "headword",
+        "scores": {
+          "accuracy": 4,
+          "completion": 2,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "已核对Oxford英式 prəˈpəʊzl 与n.（本句可数）；短语音标为组成词宽式而非固定重音。",
+          "completion": "sourceLimitations仍写原卡IPA未核，与本页英式核验说明矛盾，须清除过时声明。",
+          "readability": "短字段便于查读，review a proposal没有堆叠术语。",
+          "increment": "在词义之外提供读音和可直接使用的搭配，短字段无需扩写。"
+        },
+        "decision": "REVISE",
+        "issues": [
+          {
+            "message": "清除与新增词源及IPA核查相矛盾的旧说明。",
+            "blocking": true
+          }
+        ]
+      },
+      {
+        "id": "currentSense",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "Collins COBUILD分别列方案、求婚；Oxford验证IPA，Cambridge教材支持建议加理由。当前中英定义对应提案；建议方案。",
+          "completion": "1项当前义/组成词联系保留，整体义未由小品词机械推出。",
+          "readability": "“供他人考虑的建议或方案”先给中文，英文用于核对。",
+          "increment": "当前义为词典筛选摘要，较大字gloss有所补充；不要求覆盖所有字典义。"
+        },
+        "decision": "PASS",
+        "issues": []
+      },
+      {
+        "id": "directExplanation",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "“在工作讨论里，proposal 是拿出来请别人考虑的方案。它通常不只说“我有个想法”，还会说明准备做什么、为什么值得做，让别人有内容可以审阅和讨论。”解释当前用法，未仅重抄定义。",
+          "completion": "以本句对象或具体小例说明怎么理解；没有替作者例句编造真实业务。",
+          "readability": "围绕Please review the proposal before tomorrow's解释，中文连续可读。",
+          "increment": "相对释义补足场景；与04仍有少量重复，后续可压缩。"
+        },
+        "decision": "PASS",
+        "issues": [
+          {
+            "message": "相对释义补足场景；与04仍有少量重复，后续可压缩。",
+            "blocking": false
+          }
+        ]
+      },
+      {
+        "id": "etymology",
+        "scores": {
+          "accuracy": 4,
+          "completion": 2,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "proposal=propose+-al，链接propose支持提出的词源",
+          "completion": "sourceLimitations仍说不新增词源，与实际三段词源矛盾。",
+          "readability": "proposal 由 propose 加名词后缀 -al 构成。propose 的来历与“向前放、提出”有关，英语中形成了把计划拿出来供人考虑的用法。这里的 -；界限说明较密，可减少重复不造词源的提醒。",
+          "increment": "有可核实历史新增，但部分母词历史距工作义较远，现代联系承担记忆帮助。"
+        },
+        "decision": "REVISE",
+        "issues": [
+          {
+            "message": "清除与新增词源及IPA核查相矛盾的旧说明。",
+            "blocking": true
+          }
+        ]
+      },
+      {
+        "id": "context",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "原句“Please review the proposal before tomorrow's discussion.”与中文“请在明天讨论前审阅提案。”逐项对应。",
+          "completion": "英文、译文和takeaway俱全，保留既有学习例句身份。",
+          "readability": "提案还在讨论阶段，审阅不等于批准。 简短地标明当前句的作用。",
+          "increment": "让词典义落到一条完整句子，不把自编情境伪装成用户事件。"
+        },
+        "decision": "PASS",
+        "issues": []
+      },
+      {
+        "id": "additionalSenses",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "proposal 名词: 求婚；提出结婚的请求；已核查对应词典条目，确为不同义或明确词族。",
+          "completion": "additionalEntries排除了所有当前sense ID；非全词典声明保留。",
+          "readability": "lemma与词性同时出现，可看出扩展的是同词不同义还是组成词。",
+          "increment": "新增proposal 名词: 求婚；提出结婚的请求，不以当前义换一句话凑数。"
+        },
+        "decision": "PASS",
+        "issues": []
+      },
+      {
+        "id": "examples",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "附加句“The proposal includes a training budget.”和“提案包含培训预算。”自然对应；用法与本卡已展示词义吻合。",
+          "completion": "两条学习例句齐全；主例句在页面前区，附加句另显示。",
+          "readability": "例句简短；可继续增加与主句反差更强的对照，但不影响理解。",
+          "increment": "追加句提供另一使用对象；多数同义迁移而非全新场景，因此不满分。"
+        },
+        "decision": "PASS",
+        "issues": [
+          {
+            "message": "追加句提供另一使用对象；多数同义迁移而非全新场景，因此不满分。",
+            "blocking": false
+          }
+        ]
+      },
+      {
+        "id": "copyPayload",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "冻结契约负载为 proposal 与 【深析】proposal；term无附加指令或意外空白。",
+          "completion": "供上下四按钮共享，内容审核只确认负载，不代替浏览器成功/拒绝测试。",
+          "readability": "短词头及深析前缀能直接辨认目标词。",
+          "increment": "准确沿用既定复制能力，不擅自换成整页正文；UI功能验收另由集成测试执行。"
+        },
+        "decision": "PASS",
+        "issues": []
+      }
+    ]
+  },
+  {
+    "cardId": "V20261012-056",
+    "reviewer": "whole50_reviewer_group3",
+    "reviewedAt": "2026-11-04",
+    "ruleVersion": "whole-card/1",
+    "fingerprint": "465da2dfe0372f2fd72b296b92f7285199e20f32187907e35d7b639e0c52dee0",
+    "sourceChecks": [
+      {
+        "sourceId": "lex",
+        "verdict": "SUPPORTED",
+        "note": "独立打开https://www.oxfordlearnersdictionaries.com/definition/english/alternative_1核对相应词性/音标/义项；Oxford alternative_1可数选项；alternative_2第2义是非传统方式；学习例句为编写内容而非来源逐字引文。"
+      },
+      {
+        "sourceId": "extra",
+        "verdict": "SUPPORTED",
+        "note": "独立打开https://www.oxfordlearnersdictionaries.com/definition/english/alternative_2核对相应词性/音标/义项；Oxford alternative_1可数选项；alternative_2第2义是非传统方式；学习例句为编写内容而非来源逐字引文。"
+      },
+      {
+        "sourceId": "etym",
+        "verdict": "SUPPORTED",
+        "note": "alternative与alternare、alter相关，历史上先二选一，现代不硬限二选一"
+      }
+    ],
+    "modules": [
+      {
+        "id": "headword",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "已核对Oxford英式 ɔːlˈtɜːnətɪv 与n.；短语音标为组成词宽式而非固定重音。",
+          "completion": "词头、读音、词性及 consider an alternative 搭配齐全。",
+          "readability": "短字段便于查读，consider an alternative没有堆叠术语。",
+          "increment": "在词义之外提供读音和可直接使用的搭配，短字段无需扩写。"
+        },
+        "decision": "PASS",
+        "issues": []
+      },
+      {
+        "id": "currentSense",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "Oxford alternative_1可数选项；alternative_2第2义是非传统方式。当前中英定义对应替代方案。",
+          "completion": "1项当前义/组成词联系保留，整体义未由小品词机械推出。",
+          "readability": "“可替代目前选择的另一个选项”先给中文，英文用于核对。",
+          "increment": "当前义为词典筛选摘要，较大字gloss有所补充；不要求覆盖所有字典义。"
+        },
+        "decision": "PASS",
+        "issues": []
+      },
+      {
+        "id": "directExplanation",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "“当前安排太紧时，alternative 是另一个可考虑的选择。比如原日期做不到，可以考虑别的日期，也可以另拟做法；这个词没有替你决定具体换哪一项。”解释当前用法，未仅重抄定义。",
+          "completion": "以本句对象或具体小例说明怎么理解；没有替作者例句编造真实业务。",
+          "readability": "围绕We should consider an alternative if解释，中文连续可读。",
+          "increment": "相对释义补足场景；与04仍有少量重复，后续可压缩。"
+        },
+        "decision": "PASS",
+        "issues": [
+          {
+            "message": "相对释义补足场景；与04仍有少量重复，后续可压缩。",
+            "blocking": false
+          }
+        ]
+      },
+      {
+        "id": "etymology",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "alternative与alternare、alter相关，历史上先二选一，现代不硬限二选一",
+          "completion": "历史、现代联系、回到本句三段及各自sourceId齐全；未把记忆图像当作历史事实。",
+          "readability": "alternative 经中世纪拉丁语而来，相关的 alter 表示“另一个”，alternare 涉及交替。英语后来用名词 alternative 谈可选择的；界限说明较密，可减少重复不造词源的提醒。",
+          "increment": "有可核实历史新增，但部分母词历史距工作义较远，现代联系承担记忆帮助。"
+        },
+        "decision": "PASS",
+        "issues": [
+          {
+            "message": "有可核实历史新增，但部分母词历史距工作义较远，现代联系承担记忆帮助。",
+            "blocking": false
+          }
+        ]
+      },
+      {
+        "id": "context",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "原句“We should consider an alternative if the date is too tight.”与中文“如果日期过紧，我们应考虑替代方案。”逐项对应。",
+          "completion": "英文、译文和takeaway俱全，保留既有学习例句身份。",
+          "readability": "日期太紧时，应考虑另一个方案。 简短地标明当前句的作用。",
+          "increment": "让词典义落到一条完整句子，不把自编情境伪装成用户事件。"
+        },
+        "decision": "PASS",
+        "issues": []
+      },
+      {
+        "id": "additionalSenses",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "alternative adj.: 非传统的；不同于通常做法的；已核查对应词典条目，确为不同义或明确词族。",
+          "completion": "additionalEntries排除了所有当前sense ID；非全词典声明保留。",
+          "readability": "lemma与词性同时出现，可看出扩展的是同词不同义还是组成词。",
+          "increment": "新增alternative adj.: 非传统的；不同于通常做法的，不以当前义换一句话凑数。"
+        },
+        "decision": "PASS",
+        "issues": []
+      },
+      {
+        "id": "examples",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "附加句“We need a cheaper alternative.”和“我们需要一个成本更低的替代方案。”自然对应；用法与本卡已展示词义吻合。",
+          "completion": "两条学习例句齐全；主例句在页面前区，附加句另显示。",
+          "readability": "例句简短；可继续增加与主句反差更强的对照，但不影响理解。",
+          "increment": "追加句提供另一使用对象；多数同义迁移而非全新场景，因此不满分。"
+        },
+        "decision": "PASS",
+        "issues": [
+          {
+            "message": "追加句提供另一使用对象；多数同义迁移而非全新场景，因此不满分。",
+            "blocking": false
+          }
+        ]
+      },
+      {
+        "id": "copyPayload",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "冻结契约负载为 alternative 与 【深析】alternative；term无附加指令或意外空白。",
+          "completion": "供上下四按钮共享，内容审核只确认负载，不代替浏览器成功/拒绝测试。",
+          "readability": "短词头及深析前缀能直接辨认目标词。",
+          "increment": "准确沿用既定复制能力，不擅自换成整页正文；UI功能验收另由集成测试执行。"
+        },
+        "decision": "PASS",
+        "issues": []
+      }
+    ]
+  },
+  {
+    "cardId": "V20261012-057",
+    "reviewer": "whole50_reviewer_group3",
+    "reviewedAt": "2026-11-04",
+    "ruleVersion": "whole-card/1",
+    "fingerprint": "115750f624065fbac79223c55265372e6b4b5be795f1bd5dc41f0c202eea2dc6",
+    "sourceChecks": [
+      {
+        "sourceId": "lex",
+        "verdict": "SUPPORTED",
+        "note": "独立打开https://www.oxfordlearnersdictionaries.com/definition/english/compromise_1核对相应词性/音标/义项；Oxford compromise_1第1义双方让步；compromise_2列危及/损害；学习例句为编写内容而非来源逐字引文。"
+      },
+      {
+        "sourceId": "extra",
+        "verdict": "SUPPORTED",
+        "note": "独立打开https://www.oxfordlearnersdictionaries.com/definition/english/compromise_2核对相应词性/音标/义项；Oxford compromise_1第1义双方让步；compromise_2列危及/损害；学习例句为编写内容而非来源逐字引文。"
+      },
+      {
+        "sourceId": "etym",
+        "verdict": "SUPPORTED",
+        "note": "compromise由共同遵守仲裁约定到让步达成结果，年代未夸大"
+      }
+    ],
+    "modules": [
+      {
+        "id": "headword",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "已核对Oxford英式 ˈkɒmprəmaɪz 与n.；短语音标为组成词宽式而非固定重音。",
+          "completion": "词头、读音、词性及 reach a compromise 搭配齐全。",
+          "readability": "短字段便于查读，reach a compromise没有堆叠术语。",
+          "increment": "在词义之外提供读音和可直接使用的搭配，短字段无需扩写。"
+        },
+        "decision": "PASS",
+        "issues": []
+      },
+      {
+        "id": "currentSense",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "Oxford compromise_1第1义双方让步；compromise_2列危及/损害。当前中英定义对应妥协；折中方案。",
+          "completion": "1项当前义/组成词联系保留，整体义未由小品词机械推出。",
+          "readability": "“各方作出部分让步后达成的安排”先给中文，英文用于核对。",
+          "increment": "当前义为词典筛选摘要，较大字gloss有所补充；不要求覆盖所有字典义。"
+        },
+        "decision": "PASS",
+        "issues": []
+      },
+      {
+        "id": "directExplanation",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "“本句说双方已经谈成一个折中安排。比如一方想周一评审，另一方想周五，最后接受周三；重点是各自调整要求后取得一致，而不是争论谁完全获胜。”解释当前用法，未仅重抄定义。",
+          "completion": "以本句对象或具体小例说明怎么理解；没有替作者例句编造真实业务。",
+          "readability": "围绕We reached a compromise on the解释，中文连续可读。",
+          "increment": "相对释义补足场景；与04仍有少量重复，后续可压缩。"
+        },
+        "decision": "PASS",
+        "issues": [
+          {
+            "message": "相对释义补足场景；与04仍有少量重复，后续可压缩。",
+            "blocking": false
+          }
+        ]
+      },
+      {
+        "id": "etymology",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "compromise由共同遵守仲裁约定到让步达成结果，年代未夸大",
+          "completion": "历史、现代联系、回到本句三段及各自sourceId齐全；未把记忆图像当作历史事实。",
+          "readability": "compromise 早期指双方共同承诺遵守仲裁者的决定，来历与拉丁语“共同作出承诺”有关。后来它也指双方让步后达成的和解及其结果，不只是某一方单独退让。；界限说明较密，可减少重复不造词源的提醒。",
+          "increment": "有可核实历史新增，但部分母词历史距工作义较远，现代联系承担记忆帮助。"
+        },
+        "decision": "PASS",
+        "issues": [
+          {
+            "message": "有可核实历史新增，但部分母词历史距工作义较远，现代联系承担记忆帮助。",
+            "blocking": false
+          }
+        ]
+      },
+      {
+        "id": "context",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "原句“We reached a compromise on the review schedule.”与中文“我们就评审时间表达成了折中方案。”逐项对应。",
+          "completion": "英文、译文和takeaway俱全，保留既有学习例句身份。",
+          "readability": "双方已就评审排期达成折中安排。 简短地标明当前句的作用。",
+          "increment": "让词典义落到一条完整句子，不把自编情境伪装成用户事件。"
+        },
+        "decision": "PASS",
+        "issues": []
+      },
+      {
+        "id": "additionalSenses",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "compromise v.: 危及；损害；已核查对应词典条目，确为不同义或明确词族。",
+          "completion": "additionalEntries排除了所有当前sense ID；非全词典声明保留。",
+          "readability": "lemma与词性同时出现，可看出扩展的是同词不同义还是组成词。",
+          "increment": "新增compromise v.: 危及；损害，不以当前义换一句话凑数。"
+        },
+        "decision": "PASS",
+        "issues": []
+      },
+      {
+        "id": "examples",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "附加句“The compromise satisfied both departments.”和“折中方案让两个部门都满意。”自然对应；用法与本卡已展示词义吻合。",
+          "completion": "两条学习例句齐全；主例句在页面前区，附加句另显示。",
+          "readability": "例句简短；可继续增加与主句反差更强的对照，但不影响理解。",
+          "increment": "追加句提供另一使用对象；多数同义迁移而非全新场景，因此不满分。"
+        },
+        "decision": "PASS",
+        "issues": [
+          {
+            "message": "追加句提供另一使用对象；多数同义迁移而非全新场景，因此不满分。",
+            "blocking": false
+          }
+        ]
+      },
+      {
+        "id": "copyPayload",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "冻结契约负载为 compromise 与 【深析】compromise；term无附加指令或意外空白。",
+          "completion": "供上下四按钮共享，内容审核只确认负载，不代替浏览器成功/拒绝测试。",
+          "readability": "短词头及深析前缀能直接辨认目标词。",
+          "increment": "准确沿用既定复制能力，不擅自换成整页正文；UI功能验收另由集成测试执行。"
+        },
+        "decision": "PASS",
+        "issues": []
+      }
+    ]
+  },
+  {
+    "cardId": "V20261012-058",
+    "reviewer": "whole50_reviewer_group3",
+    "reviewedAt": "2026-11-04",
+    "ruleVersion": "whole-card/1",
+    "fingerprint": "5923ee245400bdf0104c6f608acaff474ad10952316da6b9cb7c27c60c21ff21",
+    "sourceChecks": [
+      {
+        "sourceId": "lex",
+        "verdict": "SUPPORTED",
+        "note": "独立打开https://www.oxfordlearnersdictionaries.com/definition/english/negotiate核对相应词性/音标/义项；Oxford negotiate有协商与设法通过障碍义；may非已达成；学习例句为编写内容而非来源逐字引文。"
+      },
+      {
+        "sourceId": "etym",
+        "verdict": "SUPPORTED",
+        "note": "negotiate可由negotiation逆构或拉丁语而来，正文只说有关避免唯一链"
+      }
+    ],
+    "modules": [
+      {
+        "id": "headword",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "已核对Oxford英式 nɪˈɡəʊʃieɪt 与v.；短语音标为组成词宽式而非固定重音。",
+          "completion": "词头、读音、词性及 negotiate a deadline 搭配齐全。",
+          "readability": "短字段便于查读，negotiate a deadline没有堆叠术语。",
+          "increment": "在词义之外提供读音和可直接使用的搭配，短字段无需扩写。"
+        },
+        "decision": "PASS",
+        "issues": []
+      },
+      {
+        "id": "currentSense",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "Oxford negotiate有协商与设法通过障碍义；may非已达成。当前中英定义对应协商；谈判。",
+          "completion": "1项当前义/组成词联系保留，整体义未由小品词机械推出。",
+          "readability": "“与另一方讨论条件以争取达成协议”先给中文，英文用于核对。",
+          "increment": "当前义为词典筛选摘要，较大字gloss有所补充；不要求覆盖所有字典义。"
+        },
+        "decision": "PASS",
+        "issues": []
+      },
+      {
+        "id": "directExplanation",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "“negotiate a deadline 是把截止时间拿来协商，争取一个双方可接受的安排。你可以说明现日期哪里不现实，再讨论能否延后或调整条件；它比单纯告知日期多了协商这”解释当前用法，未仅重抄定义。",
+          "completion": "以本句对象或具体小例说明怎么理解；没有替作者例句编造真实业务。",
+          "readability": "围绕We may need to negotiate a解释，中文连续可读。",
+          "increment": "相对释义补足场景；与04仍有少量重复，后续可压缩。"
+        },
+        "decision": "PASS",
+        "issues": [
+          {
+            "message": "相对释义补足场景；与04仍有少量重复，后续可压缩。",
+            "blocking": false
+          }
+        ]
+      },
+      {
+        "id": "etymology",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "negotiate可由negotiation逆构或拉丁语而来，正文只说有关避免唯一链",
+          "completion": "历史、现代联系、回到本句三段及各自sourceId齐全；未把记忆图像当作历史事实。",
+          "readability": "negotiate 的来历与拉丁语 negotiari“处理事务、做生意”有关；更早的 negotium 是事务，字面构成为“非闲暇”。这说明历史背景，不意味着；界限说明较密，可减少重复不造词源的提醒。",
+          "increment": "有可核实历史新增，但部分母词历史距工作义较远，现代联系承担记忆帮助。"
+        },
+        "decision": "PASS",
+        "issues": [
+          {
+            "message": "有可核实历史新增，但部分母词历史距工作义较远，现代联系承担记忆帮助。",
+            "blocking": false
+          }
+        ]
+      },
+      {
+        "id": "context",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "原句“We may need to negotiate a more realistic deadline.”与中文“我们可能需要协商更实际的截止期限。”逐项对应。",
+          "completion": "英文、译文和takeaway俱全，保留既有学习例句身份。",
+          "readability": "可能需要通过协商争取更实际的期限。 简短地标明当前句的作用。",
+          "increment": "让词典义落到一条完整句子，不把自编情境伪装成用户事件。"
+        },
+        "decision": "PASS",
+        "issues": []
+      },
+      {
+        "id": "additionalSenses",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "negotiate v.: 设法通过困难路段或障碍；已核查对应词典条目，确为不同义或明确词族。",
+          "completion": "additionalEntries排除了所有当前sense ID；非全词典声明保留。",
+          "readability": "lemma与词性同时出现，可看出扩展的是同词不同义还是组成词。",
+          "increment": "新增negotiate v.: 设法通过困难路段或障碍，不以当前义换一句话凑数。"
+        },
+        "decision": "PASS",
+        "issues": []
+      },
+      {
+        "id": "examples",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "附加句“They negotiated a longer warranty.”和“他们谈妥了更长的保修期。”自然对应；用法与本卡已展示词义吻合。",
+          "completion": "两条学习例句齐全；主例句在页面前区，附加句另显示。",
+          "readability": "例句简短；可继续增加与主句反差更强的对照，但不影响理解。",
+          "increment": "追加句提供另一使用对象；多数同义迁移而非全新场景，因此不满分。"
+        },
+        "decision": "PASS",
+        "issues": [
+          {
+            "message": "追加句提供另一使用对象；多数同义迁移而非全新场景，因此不满分。",
+            "blocking": false
+          }
+        ]
+      },
+      {
+        "id": "copyPayload",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "冻结契约负载为 negotiate 与 【深析】negotiate；term无附加指令或意外空白。",
+          "completion": "供上下四按钮共享，内容审核只确认负载，不代替浏览器成功/拒绝测试。",
+          "readability": "短词头及深析前缀能直接辨认目标词。",
+          "increment": "准确沿用既定复制能力，不擅自换成整页正文；UI功能验收另由集成测试执行。"
+        },
+        "decision": "PASS",
+        "issues": []
+      }
+    ]
+  },
+  {
+    "cardId": "V20261012-059",
+    "reviewer": "whole50_reviewer_group3",
+    "reviewedAt": "2026-11-04",
+    "ruleVersion": "whole-card/1",
+    "fingerprint": "2ae4c5bb720622143112692a16c3fc9c4fd36008ffee2d25c08b55ba3548fe15",
+    "sourceChecks": [
+      {
+        "sourceId": "lex",
+        "verdict": "SUPPORTED",
+        "note": "独立打开https://www.oxfordlearnersdictionaries.com/definition/english/conclude核对相应词性/音标/义项；Oxford conclude既可接名词活动表结束，也可接something/that表推断；学习例句为编写内容而非来源逐字引文。"
+      },
+      {
+        "sourceId": "etym",
+        "verdict": "SUPPORTED",
+        "note": "conclude拉丁语关闭，晚14世纪已有结束及推断义"
+      }
+    ],
+    "modules": [
+      {
+        "id": "headword",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "已核对Oxford英式 kənˈkluːd 与v.；短语音标为组成词宽式而非固定重音。",
+          "completion": "词头、读音、词性及 conclude a meeting 搭配齐全。",
+          "readability": "短字段便于查读，conclude a meeting没有堆叠术语。",
+          "increment": "在词义之外提供读音和可直接使用的搭配，短字段无需扩写。"
+        },
+        "decision": "PASS",
+        "issues": []
+      },
+      {
+        "id": "currentSense",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "Oxford conclude既可接名词活动表结束，也可接something/that表推断。当前中英定义对应结束；得出结论。",
+          "completion": "1项当前义/组成词联系保留，整体义未由小品词机械推出。",
+          "readability": "“使会议、讲话或讨论结束”先给中文，英文用于核对。",
+          "increment": "当前义为词典筛选摘要，较大字gloss有所补充；不要求覆盖所有字典义。"
+        },
+        "decision": "PASS",
+        "issues": []
+      },
+      {
+        "id": "directExplanation",
+        "scores": {
+          "accuracy": 2,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "没有that不等于没有推断义，conclude something就是反例。",
+          "completion": "以本句对象或具体小例说明怎么理解；没有替作者例句编造真实业务。",
+          "readability": "围绕Let's conclude the meeting by confirming解释，中文连续可读。",
+          "increment": "相对释义补足场景；与04仍有少量重复，后续可压缩。"
+        },
+        "decision": "REVISE",
+        "issues": [
+          {
+            "message": "改用meeting宾语和by结构判定义项，不能以无that判断。",
+            "blocking": true
+          }
+        ]
+      },
+      {
+        "id": "etymology",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "conclude拉丁语关闭，晚14世纪已有结束及推断义",
+          "completion": "历史、现代联系、回到本句三段及各自sourceId齐全；未把记忆图像当作历史事实。",
+          "readability": "conclude 来自拉丁语 concludere，与“关闭、围住”有关。英语很早就有结束以及经推理得出结论的用法；两种现代义都存在，不能见到 conclude；界限说明较密，可减少重复不造词源的提醒。",
+          "increment": "有可核实历史新增，但部分母词历史距工作义较远，现代联系承担记忆帮助。"
+        },
+        "decision": "PASS",
+        "issues": [
+          {
+            "message": "有可核实历史新增，但部分母词历史距工作义较远，现代联系承担记忆帮助。",
+            "blocking": false
+          }
+        ]
+      },
+      {
+        "id": "context",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "原句“Let's conclude the meeting by confirming the next steps.”与中文“我们以确认后续步骤来结束会议吧。”逐项对应。",
+          "completion": "英文、译文和takeaway俱全，保留既有学习例句身份。",
+          "readability": "以确认后续步骤作为结束会议的最后动作。 简短地标明当前句的作用。",
+          "increment": "让词典义落到一条完整句子，不把自编情境伪装成用户事件。"
+        },
+        "decision": "PASS",
+        "issues": []
+      },
+      {
+        "id": "additionalSenses",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "conclude v.: 根据证据得出结论；已核查对应词典条目，确为不同义或明确词族。",
+          "completion": "additionalEntries排除了所有当前sense ID；非全词典声明保留。",
+          "readability": "lemma与词性同时出现，可看出扩展的是同词不同义还是组成词。",
+          "increment": "新增conclude v.: 根据证据得出结论，不以当前义换一句话凑数。"
+        },
+        "decision": "PASS",
+        "issues": []
+      },
+      {
+        "id": "examples",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "附加句“We concluded that repairs were necessary.”和“我们得出结论，维修是必要的。”自然对应；此句示范扩展推断义，并非误用当前结束义。",
+          "completion": "两条学习例句齐全；主例句在页面前区，附加句另显示。",
+          "readability": "例句简短；可继续增加与主句反差更强的对照，但不影响理解。",
+          "increment": "追加句提供另一使用对象；多数同义迁移而非全新场景，因此不满分。"
+        },
+        "decision": "PASS",
+        "issues": [
+          {
+            "message": "追加句提供另一使用对象；多数同义迁移而非全新场景，因此不满分。",
+            "blocking": false
+          }
+        ]
+      },
+      {
+        "id": "copyPayload",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "冻结契约负载为 conclude 与 【深析】conclude；term无附加指令或意外空白。",
+          "completion": "供上下四按钮共享，内容审核只确认负载，不代替浏览器成功/拒绝测试。",
+          "readability": "短词头及深析前缀能直接辨认目标词。",
+          "increment": "准确沿用既定复制能力，不擅自换成整页正文；UI功能验收另由集成测试执行。"
+        },
+        "decision": "PASS",
+        "issues": []
+      }
+    ]
+  },
+  {
+    "cardId": "V20261012-060",
+    "reviewer": "whole50_reviewer_group3",
+    "reviewedAt": "2026-11-04",
+    "ruleVersion": "whole-card/1",
+    "fingerprint": "59c69b16ff5043eda9a5a5043fc7c6d2811423517a818006ce62b24cb15414fc",
+    "sourceChecks": [
+      {
+        "sourceId": "lex",
+        "verdict": "SUPPORTED",
+        "note": "独立打开https://www.oxfordlearnersdictionaries.com/definition/english/document_2核对相应词性/音标/义项；Oxford document_2明确动词读/ment/，document_1名词读/mənt/；学习例句为编写内容而非来源逐字引文。"
+      },
+      {
+        "sourceId": "extra",
+        "verdict": "SUPPORTED",
+        "note": "独立打开https://www.oxfordlearnersdictionaries.com/definition/english/document_1核对相应词性/音标/义项；Oxford document_2明确动词读/ment/，document_1名词读/mənt/；学习例句为编写内容而非来源逐字引文。"
+      },
+      {
+        "sourceId": "etym",
+        "verdict": "SUPPORTED",
+        "note": "documentum有例证/教导/证明，现代记录与名词文件分开"
+      }
+    ],
+    "modules": [
+      {
+        "id": "headword",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "已核对Oxford英式 ˈdɒkjument 与v.；短语音标为组成词宽式而非固定重音。",
+          "completion": "词头、读音、词性及 document a decision 搭配齐全。",
+          "readability": "短字段便于查读，document a decision没有堆叠术语。",
+          "increment": "在词义之外提供读音和可直接使用的搭配，短字段无需扩写。"
+        },
+        "decision": "PASS",
+        "issues": []
+      },
+      {
+        "id": "currentSense",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "Oxford document_2明确动词读/ment/，document_1名词读/mənt/。当前中英定义对应记录。",
+          "completion": "1项当前义/组成词联系保留，整体义未由小品词机械推出。",
+          "readability": "“把信息、事件或过程记录下来”先给中文，英文用于核对。",
+          "increment": "当前义为词典筛选摘要，较大字gloss有所补充；不要求覆盖所有字典义。"
+        },
+        "decision": "PASS",
+        "issues": []
+      },
+      {
+        "id": "directExplanation",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "“这里的 document 是动词，要求把决定和理由记录下来。只写“同意修改”还不够，本句还希望读者以后知道为什么改；核心是留下可追溯内容，而不是把文件排得漂亮。”解释当前用法，未仅重抄定义。",
+          "completion": "以本句对象或具体小例说明怎么理解；没有替作者例句编造真实业务。",
+          "readability": "围绕Please document the decision and the解释，中文连续可读。",
+          "increment": "相对释义补足场景；与04仍有少量重复，后续可压缩。"
+        },
+        "decision": "PASS",
+        "issues": [
+          {
+            "message": "相对释义补足场景；与04仍有少量重复，后续可压缩。",
+            "blocking": false
+          }
+        ]
+      },
+      {
+        "id": "etymology",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "documentum有例证/教导/证明，现代记录与名词文件分开",
+          "completion": "历史、现代联系、回到本句三段及各自sourceId齐全；未把记忆图像当作历史事实。",
+          "readability": "document 与拉丁语 documentum 有关，早期含例证、教导、证明等意义。英语后来用名词指提供信息或证据的文件，也用动词表示用材料记录或证明。今天的；界限说明较密，可减少重复不造词源的提醒。",
+          "increment": "有可核实历史新增，但部分母词历史距工作义较远，现代联系承担记忆帮助。"
+        },
+        "decision": "PASS",
+        "issues": [
+          {
+            "message": "有可核实历史新增，但部分母词历史距工作义较远，现代联系承担记忆帮助。",
+            "blocking": false
+          }
+        ]
+      },
+      {
+        "id": "context",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "原句“Please document the decision and the reason behind it.”与中文“请记录决定及其背后的理由。”逐项对应。",
+          "completion": "英文、译文和takeaway俱全，保留既有学习例句身份。",
+          "readability": "不仅记录决定，也记录作出决定的理由。 简短地标明当前句的作用。",
+          "increment": "让词典义落到一条完整句子，不把自编情境伪装成用户事件。"
+        },
+        "decision": "PASS",
+        "issues": []
+      },
+      {
+        "id": "additionalSenses",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "document n.: 文件；保存信息的书面或电子材料；已核查对应词典条目，确为不同义或明确词族。",
+          "completion": "additionalEntries排除了所有当前sense ID；非全词典声明保留。",
+          "readability": "lemma与词性同时出现，可看出扩展的是同词不同义还是组成词。",
+          "increment": "新增document n.: 文件；保存信息的书面或电子材料，不以当前义换一句话凑数。"
+        },
+        "decision": "PASS",
+        "issues": []
+      },
+      {
+        "id": "examples",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "附加句“Document every approved design change.”和“记录每项获批的设计变更。”自然对应；用法与本卡已展示词义吻合。",
+          "completion": "两条学习例句齐全；主例句在页面前区，附加句另显示。",
+          "readability": "例句简短；可继续增加与主句反差更强的对照，但不影响理解。",
+          "increment": "追加句提供另一使用对象；多数同义迁移而非全新场景，因此不满分。"
+        },
+        "decision": "PASS",
+        "issues": [
+          {
+            "message": "追加句提供另一使用对象；多数同义迁移而非全新场景，因此不满分。",
+            "blocking": false
+          }
+        ]
+      },
+      {
+        "id": "copyPayload",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "冻结契约负载为 document 与 【深析】document；term无附加指令或意外空白。",
+          "completion": "供上下四按钮共享，内容审核只确认负载，不代替浏览器成功/拒绝测试。",
+          "readability": "短词头及深析前缀能直接辨认目标词。",
+          "increment": "准确沿用既定复制能力，不擅自换成整页正文；UI功能验收另由集成测试执行。"
+        },
+        "decision": "PASS",
+        "issues": []
+      }
+    ]
+  },
+  {
+    "cardId": "V20261012-061",
+    "reviewer": "whole50_reviewer_group3",
+    "reviewedAt": "2026-11-04",
+    "ruleVersion": "whole-card/1",
+    "fingerprint": "c28eb1d660786c974df6c4aada74dac81ddf9a0645315c3b8dee183cce5ff4df",
+    "sourceChecks": [
+      {
+        "sourceId": "lex",
+        "verdict": "SUPPORTED",
+        "note": "独立打开https://www.oxfordlearnersdictionaries.com/definition/english/follow-up_1核对相应词性/音标/义项；Oxford follow-up_1后续行动，_2是形容词；Cambridge补验follow up on；学习例句为编写内容而非来源逐字引文。"
+      },
+      {
+        "sourceId": "extra",
+        "verdict": "SUPPORTED",
+        "note": "独立打开https://www.oxfordlearnersdictionaries.com/definition/english/follow-up_2核对相应词性/音标/义项；Oxford follow-up_1后续行动，_2是形容词；Cambridge补验follow up on；学习例句为编写内容而非来源逐字引文。"
+      },
+      {
+        "sourceId": "component",
+        "verdict": "SUPPORTED",
+        "note": "独立打开https://www.oxfordlearnersdictionaries.com/definition/english/follow核对相应词性/音标/义项；Oxford follow-up_1后续行动，_2是形容词；Cambridge补验follow up on；学习例句为编写内容而非来源逐字引文。"
+      },
+      {
+        "sourceId": "particle",
+        "verdict": "SUPPORTED",
+        "note": "独立打开https://www.oxfordlearnersdictionaries.com/definition/english/up_1核对小品词IPA和查动词词条提示。"
+      },
+      {
+        "sourceId": "grammar",
+        "verdict": "SUPPORTED",
+        "note": "原URL本次超时；同一BC教程?page=1读取到可分/不可分及代词位置，C1同站文亦交叉支持；未声称失败URL本次成功。"
+      },
+      {
+        "sourceId": "etym",
+        "verdict": "SUPPORTED",
+        "note": "follow古英语跟随及后来时间上相继，未声称短语首见年"
+      }
+    ],
+    "modules": [
+      {
+        "id": "headword",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "已核对Oxford英式 ˈfɒləʊ ʌp 与短语动词；短语音标为组成词宽式而非固定重音。",
+          "completion": "词头、读音、词性及 follow up on an action 搭配齐全。",
+          "readability": "短字段便于查读，follow up on an action没有堆叠术语。",
+          "increment": "在词义之外提供读音和可直接使用的搭配，短字段无需扩写。"
+        },
+        "decision": "PASS",
+        "issues": []
+      },
+      {
+        "id": "currentSense",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "Oxford follow-up_1后续行动，_2是形容词；Cambridge补验follow up on。当前中英定义对应跟进。",
+          "completion": "2项当前义/组成词联系保留，整体义未由小品词机械推出。",
+          "readability": "“对已经开始的事项继续采取行动或查问”先给中文，英文用于核对。",
+          "increment": "当前义为词典筛选摘要，较大字gloss有所补充；不要求覆盖所有字典义。"
+        },
+        "decision": "PASS",
+        "issues": []
+      },
+      {
+        "id": "directExplanation",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "“follow up 是对已经提出或开始的事情继续处理。本句的 open action 是尚未完成的行动项，明天要继续查它的进展；只是发起第一次联系，通常还谈不上这层“后续”解释当前用法，未仅重抄定义。",
+          "completion": "以本句对象或具体小例说明怎么理解；没有替作者例句编造真实业务。",
+          "readability": "围绕I'll follow up on the open解释，中文连续可读。",
+          "increment": "相对释义补足场景；与04仍有少量重复，后续可压缩。"
+        },
+        "decision": "PASS",
+        "issues": [
+          {
+            "message": "相对释义补足场景；与04仍有少量重复，后续可压缩。",
+            "blocking": false
+          }
+        ]
+      },
+      {
+        "id": "etymology",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "follow古英语跟随及后来时间上相继，未声称短语首见年",
+          "completion": "历史、现代联系、回到本句三段及各自sourceId齐全；历史主要落在母词，未宣称完整短语演变。",
+          "readability": "follow 来自古英语，已有跟随、伴随等意思；后来也表示时间上接在后面。这里考证的是 follow 这个组成词，不把它的年代当作 follow up 这一工作；界限说明较密，可减少重复不造词源的提醒。",
+          "increment": "有可核实历史新增，但部分母词历史距工作义较远，现代联系承担记忆帮助。"
+        },
+        "decision": "PASS",
+        "issues": [
+          {
+            "message": "有可核实历史新增，但部分母词历史距工作义较远，现代联系承担记忆帮助。",
+            "blocking": false
+          }
+        ]
+      },
+      {
+        "id": "context",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "原句“I'll follow up on the open action tomorrow.”与中文“我明天会跟进这项未结行动。”逐项对应。",
+          "completion": "英文、译文和takeaway俱全，保留既有学习例句身份。",
+          "readability": "明天继续跟进尚未结清的行动事项。 简短地标明当前句的作用。",
+          "increment": "让词典义落到一条完整句子，不把自编情境伪装成用户事件。"
+        },
+        "decision": "PASS",
+        "issues": []
+      },
+      {
+        "id": "additionalSenses",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "follow-up adj.: 后续的；用于继续了解或处理的；已核查对应词典条目，确为不同义或明确词族。",
+          "completion": "additionalEntries排除了所有当前sense ID；非全词典声明保留。",
+          "readability": "lemma与词性同时出现，可看出扩展的是同词不同义还是组成词。",
+          "increment": "新增follow-up adj.: 后续的；用于继续了解或处理的，不以当前义换一句话凑数。"
+        },
+        "decision": "PASS",
+        "issues": []
+      },
+      {
+        "id": "examples",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "附加句“Please follow up with the inspector.”和“请向检查员跟进。”自然对应；用法与本卡已展示词义吻合。",
+          "completion": "两条学习例句齐全；主例句在页面前区，附加句另显示。",
+          "readability": "“请向检查员跟进”中文略硬，可改“请联系检查员跟进”。",
+          "increment": "追加句提供另一使用对象；多数同义迁移而非全新场景，因此不满分。"
+        },
+        "decision": "PASS",
+        "issues": [
+          {
+            "message": "追加句提供另一使用对象；多数同义迁移而非全新场景，因此不满分。",
+            "blocking": false
+          }
+        ]
+      },
+      {
+        "id": "copyPayload",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "冻结契约负载为 follow up 与 【深析】follow up；term无附加指令或意外空白。",
+          "completion": "供上下四按钮共享，内容审核只确认负载，不代替浏览器成功/拒绝测试。",
+          "readability": "短词头及深析前缀能直接辨认目标词。",
+          "increment": "准确沿用既定复制能力，不擅自换成整页正文；UI功能验收另由集成测试执行。"
+        },
+        "decision": "PASS",
+        "issues": []
+      }
+    ]
+  },
+  {
+    "cardId": "V20261012-062",
+    "reviewer": "whole50_reviewer_group3",
+    "reviewedAt": "2026-11-04",
+    "ruleVersion": "whole-card/1",
+    "fingerprint": "40ea7e03643e5418ecfa0156196ace0e48fa7d2c4317661fca15be35eed96c9b",
+    "sourceChecks": [
+      {
+        "sourceId": "lex",
+        "verdict": "SUPPORTED",
+        "note": "独立打开https://www.oxfordlearnersdictionaries.com/definition/english/bring-up核对相应词性/音标/义项；Oxford bring-up分别列提出话题、养育；可说bring it up；学习例句为编写内容而非来源逐字引文。"
+      },
+      {
+        "sourceId": "component",
+        "verdict": "SUPPORTED",
+        "note": "独立打开https://www.oxfordlearnersdictionaries.com/definition/english/bring核对相应词性/音标/义项；Oxford bring-up分别列提出话题、养育；可说bring it up；学习例句为编写内容而非来源逐字引文。"
+      },
+      {
+        "sourceId": "particle",
+        "verdict": "SUPPORTED",
+        "note": "独立打开https://www.oxfordlearnersdictionaries.com/definition/english/up_1核对小品词IPA和查动词词条提示。"
+      },
+      {
+        "sourceId": "grammar",
+        "verdict": "SUPPORTED",
+        "note": "原URL本次超时；同一BC教程?page=1读取到可分/不可分及代词位置，C1同站文亦交叉支持；未声称失败URL本次成功。"
+      },
+      {
+        "sourceId": "etym",
+        "verdict": "SUPPORTED",
+        "note": "bring古英语；bring up养育晚14世纪、提议1875，先后核实"
+      }
+    ],
+    "modules": [
+      {
+        "id": "headword",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "已核对Oxford英式 brɪŋ ʌp 与短语动词；短语音标为组成词宽式而非固定重音。",
+          "completion": "词头、读音、词性及 bring up an issue 搭配齐全。",
+          "readability": "短字段便于查读，bring up an issue没有堆叠术语。",
+          "increment": "在词义之外提供读音和可直接使用的搭配，短字段无需扩写。"
+        },
+        "decision": "PASS",
+        "issues": []
+      },
+      {
+        "id": "currentSense",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "Oxford bring-up分别列提出话题、养育；可说bring it up。当前中英定义对应提出话题。",
+          "completion": "2项当前义/组成词联系保留，整体义未由小品词机械推出。",
+          "readability": "“在交谈中提出某个话题”先给中文，英文用于核对。",
+          "increment": "当前义为词典筛选摘要，较大字gloss有所补充；不要求覆盖所有字典义。"
+        },
+        "decision": "PASS",
+        "issues": []
+      },
+      {
+        "id": "directExplanation",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "“bring up an issue 是把问题提出，让大家开始注意或讨论。本句想在结束前补提一件事；它只表示把议题带进来，还没有保证当场解决。”解释当前用法，未仅重抄定义。",
+          "completion": "以本句对象或具体小例说明怎么理解；没有替作者例句编造真实业务。",
+          "readability": "围绕I'd like to bring up one解释，中文连续可读。",
+          "increment": "相对释义补足场景；与04仍有少量重复，后续可压缩。"
+        },
+        "decision": "PASS",
+        "issues": [
+          {
+            "message": "相对释义补足场景；与04仍有少量重复，后续可压缩。",
+            "blocking": false
+          }
+        ]
+      },
+      {
+        "id": "etymology",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "bring古英语；bring up养育晚14世纪、提议1875，先后核实",
+          "completion": "历史、现代联系、回到本句三段及各自sourceId齐全；历史主要落在母词，未宣称完整短语演变。",
+          "readability": "bring 来自古英语，含带来、呈现等用法。Etymonline另记录 bring up 的养育义早于“提出来供考虑”的义项；这说明同一个短语可以发展出不同用途；界限说明较密，可减少重复不造词源的提醒。",
+          "increment": "有可核实历史新增，但部分母词历史距工作义较远，现代联系承担记忆帮助。"
+        },
+        "decision": "PASS",
+        "issues": [
+          {
+            "message": "有可核实历史新增，但部分母词历史距工作义较远，现代联系承担记忆帮助。",
+            "blocking": false
+          }
+        ]
+      },
+      {
+        "id": "context",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "原句“I'd like to bring up one issue before we finish.”与中文“结束前，我想提出一个问题。”逐项对应。",
+          "completion": "英文、译文和takeaway俱全，保留既有学习例句身份。",
+          "readability": "结束前想再提出一个问题。 简短地标明当前句的作用。",
+          "increment": "让词典义落到一条完整句子，不把自编情境伪装成用户事件。"
+        },
+        "decision": "PASS",
+        "issues": []
+      },
+      {
+        "id": "additionalSenses",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "bring up 短语动词: 抚养；养育孩子；已核查对应词典条目，确为不同义或明确词族。",
+          "completion": "additionalEntries排除了所有当前sense ID；非全词典声明保留。",
+          "readability": "lemma与词性同时出现，可看出扩展的是同词不同义还是组成词。",
+          "increment": "新增bring up 短语动词: 抚养；养育孩子，不以当前义换一句话凑数。"
+        },
+        "decision": "PASS",
+        "issues": []
+      },
+      {
+        "id": "examples",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "附加句“She brought up the staffing shortage.”和“她提出了人员短缺问题。”自然对应；用法与本卡已展示词义吻合。",
+          "completion": "两条学习例句齐全；主例句在页面前区，附加句另显示。",
+          "readability": "例句简短；可继续增加与主句反差更强的对照，但不影响理解。",
+          "increment": "追加句提供另一使用对象；多数同义迁移而非全新场景，因此不满分。"
+        },
+        "decision": "PASS",
+        "issues": [
+          {
+            "message": "追加句提供另一使用对象；多数同义迁移而非全新场景，因此不满分。",
+            "blocking": false
+          }
+        ]
+      },
+      {
+        "id": "copyPayload",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "冻结契约负载为 bring up 与 【深析】bring up；term无附加指令或意外空白。",
+          "completion": "供上下四按钮共享，内容审核只确认负载，不代替浏览器成功/拒绝测试。",
+          "readability": "短词头及深析前缀能直接辨认目标词。",
+          "increment": "准确沿用既定复制能力，不擅自换成整页正文；UI功能验收另由集成测试执行。"
+        },
+        "decision": "PASS",
+        "issues": []
+      }
+    ]
+  },
+  {
+    "cardId": "V20261012-063",
+    "reviewer": "whole50_reviewer_group3",
+    "reviewedAt": "2026-11-04",
+    "ruleVersion": "whole-card/1",
+    "fingerprint": "79fccf1e5f2e6e8e5af8f70e9864cdd4aa0507bccb9e578fca44f6cbf9816d7f",
+    "sourceChecks": [
+      {
+        "sourceId": "lex",
+        "verdict": "SUPPORTED",
+        "note": "独立打开https://www.oxfordlearnersdictionaries.com/definition/english/walk-through_1核对相应词性/音标/义项；Oxford walk-through_1明确逐阶段帮助理解；walk_1可另表陪同步行；学习例句为编写内容而非来源逐字引文。"
+      },
+      {
+        "sourceId": "extra",
+        "verdict": "SUPPORTED",
+        "note": "独立打开https://www.oxfordlearnersdictionaries.com/definition/english/walk_1核对相应词性/音标/义项；Oxford walk-through_1明确逐阶段帮助理解；walk_1可另表陪同步行；学习例句为编写内容而非来源逐字引文。"
+      },
+      {
+        "sourceId": "component",
+        "verdict": "SUPPORTED",
+        "note": "独立打开https://www.oxfordlearnersdictionaries.com/definition/english/walk_1核对相应词性/音标/义项；Oxford walk-through_1明确逐阶段帮助理解；walk_1可另表陪同步行；学习例句为编写内容而非来源逐字引文。"
+      },
+      {
+        "sourceId": "particle",
+        "verdict": "SUPPORTED",
+        "note": "独立打开https://www.oxfordlearnersdictionaries.com/definition/english/through_1核对小品词IPA和查动词词条提示。"
+      },
+      {
+        "sourceId": "grammar",
+        "verdict": "SUPPORTED",
+        "note": "原URL本次超时；同一BC教程?page=1读取到可分/不可分及代词位置，C1同站文亦交叉支持；未声称失败URL本次成功。"
+      },
+      {
+        "sourceId": "etym",
+        "verdict": "SUPPORTED",
+        "note": "walk中古英语步行与更早翻滚义不同，未编造单线演化"
+      }
+    ],
+    "modules": [
+      {
+        "id": "headword",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "已核对Oxford英式 wɔːk θruː 与短语动词；短语音标为组成词宽式而非固定重音。",
+          "completion": "词头、读音、词性及 walk someone through a plan 搭配齐全。",
+          "readability": "短字段便于查读，walk someone through a plan没有堆叠术语。",
+          "increment": "在词义之外提供读音和可直接使用的搭配，短字段无需扩写。"
+        },
+        "decision": "PASS",
+        "issues": []
+      },
+      {
+        "id": "currentSense",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "Oxford walk-through_1明确逐阶段帮助理解；walk_1可另表陪同步行。当前中英定义对应逐步讲解。",
+          "completion": "2项当前义/组成词联系保留，整体义未由小品词机械推出。",
+          "readability": "“按步骤向某人说明或演示一件事”先给中文，英文用于核对。",
+          "increment": "当前义为词典筛选摘要，较大字gloss有所补充；不要求覆盖所有字典义。"
+        },
+        "decision": "PASS",
+        "issues": []
+      },
+      {
+        "id": "directExplanation",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "“walk someone through something 是带着对方一步一步了解过程。本句要求对方把修订后的计划讲一遍，重点是让听者跟上各步骤，而不只是说计划已经改好”解释当前用法，未仅重抄定义。",
+          "completion": "以本句对象或具体小例说明怎么理解；没有替作者例句编造真实业务。",
+          "readability": "围绕Could you walk us through the解释，中文连续可读。",
+          "increment": "相对释义补足场景；与04仍有少量重复，后续可压缩。"
+        },
+        "decision": "PASS",
+        "issues": [
+          {
+            "message": "相对释义补足场景；与04仍有少量重复，后续可压缩。",
+            "blocking": false
+          }
+        ]
+      },
+      {
+        "id": "etymology",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "walk中古英语步行与更早翻滚义不同，未编造单线演化",
+          "completion": "历史、现代联系、回到本句三段及各自sourceId齐全；历史主要落在母词，未宣称完整短语演变。",
+          "readability": "walk 的“步行”用法在中古英语已有记录，更早相关形式的意义并不完全等于今天的走路。这里仅说明组成词背景；不能据此编出 walk someone throug；界限说明较密，可减少重复不造词源的提醒。",
+          "increment": "有可核实历史新增，但部分母词历史距工作义较远，现代联系承担记忆帮助。"
+        },
+        "decision": "PASS",
+        "issues": [
+          {
+            "message": "有可核实历史新增，但部分母词历史距工作义较远，现代联系承担记忆帮助。",
+            "blocking": false
+          }
+        ]
+      },
+      {
+        "id": "context",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "原句“Could you walk us through the revised plan?”与中文“你能逐步向我们讲解修订计划吗？”逐项对应。",
+          "completion": "英文、译文和takeaway俱全，保留既有学习例句身份。",
+          "readability": "请求对方逐步讲解修订后的计划。 简短地标明当前句的作用。",
+          "increment": "让词典义落到一条完整句子，不把自编情境伪装成用户事件。"
+        },
+        "decision": "PASS",
+        "issues": []
+      },
+      {
+        "id": "additionalSenses",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "walk v.: 陪同某人步行到某处；已核查对应词典条目，确为不同义或明确词族。",
+          "completion": "additionalEntries排除了所有当前sense ID；非全词典声明保留。",
+          "readability": "lemma与词性同时出现，可看出扩展的是同词不同义还是组成词。",
+          "increment": "新增walk v.: 陪同某人步行到某处，不以当前义换一句话凑数。"
+        },
+        "decision": "PASS",
+        "issues": []
+      },
+      {
+        "id": "examples",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "附加句“Walk me through the inspection process.”和“请逐步向我讲解检验流程。”自然对应；用法与本卡已展示词义吻合。",
+          "completion": "两条学习例句齐全；主例句在页面前区，附加句另显示。",
+          "readability": "例句简短；可继续增加与主句反差更强的对照，但不影响理解。",
+          "increment": "追加句提供另一使用对象；多数同义迁移而非全新场景，因此不满分。"
+        },
+        "decision": "PASS",
+        "issues": [
+          {
+            "message": "追加句提供另一使用对象；多数同义迁移而非全新场景，因此不满分。",
+            "blocking": false
+          }
+        ]
+      },
+      {
+        "id": "copyPayload",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "冻结契约负载为 walk through 与 【深析】walk through；term无附加指令或意外空白。",
+          "completion": "供上下四按钮共享，内容审核只确认负载，不代替浏览器成功/拒绝测试。",
+          "readability": "短词头及深析前缀能直接辨认目标词。",
+          "increment": "准确沿用既定复制能力，不擅自换成整页正文；UI功能验收另由集成测试执行。"
+        },
+        "decision": "PASS",
+        "issues": []
+      }
+    ]
+  },
+  {
+    "cardId": "V20261012-064",
+    "reviewer": "whole50_reviewer_group3",
+    "reviewedAt": "2026-11-04",
+    "ruleVersion": "whole-card/1",
+    "fingerprint": "141998dd6d3e6787b7abc8b2ca4858cb37acec45a71c0e1124f145573ba126d8",
+    "sourceChecks": [
+      {
+        "sourceId": "lex",
+        "verdict": "SUPPORTED",
+        "note": "独立打开https://www.oxfordlearnersdictionaries.com/definition/english/point-out核对相应词性/音标/义项；Oxford point-out分别列提醒信息、指给人辨认位置；学习例句为编写内容而非来源逐字引文。"
+      },
+      {
+        "sourceId": "component",
+        "verdict": "SUPPORTED",
+        "note": "独立打开https://www.oxfordlearnersdictionaries.com/definition/english/point_2核对相应词性/音标/义项；Oxford point-out分别列提醒信息、指给人辨认位置；学习例句为编写内容而非来源逐字引文。"
+      },
+      {
+        "sourceId": "particle",
+        "verdict": "SUPPORTED",
+        "note": "独立打开https://www.oxfordlearnersdictionaries.com/definition/english/out_1核对小品词IPA和查动词词条提示。"
+      },
+      {
+        "sourceId": "grammar",
+        "verdict": "SUPPORTED",
+        "note": "原URL本次超时；同一BC教程?page=1读取到可分/不可分及代词位置，C1同站文亦交叉支持；未声称失败URL本次成功。"
+      },
+      {
+        "sourceId": "etym",
+        "verdict": "SUPPORTED",
+        "note": "point名词来自拉丁语刺点/尖端，现代提醒另按短语核实"
+      }
+    ],
+    "modules": [
+      {
+        "id": "headword",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "已核对Oxford英式 pɔɪnt aʊt 与短语动词；短语音标为组成词宽式而非固定重音。",
+          "completion": "词头、读音、词性及 point out a difference 搭配齐全。",
+          "readability": "短字段便于查读，point out a difference没有堆叠术语。",
+          "increment": "在词义之外提供读音和可直接使用的搭配，短字段无需扩写。"
+        },
+        "decision": "PASS",
+        "issues": []
+      },
+      {
+        "id": "currentSense",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "Oxford point-out分别列提醒信息、指给人辨认位置。当前中英定义对应指出。",
+          "completion": "2项当前义/组成词联系保留，整体义未由小品词机械推出。",
+          "readability": "“提醒别人注意某条信息或细节”先给中文，英文用于核对。",
+          "increment": "当前义为词典筛选摘要，较大字gloss有所补充；不要求覆盖所有字典义。"
+        },
+        "decision": "PASS",
+        "issues": []
+      },
+      {
+        "id": "directExplanation",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "“point out 是把一项信息特意指出来，让对方留意。本句要大家看到两个选项之间的一处差异；它可能是补充信息，不一定是在批评谁。”解释当前用法，未仅重抄定义。",
+          "completion": "以本句对象或具体小例说明怎么理解；没有替作者例句编造真实业务。",
+          "readability": "围绕Let me point out one difference解释，中文连续可读。",
+          "increment": "相对释义补足场景；与04仍有少量重复，后续可压缩。"
+        },
+        "decision": "PASS",
+        "issues": [
+          {
+            "message": "相对释义补足场景；与04仍有少量重复，后续可压缩。",
+            "blocking": false
+          }
+        ]
+      },
+      {
+        "id": "etymology",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "point名词来自拉丁语刺点/尖端，现代提醒另按短语核实",
+          "completion": "历史、现代联系、回到本句三段及各自sourceId齐全；历史主要落在母词，未宣称完整短语演变。",
+          "readability": "point 的名词历史与拉丁语中刺出的点、尖端等意义有关，后来形成今天的多个名词和动词用法。这能说明词族背景，但不应直接把“尖端”推导成所有 point out；界限说明较密，可减少重复不造词源的提醒。",
+          "increment": "有可核实历史新增，但部分母词历史距工作义较远，现代联系承担记忆帮助。"
+        },
+        "decision": "PASS",
+        "issues": [
+          {
+            "message": "有可核实历史新增，但部分母词历史距工作义较远，现代联系承担记忆帮助。",
+            "blocking": false
+          }
+        ]
+      },
+      {
+        "id": "context",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "原句“Let me point out one difference between the two options.”与中文“让我指出两个方案间的一处差异。”逐项对应。",
+          "completion": "英文、译文和takeaway俱全，保留既有学习例句身份。",
+          "readability": "将注意力引向两个方案之间的一处差异。 简短地标明当前句的作用。",
+          "increment": "让词典义落到一条完整句子，不把自编情境伪装成用户事件。"
+        },
+        "decision": "PASS",
+        "issues": []
+      },
+      {
+        "id": "additionalSenses",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "point out 短语动词: 指出某人或某物的位置供辨认；已核查对应词典条目，确为不同义或明确词族。",
+          "completion": "additionalEntries排除了所有当前sense ID；非全词典声明保留。",
+          "readability": "lemma与词性同时出现，可看出扩展的是同词不同义还是组成词。",
+          "increment": "新增point out 短语动词: 指出某人或某物的位置供辨认，不以当前义换一句话凑数。"
+        },
+        "decision": "PASS",
+        "issues": []
+      },
+      {
+        "id": "examples",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "附加句“He pointed out a missing signature.”和“他指出少了一个签名。”自然对应；用法与本卡已展示词义吻合。",
+          "completion": "两条学习例句齐全；主例句在页面前区，附加句另显示。",
+          "readability": "例句简短；可继续增加与主句反差更强的对照，但不影响理解。",
+          "increment": "追加句提供另一使用对象；多数同义迁移而非全新场景，因此不满分。"
+        },
+        "decision": "PASS",
+        "issues": [
+          {
+            "message": "追加句提供另一使用对象；多数同义迁移而非全新场景，因此不满分。",
+            "blocking": false
+          }
+        ]
+      },
+      {
+        "id": "copyPayload",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "冻结契约负载为 point out 与 【深析】point out；term无附加指令或意外空白。",
+          "completion": "供上下四按钮共享，内容审核只确认负载，不代替浏览器成功/拒绝测试。",
+          "readability": "短词头及深析前缀能直接辨认目标词。",
+          "increment": "准确沿用既定复制能力，不擅自换成整页正文；UI功能验收另由集成测试执行。"
+        },
+        "decision": "PASS",
+        "issues": []
+      }
+    ]
+  },
+  {
+    "cardId": "V20261012-065",
+    "reviewer": "whole50_reviewer_group3",
+    "reviewedAt": "2026-11-04",
+    "ruleVersion": "whole-card/1",
+    "fingerprint": "fd23a03f38b5be1b65dacc5d241c267097d592b334981efa2ec9320b9bae45d5",
+    "sourceChecks": [
+      {
+        "sourceId": "lex",
+        "verdict": "SUPPORTED",
+        "note": "独立打开https://www.oxfordlearnersdictionaries.com/definition/english/rule-out核对相应词性/音标/义项；Oxford rule-out分别为排除可能和阻止参加/发生，否定不表示肯定会发生；学习例句为编写内容而非来源逐字引文。"
+      },
+      {
+        "sourceId": "component",
+        "verdict": "SUPPORTED",
+        "note": "独立打开https://www.oxfordlearnersdictionaries.com/definition/english/rule_2核对相应词性/音标/义项；Oxford rule-out分别为排除可能和阻止参加/发生，否定不表示肯定会发生；学习例句为编写内容而非来源逐字引文。"
+      },
+      {
+        "sourceId": "particle",
+        "verdict": "SUPPORTED",
+        "note": "独立打开https://www.oxfordlearnersdictionaries.com/definition/english/out_1核对小品词IPA和查动词词条提示。"
+      },
+      {
+        "sourceId": "grammar",
+        "verdict": "SUPPORTED",
+        "note": "原URL本次超时；同一BC教程?page=1读取到可分/不可分及代词位置，C1同站文亦交叉支持；未声称失败URL本次成功。"
+      },
+      {
+        "sourceId": "etym",
+        "verdict": "SUPPORTED",
+        "note": "rule来自regula直尺/准则，母词不冒充rule out整体历史"
+      }
+    ],
+    "modules": [
+      {
+        "id": "headword",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "已核对Oxford英式 ruːl aʊt 与短语动词；短语音标为组成词宽式而非固定重音。",
+          "completion": "词头、读音、词性及 rule out an option 搭配齐全。",
+          "readability": "短字段便于查读，rule out an option没有堆叠术语。",
+          "increment": "在词义之外提供读音和可直接使用的搭配，短字段无需扩写。"
+        },
+        "decision": "PASS",
+        "issues": []
+      },
+      {
+        "id": "currentSense",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "Oxford rule-out分别为排除可能和阻止参加/发生，否定不表示肯定会发生。当前中英定义对应排除。",
+          "completion": "2项当前义/组成词联系保留，整体义未由小品词机械推出。",
+          "readability": "“不再把某事视为可能情况或可选方案”先给中文，英文用于核对。",
+          "increment": "当前义为词典筛选摘要，较大字gloss有所补充；不要求覆盖所有字典义。"
+        },
+        "decision": "PASS",
+        "issues": []
+      },
+      {
+        "id": "directExplanation",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "“cannot rule out 表示现在还不能排除一种可能。本句保留“可能延误”这个风险，但没有说延误一定发生或概率很高；它提醒大家别过早把风险当作不存在。”解释当前用法，未仅重抄定义。",
+          "completion": "以本句对象或具体小例说明怎么理解；没有替作者例句编造真实业务。",
+          "readability": "围绕We cannot rule out a delay解释，中文连续可读。",
+          "increment": "相对释义补足场景；与04仍有少量重复，后续可压缩。"
+        },
+        "decision": "PASS",
+        "issues": [
+          {
+            "message": "相对释义补足场景；与04仍有少量重复，后续可压缩。",
+            "blocking": false
+          }
+        ]
+      },
+      {
+        "id": "etymology",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "rule来自regula直尺/准则，母词不冒充rule out整体历史",
+          "completion": "历史、现代联系、回到本句三段及各自sourceId齐全；历史主要落在母词，未宣称完整短语演变。",
+          "readability": "rule 的来历与拉丁语 regula 有关，既涉及直尺，也涉及准则。英语的 rule 又有裁定、决定等用法；这些是组成词的历史，不能直接当作 rule out；界限说明较密，可减少重复不造词源的提醒。",
+          "increment": "有可核实历史新增，但部分母词历史距工作义较远，现代联系承担记忆帮助。"
+        },
+        "decision": "PASS",
+        "issues": [
+          {
+            "message": "有可核实历史新增，但部分母词历史距工作义较远，现代联系承担记忆帮助。",
+            "blocking": false
+          }
+        ]
+      },
+      {
+        "id": "context",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "原句“We cannot rule out a delay at this stage.”与中文“现阶段，我们无法排除延误的可能。”逐项对应。",
+          "completion": "英文、译文和takeaway俱全，保留既有学习例句身份。",
+          "readability": "还不能排除延误；不是断言一定延误。 简短地标明当前句的作用。",
+          "increment": "让词典义落到一条完整句子，不把自编情境伪装成用户事件。"
+        },
+        "decision": "PASS",
+        "issues": []
+      },
+      {
+        "id": "additionalSenses",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "rule out 短语动词: 使某事不可能发生；使某人无法参加；已核查对应词典条目，确为不同义或明确词族。",
+          "completion": "additionalEntries排除了所有当前sense ID；非全词典声明保留。",
+          "readability": "lemma与词性同时出现，可看出扩展的是同词不同义还是组成词。",
+          "increment": "新增rule out 短语动词: 使某事不可能发生；使某人无法参加，不以当前义换一句话凑数。"
+        },
+        "decision": "PASS",
+        "issues": []
+      },
+      {
+        "id": "examples",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "附加句“The tests ruled out material damage.”和“测试排除了材料损坏的可能。”自然对应；用法与本卡已展示词义吻合。",
+          "completion": "两条学习例句齐全；主例句在页面前区，附加句另显示。",
+          "readability": "例句简短；可继续增加与主句反差更强的对照，但不影响理解。",
+          "increment": "追加句提供另一使用对象；多数同义迁移而非全新场景，因此不满分。"
+        },
+        "decision": "PASS",
+        "issues": [
+          {
+            "message": "追加句提供另一使用对象；多数同义迁移而非全新场景，因此不满分。",
+            "blocking": false
+          }
+        ]
+      },
+      {
+        "id": "copyPayload",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "冻结契约负载为 rule out 与 【深析】rule out；term无附加指令或意外空白。",
+          "completion": "供上下四按钮共享，内容审核只确认负载，不代替浏览器成功/拒绝测试。",
+          "readability": "短词头及深析前缀能直接辨认目标词。",
+          "increment": "准确沿用既定复制能力，不擅自换成整页正文；UI功能验收另由集成测试执行。"
+        },
+        "decision": "PASS",
+        "issues": []
+      }
+    ]
+  },
+  {
+    "cardId": "V20261012-066",
+    "reviewer": "whole50_reviewer_group3",
+    "reviewedAt": "2026-11-04",
+    "ruleVersion": "whole-card/1",
+    "fingerprint": "e5f44322cc3854bec55821767354b87d5dd5f8b33acb0412cb04b7eb4f426d0e",
+    "sourceChecks": [
+      {
+        "sourceId": "lex",
+        "verdict": "SUPPORTED",
+        "note": "独立打开https://www.oxfordlearnersdictionaries.com/definition/english/hold-off核对相应词性/音标/义项；Oxford hold-off有暂不行动和雨未开始，Cambridge另证hold off on；学习例句为编写内容而非来源逐字引文。"
+      },
+      {
+        "sourceId": "component",
+        "verdict": "SUPPORTED",
+        "note": "独立打开https://www.oxfordlearnersdictionaries.com/definition/english/hold_1核对相应词性/音标/义项；Oxford hold-off有暂不行动和雨未开始，Cambridge另证hold off on；学习例句为编写内容而非来源逐字引文。"
+      },
+      {
+        "sourceId": "particle",
+        "verdict": "SUPPORTED",
+        "note": "独立打开https://www.oxfordlearnersdictionaries.com/definition/english/off_1核对小品词IPA和查动词词条提示。"
+      },
+      {
+        "sourceId": "grammar",
+        "verdict": "SUPPORTED",
+        "note": "原URL本次超时；同一BC教程?page=1读取到可分/不可分及代词位置，C1同站文亦交叉支持；未声称失败URL本次成功。"
+      },
+      {
+        "sourceId": "etym",
+        "verdict": "SUPPORTED",
+        "note": "hold古英语抓住/约束支持母词来源，现代暂缓另由词典证明"
+      }
+    ],
+    "modules": [
+      {
+        "id": "headword",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "已核对Oxford英式 həʊld ɒf 与短语动词；短语音标为组成词宽式而非固定重音。",
+          "completion": "词头、读音、词性及 hold off on a decision 搭配齐全。",
+          "readability": "短字段便于查读，hold off on a decision没有堆叠术语。",
+          "increment": "在词义之外提供读音和可直接使用的搭配，短字段无需扩写。"
+        },
+        "decision": "PASS",
+        "issues": []
+      },
+      {
+        "id": "currentSense",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "Oxford hold-off有暂不行动和雨未开始，Cambridge另证hold off on。当前中英定义对应暂缓。",
+          "completion": "2项当前义/组成词联系保留，整体义未由小品词机械推出。",
+          "readability": "“先等待一段时间再采取行动”先给中文，英文用于核对。",
+          "increment": "当前义为词典筛选摘要，较大字gloss有所补充；不要求覆盖所有字典义。"
+        },
+        "decision": "PASS",
+        "issues": []
+      },
+      {
+        "id": "directExplanation",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "“hold off on a decision 是先不作决定，等条件更合适再说。本句给了明确的等待条件：拿到结果。这比一句“以后再说”更清楚，因为大家知道该等什么。”解释当前用法，未仅重抄定义。",
+          "completion": "以本句对象或具体小例说明怎么理解；没有替作者例句编造真实业务。",
+          "readability": "围绕Let's hold off on the decision解释，中文连续可读。",
+          "increment": "相对释义补足场景；与04仍有少量重复，后续可压缩。"
+        },
+        "decision": "PASS",
+        "issues": [
+          {
+            "message": "相对释义补足场景；与04仍有少量重复，后续可压缩。",
+            "blocking": false
+          }
+        ]
+      },
+      {
+        "id": "etymology",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "hold古英语抓住/约束支持母词来源，现代暂缓另由词典证明",
+          "completion": "历史、现代联系、回到本句三段及各自sourceId齐全；历史主要落在母词，未宣称完整短语演变。",
+          "readability": "hold 来自古英语，已有抓住、保留、约束等用法。现代 hold off 作为整体表示暂缓或雨还没下等意思；组成词的历史并不能证明这些短语义都从同一个具体动作直；界限说明较密，可减少重复不造词源的提醒。",
+          "increment": "有可核实历史新增，但部分母词历史距工作义较远，现代联系承担记忆帮助。"
+        },
+        "decision": "PASS",
+        "issues": [
+          {
+            "message": "有可核实历史新增，但部分母词历史距工作义较远，现代联系承担记忆帮助。",
+            "blocking": false
+          }
+        ]
+      },
+      {
+        "id": "context",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "原句“Let's hold off on the decision until we have the results.”与中文“等拿到结果后，我们再作决定吧。”逐项对应。",
+          "completion": "英文、译文和takeaway俱全，保留既有学习例句身份。",
+          "readability": "先不作决定，等结果出来再处理。 简短地标明当前句的作用。",
+          "increment": "让词典义落到一条完整句子，不把自编情境伪装成用户事件。"
+        },
+        "decision": "PASS",
+        "issues": []
+      },
+      {
+        "id": "additionalSenses",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "hold off 短语动词: 雨或风暴暂时没有开始；已核查对应词典条目，确为不同义或明确词族。",
+          "completion": "additionalEntries排除了所有当前sense ID；非全词典声明保留。",
+          "readability": "lemma与词性同时出现，可看出扩展的是同词不同义还是组成词。",
+          "increment": "新增hold off 短语动词: 雨或风暴暂时没有开始，不以当前义换一句话凑数。"
+        },
+        "decision": "PASS",
+        "issues": []
+      },
+      {
+        "id": "examples",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "附加句“Hold off on hiring until June.”和“把招聘暂缓到六月。”自然对应；用法与本卡已展示词义吻合。",
+          "completion": "两条学习例句齐全；主例句在页面前区，附加句另显示。",
+          "readability": "例句简短；可继续增加与主句反差更强的对照，但不影响理解。",
+          "increment": "追加句提供另一使用对象；多数同义迁移而非全新场景，因此不满分。"
+        },
+        "decision": "PASS",
+        "issues": [
+          {
+            "message": "追加句提供另一使用对象；多数同义迁移而非全新场景，因此不满分。",
+            "blocking": false
+          }
+        ]
+      },
+      {
+        "id": "copyPayload",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "冻结契约负载为 hold off 与 【深析】hold off；term无附加指令或意外空白。",
+          "completion": "供上下四按钮共享，内容审核只确认负载，不代替浏览器成功/拒绝测试。",
+          "readability": "短词头及深析前缀能直接辨认目标词。",
+          "increment": "准确沿用既定复制能力，不擅自换成整页正文；UI功能验收另由集成测试执行。"
+        },
+        "decision": "PASS",
+        "issues": []
+      }
+    ]
+  },
+  {
+    "cardId": "V20261012-067",
+    "reviewer": "whole50_reviewer_group3",
+    "reviewedAt": "2026-11-04",
+    "ruleVersion": "whole-card/1",
+    "fingerprint": "082746ef850d940732da6ccc5defea97167f8e61f5a4ba9cb25fc7fdf46a96e6",
+    "sourceChecks": [
+      {
+        "sourceId": "etym",
+        "verdict": "SUPPORTED",
+        "note": "work古英语wyrcan/wircan的做事、运作，未假造work around起源"
+      },
+      {
+        "sourceId": "lex",
+        "verdict": "SUPPORTED",
+        "note": "独立打开https://www.oxfordlearnersdictionaries.com/definition/english/work-around核对相应词性/音标/义项；Oxford work-around明示避开影响而问题仍在；workaround为名词；学习例句为编写内容而非来源逐字引文。"
+      },
+      {
+        "sourceId": "word",
+        "verdict": "SUPPORTED",
+        "note": "独立打开https://www.oxfordlearnersdictionaries.com/definition/english/work_1核对相应词性/音标/义项；Oxford work-around明示避开影响而问题仍在；workaround为名词；学习例句为编写内容而非来源逐字引文。"
+      },
+      {
+        "sourceId": "particle",
+        "verdict": "SUPPORTED",
+        "note": "独立打开https://www.oxfordlearnersdictionaries.com/definition/english/around_1核对小品词IPA和查动词词条提示。"
+      }
+    ],
+    "modules": [
+      {
+        "id": "headword",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "已核对Oxford英式 wɜːk əˈraʊnd 与短语动词；短语音标为组成词宽式而非固定重音。",
+          "completion": "词头、读音、词性及 work around a constraint 搭配齐全。",
+          "readability": "短字段便于查读，work around a constraint没有堆叠术语。",
+          "increment": "在词义之外提供读音和可直接使用的搭配，短字段无需扩写。"
+        },
+        "decision": "PASS",
+        "issues": []
+      },
+      {
+        "id": "currentSense",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "Oxford work-around明示避开影响而问题仍在；workaround为名词。当前中英定义对应设法绕过障碍。",
+          "completion": "2项当前义/组成词联系保留，整体义未由小品词机械推出。",
+          "readability": "“在问题未消除时找到避开其影响的做法”先给中文，英文用于核对。",
+          "increment": "当前义为词典筛选摘要，较大字gloss有所补充；不要求覆盖所有字典义。"
+        },
+        "decision": "PASS",
+        "issues": []
+      },
+      {
+        "id": "directExplanation",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "“限制暂时还在，先换一种做法让工作继续。例如文件太大不能一次发送，就分成几份发；这改变了做法，没有改变每份文件的大小限制。”解释当前用法，未仅重抄定义。",
+          "completion": "以本句对象或具体小例说明怎么理解；没有替作者例句编造真实业务。",
+          "readability": "分文件的场景清楚，限制仍在的说明具体。",
+          "increment": "相对释义补足场景；与04仍有少量重复，后续可压缩。"
+        },
+        "decision": "PASS",
+        "issues": [
+          {
+            "message": "相对释义补足场景；与04仍有少量重复，后续可压缩。",
+            "blocking": false
+          }
+        ]
+      },
+      {
+        "id": "etymology",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "work古英语wyrcan/wircan的做事、运作，未假造work around起源",
+          "completion": "历史、现代联系、回到本句三段及各自sourceId齐全；历史主要落在母词，未宣称完整短语演变。",
+          "readability": "work 是古英语传下来的动词，与做事、制作和运作有关。不过，work 的历史不能直接证明 work around 这个短语何时出现；这次不编造整词组的起源年代；界限说明较密，可减少重复不造词源的提醒。",
+          "increment": "有可核实历史新增，但部分母词历史距工作义较远，现代联系承担记忆帮助。"
+        },
+        "decision": "PASS",
+        "issues": [
+          {
+            "message": "有可核实历史新增，但部分母词历史距工作义较远，现代联系承担记忆帮助。",
+            "blocking": false
+          }
+        ]
+      },
+      {
+        "id": "context",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "原句“Can we work around this constraint without changing the scope?”与中文“我们能在不改范围的情况下应对这项限制吗？”逐项对应。",
+          "completion": "英文、译文和takeaway俱全，保留既有学习例句身份。",
+          "readability": "寻找不改范围、仍能应对限制的办法。 简短地标明当前句的作用。",
+          "increment": "让词典义落到一条完整句子，不把自编情境伪装成用户事件。"
+        },
+        "decision": "PASS",
+        "issues": []
+      },
+      {
+        "id": "additionalSenses",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "workaround 名词: 绕开问题使工作继续的变通办法；已核查对应词典条目，确为不同义或明确词族。",
+          "completion": "additionalEntries排除了所有当前sense ID；非全词典声明保留。",
+          "readability": "lemma与词性同时出现，可看出扩展的是同词不同义还是组成词。",
+          "increment": "新增workaround 名词: 绕开问题使工作继续的变通办法，不以当前义换一句话凑数。"
+        },
+        "decision": "PASS",
+        "issues": []
+      },
+      {
+        "id": "examples",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "附加句“We worked around the storage limitation.”和“我们设法绕开存储限制，让工作继续进行。”自然对应；用法与本卡已展示词义吻合。",
+          "completion": "两条学习例句齐全；主例句在页面前区，附加句另显示。",
+          "readability": "例句简短；可继续增加与主句反差更强的对照，但不影响理解。",
+          "increment": "追加句提供另一使用对象；多数同义迁移而非全新场景，因此不满分。"
+        },
+        "decision": "PASS",
+        "issues": [
+          {
+            "message": "追加句提供另一使用对象；多数同义迁移而非全新场景，因此不满分。",
+            "blocking": false
+          }
+        ]
+      },
+      {
+        "id": "copyPayload",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "冻结契约负载为 work around 与 【深析】work around；term无附加指令或意外空白。",
+          "completion": "供上下四按钮共享，内容审核只确认负载，不代替浏览器成功/拒绝测试。",
+          "readability": "短词头及深析前缀能直接辨认目标词。",
+          "increment": "准确沿用既定复制能力，不擅自换成整页正文；UI功能验收另由集成测试执行。"
+        },
+        "decision": "PASS",
+        "issues": []
+      }
+    ]
+  },
+  {
+    "cardId": "V20261012-068",
+    "reviewer": "whole50_reviewer_group3",
+    "reviewedAt": "2026-11-04",
+    "ruleVersion": "whole-card/1",
+    "fingerprint": "73fff603426f1f6df70fa14c7a0e7685ae4868b663510a2f48c3d9b2172d0e72",
+    "sourceChecks": [
+      {
+        "sourceId": "lex",
+        "verdict": "SUPPORTED",
+        "note": "独立打开https://www.oxfordlearnersdictionaries.com/definition/english/take-on核对相应词性/音标/义项；Oxford take-on明确接受责任及雇用员工，不能从母词逐字翻译；学习例句为编写内容而非来源逐字引文。"
+      },
+      {
+        "sourceId": "component",
+        "verdict": "SUPPORTED",
+        "note": "独立打开https://www.oxfordlearnersdictionaries.com/definition/english/take_1核对相应词性/音标/义项；Oxford take-on明确接受责任及雇用员工，不能从母词逐字翻译；学习例句为编写内容而非来源逐字引文。"
+      },
+      {
+        "sourceId": "particle",
+        "verdict": "SUPPORTED",
+        "note": "独立打开https://www.oxfordlearnersdictionaries.com/definition/english/on_1核对小品词IPA和查动词词条提示。"
+      },
+      {
+        "sourceId": "grammar",
+        "verdict": "SUPPORTED",
+        "note": "原URL本次超时；同一BC教程?page=1读取到可分/不可分及代词位置，C1同站文亦交叉支持；未声称失败URL本次成功。"
+      },
+      {
+        "sourceId": "etym",
+        "verdict": "SUPPORTED",
+        "note": "take古诺尔斯taka等来源有据，未把母词年代套短语"
+      }
+    ],
+    "modules": [
+      {
+        "id": "headword",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "已核对Oxford英式 teɪk ɒn 与短语动词；短语音标为组成词宽式而非固定重音。",
+          "completion": "词头、读音、词性及 take on a task 搭配齐全。",
+          "readability": "短字段便于查读，take on a task没有堆叠术语。",
+          "increment": "在词义之外提供读音和可直接使用的搭配，短字段无需扩写。"
+        },
+        "decision": "PASS",
+        "issues": []
+      },
+      {
+        "id": "currentSense",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "Oxford take-on明确接受责任及雇用员工，不能从母词逐字翻译。当前中英定义对应承担。",
+          "completion": "2项当前义/组成词联系保留，整体义未由小品词机械推出。",
+          "readability": "“接受并承担工作或责任”先给中文，英文用于核对。",
+          "increment": "当前义为词典筛选摘要，较大字gloss有所补充；不要求覆盖所有字典义。"
+        },
+        "decision": "PASS",
+        "issues": []
+      },
+      {
+        "id": "directExplanation",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "“take on a task 强调接受并承担一项任务。本句说团队本周不能再接新的工作；它是在划定新增工作的容量边界，不是在汇报某项任务已经完成。”解释当前用法，未仅重抄定义。",
+          "completion": "以本句对象或具体小例说明怎么理解；没有替作者例句编造真实业务。",
+          "readability": "围绕Our team cannot take on another解释，中文连续可读。",
+          "increment": "相对释义补足场景；与04仍有少量重复，后续可压缩。"
+        },
+        "decision": "PASS",
+        "issues": [
+          {
+            "message": "相对释义补足场景；与04仍有少量重复，后续可压缩。",
+            "blocking": false
+          }
+        ]
+      },
+      {
+        "id": "etymology",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "take古诺尔斯taka等来源有据，未把母词年代套短语",
+          "completion": "历史、现代联系、回到本句三段及各自sourceId齐全；历史主要落在母词，未宣称完整短语演变。",
+          "readability": "take 的历史与古诺尔斯语 taka 等形式有关，早期有抓取、取得的意思。英语后来形成很多 take 短语；这里不把 take 的来源年代说成 take on；界限说明较密，可减少重复不造词源的提醒。",
+          "increment": "有可核实历史新增，但部分母词历史距工作义较远，现代联系承担记忆帮助。"
+        },
+        "decision": "PASS",
+        "issues": [
+          {
+            "message": "有可核实历史新增，但部分母词历史距工作义较远，现代联系承担记忆帮助。",
+            "blocking": false
+          }
+        ]
+      },
+      {
+        "id": "context",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "原句“Our team cannot take on another task this week.”与中文“我们团队本周无法再承担任务。”逐项对应。",
+          "completion": "英文、译文和takeaway俱全，保留既有学习例句身份。",
+          "readability": "本周无力再承担额外任务。 简短地标明当前句的作用。",
+          "increment": "让词典义落到一条完整句子，不把自编情境伪装成用户事件。"
+        },
+        "decision": "PASS",
+        "issues": []
+      },
+      {
+        "id": "additionalSenses",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "take on 短语动词: 雇用；聘用；已核查对应词典条目，确为不同义或明确词族。",
+          "completion": "additionalEntries排除了所有当前sense ID；非全词典声明保留。",
+          "readability": "lemma与词性同时出现，可看出扩展的是同词不同义还是组成词。",
+          "increment": "新增take on 短语动词: 雇用；聘用，不以当前义换一句话凑数。"
+        },
+        "decision": "PASS",
+        "issues": []
+      },
+      {
+        "id": "examples",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "附加句“She will take on the audit role.”和“她将承担审计职责。”自然对应；用法与本卡已展示词义吻合。",
+          "completion": "两条学习例句齐全；主例句在页面前区，附加句另显示。",
+          "readability": "例句简短；可继续增加与主句反差更强的对照，但不影响理解。",
+          "increment": "追加句提供另一使用对象；多数同义迁移而非全新场景，因此不满分。"
+        },
+        "decision": "PASS",
+        "issues": [
+          {
+            "message": "追加句提供另一使用对象；多数同义迁移而非全新场景，因此不满分。",
+            "blocking": false
+          }
+        ]
+      },
+      {
+        "id": "copyPayload",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "冻结契约负载为 take on 与 【深析】take on；term无附加指令或意外空白。",
+          "completion": "供上下四按钮共享，内容审核只确认负载，不代替浏览器成功/拒绝测试。",
+          "readability": "短词头及深析前缀能直接辨认目标词。",
+          "increment": "准确沿用既定复制能力，不擅自换成整页正文；UI功能验收另由集成测试执行。"
+        },
+        "decision": "PASS",
+        "issues": []
+      }
+    ]
+  },
+  {
+    "cardId": "V20261012-069",
+    "reviewer": "whole50_reviewer_group3",
+    "reviewedAt": "2026-11-04",
+    "ruleVersion": "whole-card/1",
+    "fingerprint": "2d2d4e0c37db7b964f9a67a490c14c43f3e3c023af5d1a0403e44bb88cf760f3",
+    "sourceChecks": [
+      {
+        "sourceId": "etym",
+        "verdict": "SUPPORTED",
+        "note": "weigh古英语wegan与14世纪考虑义均可查，up整体年代未臆测"
+      },
+      {
+        "sourceId": "lex",
+        "verdict": "SUPPORTED",
+        "note": "独立打开https://www.oxfordlearnersdictionaries.com/definition/english/weigh核对相应词性/音标/义项；Oxford weigh第3义明确weigh something (up)/against；weigh-up另列识人；学习例句为编写内容而非来源逐字引文。"
+      },
+      {
+        "sourceId": "particle",
+        "verdict": "SUPPORTED",
+        "note": "独立打开https://www.oxfordlearnersdictionaries.com/definition/english/up_1核对小品词IPA和查动词词条提示。"
+      }
+    ],
+    "modules": [
+      {
+        "id": "headword",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "已核对Oxford英式 weɪ ʌp 与短语动词；短语音标为组成词宽式而非固定重音。",
+          "completion": "词头、读音、词性及 weigh up the options 搭配齐全。",
+          "readability": "短字段便于查读，weigh up the options没有堆叠术语。",
+          "increment": "在词义之外提供读音和可直接使用的搭配，短字段无需扩写。"
+        },
+        "decision": "PASS",
+        "issues": []
+      },
+      {
+        "id": "currentSense",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "Oxford weigh第3义明确weigh something (up)/against；weigh-up另列识人。当前中英定义对应权衡。",
+          "completion": "2项当前义/组成词联系保留，整体义未由小品词机械推出。",
+          "readability": "“在决定前仔细比较选择及其利弊”先给中文，英文用于核对。",
+          "increment": "当前义为词典筛选摘要，较大字gloss有所补充；不要求覆盖所有字典义。"
+        },
+        "decision": "PASS",
+        "issues": []
+      },
+      {
+        "id": "directExplanation",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "“不只是把选项看一遍，而是比较每个选项值得什么、要付出什么。例如一家报价低但交期长，另一家价格高但更快；weigh up 就是把这些取舍想清楚，再作选择。”解释当前用法，未仅重抄定义。",
+          "completion": "以本句对象或具体小例说明怎么理解；没有替作者例句编造真实业务。",
+          "readability": "围绕We need to weigh up the解释，中文连续可读。",
+          "increment": "相对释义补足场景；与04仍有少量重复，后续可压缩。"
+        },
+        "decision": "PASS",
+        "issues": [
+          {
+            "message": "相对释义补足场景；与04仍有少量重复，后续可压缩。",
+            "blocking": false
+          }
+        ]
+      },
+      {
+        "id": "etymology",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "weigh古英语wegan与14世纪考虑义均可查，up整体年代未臆测",
+          "completion": "历史、现代联系、回到本句三段及各自sourceId齐全；历史主要落在母词，未宣称完整短语演变。",
+          "readability": "weigh 来自古英语 wegan，早期已经涉及称重量等意思。把 weigh 用于仔细考虑、形成看法的比喻用法，在14世纪就有记录。这个历史属于 weigh；不；界限说明较密，可减少重复不造词源的提醒。",
+          "increment": "有可核实历史新增，但部分母词历史距工作义较远，现代联系承担记忆帮助。"
+        },
+        "decision": "PASS",
+        "issues": [
+          {
+            "message": "有可核实历史新增，但部分母词历史距工作义较远，现代联系承担记忆帮助。",
+            "blocking": false
+          }
+        ]
+      },
+      {
+        "id": "context",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "原句“We need to weigh up the options before choosing a supplier.”与中文“选择供应商前，我们需要权衡各个选项。”逐项对应。",
+          "completion": "英文、译文和takeaway俱全，保留既有学习例句身份。",
+          "readability": "选择供应商之前先仔细比较各选项。 简短地标明当前句的作用。",
+          "increment": "让词典义落到一条完整句子，不把自编情境伪装成用户事件。"
+        },
+        "decision": "PASS",
+        "issues": []
+      },
+      {
+        "id": "additionalSenses",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "weigh 动词: 称重量；测出某人或某物有多重；weigh somebody up 短语动词: 通过观察或交谈来判断一个人；已核查对应词典条目，确为不同义或明确词族。",
+          "completion": "additionalEntries排除了所有当前sense ID；非全词典声明保留。",
+          "readability": "lemma与词性同时出现，可看出扩展的是同词不同义还是组成词。",
+          "increment": "新增weigh 动词: 称重量；测出某人或某物有多重；weigh somebody up 短语动词: 通过观察或交谈来判断一个人，不以当前义换一句话凑数。"
+        },
+        "decision": "PASS",
+        "issues": []
+      },
+      {
+        "id": "examples",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "附加句“Weigh up the benefits and risks.”和“权衡收益与风险。”自然对应；用法与本卡已展示词义吻合。",
+          "completion": "两条学习例句齐全；主例句在页面前区，附加句另显示。",
+          "readability": "例句简短；可继续增加与主句反差更强的对照，但不影响理解。",
+          "increment": "追加句提供另一使用对象；多数同义迁移而非全新场景，因此不满分。"
+        },
+        "decision": "PASS",
+        "issues": [
+          {
+            "message": "追加句提供另一使用对象；多数同义迁移而非全新场景，因此不满分。",
+            "blocking": false
+          }
+        ]
+      },
+      {
+        "id": "copyPayload",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "冻结契约负载为 weigh up 与 【深析】weigh up；term无附加指令或意外空白。",
+          "completion": "供上下四按钮共享，内容审核只确认负载，不代替浏览器成功/拒绝测试。",
+          "readability": "短词头及深析前缀能直接辨认目标词。",
+          "increment": "准确沿用既定复制能力，不擅自换成整页正文；UI功能验收另由集成测试执行。"
+        },
+        "decision": "PASS",
+        "issues": []
+      }
+    ]
+  },
+  {
+    "cardId": "V20261012-070",
+    "reviewer": "whole50_reviewer_group3",
+    "reviewedAt": "2026-11-04",
+    "ruleVersion": "whole-card/1",
+    "fingerprint": "59a0524d561c522b072bd60ea7e1f6dc1860d1098751198ff0ab85d61e17d1dc",
+    "sourceChecks": [
+      {
+        "sourceId": "lex",
+        "verdict": "SUPPORTED",
+        "note": "独立打开https://www.oxfordlearnersdictionaries.com/definition/english/wrap-up核对相应词性/音标/义项；Oxford wrap-up有结束活动及穿暖义，wrap_1为包裹基础义；学习例句为编写内容而非来源逐字引文。"
+      },
+      {
+        "sourceId": "component",
+        "verdict": "SUPPORTED",
+        "note": "独立打开https://www.oxfordlearnersdictionaries.com/definition/english/wrap_1核对相应词性/音标/义项；Oxford wrap-up有结束活动及穿暖义，wrap_1为包裹基础义；学习例句为编写内容而非来源逐字引文。"
+      },
+      {
+        "sourceId": "particle",
+        "verdict": "SUPPORTED",
+        "note": "独立打开https://www.oxfordlearnersdictionaries.com/definition/english/up_1核对小品词IPA和查动词词条提示。"
+      },
+      {
+        "sourceId": "grammar",
+        "verdict": "SUPPORTED",
+        "note": "原URL本次超时；同一BC教程?page=1读取到可分/不可分及代词位置，C1同站文亦交叉支持；未声称失败URL本次成功。"
+      },
+      {
+        "sourceId": "etym",
+        "verdict": "SUPPORTED",
+        "note": "wrap中古英语包住/折叠且更早不确定，正文保留不确定性"
+      }
+    ],
+    "modules": [
+      {
+        "id": "headword",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "已核对Oxford英式 ræp ʌp 与短语动词；短语音标为组成词宽式而非固定重音。",
+          "completion": "词头、读音、词性及 wrap up a discussion 搭配齐全。",
+          "readability": "短字段便于查读，wrap up a discussion没有堆叠术语。",
+          "increment": "在词义之外提供读音和可直接使用的搭配，短字段无需扩写。"
+        },
+        "decision": "PASS",
+        "issues": []
+      },
+      {
+        "id": "currentSense",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "Oxford wrap-up有结束活动及穿暖义，wrap_1为包裹基础义。当前中英定义对应收尾。",
+          "completion": "2项当前义/组成词联系保留，整体义未由小品词机械推出。",
+          "readability": "“将讨论、活动或工作收尾结束”先给中文，英文用于核对。",
+          "increment": "当前义为词典筛选摘要，较大字gloss有所补充；不要求覆盖所有字典义。"
+        },
+        "decision": "PASS",
+        "issues": []
+      },
+      {
+        "id": "directExplanation",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "“wrap up 在这里是把讨论收尾。by confirming the owner and due date 指定最后一步：确认负责人和期限。不是单纯停止说话，而是用这项”解释当前用法，未仅重抄定义。",
+          "completion": "以本句对象或具体小例说明怎么理解；没有替作者例句编造真实业务。",
+          "readability": "围绕Let's wrap up by confirming the解释，中文连续可读。",
+          "increment": "相对释义补足场景；与04仍有少量重复，后续可压缩。"
+        },
+        "decision": "PASS",
+        "issues": [
+          {
+            "message": "相对释义补足场景；与04仍有少量重复，后续可压缩。",
+            "blocking": false
+          }
+        ]
+      },
+      {
+        "id": "etymology",
+        "scores": {
+          "accuracy": 4,
+          "completion": 3,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "wrap中古英语包住/折叠且更早不确定，正文保留不确定性",
+          "completion": "历史、现代联系、回到本句三段及各自sourceId齐全；历史主要落在母词，未宣称完整短语演变。",
+          "readability": "wrap 在中古英语已有包住、折叠等用法，更早来源并不确定。今天 wrap up 有包裹、穿暖和结束等用途；这里不编造某一幅包东西的画面就是会议收尾义的确切起源；界限说明较密，可减少重复不造词源的提醒。",
+          "increment": "有可核实历史新增，但部分母词历史距工作义较远，现代联系承担记忆帮助。"
+        },
+        "decision": "PASS",
+        "issues": [
+          {
+            "message": "有可核实历史新增，但部分母词历史距工作义较远，现代联系承担记忆帮助。",
+            "blocking": false
+          }
+        ]
+      },
+      {
+        "id": "context",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "原句“Let's wrap up by confirming the owner and due date.”与中文“我们以确认负责人和截止日期来收尾吧。”逐项对应。",
+          "completion": "英文、译文和takeaway俱全，保留既有学习例句身份。",
+          "readability": "最后确认负责人及期限，然后结束。 简短地标明当前句的作用。",
+          "increment": "让词典义落到一条完整句子，不把自编情境伪装成用户事件。"
+        },
+        "decision": "PASS",
+        "issues": []
+      },
+      {
+        "id": "additionalSenses",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "wrap up 短语动词: 穿暖；给某人穿上保暖衣物；已核查对应词典条目，确为不同义或明确词族。",
+          "completion": "additionalEntries排除了所有当前sense ID；非全词典声明保留。",
+          "readability": "lemma与词性同时出现，可看出扩展的是同词不同义还是组成词。",
+          "increment": "新增wrap up 短语动词: 穿暖；给某人穿上保暖衣物，不以当前义换一句话凑数。"
+        },
+        "decision": "PASS",
+        "issues": []
+      },
+      {
+        "id": "examples",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "附加句“Wrap up the review before lunch.”和“午饭前结束评审。”自然对应；用法与本卡已展示词义吻合。",
+          "completion": "两条学习例句齐全；主例句在页面前区，附加句另显示。",
+          "readability": "例句简短；可继续增加与主句反差更强的对照，但不影响理解。",
+          "increment": "追加句提供另一使用对象；多数同义迁移而非全新场景，因此不满分。"
+        },
+        "decision": "PASS",
+        "issues": [
+          {
+            "message": "追加句提供另一使用对象；多数同义迁移而非全新场景，因此不满分。",
+            "blocking": false
+          }
+        ]
+      },
+      {
+        "id": "copyPayload",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "冻结契约负载为 wrap up 与 【深析】wrap up；term无附加指令或意外空白。",
+          "completion": "供上下四按钮共享，内容审核只确认负载，不代替浏览器成功/拒绝测试。",
+          "readability": "短词头及深析前缀能直接辨认目标词。",
+          "increment": "准确沿用既定复制能力，不擅自换成整页正文；UI功能验收另由集成测试执行。"
+        },
+        "decision": "PASS",
+        "issues": []
+      }
+    ]
+  }
+]

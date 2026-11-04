@@ -1,0 +1,365 @@
+[
+  {
+    "cardId": "V20261012-001",
+    "writer": "five_content",
+    "etymology": [
+      {
+        "title": "历史来源：与“目标”有关",
+        "text": "scope 的范围义可追溯到意大利语 scopo，再往前与希腊语 skopos 的“目标、注意对象”有关。英语早期用法还包括行动空间。这里有几种相连的用法，不能只按一个古义翻译今天的句子。",
+        "sourceId": "etym",
+        "kind": "historical_fact"
+      },
+      {
+        "title": "现代联系：注意力覆盖多大一片",
+        "text": "学习时可以从“眼前要处理什么”联想到“这次覆盖哪些事情”。a wide scope 是涉及得广，outside the scope 是超出所谈范围。这是帮助理解现代用法的联系，不是说 scope 等于眼睛能看见的面积。",
+        "sourceId": "lex",
+        "kind": "modern_connection"
+      },
+      {
+        "title": "回到项目：把工作边界说清楚",
+        "text": "在 define the scope 里，要明确的是本次工作包括什么、哪些不包括。培训是否包含，会影响需要做的工作；所以原句把界定范围放在估价之前。这是现代项目用法，不是要求记住希腊语才能使用。",
+        "sourceId": "project",
+        "kind": "current_use"
+      }
+    ],
+    "sources": [
+      {
+        "id": "etym",
+        "url": "https://www.etymonline.com/word/scope",
+        "title": "Etymonline — scope",
+        "section": "Origin and history; main headword",
+        "retrievalStatus": "full_page",
+        "evidence": "scope(n.1)第12—13行：经意大利语scopo、拉丁语scopus追溯到希腊语skopos，含目标/注意对象。早期英语已有行动空间义，随后记录空间或思考范围及活动领域义；不能简单编成一条唯一线性变化。",
+        "accessedAt": "2026-11-03"
+      },
+      {
+        "id": "lex",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/scope_1",
+        "title": "Oxford Advanced Learner’s Dictionary — scope",
+        "section": "noun senses 1–2; pronunciation; Word Origin",
+        "retrievalStatus": "full_page",
+        "evidence": "词头英式/skəʊp/，不可数名词；义1机会/能力，义2事物涉及范围；Word Origin也列意大利语scopo与希腊语skopos目标义。",
+        "accessedAt": "2026-11-03"
+      },
+      {
+        "id": "project",
+        "url": "https://www.apm.org.uk/resources/what-is-project-management/what-is-scope-management/",
+        "title": "APM — What is scope management?",
+        "section": "Definition; Project scope",
+        "retrievalStatus": "full_page",
+        "evidence": "项目scope涉及产出、成果、效益及其所需工作，明确in/out边界。",
+        "accessedAt": "2026-11-03"
+      }
+    ],
+    "headword": {
+      "ipa": "skəʊp",
+      "ipaNote": "本预览统一采用Oxford英式宽式音标；未改正式词库。",
+      "pos": "n.（不可数）",
+      "chunk": "define the scope"
+    },
+    "examples": [
+      {
+        "en": "We need to define the scope before estimating the cost.",
+        "zh": "估算成本前，我们需要界定范围。",
+        "kind": "existing_public_learning_example"
+      },
+      {
+        "en": "The scope excludes staff training.",
+        "zh": "范围不包括员工培训。",
+        "kind": "existing_public_learning_example"
+      }
+    ],
+    "limitations": [
+      "历史路线只概括已核实的来源与义项，不宣称所有义项沿唯一顺序演化。"
+    ]
+  },
+  {
+    "cardId": "V20261012-016",
+    "writer": "five_content",
+    "etymology": [
+      {
+        "title": "历史来源：能够被要求交代",
+        "text": "accountable 来自古法语 acontable，早期已有“须作交代”的意思。相关的 account 不只涉及计算，也涉及把受托财物的情况说明清楚；因此“负责”和“作解释”在这个词里联系很紧。",
+        "sourceId": "etym",
+        "kind": "historical_fact"
+      },
+      {
+        "title": "现代联系：把理由交代清楚",
+        "text": "可以联想有人问：“这件事为什么这样处理？”accountable 的人需要回答并承担责任。这里的“交代”帮助记住词义，不是说每次都在查账，也不必先发生错误才会谈责任。",
+        "sourceId": "lex",
+        "kind": "modern_connection"
+      },
+      {
+        "title": "回到本句：最终决定找谁负责",
+        "text": "accountable for the final decision 说的是对最终决定负责；accountable to someone 则说向谁交代。本句用 One person must，要求把责任落到一个明确的人身上，而不是只说大家都参与过。",
+        "sourceId": "lex",
+        "kind": "current_use"
+      }
+    ],
+    "sources": [
+      {
+        "id": "etym",
+        "url": "https://www.etymonline.com/word/accountable",
+        "title": "Etymonline — accountable",
+        "section": "Origin and history; main headword",
+        "retrievalStatus": "full_page",
+        "evidence": "accountable约1400年有answerable义，来自古法语acontable；关联account词条说明count/render account与说明受托财物的理由之间联系。",
+        "accessedAt": "2026-11-03"
+      },
+      {
+        "id": "lex",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/accountable",
+        "title": "Oxford Advanced Learner’s Dictionary — accountable",
+        "section": "pronunciation; sense 1; accountable to/for",
+        "retrievalStatus": "full_page",
+        "evidence": "/əˈkaʊntəbl/，形容词，通常不放名词前；对决定或行动负责、被问时需作解释；for接事项，to接人。",
+        "accessedAt": "2026-11-03"
+      }
+    ],
+    "headword": {
+      "ipa": "əˈkaʊntəbl",
+      "ipaNote": "本预览统一采用Oxford英式宽式音标；未改正式词库。",
+      "pos": "adj.",
+      "chunk": "accountable for the outcome"
+    },
+    "examples": [
+      {
+        "en": "One person must be accountable for the final decision.",
+        "zh": "必须有一个人对最终决定负责。",
+        "kind": "existing_public_learning_example"
+      },
+      {
+        "en": "The director is accountable for quality.",
+        "zh": "总监须对质量负责。",
+        "kind": "existing_public_learning_example"
+      }
+    ],
+    "limitations": [
+      "不把历史账目联系解释成现代accountable只用于财务或处罚。"
+    ]
+  },
+  {
+    "cardId": "V20261012-055",
+    "writer": "five_content",
+    "etymology": [
+      {
+        "title": "历史来源：把想法提出供人考虑",
+        "text": "proposal 由 propose 加名词后缀 -al 构成。propose 的来历与“向前放、提出”有关，英语中形成了把计划拿出来供人考虑的用法。这里的 -al 构成名词，并非所有以 -al 结尾的词都按同一方式拆解。",
+        "sourceId": "etym",
+        "kind": "historical_fact"
+      },
+      {
+        "title": "现代联系：摆出来的方案",
+        "text": "可以把 proposal 想成摆到讨论桌上的方案：别人可以查看、提出问题、接受或拒绝。重点在于供人考虑，不在纸张厚薄；一句口头建议也可能叫 proposal，不一定是一份长文档。",
+        "sourceId": "lex",
+        "kind": "modern_connection"
+      },
+      {
+        "title": "回到本句：先审阅，再讨论",
+        "text": "review a proposal 是审阅方案。原句要求在明天讨论前看过它，让后面的交流有具体内容可谈。review 说的是阅读和评估，不能仅凭这个动作就当成已经 approve，批准。",
+        "sourceId": "lex",
+        "kind": "current_use"
+      }
+    ],
+    "sources": [
+      {
+        "id": "etym",
+        "url": "https://www.etymonline.com/word/proposal",
+        "title": "Etymonline — proposal",
+        "section": "Origin and history; main headword",
+        "retrievalStatus": "full_page",
+        "evidence": "proposal为propose加名词后缀-al，1650年代记录供接受的方案义；关联propose来自古法语proposer，含提出供考虑义。",
+        "accessedAt": "2026-11-03"
+      },
+      {
+        "id": "lex",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/proposal",
+        "title": "Oxford Advanced Learner’s Dictionary — proposal",
+        "section": "pronunciation; sense 1 and collocations",
+        "retrievalStatus": "full_page",
+        "evidence": "/prəˈpəʊzl/；名词可数/不可数，表示正式建议或计划，亦指提出建议行为；列submit/present/consider/discuss/approve/reject a proposal。",
+        "accessedAt": "2026-11-03"
+      }
+    ],
+    "headword": {
+      "ipa": "prəˈpəʊzl",
+      "ipaNote": "本预览统一采用Oxford英式宽式音标；未改正式词库。",
+      "pos": "n.（本句可数）",
+      "chunk": "review a proposal"
+    },
+    "examples": [
+      {
+        "en": "Please review the proposal before tomorrow's discussion.",
+        "zh": "请在明天讨论前审阅提案。",
+        "kind": "existing_public_learning_example"
+      },
+      {
+        "en": "The proposal includes a training budget.",
+        "zh": "提案包含培训预算。",
+        "kind": "existing_public_learning_example"
+      }
+    ],
+    "limitations": [
+      "古法语构词解释用于说明历史联系；现代proposal是否正式或书面由语境决定。"
+    ]
+  },
+  {
+    "cardId": "V20261012-067",
+    "writer": "five_content",
+    "etymology": [
+      {
+        "title": "历史范围：先分清词与短语",
+        "text": "work 是古英语传下来的动词，与做事、制作和运作有关。不过，work 的历史不能直接证明 work around 这个短语何时出现；这次不编造整词组的起源年代。",
+        "sourceId": "etym",
+        "kind": "historical_fact"
+      },
+      {
+        "title": "现代联系：障碍仍在，换条路线",
+        "text": "around 可以表示绕到另一侧，英语也会用 a way around a problem 谈应对问题的办法。可以借“换条路线”理解 work around，但这里是语义联系，不是考证短语最早来自真实绕路。",
+        "sourceId": "particle",
+        "kind": "modern_connection"
+      },
+      {
+        "title": "回到本句：方法变，限制仍在",
+        "text": "work around a constraint 是想办法避开限制的影响，让工作继续。原句又加 without changing the scope，要求工作范围不变：需要寻找合适的做法，而不是直接删掉一部分工作。",
+        "sourceId": "lex",
+        "kind": "current_use"
+      }
+    ],
+    "sources": [
+      {
+        "id": "etym",
+        "url": "https://www.etymonline.com/word/work",
+        "title": "Etymonline — work",
+        "section": "Origin and history; main headword",
+        "retrievalStatus": "full_page",
+        "evidence": "work动词来自古英语wyrcan/wircan等形式，涉及做、制造、运作。该页不证明work around整体短语的诞生时间。",
+        "accessedAt": "2026-11-03"
+      },
+      {
+        "id": "lex",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/work-around",
+        "title": "Oxford Advanced Learner’s Dictionary — work around",
+        "section": "work around something, sense 1",
+        "retrievalStatus": "full_page",
+        "evidence": "整体义为找到避开问题的工作做法而不真正解决问题，明确关联名词workaround。",
+        "accessedAt": "2026-11-03"
+      },
+      {
+        "id": "word",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/work_1",
+        "title": "Oxford Advanced Learner’s Dictionary — work",
+        "section": "pronunciation; do job/task",
+        "retrievalStatus": "full_page",
+        "evidence": "英式/wɜːk/，动词，做需体力或脑力的事。",
+        "accessedAt": "2026-11-03"
+      },
+      {
+        "id": "particle",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/around_1",
+        "title": "Oxford Advanced Learner’s Dictionary — around",
+        "section": "pronunciation; sense 2",
+        "retrievalStatus": "full_page",
+        "evidence": "/əˈraʊnd/；第2义表示绕到另一侧，并例示a way around the problem，支持从绕路到应对问题的现代联系。",
+        "accessedAt": "2026-11-03"
+      }
+    ],
+    "headword": {
+      "ipa": "wɜːk əˈraʊnd",
+      "ipaNote": "英式组成词宽式标注；整句重音随语境变化，非词典整短语音频转录。",
+      "pos": "短语动词",
+      "chunk": "work around a constraint"
+    },
+    "examples": [
+      {
+        "en": "Can we work around this constraint without changing the scope?",
+        "zh": "我们能在不改范围的情况下应对这项限制吗？",
+        "kind": "existing_public_learning_example"
+      },
+      {
+        "en": "We worked around the storage limitation.",
+        "zh": "我们设法绕开存储限制，让工作继续进行。",
+        "kind": "existing_public_learning_example"
+      }
+    ],
+    "limitations": [
+      "没有核实work around整词组首见年代，不从work词源推造。",
+      "短语IPA由已核实组成词的英式音标组合，未声称词典提供了整短语录音或固定句重音。"
+    ]
+  },
+  {
+    "cardId": "V20261012-069",
+    "writer": "five_content",
+    "etymology": [
+      {
+        "title": "历史来源：称重量，也用来思量",
+        "text": "weigh 来自古英语 wegan，早期已经涉及称重量等意思。把 weigh 用于仔细考虑、形成看法的比喻用法，在14世纪就有记录。这个历史属于 weigh；不能据此断定 weigh up 整个短语也在同一时期形成。",
+        "sourceId": "etym",
+        "kind": "historical_fact"
+      },
+      {
+        "title": "现代联系：比较事情的分量",
+        "text": "从“有多重”可以联想到“有多重要”：价格、交期、风险各占多少分量？这有助于记住权衡的意思。这里只是学习联系，不要求真的给每个因素打分；up 也不是把选项向上举。",
+        "sourceId": "lex",
+        "kind": "modern_connection"
+      },
+      {
+        "title": "回到本句：比较得失，再作选择",
+        "text": "weigh up the options 把重点放在考虑各选项的利弊。原句接 before choosing a supplier，说明比较在前、选择在后。可以再用 weigh A against B 说出具体两面，例如把节省时间与新增成本相比较。",
+        "sourceId": "lex",
+        "kind": "current_use"
+      }
+    ],
+    "sources": [
+      {
+        "id": "etym",
+        "url": "https://www.etymonline.com/word/weigh",
+        "title": "Etymonline — weigh",
+        "section": "Origin and history; main headword",
+        "retrievalStatus": "full_page",
+        "evidence": "weigh来自古英语wegan，包含称重量、具有重量以及搬抬等义；形成看法的考虑/审视比喻义在14世纪中期已有记录。资料没有给出weigh up整体短语首见日期。",
+        "accessedAt": "2026-11-03"
+      },
+      {
+        "id": "lex",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/weigh",
+        "title": "Oxford Advanced Learner’s Dictionary — weigh",
+        "section": "pronunciation; senses 2–3",
+        "retrievalStatus": "full_page",
+        "evidence": "/weɪ/；第2义称重，第3义决定前仔细考虑，列weigh something (up)、weigh up options、weigh benefits against risks。",
+        "accessedAt": "2026-11-03"
+      },
+      {
+        "id": "particle",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/up_1",
+        "title": "Oxford Advanced Learner’s Dictionary — up",
+        "section": "pronunciation; phrasal-verb usage note",
+        "retrievalStatus": "full_page",
+        "evidence": "/ʌp/；条目明确短语动词中的特殊用法要查动词对应条目，不能把所有up都译成向上。",
+        "accessedAt": "2026-11-03"
+      }
+    ],
+    "headword": {
+      "ipa": "weɪ ʌp",
+      "ipaNote": "英式组成词宽式标注；整句重音随语境变化，非词典整短语音频转录。",
+      "pos": "短语动词",
+      "chunk": "weigh up the options"
+    },
+    "examples": [
+      {
+        "en": "We need to weigh up the options before choosing a supplier.",
+        "zh": "选择供应商前，我们需要权衡各个选项。",
+        "kind": "existing_public_learning_example"
+      },
+      {
+        "en": "Weigh up the benefits and risks.",
+        "zh": "权衡收益与风险。",
+        "kind": "existing_public_learning_example"
+      }
+    ],
+    "limitations": [
+      "只陈述weigh可考的历史；不虚构weigh up整体短语首见年代。",
+      "短语IPA由词典已核实的/weɪ/和/ʌp/组合；没有添加未经取证的整短语固定重音。"
+    ]
+  }
+]

@@ -1,0 +1,2761 @@
+[
+  {
+    "cardId": "V20261012-018",
+    "ruleVersion": "whole-card/1",
+    "reviewer": "whole50_reviewer_group2",
+    "reviewedAt": "2026-11-04",
+    "fingerprint": "f1771e2294c8922bc3b9a84265a65d0c5299efbd1e9f83860abffd0b6d9f51d6",
+    "sourceChecks": [
+      {
+        "sourceId": "lex",
+        "verdict": "SUPPORTED",
+        "note": "独立读取 https://www.oxfordlearnersdictionaries.com/definition/english/commitment 词性、读音与义项；与commitment当前义/词族边界一致。"
+      },
+      {
+        "sourceId": "history",
+        "verdict": "SUPPORTED",
+        "note": "独立读取 https://www.etymonline.com/word/commitment 正文：commit+-ment；早期拘押义与1793承诺分开。现代类比不当历史。"
+      }
+    ],
+    "modules": [
+      {
+        "id": "headword",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "Oxford英式/kəˈmɪtmənt/、n.与commitment精确对应；本轮独立逐词核验，无词性串读。",
+          "completion": "IPA、词性和make a commitment足够支持认读与提取，不加不适用的字段；按客观短字段例外完整计4。",
+          "readability": "commitment后短IPA/词性/一条搭配层级明确，无解释性长句挤入认读字段。",
+          "increment": "词性、音标、搭配各提供不同检索线索且无冗余；客观短字段不要求额外教学段落。"
+        },
+        "issues": []
+      },
+      {
+        "id": "currentSense",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "a firm promise to take an action精确呈现本句选择义；单词层级和focused sense一致，未混进词源或自编情景。",
+          "completion": "中英简释完整呈现当前选择义，无需给单词虚造拆词；按客观短字段契约充分完整。",
+          "readability": "对具体行动或交付作出的明确承诺与一行英文对应，先给可记忆的本句义，没有拉丁来源或多义列表插入。",
+          "increment": "仅保留当前sense，额外义项另放折叠区；以最短字段提供直接学习入口，符合无冗余高分例外。"
+        },
+        "issues": []
+      },
+      {
+        "id": "directExplanation",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 3,
+          "completion": 3,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "桥接符合原句：对方已经答应了一件事，这里要追问：这个答应是建立在什么条件上的？比如交期是否以材料到齐为前",
+          "completion": "解释当前用法并给足最低情景线索，达到桥接任务；有例子本身不意味着4。",
+          "readability": "中文先交代语境用途，读者能跟上；仍有与本句先记/五区相似的表述。",
+          "increment": "在释义之后增加场景或判断角度，但后方五区多次回到同一点，按基本增量计。"
+        },
+        "issues": []
+      },
+      {
+        "id": "etymology",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 3,
+          "completion": 4,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "commit+-ment；早期拘押义与1793承诺分开；可追溯是基本准确门槛。",
+          "completion": "历史来源只说可证部分，现代联系明确限定，再回本句；三种任务没有用待核段替代，必要边界与当前用法一并覆盖，按本区契约完整。",
+          "readability": "早期交付/拘押、后来保证/义务再到具体许诺连续切换，能懂但需分清三个概念层级。",
+          "increment": "历史新增理解；modern/current两段多重述五区，增量只给3"
+        },
+        "issues": []
+      },
+      {
+        "id": "context",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "逐句核对Please confirm the conditions behind this commitment.，中文保持原句请求/陈述、时态和条件关系，不加入已获批或真实工作纪实。",
+          "completion": "原句、准确中文及当句抓手各司其职，字段无需扩大成另一个讲解区；按短字段例外4。",
+          "readability": "单句中英文一一对应，抓手紧接本句；读者不需跨段找主语或把词源混入句义。",
+          "increment": "保留一个明确教学情境，给前方孤立词义提供使用锚点；无多余新故事，符合客观短字段效率标准。"
+        },
+        "issues": []
+      },
+      {
+        "id": "additionalSenses",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "独立核实扩展：commitment:投入；献身",
+          "completion": "一个或多个已核实不同义/同族词即可完成所选义项任务；契约不要求全文词典或独立例句，现有标签足够。",
+          "readability": "lemma和词性把同族词/另一词性与本词区分；每项短中文后跟英文，不需额外图表即可辨认。",
+          "increment": "同词的另一真实义项与当前显示sense不同，短字段不重复且各有所指，按短字段无冗余例外4。"
+        },
+        "issues": []
+      },
+      {
+        "id": "examples",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "逐条核对本句及附加句“Do not make a commitment without approval.”的主语、动作、词义和中文；与已核实当前义对应，不冒充资料原文。",
+          "completion": "全部可见例句均有匹配中文和教学标识，没有遗留未核验的附加句；本模块不要求另添对话或新限制。",
+          "readability": "附加句“Do not make a commitment without approval.”只承载一个动作/判断，中文对应直接，不含嵌套因果或难追溯代词；首读能独立理解。",
+          "increment": "附加句提供一次迁移练习，但多数只是替换对象，没有展开不同使用条件，基本增量3。"
+        },
+        "issues": []
+      },
+      {
+        "id": "copyPayload",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "源码精确构造commitment和【深析】commitment，没有夹带释义、网页地址或隐形模板。",
+          "completion": "两组同一生成器遵守当前两个精确字符串契约；功能另行实测不是内容缺项，完整计4。",
+          "readability": "单词与带【深析】前缀的单词一眼可区分，没有需用户删改的附加说明。",
+          "increment": "两个负载仅差操作意图前缀，无冗余文本，符合客观短字段高分例外。"
+        },
+        "issues": []
+      }
+    ],
+    "calibration": {
+      "date": "2026-11-04",
+      "anchor": "3=准确清楚完成基本任务；4=具体文本展示超出基本完成的精确/自然/高效表现",
+      "scope": "8模块内容评分，不替代功能验收"
+    }
+  },
+  {
+    "cardId": "V20261012-019",
+    "ruleVersion": "whole-card/1",
+    "reviewer": "whole50_reviewer_group2",
+    "reviewedAt": "2026-11-04",
+    "fingerprint": "995a2ef67f3a77213ec4653bcba3eb98427b0524fa82dac148ff5f65ed5ccfc1",
+    "sourceChecks": [
+      {
+        "sourceId": "lex",
+        "verdict": "SUPPORTED",
+        "note": "独立读取 https://www.oxfordlearnersdictionaries.com/definition/english/contingency 词性、读音与义项；与contingency当前义/词族边界一致。"
+      },
+      {
+        "sourceId": "history",
+        "verdict": "SUPPORTED",
+        "note": "独立读取 https://www.etymonline.com/word/contingency 正文：contingent+-cy；可能事件与备用金均有记录。现代类比不当历史。"
+      }
+    ],
+    "modules": [
+      {
+        "id": "headword",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "Oxford英式/kənˈtɪndʒənsi/、n.与contingency精确对应；本轮独立逐词核验，无词性串读。",
+          "completion": "IPA、词性和a contingency plan足够支持认读与提取，不加不适用的字段；按客观短字段例外完整计4。",
+          "readability": "contingency后短IPA/词性/一条搭配层级明确，无解释性长句挤入认读字段。",
+          "increment": "词性、音标、搭配各提供不同检索线索且无冗余；客观短字段不要求额外教学段落。"
+        },
+        "issues": []
+      },
+      {
+        "id": "currentSense",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "a possible future problem that needs preparation精确呈现本句选择义；单词层级和focused sense一致，未混进词源或自编情景。",
+          "completion": "中英简释完整呈现当前选择义，无需给单词虚造拆词；按客观短字段契约充分完整。",
+          "readability": "可能发生且需要预先准备的意外情况与一行英文对应，先给可记忆的本句义，没有拉丁来源或多义列表插入。",
+          "increment": "仅保留当前sense，额外义项另放折叠区；以最短字段提供直接学习入口，符合无冗余高分例外。"
+        },
+        "issues": []
+      },
+      {
+        "id": "directExplanation",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 3,
+          "completion": 3,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "桥接符合原句：不是说评审人已经缺席，而是提前问：如果他来不了，谁来接替？contingency 指可能出",
+          "completion": "解释当前用法并给足最低情景线索，达到桥接任务；有例子本身不意味着4。",
+          "readability": "中文先交代语境用途，读者能跟上；仍有与本句先记/五区相似的表述。",
+          "increment": "在释义之后增加场景或判断角度，但后方五区多次回到同一点，按基本增量计。"
+        },
+        "issues": []
+      },
+      {
+        "id": "etymology",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 3,
+          "completion": 4,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "contingent+-cy；可能事件与备用金均有记录；可追溯是基本准确门槛。",
+          "completion": "历史来源只说可证部分，现代联系明确限定，再回本句；三种任务没有用待核段替代，必要边界与当前用法一并覆盖，按本区契约完整。",
+          "readability": "事情未定、偶然条件、可能事件的三个近义抽象短语连用，读者需自行压缩成可能发生。",
+          "increment": "历史新增理解；modern/current两段多重述五区，增量只给3"
+        },
+        "issues": []
+      },
+      {
+        "id": "context",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "逐句核对We need a contingency plan if the reviewer is unavailable.，中文保持原句请求/陈述、时态和条件关系，不加入已获批或真实工作纪实。",
+          "completion": "原句、准确中文及当句抓手各司其职，字段无需扩大成另一个讲解区；按短字段例外4。",
+          "readability": "单句中英文一一对应，抓手紧接本句；读者不需跨段找主语或把词源混入句义。",
+          "increment": "保留一个明确教学情境，给前方孤立词义提供使用锚点；无多余新故事，符合客观短字段效率标准。"
+        },
+        "issues": []
+      },
+      {
+        "id": "additionalSenses",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "独立核实扩展：contingency:备用金；应急款项",
+          "completion": "一个或多个已核实不同义/同族词即可完成所选义项任务；契约不要求全文词典或独立例句，现有标签足够。",
+          "readability": "lemma和词性把同族词/另一词性与本词区分；每项短中文后跟英文，不需额外图表即可辨认。",
+          "increment": "同词的另一真实义项与当前显示sense不同，短字段不重复且各有所指，按短字段无冗余例外4。"
+        },
+        "issues": []
+      },
+      {
+        "id": "examples",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "逐条核对本句及附加句“The budget covers this contingency.”的主语、动作、词义和中文；与已核实当前义对应，不冒充资料原文。",
+          "completion": "全部可见例句均有匹配中文和教学标识，没有遗留未核验的附加句；本模块不要求另添对话或新限制。",
+          "readability": "预算涵盖意外情况略硬，涵盖相应费用更自然",
+          "increment": "附加句提供一次迁移练习，但多数只是替换对象，没有展开不同使用条件，基本增量3。"
+        },
+        "issues": []
+      },
+      {
+        "id": "copyPayload",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "源码精确构造contingency和【深析】contingency，没有夹带释义、网页地址或隐形模板。",
+          "completion": "两组同一生成器遵守当前两个精确字符串契约；功能另行实测不是内容缺项，完整计4。",
+          "readability": "单词与带【深析】前缀的单词一眼可区分，没有需用户删改的附加说明。",
+          "increment": "两个负载仅差操作意图前缀，无冗余文本，符合客观短字段高分例外。"
+        },
+        "issues": []
+      }
+    ],
+    "calibration": {
+      "date": "2026-11-04",
+      "anchor": "3=准确清楚完成基本任务；4=具体文本展示超出基本完成的精确/自然/高效表现",
+      "scope": "8模块内容评分，不替代功能验收"
+    }
+  },
+  {
+    "cardId": "V20261012-020",
+    "ruleVersion": "whole-card/1",
+    "reviewer": "whole50_reviewer_group2",
+    "reviewedAt": "2026-11-04",
+    "fingerprint": "45ef7b211def113661c550e545a6d50e6b1d447df3b525ae6d7130a674ce0cf3",
+    "sourceChecks": [
+      {
+        "sourceId": "lex",
+        "verdict": "SUPPORTED",
+        "note": "独立读取 https://www.oxfordlearnersdictionaries.com/definition/english/trade-off_2 词性、读音与义项；与trade-off当前义/词族边界一致。"
+      },
+      {
+        "sourceId": "history",
+        "verdict": "SUPPORTED",
+        "note": "独立读取 https://www.etymonline.com/word/trade-off 正文：名词取自动词短语trade off，未拼造希腊来源。现代类比不当历史。"
+      }
+    ],
+    "modules": [
+      {
+        "id": "headword",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "Oxford英式/ˈtreɪd ɒf/、n.与trade-off精确对应；本轮独立逐词核验，无词性串读。",
+          "completion": "IPA、词性和a trade-off between speed and cost足够支持认读与提取，不加不适用的字段；按客观短字段例外完整计4。",
+          "readability": "trade-off后短IPA/词性/一条搭配层级明确，无解释性长句挤入认读字段。",
+          "increment": "词性、音标、搭配各提供不同检索线索且无冗余；客观短字段不要求额外教学段落。"
+        },
+        "issues": []
+      },
+      {
+        "id": "currentSense",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "a situation where gaining one benefit means giving up another精确呈现本句选择义；单词层级和focused sense一致，未混进词源或自编情景。",
+          "completion": "中英简释完整呈现当前选择义，无需给单词虚造拆词；按客观短字段契约充分完整。",
+          "readability": "获得一项优势时需要付出的另一项代价与一行英文对应，先给可记忆的本句义，没有拉丁来源或多义列表插入。",
+          "increment": "仅保留当前sense，额外义项另放折叠区；以最短字段提供直接学习入口，符合无冗余高分例外。"
+        },
+        "issues": []
+      },
+      {
+        "id": "directExplanation",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 3,
+          "completion": 3,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "桥接符合原句：把快与便宜放在一起看：如果想更快到货，可能需要加钱；如果坚持低价，可能要等更久。句子说存在",
+          "completion": "解释当前用法并给足最低情景线索，达到桥接任务；有例子本身不意味着4。",
+          "readability": "想快可能加钱、想省可能多等两面平行，把取舍映射到最熟悉的金额和等待，无抽象术语便可首读理解。",
+          "increment": "在释义之后增加场景或判断角度，但后方五区多次回到同一点，按基本增量计。"
+        },
+        "issues": []
+      },
+      {
+        "id": "etymology",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 3,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "名词取自动词短语trade off，未拼造希腊来源；可追溯是基本准确门槛。",
+          "completion": "历史来源只说可证部分，现代联系明确限定，再回本句；三种任务没有用待核段替代，必要边界与当前用法一并覆盖，按本区契约完整。",
+          "readability": "先用一个年份定位名词，再用交换过渡到速度和费用，历史与现代例子顺接且都用常见汉语。",
+          "increment": "历史新增理解；modern/current两段多重述五区，增量只给3"
+        },
+        "issues": []
+      },
+      {
+        "id": "context",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "逐句核对There is a trade-off between a faster delivery and a lower cost.，中文保持原句请求/陈述、时态和条件关系，不加入已获批或真实工作纪实。",
+          "completion": "原句、准确中文及当句抓手各司其职，字段无需扩大成另一个讲解区；按短字段例外4。",
+          "readability": "单句中英文一一对应，抓手紧接本句；读者不需跨段找主语或把词源混入句义。",
+          "increment": "保留一个明确教学情境，给前方孤立词义提供使用锚点；无多余新故事，符合客观短字段效率标准。"
+        },
+        "issues": []
+      },
+      {
+        "id": "additionalSenses",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "独立核实扩展：trade off:牺牲一项以换取另一项",
+          "completion": "一个或多个已核实不同义/同族词即可完成所选义项任务；契约不要求全文词典或独立例句，现有标签足够。",
+          "readability": "lemma和词性把同族词/另一词性与本词区分；每项短中文后跟英文，不需额外图表即可辨认。",
+          "increment": "同族词/另一词性真实有用，但不少已在g1或词源提及，整页新增有限，给3；不因缺额外例句扣分。"
+        },
+        "issues": []
+      },
+      {
+        "id": "examples",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "逐条核对本句及附加句“Every design involves a trade-off.”的主语、动作、词义和中文；与已核实当前义对应，不冒充资料原文。",
+          "completion": "全部可见例句均有匹配中文和教学标识，没有遗留未核验的附加句；本模块不要求另添对话或新限制。",
+          "readability": "附加句“Every design involves a trade-off.”只承载一个动作/判断，中文对应直接，不含嵌套因果或难追溯代词；首读能独立理解。",
+          "increment": "附加句提供一次迁移练习，但多数只是替换对象，没有展开不同使用条件，基本增量3。"
+        },
+        "issues": []
+      },
+      {
+        "id": "copyPayload",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "源码精确构造trade-off和【深析】trade-off，没有夹带释义、网页地址或隐形模板。",
+          "completion": "两组同一生成器遵守当前两个精确字符串契约；功能另行实测不是内容缺项，完整计4。",
+          "readability": "单词与带【深析】前缀的单词一眼可区分，没有需用户删改的附加说明。",
+          "increment": "两个负载仅差操作意图前缀，无冗余文本，符合客观短字段高分例外。"
+        },
+        "issues": []
+      }
+    ],
+    "calibration": {
+      "date": "2026-11-04",
+      "anchor": "3=准确清楚完成基本任务；4=具体文本展示超出基本完成的精确/自然/高效表现",
+      "scope": "8模块内容评分，不替代功能验收"
+    }
+  },
+  {
+    "cardId": "V20261012-041",
+    "ruleVersion": "whole-card/1",
+    "reviewer": "whole50_reviewer_group2",
+    "reviewedAt": "2026-11-04",
+    "fingerprint": "46f8621ed39be0678bfa38bdf9b57969521ae46a1824be9ced36e162a35e0a30",
+    "sourceChecks": [
+      {
+        "sourceId": "lex",
+        "verdict": "SUPPORTED",
+        "note": "独立读取 https://www.oxfordlearnersdictionaries.com/definition/english/agenda 词性、读音与义项；与agenda当前义/词族边界一致。"
+      },
+      {
+        "sourceId": "history",
+        "verdict": "SUPPORTED",
+        "note": "独立读取 https://www.etymonline.com/word/agenda 正文：agenda拉丁复数，现代an agenda有词典例。现代类比不当历史。"
+      }
+    ],
+    "modules": [
+      {
+        "id": "headword",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "Oxford英式/əˈdʒendə/、n.与agenda精确对应；本轮独立逐词核验，无词性串读。",
+          "completion": "IPA、词性和agree on the agenda足够支持认读与提取，不加不适用的字段；按客观短字段例外完整计4。",
+          "readability": "agenda后短IPA/词性/一条搭配层级明确，无解释性长句挤入认读字段。",
+          "increment": "词性、音标、搭配各提供不同检索线索且无冗余；客观短字段不要求额外教学段落。"
+        },
+        "issues": []
+      },
+      {
+        "id": "currentSense",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "a list of topics planned for a meeting精确呈现本句选择义；单词层级和focused sense一致，未混进词源或自编情景。",
+          "completion": "中英简释完整呈现当前选择义，无需给单词虚造拆词；按客观短字段契约充分完整。",
+          "readability": "会议准备讨论的事项清单与一行英文对应，先给可记忆的本句义，没有拉丁来源或多义列表插入。",
+          "increment": "仅保留当前sense，额外义项另放折叠区；以最短字段提供直接学习入口，符合无冗余高分例外。"
+        },
+        "issues": []
+      },
+      {
+        "id": "directExplanation",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 3,
+          "completion": 3,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "桥接符合原句：这里要的是会前发出的讨论清单。参会者看过清单才能准备资料；agenda 不等于会后记录了什",
+          "completion": "解释当前用法并给足最低情景线索，达到桥接任务；有例子本身不意味着4。",
+          "readability": "中文先交代语境用途，读者能跟上；仍有与本句先记/五区相似的表述。",
+          "increment": "在释义之后增加场景或判断角度，但后方五区多次回到同一点，按基本增量计。"
+        },
+        "issues": []
+      },
+      {
+        "id": "etymology",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "拉丁复数历史与现代an agenda分别陈述，主动阻断把源语言复数机械套到现代英语的具体误学风险。",
+          "completion": "历史来源只说可证部分，现代联系明确限定，再回本句；三种任务没有用待核段替代，必要边界与当前用法一并覆盖，按本区契约完整。",
+          "readability": "要做的事→会议处理什么→会前发送三步相接，拉丁复数紧接an agenda提醒，读者不会悬置语法疑问。",
+          "increment": "历史新增理解；modern/current两段多重述五区，增量只给3"
+        },
+        "issues": []
+      },
+      {
+        "id": "context",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "逐句核对Please send the agenda before the meeting.，中文保持原句请求/陈述、时态和条件关系，不加入已获批或真实工作纪实。",
+          "completion": "原句、准确中文及当句抓手各司其职，字段无需扩大成另一个讲解区；按短字段例外4。",
+          "readability": "单句中英文一一对应，抓手紧接本句；读者不需跨段找主语或把词源混入句义。",
+          "increment": "保留一个明确教学情境，给前方孤立词义提供使用锚点；无多余新故事，符合客观短字段效率标准。"
+        },
+        "issues": []
+      },
+      {
+        "id": "additionalSenses",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "独立核实扩展：agenda:行动目标；待处理的政策事项",
+          "completion": "一个或多个已核实不同义/同族词即可完成所选义项任务；契约不要求全文词典或独立例句，现有标签足够。",
+          "readability": "lemma和词性把同族词/另一词性与本词区分；每项短中文后跟英文，不需额外图表即可辨认。",
+          "increment": "同词的另一真实义项与当前显示sense不同，短字段不重复且各有所指，按短字段无冗余例外4。"
+        },
+        "issues": []
+      },
+      {
+        "id": "examples",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "逐条核对本句及附加句“Add staffing to tomorrow's agenda.”的主语、动作、词义和中文；与已核实当前义对应，不冒充资料原文。",
+          "completion": "全部可见例句均有匹配中文和教学标识，没有遗留未核验的附加句；本模块不要求另添对话或新限制。",
+          "readability": "附加句“Add staffing to tomorrow's agenda.”只承载一个动作/判断，中文对应直接，不含嵌套因果或难追溯代词；首读能独立理解。",
+          "increment": "附加句提供一次迁移练习，但多数只是替换对象，没有展开不同使用条件，基本增量3。"
+        },
+        "issues": []
+      },
+      {
+        "id": "copyPayload",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "源码精确构造agenda和【深析】agenda，没有夹带释义、网页地址或隐形模板。",
+          "completion": "两组同一生成器遵守当前两个精确字符串契约；功能另行实测不是内容缺项，完整计4。",
+          "readability": "单词与带【深析】前缀的单词一眼可区分，没有需用户删改的附加说明。",
+          "increment": "两个负载仅差操作意图前缀，无冗余文本，符合客观短字段高分例外。"
+        },
+        "issues": []
+      }
+    ],
+    "calibration": {
+      "date": "2026-11-04",
+      "anchor": "3=准确清楚完成基本任务；4=具体文本展示超出基本完成的精确/自然/高效表现",
+      "scope": "8模块内容评分，不替代功能验收"
+    }
+  },
+  {
+    "cardId": "V20261012-042",
+    "ruleVersion": "whole-card/1",
+    "reviewer": "whole50_reviewer_group2",
+    "reviewedAt": "2026-11-04",
+    "fingerprint": "0132d19857025d96f3c64affa4ec03468084514ecb4c7605f449246e6bb4f93b",
+    "sourceChecks": [
+      {
+        "sourceId": "lex",
+        "verdict": "SUPPORTED",
+        "note": "独立读取 https://www.oxfordlearnersdictionaries.com/definition/english/context 词性、读音与义项；与context当前义/词族边界一致。"
+      },
+      {
+        "sourceId": "history",
+        "verdict": "SUPPORTED",
+        "note": "独立读取 https://www.etymonline.com/word/context 正文：contextus/contexere编织；现代情境义由Oxford支持。现代类比不当历史。"
+      }
+    ],
+    "modules": [
+      {
+        "id": "headword",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "Oxford英式/ˈkɒntekst/、n.与context精确对应；本轮独立逐词核验，无词性串读。",
+          "completion": "IPA、词性和provide context足够支持认读与提取，不加不适用的字段；按客观短字段例外完整计4。",
+          "readability": "context后短IPA/词性/一条搭配层级明确，无解释性长句挤入认读字段。",
+          "increment": "词性、音标、搭配各提供不同检索线索且无冗余；客观短字段不要求额外教学段落。"
+        },
+        "issues": []
+      },
+      {
+        "id": "currentSense",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "background circumstances that help explain something精确呈现本句选择义；单词层级和focused sense一致，未混进词源或自编情景。",
+          "completion": "中英简释完整呈现当前选择义，无需给单词虚造拆词；按客观短字段契约充分完整。",
+          "readability": "理解当前事项所需的背景与一行英文对应，先给可记忆的本句义，没有拉丁来源或多义列表插入。",
+          "increment": "仅保留当前sense，额外义项另放折叠区；以最短字段提供直接学习入口，符合无冗余高分例外。"
+        },
+        "issues": []
+      },
+      {
+        "id": "directExplanation",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 3,
+          "completion": 3,
+          "readability": 3,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "桥接符合原句：先说明事情是在什么情况下发生的，再比较选项。例如报价变高，可能是需求增加了；没有这个背景，",
+          "completion": "解释当前用法并给足最低情景线索，达到桥接任务；有例子本身不意味着4。",
+          "readability": "中文先交代语境用途，读者能跟上；仍有与本句先记/五区相似的表述。",
+          "increment": "报价升高可能因需求增加的反例展示没有背景会如何误解，不仅说背景重要；增加判断前提的因果信息。"
+        },
+        "issues": []
+      },
+      {
+        "id": "etymology",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 3,
+          "completion": 4,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "contextus/contexere编织；现代情境义由Oxford支持；可追溯是基本准确门槛。",
+          "completion": "历史来源只说可证部分，现代联系明确限定，再回本句；三种任务没有用待核段替代，必要边界与当前用法一并覆盖，按本区契约完整。",
+          "readability": "contextus/contexere两拉丁形式后接文章整体、前后文、相关情况三个层次，虽有中文但首段密度较高。",
+          "increment": "历史新增理解；modern/current两段多重述五区，增量只给3"
+        },
+        "issues": []
+      },
+      {
+        "id": "context",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "逐句核对Let me provide some context before we discuss the options.，中文保持原句请求/陈述、时态和条件关系，不加入已获批或真实工作纪实。",
+          "completion": "原句、准确中文及当句抓手各司其职，字段无需扩大成另一个讲解区；按短字段例外4。",
+          "readability": "单句中英文一一对应，抓手紧接本句；读者不需跨段找主语或把词源混入句义。",
+          "increment": "保留一个明确教学情境，给前方孤立词义提供使用锚点；无多余新故事，符合客观短字段效率标准。"
+        },
+        "issues": []
+      },
+      {
+        "id": "additionalSenses",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "独立核实扩展：context:上下文；前后文",
+          "completion": "一个或多个已核实不同义/同族词即可完成所选义项任务；契约不要求全文词典或独立例句，现有标签足够。",
+          "readability": "lemma和词性把同族词/另一词性与本词区分；每项短中文后跟英文，不需额外图表即可辨认。",
+          "increment": "同词的另一真实义项与当前显示sense不同，短字段不重复且各有所指，按短字段无冗余例外4。"
+        },
+        "issues": []
+      },
+      {
+        "id": "examples",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "逐条核对本句及附加句“The chart needs more context.”的主语、动作、词义和中文；与已核实当前义对应，不冒充资料原文。",
+          "completion": "全部可见例句均有匹配中文和教学标识，没有遗留未核验的附加句；本模块不要求另添对话或新限制。",
+          "readability": "附加句“The chart needs more context.”只承载一个动作/判断，中文对应直接，不含嵌套因果或难追溯代词；首读能独立理解。",
+          "increment": "附加句提供一次迁移练习，但多数只是替换对象，没有展开不同使用条件，基本增量3。"
+        },
+        "issues": []
+      },
+      {
+        "id": "copyPayload",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "源码精确构造context和【深析】context，没有夹带释义、网页地址或隐形模板。",
+          "completion": "两组同一生成器遵守当前两个精确字符串契约；功能另行实测不是内容缺项，完整计4。",
+          "readability": "单词与带【深析】前缀的单词一眼可区分，没有需用户删改的附加说明。",
+          "increment": "两个负载仅差操作意图前缀，无冗余文本，符合客观短字段高分例外。"
+        },
+        "issues": []
+      }
+    ],
+    "calibration": {
+      "date": "2026-11-04",
+      "anchor": "3=准确清楚完成基本任务；4=具体文本展示超出基本完成的精确/自然/高效表现",
+      "scope": "8模块内容评分，不替代功能验收"
+    }
+  },
+  {
+    "cardId": "V20261012-043",
+    "ruleVersion": "whole-card/1",
+    "reviewer": "whole50_reviewer_group2",
+    "reviewedAt": "2026-11-04",
+    "fingerprint": "ac6c2f694a8360a43435a306e9b465ecb84f84be36da33ddfcdaedb6cade7218",
+    "sourceChecks": [
+      {
+        "sourceId": "lex",
+        "verdict": "SUPPORTED",
+        "note": "独立读取 https://www.oxfordlearnersdictionaries.com/definition/english/clarify 词性、读音与义项；与clarify当前义/词族边界一致。"
+      },
+      {
+        "sourceId": "history",
+        "verdict": "SUPPORTED",
+        "note": "独立读取 https://www.etymonline.com/word/clarify 正文：clarificare与clarus，液体/意思两用法不强造单线故事。现代类比不当历史。"
+      }
+    ],
+    "modules": [
+      {
+        "id": "headword",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "Oxford英式/ˈklærəfaɪ/、v.与clarify精确对应；本轮独立逐词核验，无词性串读。",
+          "completion": "IPA、词性和clarify a requirement足够支持认读与提取，不加不适用的字段；按客观短字段例外完整计4。",
+          "readability": "clarify后短IPA/词性/一条搭配层级明确，无解释性长句挤入认读字段。",
+          "increment": "词性、音标、搭配各提供不同检索线索且无冗余；客观短字段不要求额外教学段落。"
+        },
+        "issues": []
+      },
+      {
+        "id": "currentSense",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "to make a meaning or issue easier to understand精确呈现本句选择义；单词层级和focused sense一致，未混进词源或自编情景。",
+          "completion": "中英简释完整呈现当前选择义，无需给单词虚造拆词；按客观短字段契约充分完整。",
+          "readability": "把含糊的意思、范围或要求讲清楚与一行英文对应，先给可记忆的本句义，没有拉丁来源或多义列表插入。",
+          "increment": "仅保留当前sense，额外义项另放折叠区；以最短字段提供直接学习入口，符合无冗余高分例外。"
+        },
+        "issues": []
+      },
+      {
+        "id": "directExplanation",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 3,
+          "completion": 3,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "桥接符合原句：对方提出了请求，但你还不清楚它包含哪些工作。clarify 在这里要求补清范围：例如是否只",
+          "completion": "解释当前用法并给足最低情景线索，达到桥接任务；有例子本身不意味着4。",
+          "readability": "中文先交代语境用途，读者能跟上；仍有与本句先记/五区相似的表述。",
+          "increment": "在释义之后增加场景或判断角度，但后方五区多次回到同一点，按基本增量计。"
+        },
+        "issues": []
+      },
+      {
+        "id": "etymology",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 3,
+          "completion": 4,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "clarificare与clarus，液体/意思两用法不强造单线故事；可追溯是基本准确门槛。",
+          "completion": "历史来源只说可证部分，现代联系明确限定，再回本句；三种任务没有用待核段替代，必要边界与当前用法一并覆盖，按本区契约完整。",
+          "readability": "使清楚/明亮、液体澄清、意思易懂、单一故事四种说法挤在首段，能读懂但历史线索不够干净。",
+          "increment": "历史新增理解；modern/current两段多重述五区，增量只给3"
+        },
+        "issues": []
+      },
+      {
+        "id": "context",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "逐句核对Could you clarify what is included in this request?，中文保持原句请求/陈述、时态和条件关系，不加入已获批或真实工作纪实。",
+          "completion": "原句、准确中文及当句抓手各司其职，字段无需扩大成另一个讲解区；按短字段例外4。",
+          "readability": "单句中英文一一对应，抓手紧接本句；读者不需跨段找主语或把词源混入句义。",
+          "increment": "保留一个明确教学情境，给前方孤立词义提供使用锚点；无多余新故事，符合客观短字段效率标准。"
+        },
+        "issues": []
+      },
+      {
+        "id": "additionalSenses",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "独立核实扩展：clarification:澄清；使意思清楚的说明",
+          "completion": "一个或多个已核实不同义/同族词即可完成所选义项任务；契约不要求全文词典或独立例句，现有标签足够。",
+          "readability": "lemma和词性把同族词/另一词性与本词区分；每项短中文后跟英文，不需额外图表即可辨认。",
+          "increment": "同族词/另一词性真实有用，但不少已在g1或词源提及，整页新增有限，给3；不因缺额外例句扣分。"
+        },
+        "issues": []
+      },
+      {
+        "id": "examples",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "逐条核对本句及附加句“Please clarify the payment terms.”的主语、动作、词义和中文；与已核实当前义对应，不冒充资料原文。",
+          "completion": "全部可见例句均有匹配中文和教学标识，没有遗留未核验的附加句；本模块不要求另添对话或新限制。",
+          "readability": "附加句“Please clarify the payment terms.”只承载一个动作/判断，中文对应直接，不含嵌套因果或难追溯代词；首读能独立理解。",
+          "increment": "附加句提供一次迁移练习，但多数只是替换对象，没有展开不同使用条件，基本增量3。"
+        },
+        "issues": []
+      },
+      {
+        "id": "copyPayload",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "源码精确构造clarify和【深析】clarify，没有夹带释义、网页地址或隐形模板。",
+          "completion": "两组同一生成器遵守当前两个精确字符串契约；功能另行实测不是内容缺项，完整计4。",
+          "readability": "单词与带【深析】前缀的单词一眼可区分，没有需用户删改的附加说明。",
+          "increment": "两个负载仅差操作意图前缀，无冗余文本，符合客观短字段高分例外。"
+        },
+        "issues": []
+      }
+    ],
+    "calibration": {
+      "date": "2026-11-04",
+      "anchor": "3=准确清楚完成基本任务；4=具体文本展示超出基本完成的精确/自然/高效表现",
+      "scope": "8模块内容评分，不替代功能验收"
+    }
+  },
+  {
+    "cardId": "V20261012-044",
+    "ruleVersion": "whole-card/1",
+    "reviewer": "whole50_reviewer_group2",
+    "reviewedAt": "2026-11-04",
+    "fingerprint": "2440d56b4b1dd95a4ec558c92eec94222d89967bec63f09849d2d4bdd7f9b2b7",
+    "sourceChecks": [
+      {
+        "sourceId": "lex",
+        "verdict": "SUPPORTED",
+        "note": "独立读取 https://www.oxfordlearnersdictionaries.com/definition/english/confirm 词性、读音与义项；与confirm当前义/词族边界一致。"
+      },
+      {
+        "sourceId": "history",
+        "verdict": "SUPPORTED",
+        "note": "独立读取 https://www.etymonline.com/word/confirm 正文：confirmare/firmus使坚固与核实义有据。现代类比不当历史。"
+      }
+    ],
+    "modules": [
+      {
+        "id": "headword",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "Oxford英式/kənˈfɜːm/、v.与confirm精确对应；本轮独立逐词核验，无词性串读。",
+          "completion": "IPA、词性和confirm the owner足够支持认读与提取，不加不适用的字段；按客观短字段例外完整计4。",
+          "readability": "confirm后短IPA/词性/一条搭配层级明确，无解释性长句挤入认读字段。",
+          "increment": "词性、音标、搭配各提供不同检索线索且无冗余；客观短字段不要求额外教学段落。"
+        },
+        "issues": []
+      },
+      {
+        "id": "currentSense",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 3,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "英文建立/说明确定较宽，中文又含双方理解是否成立；当前确认负责人可用，但词义概括仍比原句宽，给3。",
+          "completion": "中英简释完整呈现当前选择义，无需给单词虚造拆词；按客观短字段契约充分完整。",
+          "readability": "确认信息、安排或双方理解是否成立与一行英文对应，先给可记忆的本句义，没有拉丁来源或多义列表插入。",
+          "increment": "仅保留当前sense，额外义项另放折叠区；以最短字段提供直接学习入口，符合无冗余高分例外。"
+        },
+        "issues": []
+      },
+      {
+        "id": "directExplanation",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 3,
+          "completion": 3,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "桥接符合原句：现在需要一个明确的人名：下一步到底谁负责？请对方核实或确定这个归属，好让行动事项有人接手。",
+          "completion": "解释当前用法并给足最低情景线索，达到桥接任务；有例子本身不意味着4。",
+          "readability": "中文先交代语境用途，读者能跟上；仍有与本句先记/五区相似的表述。",
+          "increment": "在释义之后增加场景或判断角度，但后方五区多次回到同一点，按基本增量计。"
+        },
+        "issues": []
+      },
+      {
+        "id": "etymology",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 3,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "confirmare/firmus使坚固与核实义有据；可追溯是基本准确门槛。",
+          "completion": "历史来源只说可证部分，现代联系明确限定，再回本句；三种任务没有用待核段替代，必要边界与当前用法一并覆盖，按本区契约完整。",
+          "readability": "使坚固→firm稳固→信息确定依次用中文复述同一形象，最后落到负责人，没有陌生历史分支。",
+          "increment": "历史新增理解；modern/current两段多重述五区，增量只给3"
+        },
+        "issues": []
+      },
+      {
+        "id": "context",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "逐句核对Please confirm who will own the next action.，中文保持原句请求/陈述、时态和条件关系，不加入已获批或真实工作纪实。",
+          "completion": "原句、准确中文及当句抓手各司其职，字段无需扩大成另一个讲解区；按短字段例外4。",
+          "readability": "单句中英文一一对应，抓手紧接本句；读者不需跨段找主语或把词源混入句义。",
+          "increment": "保留一个明确教学情境，给前方孤立词义提供使用锚点；无多余新故事，符合客观短字段效率标准。"
+        },
+        "issues": []
+      },
+      {
+        "id": "additionalSenses",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "独立核实扩展：confirm:确定；使安排正式生效",
+          "completion": "一个或多个已核实不同义/同族词即可完成所选义项任务；契约不要求全文词典或独立例句，现有标签足够。",
+          "readability": "lemma和词性把同族词/另一词性与本词区分；每项短中文后跟英文，不需额外图表即可辨认。",
+          "increment": "同词的另一真实义项与当前显示sense不同，短字段不重复且各有所指，按短字段无冗余例外4。"
+        },
+        "issues": []
+      },
+      {
+        "id": "examples",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "逐条核对本句及附加句“Confirm the quantity before ordering.”的主语、动作、词义和中文；与已核实当前义对应，不冒充资料原文。",
+          "completion": "全部可见例句均有匹配中文和教学标识，没有遗留未核验的附加句；本模块不要求另添对话或新限制。",
+          "readability": "附加句“Confirm the quantity before ordering.”只承载一个动作/判断，中文对应直接，不含嵌套因果或难追溯代词；首读能独立理解。",
+          "increment": "附加句提供一次迁移练习，但多数只是替换对象，没有展开不同使用条件，基本增量3。"
+        },
+        "issues": []
+      },
+      {
+        "id": "copyPayload",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "源码精确构造confirm和【深析】confirm，没有夹带释义、网页地址或隐形模板。",
+          "completion": "两组同一生成器遵守当前两个精确字符串契约；功能另行实测不是内容缺项，完整计4。",
+          "readability": "单词与带【深析】前缀的单词一眼可区分，没有需用户删改的附加说明。",
+          "increment": "两个负载仅差操作意图前缀，无冗余文本，符合客观短字段高分例外。"
+        },
+        "issues": []
+      }
+    ],
+    "calibration": {
+      "date": "2026-11-04",
+      "anchor": "3=准确清楚完成基本任务；4=具体文本展示超出基本完成的精确/自然/高效表现",
+      "scope": "8模块内容评分，不替代功能验收"
+    }
+  },
+  {
+    "cardId": "V20261012-045",
+    "ruleVersion": "whole-card/1",
+    "reviewer": "whole50_reviewer_group2",
+    "reviewedAt": "2026-11-04",
+    "fingerprint": "556a7c00bfd547ad0061ce9c6a890a6b51076ce6edd5289b91506ea17b1030dd",
+    "sourceChecks": [
+      {
+        "sourceId": "lex",
+        "verdict": "SUPPORTED",
+        "note": "独立读取 https://www.oxfordlearnersdictionaries.com/definition/english/specify 词性、读音与义项；与specify当前义/词族边界一致。"
+      },
+      {
+        "sourceId": "history",
+        "verdict": "SUPPORTED",
+        "note": "独立读取 https://www.etymonline.com/word/specify 正文：specificare明确指出；未虚构尾部独立词。现代类比不当历史。"
+      }
+    ],
+    "modules": [
+      {
+        "id": "headword",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "Oxford英式/ˈspesɪfaɪ/、v.与specify精确对应；本轮独立逐词核验，无词性串读。",
+          "completion": "IPA、词性和specify the conditions足够支持认读与提取，不加不适用的字段；按客观短字段例外完整计4。",
+          "readability": "specify后短IPA/词性/一条搭配层级明确，无解释性长句挤入认读字段。",
+          "increment": "词性、音标、搭配各提供不同检索线索且无冗余；客观短字段不要求额外教学段落。"
+        },
+        "issues": []
+      },
+      {
+        "id": "currentSense",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "to state something precisely and explicitly精确呈现本句选择义；单词层级和focused sense一致，未混进词源或自编情景。",
+          "completion": "中英简释完整呈现当前选择义，无需给单词虚造拆词；按客观短字段契约充分完整。",
+          "readability": "明确写出或说出具体要求与一行英文对应，先给可记忆的本句义，没有拉丁来源或多义列表插入。",
+          "increment": "仅保留当前sense，额外义项另放折叠区；以最短字段提供直接学习入口，符合无冗余高分例外。"
+        },
+        "issues": []
+      },
+      {
+        "id": "directExplanation",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 3,
+          "completion": 3,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "桥接符合原句：不要只说条件合适就接受。specify 要求把条件逐项说清楚，例如需要什么价格、日期或文件",
+          "completion": "解释当前用法并给足最低情景线索，达到桥接任务；有例子本身不意味着4。",
+          "readability": "中文先交代语境用途，读者能跟上；仍有与本句先记/五区相似的表述。",
+          "increment": "在释义之后增加场景或判断角度，但后方五区多次回到同一点，按基本增量计。"
+        },
+        "issues": []
+      },
+      {
+        "id": "etymology",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 3,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "specificare明确指出；未虚构尾部独立词；可追溯是基本准确门槛。",
+          "completion": "历史来源只说可证部分，现代联系明确限定，再回本句；三种任务没有用待核段替代，必要边界与当前用法一并覆盖，按本区契约完整。",
+          "readability": "历史明确指出接具体/具体说出来，再用尽快与周五五点短对照，语言层层具体化。",
+          "increment": "历史新增理解；modern/current两段多重述五区，增量只给3"
+        },
+        "issues": []
+      },
+      {
+        "id": "context",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "逐句核对Please specify the conditions for accepting this proposal.，中文保持原句请求/陈述、时态和条件关系，不加入已获批或真实工作纪实。",
+          "completion": "原句、准确中文及当句抓手各司其职，字段无需扩大成另一个讲解区；按短字段例外4。",
+          "readability": "单句中英文一一对应，抓手紧接本句；读者不需跨段找主语或把词源混入句义。",
+          "increment": "保留一个明确教学情境，给前方孤立词义提供使用锚点；无多余新故事，符合客观短字段效率标准。"
+        },
+        "issues": []
+      },
+      {
+        "id": "additionalSenses",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "独立核实扩展：specification:规格说明；具体要求",
+          "completion": "一个或多个已核实不同义/同族词即可完成所选义项任务；契约不要求全文词典或独立例句，现有标签足够。",
+          "readability": "lemma和词性把同族词/另一词性与本词区分；每项短中文后跟英文，不需额外图表即可辨认。",
+          "increment": "同族词/另一词性真实有用，但不少已在g1或词源提及，整页新增有限，给3；不因缺额外例句扣分。"
+        },
+        "issues": []
+      },
+      {
+        "id": "examples",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "逐条核对本句及附加句“The contract specifies delivery dates.”的主语、动作、词义和中文；与已核实当前义对应，不冒充资料原文。",
+          "completion": "全部可见例句均有匹配中文和教学标识，没有遗留未核验的附加句；本模块不要求另添对话或新限制。",
+          "readability": "附加句“The contract specifies delivery dates.”只承载一个动作/判断，中文对应直接，不含嵌套因果或难追溯代词；首读能独立理解。",
+          "increment": "附加句提供一次迁移练习，但多数只是替换对象，没有展开不同使用条件，基本增量3。"
+        },
+        "issues": []
+      },
+      {
+        "id": "copyPayload",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "源码精确构造specify和【深析】specify，没有夹带释义、网页地址或隐形模板。",
+          "completion": "两组同一生成器遵守当前两个精确字符串契约；功能另行实测不是内容缺项，完整计4。",
+          "readability": "单词与带【深析】前缀的单词一眼可区分，没有需用户删改的附加说明。",
+          "increment": "两个负载仅差操作意图前缀，无冗余文本，符合客观短字段高分例外。"
+        },
+        "issues": []
+      }
+    ],
+    "calibration": {
+      "date": "2026-11-04",
+      "anchor": "3=准确清楚完成基本任务；4=具体文本展示超出基本完成的精确/自然/高效表现",
+      "scope": "8模块内容评分，不替代功能验收"
+    }
+  },
+  {
+    "cardId": "V20261012-046",
+    "ruleVersion": "whole-card/1",
+    "reviewer": "whole50_reviewer_group2",
+    "reviewedAt": "2026-11-04",
+    "fingerprint": "c7600887e54d1b9073f0ee745cbcaef4eb0f96a235d002be0cdb6483c6069083",
+    "sourceChecks": [
+      {
+        "sourceId": "lex",
+        "verdict": "SUPPORTED",
+        "note": "独立读取 https://www.oxfordlearnersdictionaries.com/definition/english/elaborate_2 词性、读音与义项；与elaborate当前义/词族边界一致。"
+      },
+      {
+        "sourceId": "history",
+        "verdict": "SUPPORTED",
+        "note": "独立读取 https://www.etymonline.com/word/elaborate 正文：elaborare劳动与详细展开有据，动词形容词分音。现代类比不当历史。"
+      }
+    ],
+    "modules": [
+      {
+        "id": "headword",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "除确认动词/ɪˈlæbəreɪt/外，明确提示形容词结尾/ət/，避免同形词读音混用；精确处理了本词特有难点。",
+          "completion": "IPA、词性和elaborate on a point足够支持认读与提取，不加不适用的字段；按客观短字段例外完整计4。",
+          "readability": "elaborate后短IPA/词性/一条搭配层级明确，无解释性长句挤入认读字段。",
+          "increment": "词性、音标、搭配各提供不同检索线索且无冗余；客观短字段不要求额外教学段落。"
+        },
+        "issues": []
+      },
+      {
+        "id": "currentSense",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "to add details to something already said精确呈现本句选择义；单词层级和focused sense一致，未混进词源或自编情景。",
+          "completion": "中英简释完整呈现当前选择义，无需给单词虚造拆词；按客观短字段契约充分完整。",
+          "readability": "对已经说出的观点进一步详细说明与一行英文对应，先给可记忆的本句义，没有拉丁来源或多义列表插入。",
+          "increment": "仅保留当前sense，额外义项另放折叠区；以最短字段提供直接学习入口，符合无冗余高分例外。"
+        },
+        "issues": []
+      },
+      {
+        "id": "directExplanation",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 3,
+          "completion": 3,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "桥接符合原句：已经知道对方担心时间安排，现在请他把担心展开：是哪一步耗时长，会影响什么？这里需要相关细节",
+          "completion": "解释当前用法并给足最低情景线索，达到桥接任务；有例子本身不意味着4。",
+          "readability": "中文先交代语境用途，读者能跟上；仍有与本句先记/五区相似的表述。",
+          "increment": "在释义之后增加场景或判断角度，但后方五区多次回到同一点，按基本增量计。"
+        },
+        "issues": []
+      },
+      {
+        "id": "etymology",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 3,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "elaborare劳动与详细展开有据，动词形容词分音；可追溯是基本准确门槛。",
+          "completion": "历史来源只说可证部分，现代联系明确限定，再回本句；三种任务没有用待核段替代，必要边界与当前用法一并覆盖，按本区契约完整。",
+          "readability": "付劳动、展开细节、时间担忧三步递进，词性差异一句点出；无需从拉丁语自行推义。",
+          "increment": "历史新增理解；modern/current两段多重述五区，增量只给3"
+        },
+        "issues": []
+      },
+      {
+        "id": "context",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "逐句核对Could you elaborate on the concern about timing?，中文保持原句请求/陈述、时态和条件关系，不加入已获批或真实工作纪实。",
+          "completion": "原句、准确中文及当句抓手各司其职，字段无需扩大成另一个讲解区；按短字段例外4。",
+          "readability": "单句中英文一一对应，抓手紧接本句；读者不需跨段找主语或把词源混入句义。",
+          "increment": "保留一个明确教学情境，给前方孤立词义提供使用锚点；无多余新故事，符合客观短字段效率标准。"
+        },
+        "issues": []
+      },
+      {
+        "id": "additionalSenses",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "独立核实扩展：elaborate:精心制作的；复杂详尽的",
+          "completion": "一个或多个已核实不同义/同族词即可完成所选义项任务；契约不要求全文词典或独立例句，现有标签足够。",
+          "readability": "lemma和词性把同族词/另一词性与本词区分；每项短中文后跟英文，不需额外图表即可辨认。",
+          "increment": "同族词/另一词性真实有用，但不少已在g1或词源提及，整页新增有限，给3；不因缺额外例句扣分。"
+        },
+        "issues": []
+      },
+      {
+        "id": "examples",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "逐条核对本句及附加句“Could you elaborate on that risk?”的主语、动作、词义和中文；与已核实当前义对应，不冒充资料原文。",
+          "completion": "全部可见例句均有匹配中文和教学标识，没有遗留未核验的附加句；本模块不要求另添对话或新限制。",
+          "readability": "附加句“Could you elaborate on that risk?”只承载一个动作/判断，中文对应直接，不含嵌套因果或难追溯代词；首读能独立理解。",
+          "increment": "附加句提供一次迁移练习，但多数只是替换对象，没有展开不同使用条件，基本增量3。"
+        },
+        "issues": []
+      },
+      {
+        "id": "copyPayload",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "源码精确构造elaborate和【深析】elaborate，没有夹带释义、网页地址或隐形模板。",
+          "completion": "两组同一生成器遵守当前两个精确字符串契约；功能另行实测不是内容缺项，完整计4。",
+          "readability": "单词与带【深析】前缀的单词一眼可区分，没有需用户删改的附加说明。",
+          "increment": "两个负载仅差操作意图前缀，无冗余文本，符合客观短字段高分例外。"
+        },
+        "issues": []
+      }
+    ],
+    "calibration": {
+      "date": "2026-11-04",
+      "anchor": "3=准确清楚完成基本任务；4=具体文本展示超出基本完成的精确/自然/高效表现",
+      "scope": "8模块内容评分，不替代功能验收"
+    }
+  },
+  {
+    "cardId": "V20261012-047",
+    "ruleVersion": "whole-card/1",
+    "reviewer": "whole50_reviewer_group2",
+    "reviewedAt": "2026-11-04",
+    "fingerprint": "a9218cd385073ae20e8f239ea5ee9d7e541dc4ffce11879b92ec02045752fd19",
+    "sourceChecks": [
+      {
+        "sourceId": "lex",
+        "verdict": "SUPPORTED",
+        "note": "独立读取 https://www.oxfordlearnersdictionaries.com/definition/english/summarize 词性、读音与义项；与summarize当前义/词族边界一致。"
+      },
+      {
+        "sourceId": "history",
+        "verdict": "SUPPORTED",
+        "note": "独立读取 https://www.etymonline.com/word/summarize 正文：summary+-ize及summa要旨有据。现代类比不当历史。"
+      }
+    ],
+    "modules": [
+      {
+        "id": "headword",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "Oxford英式/ˈsʌməraɪz/、v.与summarize精确对应；本轮独立逐词核验，无词性串读。",
+          "completion": "IPA、词性和summarize the discussion足够支持认读与提取，不加不适用的字段；按客观短字段例外完整计4。",
+          "readability": "summarize后短IPA/词性/一条搭配层级明确，无解释性长句挤入认读字段。",
+          "increment": "词性、音标、搭配各提供不同检索线索且无冗余；客观短字段不要求额外教学段落。"
+        },
+        "issues": []
+      },
+      {
+        "id": "currentSense",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "to present the main points briefly and clearly精确呈现本句选择义；单词层级和focused sense一致，未混进词源或自编情景。",
+          "completion": "中英简释完整呈现当前选择义，无需给单词虚造拆词；按客观短字段契约充分完整。",
+          "readability": "概括重点而不是重复全部细节与一行英文对应，先给可记忆的本句义，没有拉丁来源或多义列表插入。",
+          "increment": "仅保留当前sense，额外义项另放折叠区；以最短字段提供直接学习入口，符合无冗余高分例外。"
+        },
+        "issues": []
+      },
+      {
+        "id": "directExplanation",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 3,
+          "completion": 3,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "桥接符合原句：把长讨论压缩成听得懂的重点：一栏是已决定的事，另一栏是还没解决的问题。简短不等于把未解决的",
+          "completion": "解释当前用法并给足最低情景线索，达到桥接任务；有例子本身不意味着4。",
+          "readability": "中文先交代语境用途，读者能跟上；仍有与本句先记/五区相似的表述。",
+          "increment": "在释义之后增加场景或判断角度，但后方五区多次回到同一点，按基本增量计。"
+        },
+        "issues": []
+      },
+      {
+        "id": "etymology",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 3,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "summary+-ize及summa要旨有据；可追溯是基本准确门槛。",
+          "completion": "历史来源只说可证部分，现代联系明确限定，再回本句；三种任务没有用待核段替代，必要边界与当前用法一并覆盖，按本区契约完整。",
+          "readability": "summa已译总和/要旨，随后概要/做概要直接对应名词动词，再落到决定和未决问题；关系易追。",
+          "increment": "历史新增理解；modern/current两段多重述五区，增量只给3"
+        },
+        "issues": []
+      },
+      {
+        "id": "context",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "逐句核对Let me summarize the decisions and remaining questions.，中文保持原句请求/陈述、时态和条件关系，不加入已获批或真实工作纪实。",
+          "completion": "原句、准确中文及当句抓手各司其职，字段无需扩大成另一个讲解区；按短字段例外4。",
+          "readability": "单句中英文一一对应，抓手紧接本句；读者不需跨段找主语或把词源混入句义。",
+          "increment": "保留一个明确教学情境，给前方孤立词义提供使用锚点；无多余新故事，符合客观短字段效率标准。"
+        },
+        "issues": []
+      },
+      {
+        "id": "additionalSenses",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "独立核实扩展：summary:摘要；概要",
+          "completion": "一个或多个已核实不同义/同族词即可完成所选义项任务；契约不要求全文词典或独立例句，现有标签足够。",
+          "readability": "lemma和词性把同族词/另一词性与本词区分；每项短中文后跟英文，不需额外图表即可辨认。",
+          "increment": "同族词/另一词性真实有用，但不少已在g1或词源提及，整页新增有限，给3；不因缺额外例句扣分。"
+        },
+        "issues": []
+      },
+      {
+        "id": "examples",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "逐条核对本句及附加句“Summarize the findings in one paragraph.”的主语、动作、词义和中文；与已核实当前义对应，不冒充资料原文。",
+          "completion": "全部可见例句均有匹配中文和教学标识，没有遗留未核验的附加句；本模块不要求另添对话或新限制。",
+          "readability": "附加句“Summarize the findings in one paragraph.”只承载一个动作/判断，中文对应直接，不含嵌套因果或难追溯代词；首读能独立理解。",
+          "increment": "附加句提供一次迁移练习，但多数只是替换对象，没有展开不同使用条件，基本增量3。"
+        },
+        "issues": []
+      },
+      {
+        "id": "copyPayload",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "源码精确构造summarize和【深析】summarize，没有夹带释义、网页地址或隐形模板。",
+          "completion": "两组同一生成器遵守当前两个精确字符串契约；功能另行实测不是内容缺项，完整计4。",
+          "readability": "单词与带【深析】前缀的单词一眼可区分，没有需用户删改的附加说明。",
+          "increment": "两个负载仅差操作意图前缀，无冗余文本，符合客观短字段高分例外。"
+        },
+        "issues": []
+      }
+    ],
+    "calibration": {
+      "date": "2026-11-04",
+      "anchor": "3=准确清楚完成基本任务；4=具体文本展示超出基本完成的精确/自然/高效表现",
+      "scope": "8模块内容评分，不替代功能验收"
+    }
+  },
+  {
+    "cardId": "V20261012-048",
+    "ruleVersion": "whole-card/1",
+    "reviewer": "whole50_reviewer_group2",
+    "reviewedAt": "2026-11-04",
+    "fingerprint": "ce7a41de870a344c0bf91136e4961de68455884b84eb570b8841a943be484674",
+    "sourceChecks": [
+      {
+        "sourceId": "lex",
+        "verdict": "SUPPORTED",
+        "note": "独立读取 https://www.oxfordlearnersdictionaries.com/definition/english/recap_1 词性、读音与义项；与recap当前义/词族边界一致。"
+      },
+      {
+        "sourceId": "history",
+        "verdict": "SUPPORTED",
+        "note": "独立读取 https://www.etymonline.com/word/recap 正文：recapitulate缩略有据，因年代资料不同不落年份。现代类比不当历史。"
+      }
+    ],
+    "modules": [
+      {
+        "id": "headword",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "Oxford英式/ˈriːkæp/、v.与recap精确对应；本轮独立逐词核验，无词性串读。",
+          "completion": "IPA、词性和recap the main points足够支持认读与提取，不加不适用的字段；按客观短字段例外完整计4。",
+          "readability": "recap后短IPA/词性/一条搭配层级明确，无解释性长句挤入认读字段。",
+          "increment": "词性、音标、搭配各提供不同检索线索且无冗余；客观短字段不要求额外教学段落。"
+        },
+        "issues": []
+      },
+      {
+        "id": "currentSense",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "to briefly go over the main points again精确呈现本句选择义；单词层级和focused sense一致，未混进词源或自编情景。",
+          "completion": "中英简释完整呈现当前选择义，无需给单词虚造拆词；按客观短字段契约充分完整。",
+          "readability": "简短回顾已经讨论或发生的内容与一行英文对应，先给可记忆的本句义，没有拉丁来源或多义列表插入。",
+          "increment": "仅保留当前sense，额外义项另放折叠区；以最短字段提供直接学习入口，符合无冗余高分例外。"
+        },
+        "issues": []
+      },
+      {
+        "id": "directExplanation",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 3,
+          "completion": 3,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "桥接符合原句：新成员刚进入讨论，需要先知道大家谈到了哪里。recap 要把前面的要点补给他，而不是从头重",
+          "completion": "解释当前用法并给足最低情景线索，达到桥接任务；有例子本身不意味着4。",
+          "readability": "中文先交代语境用途，读者能跟上；仍有与本句先记/五区相似的表述。",
+          "increment": "在释义之后增加场景或判断角度，但后方五区多次回到同一点，按基本增量计。"
+        },
+        "issues": []
+      },
+      {
+        "id": "etymology",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "明确只采用recapitulate缩略这一共同事实，并识别Oxford与Etymonline年代不一致而不选具体年；同时排除另一同形词重新戴帽义的混淆。",
+          "completion": "历史来源只说可证部分，现代联系明确限定，再回本句；三种任务没有用待核段替代，必要边界与当前用法一并覆盖，按本区契约完整。",
+          "readability": "首段介绍年代冲突和重新戴帽的另一同形义，防错有用但读者为当前回顾义需处理额外旁支。",
+          "increment": "历史新增理解；modern/current两段多重述五区，增量只给3"
+        },
+        "issues": []
+      },
+      {
+        "id": "context",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "逐句核对Could you recap the main points for the new team member?，中文保持原句请求/陈述、时态和条件关系，不加入已获批或真实工作纪实。",
+          "completion": "原句、准确中文及当句抓手各司其职，字段无需扩大成另一个讲解区；按短字段例外4。",
+          "readability": "单句中英文一一对应，抓手紧接本句；读者不需跨段找主语或把词源混入句义。",
+          "increment": "保留一个明确教学情境，给前方孤立词义提供使用锚点；无多余新故事，符合客观短字段效率标准。"
+        },
+        "issues": []
+      },
+      {
+        "id": "additionalSenses",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "独立核实扩展：recap:简要回顾；重述要点",
+          "completion": "一个或多个已核实不同义/同族词即可完成所选义项任务；契约不要求全文词典或独立例句，现有标签足够。",
+          "readability": "lemma和词性把同族词/另一词性与本词区分；每项短中文后跟英文，不需额外图表即可辨认。",
+          "increment": "同族词/另一词性真实有用，但不少已在g1或词源提及，整页新增有限，给3；不因缺额外例句扣分。"
+        },
+        "issues": []
+      },
+      {
+        "id": "examples",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "逐条核对本句及附加句“Let's recap yesterday's decisions.”的主语、动作、词义和中文；与已核实当前义对应，不冒充资料原文。",
+          "completion": "全部可见例句均有匹配中文和教学标识，没有遗留未核验的附加句；本模块不要求另添对话或新限制。",
+          "readability": "附加句“Let's recap yesterday's decisions.”只承载一个动作/判断，中文对应直接，不含嵌套因果或难追溯代词；首读能独立理解。",
+          "increment": "附加句提供一次迁移练习，但多数只是替换对象，没有展开不同使用条件，基本增量3。"
+        },
+        "issues": []
+      },
+      {
+        "id": "copyPayload",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "源码精确构造recap和【深析】recap，没有夹带释义、网页地址或隐形模板。",
+          "completion": "两组同一生成器遵守当前两个精确字符串契约；功能另行实测不是内容缺项，完整计4。",
+          "readability": "单词与带【深析】前缀的单词一眼可区分，没有需用户删改的附加说明。",
+          "increment": "两个负载仅差操作意图前缀，无冗余文本，符合客观短字段高分例外。"
+        },
+        "issues": []
+      }
+    ],
+    "calibration": {
+      "date": "2026-11-04",
+      "anchor": "3=准确清楚完成基本任务；4=具体文本展示超出基本完成的精确/自然/高效表现",
+      "scope": "8模块内容评分，不替代功能验收"
+    }
+  },
+  {
+    "cardId": "V20261012-049",
+    "ruleVersion": "whole-card/1",
+    "reviewer": "whole50_reviewer_group2",
+    "reviewedAt": "2026-11-04",
+    "fingerprint": "a2c426a9d4b2b8ec64b68a11febe5d465a5faed04c10af77208224dcebd05f13",
+    "sourceChecks": [
+      {
+        "sourceId": "lex",
+        "verdict": "SUPPORTED",
+        "note": "独立读取 https://www.oxfordlearnersdictionaries.com/definition/english/align 词性、读音与义项；与align当前义/词族边界一致。"
+      },
+      {
+        "sourceId": "history",
+        "verdict": "SUPPORTED",
+        "note": "独立读取 https://www.etymonline.com/word/align 正文：法语alignier及linea线有据，不写现代工作用法首创。现代类比不当历史。"
+      }
+    ],
+    "modules": [
+      {
+        "id": "headword",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "Oxford英式/əˈlaɪn/、v.与align精确对应；本轮独立逐词核验，无词性串读。",
+          "completion": "IPA、词性和align on priorities足够支持认读与提取，不加不适用的字段；按客观短字段例外完整计4。",
+          "readability": "align后短IPA/词性/一条搭配层级明确，无解释性长句挤入认读字段。",
+          "increment": "词性、音标、搭配各提供不同检索线索且无冗余；客观短字段不要求额外教学段落。"
+        },
+        "issues": []
+      },
+      {
+        "id": "currentSense",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "to bring plans or views into agreement精确呈现本句选择义；单词层级和focused sense一致，未混进词源或自编情景。",
+          "completion": "中英简释完整呈现当前选择义，无需给单词虚造拆词；按客观短字段契约充分完整。",
+          "readability": "使目标、理解或安排彼此一致与一行英文对应，先给可记忆的本句义，没有拉丁来源或多义列表插入。",
+          "increment": "仅保留当前sense，额外义项另放折叠区；以最短字段提供直接学习入口，符合无冗余高分例外。"
+        },
+        "issues": []
+      },
+      {
+        "id": "directExplanation",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 3,
+          "completion": 3,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "桥接符合原句：先让大家对先做什么有一致理解，再分任务。否则有人先赶测试，有人先改设计，各自很忙却可能互相",
+          "completion": "解释当前用法并给足最低情景线索，达到桥接任务；有例子本身不意味着4。",
+          "readability": "有人赶测试、有人改设计、忙却卡住的短场景让方向不一致可见，较抽象的协调一致明显易懂。",
+          "increment": "在释义之后增加场景或判断角度，但后方五区多次回到同一点，按基本增量计。"
+        },
+        "issues": []
+      },
+      {
+        "id": "etymology",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 3,
+          "completion": 4,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "法语alignier及linea线有据，不写现代工作用法首创；可追溯是基本准确门槛。",
+          "completion": "历史来源只说可证部分，现代联系明确限定，再回本句；三种任务没有用待核段替代，必要边界与当前用法一并覆盖，按本区契约完整。",
+          "readability": "法语词形、ligne、拉丁linea多个形式后才落到工作含义，首段语言来源层次较密。",
+          "increment": "历史新增理解；modern/current两段多重述五区，增量只给3"
+        },
+        "issues": []
+      },
+      {
+        "id": "context",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "逐句核对We need to align on priorities before assigning the work.，中文保持原句请求/陈述、时态和条件关系，不加入已获批或真实工作纪实。",
+          "completion": "原句、准确中文及当句抓手各司其职，字段无需扩大成另一个讲解区；按短字段例外4。",
+          "readability": "单句中英文一一对应，抓手紧接本句；读者不需跨段找主语或把词源混入句义。",
+          "increment": "保留一个明确教学情境，给前方孤立词义提供使用锚点；无多余新故事，符合客观短字段效率标准。"
+        },
+        "issues": []
+      },
+      {
+        "id": "additionalSenses",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "独立核实扩展：align:排成一线；对齐",
+          "completion": "一个或多个已核实不同义/同族词即可完成所选义项任务；契约不要求全文词典或独立例句，现有标签足够。",
+          "readability": "lemma和词性把同族词/另一词性与本词区分；每项短中文后跟英文，不需额外图表即可辨认。",
+          "increment": "同词的另一真实义项与当前显示sense不同，短字段不重复且各有所指，按短字段无冗余例外4。"
+        },
+        "issues": []
+      },
+      {
+        "id": "examples",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "逐条核对本句及附加句“Align the forecast with actual orders.”的主语、动作、词义和中文；与已核实当前义对应，不冒充资料原文。",
+          "completion": "全部可见例句均有匹配中文和教学标识，没有遗留未核验的附加句；本模块不要求另添对话或新限制。",
+          "readability": "附加句“Align the forecast with actual orders.”只承载一个动作/判断，中文对应直接，不含嵌套因果或难追溯代词；首读能独立理解。",
+          "increment": "附加句提供一次迁移练习，但多数只是替换对象，没有展开不同使用条件，基本增量3。"
+        },
+        "issues": []
+      },
+      {
+        "id": "copyPayload",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "源码精确构造align和【深析】align，没有夹带释义、网页地址或隐形模板。",
+          "completion": "两组同一生成器遵守当前两个精确字符串契约；功能另行实测不是内容缺项，完整计4。",
+          "readability": "单词与带【深析】前缀的单词一眼可区分，没有需用户删改的附加说明。",
+          "increment": "两个负载仅差操作意图前缀，无冗余文本，符合客观短字段高分例外。"
+        },
+        "issues": []
+      }
+    ],
+    "calibration": {
+      "date": "2026-11-04",
+      "anchor": "3=准确清楚完成基本任务；4=具体文本展示超出基本完成的精确/自然/高效表现",
+      "scope": "8模块内容评分，不替代功能验收"
+    }
+  },
+  {
+    "cardId": "V20261012-050",
+    "ruleVersion": "whole-card/1",
+    "reviewer": "whole50_reviewer_group2",
+    "reviewedAt": "2026-11-04",
+    "fingerprint": "c8d6e4dd2ef149f288e1fe7ba93e9475fc234af272264a1ff813012f55cd1d08",
+    "sourceChecks": [
+      {
+        "sourceId": "lex",
+        "verdict": "SUPPORTED",
+        "note": "独立读取 https://www.oxfordlearnersdictionaries.com/definition/english/consensus 词性、读音与义项；与consensus当前义/词族边界一致。"
+      },
+      {
+        "sourceId": "history",
+        "verdict": "SUPPORTED",
+        "note": "独立读取 https://www.etymonline.com/word/consensus 正文：consensus/consentire共同同意有据，不推出投票程序。现代类比不当历史。"
+      }
+    ],
+    "modules": [
+      {
+        "id": "headword",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "Oxford英式/kənˈsensəs/、n.与consensus精确对应；本轮独立逐词核验，无词性串读。",
+          "completion": "IPA、词性和reach a consensus足够支持认读与提取，不加不适用的字段；按客观短字段例外完整计4。",
+          "readability": "consensus后短IPA/词性/一条搭配层级明确，无解释性长句挤入认读字段。",
+          "increment": "词性、音标、搭配各提供不同检索线索且无冗余；客观短字段不要求额外教学段落。"
+        },
+        "issues": []
+      },
+      {
+        "id": "currentSense",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "broad agreement within a group精确呈现本句选择义；单词层级和focused sense一致，未混进词源或自编情景。",
+          "completion": "中英简释完整呈现当前选择义，无需给单词虚造拆词；按客观短字段契约充分完整。",
+          "readability": "团队对某个方向形成的普遍共识与一行英文对应，先给可记忆的本句义，没有拉丁来源或多义列表插入。",
+          "increment": "仅保留当前sense，额外义项另放折叠区；以最短字段提供直接学习入口，符合无冗余高分例外。"
+        },
+        "issues": []
+      },
+      {
+        "id": "directExplanation",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 3,
+          "completion": 3,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "桥接符合原句：大家已经就主要目标形成了共同意见。注意限定词 on the main objective：",
+          "completion": "解释当前用法并给足最低情景线索，达到桥接任务；有例子本身不意味着4。",
+          "readability": "中文先交代语境用途，读者能跟上；仍有与本句先记/五区相似的表述。",
+          "increment": "在释义之后增加场景或判断角度，但后方五区多次回到同一点，按基本增量计。"
+        },
+        "issues": []
+      },
+      {
+        "id": "etymology",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 3,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "consensus/consentire共同同意有据，不推出投票程序；可追溯是基本准确门槛。",
+          "completion": "历史来源只说可证部分，现代联系明确限定，再回本句；三种任务没有用待核段替代，必要边界与当前用法一并覆盖，按本区契约完整。",
+          "readability": "拉丁形式即给同意/共同感受中文；随后目标与期限分歧直指本句限定对象，句间承接明确。",
+          "increment": "历史新增理解；modern/current两段多重述五区，增量只给3"
+        },
+        "issues": []
+      },
+      {
+        "id": "context",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "逐句核对We reached a consensus on the main objective.，中文保持原句请求/陈述、时态和条件关系，不加入已获批或真实工作纪实。",
+          "completion": "原句、准确中文及当句抓手各司其职，字段无需扩大成另一个讲解区；按短字段例外4。",
+          "readability": "单句中英文一一对应，抓手紧接本句；读者不需跨段找主语或把词源混入句义。",
+          "increment": "保留一个明确教学情境，给前方孤立词义提供使用锚点；无多余新故事，符合客观短字段效率标准。"
+        },
+        "issues": []
+      },
+      {
+        "id": "additionalSenses",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "独立核实扩展：consensual:共同同意的；经各方认可的",
+          "completion": "一个或多个已核实不同义/同族词即可完成所选义项任务；契约不要求全文词典或独立例句，现有标签足够。",
+          "readability": "lemma和词性把同族词/另一词性与本词区分；每项短中文后跟英文，不需额外图表即可辨认。",
+          "increment": "同族词/另一词性真实有用，但不少已在g1或词源提及，整页新增有限，给3；不因缺额外例句扣分。"
+        },
+        "issues": []
+      },
+      {
+        "id": "examples",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "逐条核对本句及附加句“There is no consensus on pricing.”的主语、动作、词义和中文；与已核实当前义对应，不冒充资料原文。",
+          "completion": "全部可见例句均有匹配中文和教学标识，没有遗留未核验的附加句；本模块不要求另添对话或新限制。",
+          "readability": "附加句“There is no consensus on pricing.”只承载一个动作/判断，中文对应直接，不含嵌套因果或难追溯代词；首读能独立理解。",
+          "increment": "附加句提供一次迁移练习，但多数只是替换对象，没有展开不同使用条件，基本增量3。"
+        },
+        "issues": []
+      },
+      {
+        "id": "copyPayload",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "源码精确构造consensus和【深析】consensus，没有夹带释义、网页地址或隐形模板。",
+          "completion": "两组同一生成器遵守当前两个精确字符串契约；功能另行实测不是内容缺项，完整计4。",
+          "readability": "单词与带【深析】前缀的单词一眼可区分，没有需用户删改的附加说明。",
+          "increment": "两个负载仅差操作意图前缀，无冗余文本，符合客观短字段高分例外。"
+        },
+        "issues": []
+      }
+    ],
+    "calibration": {
+      "date": "2026-11-04",
+      "anchor": "3=准确清楚完成基本任务；4=具体文本展示超出基本完成的精确/自然/高效表现",
+      "scope": "8模块内容评分，不替代功能验收"
+    }
+  },
+  {
+    "cardId": "V20261012-051",
+    "ruleVersion": "whole-card/1",
+    "reviewer": "whole50_reviewer_group2",
+    "reviewedAt": "2026-11-04",
+    "fingerprint": "6e6a69b9f6f3dd378c1ae97cd6740fdb6b19c633d51b7288532cfd81b2dddeb5",
+    "sourceChecks": [
+      {
+        "sourceId": "lex",
+        "verdict": "SUPPORTED",
+        "note": "独立读取 https://www.oxfordlearnersdictionaries.com/definition/english/concern_2 词性、读音与义项；与concern当前义/词族边界一致。"
+      },
+      {
+        "sourceId": "history",
+        "verdict": "SUPPORTED",
+        "note": "独立读取 https://www.etymonline.com/word/concern 正文：有关到担忧的历史有据，未以筛子词根硬译。现代类比不当历史。"
+      }
+    ],
+    "modules": [
+      {
+        "id": "headword",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "Oxford英式/kənˈsɜːn/、n.与concern精确对应；本轮独立逐词核验，无词性串读。",
+          "completion": "IPA、词性和raise a concern足够支持认读与提取，不加不适用的字段；按客观短字段例外完整计4。",
+          "readability": "concern后短IPA/词性/一条搭配层级明确，无解释性长句挤入认读字段。",
+          "increment": "词性、音标、搭配各提供不同检索线索且无冗余；客观短字段不要求额外教学段落。"
+        },
+        "issues": []
+      },
+      {
+        "id": "currentSense",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 3,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "英文指担心，中文还包括值得注意的事项，略拓宽当前担忧义；核心可用但精确度3。",
+          "completion": "中英简释完整呈现当前选择义，无需给单词虚造拆词；按客观短字段契约充分完整。",
+          "readability": "值得注意或让人担心的事项与一行英文对应，先给可记忆的本句义，没有拉丁来源或多义列表插入。",
+          "increment": "仅保留当前sense，额外义项另放折叠区；以最短字段提供直接学习入口，符合无冗余高分例外。"
+        },
+        "issues": []
+      },
+      {
+        "id": "directExplanation",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 3,
+          "completion": 3,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "桥接符合原句：说话者先指出最放心不下的一点：留给评审的时间。先把这个问题放到桌面上，还不是宣布整个方案必",
+          "completion": "解释当前用法并给足最低情景线索，达到桥接任务；有例子本身不意味着4。",
+          "readability": "中文先交代语境用途，读者能跟上；仍有与本句先记/五区相似的表述。",
+          "increment": "在释义之后增加场景或判断角度，但后方五区多次回到同一点，按基本增量计。"
+        },
+        "issues": []
+      },
+      {
+        "id": "etymology",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 3,
+          "completion": 4,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "有关到担忧的历史有据，未以筛子词根硬译；可追溯是基本准确门槛。",
+          "completion": "历史来源只说可证部分，现代联系明确限定，再回本句；三种任务没有用待核段替代，必要边界与当前用法一并覆盖，按本区契约完整。",
+          "readability": "有关到担忧易懂，但更早的拉丁语线索没有具体说明，随后与我有关/值得注意/担心层层改述，稍绕。",
+          "increment": "历史新增理解；modern/current两段多重述五区，增量只给3"
+        },
+        "issues": [
+          {
+            "blocking": false,
+            "note": "当前回用的时间不足是合理猜测，宜加可能，与g2信息边界一致"
+          }
+        ]
+      },
+      {
+        "id": "context",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "逐句核对My main concern is the time available for review.，中文保持原句请求/陈述、时态和条件关系，不加入已获批或真实工作纪实。",
+          "completion": "原句、准确中文及当句抓手各司其职，字段无需扩大成另一个讲解区；按短字段例外4。",
+          "readability": "单句中英文一一对应，抓手紧接本句；读者不需跨段找主语或把词源混入句义。",
+          "increment": "保留一个明确教学情境，给前方孤立词义提供使用锚点；无多余新故事，符合客观短字段效率标准。"
+        },
+        "issues": []
+      },
+      {
+        "id": "additionalSenses",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "独立核实扩展：concern:企业；公司",
+          "completion": "一个或多个已核实不同义/同族词即可完成所选义项任务；契约不要求全文词典或独立例句，现有标签足够。",
+          "readability": "lemma和词性把同族词/另一词性与本词区分；每项短中文后跟英文，不需额外图表即可辨认。",
+          "increment": "同词的另一真实义项与当前显示sense不同，短字段不重复且各有所指，按短字段无冗余例外4。"
+        },
+        "issues": []
+      },
+      {
+        "id": "examples",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "逐条核对本句及附加句“Her concern about safety was valid.”的主语、动作、词义和中文；与已核实当前义对应，不冒充资料原文。",
+          "completion": "全部可见例句均有匹配中文和教学标识，没有遗留未核验的附加句；本模块不要求另添对话或新限制。",
+          "readability": "附加句“Her concern about safety was valid.”只承载一个动作/判断，中文对应直接，不含嵌套因果或难追溯代词；首读能独立理解。",
+          "increment": "附加句提供一次迁移练习，但多数只是替换对象，没有展开不同使用条件，基本增量3。"
+        },
+        "issues": []
+      },
+      {
+        "id": "copyPayload",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "源码精确构造concern和【深析】concern，没有夹带释义、网页地址或隐形模板。",
+          "completion": "两组同一生成器遵守当前两个精确字符串契约；功能另行实测不是内容缺项，完整计4。",
+          "readability": "单词与带【深析】前缀的单词一眼可区分，没有需用户删改的附加说明。",
+          "increment": "两个负载仅差操作意图前缀，无冗余文本，符合客观短字段高分例外。"
+        },
+        "issues": []
+      }
+    ],
+    "calibration": {
+      "date": "2026-11-04",
+      "anchor": "3=准确清楚完成基本任务；4=具体文本展示超出基本完成的精确/自然/高效表现",
+      "scope": "8模块内容评分，不替代功能验收"
+    }
+  },
+  {
+    "cardId": "V20261012-052",
+    "ruleVersion": "whole-card/1",
+    "reviewer": "whole50_reviewer_group2",
+    "reviewedAt": "2026-11-04",
+    "fingerprint": "d82058a084ebe241e685f5c1454d7258587b0a6562f81d89d4c9f2b260deca53",
+    "sourceChecks": [
+      {
+        "sourceId": "lex",
+        "verdict": "SUPPORTED",
+        "note": "独立读取 https://www.oxfordlearnersdictionaries.com/definition/english/objection 词性、读音与义项；与objection当前义/词族边界一致。"
+      },
+      {
+        "sourceId": "history",
+        "verdict": "SUPPORTED",
+        "note": "独立读取 https://www.etymonline.com/word/objection 正文：objectionem/obicere摆前/反对有据。现代类比不当历史。"
+      }
+    ],
+    "modules": [
+      {
+        "id": "headword",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "Oxford英式/əbˈdʒekʃn/、n.与objection精确对应；本轮独立逐词核验，无词性串读。",
+          "completion": "IPA、词性和raise an objection足够支持认读与提取，不加不适用的字段；按客观短字段例外完整计4。",
+          "readability": "objection后短IPA/词性/一条搭配层级明确，无解释性长句挤入认读字段。",
+          "increment": "词性、音标、搭配各提供不同检索线索且无冗余；客观短字段不要求额外教学段落。"
+        },
+        "issues": []
+      },
+      {
+        "id": "currentSense",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "an expression or reason for opposing something精确呈现本句选择义；单词层级和focused sense一致，未混进词源或自编情景。",
+          "completion": "中英简释完整呈现当前选择义，无需给单词虚造拆词；按客观短字段契约充分完整。",
+          "readability": "对提议明确表示反对的理由或意见与一行英文对应，先给可记忆的本句义，没有拉丁来源或多义列表插入。",
+          "increment": "仅保留当前sense，额外义项另放折叠区；以最短字段提供直接学习入口，符合无冗余高分例外。"
+        },
+        "issues": []
+      },
+      {
+        "id": "directExplanation",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 3,
+          "completion": 3,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "桥接符合原句：顺序已经调整过，现在给大家一个明确提出反对的机会。回答时最好指出哪一步有问题，以及新顺序为",
+          "completion": "解释当前用法并给足最低情景线索，达到桥接任务；有例子本身不意味着4。",
+          "readability": "中文先交代语境用途，读者能跟上；仍有与本句先记/五区相似的表述。",
+          "increment": "在释义之后增加场景或判断角度，但后方五区多次回到同一点，按基本增量计。"
+        },
+        "issues": []
+      },
+      {
+        "id": "etymology",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 3,
+          "completion": 4,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "objectionem/obicere摆前/反对有据；可追溯是基本准确门槛。",
+          "completion": "历史来源只说可证部分，现代联系明确限定，再回本句；三种任务没有用待核段替代，必要边界与当前用法一并覆盖，按本区契约完整。",
+          "readability": "后期拉丁语、obicere、摆到前面与字面扔东西同段出现，虽有中文仍需辨认字面图景与当前义。",
+          "increment": "历史新增理解；modern/current两段多重述五区，增量只给3"
+        },
+        "issues": []
+      },
+      {
+        "id": "context",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "逐句核对Does anyone have an objection to the revised sequence?，中文保持原句请求/陈述、时态和条件关系，不加入已获批或真实工作纪实。",
+          "completion": "原句、准确中文及当句抓手各司其职，字段无需扩大成另一个讲解区；按短字段例外4。",
+          "readability": "单句中英文一一对应，抓手紧接本句；读者不需跨段找主语或把词源混入句义。",
+          "increment": "保留一个明确教学情境，给前方孤立词义提供使用锚点；无多余新故事，符合客观短字段效率标准。"
+        },
+        "issues": []
+      },
+      {
+        "id": "additionalSenses",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "独立核实扩展：object:反对；提出异议",
+          "completion": "一个或多个已核实不同义/同族词即可完成所选义项任务；契约不要求全文词典或独立例句，现有标签足够。",
+          "readability": "lemma和词性把同族词/另一词性与本词区分；每项短中文后跟英文，不需额外图表即可辨认。",
+          "increment": "同族词/另一词性真实有用，但不少已在g1或词源提及，整页新增有限，给3；不因缺额外例句扣分。"
+        },
+        "issues": []
+      },
+      {
+        "id": "examples",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "逐条核对本句及附加句“The supplier raised an objection.”的主语、动作、词义和中文；与已核实当前义对应，不冒充资料原文。",
+          "completion": "全部可见例句均有匹配中文和教学标识，没有遗留未核验的附加句；本模块不要求另添对话或新限制。",
+          "readability": "附加句“The supplier raised an objection.”只承载一个动作/判断，中文对应直接，不含嵌套因果或难追溯代词；首读能独立理解。",
+          "increment": "附加句提供一次迁移练习，但多数只是替换对象，没有展开不同使用条件，基本增量3。"
+        },
+        "issues": []
+      },
+      {
+        "id": "copyPayload",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "源码精确构造objection和【深析】objection，没有夹带释义、网页地址或隐形模板。",
+          "completion": "两组同一生成器遵守当前两个精确字符串契约；功能另行实测不是内容缺项，完整计4。",
+          "readability": "单词与带【深析】前缀的单词一眼可区分，没有需用户删改的附加说明。",
+          "increment": "两个负载仅差操作意图前缀，无冗余文本，符合客观短字段高分例外。"
+        },
+        "issues": []
+      }
+    ],
+    "calibration": {
+      "date": "2026-11-04",
+      "anchor": "3=准确清楚完成基本任务；4=具体文本展示超出基本完成的精确/自然/高效表现",
+      "scope": "8模块内容评分，不替代功能验收"
+    }
+  },
+  {
+    "cardId": "V20261012-053",
+    "ruleVersion": "whole-card/1",
+    "reviewer": "whole50_reviewer_group2",
+    "reviewedAt": "2026-11-04",
+    "fingerprint": "449a679069e866b72a432f965615d70cd5d70c80afdc3ba25ec820f6123029c0",
+    "sourceChecks": [
+      {
+        "sourceId": "lex",
+        "verdict": "SUPPORTED",
+        "note": "独立读取 https://www.oxfordlearnersdictionaries.com/definition/english/reservation 词性、读音与义项；与reservation当前义/词族边界一致。"
+      },
+      {
+        "sourceId": "history",
+        "verdict": "SUPPORTED",
+        "note": "独立读取 https://www.etymonline.com/word/reservation 正文：reservare保留，疑虑非酒店预订单线衍生。现代类比不当历史。"
+      }
+    ],
+    "modules": [
+      {
+        "id": "headword",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "Oxford英式/ˌrezəˈveɪʃn/、n.与reservation精确对应；本轮独立逐词核验，无词性串读。",
+          "completion": "IPA、词性和have reservations about足够支持认读与提取，不加不适用的字段；按客观短字段例外完整计4。",
+          "readability": "reservation后短IPA/词性/一条搭配层级明确，无解释性长句挤入认读字段。",
+          "increment": "词性、音标、搭配各提供不同检索线索且无冗余；客观短字段不要求额外教学段落。"
+        },
+        "issues": []
+      },
+      {
+        "id": "currentSense",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "a doubt that prevents complete acceptance精确呈现本句选择义；单词层级和focused sense一致，未混进词源或自编情景。",
+          "completion": "中英简释完整呈现当前选择义，无需给单词虚造拆词；按客观短字段契约充分完整。",
+          "readability": "尚未消除的保留意见或疑虑与一行英文对应，先给可记忆的本句义，没有拉丁来源或多义列表插入。",
+          "increment": "仅保留当前sense，额外义项另放折叠区；以最短字段提供直接学习入口，符合无冗余高分例外。"
+        },
+        "issues": []
+      },
+      {
+        "id": "directExplanation",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 3,
+          "completion": 3,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "桥接符合原句：说话者暂时不能完全接受在评审前就作出承诺。疑虑针对这个时间点；你需要继续问原因，而不是直接",
+          "completion": "解释当前用法并给足最低情景线索，达到桥接任务；有例子本身不意味着4。",
+          "readability": "中文先交代语境用途，读者能跟上；仍有与本句先记/五区相似的表述。",
+          "increment": "在释义之后增加场景或判断角度，但后方五区多次回到同一点，按基本增量计。"
+        },
+        "issues": []
+      },
+      {
+        "id": "etymology",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 3,
+          "completion": 4,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "reservare保留，疑虑非酒店预订单线衍生；可追溯是基本准确门槛。",
+          "completion": "历史来源只说可证部分，现代联系明确限定，再回本句；三种任务没有用待核段替代，必要边界与当前用法一并覆盖，按本区契约完整。",
+          "readability": "尚未完全交出同意的比喻不如还不能完全同意直接，酒店位置联系又切换场景，首读需转换。",
+          "increment": "历史新增理解；modern/current两段多重述五区，增量只给3"
+        },
+        "issues": []
+      },
+      {
+        "id": "context",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "逐句核对I have reservations about committing before the review.，中文保持原句请求/陈述、时态和条件关系，不加入已获批或真实工作纪实。",
+          "completion": "原句、准确中文及当句抓手各司其职，字段无需扩大成另一个讲解区；按短字段例外4。",
+          "readability": "单句中英文一一对应，抓手紧接本句；读者不需跨段找主语或把词源混入句义。",
+          "increment": "保留一个明确教学情境，给前方孤立词义提供使用锚点；无多余新故事，符合客观短字段效率标准。"
+        },
+        "issues": []
+      },
+      {
+        "id": "additionalSenses",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "独立核实扩展：reservation:预订；预约",
+          "completion": "一个或多个已核实不同义/同族词即可完成所选义项任务；契约不要求全文词典或独立例句，现有标签足够。",
+          "readability": "lemma和词性把同族词/另一词性与本词区分；每项短中文后跟英文，不需额外图表即可辨认。",
+          "increment": "同词的另一真实义项与当前显示sense不同，短字段不重复且各有所指，按短字段无冗余例外4。"
+        },
+        "issues": []
+      },
+      {
+        "id": "examples",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "逐条核对本句及附加句“She expressed reservations about the estimate.”的主语、动作、词义和中文；与已核实当前义对应，不冒充资料原文。",
+          "completion": "全部可见例句均有匹配中文和教学标识，没有遗留未核验的附加句；本模块不要求另添对话或新限制。",
+          "readability": "附加句“She expressed reservations about the estimate.”只承载一个动作/判断，中文对应直接，不含嵌套因果或难追溯代词；首读能独立理解。",
+          "increment": "附加句提供一次迁移练习，但多数只是替换对象，没有展开不同使用条件，基本增量3。"
+        },
+        "issues": []
+      },
+      {
+        "id": "copyPayload",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "源码精确构造reservation和【深析】reservation，没有夹带释义、网页地址或隐形模板。",
+          "completion": "两组同一生成器遵守当前两个精确字符串契约；功能另行实测不是内容缺项，完整计4。",
+          "readability": "单词与带【深析】前缀的单词一眼可区分，没有需用户删改的附加说明。",
+          "increment": "两个负载仅差操作意图前缀，无冗余文本，符合客观短字段高分例外。"
+        },
+        "issues": []
+      }
+    ],
+    "calibration": {
+      "date": "2026-11-04",
+      "anchor": "3=准确清楚完成基本任务；4=具体文本展示超出基本完成的精确/自然/高效表现",
+      "scope": "8模块内容评分，不替代功能验收"
+    }
+  },
+  {
+    "cardId": "V20261012-054",
+    "ruleVersion": "whole-card/1",
+    "reviewer": "whole50_reviewer_group2",
+    "reviewedAt": "2026-11-04",
+    "fingerprint": "2e065e3e3af8f39151082e06bed4f62fbbb2e49816ee8dd06487f4fcdff60cfe",
+    "sourceChecks": [
+      {
+        "sourceId": "lex",
+        "verdict": "SUPPORTED",
+        "note": "独立读取 https://www.oxfordlearnersdictionaries.com/definition/english/rationale 词性、读音与义项；与rationale当前义/词族边界一致。"
+      },
+      {
+        "sourceId": "history",
+        "verdict": "SUPPORTED",
+        "note": "独立读取 https://www.etymonline.com/word/rationale 正文：Late Latin rationale与rationalis理性有据。现代类比不当历史。"
+      }
+    ],
+    "modules": [
+      {
+        "id": "headword",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "Oxford英式/ˌræʃəˈnɑːl/、n.与rationale精确对应；本轮独立逐词核验，无词性串读。",
+          "completion": "IPA、词性和explain the rationale足够支持认读与提取，不加不适用的字段；按客观短字段例外完整计4。",
+          "readability": "rationale后短IPA/词性/一条搭配层级明确，无解释性长句挤入认读字段。",
+          "increment": "词性、音标、搭配各提供不同检索线索且无冗余；客观短字段不要求额外教学段落。"
+        },
+        "issues": []
+      },
+      {
+        "id": "currentSense",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "the reasons used to explain a decision or action精确呈现本句选择义；单词层级和focused sense一致，未混进词源或自编情景。",
+          "completion": "中英简释完整呈现当前选择义，无需给单词虚造拆词；按客观短字段契约充分完整。",
+          "readability": "某项决定或方案背后的理由与一行英文对应，先给可记忆的本句义，没有拉丁来源或多义列表插入。",
+          "increment": "仅保留当前sense，额外义项另放折叠区；以最短字段提供直接学习入口，符合无冗余高分例外。"
+        },
+        "issues": []
+      },
+      {
+        "id": "directExplanation",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 3,
+          "completion": 3,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "桥接符合原句：已经知道优先级变了，现在问的是为什么要改。对方应解释新信息或限制怎样导致这个决定，而不只是",
+          "completion": "解释当前用法并给足最低情景线索，达到桥接任务；有例子本身不意味着4。",
+          "readability": "中文先交代语境用途，读者能跟上；仍有与本句先记/五区相似的表述。",
+          "increment": "在释义之后增加场景或判断角度，但后方五区多次回到同一点，按基本增量计。"
+        },
+        "issues": []
+      },
+      {
+        "id": "etymology",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 3,
+          "completion": 4,
+          "readability": 3,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "Late Latin rationale与rationalis理性有据；可追溯是基本准确门槛。",
+          "completion": "历史来源只说可证部分，现代联系明确限定，再回本句；三种任务没有用待核段替代，必要边界与当前用法一并覆盖，按本区契约完整。",
+          "readability": "rationale/rationalis/rational三近形词连续出现，需要读者同时跟踪来源、名词和形容词。",
+          "increment": "历史新增理解；modern/current两段多重述五区，增量只给3"
+        },
+        "issues": []
+      },
+      {
+        "id": "context",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "逐句核对Could you explain the rationale for changing the priority?，中文保持原句请求/陈述、时态和条件关系，不加入已获批或真实工作纪实。",
+          "completion": "原句、准确中文及当句抓手各司其职，字段无需扩大成另一个讲解区；按短字段例外4。",
+          "readability": "单句中英文一一对应，抓手紧接本句；读者不需跨段找主语或把词源混入句义。",
+          "increment": "保留一个明确教学情境，给前方孤立词义提供使用锚点；无多余新故事，符合客观短字段效率标准。"
+        },
+        "issues": []
+      },
+      {
+        "id": "additionalSenses",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "独立核实扩展：rational:理性的；合乎理据的",
+          "completion": "一个或多个已核实不同义/同族词即可完成所选义项任务；契约不要求全文词典或独立例句，现有标签足够。",
+          "readability": "lemma和词性把同族词/另一词性与本词区分；每项短中文后跟英文，不需额外图表即可辨认。",
+          "increment": "同族词/另一词性真实有用，但不少已在g1或词源提及，整页新增有限，给3；不因缺额外例句扣分。"
+        },
+        "issues": []
+      },
+      {
+        "id": "examples",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 3
+        },
+        "reasons": {
+          "accuracy": "逐条核对本句及附加句“Record the rationale for each exception.”的主语、动作、词义和中文；与已核实当前义对应，不冒充资料原文。",
+          "completion": "全部可见例句均有匹配中文和教学标识，没有遗留未核验的附加句；本模块不要求另添对话或新限制。",
+          "readability": "附加句“Record the rationale for each exception.”只承载一个动作/判断，中文对应直接，不含嵌套因果或难追溯代词；首读能独立理解。",
+          "increment": "附加句提供一次迁移练习，但多数只是替换对象，没有展开不同使用条件，基本增量3。"
+        },
+        "issues": []
+      },
+      {
+        "id": "copyPayload",
+        "decision": "PASS",
+        "scores": {
+          "accuracy": 4,
+          "completion": 4,
+          "readability": 4,
+          "increment": 4
+        },
+        "reasons": {
+          "accuracy": "源码精确构造rationale和【深析】rationale，没有夹带释义、网页地址或隐形模板。",
+          "completion": "两组同一生成器遵守当前两个精确字符串契约；功能另行实测不是内容缺项，完整计4。",
+          "readability": "单词与带【深析】前缀的单词一眼可区分，没有需用户删改的附加说明。",
+          "increment": "两个负载仅差操作意图前缀，无冗余文本，符合客观短字段高分例外。"
+        },
+        "issues": []
+      }
+    ],
+    "calibration": {
+      "date": "2026-11-04",
+      "anchor": "3=准确清楚完成基本任务；4=具体文本展示超出基本完成的精确/自然/高效表现",
+      "scope": "8模块内容评分，不替代功能验收"
+    }
+  }
+]

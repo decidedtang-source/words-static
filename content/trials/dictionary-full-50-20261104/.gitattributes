@@ -1,0 +1,4 @@
+preview.html -text whitespace=cr-at-eol
+# Preserve supplied license notice formatting verbatim.
+OEWN-LICENSE.md -whitespace
+WNDB_License.txt -whitespace

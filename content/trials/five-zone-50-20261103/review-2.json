@@ -1,0 +1,810 @@
+{
+  "reviewer": "trial_reviewer_2",
+  "scope": "trial_not_production",
+  "reviewedAt": "2026-11-03",
+  "entries": [
+    {
+      "cardId": "V20261012-018",
+      "contentHash": "c2fa514663f9eedb87e19df0825074ccffe9882b3586e02f681e67dc112c67d0",
+      "sourceEvidenceHash": "aa388d54f8a03a0f75f0e51eccecc4903332cb61b8bc866e7e912a51c1d87172",
+      "reviewer": "trial_reviewer_2",
+      "decision": "APPROVE",
+      "hardGates": "PASS",
+      "scores": {
+        "accuracy": 5,
+        "readability": 4,
+        "explanation": 4,
+        "transfer": 5,
+        "efficiency": 4
+      },
+      "reasons": {
+        "accuracy": "承诺义、make/honour搭配和intention仅为打算的对照均有词典支持；conditions宾语及behind修饰分析正确。",
+        "readability": "以答应后兑现串起义项，未把投入义混入当前句。",
+        "explanation": "说明承诺依赖条件，与无条件执行分开。",
+        "transfer": "接话指出批准条件，工作句自然并交代范围不清时使用。",
+        "efficiency": "五区分别处理记忆、结构、邻词、条件回应与新情境。"
+      },
+      "issues": [],
+      "sourceChecks": [
+        {
+          "sourceId": "lex-commitment",
+          "url": "https://dictionary.cambridge.org/dictionary/english/commitment",
+          "retrievalStatus": "index_excerpt",
+          "evidenceRef": "turn105search0",
+          "checked": "已独立核验原站可见词义/词性/搭配；只主张索引实际可见内容。",
+          "result": "MATCH"
+        },
+        {
+          "sourceId": "method-meeting",
+          "url": "https://www.oxfordonlineenglish.com/attending-business-meeting",
+          "retrievalStatus": "full_page",
+          "evidenceRef": "turn106view0",
+          "checked": "教学资料仅支持沟通/概括方法；自编例句逐句检查自然性、译文和假设标识，不要求逐字来自来源。",
+          "result": "MATCH"
+        },
+        {
+          "check": "originality_privacy",
+          "result": "PASS",
+          "detail": "未见私有链接、凭据、客户数据或整段课程复制；自编英文均标注。原句来自授权input，新增情境不当作用户实际事件。"
+        }
+      ]
+    },
+    {
+      "cardId": "V20261012-019",
+      "contentHash": "44fcb47a69406362c774974e0f8b6a9c0602da1bd3e7475a57a30144247fb5f5",
+      "sourceEvidenceHash": "fd7c8625df2160323be6fca490b078ff1cf51d5db2df3471344c8c77a198d00c",
+      "reviewer": "trial_reviewer_2",
+      "decision": "APPROVE",
+      "hardGates": "PASS",
+      "scores": {
+        "accuracy": 4,
+        "readability": 4,
+        "explanation": 4,
+        "transfer": 4,
+        "efficiency": 4
+      },
+      "reasons": {
+        "accuracy": "词义、名词定语和假设状态正确；修订后g4只要求替代办法，不再断言现有安排只有一条路。",
+        "readability": "应急情况与应急预案分得清，短句易读。",
+        "explanation": "if情况与备用安排的联系清楚，唯一方案预设已删除；g2预防可更精确写作应对，属非阻断措辞。",
+        "transfer": "替补评审人接话、系统宕机工作句均自然。",
+        "efficiency": "risk对照略旁逸，整体仍各区有增量。"
+      },
+      "issues": [
+        {
+          "severity": "minor",
+          "field": "groups.g2",
+          "problem": "if引出的是需要应对的情况，不一定是计划能预防的事件。",
+          "fix": "将“要预防的情况”改为“需要预先考虑并应对的情况”。"
+        }
+      ],
+      "sourceChecks": [
+        {
+          "sourceId": "lex-contingency",
+          "url": "https://dictionary.cambridge.org/dictionary/english/contingency",
+          "retrievalStatus": "index_excerpt",
+          "evidenceRef": "turn98search0",
+          "checked": "已独立核验原站可见词义/词性/搭配；只主张索引实际可见内容。",
+          "result": "MATCH"
+        },
+        {
+          "sourceId": "method-meeting",
+          "url": "https://www.oxfordonlineenglish.com/attending-business-meeting",
+          "retrievalStatus": "full_page",
+          "evidenceRef": "turn106view0",
+          "checked": "教学资料仅支持沟通/概括方法；自编例句逐句检查自然性、译文和假设标识，不要求逐字来自来源。",
+          "result": "MATCH"
+        },
+        {
+          "check": "originality_privacy",
+          "result": "PASS",
+          "detail": "未见隐私或大段复制；g4未经支持的当前事实推定已删除，自编回应仍清楚标识。"
+        }
+      ]
+    },
+    {
+      "cardId": "V20261012-020",
+      "contentHash": "dd155815b14b13bd359ff659435dd08aa0085a86b76fe3f7d63d4e919f3e537e",
+      "sourceEvidenceHash": "a4dbae927d78525c4afeb19ba2c2b06e49c6ebcd23585ac784911b9189ff331f",
+      "reviewer": "trial_reviewer_2",
+      "decision": "APPROVE",
+      "hardGates": "PASS",
+      "scores": {
+        "accuracy": 5,
+        "readability": 4,
+        "explanation": 5,
+        "transfer": 5,
+        "efficiency": 4
+      },
+      "reasons": {
+        "accuracy": "词典支持两项愿望冲突及得到一项牺牲另一项；between结构正确。",
+        "readability": "两项都想要的类比直观，比较级说明简明。",
+        "explanation": "说明choice未必含损失，不把trade-off等同双方妥协。",
+        "transfer": "追问加急成本把取舍落到量化比较，设计评审句可迁移。",
+        "efficiency": "重复收益代价是核心强化，未堆砌术语。"
+      },
+      "issues": [],
+      "sourceChecks": [
+        {
+          "sourceId": "lex-trade-off",
+          "url": "https://dictionary.cambridge.org/dictionary/english/tradeoff",
+          "retrievalStatus": "index_excerpt",
+          "evidenceRef": "turn97search1",
+          "checked": "已独立核验原站可见词义/词性/搭配；只主张索引实际可见内容。",
+          "result": "MATCH"
+        },
+        {
+          "sourceId": "method-agree",
+          "url": "https://learnenglish.britishcouncil.org/free-resources/speaking/b1/agreeing-disagreeing",
+          "retrievalStatus": "index_excerpt",
+          "evidenceRef": "turn108search0",
+          "checked": "教学资料仅支持沟通/概括方法；自编例句逐句检查自然性、译文和假设标识，不要求逐字来自来源。",
+          "result": "MATCH"
+        },
+        {
+          "check": "originality_privacy",
+          "result": "PASS",
+          "detail": "未见私有链接、凭据、客户数据或整段课程复制；自编英文均标注。原句来自授权input，新增情境不当作用户实际事件。"
+        }
+      ]
+    },
+    {
+      "cardId": "V20261012-041",
+      "contentHash": "d9daa4b42b2c6f26e6d838f74c5aa9d47b18d3354820735eea1c8318a6da3574",
+      "sourceEvidenceHash": "8c7d465e1a3624f376a5481f8c10fa58425d37fd3d9f8942b4488265a51b1406",
+      "reviewer": "trial_reviewer_2",
+      "decision": "APPROVE",
+      "hardGates": "PASS",
+      "scores": {
+        "accuracy": 4,
+        "readability": 5,
+        "explanation": 4,
+        "transfer": 5,
+        "efficiency": 4
+      },
+      "reasons": {
+        "accuracy": "Cambridge教学表支持会议议题清单，schedule/minutes核验支持对照。",
+        "readability": "同一次会议的会前会后流程使三个词容易分清。",
+        "explanation": "解释the与发送时点，未补造提前天数或议程已完成。",
+        "transfer": "下午发送的接话具体，申请加议题句自然。",
+        "efficiency": "五区分工清晰；广泛目标义可视为次要扩展。"
+      },
+      "issues": [],
+      "sourceChecks": [
+        {
+          "sourceId": "lex-agenda",
+          "url": "https://www.cambridge.org/elt/workinginenglish/vocabonline/unit20.htm",
+          "retrievalStatus": "index_excerpt",
+          "evidenceRef": "turn97search0",
+          "checked": "已独立核验原站可见词义/词性/搭配；只主张索引实际可见内容。",
+          "result": "MATCH"
+        },
+        {
+          "sourceId": "method-agenda",
+          "url": "https://downloads.bbc.co.uk/worldservice/learningenglish/business/talkingbusiness/pdfs/2.1_agenda.pdf",
+          "retrievalStatus": "full_page",
+          "evidenceRef": "turn106view3",
+          "checked": "教学资料仅支持沟通/概括方法；自编例句逐句检查自然性、译文和假设标识，不要求逐字来自来源。",
+          "result": "MATCH"
+        },
+        {
+          "check": "originality_privacy",
+          "result": "PASS",
+          "detail": "未见私有链接、凭据、客户数据或整段课程复制；自编英文均标注。原句来自授权input，新增情境不当作用户实际事件。"
+        }
+      ]
+    },
+    {
+      "cardId": "V20261012-042",
+      "contentHash": "5bb92693916d6c7132929fecdce82f3db37d8d9b9002a2fee9ca1bd67714dc84",
+      "sourceEvidenceHash": "0f5b55e3ef1b18da0ea58c7346e97ff0abe332c22a203874cff35eba49ab8e0f",
+      "reviewer": "trial_reviewer_2",
+      "decision": "APPROVE",
+      "hardGates": "PASS",
+      "scores": {
+        "accuracy": 5,
+        "readability": 4,
+        "explanation": 4,
+        "transfer": 5,
+        "efficiency": 4
+      },
+      "reasons": {
+        "accuracy": "背景义和in context有据；Let me及before结构正确。",
+        "readability": "照片外环境是明确标注的类比，背景与细节易懂。",
+        "explanation": "解释背景为何帮助理解，不等同罗列全部历史。",
+        "transfer": "For context示例自然且明确虚构，两周假设未冒充事实。",
+        "efficiency": "每区增加信息，边界提醒略多但有用。"
+      },
+      "issues": [],
+      "sourceChecks": [
+        {
+          "sourceId": "lex-context",
+          "url": "https://dictionary.cambridge.org/dictionary/english/context",
+          "retrievalStatus": "index_excerpt",
+          "evidenceRef": "turn105search2",
+          "checked": "已独立核验原站可见词义/词性/搭配；只主张索引实际可见内容。",
+          "result": "MATCH"
+        },
+        {
+          "sourceId": "method-meeting",
+          "url": "https://www.oxfordonlineenglish.com/attending-business-meeting",
+          "retrievalStatus": "full_page",
+          "evidenceRef": "turn106view0",
+          "checked": "教学资料仅支持沟通/概括方法；自编例句逐句检查自然性、译文和假设标识，不要求逐字来自来源。",
+          "result": "MATCH"
+        },
+        {
+          "check": "originality_privacy",
+          "result": "PASS",
+          "detail": "未见私有链接、凭据、客户数据或整段课程复制；自编英文均标注。原句来自授权input，新增情境不当作用户实际事件。"
+        }
+      ]
+    },
+    {
+      "cardId": "V20261012-043",
+      "contentHash": "8b57eeac401271840b4f26ef735dfc5bab9afeb87b1635b7c647e3dbd8269849",
+      "sourceEvidenceHash": "8d2a884d8abc6d2973af749082e65a12da24e0af5d31e3440bb624fbf705a8d6",
+      "reviewer": "trial_reviewer_2",
+      "decision": "APPROVE",
+      "hardGates": "PASS",
+      "scores": {
+        "accuracy": 5,
+        "readability": 4,
+        "explanation": 5,
+        "transfer": 5,
+        "efficiency": 4
+      },
+      "reasons": {
+        "accuracy": "词典支持以细节或简明解释使清楚；clarify/confirm/elaborate对照准确。",
+        "readability": "从范围不清切入，比抽象澄清定义易懂。",
+        "explanation": "从句整体作宾语正确；what在此本身是主语，陈述语序提醒不构成错误。",
+        "transfer": "包括测试不包括安装可直接回应；whether培训句自然。",
+        "efficiency": "三动词在同一任务比较，重复较少。"
+      },
+      "issues": [],
+      "sourceChecks": [
+        {
+          "sourceId": "lex-clarify",
+          "url": "https://dictionary.cambridge.org/dictionary/english/clarify",
+          "retrievalStatus": "index_excerpt",
+          "evidenceRef": "turn100search0",
+          "checked": "已独立核验原站可见词义/词性/搭配；只主张索引实际可见内容。",
+          "result": "MATCH"
+        },
+        {
+          "sourceId": "method-meeting",
+          "url": "https://www.oxfordonlineenglish.com/attending-business-meeting",
+          "retrievalStatus": "full_page",
+          "evidenceRef": "turn106view0",
+          "checked": "教学资料仅支持沟通/概括方法；自编例句逐句检查自然性、译文和假设标识，不要求逐字来自来源。",
+          "result": "MATCH"
+        },
+        {
+          "check": "originality_privacy",
+          "result": "PASS",
+          "detail": "未见私有链接、凭据、客户数据或整段课程复制；自编英文均标注。原句来自授权input，新增情境不当作用户实际事件。"
+        }
+      ]
+    },
+    {
+      "cardId": "V20261012-044",
+      "contentHash": "b2b735dd987ea53025de19509e7b64fd6a4073cf314ae85ca2e7f49f67f72df6",
+      "sourceEvidenceHash": "54710e61f7e779f9733b8a0c2f8ad859e30a8b4ae1e96b2e65e7340076f19307",
+      "reviewer": "trial_reviewer_2",
+      "decision": "APPROVE",
+      "hardGates": "PASS",
+      "scores": {
+        "accuracy": 4,
+        "readability": 4,
+        "explanation": 4,
+        "transfer": 5,
+        "efficiency": 4
+      },
+      "reasons": {
+        "accuracy": "核实及确定义成立，who作主语正确；与approve并非一律互换的限定保留词典正式批准义。",
+        "readability": "核对勾类比与责任归属清晰。",
+        "explanation": "解释own的责任义及确认不等于批准方案。",
+        "transfer": "Maya回应和下单前确认数量自然；结束讨论前仅是可用场景，不由原句保证。",
+        "efficiency": "句法与批准边界补充有效，g4时点可更谨慎。"
+      },
+      "issues": [
+        {
+          "severity": "minor",
+          "field": "groups.g4",
+          "problem": "结束讨论前是可用场景，不由原句本身确定。",
+          "fix": "可将开头改为“在讨论将结束时可用本句补上行动归属”。"
+        }
+      ],
+      "sourceChecks": [
+        {
+          "sourceId": "lex-confirm",
+          "url": "https://dictionary.cambridge.org/us/dictionary/english/confirm",
+          "retrievalStatus": "index_excerpt",
+          "evidenceRef": "turn102search0",
+          "checked": "已独立核验原站可见词义/词性/搭配；只主张索引实际可见内容。",
+          "result": "MATCH"
+        },
+        {
+          "sourceId": "method-meeting",
+          "url": "https://www.oxfordonlineenglish.com/attending-business-meeting",
+          "retrievalStatus": "full_page",
+          "evidenceRef": "turn106view0",
+          "checked": "教学资料仅支持沟通/概括方法；自编例句逐句检查自然性、译文和假设标识，不要求逐字来自来源。",
+          "result": "MATCH"
+        },
+        {
+          "check": "originality_privacy",
+          "result": "PASS",
+          "detail": "未见私有链接、凭据、客户数据或整段课程复制；自编英文均标注。原句来自授权input，新增情境不当作用户实际事件。"
+        }
+      ]
+    },
+    {
+      "cardId": "V20261012-045",
+      "contentHash": "96f464ab900083d1a8c685157d31d6d17c65eef584039469ff2b34501a981adc",
+      "sourceEvidenceHash": "5fd0a5fe6db7f82cb9e9e439d971b73935ea6eafd129277a4ab985a6b736710a",
+      "reviewer": "trial_reviewer_2",
+      "decision": "APPROVE",
+      "hardGates": "PASS",
+      "scores": {
+        "accuracy": 4,
+        "readability": 4,
+        "explanation": 4,
+        "transfer": 4,
+        "efficiency": 4
+      },
+      "reasons": {
+        "accuracy": "具体准确说明义和for+动名词正确；修订后g4不再虚构原则接受，明确不代表获准。",
+        "readability": "空白栏类比简单，日期/格式实例易懂。",
+        "explanation": "信息精度及接受条件的区别清楚，现有g4只要求明确条件，与审批状态分开。",
+        "transfer": "价格和交期接话自然，不过可检查的接受标准还可写得更明确。",
+        "efficiency": "内容聚焦具体化，无多余词源。"
+      },
+      "issues": [],
+      "sourceChecks": [
+        {
+          "sourceId": "lex-specify",
+          "url": "https://dictionary.cambridge.org/dictionary/english/specify",
+          "retrievalStatus": "index_excerpt",
+          "evidenceRef": "turn102search5",
+          "checked": "已独立核验原站可见词义/词性/搭配；只主张索引实际可见内容。",
+          "result": "MATCH"
+        },
+        {
+          "sourceId": "method-meeting",
+          "url": "https://www.oxfordonlineenglish.com/attending-business-meeting",
+          "retrievalStatus": "full_page",
+          "evidenceRef": "turn106view0",
+          "checked": "教学资料仅支持沟通/概括方法；自编例句逐句检查自然性、译文和假设标识，不要求逐字来自来源。",
+          "result": "MATCH"
+        },
+        {
+          "check": "originality_privacy",
+          "result": "PASS",
+          "detail": "未见隐私或大段复制；g4未经支持的当前事实推定已删除，自编回应仍清楚标识。"
+        }
+      ]
+    },
+    {
+      "cardId": "V20261012-046",
+      "contentHash": "de3883b32b6399bba1ff6f5521c22e88e3654a22a322e2df62b79c2bfa689dfa",
+      "sourceEvidenceHash": "6cfafcfb164c49f6747f178638837ccd2b48523ae37be7eec4c31469cb2c76f7",
+      "reviewer": "trial_reviewer_2",
+      "decision": "APPROVE",
+      "hardGates": "PASS",
+      "scores": {
+        "accuracy": 5,
+        "readability": 4,
+        "explanation": 5,
+        "transfer": 5,
+        "efficiency": 4
+      },
+      "reasons": {
+        "accuracy": "动词展开细节义、on搭配及about修饰concern均正确；OOE也直接示范此结构。",
+        "readability": "把两层介词分开解释，避免混接。",
+        "explanation": "与clarify对照有重叠意识，没宣称更多细节必然更清楚。",
+        "transfer": "三天回应明确自编，on how影响测试的工作句自然。",
+        "efficiency": "五区围绕已知观点到进一步解释，增量明显。"
+      },
+      "issues": [],
+      "sourceChecks": [
+        {
+          "sourceId": "lex-elaborate",
+          "url": "https://dictionary.cambridge.org/us/dictionary/english/elaborate",
+          "retrievalStatus": "index_excerpt",
+          "evidenceRef": "turn102search6",
+          "checked": "已独立核验原站可见词义/词性/搭配；只主张索引实际可见内容。",
+          "result": "MATCH"
+        },
+        {
+          "sourceId": "method-meeting",
+          "url": "https://www.oxfordonlineenglish.com/attending-business-meeting",
+          "retrievalStatus": "full_page",
+          "evidenceRef": "turn106view0",
+          "checked": "教学资料仅支持沟通/概括方法；自编例句逐句检查自然性、译文和假设标识，不要求逐字来自来源。",
+          "result": "MATCH"
+        },
+        {
+          "check": "originality_privacy",
+          "result": "PASS",
+          "detail": "未见私有链接、凭据、客户数据或整段课程复制；自编英文均标注。原句来自授权input，新增情境不当作用户实际事件。"
+        }
+      ]
+    },
+    {
+      "cardId": "V20261012-047",
+      "contentHash": "7011a83593cb97124d47c3fe1bc51c564d456ee3f7772f62c4aebb6c4f57407b",
+      "sourceEvidenceHash": "6c40900c112c1d4c83d9d411ddd6cb3bc441b3df3ee0d45bb74350dc31b429b9",
+      "reviewer": "trial_reviewer_2",
+      "decision": "APPROVE",
+      "hardGates": "PASS",
+      "scores": {
+        "accuracy": 4,
+        "readability": 4,
+        "explanation": 5,
+        "transfer": 5,
+        "efficiency": 4
+      },
+      "reasons": {
+        "accuracy": "词典和BBC支持筛重点并缩短，已决/未决并列分析正确。",
+        "readability": "骨架类比易懂，remaining说明直接。",
+        "explanation": "不把尚未解决事项省略成全部完成，解释有用。",
+        "transfer": "三点工作句自然；讨论变散只是可能使用时机，不是原句事实。",
+        "efficiency": "数量要求与词义区分有效，部分状态提醒重复。"
+      },
+      "issues": [
+        {
+          "severity": "minor",
+          "field": "groups.g4",
+          "problem": "讨论变散是可用场景，原句也可以用于有序讨论的结尾。",
+          "fix": "可写“本句用来收束信息，例如讨论变散时或会议结束前”。"
+        }
+      ],
+      "sourceChecks": [
+        {
+          "sourceId": "lex-summarize",
+          "url": "https://dictionary.cambridge.org/us/dictionary/english/summarize",
+          "retrievalStatus": "index_excerpt",
+          "evidenceRef": "turn103search0",
+          "checked": "已独立核验原站可见词义/词性/搭配；只主张索引实际可见内容。",
+          "result": "MATCH"
+        },
+        {
+          "sourceId": "method-summary",
+          "url": "https://downloads.bbc.co.uk/skillswise/english/en07unde/factsheet/en07unde-l1-f-what-is-summarising.pdf",
+          "retrievalStatus": "full_page",
+          "evidenceRef": "turn106view2",
+          "checked": "教学资料仅支持沟通/概括方法；自编例句逐句检查自然性、译文和假设标识，不要求逐字来自来源。",
+          "result": "MATCH"
+        },
+        {
+          "check": "originality_privacy",
+          "result": "PASS",
+          "detail": "未见私有链接、凭据、客户数据或整段课程复制；自编英文均标注。原句来自授权input，新增情境不当作用户实际事件。"
+        }
+      ]
+    },
+    {
+      "cardId": "V20261012-048",
+      "contentHash": "31366c645a2e0f76ea742449c6a4fbcd4db544dc5bfa37f48c9bfd67ae1766c2",
+      "sourceEvidenceHash": "e1291b8abe4109bcae46ba33efc25d16c26a9e760e61f953e4b4ece2e334586d",
+      "reviewer": "trial_reviewer_2",
+      "decision": "APPROVE",
+      "hardGates": "PASS",
+      "scores": {
+        "accuracy": 5,
+        "readability": 4,
+        "explanation": 5,
+        "transfer": 5,
+        "efficiency": 4
+      },
+      "reasons": {
+        "accuracy": "词典支持再次回顾要点，与summarize重叠而非硬分语体。",
+        "readability": "新成员跟上讨论的场景直观。",
+        "explanation": "for标明受益听者，明确不可补造迟到事实。",
+        "transfer": "目标已定/时间未定接话及会末行动事项句自然。",
+        "efficiency": "每区均提供新信息，两个例子用途不同。"
+      },
+      "issues": [],
+      "sourceChecks": [
+        {
+          "sourceId": "lex-recap",
+          "url": "https://dictionary.cambridge.org/us/dictionary/english/recap",
+          "retrievalStatus": "index_excerpt",
+          "evidenceRef": "turn103search1",
+          "checked": "已独立核验原站可见词义/词性/搭配；只主张索引实际可见内容。",
+          "result": "MATCH"
+        },
+        {
+          "sourceId": "method-summary",
+          "url": "https://downloads.bbc.co.uk/skillswise/english/en07unde/factsheet/en07unde-l1-f-what-is-summarising.pdf",
+          "retrievalStatus": "full_page",
+          "evidenceRef": "turn106view2",
+          "checked": "教学资料仅支持沟通/概括方法；自编例句逐句检查自然性、译文和假设标识，不要求逐字来自来源。",
+          "result": "MATCH"
+        },
+        {
+          "check": "originality_privacy",
+          "result": "PASS",
+          "detail": "未见私有链接、凭据、客户数据或整段课程复制；自编英文均标注。原句来自授权input，新增情境不当作用户实际事件。"
+        }
+      ]
+    },
+    {
+      "cardId": "V20261012-049",
+      "contentHash": "32aa6126af8f007abd826011b72a43cfd25571e1d93b708e18a3e4b261fb4d08",
+      "sourceEvidenceHash": "f47a805c0a1dd8ef84c883715139e23464c71a37bd25982fb3c42d7dd43f2347",
+      "reviewer": "trial_reviewer_2",
+      "decision": "APPROVE",
+      "hardGates": "PASS",
+      "scores": {
+        "accuracy": 4,
+        "readability": 4,
+        "explanation": 5,
+        "transfer": 5,
+        "efficiency": 4
+      },
+      "reasons": {
+        "accuracy": "词典支持物理排齐、观点一致及align A with B；对align on的上下文解读如实限定。",
+        "readability": "表格列类比直观且不冒充词源。",
+        "explanation": "说明先排序再分工，need未被当作已实现。",
+        "transfer": "决定最先任务的回应承接优先级，资源匹配句自然。",
+        "efficiency": "抽象词被具体排序和资源两场景展开。"
+      },
+      "issues": [],
+      "sourceChecks": [
+        {
+          "sourceId": "lex-align",
+          "url": "https://dictionary.cambridge.org/us/dictionary/english/align",
+          "retrievalStatus": "index_excerpt",
+          "evidenceRef": "turn103search10",
+          "checked": "已独立核验原站可见词义/词性/搭配；只主张索引实际可见内容。",
+          "result": "MATCH"
+        },
+        {
+          "sourceId": "method-agree",
+          "url": "https://learnenglish.britishcouncil.org/free-resources/speaking/b1/agreeing-disagreeing",
+          "retrievalStatus": "index_excerpt",
+          "evidenceRef": "turn108search0",
+          "checked": "教学资料仅支持沟通/概括方法；自编例句逐句检查自然性、译文和假设标识，不要求逐字来自来源。",
+          "result": "MATCH"
+        },
+        {
+          "check": "originality_privacy",
+          "result": "PASS",
+          "detail": "未见私有链接、凭据、客户数据或整段课程复制；自编英文均标注。原句来自授权input，新增情境不当作用户实际事件。"
+        }
+      ]
+    },
+    {
+      "cardId": "V20261012-050",
+      "contentHash": "0bb2d015557c541eea0ae5d86ae257320bae81afaf6871cf92df483d12efcb54",
+      "sourceEvidenceHash": "09866729ba0b003769949ee36f135ae26e6a9ff0767e096f5b47893f75e46545",
+      "reviewer": "trial_reviewer_2",
+      "decision": "APPROVE",
+      "hardGates": "PASS",
+      "scores": {
+        "accuracy": 5,
+        "readability": 4,
+        "explanation": 5,
+        "transfer": 5,
+        "efficiency": 4
+      },
+      "reasons": {
+        "accuracy": "词典支持普遍接受，unanimity要求每位成员完全同意；不把共识当全面批准。",
+        "readability": "已一致/未一致并列易读。",
+        "explanation": "限定on议题及过去时状态，未虚构投票程序。",
+        "transfer": "写下目标接话自然，目标与时间表分开能准确报告进度。",
+        "efficiency": "同一边界多次提示稍重复，但解释与迁移充分。"
+      },
+      "issues": [],
+      "sourceChecks": [
+        {
+          "sourceId": "lex-consensus",
+          "url": "https://dictionary.cambridge.org/dictionary/english/consensus?topic=accepting-and-agreeing",
+          "retrievalStatus": "index_excerpt",
+          "evidenceRef": "turn103search7",
+          "checked": "已独立核验原站可见词义/词性/搭配；只主张索引实际可见内容。",
+          "result": "MATCH"
+        },
+        {
+          "sourceId": "method-agree",
+          "url": "https://learnenglish.britishcouncil.org/free-resources/speaking/b1/agreeing-disagreeing",
+          "retrievalStatus": "index_excerpt",
+          "evidenceRef": "turn108search0",
+          "checked": "教学资料仅支持沟通/概括方法；自编例句逐句检查自然性、译文和假设标识，不要求逐字来自来源。",
+          "result": "MATCH"
+        },
+        {
+          "check": "originality_privacy",
+          "result": "PASS",
+          "detail": "未见私有链接、凭据、客户数据或整段课程复制；自编英文均标注。原句来自授权input，新增情境不当作用户实际事件。"
+        }
+      ]
+    },
+    {
+      "cardId": "V20261012-051",
+      "contentHash": "c1e95158e583edc5e00bc6407f58830a783d40570c2b1165d518d653cae2af45",
+      "sourceEvidenceHash": "68f92bad9a140ad96f5fd03691d41ce6ea3cd6a28858773f8f48a9600145de24",
+      "reviewer": "trial_reviewer_2",
+      "decision": "APPROVE",
+      "hardGates": "PASS",
+      "scores": {
+        "accuracy": 5,
+        "readability": 4,
+        "explanation": 5,
+        "transfer": 5,
+        "efficiency": 4
+      },
+      "reasons": {
+        "accuracy": "名词担忧义、time的后置修饰均准确，未把不足推定为事实。",
+        "readability": "放心不下与时间窗口实例清楚。",
+        "explanation": "担忧不必然反对的对照能减少误解。",
+        "transfer": "询问需要多少时间适合解决卡点，测试窗口例句自然。",
+        "efficiency": "五区从感受推进到核对时间，信息有效。"
+      },
+      "issues": [],
+      "sourceChecks": [
+        {
+          "sourceId": "lex-concern",
+          "url": "https://dictionary.cambridge.org/us/dictionary/english/concern",
+          "retrievalStatus": "index_excerpt",
+          "evidenceRef": "turn104search5",
+          "checked": "已独立核验原站可见词义/词性/搭配；只主张索引实际可见内容。",
+          "result": "MATCH"
+        },
+        {
+          "sourceId": "method-agree",
+          "url": "https://learnenglish.britishcouncil.org/free-resources/speaking/b1/agreeing-disagreeing",
+          "retrievalStatus": "index_excerpt",
+          "evidenceRef": "turn108search0",
+          "checked": "教学资料仅支持沟通/概括方法；自编例句逐句检查自然性、译文和假设标识，不要求逐字来自来源。",
+          "result": "MATCH"
+        },
+        {
+          "check": "originality_privacy",
+          "result": "PASS",
+          "detail": "未见私有链接、凭据、客户数据或整段课程复制；自编英文均标注。原句来自授权input，新增情境不当作用户实际事件。"
+        }
+      ]
+    },
+    {
+      "cardId": "V20261012-052",
+      "contentHash": "a3c900cf78cd8243bfbf3e22ff766975d4158c389976fcf9bf406a209703a016",
+      "sourceEvidenceHash": "2c4993e5359aea08ba55d4b81f9e4e2422af70bb70b02a81dd989b0879b69def",
+      "reviewer": "trial_reviewer_2",
+      "decision": "APPROVE",
+      "hardGates": "PASS",
+      "scores": {
+        "accuracy": 5,
+        "readability": 4,
+        "explanation": 5,
+        "transfer": 5,
+        "efficiency": 4
+      },
+      "reasons": {
+        "accuracy": "反对表达/理由与to介词有据；未把沉默视作批准。",
+        "readability": "持有与提出异议的搭配易辨。",
+        "explanation": "对照concern/reservation又避免固定情绪等级，准确有用。",
+        "transfer": "测试时间回应承接调整顺序，限定反对时机的工作句自然。",
+        "efficiency": "每区各有增量，未额外引入程序或法律结论。"
+      },
+      "issues": [],
+      "sourceChecks": [
+        {
+          "sourceId": "lex-objection",
+          "url": "https://dictionary.cambridge.org/us/dictionary/english/objection",
+          "retrievalStatus": "index_excerpt",
+          "evidenceRef": "turn105search1",
+          "checked": "已独立核验原站可见词义/词性/搭配；只主张索引实际可见内容。",
+          "result": "MATCH"
+        },
+        {
+          "sourceId": "method-agree",
+          "url": "https://learnenglish.britishcouncil.org/free-resources/speaking/b1/agreeing-disagreeing",
+          "retrievalStatus": "index_excerpt",
+          "evidenceRef": "turn108search0",
+          "checked": "教学资料仅支持沟通/概括方法；自编例句逐句检查自然性、译文和假设标识，不要求逐字来自来源。",
+          "result": "MATCH"
+        },
+        {
+          "check": "originality_privacy",
+          "result": "PASS",
+          "detail": "未见私有链接、凭据、客户数据或整段课程复制；自编英文均标注。原句来自授权input，新增情境不当作用户实际事件。"
+        }
+      ]
+    },
+    {
+      "cardId": "V20261012-053",
+      "contentHash": "a6f74ef2f5e972cbba7a76607d1099efa4c7b9eda422ca9c713c15c41b940ff4",
+      "sourceEvidenceHash": "ac20b1f51914a15785a4377cdbb1cd10643366a935d2507dfa830fbb52a75570",
+      "reviewer": "trial_reviewer_2",
+      "decision": "APPROVE",
+      "hardGates": "PASS",
+      "scores": {
+        "accuracy": 5,
+        "readability": 4,
+        "explanation": 5,
+        "transfer": 5,
+        "efficiency": 4
+      },
+      "reasons": {
+        "accuracy": "疑虑义及通常复数有据，about+动名词正确。",
+        "readability": "预订与疑虑由搭配区分，记忆画面易懂。",
+        "explanation": "暂不能完全接受与更直接反对的区别清楚。",
+        "transfer": "追问承诺前信息和成本估算句自然，未推定最终否决。",
+        "efficiency": "两个情境一例一用，状态边界提醒略重复。"
+      },
+      "issues": [],
+      "sourceChecks": [
+        {
+          "sourceId": "lex-reservation",
+          "url": "https://dictionary.cambridge.org/dictionary/english/reservation?q=reservations",
+          "retrievalStatus": "index_excerpt",
+          "evidenceRef": "turn104search1",
+          "checked": "已独立核验原站可见词义/词性/搭配；只主张索引实际可见内容。",
+          "result": "MATCH"
+        },
+        {
+          "sourceId": "method-agree",
+          "url": "https://learnenglish.britishcouncil.org/free-resources/speaking/b1/agreeing-disagreeing",
+          "retrievalStatus": "index_excerpt",
+          "evidenceRef": "turn108search0",
+          "checked": "教学资料仅支持沟通/概括方法；自编例句逐句检查自然性、译文和假设标识，不要求逐字来自来源。",
+          "result": "MATCH"
+        },
+        {
+          "check": "originality_privacy",
+          "result": "PASS",
+          "detail": "未见私有链接、凭据、客户数据或整段课程复制；自编英文均标注。原句来自授权input，新增情境不当作用户实际事件。"
+        }
+      ]
+    },
+    {
+      "cardId": "V20261012-054",
+      "contentHash": "2119cad5a6b26ba892031afd76d6091d4591890900e0bbb4bb177015ec8d6f58",
+      "sourceEvidenceHash": "3b66716b2939eb308b92dddba0d4e4ae7965f3b67c464d4b2d7640266b7006be",
+      "reviewer": "trial_reviewer_2",
+      "decision": "APPROVE",
+      "hardGates": "PASS",
+      "scores": {
+        "accuracy": 5,
+        "readability": 4,
+        "explanation": 5,
+        "transfer": 5,
+        "efficiency": 4
+      },
+      "reasons": {
+        "accuracy": "Business English支持决定行动的理由及for doing；理由与证据没有被等同。",
+        "readability": "为什么这样决定的记法直白。",
+        "explanation": "说明证据如何构成理由，避免把有理由当成理由充分。",
+        "transfer": "新期限回应明确自编，要求每项变更附理由自然。",
+        "efficiency": "五区由含义到材料要求推进，边界说明有用。"
+      },
+      "issues": [],
+      "sourceChecks": [
+        {
+          "sourceId": "lex-rationale",
+          "url": "https://dictionary.cambridge.org/dictionary/english/rationale?topic=motives-and-reasons",
+          "retrievalStatus": "index_excerpt",
+          "evidenceRef": "turn105search3",
+          "checked": "已独立核验原站可见词义/词性/搭配；只主张索引实际可见内容。",
+          "result": "MATCH"
+        },
+        {
+          "sourceId": "method-meeting",
+          "url": "https://www.oxfordonlineenglish.com/attending-business-meeting",
+          "retrievalStatus": "full_page",
+          "evidenceRef": "turn106view0",
+          "checked": "教学资料仅支持沟通/概括方法；自编例句逐句检查自然性、译文和假设标识，不要求逐字来自来源。",
+          "result": "MATCH"
+        },
+        {
+          "check": "originality_privacy",
+          "result": "PASS",
+          "detail": "未见私有链接、凭据、客户数据或整段课程复制；自编英文均标注。原句来自授权input，新增情境不当作用户实际事件。"
+        }
+      ]
+    }
+  ]
+}

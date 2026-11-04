@@ -1,0 +1,2302 @@
+[
+  {
+    "cardId": "V20261012-001",
+    "ruleVersion": "learner-dictionary/1",
+    "reviewer": "dictionary-independent-reviewer",
+    "fingerprint": "376bfe69daa25487ba15ef77b898b1d76280cb3eda5fedeb15ae8ebaa7aba363",
+    "decision": "PASS",
+    "qualityChecks": {
+      "standaloneDefinition": "PASS",
+      "primaryPosCovered": "PASS",
+      "commonMeaningsCovered": "PASS",
+      "usableExamples": "PASS",
+      "grammarReviewed": "PASS",
+      "bridgeAlignment": "PASS"
+    },
+    "knownGaps": [],
+    "senseChecks": [
+      {
+        "id": "scope-learner-1",
+        "verdict": "PASS",
+        "note": "范围义与of/within/beyond相符，课程例体现覆盖边界",
+        "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/scope_1"
+      },
+      {
+        "id": "scope-learner-2",
+        "verdict": "PASS",
+        "note": "机会空间义与for/to do相符，创造力例不是地理范围",
+        "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/scope_1"
+      },
+      {
+        "id": "scope-learner-3",
+        "verdict": "PASS",
+        "note": "Oxford动词第一义是全面仔细查看，room例保持及物且标非正式",
+        "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/scope_2"
+      },
+      {
+        "id": "scope-learner-4",
+        "verdict": "PASS",
+        "note": "Oxford动词第二义涉及开工前查明任务规模，维修询价例体现先后关系",
+        "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/scope_2"
+      }
+    ],
+    "scores": {
+      "accuracy": 3,
+      "completion": 4,
+      "readability": 3,
+      "increment": 3
+    },
+    "reasons": {
+      "accuracy": "范围义与of/within/beyond相符，课程例体现覆盖边界；其余逐义核查见senseChecks。",
+      "completion": "范围义与of/within/beyond相符，课程例体现覆盖边界；机会空间义与for/to do相符，创造力例不是地理范围；Oxford动词第一义是全面仔细查看，room例保持及物且标非正式；Oxford动词第二义涉及开工前查明任务规模，维修询价例体现先后关系",
+      "readability": "以“The course covers topics beyond the scope of this book.”及其中文译文示范“某项工作、讨论或权力涉及的范围。”，例句不依赖原工作语境；全部双语例已逐项读过，表达清楚但未做真实学习者测试。",
+      "increment": "原句“We need to define the scope before estimating the cost.”绑定“某项工作、讨论或权力涉及的范围。”。Bridge再说明该句实际意图；把它想成这次工作要覆盖的边界：同样说“做测试”，只测功能还是也测性能，工作量会不同。谈费用前先说明 scope，双方才是在估同一件事。"
+    },
+    "issues": []
+  },
+  {
+    "cardId": "V20261012-002",
+    "ruleVersion": "learner-dictionary/1",
+    "reviewer": "dictionary-independent-reviewer",
+    "fingerprint": "77deef185b1a99c230b42f22902e14efc7f665e537092689004a04a2461df599",
+    "decision": "PASS",
+    "qualityChecks": {
+      "standaloneDefinition": "PASS",
+      "primaryPosCovered": "PASS",
+      "commonMeaningsCovered": "PASS",
+      "usableExamples": "PASS",
+      "grammarReviewed": "PASS",
+      "bridgeAlignment": "PASS"
+    },
+    "knownGaps": [],
+    "senseChecks": [
+      {
+        "id": "objective-learner-1",
+        "verdict": "PASS",
+        "note": "名词目标及achieve/meet对应，经济独立为具体目标",
+        "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/objective_1"
+      },
+      {
+        "id": "objective-learner-2",
+        "verdict": "PASS",
+        "note": "形容词客观与名词分开，独立专家评估例体现不受偏见左右",
+        "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/objective_2"
+      }
+    ],
+    "scores": {
+      "accuracy": 3,
+      "completion": 3,
+      "readability": 3,
+      "increment": 3
+    },
+    "reasons": {
+      "accuracy": "名词目标及achieve/meet对应，经济独立为具体目标；其余逐义核查见senseChecks。",
+      "completion": "名词目标及achieve/meet对应，经济独立为具体目标；形容词客观与名词分开，独立专家评估例体现不受偏见左右",
+      "readability": "以“Her main objective is to become financially independent.”及其中文译文示范“希望达到的目标。”，例句不依赖原工作语境；全部双语例已逐项读过，表达清楚但未做真实学习者测试。",
+      "increment": "原句“Our objective is to reduce the time spent on approvals.”绑定“希望达到的目标。”。Bridge再说明该句实际意图；objective回答“希望做到什么”。在这句里，重点是让审批少花时间；采用哪张表单、开几次会，都只是可能实现目标的办法。"
+    },
+    "issues": []
+  },
+  {
+    "cardId": "V20261012-003",
+    "ruleVersion": "learner-dictionary/1",
+    "reviewer": "dictionary-independent-reviewer",
+    "fingerprint": "7d6fc1208805fc3af90d446dac85370f8b06a6415beeab110ea9cc7b53bd32f8",
+    "decision": "PASS",
+    "qualityChecks": {
+      "standaloneDefinition": "PASS",
+      "primaryPosCovered": "PASS",
+      "commonMeaningsCovered": "PASS",
+      "usableExamples": "PASS",
+      "grammarReviewed": "PASS",
+      "bridgeAlignment": "PASS"
+    },
+    "knownGaps": [],
+    "senseChecks": [
+      {
+        "id": "deliverable-learner-1",
+        "verdict": "PASS",
+        "note": "名词成果标C常复数，报告与原型例能分辨成果而非活动",
+        "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/deliverable_2"
+      },
+      {
+        "id": "deliverable-learner-2",
+        "verdict": "PASS",
+        "note": "Cambridge支持可投递，包裹地址例与该义一致",
+        "sourceUrl": "https://dictionary.cambridge.org/dictionary/english/deliverable"
+      },
+      {
+        "id": "deliverable-learner-3",
+        "verdict": "PASS",
+        "note": "Oxford形容词支持可实现，改进能否做到例区别于运输",
+        "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/deliverable_1"
+      }
+    ],
+    "scores": {
+      "accuracy": 3,
+      "completion": 4,
+      "readability": 3,
+      "increment": 3
+    },
+    "reasons": {
+      "accuracy": "名词成果标C常复数，报告与原型例能分辨成果而非活动；其余逐义核查见senseChecks。",
+      "completion": "名词成果标C常复数，报告与原型例能分辨成果而非活动；Cambridge支持可投递，包裹地址例与该义一致；Oxford形容词支持可实现，改进能否做到例区别于运输",
+      "readability": "以“The final deliverables are a report and a working prototype.”及其中文译文示范“项目或约定中需要完成并提供的成果，如报告、软件或产品。”，例句不依赖原工作语境；全部双语例已逐项读过，表达清楚但未做真实学习者测试。",
+      "increment": "原句“Please list the deliverables for the first phase.”绑定“项目或约定中需要完成并提供的成果，如报告、软件或产品。”。Bridge再说明该句实际意图；deliverable把讨论落到“最后交出什么”。写报告、检查数据是活动，完成并应交付的报告才是成果。原句要求列第一阶段的成果清单，方便大家核对。"
+    },
+    "issues": []
+  },
+  {
+    "cardId": "V20261012-004",
+    "ruleVersion": "learner-dictionary/1",
+    "reviewer": "dictionary-independent-reviewer",
+    "fingerprint": "b3d5ce01440fe40218aa8c42af57cd7fc7629a255515c3fad7c3a3e252db3c55",
+    "decision": "PASS",
+    "qualityChecks": {
+      "standaloneDefinition": "PASS",
+      "primaryPosCovered": "PASS",
+      "commonMeaningsCovered": "PASS",
+      "usableExamples": "PASS",
+      "grammarReviewed": "PASS",
+      "bridgeAlignment": "PASS"
+    },
+    "knownGaps": [],
+    "senseChecks": [
+      {
+        "id": "milestone-learner-1",
+        "verdict": "PASS",
+        "note": "生涯重要节点可延伸项目，开店例不等于项目全部完成",
+        "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/milestone"
+      },
+      {
+        "id": "milestone-learner-2",
+        "verdict": "PASS",
+        "note": "实物路标义单列，路旁石碑例对应",
+        "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/milestone"
+      }
+    ],
+    "scores": {
+      "accuracy": 3,
+      "completion": 3,
+      "readability": 3,
+      "increment": 3
+    },
+    "reasons": {
+      "accuracy": "生涯重要节点可延伸项目，开店例不等于项目全部完成；其余逐义核查见senseChecks。",
+      "completion": "生涯重要节点可延伸项目，开店例不等于项目全部完成；实物路标义单列，路旁石碑例对应",
+      "readability": "以“Opening her first shop was a milestone in her career.”及其中文译文示范“人生、事业或项目发展中的重要事件或阶段。”，例句不依赖原工作语境；全部双语例已逐项读过，表达清楚但未做真实学习者测试。",
+      "increment": "原句“We reached the first milestone after the review.”绑定“人生、事业或项目发展中的重要事件或阶段。”。Bridge再说明该句实际意图；milestone突出一个值得标记的重要节点。达到首个milestone，说明项目走到了一处关键位置；后面通常还有工作，所以它不等同于“整个项目完成”。"
+    },
+    "issues": []
+  },
+  {
+    "cardId": "V20261012-005",
+    "ruleVersion": "learner-dictionary/1",
+    "reviewer": "dictionary-independent-reviewer",
+    "fingerprint": "1a996ab9158274d585dbf045183001c3af57f57e070ec5c30907b73f12cbb02b",
+    "decision": "PASS",
+    "qualityChecks": {
+      "standaloneDefinition": "PASS",
+      "primaryPosCovered": "PASS",
+      "commonMeaningsCovered": "PASS",
+      "usableExamples": "PASS",
+      "grammarReviewed": "PASS",
+      "bridgeAlignment": "PASS"
+    },
+    "knownGaps": [],
+    "senseChecks": [
+      {
+        "id": "priority-learner-1",
+        "verdict": "PASS",
+        "note": "先处理的事用C，安全住处例有可辨认事项",
+        "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/priority"
+      },
+      {
+        "id": "priority-learner-2",
+        "verdict": "PASS",
+        "note": "优先地位用U，紧急车辆通行例区别于任务清单",
+        "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/priority"
+      }
+    ],
+    "scores": {
+      "accuracy": 3,
+      "completion": 3,
+      "readability": 3,
+      "increment": 3
+    },
+    "reasons": {
+      "accuracy": "先处理的事用C，安全住处例有可辨认事项；其余逐义核查见senseChecks。",
+      "completion": "先处理的事用C，安全住处例有可辨认事项；优先地位用U，紧急车辆通行例区别于任务清单",
+      "readability": "以“Finding somewhere safe to stay is our first priority.”及其中文译文示范“因为更重要或紧急而应先处理的事情。”，例句不依赖原工作语境；全部双语例已逐项读过，表达清楚但未做真实学习者测试。",
+      "increment": "原句“We need to set priorities for the remaining work.”绑定“因为更重要或紧急而应先处理的事情。”。Bridge再说明该句实际意图；priority用来表达取舍：事情都要做时，哪件先得到时间和资源？set priorities就是把这种优先安排说清楚，而不是把每件事都标为同样紧急。"
+    },
+    "issues": []
+  },
+  {
+    "cardId": "V20261012-006",
+    "ruleVersion": "learner-dictionary/1",
+    "reviewer": "dictionary-independent-reviewer",
+    "fingerprint": "946fbad60a52807f5bcff255add8fff94525450e73f300072ca7a011ee15bfd4",
+    "decision": "PASS",
+    "qualityChecks": {
+      "standaloneDefinition": "PASS",
+      "primaryPosCovered": "PASS",
+      "commonMeaningsCovered": "PASS",
+      "usableExamples": "PASS",
+      "grammarReviewed": "PASS",
+      "bridgeAlignment": "PASS"
+    },
+    "knownGaps": [],
+    "senseChecks": [
+      {
+        "id": "constraint-learner-1",
+        "verdict": "PASS",
+        "note": "限制因素可数，房间大小约束人数例具因果关系",
+        "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/constraint"
+      },
+      {
+        "id": "constraint-learner-2",
+        "verdict": "PASS",
+        "note": "无拘束状态U正式，without constraint搭配及译文一致",
+        "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/constraint"
+      }
+    ],
+    "scores": {
+      "accuracy": 3,
+      "completion": 3,
+      "readability": 3,
+      "increment": 3
+    },
+    "reasons": {
+      "accuracy": "限制因素可数，房间大小约束人数例具因果关系；其余逐义核查见senseChecks。",
+      "completion": "限制因素可数，房间大小约束人数例具因果关系；无拘束状态U正式，without constraint搭配及译文一致",
+      "readability": "以“The small room puts a constraint on the number of guests.”及其中文译文示范“限制行动或选择的条件、规则或因素。”，例句不依赖原工作语境；全部双语例已逐项读过，表达清楚但未做真实学习者测试。",
+      "increment": "原句“The main constraint is the number of available reviewers.”绑定“限制行动或选择的条件、规则或因素。”。Bridge再说明该句实际意图；constraint是方案必须面对的限制条件。原句说可用评审人数限制了安排；即使每个人都很能干，总人数有限也会影响一次能评审多少内容。"
+    },
+    "issues": []
+  },
+  {
+    "cardId": "V20261012-007",
+    "ruleVersion": "learner-dictionary/1",
+    "reviewer": "dictionary-independent-reviewer",
+    "fingerprint": "ad6a1d75a34de216e937fac8eed1761c8fe48fcbdda3baa60cefd7759353d779",
+    "decision": "PASS",
+    "qualityChecks": {
+      "standaloneDefinition": "PASS",
+      "primaryPosCovered": "PASS",
+      "commonMeaningsCovered": "PASS",
+      "usableExamples": "PASS",
+      "grammarReviewed": "PASS",
+      "bridgeAlignment": "PASS"
+    },
+    "knownGaps": [],
+    "senseChecks": [
+      {
+        "id": "dependency-learner-1",
+        "verdict": "PASS",
+        "note": "普通依赖状态按Oxford为U，进口燃料例不误作一个项目关系",
+        "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/dependency"
+      },
+      {
+        "id": "dependency-learner-2",
+        "verdict": "PASS",
+        "note": "药物依赖C/U由Collins variable noun支持，临床例无具体治疗建议",
+        "sourceUrl": "https://www.collinsdictionary.com/dictionary/english/dependency"
+      },
+      {
+        "id": "dependency-learner-3",
+        "verdict": "PASS",
+        "note": "属地C与依赖状态分开，岛屿例说明统治关系",
+        "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/dependency"
+      },
+      {
+        "id": "dependency-learner-4",
+        "verdict": "PASS",
+        "note": "APM活动逻辑依赖支持项目C，已去掉未经该来源支持的系统泛化",
+        "sourceUrl": "https://www.apm.org.uk/resources/what-is-project-management/what-is-scheduling-in-project-management/"
+      }
+    ],
+    "scores": {
+      "accuracy": 3,
+      "completion": 3,
+      "readability": 3,
+      "increment": 4
+    },
+    "reasons": {
+      "accuracy": "普通依赖状态按Oxford为U，进口燃料例不误作一个项目关系；其余逐义核查见senseChecks。",
+      "completion": "普通依赖状态按Oxford为U，进口燃料例不误作一个项目关系；药物依赖C/U由Collins variable noun支持，临床例无具体治疗建议；属地C与依赖状态分开，岛屿例说明统治关系；APM活动逻辑依赖支持项目C，已去掉未经该来源支持的系统泛化",
+      "readability": "以“The policy aims to reduce dependency on imported fuel.”及其中文译文示范“依赖他人或某物才能生活或运作的状态。”，例句不依赖原工作语境；全部双语例已逐项读过，表达清楚但未做真实学习者测试。",
+      "increment": "原句“Please identify dependencies before finalizing the schedule.”绑定“项目中一项活动与其他活动、所需输入或条件之间的依赖关系。”。Bridge再说明该句实际意图；项目关系另有APM依据，避免把普通不可数依赖状态直接套到复数排期关系。"
+    },
+    "issues": []
+  },
+  {
+    "cardId": "V20261012-008",
+    "ruleVersion": "learner-dictionary/1",
+    "reviewer": "dictionary-independent-reviewer",
+    "fingerprint": "34470c39ce80be37720c55e3c2f27a5760a0803804c72a63be2b50b2b45db139",
+    "decision": "PASS",
+    "qualityChecks": {
+      "standaloneDefinition": "PASS",
+      "primaryPosCovered": "PASS",
+      "commonMeaningsCovered": "PASS",
+      "usableExamples": "PASS",
+      "grammarReviewed": "PASS",
+      "bridgeAlignment": "PASS"
+    },
+    "knownGaps": [],
+    "senseChecks": [
+      {
+        "id": "assumption-learner-1",
+        "verdict": "PASS",
+        "note": "未经证实的前提与on the assumption that一致，订房例可独立理解",
+        "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/assumption"
+      },
+      {
+        "id": "assumption-learner-2",
+        "verdict": "PASS",
+        "note": "承担权责义C/U且正式，协议例区别于主观假设",
+        "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/assumption"
+      }
+    ],
+    "scores": {
+      "accuracy": 3,
+      "completion": 3,
+      "readability": 3,
+      "increment": 3
+    },
+    "reasons": {
+      "accuracy": "未经证实的前提与on the assumption that一致，订房例可独立理解；其余逐义核查见senseChecks。",
+      "completion": "未经证实的前提与on the assumption that一致，订房例可独立理解；承担权责义C/U且正式，协议例区别于主观假设",
+      "readability": "以“We booked two rooms on the assumption that everyone would come.”及其中文译文示范“尚未得到充分证实却被认为是真的看法或前提。”，例句不依赖原工作语境；全部双语例已逐项读过，表达清楚但未做真实学习者测试。",
+      "increment": "原句“This assumption needs to be checked with the supplier.”绑定“尚未得到充分证实却被认为是真的看法或前提。”。Bridge再说明该句实际意图；assumption是暂时接受、但还需要依据的前提。本句提醒先向供应商核实这个条件；如果答案不同，建立在它上面的估算或安排也可能要调整。"
+    },
+    "issues": []
+  },
+  {
+    "cardId": "V20261012-009",
+    "ruleVersion": "learner-dictionary/1",
+    "reviewer": "dictionary-independent-reviewer",
+    "fingerprint": "fab853e67779fbd5ca9a553079e2cba6911fae6be3f07be297411b681150dacf",
+    "decision": "PASS",
+    "qualityChecks": {
+      "standaloneDefinition": "PASS",
+      "primaryPosCovered": "PASS",
+      "commonMeaningsCovered": "PASS",
+      "usableExamples": "PASS",
+      "grammarReviewed": "PASS",
+      "bridgeAlignment": "PASS"
+    },
+    "knownGaps": [],
+    "senseChecks": [
+      {
+        "id": "baseline-learner-1",
+        "verdict": "PASS",
+        "note": "比较基准通常单数，初始温度例体现后续比较",
+        "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/baseline"
+      },
+      {
+        "id": "baseline-learner-2",
+        "verdict": "PASS",
+        "note": "体育底线/垒线语义准确，网球例确实使用场地底线",
+        "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/baseline"
+      }
+    ],
+    "scores": {
+      "accuracy": 3,
+      "completion": 3,
+      "readability": 3,
+      "increment": 3
+    },
+    "reasons": {
+      "accuracy": "比较基准通常单数，初始温度例体现后续比较；其余逐义核查见senseChecks。",
+      "completion": "比较基准通常单数，初始温度例体现后续比较；体育底线/垒线语义准确，网球例确实使用场地底线",
+      "readability": "以“We recorded the initial temperature as a baseline.”及其中文译文示范“用来衡量后来变化的起点、数据或比较标准。”，例句不依赖原工作语境；全部双语例已逐项读过，表达清楚但未做真实学习者测试。",
+      "increment": "原句“We need a baseline before measuring the improvement.”绑定“用来衡量后来变化的起点、数据或比较标准。”。Bridge再说明该句实际意图；baseline回答“和什么相比”。要说审批变快，先要知道原来的耗时；这个起始记录是baseline，希望降到的耗时才是target。"
+    },
+    "issues": []
+  },
+  {
+    "cardId": "V20261012-010",
+    "ruleVersion": "learner-dictionary/1",
+    "reviewer": "dictionary-independent-reviewer",
+    "fingerprint": "2f53cf482dc1e6ba5cf50611921113b79403529f0bb4526ffdc80586802881c3",
+    "decision": "PASS",
+    "qualityChecks": {
+      "standaloneDefinition": "PASS",
+      "primaryPosCovered": "PASS",
+      "commonMeaningsCovered": "PASS",
+      "usableExamples": "PASS",
+      "grammarReviewed": "PASS",
+      "bridgeAlignment": "PASS"
+    },
+    "knownGaps": [],
+    "senseChecks": [
+      {
+        "id": "buffer-learner-1",
+        "verdict": "PASS",
+        "note": "保护余量以积蓄抵御开支说明，非限计算机",
+        "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/buffer_1"
+      },
+      {
+        "id": "buffer-learner-2",
+        "verdict": "PASS",
+        "note": "树带实例支持空间隔离缓冲，区别于抽象预算",
+        "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/buffer_1"
+      },
+      {
+        "id": "buffer-learner-3",
+        "verdict": "PASS",
+        "note": "名词数据暂存区独立，打印前暂存例贴合",
+        "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/buffer_1"
+      },
+      {
+        "id": "buffer-learner-4",
+        "verdict": "PASS",
+        "note": "及物保护义使用against，厚墙噪音例能理解减轻作用",
+        "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/buffer_2"
+      },
+      {
+        "id": "buffer-learner-5",
+        "verdict": "PASS",
+        "note": "计算机动词已补，播放前暂存视频例与名词区分",
+        "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/buffer_2"
+      }
+    ],
+    "scores": {
+      "accuracy": 3,
+      "completion": 3,
+      "readability": 3,
+      "increment": 3
+    },
+    "reasons": {
+      "accuracy": "保护余量以积蓄抵御开支说明，非限计算机；其余逐义核查见senseChecks。",
+      "completion": "保护余量以积蓄抵御开支说明，非限计算机；树带实例支持空间隔离缓冲，区别于抽象预算；名词数据暂存区独立，打印前暂存例贴合；及物保护义使用against，厚墙噪音例能理解减轻作用；计算机动词已补，播放前暂存视频例与名词区分",
+      "readability": "以“We keep some savings as a buffer against unexpected expenses.”及其中文译文示范“减轻冲击、风险或困难的保护因素，也可指预留的钱或时间。”，例句不依赖原工作语境；全部双语例已逐项读过，表达清楚但未做真实学习者测试。",
+      "increment": "原句“The plan includes a two-day buffer for review.”绑定“减轻冲击、风险或困难的保护因素，也可指预留的钱或时间。”。Bridge再说明该句实际意图；buffer是预留来应对变化的余量。这里的两天不是已经发生的延期，而是计划里给评审留出的弹性；还应分清正常评审时长和额外缓冲。"
+    },
+    "issues": []
+  },
+  {
+    "cardId": "V20261012-011",
+    "ruleVersion": "learner-dictionary/1",
+    "reviewer": "dictionary-independent-reviewer",
+    "fingerprint": "e581aca5a924ece7e2d9e6bbb5739c3efa0bad0ac7ca0ac62848602c506e1718",
+    "decision": "PASS",
+    "qualityChecks": {
+      "standaloneDefinition": "PASS",
+      "primaryPosCovered": "PASS",
+      "commonMeaningsCovered": "PASS",
+      "usableExamples": "PASS",
+      "grammarReviewed": "PASS",
+      "bridgeAlignment": "PASS"
+    },
+    "knownGaps": [],
+    "senseChecks": [
+      {
+        "id": "sequence-learner-1",
+        "verdict": "PASS",
+        "note": "一连串事情与a sequence of相符，小错误例有连续性",
+        "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/sequence_1"
+      },
+      {
+        "id": "sequence-learner-2",
+        "verdict": "PASS",
+        "note": "顺序C/U及in sequence支持，照片按时间排列有辨认线索",
+        "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/sequence_1"
+      },
+      {
+        "id": "sequence-learner-3",
+        "verdict": "PASS",
+        "note": "电影连续片段单列，梦境镜头例对应",
+        "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/sequence_1"
+      },
+      {
+        "id": "sequence-learner-4",
+        "verdict": "PASS",
+        "note": "及物排序及科学测序有Oxford动词页支持，DNA例不误译为安排实验",
+        "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/sequence_2"
+      }
+    ],
+    "scores": {
+      "accuracy": 3,
+      "completion": 3,
+      "readability": 3,
+      "increment": 3
+    },
+    "reasons": {
+      "accuracy": "一连串事情与a sequence of相符，小错误例有连续性；其余逐义核查见senseChecks。",
+      "completion": "一连串事情与a sequence of相符，小错误例有连续性；顺序C/U及in sequence支持，照片按时间排列有辨认线索；电影连续片段单列，梦境镜头例对应；及物排序及科学测序有Oxford动词页支持，DNA例不误译为安排实验",
+      "readability": "以“A sequence of small mistakes caused the failure.”及其中文译文示范“按某种顺序发生或排列的一连串事物。”，例句不依赖原工作语境；全部双语例已逐项读过，表达清楚但未做真实学习者测试。",
+      "increment": "原句“Let's agree on the sequence of the remaining activities.”绑定“事物先后排列的顺序。”。Bridge再说明该句实际意图；sequence强调先后衔接。原句不是重新列出还有什么工作，而是要商定剩下这些活动按什么次序进行；日期和持续多久则还需要另行排程。"
+    },
+    "issues": []
+  },
+  {
+    "cardId": "V20261012-012",
+    "ruleVersion": "learner-dictionary/1",
+    "reviewer": "dictionary-independent-reviewer",
+    "fingerprint": "45f5b3742a044c3e610835978f574b732a7388dfccee0eac01e89cbc3e7b87d5",
+    "decision": "PASS",
+    "qualityChecks": {
+      "standaloneDefinition": "PASS",
+      "primaryPosCovered": "PASS",
+      "commonMeaningsCovered": "PASS",
+      "usableExamples": "PASS",
+      "grammarReviewed": "PASS",
+      "bridgeAlignment": "PASS"
+    },
+    "knownGaps": [],
+    "senseChecks": [
+      {
+        "id": "capacity-learner-1",
+        "verdict": "PASS",
+        "note": "容纳量C/U，三百人大厅例量值明确",
+        "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/capacity"
+      },
+      {
+        "id": "capacity-learner-2",
+        "verdict": "PASS",
+        "note": "产出/承接能力与工厂满足需求一致",
+        "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/capacity"
+      },
+      {
+        "id": "capacity-learner-3",
+        "verdict": "PASS",
+        "note": "学习能力与capacity to learn一致，区别于物理容积",
+        "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/capacity"
+      },
+      {
+        "id": "capacity-learner-4",
+        "verdict": "PASS",
+        "note": "身份职能C正式，in her capacity as主席例结构正确",
+        "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/capacity"
+      }
+    ],
+    "scores": {
+      "accuracy": 3,
+      "completion": 4,
+      "readability": 3,
+      "increment": 3
+    },
+    "reasons": {
+      "accuracy": "容纳量C/U，三百人大厅例量值明确；其余逐义核查见senseChecks。",
+      "completion": "容纳量C/U，三百人大厅例量值明确；产出/承接能力与工厂满足需求一致；学习能力与capacity to learn一致，区别于物理容积；身份职能C正式，in her capacity as主席例结构正确",
+      "readability": "以“The hall has a capacity of three hundred people.”及其中文译文示范“容器或场所能容纳的数量。”，例句不依赖原工作语境；全部双语例已逐项读过，表达清楚但未做真实学习者测试。",
+      "increment": "原句“We do not have enough capacity to start both projects.”绑定“在一定条件下能生产或承接的最大工作量。”。Bridge再说明该句实际意图；capacity在这里谈团队能承接多少工作。原句说不足以启动两个项目，可能涉及人力、时间或其他资源；需要问清哪部分不足，而不是立刻判断团队技术差。"
+    },
+    "issues": []
+  },
+  {
+    "cardId": "V20261012-013",
+    "ruleVersion": "learner-dictionary/1",
+    "reviewer": "dictionary-independent-reviewer",
+    "fingerprint": "bd49f4c1dda5c58daacd51b702da9b404f6c8d522bd7df06dff56fb2605acbd5",
+    "decision": "PASS",
+    "qualityChecks": {
+      "standaloneDefinition": "PASS",
+      "primaryPosCovered": "PASS",
+      "commonMeaningsCovered": "PASS",
+      "usableExamples": "PASS",
+      "grammarReviewed": "PASS",
+      "bridgeAlignment": "PASS"
+    },
+    "knownGaps": [],
+    "senseChecks": [
+      {
+        "id": "allocate-learner-1",
+        "verdict": "PASS",
+        "note": "及物分配义及to/双宾语/for结构完整，经费分图书馆例宾语清楚",
+        "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/allocate"
+      }
+    ],
+    "scores": {
+      "accuracy": 3,
+      "completion": 3,
+      "readability": 3,
+      "increment": 3
+    },
+    "reasons": {
+      "accuracy": "及物分配义及to/双宾语/for结构完整，经费分图书馆例宾语清楚；其余逐义核查见senseChecks。",
+      "completion": "及物分配义及to/双宾语/for结构完整，经费分图书馆例宾语清楚",
+      "readability": "以“The school allocated extra funds to the library.”及其中文译文示范“把资金、时间、空间等分给特定的人或用途。”，例句不依赖原工作语境；全部双语例已逐项读过，表达清楚但未做真实学习者测试。",
+      "increment": "原句“We should allocate more time to the initial review.”绑定“把资金、时间、空间等分给特定的人或用途。”。Bridge再说明该句实际意图；allocate着重资源安排：把多少时间、资金或人员分给哪项工作。原句建议给初步评审增加时间份额，下一步应把“更多”说成具体时长。"
+    },
+    "issues": []
+  },
+  {
+    "cardId": "V20261012-014",
+    "ruleVersion": "learner-dictionary/1",
+    "reviewer": "dictionary-independent-reviewer",
+    "fingerprint": "bcda56a739fe23ae07dee3d95682459032ea42bb8048ac1976db05d8a85a2cae",
+    "decision": "PASS",
+    "qualityChecks": {
+      "standaloneDefinition": "PASS",
+      "primaryPosCovered": "PASS",
+      "commonMeaningsCovered": "PASS",
+      "usableExamples": "PASS",
+      "grammarReviewed": "PASS",
+      "bridgeAlignment": "PASS"
+    },
+    "knownGaps": [],
+    "senseChecks": [
+      {
+        "id": "delegate-learner-1",
+        "verdict": "PASS",
+        "note": "把任务交他人及不及物delegate均支持，预订交助理例是授权",
+        "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/delegate_2"
+      },
+      {
+        "id": "delegate-learner-2",
+        "verdict": "PASS",
+        "note": "被委派做事通常被动已标，两名成员检查例与任务转交义区分",
+        "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/delegate_2"
+      },
+      {
+        "id": "delegate-learner-3",
+        "verdict": "PASS",
+        "note": "代表名词C与动词读音有区别，学校参会代表例适用",
+        "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/delegate_1"
+      }
+    ],
+    "scores": {
+      "accuracy": 3,
+      "completion": 4,
+      "readability": 3,
+      "increment": 3
+    },
+    "reasons": {
+      "accuracy": "把任务交他人及不及物delegate均支持，预订交助理例是授权；其余逐义核查见senseChecks。",
+      "completion": "把任务交他人及不及物delegate均支持，预订交助理例是授权；被委派做事通常被动已标，两名成员检查例与任务转交义区分；代表名词C与动词读音有区别，学校参会代表例适用",
+      "readability": "以“She delegated the booking arrangements to her assistant.”及其中文译文示范“把职责、任务或权力交给他人代为承担。”，例句不依赖原工作语境；全部双语例已逐项读过，表达清楚但未做真实学习者测试。",
+      "increment": "原句“You can delegate the data collection to another team member.”绑定“把职责、任务或权力交给他人代为承担。”。Bridge再说明该句实际意图；delegate说明由别人代为承担部分工作或职责。原句提出把数据收集交给另一位成员；要让交接可执行，还需说清范围、完成时间和遇到问题找谁。"
+    },
+    "issues": []
+  },
+  {
+    "cardId": "V20261012-015",
+    "ruleVersion": "learner-dictionary/1",
+    "reviewer": "dictionary-independent-reviewer",
+    "fingerprint": "4ed52b7ed3a88652949a9c543983a5e963a5ecb5083378fca614aebf031ba184",
+    "decision": "PASS",
+    "qualityChecks": {
+      "standaloneDefinition": "PASS",
+      "primaryPosCovered": "PASS",
+      "commonMeaningsCovered": "PASS",
+      "usableExamples": "PASS",
+      "grammarReviewed": "PASS",
+      "bridgeAlignment": "PASS"
+    },
+    "knownGaps": [],
+    "senseChecks": [
+      {
+        "id": "ownership-learner-1",
+        "verdict": "PASS",
+        "note": "财产所有权U与transfer ownership相符，楼产权变更例明确",
+        "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/ownership"
+      },
+      {
+        "id": "ownership-learner-2",
+        "verdict": "PASS",
+        "note": "责任义有Oxford支持，接手投诉例不是宣称财产归属",
+        "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/ownership"
+      }
+    ],
+    "scores": {
+      "accuracy": 3,
+      "completion": 3,
+      "readability": 3,
+      "increment": 4
+    },
+    "reasons": {
+      "accuracy": "财产所有权U与transfer ownership相符，楼产权变更例明确；其余逐义核查见senseChecks。",
+      "completion": "财产所有权U与transfer ownership相符，楼产权变更例明确；责任义有Oxford支持，接手投诉例不是宣称财产归属",
+      "readability": "以“Ownership of the building changed last year.”及其中文译文示范“拥有某项财产或事物的状态或权利。”，例句不依赖原工作语境；全部双语例已逐项读过，表达清楚但未做真实学习者测试。",
+      "increment": "原句“Who will take ownership of this open item?”绑定“对某项工作或问题承担责任并主动推动处理。”。Bridge再说明该句实际意图；明确责任归属与财产所有权的不同，补足旧源最影响工作理解的缺口。"
+    },
+    "issues": []
+  },
+  {
+    "cardId": "V20261012-016",
+    "ruleVersion": "learner-dictionary/1",
+    "reviewer": "dictionary-independent-reviewer",
+    "fingerprint": "36a1a300ec4eeac00edc3adaee9ddf9cd723cae9f5ad4bd6d0c7c86ada8c8f32",
+    "decision": "PASS",
+    "qualityChecks": {
+      "standaloneDefinition": "PASS",
+      "primaryPosCovered": "PASS",
+      "commonMeaningsCovered": "PASS",
+      "usableExamples": "PASS",
+      "grammarReviewed": "PASS",
+      "bridgeAlignment": "PASS"
+    },
+    "knownGaps": [],
+    "senseChecks": [
+      {
+        "id": "accountable-learner-1",
+        "verdict": "PASS",
+        "note": "通常非定语位置、to谁/for何事均有交代，预算向董事会负责例准确",
+        "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/accountable"
+      }
+    ],
+    "scores": {
+      "accuracy": 3,
+      "completion": 3,
+      "readability": 3,
+      "increment": 3
+    },
+    "reasons": {
+      "accuracy": "通常非定语位置、to谁/for何事均有交代，预算向董事会负责例准确；其余逐义核查见senseChecks。",
+      "completion": "通常非定语位置、to谁/for何事均有交代，预算向董事会负责例准确",
+      "readability": "以“The director is accountable to the board for the budget.”及其中文译文示范“必须对自己的决定或行为作出说明并承担责任的。”，例句不依赖原工作语境；全部双语例已逐项读过，表达清楚但未做真实学习者测试。",
+      "increment": "原句“One person must be accountable for the final decision.”绑定“必须对自己的决定或行为作出说明并承担责任的。”。Bridge再说明该句实际意图；重点不只是“有人做了”，而是“谁需要交代这个决定及其理由”。别人问起为何这样决定时，被指定 accountable 的人要能说明。"
+    },
+    "issues": []
+  },
+  {
+    "cardId": "V20261012-017",
+    "ruleVersion": "learner-dictionary/1",
+    "reviewer": "dictionary-independent-reviewer",
+    "fingerprint": "87728b3beb1d153300c43644792e57837d0430f97b238c12132f3d1d31ae8a1e",
+    "decision": "PASS",
+    "qualityChecks": {
+      "standaloneDefinition": "PASS",
+      "primaryPosCovered": "PASS",
+      "commonMeaningsCovered": "PASS",
+      "usableExamples": "PASS",
+      "grammarReviewed": "PASS",
+      "bridgeAlignment": "PASS"
+    },
+    "knownGaps": [],
+    "senseChecks": [
+      {
+        "id": "deadline-learner-1",
+        "verdict": "PASS",
+        "note": "最晚完成时间C，申请截至周五例没有混成预计日期",
+        "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/deadline"
+      }
+    ],
+    "scores": {
+      "accuracy": 3,
+      "completion": 3,
+      "readability": 3,
+      "increment": 3
+    },
+    "reasons": {
+      "accuracy": "最晚完成时间C，申请截至周五例没有混成预计日期；其余逐义核查见senseChecks。",
+      "completion": "最晚完成时间C，申请截至周五例没有混成预计日期",
+      "readability": "以“The deadline for applications is next Friday.”及其中文译文示范“某事必须完成或提交的最晚时间。”，例句不依赖原工作语境；全部双语例已逐项读过，表达清楚但未做真实学习者测试。",
+      "increment": "原句“We need a decision today to meet the deadline.”绑定“某事必须完成或提交的最晚时间。”。Bridge再说明该句实际意图；deadline说的是必须完成某事的最晚时间。本句把“今天要决定”和“之后按期完成”连起来；today是作决定的时点，未必就是最终截止日。"
+    },
+    "issues": []
+  },
+  {
+    "cardId": "V20261012-018",
+    "ruleVersion": "learner-dictionary/1",
+    "reviewer": "dictionary-independent-reviewer",
+    "fingerprint": "b8bfc4e18c3e4a1c95f613d03370d668af6a3f15306e2185494109e883e8b79e",
+    "decision": "PASS",
+    "qualityChecks": {
+      "standaloneDefinition": "PASS",
+      "primaryPosCovered": "PASS",
+      "commonMeaningsCovered": "PASS",
+      "usableExamples": "PASS",
+      "grammarReviewed": "PASS",
+      "bridgeAlignment": "PASS"
+    },
+    "knownGaps": [],
+    "senseChecks": [
+      {
+        "id": "commitment-learner-1",
+        "verdict": "PASS",
+        "note": "承诺C/U已修，保持服务开放例体现答应",
+        "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/commitment"
+      },
+      {
+        "id": "commitment-learner-2",
+        "verdict": "PASS",
+        "note": "投入专注U，与练乐器持续努力例吻合",
+        "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/commitment"
+      },
+      {
+        "id": "commitment-learner-3",
+        "verdict": "PASS",
+        "note": "已有义务常复数，家庭事务妨碍出行例不是口头承诺",
+        "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/commitment"
+      }
+    ],
+    "scores": {
+      "accuracy": 3,
+      "completion": 3,
+      "readability": 3,
+      "increment": 3
+    },
+    "reasons": {
+      "accuracy": "承诺C/U已修，保持服务开放例体现答应；其余逐义核查见senseChecks。",
+      "completion": "承诺C/U已修，保持服务开放例体现答应；投入专注U，与练乐器持续努力例吻合；已有义务常复数，家庭事务妨碍出行例不是口头承诺",
+      "readability": "以“They made a commitment to keep the service open.”及其中文译文示范“答应做某事的承诺。”，例句不依赖原工作语境；全部双语例已逐项读过，表达清楚但未做真实学习者测试。",
+      "increment": "原句“Please confirm the conditions behind this commitment.”绑定“答应做某事的承诺。”。Bridge再说明该句实际意图；对方已经答应了一件事，这里要追问：这个答应是建立在什么条件上的？比如交期是否以材料到齐为前提。"
+    },
+    "issues": []
+  },
+  {
+    "cardId": "V20261012-019",
+    "ruleVersion": "learner-dictionary/1",
+    "reviewer": "dictionary-independent-reviewer",
+    "fingerprint": "c60da4459f3e5fe34f422a731b524172f77abcca1b4c233457ac2db02f1692e2",
+    "decision": "PASS",
+    "qualityChecks": {
+      "standaloneDefinition": "PASS",
+      "primaryPosCovered": "PASS",
+      "commonMeaningsCovered": "PASS",
+      "usableExamples": "PASS",
+      "grammarReviewed": "PASS",
+      "bridgeAlignment": "PASS"
+    },
+    "knownGaps": [],
+    "senseChecks": [
+      {
+        "id": "contingency-learner-1",
+        "verdict": "PASS",
+        "note": "可能出现的状况可数，留款应对例不把plan当同一个词义",
+        "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/contingency"
+      },
+      {
+        "id": "contingency-learner-2",
+        "verdict": "PASS",
+        "note": "预留款C/U已补，预算维修款例与事件义明确分开",
+        "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/contingency"
+      }
+    ],
+    "scores": {
+      "accuracy": 3,
+      "completion": 3,
+      "readability": 3,
+      "increment": 3
+    },
+    "reasons": {
+      "accuracy": "可能出现的状况可数，留款应对例不把plan当同一个词义；其余逐义核查见senseChecks。",
+      "completion": "可能出现的状况可数，留款应对例不把plan当同一个词义；预留款C/U已补，预算维修款例与事件义明确分开",
+      "readability": "以“We set aside money for unexpected contingencies.”及其中文译文示范“未来可能发生、需要预作准备的情况，尤其是问题。”，例句不依赖原工作语境；全部双语例已逐项读过，表达清楚但未做真实学习者测试。",
+      "increment": "原句“We need a contingency plan if the reviewer is unavailable.”绑定“未来可能发生、需要预作准备的情况，尤其是问题。”。Bridge再说明该句实际意图；不是说评审人已经缺席，而是提前问：如果他来不了，谁来接替？contingency 指可能出现的状况，plan 才是备用办法。"
+    },
+    "issues": []
+  },
+  {
+    "cardId": "V20261012-020",
+    "ruleVersion": "learner-dictionary/1",
+    "reviewer": "dictionary-independent-reviewer",
+    "fingerprint": "fef6b58a3de0f1a5e424ec62524bbcce98481aa7fc37ea37a15fa156bf66cbbf",
+    "decision": "PASS",
+    "qualityChecks": {
+      "standaloneDefinition": "PASS",
+      "primaryPosCovered": "PASS",
+      "commonMeaningsCovered": "PASS",
+      "usableExamples": "PASS",
+      "grammarReviewed": "PASS",
+      "bridgeAlignment": "PASS"
+    },
+    "knownGaps": [],
+    "senseChecks": [
+      {
+        "id": "trade-off-learner-1",
+        "verdict": "PASS",
+        "note": "连字符名词取舍，轻设备与大电池共享对象，避免原轻包例关系不明",
+        "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/trade-off_2"
+      }
+    ],
+    "scores": {
+      "accuracy": 3,
+      "completion": 3,
+      "readability": 3,
+      "increment": 3
+    },
+    "reasons": {
+      "accuracy": "连字符名词取舍，轻设备与大电池共享对象，避免原轻包例关系不明；其余逐义核查见senseChecks。",
+      "completion": "连字符名词取舍，轻设备与大电池共享对象，避免原轻包例关系不明",
+      "readability": "以“There is a trade-off between a lighter device and a larger battery.”及其中文译文示范“为了得到一种好处而接受另一种损失或不足的取舍。”，例句不依赖原工作语境；全部双语例已逐项读过，表达清楚但未做真实学习者测试。",
+      "increment": "原句“There is a trade-off between a faster delivery and a lower cost.”绑定“为了得到一种好处而接受另一种损失或不足的取舍。”。Bridge再说明该句实际意图；把快与便宜放在一起看：如果想更快到货，可能需要加钱；如果坚持低价，可能要等更久。句子说存在这种限制，还没替大家作选择。"
+    },
+    "issues": []
+  },
+  {
+    "cardId": "V20261012-041",
+    "ruleVersion": "learner-dictionary/1",
+    "reviewer": "dictionary-independent-reviewer",
+    "fingerprint": "7bd4f64d60a7cf920646c638970a8b6b311333bb5f279dfbbefdf1393536ed6c",
+    "decision": "PASS",
+    "qualityChecks": {
+      "standaloneDefinition": "PASS",
+      "primaryPosCovered": "PASS",
+      "commonMeaningsCovered": "PASS",
+      "usableExamples": "PASS",
+      "grammarReviewed": "PASS",
+      "bridgeAlignment": "PASS"
+    },
+    "knownGaps": [],
+    "senseChecks": [
+      {
+        "id": "agenda-learner-1",
+        "verdict": "PASS",
+        "note": "会议事项清单可数，新时间表为议程项",
+        "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/agenda"
+      },
+      {
+        "id": "agenda-learner-2",
+        "verdict": "PASS",
+        "note": "组织目标计划义，环保目标例不局限单次会议",
+        "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/agenda"
+      }
+    ],
+    "scores": {
+      "accuracy": 3,
+      "completion": 3,
+      "readability": 3,
+      "increment": 3
+    },
+    "reasons": {
+      "accuracy": "会议事项清单可数，新时间表为议程项；其余逐义核查见senseChecks。",
+      "completion": "会议事项清单可数，新时间表为议程项；组织目标计划义，环保目标例不局限单次会议",
+      "readability": "以“The first item on the agenda is the new timetable.”及其中文译文示范“会议准备讨论的事项清单。”，例句不依赖原工作语境；全部双语例已逐项读过，表达清楚但未做真实学习者测试。",
+      "increment": "原句“Please send the agenda before the meeting.”绑定“会议准备讨论的事项清单。”。Bridge再说明该句实际意图；这里要的是会前发出的讨论清单。参会者看过清单才能准备资料；agenda 不等于会后记录了什么决定的会议纪要。"
+    },
+    "issues": []
+  },
+  {
+    "cardId": "V20261012-042",
+    "ruleVersion": "learner-dictionary/1",
+    "reviewer": "dictionary-independent-reviewer",
+    "fingerprint": "71e6020cab345ae8544034afd00fbdf61bc3559bba4f891f713ba6805305daf5",
+    "decision": "PASS",
+    "qualityChecks": {
+      "standaloneDefinition": "PASS",
+      "primaryPosCovered": "PASS",
+      "commonMeaningsCovered": "PASS",
+      "usableExamples": "PASS",
+      "grammarReviewed": "PASS",
+      "bridgeAlignment": "PASS"
+    },
+    "knownGaps": [],
+    "senseChecks": [
+      {
+        "id": "context-learner-1",
+        "verdict": "PASS",
+        "note": "背景情境C/U，物价上涨使数字有意义的例对应",
+        "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/context"
+      },
+      {
+        "id": "context-learner-2",
+        "verdict": "PASS",
+        "note": "语言上下文另列，断章取义例有明确语言对象",
+        "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/context"
+      }
+    ],
+    "scores": {
+      "accuracy": 3,
+      "completion": 3,
+      "readability": 3,
+      "increment": 3
+    },
+    "reasons": {
+      "accuracy": "背景情境C/U，物价上涨使数字有意义的例对应；其余逐义核查见senseChecks。",
+      "completion": "背景情境C/U，物价上涨使数字有意义的例对应；语言上下文另列，断章取义例有明确语言对象",
+      "readability": "以“The figures make sense in the context of rising prices.”及其中文译文示范“帮助理解某件事的背景或周围情况。”，例句不依赖原工作语境；全部双语例已逐项读过，表达清楚但未做真实学习者测试。",
+      "increment": "原句“Let me provide some context before we discuss the options.”绑定“帮助理解某件事的背景或周围情况。”。Bridge再说明该句实际意图；先说明事情是在什么情况下发生的，再比较选项。例如报价变高，可能是需求增加了；没有这个背景，听者容易把它理解成单纯涨价。"
+    },
+    "issues": []
+  },
+  {
+    "cardId": "V20261012-043",
+    "ruleVersion": "learner-dictionary/1",
+    "reviewer": "dictionary-independent-reviewer",
+    "fingerprint": "c79e938c3bdaaba2e423f95c217ad67d9a9132873bbad610e5d5f7339a5c18d8",
+    "decision": "PASS",
+    "qualityChecks": {
+      "standaloneDefinition": "PASS",
+      "primaryPosCovered": "PASS",
+      "commonMeaningsCovered": "PASS",
+      "usableExamples": "PASS",
+      "grammarReviewed": "PASS",
+      "bridgeAlignment": "PASS"
+    },
+    "knownGaps": [],
+    "senseChecks": [
+      {
+        "id": "clarify-learner-1",
+        "verdict": "PASS",
+        "note": "把不清楚内容说明白及whether宾语从句成立，访客门票例自然",
+        "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/clarify"
+      },
+      {
+        "id": "clarify-learner-2",
+        "verdict": "PASS",
+        "note": "Collins直接支持液体去杂质，黄油例以烹饪标签限定",
+        "sourceUrl": "https://www.collinsdictionary.com/dictionary/english/clarify"
+      }
+    ],
+    "scores": {
+      "accuracy": 3,
+      "completion": 3,
+      "readability": 3,
+      "increment": 3
+    },
+    "reasons": {
+      "accuracy": "把不清楚内容说明白及whether宾语从句成立，访客门票例自然；其余逐义核查见senseChecks。",
+      "completion": "把不清楚内容说明白及whether宾语从句成立，访客门票例自然；Collins直接支持液体去杂质，黄油例以烹饪标签限定",
+      "readability": "以“Could you clarify whether visitors need tickets?”及其中文译文示范“把不清楚的事情解释得更明确、更容易理解。”，例句不依赖原工作语境；全部双语例已逐项读过，表达清楚但未做真实学习者测试。",
+      "increment": "原句“Could you clarify what is included in this request?”绑定“把不清楚的事情解释得更明确、更容易理解。”。Bridge再说明该句实际意图；对方提出了请求，但你还不清楚它包含哪些工作。clarify 在这里要求补清范围：例如是否只含测试，还是也含安装。"
+    },
+    "issues": []
+  },
+  {
+    "cardId": "V20261012-044",
+    "ruleVersion": "learner-dictionary/1",
+    "reviewer": "dictionary-independent-reviewer",
+    "fingerprint": "a020790b099e8884ac01c312921bb7c817746a2f6817d9af1649b917ff7d206e",
+    "decision": "PASS",
+    "qualityChecks": {
+      "standaloneDefinition": "PASS",
+      "primaryPosCovered": "PASS",
+      "commonMeaningsCovered": "PASS",
+      "usableExamples": "PASS",
+      "grammarReviewed": "PASS",
+      "bridgeAlignment": "PASS"
+    },
+    "knownGaps": [],
+    "senseChecks": [
+      {
+        "id": "confirm-learner-1",
+        "verdict": "PASS",
+        "note": "证实/强化判断有Oxford支持，水质检验例体现证据",
+        "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/confirm"
+      },
+      {
+        "id": "confirm-learner-2",
+        "verdict": "PASS",
+        "note": "确定安排及信息，人数确认例不混成任命",
+        "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/confirm"
+      },
+      {
+        "id": "confirm-learner-3",
+        "verdict": "PASS",
+        "note": "正式批准职位另列，委员会批准任命例对应",
+        "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/confirm"
+      },
+      {
+        "id": "confirm-learner-4",
+        "verdict": "PASS",
+        "note": "宗教义通常被动已标，教堂例与施行坚振礼一致",
+        "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/confirm"
+      }
+    ],
+    "scores": {
+      "accuracy": 3,
+      "completion": 3,
+      "readability": 3,
+      "increment": 3
+    },
+    "reasons": {
+      "accuracy": "证实/强化判断有Oxford支持，水质检验例体现证据；其余逐义核查见senseChecks。",
+      "completion": "证实/强化判断有Oxford支持，水质检验例体现证据；确定安排及信息，人数确认例不混成任命；正式批准职位另列，委员会批准任命例对应；宗教义通常被动已标，教堂例与施行坚振礼一致",
+      "readability": "以“The test confirmed that the water was safe.”及其中文译文示范“用证据证明某事属实，或使原有判断更确定。”，例句不依赖原工作语境；全部双语例已逐项读过，表达清楚但未做真实学习者测试。",
+      "increment": "原句“Please confirm who will own the next action.”绑定“确认安排、预订或信息，使其明确或确定下来。”。Bridge再说明该句实际意图；现在需要一个明确的人名：下一步到底谁负责？请对方核实或确定这个归属，好让行动事项有人接手。"
+    },
+    "issues": []
+  },
+  {
+    "cardId": "V20261012-045",
+    "ruleVersion": "learner-dictionary/1",
+    "reviewer": "dictionary-independent-reviewer",
+    "fingerprint": "db7d981de34333fa233a782c622c81a49e5809951885302c998a3a4f1a633c27",
+    "decision": "PASS",
+    "qualityChecks": {
+      "standaloneDefinition": "PASS",
+      "primaryPosCovered": "PASS",
+      "commonMeaningsCovered": "PASS",
+      "usableExamples": "PASS",
+      "grammarReviewed": "PASS",
+      "bridgeAlignment": "PASS"
+    },
+    "knownGaps": [],
+    "senseChecks": [
+      {
+        "id": "specify-learner-1",
+        "verdict": "PASS",
+        "note": "明确具体说明和wh宾语从句正确，可用日期例强调精确内容",
+        "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/specify"
+      }
+    ],
+    "scores": {
+      "accuracy": 3,
+      "completion": 3,
+      "readability": 3,
+      "increment": 3
+    },
+    "reasons": {
+      "accuracy": "明确具体说明和wh宾语从句正确，可用日期例强调精确内容；其余逐义核查见senseChecks。",
+      "completion": "明确具体说明和wh宾语从句正确，可用日期例强调精确内容",
+      "readability": "以“The form asks you to specify which days you are available.”及其中文译文示范“明确、具体地说明或规定内容。”，例句不依赖原工作语境；全部双语例已逐项读过，表达清楚但未做真实学习者测试。",
+      "increment": "原句“Please specify the conditions for accepting this proposal.”绑定“明确、具体地说明或规定内容。”。Bridge再说明该句实际意图；不要只说条件合适就接受。specify 要求把条件逐项说清楚，例如需要什么价格、日期或文件，才能判断是否满足要求。"
+    },
+    "issues": []
+  },
+  {
+    "cardId": "V20261012-046",
+    "ruleVersion": "learner-dictionary/1",
+    "reviewer": "dictionary-independent-reviewer",
+    "fingerprint": "69e983695ba9ded8467852423fae63d3ae74e3ac1a03cb490158dd11865c1a0d",
+    "decision": "PASS",
+    "qualityChecks": {
+      "standaloneDefinition": "PASS",
+      "primaryPosCovered": "PASS",
+      "commonMeaningsCovered": "PASS",
+      "usableExamples": "PASS",
+      "grammarReviewed": "PASS",
+      "bridgeAlignment": "PASS"
+    },
+    "knownGaps": [],
+    "senseChecks": [
+      {
+        "id": "elaborate-learner-1",
+        "verdict": "PASS",
+        "note": "详细说明动词与on/upon相符，问离职原因例结构正确",
+        "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/elaborate_2"
+      },
+      {
+        "id": "elaborate-learner-2",
+        "verdict": "PASS",
+        "note": "复杂精细的形容词通常名词前，花卉设计例及末尾读音与动词区分",
+        "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/elaborate_1"
+      }
+    ],
+    "scores": {
+      "accuracy": 3,
+      "completion": 3,
+      "readability": 3,
+      "increment": 3
+    },
+    "reasons": {
+      "accuracy": "详细说明动词与on/upon相符，问离职原因例结构正确；其余逐义核查见senseChecks。",
+      "completion": "详细说明动词与on/upon相符，问离职原因例结构正确；复杂精细的形容词通常名词前，花卉设计例及末尾读音与动词区分",
+      "readability": "以“Could you elaborate on your reasons for leaving?”及其中文译文示范“进一步详细说明，使已有信息更充分。”，例句不依赖原工作语境；全部双语例已逐项读过，表达清楚但未做真实学习者测试。",
+      "increment": "原句“Could you elaborate on the concern about timing?”绑定“进一步详细说明，使已有信息更充分。”。Bridge再说明该句实际意图；已经知道对方担心时间安排，现在请他把担心展开：是哪一步耗时长，会影响什么？这里需要相关细节，而不是重复一句时间有问题。"
+    },
+    "issues": []
+  },
+  {
+    "cardId": "V20261012-047",
+    "ruleVersion": "learner-dictionary/1",
+    "reviewer": "dictionary-independent-reviewer",
+    "fingerprint": "fc79d44ecc9ef978cadc3f13426d358da68b37599dd18e7883d3af759476c250",
+    "decision": "PASS",
+    "qualityChecks": {
+      "standaloneDefinition": "PASS",
+      "primaryPosCovered": "PASS",
+      "commonMeaningsCovered": "PASS",
+      "usableExamples": "PASS",
+      "grammarReviewed": "PASS",
+      "bridgeAlignment": "PASS"
+    },
+    "knownGaps": [],
+    "senseChecks": [
+      {
+        "id": "summarize-learner-1",
+        "verdict": "PASS",
+        "note": "及物/不及物概括重点，三句话概括故事例展示压缩而非照抄",
+        "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/summarize"
+      }
+    ],
+    "scores": {
+      "accuracy": 3,
+      "completion": 3,
+      "readability": 3,
+      "increment": 3
+    },
+    "reasons": {
+      "accuracy": "及物/不及物概括重点，三句话概括故事例展示压缩而非照抄；其余逐义核查见senseChecks。",
+      "completion": "及物/不及物概括重点，三句话概括故事例展示压缩而非照抄",
+      "readability": "以“Could you summarize the story in three sentences?”及其中文译文示范“用较少的话概括最重要的内容。”，例句不依赖原工作语境；全部双语例已逐项读过，表达清楚但未做真实学习者测试。",
+      "increment": "原句“Let me summarize the decisions and remaining questions.”绑定“用较少的话概括最重要的内容。”。Bridge再说明该句实际意图；把长讨论压缩成听得懂的重点：一栏是已决定的事，另一栏是还没解决的问题。简短不等于把未解决的部分省掉。"
+    },
+    "issues": []
+  },
+  {
+    "cardId": "V20261012-048",
+    "ruleVersion": "learner-dictionary/1",
+    "reviewer": "dictionary-independent-reviewer",
+    "fingerprint": "fc65f945e41b7f343f107515e8d30875bba75c0f887a74f6c74f6f7d788fcb14",
+    "decision": "PASS",
+    "qualityChecks": {
+      "standaloneDefinition": "PASS",
+      "primaryPosCovered": "PASS",
+      "commonMeaningsCovered": "PASS",
+      "usableExamples": "PASS",
+      "grammarReviewed": "PASS",
+      "bridgeAlignment": "PASS"
+    },
+    "knownGaps": [],
+    "senseChecks": [
+      {
+        "id": "recap-learner-1",
+        "verdict": "PASS",
+        "note": "回顾前述要点及物/不及物成立，昨日事件例是回顾而非新解释",
+        "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/recap_1"
+      },
+      {
+        "id": "recap-learner-2",
+        "verdict": "PASS",
+        "note": "名词C/U已修，a recap of前情回顾例对应",
+        "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/recap_2"
+      }
+    ],
+    "scores": {
+      "accuracy": 3,
+      "completion": 3,
+      "readability": 3,
+      "increment": 3
+    },
+    "reasons": {
+      "accuracy": "回顾前述要点及物/不及物成立，昨日事件例是回顾而非新解释；其余逐义核查见senseChecks。",
+      "completion": "回顾前述要点及物/不及物成立，昨日事件例是回顾而非新解释；名词C/U已修，a recap of前情回顾例对应",
+      "readability": "以“Before we continue, let me recap what happened yesterday.”及其中文译文示范“简要重述刚讲过或发生过的主要内容。”，例句不依赖原工作语境；全部双语例已逐项读过，表达清楚但未做真实学习者测试。",
+      "increment": "原句“Could you recap the main points for the new team member?”绑定“简要重述刚讲过或发生过的主要内容。”。Bridge再说明该句实际意图；新成员刚进入讨论，需要先知道大家谈到了哪里。recap 要把前面的要点补给他，而不是从头重演整场会议。"
+    },
+    "issues": []
+  },
+  {
+    "cardId": "V20261012-049",
+    "ruleVersion": "learner-dictionary/1",
+    "reviewer": "dictionary-independent-reviewer",
+    "fingerprint": "80e21df3e605e758fe32b20ce64b63ecd51cc14007959a7d465d9ff2ac6eac66",
+    "decision": "PASS",
+    "qualityChecks": {
+      "standaloneDefinition": "PASS",
+      "primaryPosCovered": "PASS",
+      "commonMeaningsCovered": "PASS",
+      "usableExamples": "PASS",
+      "grammarReviewed": "PASS",
+      "bridgeAlignment": "PASS"
+    },
+    "knownGaps": [],
+    "senseChecks": [
+      {
+        "id": "align-learner-1",
+        "verdict": "PASS",
+        "note": "排齐位置I/T与align A with B一致，纸边导向标记例可操作",
+        "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/align"
+      },
+      {
+        "id": "align-learner-2",
+        "verdict": "PASS",
+        "note": "使相协调义T已标，课程与考试一致例符合with搭配",
+        "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/align"
+      },
+      {
+        "id": "align-learner-3",
+        "verdict": "PASS",
+        "note": "公开支持另引align-yourself-with，拒绝站队例与物理排齐区分",
+        "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/align-yourself-with"
+      }
+    ],
+    "scores": {
+      "accuracy": 3,
+      "completion": 3,
+      "readability": 3,
+      "increment": 3
+    },
+    "reasons": {
+      "accuracy": "排齐位置I/T与align A with B一致，纸边导向标记例可操作；其余逐义核查见senseChecks。",
+      "completion": "排齐位置I/T与align A with B一致，纸边导向标记例可操作；使相协调义T已标，课程与考试一致例符合with搭配；公开支持另引align-yourself-with，拒绝站队例与物理排齐区分",
+      "readability": "以“Align the edge of the paper with the guide.”及其中文译文示范“排成直线，或调整到正确的相对位置。”，例句不依赖原工作语境；全部双语例已逐项读过，表达清楚但未做真实学习者测试。",
+      "increment": "原句“We need to align on priorities before assigning the work.”绑定“使目标、做法等相互一致或协调。”。Bridge再说明该句实际意图；先让大家对先做什么有一致理解，再分任务。否则有人先赶测试，有人先改设计，各自很忙却可能互相卡住。"
+    },
+    "issues": []
+  },
+  {
+    "cardId": "V20261012-050",
+    "ruleVersion": "learner-dictionary/1",
+    "reviewer": "dictionary-independent-reviewer",
+    "fingerprint": "440edeb806bdadc547d064f9da8eba58a030c5b15d1248eec5395176d1a98f51",
+    "decision": "PASS",
+    "qualityChecks": {
+      "standaloneDefinition": "PASS",
+      "primaryPosCovered": "PASS",
+      "commonMeaningsCovered": "PASS",
+      "usableExamples": "PASS",
+      "grammarReviewed": "PASS",
+      "bridgeAlignment": "PASS"
+    },
+    "knownGaps": [],
+    "senseChecks": [
+      {
+        "id": "consensus-learner-1",
+        "verdict": "PASS",
+        "note": "Cambridge支持广泛共同意见而非强制全体同意，broad consensus例与中文一致",
+        "sourceUrl": "https://dictionary.cambridge.org/us/dictionary/english/consensus"
+      }
+    ],
+    "scores": {
+      "accuracy": 3,
+      "completion": 3,
+      "readability": 3,
+      "increment": 3
+    },
+    "reasons": {
+      "accuracy": "Cambridge支持广泛共同意见而非强制全体同意，broad consensus例与中文一致；其余逐义核查见senseChecks。",
+      "completion": "Cambridge支持广泛共同意见而非强制全体同意，broad consensus例与中文一致",
+      "readability": "以“There is a broad consensus on the need for change.”及其中文译文示范“一群人在意见或判断上形成的大体一致。”，例句不依赖原工作语境；全部双语例已逐项读过，表达清楚但未做真实学习者测试。",
+      "increment": "原句“We reached a consensus on the main objective.”绑定“一群人在意见或判断上形成的大体一致。”。Bridge再说明该句实际意图；大家已经就主要目标形成了共同意见。注意限定词 on the main objective：一致的是目标，句子没有说预算、做法和期限也都谈妥了。"
+    },
+    "issues": []
+  },
+  {
+    "cardId": "V20261012-051",
+    "ruleVersion": "learner-dictionary/1",
+    "reviewer": "dictionary-independent-reviewer",
+    "fingerprint": "aee3e031d6fe97832c7f863ba4287183de1c9bfccf0f0cf9d7e1966f8c12348c",
+    "decision": "PASS",
+    "qualityChecks": {
+      "standaloneDefinition": "PASS",
+      "primaryPosCovered": "PASS",
+      "commonMeaningsCovered": "PASS",
+      "usableExamples": "PASS",
+      "grammarReviewed": "PASS",
+      "bridgeAlignment": "PASS"
+    },
+    "knownGaps": [],
+    "senseChecks": [
+      {
+        "id": "concern-learner-1",
+        "verdict": "PASS",
+        "note": "担忧情绪U，水质引起担忧例与可数问题分开",
+        "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/concern_2"
+      },
+      {
+        "id": "concern-learner-2",
+        "verdict": "PASS",
+        "note": "担心的重要问题C，维修费用例是具体事项",
+        "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/concern_2"
+      },
+      {
+        "id": "concern-learner-3",
+        "verdict": "PASS",
+        "note": "关心他人U与for对应，邻居例不是about忧虑",
+        "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/concern_2"
+      },
+      {
+        "id": "concern-learner-4",
+        "verdict": "PASS",
+        "note": "个人有关/负责事务C已与企业拆开，安排由我处理例明确",
+        "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/concern_2"
+      },
+      {
+        "id": "concern-learner-5",
+        "verdict": "PASS",
+        "note": "企业C单列，小型家族企业例自然",
+        "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/concern_2"
+      },
+      {
+        "id": "concern-learner-6",
+        "verdict": "PASS",
+        "note": "涉及/内容关于义合并合理，已补be concerned with及反身主题结构",
+        "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/concern_1"
+      },
+      {
+        "id": "concern-learner-7",
+        "verdict": "PASS",
+        "note": "使担忧T，行为改变让人担心例方向正确",
+        "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/concern_1"
+      },
+      {
+        "id": "concern-learner-8",
+        "verdict": "PASS",
+        "note": "Oxford反身关注义已补，项目细节例和with结构匹配",
+        "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/concern_1"
+      }
+    ],
+    "scores": {
+      "accuracy": 3,
+      "completion": 4,
+      "readability": 3,
+      "increment": 3
+    },
+    "reasons": {
+      "accuracy": "担忧情绪U，水质引起担忧例与可数问题分开；其余逐义核查见senseChecks。",
+      "completion": "担忧情绪U，水质引起担忧例与可数问题分开；担心的重要问题C，维修费用例是具体事项；关心他人U与for对应，邻居例不是about忧虑；个人有关/负责事务C已与企业拆开，安排由我处理例明确；企业C单列，小型家族企业例自然；涉及/内容关于义合并合理，已补be concerned with及反身主题结构；使担忧T，行为改变让人担心例方向正确；Oxford反身关注义已补，项目细节例和with结构匹配",
+      "readability": "以“There is growing concern about water quality.”及其中文译文示范“担心、忧虑。”，例句不依赖原工作语境；全部双语例已逐项读过，表达清楚但未做真实学习者测试。",
+      "increment": "原句“My main concern is the time available for review.”绑定“使人担忧的问题或关注的重要事项。”。Bridge再说明该句实际意图；说话者先指出最放心不下的一点：留给评审的时间。先把这个问题放到桌面上，还不是宣布整个方案必须作废。"
+    },
+    "issues": []
+  },
+  {
+    "cardId": "V20261012-052",
+    "ruleVersion": "learner-dictionary/1",
+    "reviewer": "dictionary-independent-reviewer",
+    "fingerprint": "f1cd4cb0b35dbf16f8c0e1554762991f14f0319169da437dcad6d6959733b9ad",
+    "decision": "PASS",
+    "qualityChecks": {
+      "standaloneDefinition": "PASS",
+      "primaryPosCovered": "PASS",
+      "commonMeaningsCovered": "PASS",
+      "usableExamples": "PASS",
+      "grammarReviewed": "PASS",
+      "bridgeAlignment": "PASS"
+    },
+    "knownGaps": [],
+    "senseChecks": [
+      {
+        "id": "objection-learner-1",
+        "verdict": "PASS",
+        "note": "反对态度/理由C/U及to doing对应，开窗例可理解为询问有无反对",
+        "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/objection"
+      }
+    ],
+    "scores": {
+      "accuracy": 3,
+      "completion": 3,
+      "readability": 3,
+      "increment": 3
+    },
+    "reasons": {
+      "accuracy": "反对态度/理由C/U及to doing对应，开窗例可理解为询问有无反对；其余逐义核查见senseChecks。",
+      "completion": "反对态度/理由C/U及to doing对应，开窗例可理解为询问有无反对",
+      "readability": "以“Do you have any objection to us opening the window?”及其中文译文示范“对某事表示反对，或反对的理由；法庭上也可指正式异议。”，例句不依赖原工作语境；全部双语例已逐项读过，表达清楚但未做真实学习者测试。",
+      "increment": "原句“Does anyone have an objection to the revised sequence?”绑定“对某事表示反对，或反对的理由；法庭上也可指正式异议。”。Bridge再说明该句实际意图；顺序已经调整过，现在给大家一个明确提出反对的机会。回答时最好指出哪一步有问题，以及新顺序为什么不合适。"
+    },
+    "issues": []
+  },
+  {
+    "cardId": "V20261012-053",
+    "ruleVersion": "learner-dictionary/1",
+    "reviewer": "dictionary-independent-reviewer",
+    "fingerprint": "1ec8fdca69ec241a8333297efc4a40acd13054f4079a8094897617e6bce6b9d5",
+    "decision": "PASS",
+    "qualityChecks": {
+      "standaloneDefinition": "PASS",
+      "primaryPosCovered": "PASS",
+      "commonMeaningsCovered": "PASS",
+      "usableExamples": "PASS",
+      "grammarReviewed": "PASS",
+      "bridgeAlignment": "PASS"
+    },
+    "knownGaps": [],
+    "senseChecks": [
+      {
+        "id": "reservation-learner-1",
+        "verdict": "PASS",
+        "note": "预订C，七点两人位例信息够用",
+        "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/reservation"
+      },
+      {
+        "id": "reservation-learner-2",
+        "verdict": "PASS",
+        "note": "疑虑C/U已修，without reservation与复数reservations均提供",
+        "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/reservation"
+      },
+      {
+        "id": "reservation-learner-3",
+        "verdict": "PASS",
+        "note": "限定美国原住民土地与Oxford源一致，没有泛称所有保留地区",
+        "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/reservation"
+      }
+    ],
+    "scores": {
+      "accuracy": 3,
+      "completion": 3,
+      "readability": 3,
+      "increment": 3
+    },
+    "reasons": {
+      "accuracy": "预订C，七点两人位例信息够用；其余逐义核查见senseChecks。",
+      "completion": "预订C，七点两人位例信息够用；疑虑C/U已修，without reservation与复数reservations均提供；限定美国原住民土地与Oxford源一致，没有泛称所有保留地区",
+      "readability": "以“I made a reservation for two at seven o’clock.”及其中文译文示范“为住宿、座位等提前作出的预订。”，例句不依赖原工作语境；全部双语例已逐项读过，表达清楚但未做真实学习者测试。",
+      "increment": "原句“I have reservations about committing before the review.”绑定“使人不能完全接受某事的疑虑或保留意见。”。Bridge再说明该句实际意图；说话者暂时不能完全接受在评审前就作出承诺。疑虑针对这个时间点；你需要继续问原因，而不是直接把他算成赞成者。"
+    },
+    "issues": []
+  },
+  {
+    "cardId": "V20261012-054",
+    "ruleVersion": "learner-dictionary/1",
+    "reviewer": "dictionary-independent-reviewer",
+    "fingerprint": "a928cce8156790c2fea8cb1252e60f14b8da145de434f4b7ae7ab5fd2d26ee1f",
+    "decision": "PASS",
+    "qualityChecks": {
+      "standaloneDefinition": "PASS",
+      "primaryPosCovered": "PASS",
+      "commonMeaningsCovered": "PASS",
+      "usableExamples": "PASS",
+      "grammarReviewed": "PASS",
+      "bridgeAlignment": "PASS"
+    },
+    "knownGaps": [],
+    "senseChecks": [
+      {
+        "id": "rationale-learner-1",
+        "verdict": "PASS",
+        "note": "正式名词逻辑理由，评分制度背后理由例没有混成制度本身",
+        "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/rationale"
+      }
+    ],
+    "scores": {
+      "accuracy": 3,
+      "completion": 3,
+      "readability": 3,
+      "increment": 3
+    },
+    "reasons": {
+      "accuracy": "正式名词逻辑理由，评分制度背后理由例没有混成制度本身；其余逐义核查见senseChecks。",
+      "completion": "正式名词逻辑理由，评分制度背后理由例没有混成制度本身",
+      "readability": "以“The teacher explained the rationale for the new marking system.”及其中文译文示范“某个决定、方法或信念背后的理由及其逻辑依据。”，例句不依赖原工作语境；全部双语例已逐项读过，表达清楚但未做真实学习者测试。",
+      "increment": "原句“Could you explain the rationale for changing the priority?”绑定“某个决定、方法或信念背后的理由及其逻辑依据。”。Bridge再说明该句实际意图；已经知道优先级变了，现在问的是为什么要改。对方应解释新信息或限制怎样导致这个决定，而不只是再说一次新的排序。"
+    },
+    "issues": []
+  },
+  {
+    "cardId": "V20261012-055",
+    "ruleVersion": "learner-dictionary/1",
+    "reviewer": "dictionary-independent-reviewer",
+    "fingerprint": "48a345315b84060779d1cc1d443edfa955267235313489b8faaa17623c438e3e",
+    "decision": "PASS",
+    "qualityChecks": {
+      "standaloneDefinition": "PASS",
+      "primaryPosCovered": "PASS",
+      "commonMeaningsCovered": "PASS",
+      "usableExamples": "PASS",
+      "grammarReviewed": "PASS",
+      "bridgeAlignment": "PASS"
+    },
+    "knownGaps": [],
+    "senseChecks": [
+      {
+        "id": "proposal-learner-1",
+        "verdict": "PASS",
+        "note": "建议或提出建议C/U，建公园提案例符合proposal to do",
+        "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/proposal"
+      },
+      {
+        "id": "proposal-learner-2",
+        "verdict": "PASS",
+        "note": "求婚单列，可数且marriage限定清晰",
+        "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/proposal"
+      }
+    ],
+    "scores": {
+      "accuracy": 3,
+      "completion": 3,
+      "readability": 3,
+      "increment": 3
+    },
+    "reasons": {
+      "accuracy": "建议或提出建议C/U，建公园提案例符合proposal to do；其余逐义核查见senseChecks。",
+      "completion": "建议或提出建议C/U，建公园提案例符合proposal to do；求婚单列，可数且marriage限定清晰",
+      "readability": "以“The council approved a proposal to build a new park.”及其中文译文示范“提交给他人考虑的建议、方案，或提出建议这一行为。”，例句不依赖原工作语境；全部双语例已逐项读过，表达清楚但未做真实学习者测试。",
+      "increment": "原句“Please review the proposal before tomorrow's discussion.”绑定“提交给他人考虑的建议、方案，或提出建议这一行为。”。Bridge再说明该句实际意图；在工作讨论里，proposal 是拿出来请别人考虑的方案。它通常不只说“我有个想法”，还会说明准备做什么、为什么值得做，让别人有内容可以审阅和讨论。"
+    },
+    "issues": []
+  },
+  {
+    "cardId": "V20261012-056",
+    "ruleVersion": "learner-dictionary/1",
+    "reviewer": "dictionary-independent-reviewer",
+    "fingerprint": "7066a0f311fa3dc296057990fe032ad1d94f1e33ef54eb76e9161c14c9b3a615",
+    "decision": "PASS",
+    "qualityChecks": {
+      "standaloneDefinition": "PASS",
+      "primaryPosCovered": "PASS",
+      "commonMeaningsCovered": "PASS",
+      "usableExamples": "PASS",
+      "grammarReviewed": "PASS",
+      "bridgeAlignment": "PASS"
+    },
+    "knownGaps": [],
+    "senseChecks": [
+      {
+        "id": "alternative-learner-1",
+        "verdict": "PASS",
+        "note": "替代选择C与to搭配相符，骑车替代开车例具体",
+        "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/alternative_1"
+      },
+      {
+        "id": "alternative-learner-2",
+        "verdict": "PASS",
+        "note": "替代的形容词通常定语，另一条路线例对应",
+        "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/alternative_2"
+      },
+      {
+        "id": "alternative-learner-3",
+        "verdict": "PASS",
+        "note": "非主流形容词独立，教育方式例不误作只有两个选项",
+        "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/alternative_2"
+      }
+    ],
+    "scores": {
+      "accuracy": 3,
+      "completion": 3,
+      "readability": 3,
+      "increment": 3
+    },
+    "reasons": {
+      "accuracy": "替代选择C与to搭配相符，骑车替代开车例具体；其余逐义核查见senseChecks。",
+      "completion": "替代选择C与to搭配相符，骑车替代开车例具体；替代的形容词通常定语，另一条路线例对应；非主流形容词独立，教育方式例不误作只有两个选项",
+      "readability": "以“Cycling is a cheap alternative to driving.”及其中文译文示范“可以取代当前选择的另一种选择。”，例句不依赖原工作语境；全部双语例已逐项读过，表达清楚但未做真实学习者测试。",
+      "increment": "原句“We should consider an alternative if the date is too tight.”绑定“可以取代当前选择的另一种选择。”。Bridge再说明该句实际意图；当前安排太紧时，alternative 是另一个可考虑的选择。比如原日期做不到，可以考虑别的日期，也可以另拟做法；这个词没有替你决定具体换哪一项。"
+    },
+    "issues": []
+  },
+  {
+    "cardId": "V20261012-057",
+    "ruleVersion": "learner-dictionary/1",
+    "reviewer": "dictionary-independent-reviewer",
+    "fingerprint": "c0cde0b28555fd0be8e8a9fc1f3cf2312f3b6da5648c4e2364a8b2e9674cedd3",
+    "decision": "PASS",
+    "qualityChecks": {
+      "standaloneDefinition": "PASS",
+      "primaryPosCovered": "PASS",
+      "commonMeaningsCovered": "PASS",
+      "usableExamples": "PASS",
+      "grammarReviewed": "PASS",
+      "bridgeAlignment": "PASS"
+    },
+    "knownGaps": [],
+    "senseChecks": [
+      {
+        "id": "compromise-learner-1",
+        "verdict": "PASS",
+        "note": "折中协议C/U，费用分摊例双方调整符合定义",
+        "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/compromise_1"
+      },
+      {
+        "id": "compromise-learner-2",
+        "verdict": "PASS",
+        "note": "让步不及物与on/with对应，价格拒绝让步例成立",
+        "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/compromise_2"
+      },
+      {
+        "id": "compromise-learner-3",
+        "verdict": "PASS",
+        "note": "危害T，省事做法危及建筑安全例不是达成协议",
+        "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/compromise_2"
+      },
+      {
+        "id": "compromise-learner-4",
+        "verdict": "PASS",
+        "note": "原则标准义T/I已补，晋升不违背原则例明确",
+        "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/compromise_2"
+      }
+    ],
+    "scores": {
+      "accuracy": 3,
+      "completion": 3,
+      "readability": 3,
+      "increment": 3
+    },
+    "reasons": {
+      "accuracy": "折中协议C/U，费用分摊例双方调整符合定义；其余逐义核查见senseChecks。",
+      "completion": "折中协议C/U，费用分摊例双方调整符合定义；让步不及物与on/with对应，价格拒绝让步例成立；危害T，省事做法危及建筑安全例不是达成协议；原则标准义T/I已补，晋升不违背原则例明确",
+      "readability": "以“They reached a compromise over how to share the costs.”及其中文译文示范“各方作出部分让步后达成的协议或折中办法。”，例句不依赖原工作语境；全部双语例已逐项读过，表达清楚但未做真实学习者测试。",
+      "increment": "原句“We reached a compromise on the review schedule.”绑定“各方作出部分让步后达成的协议或折中办法。”。Bridge再说明该句实际意图；本句说双方已经谈成一个折中安排。比如一方想周一评审，另一方想周五，最后接受周三；重点是各自调整要求后取得一致，而不是争论谁完全获胜。"
+    },
+    "issues": []
+  },
+  {
+    "cardId": "V20261012-058",
+    "ruleVersion": "learner-dictionary/1",
+    "reviewer": "dictionary-independent-reviewer",
+    "fingerprint": "c0f6038f78ce03d87586108dc97ce88a244471ac2866c824cbf33e5671a33dc8",
+    "decision": "PASS",
+    "qualityChecks": {
+      "standaloneDefinition": "PASS",
+      "primaryPosCovered": "PASS",
+      "commonMeaningsCovered": "PASS",
+      "usableExamples": "PASS",
+      "grammarReviewed": "PASS",
+      "bridgeAlignment": "PASS"
+    },
+    "knownGaps": [],
+    "senseChecks": [
+      {
+        "id": "negotiate-learner-1",
+        "verdict": "PASS",
+        "note": "商谈T/I及with/over结构准确，与房东谈租金不预设已谈成",
+        "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/negotiate"
+      },
+      {
+        "id": "negotiate-learner-2",
+        "verdict": "PASS",
+        "note": "成功越过障碍T，狭窄弯道驾驶例区别于谈判",
+        "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/negotiate"
+      }
+    ],
+    "scores": {
+      "accuracy": 3,
+      "completion": 3,
+      "readability": 3,
+      "increment": 3
+    },
+    "reasons": {
+      "accuracy": "商谈T/I及with/over结构准确，与房东谈租金不预设已谈成；其余逐义核查见senseChecks。",
+      "completion": "商谈T/I及with/over结构准确，与房东谈租金不预设已谈成；成功越过障碍T，狭窄弯道驾驶例区别于谈判",
+      "readability": "以“They are negotiating with the landlord over the rent.”及其中文译文示范“通过讨论争取就条件或安排达成协议。”，例句不依赖原工作语境；全部双语例已逐项读过，表达清楚但未做真实学习者测试。",
+      "increment": "原句“We may need to negotiate a more realistic deadline.”绑定“通过讨论争取就条件或安排达成协议。”。Bridge再说明该句实际意图；negotiate a deadline 是把截止时间拿来协商，争取一个双方可接受的安排。你可以说明现日期哪里不现实，再讨论能否延后或调整条件；它比单纯告知日期多了协商这一步。"
+    },
+    "issues": []
+  },
+  {
+    "cardId": "V20261012-059",
+    "ruleVersion": "learner-dictionary/1",
+    "reviewer": "dictionary-independent-reviewer",
+    "fingerprint": "4555b2d9d51d8b3a78fe1c2685dc5cb5d01a6dbe7bce844387dd00b708f316ce",
+    "decision": "PASS",
+    "qualityChecks": {
+      "standaloneDefinition": "PASS",
+      "primaryPosCovered": "PASS",
+      "commonMeaningsCovered": "PASS",
+      "usableExamples": "PASS",
+      "grammarReviewed": "PASS",
+      "bridgeAlignment": "PASS"
+    },
+    "knownGaps": [],
+    "senseChecks": [
+      {
+        "id": "conclude-learner-1",
+        "verdict": "PASS",
+        "note": "推断T通常非进行时已标，根据足迹得出判断例有证据",
+        "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/conclude"
+      },
+      {
+        "id": "conclude-learner-2",
+        "verdict": "PASS",
+        "note": "结束I/T，音乐会返场结束例与with相符",
+        "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/conclude"
+      },
+      {
+        "id": "conclude-learner-3",
+        "verdict": "PASS",
+        "note": "正式达成协议T，许可协议例不误指结束合同",
+        "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/conclude"
+      }
+    ],
+    "scores": {
+      "accuracy": 3,
+      "completion": 3,
+      "readability": 3,
+      "increment": 4
+    },
+    "reasons": {
+      "accuracy": "推断T通常非进行时已标，根据足迹得出判断例有证据；其余逐义核查见senseChecks。",
+      "completion": "推断T通常非进行时已标，根据足迹得出判断例有证据；结束I/T，音乐会返场结束例与with相符；正式达成协议T，许可协议例不误指结束合同",
+      "readability": "以“We concluded from the tracks that an animal had entered.”及其中文译文示范“根据事实或推理得出结论。”，例句不依赖原工作语境；全部双语例已逐项读过，表达清楚但未做真实学习者测试。",
+      "increment": "原句“Let's conclude the meeting by confirming the next steps.”绑定“结束或使结束某项活动。”。Bridge再说明该句实际意图；凭meeting及by确认动作选择结束义，同时保留推断与正式达成协议的其他义。"
+    },
+    "issues": []
+  },
+  {
+    "cardId": "V20261012-060",
+    "ruleVersion": "learner-dictionary/1",
+    "reviewer": "dictionary-independent-reviewer",
+    "fingerprint": "0678ed2c71113d643486b8a1870bd327340c18c61cecaff9c32af16a0ea71ee1",
+    "decision": "PASS",
+    "qualityChecks": {
+      "standaloneDefinition": "PASS",
+      "primaryPosCovered": "PASS",
+      "commonMeaningsCovered": "PASS",
+      "usableExamples": "PASS",
+      "grammarReviewed": "PASS",
+      "bridgeAlignment": "PASS"
+    },
+    "knownGaps": [],
+    "senseChecks": [
+      {
+        "id": "document-learner-1",
+        "verdict": "PASS",
+        "note": "纸质/电子信息文件名词可独立使用，住址证明例明确",
+        "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/document_1"
+      },
+      {
+        "id": "document-learner-2",
+        "verdict": "PASS",
+        "note": "记录/提供文献证据动词T，照片记录变化例支持非限文字",
+        "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/document_2"
+      }
+    ],
+    "scores": {
+      "accuracy": 3,
+      "completion": 3,
+      "readability": 3,
+      "increment": 3
+    },
+    "reasons": {
+      "accuracy": "纸质/电子信息文件名词可独立使用，住址证明例明确；其余逐义核查见senseChecks。",
+      "completion": "纸质/电子信息文件名词可独立使用，住址证明例明确；记录/提供文献证据动词T，照片记录变化例支持非限文字",
+      "readability": "以“Please bring a document showing your address.”及其中文译文示范“记录信息的纸质文件或电子文档。”，例句不依赖原工作语境；全部双语例已逐项读过，表达清楚但未做真实学习者测试。",
+      "increment": "原句“Please document the decision and the reason behind it.”绑定“用文字、照片等详细记录，或提供文献证据。”。Bridge再说明该句实际意图；这里的 document 是动词，要求把决定和理由记录下来。只写“同意修改”还不够，本句还希望读者以后知道为什么改；核心是留下可追溯内容，而不是把文件排得漂亮。"
+    },
+    "issues": []
+  },
+  {
+    "cardId": "V20261012-061",
+    "ruleVersion": "learner-dictionary/1",
+    "reviewer": "dictionary-independent-reviewer",
+    "fingerprint": "517833ade61ac0e9ad61faaa78f691eaca03bb002c26b9598b7f8d5c232a3d0b",
+    "decision": "PASS",
+    "qualityChecks": {
+      "standaloneDefinition": "PASS",
+      "primaryPosCovered": "PASS",
+      "commonMeaningsCovered": "PASS",
+      "usableExamples": "PASS",
+      "grammarReviewed": "PASS",
+      "bridgeAlignment": "PASS"
+    },
+    "knownGaps": [],
+    "senseChecks": [
+      {
+        "id": "follow-up-learner-1",
+        "verdict": "PASS",
+        "note": "继续处理或追查，Cambridge补充on结构；记者跟进线索例对应",
+        "sourceUrl": "https://dictionary.cambridge.org/dictionary/english/follow-up"
+      },
+      {
+        "id": "follow-up-learner-2",
+        "verdict": "PASS",
+        "note": "follow sth up with sth继续行动，电话后邮件例清楚区别于第一次联系",
+        "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/follow-up_1"
+      }
+    ],
+    "scores": {
+      "accuracy": 3,
+      "completion": 3,
+      "readability": 3,
+      "increment": 3
+    },
+    "reasons": {
+      "accuracy": "继续处理或追查，Cambridge补充on结构；记者跟进线索例对应；其余逐义核查见senseChecks。",
+      "completion": "继续处理或追查，Cambridge补充on结构；记者跟进线索例对应；follow sth up with sth继续行动，电话后邮件例清楚区别于第一次联系",
+      "readability": "以“The reporter followed up on the anonymous tip.”及其中文译文示范“对先前开始的事继续采取行动、了解进展或深入调查。”，例句不依赖原工作语境；全部双语例已逐项读过，表达清楚但未做真实学习者测试。",
+      "increment": "原句“I'll follow up on the open action tomorrow.”绑定“对先前开始的事继续采取行动、了解进展或深入调查。”。Bridge再说明该句实际意图；follow up 是对已经提出或开始的事情继续处理。本句的 open action 是尚未完成的行动项，明天要继续查它的进展；只是发起第一次联系，通常还谈不上这层“后续”。"
+    },
+    "issues": []
+  },
+  {
+    "cardId": "V20261012-062",
+    "ruleVersion": "learner-dictionary/1",
+    "reviewer": "dictionary-independent-reviewer",
+    "fingerprint": "579f1273abfd289ef47e5944427c0c394825487714aed47c9f9f438d6ee48d8f",
+    "decision": "PASS",
+    "qualityChecks": {
+      "standaloneDefinition": "PASS",
+      "primaryPosCovered": "PASS",
+      "commonMeaningsCovered": "PASS",
+      "usableExamples": "PASS",
+      "grammarReviewed": "PASS",
+      "bridgeAlignment": "PASS"
+    },
+    "knownGaps": [],
+    "senseChecks": [
+      {
+        "id": "bring-up-learner-1",
+        "verdict": "PASS",
+        "note": "提出话题可分，this question up宾语位置正确",
+        "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/bring-up"
+      },
+      {
+        "id": "bring-up-learner-2",
+        "verdict": "PASS",
+        "note": "抚养可分，祖父母育人例的代词her位置正确",
+        "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/bring-up"
+      },
+      {
+        "id": "bring-up-learner-3",
+        "verdict": "PASS",
+        "note": "呕出可分，晚饭吐出例为实际义非隐喻",
+        "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/bring-up"
+      },
+      {
+        "id": "bring-up-learner-4",
+        "verdict": "PASS",
+        "note": "屏幕调出信息已单列，图标打开菜单例对应",
+        "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/bring-up"
+      }
+    ],
+    "scores": {
+      "accuracy": 3,
+      "completion": 3,
+      "readability": 3,
+      "increment": 3
+    },
+    "reasons": {
+      "accuracy": "提出话题可分，this question up宾语位置正确；其余逐义核查见senseChecks。",
+      "completion": "提出话题可分，this question up宾语位置正确；抚养可分，祖父母育人例的代词her位置正确；呕出可分，晚饭吐出例为实际义非隐喻；屏幕调出信息已单列，图标打开菜单例对应",
+      "readability": "以“Please bring this question up at the next meeting.”及其中文译文示范“提出话题或问题供讨论。”，例句不依赖原工作语境；全部双语例已逐项读过，表达清楚但未做真实学习者测试。",
+      "increment": "原句“I'd like to bring up one issue before we finish.”绑定“提出话题或问题供讨论。”。Bridge再说明该句实际意图；bring up an issue 是把问题提出，让大家开始注意或讨论。本句想在结束前补提一件事；它只表示把议题带进来，还没有保证当场解决。"
+    },
+    "issues": []
+  },
+  {
+    "cardId": "V20261012-063",
+    "ruleVersion": "learner-dictionary/1",
+    "reviewer": "dictionary-independent-reviewer",
+    "fingerprint": "fb74894884f42506ef32ee11fd53906c31294ab360c89dc6ba7eaa4eee4c3dd1",
+    "decision": "PASS",
+    "qualityChecks": {
+      "standaloneDefinition": "PASS",
+      "primaryPosCovered": "PASS",
+      "commonMeaningsCovered": "PASS",
+      "usableExamples": "PASS",
+      "grammarReviewed": "PASS",
+      "bridgeAlignment": "PASS"
+    },
+    "knownGaps": [],
+    "senseChecks": [
+      {
+        "id": "walk-through-learner-1",
+        "verdict": "PASS",
+        "note": "walk someone through something结构完整，护士带了解流程例有听者",
+        "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/walk-through_1"
+      },
+      {
+        "id": "walk-through-learner-2",
+        "verdict": "PASS",
+        "note": "Wiktionary支持粗略排演，演员拍摄前走戏例符合该义",
+        "sourceUrl": "https://en.wiktionary.org/wiki/walk_through"
+      }
+    ],
+    "scores": {
+      "accuracy": 3,
+      "completion": 3,
+      "readability": 3,
+      "increment": 3
+    },
+    "reasons": {
+      "accuracy": "walk someone through something结构完整，护士带了解流程例有听者；其余逐义核查见senseChecks。",
+      "completion": "walk someone through something结构完整，护士带了解流程例有听者；Wiktionary支持粗略排演，演员拍摄前走戏例符合该义",
+      "readability": "以“The nurse walked me through the steps of the test.”及其中文译文示范“逐步向某人讲解或演示一个过程。”，例句不依赖原工作语境；全部双语例已逐项读过，表达清楚但未做真实学习者测试。",
+      "increment": "原句“Could you walk us through the revised plan?”绑定“逐步向某人讲解或演示一个过程。”。Bridge再说明该句实际意图；walk someone through something 是带着对方一步一步了解过程。本句要求对方把修订后的计划讲一遍，重点是让听者跟上各步骤，而不只是说计划已经改好了。"
+    },
+    "issues": []
+  },
+  {
+    "cardId": "V20261012-064",
+    "ruleVersion": "learner-dictionary/1",
+    "reviewer": "dictionary-independent-reviewer",
+    "fingerprint": "d227d6051d8df271921d192b58fc5bb6a8eff70a3d8bc5195f24e8b6286a6506",
+    "decision": "PASS",
+    "qualityChecks": {
+      "standaloneDefinition": "PASS",
+      "primaryPosCovered": "PASS",
+      "commonMeaningsCovered": "PASS",
+      "usableExamples": "PASS",
+      "grammarReviewed": "PASS",
+      "bridgeAlignment": "PASS"
+    },
+    "knownGaps": [],
+    "senseChecks": [
+      {
+        "id": "point-out-learner-1",
+        "verdict": "PASS",
+        "note": "口头提醒事实与that从句准确，指出日期有误例成立",
+        "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/point-out"
+      },
+      {
+        "id": "point-out-learner-2",
+        "verdict": "PASS",
+        "note": "指认位置已单列，山坡房屋例区别于指出抽象错误",
+        "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/point-out"
+      }
+    ],
+    "scores": {
+      "accuracy": 3,
+      "completion": 3,
+      "readability": 3,
+      "increment": 3
+    },
+    "reasons": {
+      "accuracy": "口头提醒事实与that从句准确，指出日期有误例成立；其余逐义核查见senseChecks。",
+      "completion": "口头提醒事实与that从句准确，指出日期有误例成立；指认位置已单列，山坡房屋例区别于指出抽象错误",
+      "readability": "以“She pointed out that the dates on the form were wrong.”及其中文译文示范“向别人说明某个事实或问题，提醒其注意。”，例句不依赖原工作语境；全部双语例已逐项读过，表达清楚但未做真实学习者测试。",
+      "increment": "原句“Let me point out one difference between the two options.”绑定“向别人说明某个事实或问题，提醒其注意。”。Bridge再说明该句实际意图；point out 是把一项信息特意指出来，让对方留意。本句要大家看到两个选项之间的一处差异；它可能是补充信息，不一定是在批评谁。"
+    },
+    "issues": []
+  },
+  {
+    "cardId": "V20261012-065",
+    "ruleVersion": "learner-dictionary/1",
+    "reviewer": "dictionary-independent-reviewer",
+    "fingerprint": "b8b4dc141fefb5aa0f606b25756c610220a3b1375652c49a71377be3c6174c41",
+    "decision": "PASS",
+    "qualityChecks": {
+      "standaloneDefinition": "PASS",
+      "primaryPosCovered": "PASS",
+      "commonMeaningsCovered": "PASS",
+      "usableExamples": "PASS",
+      "grammarReviewed": "PASS",
+      "bridgeAlignment": "PASS"
+    },
+    "knownGaps": [],
+    "senseChecks": [
+      {
+        "id": "rule-out-learner-1",
+        "verdict": "PASS",
+        "note": "排除可能/选择可分，感染例表达排除诊断可能并非治疗",
+        "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/rule-out"
+      },
+      {
+        "id": "rule-out-learner-2",
+        "verdict": "PASS",
+        "note": "使不能参与另列，伤病使无缘决赛例体现out of",
+        "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/rule-out"
+      }
+    ],
+    "scores": {
+      "accuracy": 3,
+      "completion": 3,
+      "readability": 3,
+      "increment": 3
+    },
+    "reasons": {
+      "accuracy": "排除可能/选择可分，感染例表达排除诊断可能并非治疗；其余逐义核查见senseChecks。",
+      "completion": "排除可能/选择可分，感染例表达排除诊断可能并非治疗；使不能参与另列，伤病使无缘决赛例体现out of",
+      "readability": "以“The doctor ruled out an infection.”及其中文译文示范“排除某种可能、选择或人选，不再考虑。”，例句不依赖原工作语境；全部双语例已逐项读过，表达清楚但未做真实学习者测试。",
+      "increment": "原句“We cannot rule out a delay at this stage.”绑定“排除某种可能、选择或人选，不再考虑。”。Bridge再说明该句实际意图；cannot rule out 表示现在还不能排除一种可能。本句保留“可能延误”这个风险，但没有说延误一定发生或概率很高；它提醒大家别过早把风险当作不存在。"
+    },
+    "issues": []
+  },
+  {
+    "cardId": "V20261012-066",
+    "ruleVersion": "learner-dictionary/1",
+    "reviewer": "dictionary-independent-reviewer",
+    "fingerprint": "a7be4a425bca4469f81e02088ab29e97604232d0c85a962e3d5666e1b04b33c0",
+    "decision": "PASS",
+    "qualityChecks": {
+      "standaloneDefinition": "PASS",
+      "primaryPosCovered": "PASS",
+      "commonMeaningsCovered": "PASS",
+      "usableExamples": "PASS",
+      "grammarReviewed": "PASS",
+      "bridgeAlignment": "PASS"
+    },
+    "knownGaps": [],
+    "senseChecks": [
+      {
+        "id": "hold-off-learner-1",
+        "verdict": "PASS",
+        "note": "Cambridge支持hold off on doing，等日期确认买票例自然",
+        "sourceUrl": "https://dictionary.cambridge.org/dictionary/english/hold-off?topic=waiting"
+      },
+      {
+        "id": "hold-off-learner-2",
+        "verdict": "PASS",
+        "note": "天气暂不开始义，外面吃饭条件例明确",
+        "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/hold-off"
+      },
+      {
+        "id": "hold-off-learner-3",
+        "verdict": "PASS",
+        "note": "抵挡对手攻击可分，防守待援例体现持续阻挡",
+        "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/hold-off"
+      }
+    ],
+    "scores": {
+      "accuracy": 3,
+      "completion": 3,
+      "readability": 3,
+      "increment": 3
+    },
+    "reasons": {
+      "accuracy": "Cambridge支持hold off on doing，等日期确认买票例自然；其余逐义核查见senseChecks。",
+      "completion": "Cambridge支持hold off on doing，等日期确认买票例自然；天气暂不开始义，外面吃饭条件例明确；抵挡对手攻击可分，防守待援例体现持续阻挡",
+      "readability": "以“We held off on buying the tickets until the dates were confirmed.”及其中文译文示范“暂缓行动，等一等再做。”，例句不依赖原工作语境；全部双语例已逐项读过，表达清楚但未做真实学习者测试。",
+      "increment": "原句“Let's hold off on the decision until we have the results.”绑定“暂缓行动，等一等再做。”。Bridge再说明该句实际意图；hold off on a decision 是先不作决定，等条件更合适再说。本句给了明确的等待条件：拿到结果。这比一句“以后再说”更清楚，因为大家知道该等什么。"
+    },
+    "issues": []
+  },
+  {
+    "cardId": "V20261012-067",
+    "ruleVersion": "learner-dictionary/1",
+    "reviewer": "dictionary-independent-reviewer",
+    "fingerprint": "c2185f77250264dc033d49a0dc649ab7873a3a0e2d6d37aacf1ca85c9dd231d1",
+    "decision": "PASS",
+    "qualityChecks": {
+      "standaloneDefinition": "PASS",
+      "primaryPosCovered": "PASS",
+      "commonMeaningsCovered": "PASS",
+      "usableExamples": "PASS",
+      "grammarReviewed": "PASS",
+      "bridgeAlignment": "PASS"
+    },
+    "knownGaps": [],
+    "senseChecks": [
+      {
+        "id": "work-around-learner-1",
+        "verdict": "PASS",
+        "note": "绕过障碍继续做事与Oxford一致，道路封闭换路线例没有声称障碍消失",
+        "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/work-around"
+      }
+    ],
+    "scores": {
+      "accuracy": 3,
+      "completion": 3,
+      "readability": 3,
+      "increment": 3
+    },
+    "reasons": {
+      "accuracy": "绕过障碍继续做事与Oxford一致，道路封闭换路线例没有声称障碍消失；其余逐义核查见senseChecks。",
+      "completion": "绕过障碍继续做事与Oxford一致，道路封闭换路线例没有声称障碍消失",
+      "readability": "以“We worked around the road closure by taking a different route.”及其中文译文示范“在障碍仍存在时改变做法，使事情能够继续。”，例句不依赖原工作语境；全部双语例已逐项读过，表达清楚但未做真实学习者测试。",
+      "increment": "原句“Can we work around this constraint without changing the scope?”绑定“在障碍仍存在时改变做法，使事情能够继续。”。Bridge再说明该句实际意图；限制暂时还在，先换一种做法让工作继续。例如文件太大不能一次发送，就分成几份发；这改变了做法，没有改变每份文件的大小限制。"
+    },
+    "issues": []
+  },
+  {
+    "cardId": "V20261012-068",
+    "ruleVersion": "learner-dictionary/1",
+    "reviewer": "dictionary-independent-reviewer",
+    "fingerprint": "11d2be16a4580267dc82c456ab9ff1c0be033f0d672f6ffaeb4ff72458332667",
+    "decision": "PASS",
+    "qualityChecks": {
+      "standaloneDefinition": "PASS",
+      "primaryPosCovered": "PASS",
+      "commonMeaningsCovered": "PASS",
+      "usableExamples": "PASS",
+      "grammarReviewed": "PASS",
+      "bridgeAlignment": "PASS"
+    },
+    "knownGaps": [],
+    "senseChecks": [
+      {
+        "id": "take-on-learner-1",
+        "verdict": "PASS",
+        "note": "承担工作可分，组织节庆任务例明确",
+        "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/take-on"
+      },
+      {
+        "id": "take-on-learner-2",
+        "verdict": "PASS",
+        "note": "雇人接客户义与暑期增聘例一致",
+        "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/take-on"
+      },
+      {
+        "id": "take-on-learner-3",
+        "verdict": "PASS",
+        "note": "呈现特征义非被动已标，故事因结局变意义例自然",
+        "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/take-on"
+      },
+      {
+        "id": "take-on-learner-4",
+        "verdict": "PASS",
+        "note": "竞争对抗非被动已标，迎战冠军例支持",
+        "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/take-on"
+      },
+      {
+        "id": "take-on-learner-5",
+        "verdict": "PASS",
+        "note": "载客装燃料已补，船补燃料例区别于雇人",
+        "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/take-on"
+      }
+    ],
+    "scores": {
+      "accuracy": 3,
+      "completion": 4,
+      "readability": 3,
+      "increment": 3
+    },
+    "reasons": {
+      "accuracy": "承担工作可分，组织节庆任务例明确；其余逐义核查见senseChecks。",
+      "completion": "承担工作可分，组织节庆任务例明确；雇人接客户义与暑期增聘例一致；呈现特征义非被动已标，故事因结局变意义例自然；竞争对抗非被动已标，迎战冠军例支持；载客装燃料已补，船补燃料例区别于雇人",
+      "readability": "以“She took on the task of organizing the festival.”及其中文译文示范“接受并承担任务、责任或挑战。”，例句不依赖原工作语境；全部双语例已逐项读过，表达清楚但未做真实学习者测试。",
+      "increment": "原句“Our team cannot take on another task this week.”绑定“接受并承担任务、责任或挑战。”。Bridge再说明该句实际意图；take on a task 强调接受并承担一项任务。本句说团队本周不能再接新的工作；它是在划定新增工作的容量边界，不是在汇报某项任务已经完成。"
+    },
+    "issues": []
+  },
+  {
+    "cardId": "V20261012-069",
+    "ruleVersion": "learner-dictionary/1",
+    "reviewer": "dictionary-independent-reviewer",
+    "fingerprint": "7d297b1cedd1ab0d99cc36cdff680bee1582f6d28119f13e8e76ac1b44574074",
+    "decision": "PASS",
+    "qualityChecks": {
+      "standaloneDefinition": "PASS",
+      "primaryPosCovered": "PASS",
+      "commonMeaningsCovered": "PASS",
+      "usableExamples": "PASS",
+      "grammarReviewed": "PASS",
+      "bridgeAlignment": "PASS"
+    },
+    "knownGaps": [],
+    "senseChecks": [
+      {
+        "id": "weigh-up-learner-1",
+        "verdict": "PASS",
+        "note": "评估利弊来源为weigh正条，费用便利比较例确为选择",
+        "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/weigh"
+      },
+      {
+        "id": "weigh-up-learner-2",
+        "verdict": "PASS",
+        "note": "评价人物来源weigh-up，观察新球员例与能力判断匹配",
+        "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/weigh-up"
+      }
+    ],
+    "scores": {
+      "accuracy": 3,
+      "completion": 3,
+      "readability": 3,
+      "increment": 3
+    },
+    "reasons": {
+      "accuracy": "评估利弊来源为weigh正条，费用便利比较例确为选择；其余逐义核查见senseChecks。",
+      "completion": "评估利弊来源为weigh正条，费用便利比较例确为选择；评价人物来源weigh-up，观察新球员例与能力判断匹配",
+      "readability": "以“We weighed up the cost and convenience before choosing a flat.”及其中文译文示范“仔细比较信息、利弊或选项，以形成判断或作决定。”，例句不依赖原工作语境；全部双语例已逐项读过，表达清楚但未做真实学习者测试。",
+      "increment": "原句“We need to weigh up the options before choosing a supplier.”绑定“仔细比较信息、利弊或选项，以形成判断或作决定。”。Bridge再说明该句实际意图；不只是把选项看一遍，而是比较每个选项值得什么、要付出什么。例如一家报价低但交期长，另一家价格高但更快；weigh up 就是把这些取舍想清楚，再作选择。"
+    },
+    "issues": []
+  },
+  {
+    "cardId": "V20261012-070",
+    "ruleVersion": "learner-dictionary/1",
+    "reviewer": "dictionary-independent-reviewer",
+    "fingerprint": "acdf2084f8c5582879f19b04a9ba75cc4f3a4878d12d221ada029ba6c1f067f4",
+    "decision": "PASS",
+    "qualityChecks": {
+      "standaloneDefinition": "PASS",
+      "primaryPosCovered": "PASS",
+      "commonMeaningsCovered": "PASS",
+      "usableExamples": "PASS",
+      "grammarReviewed": "PASS",
+      "bridgeAlignment": "PASS"
+    },
+    "knownGaps": [],
+    "senseChecks": [
+      {
+        "id": "wrap-up-learner-1",
+        "verdict": "PASS",
+        "note": "包装义由wrap正条up结构支持，礼物可分宾语例正确",
+        "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/wrap_1"
+      },
+      {
+        "id": "wrap-up-learner-2",
+        "verdict": "PASS",
+        "note": "非正式结束I/T，午饭前结束讨论例不是穿衣",
+        "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/wrap-up"
+      },
+      {
+        "id": "wrap-up-learner-3",
+        "verdict": "PASS",
+        "note": "保暖义wrap up warm及为别人裹衣准确，出门穿暖例对应",
+        "sourceUrl": "https://www.oxfordlearnersdictionaries.com/definition/english/wrap-up"
+      }
+    ],
+    "scores": {
+      "accuracy": 3,
+      "completion": 3,
+      "readability": 3,
+      "increment": 3
+    },
+    "reasons": {
+      "accuracy": "包装义由wrap正条up结构支持，礼物可分宾语例正确；其余逐义核查见senseChecks。",
+      "completion": "包装义由wrap正条up结构支持，礼物可分宾语例正确；非正式结束I/T，午饭前结束讨论例不是穿衣；保暖义wrap up warm及为别人裹衣准确，出门穿暖例对应",
+      "readability": "以“Could you wrap the present up for me?”及其中文译文示范“把东西包起来。”，例句不依赖原工作语境；全部双语例已逐项读过，表达清楚但未做真实学习者测试。",
+      "increment": "原句“Let's wrap up by confirming the owner and due date.”绑定“完成工作、结束讨论或活动。”。Bridge再说明该句实际意图；wrap up 在这里是把讨论收尾。by confirming the owner and due date 指定最后一步：确认负责人和期限。不是单纯停止说话，而是用这项确认完成本次交流。"
+    },
+    "issues": []
+  }
+]

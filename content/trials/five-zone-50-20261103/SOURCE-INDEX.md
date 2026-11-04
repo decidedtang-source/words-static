@@ -1,0 +1,70 @@
+# 本批来源索引
+
+按URL去重；抓取状态以每条记录为准，index_excerpt不代表全文。来源原文未整篇保存。
+
+- [SCOPE — Collins English Dictionary](https://www.collinsdictionary.com/dictionary/english/scope) — HarperCollins；index_excerpt；用于1条
+- [What is scope management?](https://www.apm.org.uk/resources/what-is-project-management/what-is-scope-management/) — Association for Project Management；full_page；用于2条
+- [What is project communication?](https://www.apm.org.uk/resources/what-is-project-management/what-is-project-communication/) — Association for Project Management；partial；用于17条
+- [OBJECTIVE — Cambridge Dictionary](https://dictionary.cambridge.org/dictionary/english/objective) — Cambridge University Press；index_excerpt；用于1条
+- [DELIVERABLE — Cambridge Dictionary](https://dictionary.cambridge.org/dictionary/english/deliverable) — Cambridge University Press；index_excerpt；用于1条
+- [Project management Glossary](https://www.apm.org.uk/resources/glossary/) — Association for Project Management；partial；用于4条
+- [MILESTONE — Cambridge Dictionary](https://dictionary.cambridge.org/dictionary/english/milestone) — Cambridge University Press；index_excerpt；用于1条
+- [PRIORITY — Cambridge Dictionary](https://dictionary.cambridge.org/us/dictionary/english/priority) — Cambridge University Press；index_excerpt；用于1条
+- [What is resource management?](https://www.apm.org.uk/blog/what-is-resource-management/) — Association for Project Management；partial；用于4条
+- [CONSTRAINT — Cambridge Dictionary](https://dictionary.cambridge.org/us/dictionary/english/constraint) — Cambridge University Press；index_excerpt；用于1条
+- [DEPENDENCY — Cambridge Dictionary](https://dictionary.cambridge.org/us/dictionary/english/dependency) — Cambridge University Press；index_excerpt；用于1条
+- [ASSUMPTION — Cambridge Dictionary](https://dictionary.cambridge.org/dictionary/english/assumption) — Cambridge University Press；index_excerpt；用于1条
+- [BASELINE — Cambridge Dictionary](https://dictionary.cambridge.org/dictionary/english/baseline) — Cambridge University Press；index_excerpt；用于1条
+- [BUFFER — Cambridge Dictionary](https://dictionary.cambridge.org/us/dictionary/english/buffer) — Cambridge University Press；index_excerpt；用于1条
+- [SEQUENCE — Cambridge Dictionary](https://dictionary.cambridge.org/dictionary/english/sequence) — Cambridge University Press；index_excerpt；用于1条
+- [CAPACITY — Cambridge Dictionary](https://dictionary.cambridge.org/dictionary/english/capacity) — Cambridge University Press；index_excerpt；用于1条
+- [ALLOCATE — Cambridge Dictionary](https://dictionary.cambridge.org/us/dictionary/english/allocate) — Cambridge University Press；index_excerpt；用于1条
+- [DELEGATE — Cambridge Dictionary](https://dictionary.cambridge.org/us/dictionary/english/delegate) — Cambridge University Press；index_excerpt；用于1条
+- [Seven tips on how to delegate effectively](https://www.apm.org.uk/blog/seven-tips-on-how-to-delegate-effectively/) — Association for Project Management；partial；用于1条
+- [OWNERSHIP — Cambridge Dictionary](https://dictionary.cambridge.org/us/dictionary/english/ownership) — Cambridge University Press；index_excerpt；用于1条
+- [Setting up for success](https://www.apm.org.uk/resources/find-a-resource/competence-framework/overview/setting-up-for-success/) — Association for Project Management；partial；用于2条
+- [ACCOUNTABLE — Cambridge Dictionary](https://dictionary.cambridge.org/dictionary/english/accountable) — Cambridge University Press；index_excerpt；用于1条
+- [DEADLINE — Cambridge Dictionary](https://dictionary.cambridge.org/us/dictionary/english/deadline) — Cambridge University Press；index_excerpt；用于1条
+- [COMMITMENT — Cambridge Dictionary](https://dictionary.cambridge.org/dictionary/english/commitment) — Cambridge University Press & Assessment；index_excerpt；用于1条
+- [Attending a Business Meeting – Video](https://www.oxfordonlineenglish.com/attending-business-meeting) — Oxford Online English；full_page；用于8条
+- [INTENTION — Collins English Dictionary](https://www.collinsdictionary.com/us/dictionary/english/intention) — HarperCollins；index_excerpt；用于1条
+- [CONTINGENCY — Cambridge Dictionary](https://dictionary.cambridge.org/dictionary/english/contingency) — Cambridge University Press & Assessment；index_excerpt；用于1条
+- [TRADE-OFF — Cambridge Dictionary](https://dictionary.cambridge.org/dictionary/english/tradeoff) — Cambridge University Press & Assessment；index_excerpt；用于1条
+- [Agreeing and disagreeing](https://learnenglish.britishcouncil.org/free-resources/speaking/b1/agreeing-disagreeing) — British Council；full_page；用于6条
+- [Working in English — Business English Vocabulary Online, Unit 20](https://www.cambridge.org/elt/workinginenglish/vocabonline/unit20.htm) — Cambridge University Press & Assessment；index_excerpt；用于1条
+- [Talking Business — Meetings: Agenda setting](https://downloads.bbc.co.uk/worldservice/learningenglish/business/talkingbusiness/pdfs/2.1_agenda.pdf) — BBC Learning English；index_excerpt；用于1条
+- [SCHEDULE — Dictionary.com](https://www.dictionary.com/browse/schedule) — Dictionary.com；index_excerpt；用于1条
+- [minutes — The People’s Law Dictionary](https://dictionary.law.com/Default.aspx?selected=1254) — Law.com / Fine Communications；index_excerpt；用于1条
+- [CONTEXT — Cambridge Dictionary](https://dictionary.cambridge.org/dictionary/english/context) — Cambridge University Press & Assessment；index_excerpt；用于1条
+- [CLARIFY — Cambridge Dictionary](https://dictionary.cambridge.org/dictionary/english/clarify) — Cambridge University Press & Assessment；index_excerpt；用于4条
+- [CONFIRM — Cambridge Dictionary](https://dictionary.cambridge.org/us/dictionary/english/confirm) — Cambridge University Press & Assessment；index_excerpt；用于2条
+- [ELABORATE — Cambridge Dictionary](https://dictionary.cambridge.org/us/dictionary/english/elaborate) — Cambridge University Press & Assessment；index_excerpt；用于2条
+- [SPECIFY — Cambridge Dictionary](https://dictionary.cambridge.org/dictionary/english/specify) — Cambridge University Press & Assessment；index_excerpt；用于1条
+- [SUMMARIZE — Cambridge Dictionary](https://dictionary.cambridge.org/us/dictionary/english/summarize) — Cambridge University Press & Assessment；index_excerpt；用于2条
+- [What is summarising?](https://downloads.bbc.co.uk/skillswise/english/en07unde/factsheet/en07unde-l1-f-what-is-summarising.pdf) — BBC Skillswise；full_page；用于2条
+- [RECAP — Cambridge Dictionary](https://dictionary.cambridge.org/us/dictionary/english/recap) — Cambridge University Press & Assessment；index_excerpt；用于2条
+- [ALIGN — Cambridge Dictionary](https://dictionary.cambridge.org/us/dictionary/english/align) — Cambridge University Press & Assessment；index_excerpt；用于1条
+- [CONSENSUS — Cambridge Dictionary](https://dictionary.cambridge.org/dictionary/english/consensus?topic=accepting-and-agreeing) — Cambridge University Press & Assessment；index_excerpt；用于1条
+- [UNANIMITY — Cambridge Dictionary](https://dictionary.cambridge.org/dictionary/english/unanimity) — Cambridge University Press & Assessment；index_excerpt；用于1条
+- [CONCERN — Cambridge Dictionary](https://dictionary.cambridge.org/us/dictionary/english/concern) — Cambridge University Press & Assessment；index_excerpt；用于2条
+- [OBJECTION — Cambridge Dictionary](https://dictionary.cambridge.org/us/dictionary/english/objection) — Cambridge University Press & Assessment；index_excerpt；用于3条
+- [RESERVATION — Cambridge Dictionary](https://dictionary.cambridge.org/dictionary/english/reservation?q=reservations) — Cambridge University Press & Assessment；index_excerpt；用于2条
+- [RATIONALE — Cambridge Dictionary](https://dictionary.cambridge.org/dictionary/english/rationale?topic=motives-and-reasons) — Cambridge University Press & Assessment；index_excerpt；用于1条
+- [proposal — Cambridge Dictionary](https://dictionary.cambridge.org/dictionary/english/proposal) — Cambridge University Press & Assessment；index_excerpt；用于1条
+- [Managing meetings](https://learnenglish.britishcouncil.org/sites/podcasts/files/LearnEnglish-Business-magazine-Managingmeetings.pdf) — British Council；full_page；用于16条
+- [alternative — Cambridge Dictionary](https://dictionary.cambridge.org/us/dictionary/english/alternative?topic=unique-and-unusual) — Cambridge University Press & Assessment；index_excerpt；用于1条
+- [compromise — Cambridge Dictionary](https://dictionary.cambridge.org/dictionary/english/compromise) — Cambridge University Press & Assessment；index_excerpt；用于1条
+- [negotiate — Cambridge Dictionary](https://dictionary.cambridge.org/dictionary/english/negotiate?topic=debate-and-discussion) — Cambridge University Press & Assessment；index_excerpt；用于1条
+- [conclude — Cambridge Dictionary](https://dictionary.cambridge.org/dictionary/english/conclude) — Cambridge University Press & Assessment；index_excerpt；用于1条
+- [document — Cambridge Dictionary](https://dictionary.cambridge.org/dictionary/english/document) — Cambridge University Press & Assessment；index_excerpt；用于1条
+- [follow up — Cambridge Dictionary](https://dictionary.cambridge.org/dictionary/english/follow-up) — Cambridge University Press & Assessment；index_excerpt；用于1条
+- [Phrasal verbs](https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/phrasal-verbs) — British Council；full_page；用于10条
+- [bring up — Cambridge Dictionary](https://dictionary.cambridge.org/dictionary/english/bring-up) — Cambridge University Press & Assessment；index_excerpt；用于1条
+- [walk through — Cambridge Dictionary](https://dictionary.cambridge.org/us/dictionary/english/walk-through?topic=defining-and-explaining) — Cambridge University Press & Assessment；index_excerpt；用于1条
+- [point out — Cambridge Dictionary](https://dictionary.cambridge.org/us/dictionary/english/point-out) — Cambridge University Press & Assessment；index_excerpt；用于1条
+- [rule out — Cambridge Dictionary](https://dictionary.cambridge.org/dictionary/english/rule-out) — Cambridge University Press & Assessment；index_excerpt；用于1条
+- [hold off — Cambridge Dictionary](https://dictionary.cambridge.org/dictionary/english/hold-off) — Cambridge University Press & Assessment；index_excerpt；用于1条
+- [work around phrasal verb — Oxford Advanced Learner's Dictionary](https://www.oxfordlearnersdictionaries.com/us/definition/english/work-around) — Oxford University Press；full_page；用于1条
+- [TAKE ON – phrasal verb – meanings and examples](https://www.woodwardenglish.com/lesson/take-on-phrasal-verb-meanings-examples/) — Woodward English；index_excerpt；用于1条
+- [weigh up — Cambridge Dictionary](https://dictionary.cambridge.org/us/dictionary/english-spanish/weigh-up) — Cambridge University Press & Assessment；index_excerpt；用于1条
+- [wrap up — Cambridge Dictionary](https://dictionary.cambridge.org/dictionary/english/wrap-up) — Cambridge University Press & Assessment；index_excerpt；用于1条

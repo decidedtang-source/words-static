@@ -1,0 +1,4491 @@
+[
+  {
+    "cardId": "V20261012-001",
+    "writer": "whole50_author1",
+    "etymology": [
+      {
+        "title": "历史来源：与“目标”有关",
+        "text": "scope 的范围义可追溯到意大利语 scopo，再往前与希腊语 skopos 的“目标、注意对象”有关。英语早期用法还包括行动空间。这里有几种相连的用法，不能只按一个古义翻译今天的句子。",
+        "sourceId": "etym",
+        "kind": "historical_fact"
+      },
+      {
+        "title": "现代联系：注意力覆盖多大一片",
+        "text": "学习时可以从“眼前要处理什么”联想到“这次覆盖哪些事情”。a wide scope 是涉及得广，outside the scope 是超出所谈范围。这是帮助理解现代用法的联系，不是说 scope 等于眼睛能看见的面积。",
+        "sourceId": "lex",
+        "kind": "modern_connection"
+      },
+      {
+        "title": "回到项目：把工作边界说清楚",
+        "text": "在 define the scope 里，要明确的是本次工作包括什么、哪些不包括。培训是否包含，会影响需要做的工作；所以原句把界定范围放在估价之前。这是现代项目用法，不是要求记住希腊语才能使用。",
+        "sourceId": "project",
+        "kind": "current_use"
+      }
+    ],
+    "sources": [
+      {
+        "id": "etym",
+        "url": "https://www.etymonline.com/word/scope",
+        "title": "Etymonline — scope",
+        "section": "Origin and history; main headword",
+        "retrievalStatus": "full_page",
+        "evidence": "scope(n.1)第12—13行：经意大利语scopo、拉丁语scopus追溯到希腊语skopos，含目标/注意对象。早期英语已有行动空间义，随后记录空间或思考范围及活动领域义；不能简单编成一条唯一线性变化。",
+        "accessedAt": "2026-11-03"
+      },
+      {
+        "id": "lex",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/scope_1",
+        "title": "Oxford Advanced Learner’s Dictionary — scope",
+        "section": "noun senses 1–2; pronunciation; Word Origin",
+        "retrievalStatus": "full_page",
+        "evidence": "词头英式/skəʊp/，不可数名词；义1机会/能力，义2事物涉及范围；Word Origin也列意大利语scopo与希腊语skopos目标义。",
+        "accessedAt": "2026-11-03"
+      },
+      {
+        "id": "project",
+        "url": "https://www.apm.org.uk/resources/what-is-project-management/what-is-scope-management/",
+        "title": "APM — What is scope management?",
+        "section": "Definition; Project scope",
+        "retrievalStatus": "full_page",
+        "evidence": "项目scope涉及产出、成果、效益及其所需工作，明确in/out边界。",
+        "accessedAt": "2026-11-03"
+      }
+    ],
+    "headword": {
+      "ipa": "skəʊp",
+      "ipaNote": "本预览统一采用Oxford英式宽式音标；未改正式词库。",
+      "pos": "n.（不可数）",
+      "chunk": "define the scope"
+    },
+    "examples": [
+      {
+        "en": "We need to define the scope before estimating the cost.",
+        "zh": "估算成本前，我们需要界定范围。",
+        "kind": "existing_public_learning_example"
+      },
+      {
+        "en": "The scope excludes staff training.",
+        "zh": "范围不包括员工培训。",
+        "kind": "existing_public_learning_example"
+      }
+    ],
+    "limitations": [
+      "历史路线只概括已核实的来源与义项，不宣称所有义项沿唯一顺序演化。"
+    ]
+  },
+  {
+    "cardId": "V20261012-002",
+    "writer": "whole50_author1",
+    "headword": {
+      "ipa": "əbˈdʒektɪv",
+      "pos": "n.",
+      "chunk": "a clear objective",
+      "ipaNote": "本批预览采用Oxford英式音标；词头音标已核对，不涉及正式词库修改。"
+    },
+    "examples": [
+      {
+        "en": "Our objective is to reduce the time spent on approvals.",
+        "zh": "我们的目标是减少审批所用的时间。",
+        "kind": "existing_public_learning_example"
+      },
+      {
+        "en": "Each phase has a measurable objective.",
+        "zh": "每个阶段都有可衡量的目标。",
+        "kind": "existing_public_learning_example"
+      }
+    ],
+    "sources": [
+      {
+        "id": "lexical",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/objective_1",
+        "title": "Oxford — objective",
+        "publisher": "Oxford University Press",
+        "accessedAt": "2026-11-03",
+        "section": "当前词性、音标、义项与例句；见词条Definitions及Collocations",
+        "retrievalStatus": "full_page",
+        "evidence": "noun义1目标，set/define/achieve objectives；adj义客观。名词音标əbˈdʒektɪv。",
+        "summaryZh": "noun义1目标，set/define/achieve objectives；adj义客观。名词音标əbˈdʒektɪv。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创短转述与链接，未复制原文全文"
+      },
+      {
+        "id": "etym",
+        "url": "https://www.etymonline.com/word/objective",
+        "title": "Etymonline — objective",
+        "publisher": "Online Etymology Dictionary",
+        "accessedAt": "2026-11-03",
+        "section": "Origin and history；与当前目标相关的历史条目",
+        "retrievalStatus": "full_page",
+        "evidence": "objective作名词表示“目标”的用法，与19世纪的军事表达 objective point 有关。它和形容词“客观的”共享词形，但不能把“客观的”直接翻进本句。",
+        "summaryZh": "objective作名词表示“目标”的用法，与19世纪的军事表达 objective point 有关。它和形容词“客观的”共享词形，但不能把“客观的”直接翻进本句。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创短转述与链接，未复制原文全文"
+      },
+      {
+        "id": "extra",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/objective_2",
+        "title": "Oxford — objective (形容词)",
+        "publisher": "Oxford University Press",
+        "accessedAt": "2026-11-03",
+        "section": "扩展义项或同族名词",
+        "retrievalStatus": "full_page",
+        "evidence": "客观的；根据事实而非个人感受的；based on facts rather than personal feelings",
+        "summaryZh": "客观的；根据事实而非个人感受的；based on facts rather than personal feelings",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创短转述与链接，未复制原文全文"
+      }
+    ],
+    "etymology": [
+      {
+        "title": "有记录的历史来源",
+        "text": "objective作名词表示“目标”的用法，与19世纪的军事表达 objective point 有关。它和形容词“客观的”共享词形，但不能把“客观的”直接翻进本句。",
+        "sourceId": "etym",
+        "kind": "historical_fact"
+      },
+      {
+        "title": "帮助理解的现代联系",
+        "text": "把目标想成想要到达的点，有助于区分目的和动作：填写表单是动作，缩短审批等待才是本句希望达到的改变。这个画面帮助理解，不是另造词源。",
+        "sourceId": "lexical",
+        "kind": "modern_connection"
+      },
+      {
+        "title": "回到当前用法",
+        "text": "objective回答“希望做到什么”。在这句里，重点是让审批少花时间；采用哪张表单、开几次会，都只是可能实现目标的办法。",
+        "sourceId": "lexical",
+        "kind": "current_use"
+      }
+    ],
+    "limitations": [
+      "释义为原创教学转述；自编互动和场景不代表真实工作事实；历史资料位于独立词源补充包。"
+    ]
+  },
+  {
+    "cardId": "V20261012-003",
+    "writer": "whole50_author1",
+    "headword": {
+      "ipa": "dɪˈlɪvərəbl",
+      "pos": "n.",
+      "chunk": "agree on the deliverables",
+      "ipaNote": "本批预览采用Oxford英式音标；词头音标已核对，不涉及正式词库修改。"
+    },
+    "examples": [
+      {
+        "en": "Please list the deliverables for the first phase.",
+        "zh": "请列出第一阶段的交付成果。",
+        "kind": "existing_public_learning_example"
+      },
+      {
+        "en": "The final deliverable is a test report.",
+        "zh": "最终交付成果是一份测试报告。",
+        "kind": "existing_public_learning_example"
+      }
+    ],
+    "sources": [
+      {
+        "id": "lexical",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/deliverable_2",
+        "title": "Oxford — deliverable",
+        "publisher": "Oxford University Press",
+        "accessedAt": "2026-11-03",
+        "section": "当前词性、音标、义项与例句；见词条Definitions及Collocations",
+        "retrievalStatus": "full_page",
+        "evidence": "deliverable noun通常复数，指公司承诺为客户准备好的产品；形容词可交付/可实现；音标dɪˈlɪvərəbl。",
+        "summaryZh": "deliverable noun通常复数，指公司承诺为客户准备好的产品；形容词可交付/可实现；音标dɪˈlɪvərəbl。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创短转述与链接，未复制原文全文"
+      },
+      {
+        "id": "etym",
+        "url": "https://www.etymonline.com/word/deliver",
+        "title": "Etymonline — deliver",
+        "publisher": "Online Etymology Dictionary",
+        "accessedAt": "2026-11-03",
+        "section": "Origin and history；与当前目标相关的历史条目",
+        "retrievalStatus": "full_page",
+        "evidence": "deliver这个母词早期有解救、释放等用法，后来也表示交出、移交。deliverable有“可交付的”形容词用法，也用作交付成果的名词；母词历史不能当作项目管理名词的诞生日期。",
+        "summaryZh": "deliver这个母词早期有解救、释放等用法，后来也表示交出、移交。deliverable有“可交付的”形容词用法，也用作交付成果的名词；母词历史不能当作项目管理名词的诞生日期。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创短转述与链接，未复制原文全文"
+      },
+      {
+        "id": "extra",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/deliverable_1",
+        "title": "Oxford — deliverable (形容词)",
+        "publisher": "Oxford University Press",
+        "accessedAt": "2026-11-03",
+        "section": "扩展义项或同族名词",
+        "retrievalStatus": "full_page",
+        "evidence": "可以交付或实现的；capable of being delivered or achieved",
+        "summaryZh": "可以交付或实现的；capable of being delivered or achieved",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创短转述与链接，未复制原文全文"
+      }
+    ],
+    "etymology": [
+      {
+        "title": "有记录的历史来源",
+        "text": "deliver这个母词早期有解救、释放等用法，后来也表示交出、移交。deliverable有“可交付的”形容词用法，也用作交付成果的名词；母词历史不能当作项目管理名词的诞生日期。",
+        "sourceId": "etym",
+        "kind": "historical_fact"
+      },
+      {
+        "title": "帮助理解的现代联系",
+        "text": "可以联系 deliver a report：把报告交出来。名词 a deliverable 则给“应交出的成果”起名字；它可以是文件、产品或约定的其他成果，不必都是一份纸质报告。",
+        "sourceId": "lexical",
+        "kind": "modern_connection"
+      },
+      {
+        "title": "回到当前用法",
+        "text": "deliverable把讨论落到“最后交出什么”。写报告、检查数据是活动，完成并应交付的报告才是成果。原句要求列第一阶段的成果清单，方便大家核对。",
+        "sourceId": "lexical",
+        "kind": "current_use"
+      }
+    ],
+    "limitations": [
+      "释义为原创教学转述；自编互动和场景不代表真实工作事实；历史资料位于独立词源补充包。"
+    ]
+  },
+  {
+    "cardId": "V20261012-004",
+    "writer": "whole50_author1",
+    "headword": {
+      "ipa": "ˈmaɪlstəʊn",
+      "pos": "n.",
+      "chunk": "reach a milestone",
+      "ipaNote": "本批预览采用Oxford英式音标；词头音标已核对，不涉及正式词库修改。"
+    },
+    "examples": [
+      {
+        "en": "We reached the first milestone after the review.",
+        "zh": "评审后，我们达成了第一个里程碑。",
+        "kind": "existing_public_learning_example"
+      },
+      {
+        "en": "The pilot launch is our next milestone.",
+        "zh": "试点启动是我们的下一个里程碑。",
+        "kind": "existing_public_learning_example"
+      }
+    ],
+    "sources": [
+      {
+        "id": "lexical",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/milestone",
+        "title": "Oxford — milestone",
+        "publisher": "Oxford University Press",
+        "accessedAt": "2026-11-03",
+        "section": "当前词性、音标、义项与例句；见词条Definitions及Collocations",
+        "retrievalStatus": "full_page",
+        "evidence": "义1重要阶段或事件，义2道路距离标石；搭配achieve/hit/meet milestone，字面与比喻分开。",
+        "summaryZh": "义1重要阶段或事件，义2道路距离标石；搭配achieve/hit/meet milestone，字面与比喻分开。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创短转述与链接，未复制原文全文"
+      },
+      {
+        "id": "etym",
+        "url": "https://www.etymonline.com/word/milestone",
+        "title": "Etymonline — milestone",
+        "publisher": "Online Etymology Dictionary",
+        "accessedAt": "2026-11-03",
+        "section": "Origin and history；与当前目标相关的历史条目",
+        "retrievalStatus": "full_page",
+        "evidence": "milestone由mile和stone构成，早期指沿路设置、标示英里距离的石柱。Etymonline记录这一字面用法；今天它也用于重要阶段或事件，不能把每个现代项目节点都理解成实物路标。",
+        "summaryZh": "milestone由mile和stone构成，早期指沿路设置、标示英里距离的石柱。Etymonline记录这一字面用法；今天它也用于重要阶段或事件，不能把每个现代项目节点都理解成实物路标。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创短转述与链接，未复制原文全文"
+      }
+    ],
+    "etymology": [
+      {
+        "title": "有记录的历史来源",
+        "text": "milestone由mile和stone构成，早期指沿路设置、标示英里距离的石柱。Etymonline记录这一字面用法；今天它也用于重要阶段或事件，不能把每个现代项目节点都理解成实物路标。",
+        "sourceId": "etym",
+        "kind": "historical_fact"
+      },
+      {
+        "title": "帮助理解的现代联系",
+        "text": "用“走到某个路标”来理解重要进展：它标记走到了哪里，并不等于旅程结束。项目里的试点启动、某阶段完成，都可以被计划设为milestone。",
+        "sourceId": "lexical",
+        "kind": "modern_connection"
+      },
+      {
+        "title": "回到当前用法",
+        "text": "milestone突出一个值得标记的重要节点。达到首个milestone，说明项目走到了一处关键位置；后面通常还有工作，所以它不等同于“整个项目完成”。",
+        "sourceId": "lexical",
+        "kind": "current_use"
+      }
+    ],
+    "limitations": [
+      "释义为原创教学转述；自编互动和场景不代表真实工作事实；历史资料位于独立词源补充包。"
+    ]
+  },
+  {
+    "cardId": "V20261012-005",
+    "writer": "whole50_author1",
+    "headword": {
+      "ipa": "praɪˈɒrəti",
+      "pos": "n.",
+      "chunk": "set priorities",
+      "ipaNote": "本批预览采用Oxford英式音标；词头音标已核对，不涉及正式词库修改。"
+    },
+    "examples": [
+      {
+        "en": "We need to set priorities for the remaining work.",
+        "zh": "我们需要为剩余工作设定优先级。",
+        "kind": "existing_public_learning_example"
+      },
+      {
+        "en": "Safety remains our top priority.",
+        "zh": "安全仍是我们的首要任务。",
+        "kind": "existing_public_learning_example"
+      }
+    ],
+    "sources": [
+      {
+        "id": "lexical",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/priority",
+        "title": "Oxford — priority",
+        "publisher": "Oxford University Press",
+        "accessedAt": "2026-11-03",
+        "section": "当前词性、音标、义项与例句；见词条Definitions及Collocations",
+        "retrievalStatus": "full_page",
+        "evidence": "义1可数优先事项，义2不可数优先地位，take/give priority，义3道路通行优先权；本页选前两义。",
+        "summaryZh": "义1可数优先事项，义2不可数优先地位，take/give priority，义3道路通行优先权；本页选前两义。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创短转述与链接，未复制原文全文"
+      },
+      {
+        "id": "etym",
+        "url": "https://www.etymonline.com/word/priority",
+        "title": "Etymonline — priority",
+        "publisher": "Online Etymology Dictionary",
+        "accessedAt": "2026-11-03",
+        "section": "Origin and history；与当前目标相关的历史条目",
+        "retrievalStatus": "full_page",
+        "evidence": "priority经法语、拉丁语与prior“较早、在前”相连。早期强调时间或次序在先，后来也强调重要性和先处理的需要；今天的优先事项不一定是最早提出的事项。",
+        "summaryZh": "priority经法语、拉丁语与prior“较早、在前”相连。早期强调时间或次序在先，后来也强调重要性和先处理的需要；今天的优先事项不一定是最早提出的事项。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创短转述与链接，未复制原文全文"
+      }
+    ],
+    "etymology": [
+      {
+        "title": "有记录的历史来源",
+        "text": "priority经法语、拉丁语与prior“较早、在前”相连。早期强调时间或次序在先，后来也强调重要性和先处理的需要；今天的优先事项不一定是最早提出的事项。",
+        "sourceId": "etym",
+        "kind": "historical_fact"
+      },
+      {
+        "title": "帮助理解的现代联系",
+        "text": "把它想成分配注意力时的排队顺序：top priority放在最前。这个联系便于记忆，不过真正决定优先级的可能是影响、风险或时限，而不是谁先开口。",
+        "sourceId": "lexical",
+        "kind": "modern_connection"
+      },
+      {
+        "title": "回到当前用法",
+        "text": "priority用来表达取舍：事情都要做时，哪件先得到时间和资源？set priorities就是把这种优先安排说清楚，而不是把每件事都标为同样紧急。",
+        "sourceId": "lexical",
+        "kind": "current_use"
+      }
+    ],
+    "limitations": [
+      "释义为原创教学转述；自编互动和场景不代表真实工作事实；历史资料位于独立词源补充包。"
+    ]
+  },
+  {
+    "cardId": "V20261012-006",
+    "writer": "whole50_author1",
+    "headword": {
+      "ipa": "kənˈstreɪnt",
+      "pos": "n.",
+      "chunk": "a resource constraint",
+      "ipaNote": "本批预览采用Oxford英式音标；词头音标已核对，不涉及正式词库修改。"
+    },
+    "examples": [
+      {
+        "en": "The main constraint is the number of available reviewers.",
+        "zh": "主要限制是可用评审人员的数量。",
+        "kind": "existing_public_learning_example"
+      },
+      {
+        "en": "Space is a serious constraint here.",
+        "zh": "这里的空间限制很大。",
+        "kind": "existing_public_learning_example"
+      }
+    ],
+    "sources": [
+      {
+        "id": "lexical",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/constraint",
+        "title": "Oxford — constraint",
+        "publisher": "Oxford University Press",
+        "accessedAt": "2026-11-03",
+        "section": "当前词性、音标、义项与例句；见词条Definitions及Collocations",
+        "retrievalStatus": "full_page",
+        "evidence": "义1限制事物/自由的条件；义2不可数行为拘束，例without constraint；within constraints用于限制内安排。",
+        "summaryZh": "义1限制事物/自由的条件；义2不可数行为拘束，例without constraint；within constraints用于限制内安排。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创短转述与链接，未复制原文全文"
+      },
+      {
+        "id": "etym",
+        "url": "https://www.etymonline.com/word/constraint",
+        "title": "Etymonline — constraint",
+        "publisher": "Online Etymology Dictionary",
+        "accessedAt": "2026-11-03",
+        "section": "Origin and history；与当前目标相关的历史条目",
+        "retrievalStatus": "full_page",
+        "evidence": "constraint经古法语与拉丁语“绑紧、束在一起”的词有关。英语逐渐用它表示限制和强制；这种历史联系能帮助记住“活动空间受约束”，但现在谈的往往不是实际绳索。",
+        "summaryZh": "constraint经古法语与拉丁语“绑紧、束在一起”的词有关。英语逐渐用它表示限制和强制；这种历史联系能帮助记住“活动空间受约束”，但现在谈的往往不是实际绳索。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创短转述与链接，未复制原文全文"
+      }
+    ],
+    "etymology": [
+      {
+        "title": "有记录的历史来源",
+        "text": "constraint经古法语与拉丁语“绑紧、束在一起”的词有关。英语逐渐用它表示限制和强制；这种历史联系能帮助记住“活动空间受约束”，但现在谈的往往不是实际绳索。",
+        "sourceId": "etym",
+        "kind": "historical_fact"
+      },
+      {
+        "title": "帮助理解的现代联系",
+        "text": "想象计划只能在一个边框里调整。预算、场地、人员数量都可能让某些方案不可行；constraint关注的正是这类限制，而不是单纯令人不快的事情。",
+        "sourceId": "lexical",
+        "kind": "modern_connection"
+      },
+      {
+        "title": "回到当前用法",
+        "text": "constraint是方案必须面对的限制条件。原句说可用评审人数限制了安排；即使每个人都很能干，总人数有限也会影响一次能评审多少内容。",
+        "sourceId": "lexical",
+        "kind": "current_use"
+      }
+    ],
+    "limitations": [
+      "释义为原创教学转述；自编互动和场景不代表真实工作事实；历史资料位于独立词源补充包。"
+    ]
+  },
+  {
+    "cardId": "V20261012-007",
+    "writer": "whole50_author1",
+    "headword": {
+      "ipa": "dɪˈpendənsi",
+      "pos": "n.",
+      "chunk": "identify dependencies",
+      "ipaNote": "本批预览采用Oxford英式音标；词头音标已核对，不涉及正式词库修改。"
+    },
+    "examples": [
+      {
+        "en": "Please identify dependencies before finalizing the schedule.",
+        "zh": "确定日程前，请识别各项依赖关系。",
+        "kind": "existing_public_learning_example"
+      },
+      {
+        "en": "This dependency could delay testing.",
+        "zh": "这项依赖关系可能延误测试。",
+        "kind": "existing_public_learning_example"
+      }
+    ],
+    "sources": [
+      {
+        "id": "lexical",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/dependency",
+        "title": "Oxford — dependency",
+        "publisher": "Oxford University Press",
+        "accessedAt": "2026-11-03",
+        "section": "当前词性、音标、义项与例句；见词条Definitions及Collocations",
+        "retrievalStatus": "full_page",
+        "evidence": "一般义依靠某人/物的状态；另有属地、成瘾义。项目复数逻辑依赖关系由APM scheduling明确支持，不冒称Oxford逐字收录本项目句。",
+        "summaryZh": "一般义依靠某人/物的状态；另有属地、成瘾义。项目复数逻辑依赖关系由APM scheduling明确支持，不冒称Oxford逐字收录本项目句。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创短转述与链接，未复制原文全文"
+      },
+      {
+        "id": "etym",
+        "url": "https://www.etymonline.com/word/dependency",
+        "title": "Etymonline — dependency",
+        "publisher": "Online Etymology Dictionary",
+        "accessedAt": "2026-11-03",
+        "section": "Origin and history；与当前目标相关的历史条目",
+        "retrievalStatus": "full_page",
+        "evidence": "dependency条目记录dependent加-cy的构词及早期逻辑依赖/受到支持的关系；更早的拉丁语路径见dependent独立条目。",
+        "summaryZh": "dependency条目记录dependent加-cy的构词及早期逻辑依赖/受到支持的关系；更早的拉丁语路径见dependent独立条目。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创短转述与链接，未复制原文全文"
+      },
+      {
+        "id": "method",
+        "url": "https://www.apm.org.uk/resources/what-is-project-management/what-is-scheduling-in-project-management/",
+        "title": "APM — Scheduling in project management",
+        "publisher": "Association for Project Management",
+        "accessedAt": "2026-11-03",
+        "section": "Time scheduling / Critical path / Critical chain",
+        "retrievalStatus": "full_page",
+        "evidence": "日程显示活动预计开始与结束；关键路径分析使用活动时长及逻辑依赖，关键链可用缓冲保护活动。支持dependency/sequence/buffer等概念，具体工作句为教学应用。",
+        "summaryZh": "日程显示活动预计开始与结束；关键路径分析使用活动时长及逻辑依赖，关键链可用缓冲保护活动。支持dependency/sequence/buffer等概念，具体工作句为教学应用。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创短转述与链接，未复制原文全文"
+      },
+      {
+        "id": "etym-dependent",
+        "url": "https://www.etymonline.com/word/dependent",
+        "title": "Etymonline — dependent",
+        "publisher": "Online Etymology Dictionary",
+        "accessedAt": "2026-11-04",
+        "section": "dependent adjective, Old French dependant and Latin dependere; linked dependency entry",
+        "retrievalStatus": "full_page",
+        "evidence": "dependent早期有赖以存在/相关条件义；法语和拉丁语前身涉及悬挂与依靠。页面关联dependency说明其由dependent与-cy构成。不能据此声称项目术语在当时形成。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创短转述及链接，未复制全文"
+      }
+    ],
+    "etymology": [
+      {
+        "title": "有记录的历史来源",
+        "text": "dependency由dependent一族构成；其更早的拉丁语联系包含“悬挂于、依靠”。英语早期已用它谈某物需要另一物支持；项目中的依赖关系是这种“离不开条件”的现代应用。",
+        "sourceId": "etym-dependent",
+        "kind": "historical_fact"
+      },
+      {
+        "title": "帮助理解的现代联系",
+        "text": "可以记成“A能不能做，要看B是否到位”。测试要有可用原型，是一个容易理解的例子；依赖关系并不总是等前一项完全结束，还可能要求同时开始或共同满足条件。",
+        "sourceId": "lexical",
+        "kind": "modern_connection"
+      },
+      {
+        "title": "回到当前用法",
+        "text": "项目里的dependency说明一项工作离不开哪个输入或条件。排期不能只加上各任务的时长，还要知道它们怎样相互依赖；这样才看得出可能的等待。",
+        "sourceId": "method",
+        "kind": "current_use"
+      }
+    ],
+    "limitations": [
+      "释义为原创教学转述；自编互动和场景不代表真实工作事实；历史资料位于独立词源补充包。"
+    ],
+    "revisedBy": "root_integrator"
+  },
+  {
+    "cardId": "V20261012-008",
+    "writer": "whole50_author1",
+    "headword": {
+      "ipa": "əˈsʌmpʃn",
+      "pos": "n.",
+      "chunk": "check an assumption",
+      "ipaNote": "本批预览采用Oxford英式音标；词头音标已核对，不涉及正式词库修改。"
+    },
+    "examples": [
+      {
+        "en": "This assumption needs to be checked with the supplier.",
+        "zh": "这项假设需要与供应商核实。",
+        "kind": "existing_public_learning_example"
+      },
+      {
+        "en": "Our estimate rests on that assumption.",
+        "zh": "我们的估算基于那项假设。",
+        "kind": "existing_public_learning_example"
+      }
+    ],
+    "sources": [
+      {
+        "id": "lexical",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/assumption",
+        "title": "Oxford — assumption",
+        "publisher": "Oxford University Press",
+        "accessedAt": "2026-11-03",
+        "section": "当前词性、音标、义项与例句；见词条Definitions及Collocations",
+        "retrievalStatus": "full_page",
+        "evidence": "义1无证明而接受的信念/预期；义2取得权力、承担责任。on/based on assumption that支持当前句式联系。",
+        "summaryZh": "义1无证明而接受的信念/预期；义2取得权力、承担责任。on/based on assumption that支持当前句式联系。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创短转述与链接，未复制原文全文"
+      },
+      {
+        "id": "etym",
+        "url": "https://www.etymonline.com/word/assumption",
+        "title": "Etymonline — assumption",
+        "publisher": "Online Etymology Dictionary",
+        "accessedAt": "2026-11-03",
+        "section": "Origin and history；与当前目标相关的历史条目",
+        "retrievalStatus": "full_page",
+        "evidence": "assumption经法语或拉丁语与“接受、拿起来承担”相连。英语后来用它指先当作成立的前提；同一个词今天仍可在assumption of responsibility里表示承担责任，和本句的假设义不同。",
+        "summaryZh": "assumption经法语或拉丁语与“接受、拿起来承担”相连。英语后来用它指先当作成立的前提；同一个词今天仍可在assumption of responsibility里表示承担责任，和本句的假设义不同。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创短转述与链接，未复制原文全文"
+      }
+    ],
+    "etymology": [
+      {
+        "title": "有记录的历史来源",
+        "text": "assumption经法语或拉丁语与“接受、拿起来承担”相连。英语后来用它指先当作成立的前提；同一个词今天仍可在assumption of responsibility里表示承担责任，和本句的假设义不同。",
+        "sourceId": "etym",
+        "kind": "historical_fact"
+      },
+      {
+        "title": "帮助理解的现代联系",
+        "text": "把一项条件暂时“拿来当基础”，就能继续估算。例如暂按周一到货来排计划，是作了假设；这说明计算从哪里出发，并不表示到货已经被证实。",
+        "sourceId": "lexical",
+        "kind": "modern_connection"
+      },
+      {
+        "title": "回到当前用法",
+        "text": "assumption是暂时接受、但还需要依据的前提。本句提醒先向供应商核实这个条件；如果答案不同，建立在它上面的估算或安排也可能要调整。",
+        "sourceId": "lexical",
+        "kind": "current_use"
+      }
+    ],
+    "limitations": [
+      "释义为原创教学转述；自编互动和场景不代表真实工作事实；历史资料位于独立词源补充包。"
+    ]
+  },
+  {
+    "cardId": "V20261012-009",
+    "writer": "whole50_author1",
+    "headword": {
+      "ipa": "ˈbeɪslaɪn",
+      "pos": "n.",
+      "chunk": "establish a baseline",
+      "ipaNote": "本批预览采用Oxford英式音标；词头音标已核对，不涉及正式词库修改。"
+    },
+    "examples": [
+      {
+        "en": "We need a baseline before measuring the improvement.",
+        "zh": "衡量改进前，我们需要一个基准。",
+        "kind": "existing_public_learning_example"
+      },
+      {
+        "en": "Last month's output provides a baseline.",
+        "zh": "上个月的产量提供了一个基准。",
+        "kind": "existing_public_learning_example"
+      }
+    ],
+    "sources": [
+      {
+        "id": "lexical",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/baseline",
+        "title": "Oxford — baseline",
+        "publisher": "Oxford University Press",
+        "accessedAt": "2026-11-03",
+        "section": "当前词性、音标、义项与例句；见词条Definitions及Collocations",
+        "retrievalStatus": "full_page",
+        "evidence": "义1体育底线；义2比较事实时作为起点的线或测量。原句改进比较是义2。",
+        "summaryZh": "义1体育底线；义2比较事实时作为起点的线或测量。原句改进比较是义2。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创短转述与链接，未复制原文全文"
+      },
+      {
+        "id": "etym",
+        "url": "https://www.etymonline.com/word/baseline",
+        "title": "Etymonline — baseline",
+        "publisher": "Online Etymology Dictionary",
+        "accessedAt": "2026-11-03",
+        "section": "Origin and history；与当前目标相关的历史条目",
+        "retrievalStatus": "full_page",
+        "evidence": "baseline由base和line组成，早期用于测量，指其他测量所依据的线。后来有球场底线等用法。今天比较改进时的baseline仍强调“作为参照”，不必是一条看得见的线。",
+        "summaryZh": "baseline由base和line组成，早期用于测量，指其他测量所依据的线。后来有球场底线等用法。今天比较改进时的baseline仍强调“作为参照”，不必是一条看得见的线。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创短转述与链接，未复制原文全文"
+      }
+    ],
+    "etymology": [
+      {
+        "title": "有记录的历史来源",
+        "text": "baseline由base和line组成，早期用于测量，指其他测量所依据的线。后来有球场底线等用法。今天比较改进时的baseline仍强调“作为参照”，不必是一条看得见的线。",
+        "sourceId": "etym",
+        "kind": "historical_fact"
+      },
+      {
+        "title": "帮助理解的现代联系",
+        "text": "先记下开始时的读数，再看后来改变多少，就是容易理解的基准思路。参照本身可以好也可以差；关键是比较双方采用相同的口径。",
+        "sourceId": "lexical",
+        "kind": "modern_connection"
+      },
+      {
+        "title": "回到当前用法",
+        "text": "baseline回答“和什么相比”。要说审批变快，先要知道原来的耗时；这个起始记录是baseline，希望降到的耗时才是target。",
+        "sourceId": "lexical",
+        "kind": "current_use"
+      }
+    ],
+    "limitations": [
+      "释义为原创教学转述；自编互动和场景不代表真实工作事实；历史资料位于独立词源补充包。"
+    ]
+  },
+  {
+    "cardId": "V20261012-010",
+    "writer": "whole50_author1",
+    "headword": {
+      "ipa": "ˈbʌfə(r)",
+      "pos": "n.",
+      "chunk": "a time buffer",
+      "ipaNote": "本批预览采用Oxford英式音标；词头音标已核对，不涉及正式词库修改。"
+    },
+    "examples": [
+      {
+        "en": "The plan includes a two-day buffer for review.",
+        "zh": "计划为评审预留了两天缓冲时间。",
+        "kind": "existing_public_learning_example"
+      },
+      {
+        "en": "Keep a small buffer for unexpected costs.",
+        "zh": "为意外费用预留少量缓冲资金。",
+        "kind": "existing_public_learning_example"
+      }
+    ],
+    "sources": [
+      {
+        "id": "lexical",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/buffer_1",
+        "title": "Oxford — buffer",
+        "publisher": "Oxford University Press",
+        "accessedAt": "2026-11-03",
+        "section": "当前词性、音标、义项与例句；见词条Definitions及Collocations",
+        "retrievalStatus": "full_page",
+        "evidence": "义1缓和冲击/困难的东西，义3计算机临时存储区；APM critical chain段明确buffers用于保护活动。",
+        "summaryZh": "义1缓和冲击/困难的东西，义3计算机临时存储区；APM critical chain段明确buffers用于保护活动。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创短转述与链接，未复制原文全文"
+      },
+      {
+        "id": "etym",
+        "url": "https://www.etymonline.com/word/buffer",
+        "title": "Etymonline — buffer",
+        "publisher": "Online Etymology Dictionary",
+        "accessedAt": "2026-11-03",
+        "section": "Origin and history；与当前目标相关的历史条目",
+        "retrievalStatus": "full_page",
+        "evidence": "buffer的缓冲义早期指吸收碰撞、减轻冲击的装置，后来也用于能缓和冲击的事物。计划中的时间余量可以承担相似作用；这不是说每一份时间缓冲都源于某一种机器。",
+        "summaryZh": "buffer的缓冲义早期指吸收碰撞、减轻冲击的装置，后来也用于能缓和冲击的事物。计划中的时间余量可以承担相似作用；这不是说每一份时间缓冲都源于某一种机器。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创短转述与链接，未复制原文全文"
+      },
+      {
+        "id": "method",
+        "url": "https://www.apm.org.uk/resources/what-is-project-management/what-is-scheduling-in-project-management/",
+        "title": "APM — Scheduling in project management",
+        "publisher": "Association for Project Management",
+        "accessedAt": "2026-11-03",
+        "section": "Time scheduling / Critical path / Critical chain",
+        "retrievalStatus": "full_page",
+        "evidence": "日程显示活动预计开始与结束；关键路径分析使用活动时长及逻辑依赖，关键链可用缓冲保护活动。支持dependency/sequence/buffer等概念，具体工作句为教学应用。",
+        "summaryZh": "日程显示活动预计开始与结束；关键路径分析使用活动时长及逻辑依赖，关键链可用缓冲保护活动。支持dependency/sequence/buffer等概念，具体工作句为教学应用。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创短转述与链接，未复制原文全文"
+      }
+    ],
+    "etymology": [
+      {
+        "title": "有记录的历史来源",
+        "text": "buffer的缓冲义早期指吸收碰撞、减轻冲击的装置，后来也用于能缓和冲击的事物。计划中的时间余量可以承担相似作用；这不是说每一份时间缓冲都源于某一种机器。",
+        "sourceId": "etym",
+        "kind": "historical_fact"
+      },
+      {
+        "title": "帮助理解的现代联系",
+        "text": "用软垫承接冲击来联想：小变化先落在余量里，不必立刻挤到后面的工作。这个图像解释缓冲的用途，却不保证任何大小的变化都能被它吸收。",
+        "sourceId": "lexical",
+        "kind": "modern_connection"
+      },
+      {
+        "title": "回到当前用法",
+        "text": "buffer是预留来应对变化的余量。这里的两天不是已经发生的延期，而是计划里给评审留出的弹性；还应分清正常评审时长和额外缓冲。",
+        "sourceId": "method",
+        "kind": "current_use"
+      }
+    ],
+    "limitations": [
+      "释义为原创教学转述；自编互动和场景不代表真实工作事实；历史资料位于独立词源补充包。"
+    ]
+  },
+  {
+    "cardId": "V20261012-011",
+    "writer": "whole50_author1",
+    "headword": {
+      "ipa": "ˈsiːkwəns",
+      "pos": "n.",
+      "chunk": "the correct sequence",
+      "ipaNote": "本批预览采用Oxford英式音标；词头音标已核对，不涉及正式词库修改。"
+    },
+    "examples": [
+      {
+        "en": "Let's agree on the sequence of the remaining activities.",
+        "zh": "我们来商定剩余活动的先后顺序。",
+        "kind": "existing_public_learning_example"
+      },
+      {
+        "en": "The assembly sequence has changed.",
+        "zh": "装配顺序已经改变。",
+        "kind": "existing_public_learning_example"
+      }
+    ],
+    "sources": [
+      {
+        "id": "lexical",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/sequence_1",
+        "title": "Oxford — sequence",
+        "publisher": "Oxford University Press",
+        "accessedAt": "2026-11-03",
+        "section": "当前词性、音标、义项与例句；见词条Definitions及Collocations",
+        "retrievalStatus": "full_page",
+        "evidence": "义1有次序的一系列事件/行动/数字；义2发生或应发生的次序。APM区别日程时间信息与活动顺序。",
+        "summaryZh": "义1有次序的一系列事件/行动/数字；义2发生或应发生的次序。APM区别日程时间信息与活动顺序。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创短转述与链接，未复制原文全文"
+      },
+      {
+        "id": "etym",
+        "url": "https://www.etymonline.com/word/sequence",
+        "title": "Etymonline — sequence",
+        "publisher": "Online Etymology Dictionary",
+        "accessedAt": "2026-11-03",
+        "section": "Origin and history；与当前目标相关的历史条目",
+        "retrievalStatus": "full_page",
+        "evidence": "sequence与拉丁语sequi“跟随”一族有关，早期英语有宗教音乐用法，后来泛指按次序跟在一起的一系列事物。如今既可指一串步骤，也可强调这些步骤的排列次序。",
+        "summaryZh": "sequence与拉丁语sequi“跟随”一族有关，早期英语有宗教音乐用法，后来泛指按次序跟在一起的一系列事物。如今既可指一串步骤，也可强调这些步骤的排列次序。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创短转述与链接，未复制原文全文"
+      },
+      {
+        "id": "method",
+        "url": "https://www.apm.org.uk/resources/what-is-project-management/what-is-scheduling-in-project-management/",
+        "title": "APM — Scheduling in project management",
+        "publisher": "Association for Project Management",
+        "accessedAt": "2026-11-03",
+        "section": "Time scheduling / Critical path / Critical chain",
+        "retrievalStatus": "full_page",
+        "evidence": "日程显示活动预计开始与结束；关键路径分析使用活动时长及逻辑依赖，关键链可用缓冲保护活动。支持dependency/sequence/buffer等概念，具体工作句为教学应用。",
+        "summaryZh": "日程显示活动预计开始与结束；关键路径分析使用活动时长及逻辑依赖，关键链可用缓冲保护活动。支持dependency/sequence/buffer等概念，具体工作句为教学应用。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创短转述与链接，未复制原文全文"
+      }
+    ],
+    "etymology": [
+      {
+        "title": "有记录的历史来源",
+        "text": "sequence与拉丁语sequi“跟随”一族有关，早期英语有宗教音乐用法，后来泛指按次序跟在一起的一系列事物。如今既可指一串步骤，也可强调这些步骤的排列次序。",
+        "sourceId": "etym",
+        "kind": "historical_fact"
+      },
+      {
+        "title": "帮助理解的现代联系",
+        "text": "把步骤排成1、2、3：每一步跟在哪一步后面？同样一组任务，排列不同，过程也可能不同。这个编号联系帮助记忆，不要求每个sequence都写成数字清单。",
+        "sourceId": "lexical",
+        "kind": "modern_connection"
+      },
+      {
+        "title": "回到当前用法",
+        "text": "sequence强调先后衔接。原句不是重新列出还有什么工作，而是要商定剩下这些活动按什么次序进行；日期和持续多久则还需要另行排程。",
+        "sourceId": "method",
+        "kind": "current_use"
+      }
+    ],
+    "limitations": [
+      "释义为原创教学转述；自编互动和场景不代表真实工作事实；历史资料位于独立词源补充包。"
+    ]
+  },
+  {
+    "cardId": "V20261012-012",
+    "writer": "whole50_author1",
+    "headword": {
+      "ipa": "kəˈpæsəti",
+      "pos": "n.",
+      "chunk": "available capacity",
+      "ipaNote": "本批预览采用Oxford英式音标；词头音标已核对，不涉及正式词库修改。"
+    },
+    "examples": [
+      {
+        "en": "We do not have enough capacity to start both projects.",
+        "zh": "我们没有足够资源和余力同时启动两个项目。",
+        "kind": "existing_public_learning_example"
+      },
+      {
+        "en": "The plant is operating at full capacity.",
+        "zh": "工厂正满负荷运转。",
+        "kind": "existing_public_learning_example"
+      }
+    ],
+    "sources": [
+      {
+        "id": "lexical",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/capacity",
+        "title": "Oxford — capacity",
+        "publisher": "Oxford University Press",
+        "accessedAt": "2026-11-03",
+        "section": "当前词性、音标、义项与例句；见词条Definitions及Collocations",
+        "retrievalStatus": "full_page",
+        "evidence": "容器容量、理解或做事能力；capacity for/to结构，limited resources例句；APM资源数量/需求时点支持工作承接量联系。",
+        "summaryZh": "容器容量、理解或做事能力；capacity for/to结构，limited resources例句；APM资源数量/需求时点支持工作承接量联系。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创短转述与链接，未复制原文全文"
+      },
+      {
+        "id": "etym",
+        "url": "https://www.etymonline.com/word/capacity",
+        "title": "Etymonline — capacity",
+        "publisher": "Online Etymology Dictionary",
+        "accessedAt": "2026-11-03",
+        "section": "Origin and history；与当前目标相关的历史条目",
+        "retrievalStatus": "full_page",
+        "evidence": "capacity经法语与拉丁语中“能够容纳”的词相连，英语早期也有能力方面的用法。现代既谈容器装得下多少，也谈人或系统能做多少；不能把工作中的capacity只译成物理体积。",
+        "summaryZh": "capacity经法语与拉丁语中“能够容纳”的词相连，英语早期也有能力方面的用法。现代既谈容器装得下多少，也谈人或系统能做多少；不能把工作中的capacity只译成物理体积。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创短转述与链接，未复制原文全文"
+      },
+      {
+        "id": "method",
+        "url": "https://www.apm.org.uk/blog/what-is-resource-management/",
+        "title": "APM — What is resource management?",
+        "publisher": "Association for Project Management",
+        "accessedAt": "2026-11-03",
+        "section": "正文52—71行：资源识别、数量、需求时间及分配",
+        "retrievalStatus": "full_page",
+        "evidence": "计划需识别资源种类、数量及何时需要；资源分配与实际可用量、排程相连。支持本组资源类例子的概念，不证明自编互动必然有效。",
+        "summaryZh": "计划需识别资源种类、数量及何时需要；资源分配与实际可用量、排程相连。支持本组资源类例子的概念，不证明自编互动必然有效。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创短转述与链接，未复制原文全文"
+      }
+    ],
+    "etymology": [
+      {
+        "title": "有记录的历史来源",
+        "text": "capacity经法语与拉丁语中“能够容纳”的词相连，英语早期也有能力方面的用法。现代既谈容器装得下多少，也谈人或系统能做多少；不能把工作中的capacity只译成物理体积。",
+        "sourceId": "etym",
+        "kind": "historical_fact"
+      },
+      {
+        "title": "帮助理解的现代联系",
+        "text": "把团队可用时间想成能装工作的空间：会做某件事，不等于还有余量同时再接一件。这个容量类比帮助区分“有没有能力做”和“当前还能承担多少”。",
+        "sourceId": "lexical",
+        "kind": "modern_connection"
+      },
+      {
+        "title": "回到当前用法",
+        "text": "capacity在这里谈团队能承接多少工作。原句说不足以启动两个项目，可能涉及人力、时间或其他资源；需要问清哪部分不足，而不是立刻判断团队技术差。",
+        "sourceId": "method",
+        "kind": "current_use"
+      }
+    ],
+    "limitations": [
+      "释义为原创教学转述；自编互动和场景不代表真实工作事实；历史资料位于独立词源补充包。"
+    ]
+  },
+  {
+    "cardId": "V20261012-013",
+    "writer": "whole50_author1",
+    "headword": {
+      "ipa": "ˈæləkeɪt",
+      "pos": "v.",
+      "chunk": "allocate resources",
+      "ipaNote": "本批预览采用Oxford英式音标；词头音标已核对，不涉及正式词库修改。"
+    },
+    "examples": [
+      {
+        "en": "We should allocate more time to the initial review.",
+        "zh": "我们应给初步评审分配更多时间。",
+        "kind": "existing_public_learning_example"
+      },
+      {
+        "en": "Allocate two engineers to the trial.",
+        "zh": "为试验分配两名工程师。",
+        "kind": "existing_public_learning_example"
+      }
+    ],
+    "sources": [
+      {
+        "id": "lexical",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/allocate",
+        "title": "Oxford — allocate",
+        "publisher": "Oxford University Press",
+        "accessedAt": "2026-11-03",
+        "section": "当前词性、音标、义项与例句；见词条Definitions及Collocations",
+        "retrievalStatus": "full_page",
+        "evidence": "allocate某资源给特定人/用途，allocate something to/for；allocation有份额和分配行为两义，明确同族名词非第二动词义。",
+        "summaryZh": "allocate某资源给特定人/用途，allocate something to/for；allocation有份额和分配行为两义，明确同族名词非第二动词义。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创短转述与链接，未复制原文全文"
+      },
+      {
+        "id": "etym",
+        "url": "https://www.etymonline.com/word/allocate",
+        "title": "Etymonline — allocate",
+        "publisher": "Online Etymology Dictionary",
+        "accessedAt": "2026-11-03",
+        "section": "Origin and history；与当前目标相关的历史条目",
+        "retrievalStatus": "full_page",
+        "evidence": "allocate与拉丁语allocare“分配、安排”相连，其构成包含“放置”的词根。可以理解它有把某份资源安排到某个用途的历史联系；现代用法仍要说明分配什么、分给哪里。",
+        "summaryZh": "allocate与拉丁语allocare“分配、安排”相连，其构成包含“放置”的词根。可以理解它有把某份资源安排到某个用途的历史联系；现代用法仍要说明分配什么、分给哪里。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创短转述与链接，未复制原文全文"
+      },
+      {
+        "id": "extra",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/allocation",
+        "title": "Oxford — allocation (同族名词)",
+        "publisher": "Oxford University Press",
+        "accessedAt": "2026-11-03",
+        "section": "扩展义项或同族名词",
+        "retrievalStatus": "full_page",
+        "evidence": "为特定用途分配的份额；分配行为；an assigned share of resources, or the act of assigning it",
+        "summaryZh": "为特定用途分配的份额；分配行为；an assigned share of resources, or the act of assigning it",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创短转述与链接，未复制原文全文"
+      },
+      {
+        "id": "method",
+        "url": "https://www.apm.org.uk/blog/what-is-resource-management/",
+        "title": "APM — What is resource management?",
+        "publisher": "Association for Project Management",
+        "accessedAt": "2026-11-03",
+        "section": "正文52—71行：资源识别、数量、需求时间及分配",
+        "retrievalStatus": "full_page",
+        "evidence": "计划需识别资源种类、数量及何时需要；资源分配与实际可用量、排程相连。支持本组资源类例子的概念，不证明自编互动必然有效。",
+        "summaryZh": "计划需识别资源种类、数量及何时需要；资源分配与实际可用量、排程相连。支持本组资源类例子的概念，不证明自编互动必然有效。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创短转述与链接，未复制原文全文"
+      }
+    ],
+    "etymology": [
+      {
+        "title": "有记录的历史来源",
+        "text": "allocate与拉丁语allocare“分配、安排”相连，其构成包含“放置”的词根。可以理解它有把某份资源安排到某个用途的历史联系；现代用法仍要说明分配什么、分给哪里。",
+        "sourceId": "etym",
+        "kind": "historical_fact"
+      },
+      {
+        "title": "帮助理解的现代联系",
+        "text": "想象把有限时间分成几份，给评审留出其中一份。allocate说明资源被安排到某个用途，和之后是否已经实际花掉这些时间是两件事。",
+        "sourceId": "lexical",
+        "kind": "modern_connection"
+      },
+      {
+        "title": "回到当前用法",
+        "text": "allocate着重资源安排：把多少时间、资金或人员分给哪项工作。原句建议给初步评审增加时间份额，下一步应把“更多”说成具体时长。",
+        "sourceId": "method",
+        "kind": "current_use"
+      }
+    ],
+    "limitations": [
+      "释义为原创教学转述；自编互动和场景不代表真实工作事实；历史资料位于独立词源补充包。"
+    ]
+  },
+  {
+    "cardId": "V20261012-014",
+    "writer": "whole50_author1",
+    "headword": {
+      "ipa": "ˈdelɪɡeɪt",
+      "pos": "v.",
+      "chunk": "delegate a task",
+      "ipaNote": "本批预览采用Oxford英式音标；词头音标已核对，不涉及正式词库修改。"
+    },
+    "examples": [
+      {
+        "en": "You can delegate the data collection to another team member.",
+        "zh": "你可以把数据收集委派给另一位团队成员。",
+        "kind": "existing_public_learning_example"
+      },
+      {
+        "en": "Managers should delegate routine approvals.",
+        "zh": "经理应委派常规审批工作。",
+        "kind": "existing_public_learning_example"
+      }
+    ],
+    "sources": [
+      {
+        "id": "lexical",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/delegate_2",
+        "title": "Oxford — delegate",
+        "publisher": "Oxford University Press",
+        "accessedAt": "2026-11-03",
+        "section": "当前词性、音标、义项与例句；见词条Definitions及Collocations",
+        "retrievalStatus": "full_page",
+        "evidence": "义1把部分工作/权力/职责交给职位较低者；义2常被动be delegated to do选派去做某事。动词IPA不同于名词delegate。",
+        "summaryZh": "义1把部分工作/权力/职责交给职位较低者；义2常被动be delegated to do选派去做某事。动词IPA不同于名词delegate。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创短转述与链接，未复制原文全文"
+      },
+      {
+        "id": "etym",
+        "url": "https://www.etymonline.com/word/delegate",
+        "title": "Etymonline — delegate",
+        "publisher": "Online Etymology Dictionary",
+        "accessedAt": "2026-11-03",
+        "section": "Origin and history；与当前目标相关的历史条目",
+        "retrievalStatus": "full_page",
+        "evidence": "delegate与拉丁语“派作代表”的表达有关，英语动词早期也有授权代表处理事务的意思。今天把工作交给别人时仍带有托付任务或职责的联系，不只是把文件发送出去。",
+        "summaryZh": "delegate与拉丁语“派作代表”的表达有关，英语动词早期也有授权代表处理事务的意思。今天把工作交给别人时仍带有托付任务或职责的联系，不只是把文件发送出去。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创短转述与链接，未复制原文全文"
+      },
+      {
+        "id": "method",
+        "url": "https://www.apm.org.uk/blog/seven-tips-on-how-to-delegate-effectively/",
+        "title": "APM — Seven tips on how to delegate effectively",
+        "publisher": "Association for Project Management",
+        "accessedAt": "2026-11-03",
+        "section": "正文：delegation与提供要求/支持",
+        "retrievalStatus": "full_page",
+        "evidence": "委派把部分工作交给他人，需明确任务与支持；具体对话为原创教学应用。",
+        "summaryZh": "委派把部分工作交给他人，需明确任务与支持；具体对话为原创教学应用。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创短转述与链接，未复制原文全文"
+      }
+    ],
+    "etymology": [
+      {
+        "title": "有记录的历史来源",
+        "text": "delegate与拉丁语“派作代表”的表达有关，英语动词早期也有授权代表处理事务的意思。今天把工作交给别人时仍带有托付任务或职责的联系，不只是把文件发送出去。",
+        "sourceId": "etym",
+        "kind": "historical_fact"
+      },
+      {
+        "title": "帮助理解的现代联系",
+        "text": "可以记成“交一块工作给别人负责处理”。被交出去的是任务，也往往需要相应的说明和权限；名词delegate还可指代表，但本句使用的是动词。",
+        "sourceId": "lexical",
+        "kind": "modern_connection"
+      },
+      {
+        "title": "回到当前用法",
+        "text": "delegate说明由别人代为承担部分工作或职责。原句提出把数据收集交给另一位成员；要让交接可执行，还需说清范围、完成时间和遇到问题找谁。",
+        "sourceId": "method",
+        "kind": "current_use"
+      }
+    ],
+    "limitations": [
+      "释义为原创教学转述；自编互动和场景不代表真实工作事实；历史资料位于独立词源补充包。"
+    ]
+  },
+  {
+    "cardId": "V20261012-015",
+    "writer": "whole50_author1",
+    "headword": {
+      "ipa": "ˈəʊnəʃɪp",
+      "pos": "n.",
+      "chunk": "take ownership",
+      "ipaNote": "本批预览采用Oxford英式音标；词头音标已核对，不涉及正式词库修改。"
+    },
+    "examples": [
+      {
+        "en": "Who will take ownership of this open item?",
+        "zh": "谁来负责推进这项未结事项？",
+        "kind": "existing_public_learning_example"
+      },
+      {
+        "en": "Clear ownership prevents duplicated work.",
+        "zh": "明确责任归属可避免重复工作。",
+        "kind": "existing_public_learning_example"
+      }
+    ],
+    "sources": [
+      {
+        "id": "lexical",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/ownership",
+        "title": "Oxford — ownership",
+        "publisher": "Oxford University Press",
+        "accessedAt": "2026-11-03",
+        "section": "当前词性、音标、义项与例句；见词条Definitions及Collocations",
+        "retrievalStatus": "full_page",
+        "evidence": "Oxford义1所有权，义2承担责任并对成功有ownership/responsibility；不可数与音标已核对。",
+        "summaryZh": "Oxford义1所有权，义2承担责任并对成功有ownership/responsibility；不可数与音标已核对。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创短转述与链接，未复制原文全文"
+      },
+      {
+        "id": "etym",
+        "url": "https://www.etymonline.com/word/ownership",
+        "title": "Etymonline — ownership",
+        "publisher": "Online Etymology Dictionary",
+        "accessedAt": "2026-11-03",
+        "section": "Origin and history；与当前目标相关的历史条目",
+        "retrievalStatus": "full_page",
+        "evidence": "ownership由owner与表示状态或身份的-ship组成，早期指作为所有者的状态或权利。工作中“接下责任”的现代用法与所有权有关联，但并不表示你拥有这项工作的法律产权。",
+        "summaryZh": "ownership由owner与表示状态或身份的-ship组成，早期指作为所有者的状态或权利。工作中“接下责任”的现代用法与所有权有关联，但并不表示你拥有这项工作的法律产权。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创短转述与链接，未复制原文全文"
+      }
+    ],
+    "etymology": [
+      {
+        "title": "有记录的历史来源",
+        "text": "ownership由owner与表示状态或身份的-ship组成，早期指作为所有者的状态或权利。工作中“接下责任”的现代用法与所有权有关联，但并不表示你拥有这项工作的法律产权。",
+        "sourceId": "etym",
+        "kind": "historical_fact"
+      },
+      {
+        "title": "帮助理解的现代联系",
+        "text": "把它联想到“这件事由我接住并跟进”。这不是要求一个人亲手完成全部动作，而是别让事项在多人之间转来转去却没有人统筹。",
+        "sourceId": "lexical",
+        "kind": "modern_connection"
+      },
+      {
+        "title": "回到当前用法",
+        "text": "在工作交流里，take ownership是主动承担并跟进某件事。原句问谁接手这项尚未结清的事项；重点是明确责任归属，不是讨论财产归谁所有。",
+        "sourceId": "lexical",
+        "kind": "current_use"
+      }
+    ],
+    "limitations": [
+      "释义为原创教学转述；自编互动和场景不代表真实工作事实；历史资料位于独立词源补充包。"
+    ]
+  },
+  {
+    "cardId": "V20261012-016",
+    "writer": "whole50_author1",
+    "etymology": [
+      {
+        "title": "历史来源：能够被要求交代",
+        "text": "accountable 来自古法语 acontable，早期已有“须作交代”的意思。相关的 account 不只涉及计算，也涉及把受托财物的情况说明清楚；因此“负责”和“作解释”在这个词里联系很紧。",
+        "sourceId": "etym",
+        "kind": "historical_fact"
+      },
+      {
+        "title": "现代联系：把理由交代清楚",
+        "text": "可以联想有人问：“这件事为什么这样处理？”accountable 的人需要回答并承担责任。这里的“交代”帮助记住词义，不是说每次都在查账，也不必先发生错误才会谈责任。",
+        "sourceId": "lex",
+        "kind": "modern_connection"
+      },
+      {
+        "title": "回到本句：最终决定找谁负责",
+        "text": "accountable for the final decision 说的是对最终决定负责；accountable to someone 则说向谁交代。本句用 One person must，要求把责任落到一个明确的人身上，而不是只说大家都参与过。",
+        "sourceId": "lex",
+        "kind": "current_use"
+      }
+    ],
+    "sources": [
+      {
+        "id": "etym",
+        "url": "https://www.etymonline.com/word/accountable",
+        "title": "Etymonline — accountable",
+        "section": "Origin and history; main headword",
+        "retrievalStatus": "full_page",
+        "evidence": "accountable约1400年有answerable义，来自古法语acontable；关联account词条说明count/render account与说明受托财物的理由之间联系。",
+        "accessedAt": "2026-11-03"
+      },
+      {
+        "id": "lex",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/accountable",
+        "title": "Oxford Advanced Learner’s Dictionary — accountable",
+        "section": "pronunciation; sense 1; accountable to/for",
+        "retrievalStatus": "full_page",
+        "evidence": "/əˈkaʊntəbl/，形容词，通常不放名词前；对决定或行动负责、被问时需作解释；for接事项，to接人。",
+        "accessedAt": "2026-11-03"
+      }
+    ],
+    "headword": {
+      "ipa": "əˈkaʊntəbl",
+      "ipaNote": "本预览统一采用Oxford英式宽式音标；未改正式词库。",
+      "pos": "adj.",
+      "chunk": "accountable for the outcome"
+    },
+    "examples": [
+      {
+        "en": "One person must be accountable for the final decision.",
+        "zh": "必须有一个人对最终决定负责。",
+        "kind": "existing_public_learning_example"
+      },
+      {
+        "en": "The director is accountable for quality.",
+        "zh": "总监须对质量负责。",
+        "kind": "existing_public_learning_example"
+      }
+    ],
+    "limitations": [
+      "不把历史账目联系解释成现代accountable只用于财务或处罚。"
+    ]
+  },
+  {
+    "cardId": "V20261012-017",
+    "writer": "whole50_author1",
+    "headword": {
+      "ipa": "ˈdedlaɪn",
+      "pos": "n.",
+      "chunk": "meet a deadline",
+      "ipaNote": "本批预览采用Oxford英式音标；词头音标已核对，不涉及正式词库修改。"
+    },
+    "examples": [
+      {
+        "en": "We need a decision today to meet the deadline.",
+        "zh": "为赶上截止期限，我们今天需要作出决定。",
+        "kind": "existing_public_learning_example"
+      },
+      {
+        "en": "The submission deadline is Monday.",
+        "zh": "提交截止日期是周一。",
+        "kind": "existing_public_learning_example"
+      }
+    ],
+    "sources": [
+      {
+        "id": "lexical",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/deadline",
+        "title": "Oxford — deadline",
+        "publisher": "Oxford University Press",
+        "accessedAt": "2026-11-03",
+        "section": "当前词性、音标、义项与例句；见词条Definitions及Collocations",
+        "retrievalStatus": "full_page",
+        "evidence": "时间点：某事必须在此前完成；meet/extend/work to deadline及deadline for结构。当前词典没有第二个适用现代义，不重复填充。",
+        "summaryZh": "时间点：某事必须在此前完成；meet/extend/work to deadline及deadline for结构。当前词典没有第二个适用现代义，不重复填充。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创短转述与链接，未复制原文全文"
+      },
+      {
+        "id": "etym",
+        "url": "https://www.etymonline.com/word/deadline",
+        "title": "Etymonline — deadline",
+        "publisher": "Online Etymology Dictionary",
+        "accessedAt": "2026-11-03",
+        "section": "Origin and history；与当前目标相关的历史条目",
+        "retrievalStatus": "full_page",
+        "evidence": "deadline的“时间上限”用法在20世纪初的报业中已有记录，指稿件送印的最后时间。更早的禁越界线用法可能影响了它，但来源并没有把两者之间的路径写成确定的单线演变。",
+        "summaryZh": "deadline的“时间上限”用法在20世纪初的报业中已有记录，指稿件送印的最后时间。更早的禁越界线用法可能影响了它，但来源并没有把两者之间的路径写成确定的单线演变。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创短转述与链接，未复制原文全文"
+      }
+    ],
+    "etymology": [
+      {
+        "title": "有记录的历史来源",
+        "text": "deadline的“时间上限”用法在20世纪初的报业中已有记录，指稿件送印的最后时间。更早的禁越界线用法可能影响了它，但来源并没有把两者之间的路径写成确定的单线演变。",
+        "sourceId": "etym",
+        "kind": "historical_fact"
+      },
+      {
+        "title": "帮助理解的现代联系",
+        "text": "把它想成日历上的最后完成点，有助于理解meet a deadline和miss a deadline。记忆重点是“最迟何时”，不必用词里的dead去想象工作会产生字面的生死后果。",
+        "sourceId": "lexical",
+        "kind": "modern_connection"
+      },
+      {
+        "title": "回到当前用法",
+        "text": "deadline说的是必须完成某事的最晚时间。本句把“今天要决定”和“之后按期完成”连起来；today是作决定的时点，未必就是最终截止日。",
+        "sourceId": "lexical",
+        "kind": "current_use"
+      }
+    ],
+    "limitations": [
+      "释义为原创教学转述；自编互动和场景不代表真实工作事实；历史资料位于独立词源补充包。",
+      "没有额外已核实的相关义项，本模块已核查，不重复填充。"
+    ]
+  },
+  {
+    "cardId": "V20261012-018",
+    "writer": "whole50-author2",
+    "headword": {
+      "ipa": "/kəˈmɪtmənt/",
+      "pos": "n.",
+      "chunk": "make a commitment",
+      "ipaNote": "采用 Oxford 条目的英式读音；与旧卡美式音标不同属口音统一。",
+      "chunkNote": "沿用原学习卡搭配；搭配可由本词义构成，不声称每个搭配均为词典逐字例句。"
+    },
+    "sources": [
+      {
+        "id": "lex",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/commitment",
+        "title": "Oxford Learner’s Dictionaries · commitment",
+        "section": "Pronunciation; definitions; grammar patterns and examples",
+        "evidence": "commitment: 本句采用的词义为对具体行动或交付作出的明确承诺；读音 /kəˈmɪtmənt/。页面提供相应词性及搭配。 另外收录投入；献身义，与本句义分开。",
+        "retrievalStatus": "full_page",
+        "accessedAt": "2026-11-03",
+        "publisher": "Oxford University Press"
+      },
+      {
+        "id": "history",
+        "url": "https://www.etymonline.com/word/commitment",
+        "title": "Online Etymology Dictionary · commitment",
+        "section": "Etymology entry; related word links where shown",
+        "evidence": "commitment 由 commit 加名词后缀 -ment 构成。Etymonline 记录的早期意义涉及交付或拘押，后来有保证、承诺以及承担义务的用法；今天的承诺义不能直接当作它最早的含义。",
+        "retrievalStatus": "full_page",
+        "accessedAt": "2026-11-03",
+        "publisher": "Online Etymology Dictionary"
+      }
+    ],
+    "examples": [
+      {
+        "en": "Please confirm the conditions behind this commitment.",
+        "zh": "请确认这项承诺所依据的条件。",
+        "kind": "existing_public_learning_example"
+      },
+      {
+        "en": "Do not make a commitment without approval.",
+        "zh": "未经批准不要作出承诺。",
+        "kind": "existing_public_learning_example"
+      }
+    ],
+    "etymology": [
+      {
+        "title": "词源线索",
+        "text": "commitment 由 commit 加名词后缀 -ment 构成。Etymonline 记录的早期意义涉及交付或拘押，后来有保证、承诺以及承担义务的用法；今天的承诺义不能直接当作它最早的含义。",
+        "sourceId": "history",
+        "kind": "historical_fact"
+      },
+      {
+        "title": "联系今天的意思",
+        "text": "可以把 commit to doing something 与 make a commitment 联系起来：从愿意做，推进到答应承担。这个现代搭配联系用于记忆，不表示每个 commitment 都是一项具体许诺。",
+        "sourceId": "lex",
+        "kind": "modern_connection"
+      },
+      {
+        "title": "回到本句",
+        "text": "这里问的是承诺成立的条件。句中的 confirm 要求核实，conditions 把问题收窄到承诺成立的前提。",
+        "sourceId": "lex",
+        "kind": "current_use"
+      }
+    ],
+    "limitations": [],
+    "exampleEvidence": {
+      "status": "author_checked_pending_independent_review",
+      "note": "既有学习例句与Oxford当前词义相符；不是来源逐字引用，来源不证明例句所述事件真实。",
+      "items": [
+        {
+          "en": "Please confirm the conditions behind this commitment.",
+          "sourceId": "lex",
+          "basis": "对具体行动或交付作出的明确承诺"
+        },
+        {
+          "en": "Do not make a commitment without approval.",
+          "sourceId": "lex",
+          "basis": "对具体行动或交付作出的明确承诺"
+        }
+      ]
+    }
+  },
+  {
+    "cardId": "V20261012-019",
+    "writer": "whole50-author2",
+    "headword": {
+      "ipa": "/kənˈtɪndʒənsi/",
+      "pos": "n.",
+      "chunk": "a contingency plan",
+      "ipaNote": "采用 Oxford 条目的英式读音；与旧卡美式音标不同属口音统一。",
+      "chunkNote": "沿用原学习卡搭配；搭配可由本词义构成，不声称每个搭配均为词典逐字例句。"
+    },
+    "sources": [
+      {
+        "id": "lex",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/contingency",
+        "title": "Oxford Learner’s Dictionaries · contingency",
+        "section": "Pronunciation; definitions; grammar patterns and examples",
+        "evidence": "contingency: 本句采用的词义为可能发生且需要预先准备的意外情况；读音 /kənˈtɪndʒənsi/。页面提供相应词性及搭配。 另外收录备用金；应急款项义，与本句义分开。",
+        "retrievalStatus": "full_page",
+        "accessedAt": "2026-11-03",
+        "publisher": "Oxford University Press"
+      },
+      {
+        "id": "history",
+        "url": "https://www.etymonline.com/word/contingency",
+        "title": "Online Etymology Dictionary · contingency",
+        "section": "Etymology entry; related word links where shown",
+        "evidence": "contingency 由 contingent 加 -cy 构成，历史记录既有事情未定、取决于偶然条件的意思，也有可能发生的事件这一名词义。它不是把已经发生的事故换个正式说法。",
+        "retrievalStatus": "full_page",
+        "accessedAt": "2026-11-03",
+        "publisher": "Online Etymology Dictionary"
+      }
+    ],
+    "examples": [
+      {
+        "en": "We need a contingency plan if the reviewer is unavailable.",
+        "zh": "如果评审人员无法参与，我们需要应急计划。",
+        "kind": "existing_public_learning_example"
+      },
+      {
+        "en": "The budget covers this contingency.",
+        "zh": "预算涵盖了这项意外情况。",
+        "kind": "existing_public_learning_example"
+      }
+    ],
+    "etymology": [
+      {
+        "title": "词源线索",
+        "text": "contingency 由 contingent 加 -cy 构成，历史记录既有事情未定、取决于偶然条件的意思，也有可能发生的事件这一名词义。它不是把已经发生的事故换个正式说法。",
+        "sourceId": "history",
+        "kind": "historical_fact"
+      },
+      {
+        "title": "联系今天的意思",
+        "text": "把可能状况 contingency 与应对它的 contingency plan 配成一对：评审人可能缺席是状况，找替补才是计划。这里联系的是现代词义和搭配。",
+        "sourceId": "lex",
+        "kind": "modern_connection"
+      },
+      {
+        "title": "回到本句",
+        "text": "评审人缺席是预先准备的可能情况。if 引出假设，need a contingency plan 把假设转成准备任务。",
+        "sourceId": "lex",
+        "kind": "current_use"
+      }
+    ],
+    "limitations": [],
+    "exampleEvidence": {
+      "status": "author_checked_pending_independent_review",
+      "note": "既有学习例句与Oxford当前词义相符；不是来源逐字引用，来源不证明例句所述事件真实。",
+      "items": [
+        {
+          "en": "We need a contingency plan if the reviewer is unavailable.",
+          "sourceId": "lex",
+          "basis": "可能发生且需要预先准备的意外情况"
+        },
+        {
+          "en": "The budget covers this contingency.",
+          "sourceId": "lex",
+          "basis": "可能发生且需要预先准备的意外情况"
+        }
+      ]
+    }
+  },
+  {
+    "cardId": "V20261012-020",
+    "writer": "whole50-author2",
+    "headword": {
+      "ipa": "/ˈtreɪd ɒf/",
+      "pos": "n.",
+      "chunk": "a trade-off between speed and cost",
+      "ipaNote": "采用 Oxford 条目的英式读音；与旧卡美式音标不同属口音统一。",
+      "chunkNote": "沿用原学习卡搭配；搭配可由本词义构成，不声称每个搭配均为词典逐字例句。"
+    },
+    "sources": [
+      {
+        "id": "lex",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/trade-off_2",
+        "title": "Oxford Learner’s Dictionaries · trade-off",
+        "section": "Pronunciation; definitions; grammar patterns and examples",
+        "evidence": "trade-off: 本句采用的词义为获得一项优势时需要付出的另一项代价；读音 /ˈtreɪd ɒf/。页面提供相应词性及搭配。",
+        "retrievalStatus": "full_page",
+        "accessedAt": "2026-11-03",
+        "publisher": "Oxford University Press"
+      },
+      {
+        "id": "history",
+        "url": "https://www.etymonline.com/word/trade-off",
+        "title": "Online Etymology Dictionary · trade-off",
+        "section": "Etymology entry; related word links where shown",
+        "evidence": "Etymonline 将 trade-off 的名词记录追溯到 1959 年，并指出更早已有 trade off 的交换用法。这里的历史线索是交换与取舍，不是某种具体交易制度的名称。",
+        "retrievalStatus": "full_page",
+        "accessedAt": "2026-11-03",
+        "publisher": "Online Etymology Dictionary"
+      }
+    ],
+    "examples": [
+      {
+        "en": "There is a trade-off between a faster delivery and a lower cost.",
+        "zh": "更快交付与更低成本之间存在取舍。",
+        "kind": "existing_public_learning_example"
+      },
+      {
+        "en": "Every design involves a trade-off.",
+        "zh": "每项设计都涉及取舍。",
+        "kind": "existing_public_learning_example"
+      }
+    ],
+    "etymology": [
+      {
+        "title": "词源线索",
+        "text": "Etymonline 将 trade-off 的名词记录追溯到 1959 年，并指出更早已有 trade off 的交换用法。这里的历史线索是交换与取舍，不是某种具体交易制度的名称。",
+        "sourceId": "history",
+        "kind": "historical_fact"
+      },
+      {
+        "title": "联系今天的意思",
+        "text": "可以借交换来记：得到速度，可能要付出更高费用。现在的 trade-off 可以涉及时间、质量或资源，并不要求真的交换货物。",
+        "sourceId": "lex",
+        "kind": "modern_connection"
+      },
+      {
+        "title": "回到本句",
+        "text": "更快交付与更低成本难以同时兼得。There is a trade-off 在提醒团队：这两个好处有冲突，需要比较代价。",
+        "sourceId": "lex",
+        "kind": "current_use"
+      }
+    ],
+    "limitations": [],
+    "exampleEvidence": {
+      "status": "author_checked_pending_independent_review",
+      "note": "既有学习例句与Oxford当前词义相符；不是来源逐字引用，来源不证明例句所述事件真实。",
+      "items": [
+        {
+          "en": "There is a trade-off between a faster delivery and a lower cost.",
+          "sourceId": "lex",
+          "basis": "获得一项优势时需要付出的另一项代价"
+        },
+        {
+          "en": "Every design involves a trade-off.",
+          "sourceId": "lex",
+          "basis": "获得一项优势时需要付出的另一项代价"
+        }
+      ]
+    }
+  },
+  {
+    "cardId": "V20261012-041",
+    "writer": "whole50-author2",
+    "headword": {
+      "ipa": "/əˈdʒendə/",
+      "pos": "n.",
+      "chunk": "agree on the agenda",
+      "ipaNote": "采用 Oxford 条目的英式读音；与旧卡美式音标不同属口音统一。",
+      "chunkNote": "沿用原学习卡搭配；搭配可由本词义构成，不声称每个搭配均为词典逐字例句。"
+    },
+    "sources": [
+      {
+        "id": "lex",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/agenda",
+        "title": "Oxford Learner’s Dictionaries · agenda",
+        "section": "Pronunciation; definitions; grammar patterns and examples",
+        "evidence": "agenda: 本句采用的词义为会议准备讨论的事项清单；读音 /əˈdʒendə/。页面提供相应词性及搭配。 另外收录行动目标；待处理的政策事项义，与本句义分开。",
+        "retrievalStatus": "full_page",
+        "accessedAt": "2026-11-03",
+        "publisher": "Oxford University Press"
+      },
+      {
+        "id": "history",
+        "url": "https://www.etymonline.com/word/agenda",
+        "title": "Online Etymology Dictionary · agenda",
+        "section": "Etymology entry; related word links where shown",
+        "evidence": "agenda 来自拉丁语 agenda，意为要做的事情，与 agere（做、行动）有关。原词是复数形式，但现代英语可以说 an agenda，不能照搬拉丁语的单复数规则。",
+        "retrievalStatus": "full_page",
+        "accessedAt": "2026-11-03",
+        "publisher": "Online Etymology Dictionary"
+      }
+    ],
+    "examples": [
+      {
+        "en": "Please send the agenda before the meeting.",
+        "zh": "请在会议前发送议程。",
+        "kind": "existing_public_learning_example"
+      },
+      {
+        "en": "Add staffing to tomorrow's agenda.",
+        "zh": "把人员配置加入明天的议程。",
+        "kind": "existing_public_learning_example"
+      }
+    ],
+    "etymology": [
+      {
+        "title": "词源线索",
+        "text": "agenda 来自拉丁语 agenda，意为要做的事情，与 agere（做、行动）有关。原词是复数形式，但现代英语可以说 an agenda，不能照搬拉丁语的单复数规则。",
+        "sourceId": "history",
+        "kind": "historical_fact"
+      },
+      {
+        "title": "联系今天的意思",
+        "text": "要做的事这个历史线索，能帮助记住会议议程：它让人提前知道会议要处理什么。现代 agenda 也能指较长期的目标，不只是一张会议清单。",
+        "sourceId": "lex",
+        "kind": "modern_connection"
+      },
+      {
+        "title": "回到本句",
+        "text": "会前发送要讨论的事项清单。Please send 是具体请求，before the meeting 给出先后顺序，让参会者能提前准备。",
+        "sourceId": "lex",
+        "kind": "current_use"
+      }
+    ],
+    "limitations": [],
+    "exampleEvidence": {
+      "status": "author_checked_pending_independent_review",
+      "note": "既有学习例句与Oxford当前词义相符；不是来源逐字引用，来源不证明例句所述事件真实。",
+      "items": [
+        {
+          "en": "Please send the agenda before the meeting.",
+          "sourceId": "lex",
+          "basis": "会议准备讨论的事项清单"
+        },
+        {
+          "en": "Add staffing to tomorrow's agenda.",
+          "sourceId": "lex",
+          "basis": "会议准备讨论的事项清单"
+        }
+      ]
+    }
+  },
+  {
+    "cardId": "V20261012-042",
+    "writer": "whole50-author2",
+    "headword": {
+      "ipa": "/ˈkɒntekst/",
+      "pos": "n.",
+      "chunk": "provide context",
+      "ipaNote": "采用 Oxford 条目的英式读音；与旧卡美式音标不同属口音统一。",
+      "chunkNote": "沿用原学习卡搭配；搭配可由本词义构成，不声称每个搭配均为词典逐字例句。"
+    },
+    "sources": [
+      {
+        "id": "lex",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/context",
+        "title": "Oxford Learner’s Dictionaries · context",
+        "section": "Pronunciation; definitions; grammar patterns and examples",
+        "evidence": "context: 本句采用的词义为理解当前事项所需的背景；读音 /ˈkɒntekst/。页面提供相应词性及搭配。 另外收录上下文；前后文义，与本句义分开。",
+        "retrievalStatus": "full_page",
+        "accessedAt": "2026-11-03",
+        "publisher": "Oxford University Press"
+      },
+      {
+        "id": "history",
+        "url": "https://www.etymonline.com/word/context",
+        "title": "Online Etymology Dictionary · context",
+        "section": "Etymology entry; related word links where shown",
+        "evidence": "context 来自拉丁语 contextus，与 contexere（编织在一起、连接）有关。英语中既发展出文章整体、前后文的意义，也用于理解事物所需的相关情况。",
+        "retrievalStatus": "full_page",
+        "accessedAt": "2026-11-03",
+        "publisher": "Online Etymology Dictionary"
+      }
+    ],
+    "examples": [
+      {
+        "en": "Let me provide some context before we discuss the options.",
+        "zh": "讨论选项前，让我先提供一些背景。",
+        "kind": "existing_public_learning_example"
+      },
+      {
+        "en": "The chart needs more context.",
+        "zh": "这张图需要更多背景信息。",
+        "kind": "existing_public_learning_example"
+      }
+    ],
+    "etymology": [
+      {
+        "title": "词源线索",
+        "text": "context 来自拉丁语 contextus，与 contexere（编织在一起、连接）有关。英语中既发展出文章整体、前后文的意义，也用于理解事物所需的相关情况。",
+        "sourceId": "history",
+        "kind": "historical_fact"
+      },
+      {
+        "title": "联系今天的意思",
+        "text": "像把一句话放回前后文一样，也可以把一个数字放回产生它的条件中看。编织只是记忆联系；工作中的 context 不要求列出所有历史。",
+        "sourceId": "lex",
+        "kind": "modern_connection"
+      },
+      {
+        "title": "回到本句",
+        "text": "先补背景，再比较选项。Let me…before… 在安排谈话顺序：先补背景，再谈选项。",
+        "sourceId": "lex",
+        "kind": "current_use"
+      }
+    ],
+    "limitations": [],
+    "exampleEvidence": {
+      "status": "author_checked_pending_independent_review",
+      "note": "既有学习例句与Oxford当前词义相符；不是来源逐字引用，来源不证明例句所述事件真实。",
+      "items": [
+        {
+          "en": "Let me provide some context before we discuss the options.",
+          "sourceId": "lex",
+          "basis": "理解当前事项所需的背景"
+        },
+        {
+          "en": "The chart needs more context.",
+          "sourceId": "lex",
+          "basis": "理解当前事项所需的背景"
+        }
+      ]
+    }
+  },
+  {
+    "cardId": "V20261012-043",
+    "writer": "whole50-author2",
+    "headword": {
+      "ipa": "/ˈklærəfaɪ/",
+      "pos": "v.",
+      "chunk": "clarify a requirement",
+      "ipaNote": "采用 Oxford 条目的英式读音；与旧卡美式音标不同属口音统一。",
+      "chunkNote": "沿用原学习卡搭配；搭配可由本词义构成，不声称每个搭配均为词典逐字例句。"
+    },
+    "sources": [
+      {
+        "id": "lex",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/clarify",
+        "title": "Oxford Learner’s Dictionaries · clarify",
+        "section": "Pronunciation; definitions; grammar patterns and examples",
+        "evidence": "clarify: 本句采用的词义为把含糊的意思、范围或要求讲清楚；读音 /ˈklærəfaɪ/。页面提供相应词性及搭配。",
+        "retrievalStatus": "full_page",
+        "accessedAt": "2026-11-03",
+        "publisher": "Oxford University Press"
+      },
+      {
+        "id": "history",
+        "url": "https://www.etymonline.com/word/clarify",
+        "title": "Online Etymology Dictionary · clarify",
+        "section": "Etymology entry; related word links where shown",
+        "evidence": "clarify 经法语与后期拉丁语 clarificare 相连，含使清楚、明亮的意义。历史中既有使液体澄清的用法，也有让意思易懂的用法；不能把现代含义硬说成某个单一故事。",
+        "retrievalStatus": "full_page",
+        "accessedAt": "2026-11-03",
+        "publisher": "Online Etymology Dictionary"
+      }
+    ],
+    "examples": [
+      {
+        "en": "Could you clarify what is included in this request?",
+        "zh": "你能澄清这项请求包含什么吗？",
+        "kind": "existing_public_learning_example"
+      },
+      {
+        "en": "Please clarify the payment terms.",
+        "zh": "请澄清付款条件。",
+        "kind": "existing_public_learning_example"
+      }
+    ],
+    "etymology": [
+      {
+        "title": "词源线索",
+        "text": "clarify 经法语与后期拉丁语 clarificare 相连，含使清楚、明亮的意义。历史中既有使液体澄清的用法，也有让意思易懂的用法；不能把现代含义硬说成某个单一故事。",
+        "sourceId": "history",
+        "kind": "historical_fact"
+      },
+      {
+        "title": "联系今天的意思",
+        "text": "把 clear（清楚）与 clarify（讲清楚）联系起来即可：原来不知道包括什么，经解释后范围清楚了。帮助记忆的重点是消除模糊，而不是增加篇幅。",
+        "sourceId": "lex",
+        "kind": "modern_connection"
+      },
+      {
+        "title": "回到本句",
+        "text": "请对方说清请求包含哪些内容。Could you clarify 把没听懂变成一个具体问题：哪些工作包括在请求里？",
+        "sourceId": "lex",
+        "kind": "current_use"
+      }
+    ],
+    "limitations": [],
+    "exampleEvidence": {
+      "status": "author_checked_pending_independent_review",
+      "note": "既有学习例句与Oxford当前词义相符；不是来源逐字引用，来源不证明例句所述事件真实。",
+      "items": [
+        {
+          "en": "Could you clarify what is included in this request?",
+          "sourceId": "lex",
+          "basis": "把含糊的意思、范围或要求讲清楚"
+        },
+        {
+          "en": "Please clarify the payment terms.",
+          "sourceId": "lex",
+          "basis": "把含糊的意思、范围或要求讲清楚"
+        }
+      ]
+    }
+  },
+  {
+    "cardId": "V20261012-044",
+    "writer": "whole50-author2",
+    "headword": {
+      "ipa": "/kənˈfɜːm/",
+      "pos": "v.",
+      "chunk": "confirm the owner",
+      "ipaNote": "采用 Oxford 条目的英式读音；与旧卡美式音标不同属口音统一。",
+      "chunkNote": "沿用原学习卡搭配；搭配可由本词义构成，不声称每个搭配均为词典逐字例句。"
+    },
+    "sources": [
+      {
+        "id": "lex",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/confirm",
+        "title": "Oxford Learner’s Dictionaries · confirm",
+        "section": "Pronunciation; definitions; grammar patterns and examples",
+        "evidence": "confirm: 本句采用的词义为确认信息、安排或双方理解是否成立；读音 /kənˈfɜːm/。页面提供相应词性及搭配。 另外收录确定；使安排正式生效义，与本句义分开。",
+        "retrievalStatus": "full_page",
+        "accessedAt": "2026-11-03",
+        "publisher": "Oxford University Press"
+      },
+      {
+        "id": "history",
+        "url": "https://www.etymonline.com/word/confirm",
+        "title": "Online Etymology Dictionary · confirm",
+        "section": "Etymology entry; related word links where shown",
+        "evidence": "confirm 经法语来自拉丁语 confirmare，意思与使坚固、使确定有关，其中 firmus 有坚实的意思。英语后来用于核实信息，也用于使安排确定下来。",
+        "retrievalStatus": "full_page",
+        "accessedAt": "2026-11-03",
+        "publisher": "Online Etymology Dictionary"
+      }
+    ],
+    "examples": [
+      {
+        "en": "Please confirm who will own the next action.",
+        "zh": "请确认谁将负责下一项行动。",
+        "kind": "existing_public_learning_example"
+      },
+      {
+        "en": "Confirm the quantity before ordering.",
+        "zh": "下单前确认数量。",
+        "kind": "existing_public_learning_example"
+      }
+    ],
+    "etymology": [
+      {
+        "title": "词源线索",
+        "text": "confirm 经法语来自拉丁语 confirmare，意思与使坚固、使确定有关，其中 firmus 有坚实的意思。英语后来用于核实信息，也用于使安排确定下来。",
+        "sourceId": "history",
+        "kind": "historical_fact"
+      },
+      {
+        "title": "联系今天的意思",
+        "text": "用 firm（稳固）帮助记住信息由待核实走向确定。但确认消息和批准提案是不同任务，不能因为有 confirm 就推断完成了审批。",
+        "sourceId": "lex",
+        "kind": "modern_connection"
+      },
+      {
+        "title": "回到本句",
+        "text": "把下一项行动的负责人确认下来。Please confirm 要对方给出确定的信息；who 将问题定位到行动负责人。",
+        "sourceId": "lex",
+        "kind": "current_use"
+      }
+    ],
+    "limitations": [],
+    "exampleEvidence": {
+      "status": "author_checked_pending_independent_review",
+      "note": "既有学习例句与Oxford当前词义相符；不是来源逐字引用，来源不证明例句所述事件真实。",
+      "items": [
+        {
+          "en": "Please confirm who will own the next action.",
+          "sourceId": "lex",
+          "basis": "确认信息、安排或双方理解是否成立"
+        },
+        {
+          "en": "Confirm the quantity before ordering.",
+          "sourceId": "lex",
+          "basis": "确认信息、安排或双方理解是否成立"
+        }
+      ]
+    }
+  },
+  {
+    "cardId": "V20261012-045",
+    "writer": "whole50-author2",
+    "headword": {
+      "ipa": "/ˈspesɪfaɪ/",
+      "pos": "v.",
+      "chunk": "specify the conditions",
+      "ipaNote": "采用 Oxford 条目的英式读音；与旧卡美式音标不同属口音统一。",
+      "chunkNote": "沿用原学习卡搭配；搭配可由本词义构成，不声称每个搭配均为词典逐字例句。"
+    },
+    "sources": [
+      {
+        "id": "lex",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/specify",
+        "title": "Oxford Learner’s Dictionaries · specify",
+        "section": "Pronunciation; definitions; grammar patterns and examples",
+        "evidence": "specify: 本句采用的词义为明确写出或说出具体要求；读音 /ˈspesɪfaɪ/。页面提供相应词性及搭配。",
+        "retrievalStatus": "full_page",
+        "accessedAt": "2026-11-03",
+        "publisher": "Oxford University Press"
+      },
+      {
+        "id": "history",
+        "url": "https://www.etymonline.com/word/specify",
+        "title": "Online Etymology Dictionary · specify",
+        "section": "Etymology entry; related word links where shown",
+        "evidence": "specify 经法语来自后期拉丁语 specificare，历史意义涉及明确说出、特别指出。它与 specific 的意义联系有助记忆，不需要把词尾臆解成一个独立英语词。",
+        "retrievalStatus": "full_page",
+        "accessedAt": "2026-11-03",
+        "publisher": "Online Etymology Dictionary"
+      }
+    ],
+    "examples": [
+      {
+        "en": "Please specify the conditions for accepting this proposal.",
+        "zh": "请明确说明接受此提案的条件。",
+        "kind": "existing_public_learning_example"
+      },
+      {
+        "en": "The contract specifies delivery dates.",
+        "zh": "合同明确规定交货日期。",
+        "kind": "existing_public_learning_example"
+      }
+    ],
+    "etymology": [
+      {
+        "title": "词源线索",
+        "text": "specify 经法语来自后期拉丁语 specificare，历史意义涉及明确说出、特别指出。它与 specific 的意义联系有助记忆，不需要把词尾臆解成一个独立英语词。",
+        "sourceId": "history",
+        "kind": "historical_fact"
+      },
+      {
+        "title": "联系今天的意思",
+        "text": "把 specific（具体的）与 specify（具体说出来）配着记。说尽快仍需要猜，说周五下午五点前则给出了能执行的信息。",
+        "sourceId": "lex",
+        "kind": "modern_connection"
+      },
+      {
+        "title": "回到本句",
+        "text": "把接受提案的条件具体列出来。specify 要求填补可执行的信息；conditions 指接受提案前需要满足的条件。",
+        "sourceId": "lex",
+        "kind": "current_use"
+      }
+    ],
+    "limitations": [],
+    "exampleEvidence": {
+      "status": "author_checked_pending_independent_review",
+      "note": "既有学习例句与Oxford当前词义相符；不是来源逐字引用，来源不证明例句所述事件真实。",
+      "items": [
+        {
+          "en": "Please specify the conditions for accepting this proposal.",
+          "sourceId": "lex",
+          "basis": "明确写出或说出具体要求"
+        },
+        {
+          "en": "The contract specifies delivery dates.",
+          "sourceId": "lex",
+          "basis": "明确写出或说出具体要求"
+        }
+      ]
+    }
+  },
+  {
+    "cardId": "V20261012-046",
+    "writer": "whole50-author2",
+    "headword": {
+      "ipa": "/ɪˈlæbəreɪt/",
+      "pos": "v.",
+      "chunk": "elaborate on a point",
+      "ipaNote": "采用 Oxford 条目的英式读音；与旧卡美式音标不同属口音统一。本句是动词 /ɪˈlæbəreɪt/；形容词结尾读 /ət/。",
+      "chunkNote": "沿用原学习卡搭配；搭配可由本词义构成，不声称每个搭配均为词典逐字例句。"
+    },
+    "sources": [
+      {
+        "id": "lex",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/elaborate_2",
+        "title": "Oxford Learner’s Dictionaries · elaborate",
+        "section": "Pronunciation; definitions; grammar patterns and examples",
+        "evidence": "elaborate: 本句采用的词义为对已经说出的观点进一步详细说明；读音 /ɪˈlæbəreɪt/。页面提供相应词性及搭配。",
+        "retrievalStatus": "full_page",
+        "accessedAt": "2026-11-03",
+        "publisher": "Oxford University Press"
+      },
+      {
+        "id": "history",
+        "url": "https://www.etymonline.com/word/elaborate",
+        "title": "Online Etymology Dictionary · elaborate",
+        "section": "Etymology entry; related word links where shown",
+        "evidence": "elaborate 与拉丁语 elaborare（付出劳动、精心做成）有关。英语动词有展开、详细说明的用法；形容词有复杂精细的用法，两者在现代英语中读音不同。",
+        "retrievalStatus": "full_page",
+        "accessedAt": "2026-11-03",
+        "publisher": "Online Etymology Dictionary"
+      }
+    ],
+    "examples": [
+      {
+        "en": "Could you elaborate on the concern about timing?",
+        "zh": "你能详细说明对时间安排的担忧吗？",
+        "kind": "existing_public_learning_example"
+      },
+      {
+        "en": "Could you elaborate on that risk?",
+        "zh": "你能详细说明那项风险吗？",
+        "kind": "existing_public_learning_example"
+      }
+    ],
+    "etymology": [
+      {
+        "title": "词源线索",
+        "text": "elaborate 与拉丁语 elaborare（付出劳动、精心做成）有关。英语动词有展开、详细说明的用法；形容词有复杂精细的用法，两者在现代英语中读音不同。",
+        "sourceId": "history",
+        "kind": "historical_fact"
+      },
+      {
+        "title": "联系今天的意思",
+        "text": "从认真展开细节联想到 elaborate on a point，可以帮助记忆动词义。这是现代教学联系，不是说解释越复杂就越好。",
+        "sourceId": "lex",
+        "kind": "modern_connection"
+      },
+      {
+        "title": "回到本句",
+        "text": "请把时间安排方面的担忧展开说明。Could you elaborate 表示已经听到时间方面的担心，现在需要理解具体影响。",
+        "sourceId": "lex",
+        "kind": "current_use"
+      }
+    ],
+    "limitations": [],
+    "exampleEvidence": {
+      "status": "author_checked_pending_independent_review",
+      "note": "既有学习例句与Oxford当前词义相符；不是来源逐字引用，来源不证明例句所述事件真实。",
+      "items": [
+        {
+          "en": "Could you elaborate on the concern about timing?",
+          "sourceId": "lex",
+          "basis": "对已经说出的观点进一步详细说明"
+        },
+        {
+          "en": "Could you elaborate on that risk?",
+          "sourceId": "lex",
+          "basis": "对已经说出的观点进一步详细说明"
+        }
+      ]
+    }
+  },
+  {
+    "cardId": "V20261012-047",
+    "writer": "whole50-author2",
+    "headword": {
+      "ipa": "/ˈsʌməraɪz/",
+      "pos": "v.",
+      "chunk": "summarize the discussion",
+      "ipaNote": "采用 Oxford 条目的英式读音；与旧卡美式音标不同属口音统一。",
+      "chunkNote": "沿用原学习卡搭配；搭配可由本词义构成，不声称每个搭配均为词典逐字例句。"
+    },
+    "sources": [
+      {
+        "id": "lex",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/summarize",
+        "title": "Oxford Learner’s Dictionaries · summarize",
+        "section": "Pronunciation; definitions; grammar patterns and examples",
+        "evidence": "summarize: 本句采用的词义为概括重点而不是重复全部细节；读音 /ˈsʌməraɪz/。页面提供相应词性及搭配。",
+        "retrievalStatus": "full_page",
+        "accessedAt": "2026-11-03",
+        "publisher": "Oxford University Press"
+      },
+      {
+        "id": "history",
+        "url": "https://www.etymonline.com/word/summarize",
+        "title": "Online Etymology Dictionary · summarize",
+        "section": "Etymology entry; related word links where shown",
+        "evidence": "summarize 由 summary 加 -ize 构成。summary 的词源与拉丁语 summa（总和、要旨）有关，这个线索与抓主要内容的现代意义相通。",
+        "retrievalStatus": "full_page",
+        "accessedAt": "2026-11-03",
+        "publisher": "Online Etymology Dictionary"
+      }
+    ],
+    "examples": [
+      {
+        "en": "Let me summarize the decisions and remaining questions.",
+        "zh": "让我概括各项决定和剩余问题。",
+        "kind": "existing_public_learning_example"
+      },
+      {
+        "en": "Summarize the findings in one paragraph.",
+        "zh": "用一段话概括调查结果。",
+        "kind": "existing_public_learning_example"
+      }
+    ],
+    "etymology": [
+      {
+        "title": "词源线索",
+        "text": "summarize 由 summary 加 -ize 构成。summary 的词源与拉丁语 summa（总和、要旨）有关，这个线索与抓主要内容的现代意义相通。",
+        "sourceId": "history",
+        "kind": "historical_fact"
+      },
+      {
+        "title": "联系今天的意思",
+        "text": "把 summary 看作概要，把 summarize 看作做概要。留下决定和未决问题，删去讨论中的重复来回，是本句可用的记忆方式。",
+        "sourceId": "lex",
+        "kind": "modern_connection"
+      },
+      {
+        "title": "回到本句",
+        "text": "把决定与未决问题分别概括。Let me summarize 是收束讨论的提示；decisions and remaining questions 要求把已决与未决都交代清楚。",
+        "sourceId": "lex",
+        "kind": "current_use"
+      }
+    ],
+    "limitations": [],
+    "exampleEvidence": {
+      "status": "author_checked_pending_independent_review",
+      "note": "既有学习例句与Oxford当前词义相符；不是来源逐字引用，来源不证明例句所述事件真实。",
+      "items": [
+        {
+          "en": "Let me summarize the decisions and remaining questions.",
+          "sourceId": "lex",
+          "basis": "概括重点而不是重复全部细节"
+        },
+        {
+          "en": "Summarize the findings in one paragraph.",
+          "sourceId": "lex",
+          "basis": "概括重点而不是重复全部细节"
+        }
+      ]
+    }
+  },
+  {
+    "cardId": "V20261012-048",
+    "writer": "whole50-author2",
+    "headword": {
+      "ipa": "/ˈriːkæp/",
+      "pos": "v.",
+      "chunk": "recap the main points",
+      "ipaNote": "采用 Oxford 条目的英式读音；与旧卡美式音标不同属口音统一。",
+      "chunkNote": "沿用原学习卡搭配；搭配可由本词义构成，不声称每个搭配均为词典逐字例句。"
+    },
+    "sources": [
+      {
+        "id": "lex",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/recap_1",
+        "title": "Oxford Learner’s Dictionaries · recap",
+        "section": "Pronunciation; definitions; grammar patterns and examples",
+        "evidence": "recap: 本句采用的词义为简短回顾已经讨论或发生的内容；读音 /ˈriːkæp/。页面提供相应词性及搭配。",
+        "retrievalStatus": "full_page",
+        "accessedAt": "2026-11-03",
+        "publisher": "Oxford University Press"
+      },
+      {
+        "id": "history",
+        "url": "https://www.etymonline.com/word/recap",
+        "title": "Online Etymology Dictionary · recap",
+        "section": "Etymology entry; related word links where shown",
+        "evidence": "表示回顾要点的 recap 是 recapitulate 的缩略形式。资料对缩略用法的年代记载不同，这里不采用具体年份；它不是本页含义下的重新戴帽子。",
+        "retrievalStatus": "full_page",
+        "accessedAt": "2026-11-03",
+        "publisher": "Online Etymology Dictionary"
+      }
+    ],
+    "examples": [
+      {
+        "en": "Could you recap the main points for the new team member?",
+        "zh": "你能为新成员简要回顾要点吗？",
+        "kind": "existing_public_learning_example"
+      },
+      {
+        "en": "Let's recap yesterday's decisions.",
+        "zh": "我们来简要回顾昨天的决定。",
+        "kind": "existing_public_learning_example"
+      }
+    ],
+    "etymology": [
+      {
+        "title": "词源线索",
+        "text": "表示回顾要点的 recap 是 recapitulate 的缩略形式。资料对缩略用法的年代记载不同，这里不采用具体年份；它不是本页含义下的重新戴帽子。",
+        "sourceId": "history",
+        "kind": "historical_fact"
+      },
+      {
+        "title": "联系今天的意思",
+        "text": "可以从短词对应简短回顾来帮助记忆，但这只是记忆方法。重要的是回到已经谈过的内容，把后来加入的人需要知道的要点再过一遍。",
+        "sourceId": "lex",
+        "kind": "modern_connection"
+      },
+      {
+        "title": "回到本句",
+        "text": "为新成员回顾已讨论的要点。for the new team member 说明这次回顾为了让新成员跟上进度。",
+        "sourceId": "lex",
+        "kind": "current_use"
+      }
+    ],
+    "limitations": [
+      "词源来源对缩略形式年代记录不同，因此未采用具体年份。"
+    ],
+    "exampleEvidence": {
+      "status": "author_checked_pending_independent_review",
+      "note": "既有学习例句与Oxford当前词义相符；不是来源逐字引用，来源不证明例句所述事件真实。",
+      "items": [
+        {
+          "en": "Could you recap the main points for the new team member?",
+          "sourceId": "lex",
+          "basis": "简短回顾已经讨论或发生的内容"
+        },
+        {
+          "en": "Let's recap yesterday's decisions.",
+          "sourceId": "lex",
+          "basis": "简短回顾已经讨论或发生的内容"
+        }
+      ]
+    }
+  },
+  {
+    "cardId": "V20261012-049",
+    "writer": "whole50-author2",
+    "headword": {
+      "ipa": "/əˈlaɪn/",
+      "pos": "v.",
+      "chunk": "align on priorities",
+      "ipaNote": "采用 Oxford 条目的英式读音；与旧卡美式音标不同属口音统一。",
+      "chunkNote": "沿用原学习卡搭配；搭配可由本词义构成，不声称每个搭配均为词典逐字例句。"
+    },
+    "sources": [
+      {
+        "id": "lex",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/align",
+        "title": "Oxford Learner’s Dictionaries · align",
+        "section": "Pronunciation; definitions; grammar patterns and examples",
+        "evidence": "align: 本句采用的词义为使目标、理解或安排彼此一致；读音 /əˈlaɪn/。页面提供相应词性及搭配。 另外收录排成一线；对齐义，与本句义分开。",
+        "retrievalStatus": "full_page",
+        "accessedAt": "2026-11-03",
+        "publisher": "Oxford University Press"
+      },
+      {
+        "id": "history",
+        "url": "https://www.etymonline.com/word/align",
+        "title": "Online Etymology Dictionary · align",
+        "section": "Etymology entry; related word links where shown",
+        "evidence": "align 来自法语表示排成一线的词形，词根与 ligne、拉丁语 linea（线）有关。实体对齐是历史线索，工作上的目标一致则需要依据现代用法理解。",
+        "retrievalStatus": "full_page",
+        "accessedAt": "2026-11-03",
+        "publisher": "Online Etymology Dictionary"
+      }
+    ],
+    "examples": [
+      {
+        "en": "We need to align on priorities before assigning the work.",
+        "zh": "分配工作前，我们需要就优先级达成一致。",
+        "kind": "existing_public_learning_example"
+      },
+      {
+        "en": "Align the forecast with actual orders.",
+        "zh": "使预测与实际订单相符。",
+        "kind": "existing_public_learning_example"
+      }
+    ],
+    "etymology": [
+      {
+        "title": "词源线索",
+        "text": "align 来自法语表示排成一线的词形，词根与 ligne、拉丁语 linea（线）有关。实体对齐是历史线索，工作上的目标一致则需要依据现代用法理解。",
+        "sourceId": "history",
+        "kind": "historical_fact"
+      },
+      {
+        "title": "联系今天的意思",
+        "text": "从把几列对齐，联想到让几个人采用同一优先顺序。这是从实体到工作安排的学习联系；人有不同意见，不能像移动图形一样自动对齐。",
+        "sourceId": "lex",
+        "kind": "modern_connection"
+      },
+      {
+        "title": "回到本句",
+        "text": "先统一优先级，再分配工作。before assigning the work 明确了先后：先商定排序，再分工。",
+        "sourceId": "lex",
+        "kind": "current_use"
+      }
+    ],
+    "limitations": [],
+    "exampleEvidence": {
+      "status": "author_checked_pending_independent_review",
+      "note": "既有学习例句与Oxford当前词义相符；不是来源逐字引用，来源不证明例句所述事件真实。",
+      "items": [
+        {
+          "en": "We need to align on priorities before assigning the work.",
+          "sourceId": "lex",
+          "basis": "使目标、理解或安排彼此一致"
+        },
+        {
+          "en": "Align the forecast with actual orders.",
+          "sourceId": "lex",
+          "basis": "使目标、理解或安排彼此一致"
+        }
+      ]
+    }
+  },
+  {
+    "cardId": "V20261012-050",
+    "writer": "whole50-author2",
+    "headword": {
+      "ipa": "/kənˈsensəs/",
+      "pos": "n.",
+      "chunk": "reach a consensus",
+      "ipaNote": "采用 Oxford 条目的英式读音；与旧卡美式音标不同属口音统一。",
+      "chunkNote": "沿用原学习卡搭配；搭配可由本词义构成，不声称每个搭配均为词典逐字例句。"
+    },
+    "sources": [
+      {
+        "id": "lex",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/consensus",
+        "title": "Oxford Learner’s Dictionaries · consensus",
+        "section": "Pronunciation; definitions; grammar patterns and examples",
+        "evidence": "consensus: 本句采用的词义为团队对某个方向形成的普遍共识；读音 /kənˈsensəs/。页面提供相应词性及搭配。",
+        "retrievalStatus": "full_page",
+        "accessedAt": "2026-11-03",
+        "publisher": "Oxford University Press"
+      },
+      {
+        "id": "history",
+        "url": "https://www.etymonline.com/word/consensus",
+        "title": "Online Etymology Dictionary · consensus",
+        "section": "Etymology entry; related word links where shown",
+        "evidence": "consensus 来自拉丁语 consensus（同意、一致），与 consentire（共同感受、同意）有关。这个来源提供共同接受的线索，但不规定现代会议必须采用哪种表决程序。",
+        "retrievalStatus": "full_page",
+        "accessedAt": "2026-11-03",
+        "publisher": "Online Etymology Dictionary"
+      }
+    ],
+    "examples": [
+      {
+        "en": "We reached a consensus on the main objective.",
+        "zh": "我们就主要目标达成了共识。",
+        "kind": "existing_public_learning_example"
+      },
+      {
+        "en": "There is no consensus on pricing.",
+        "zh": "定价问题尚无共识。",
+        "kind": "existing_public_learning_example"
+      }
+    ],
+    "etymology": [
+      {
+        "title": "词源线索",
+        "text": "consensus 来自拉丁语 consensus（同意、一致），与 consentire（共同感受、同意）有关。这个来源提供共同接受的线索，但不规定现代会议必须采用哪种表决程序。",
+        "sourceId": "history",
+        "kind": "historical_fact"
+      },
+      {
+        "title": "联系今天的意思",
+        "text": "记 reach a consensus：讨论走到一个共同接受的意见。共同点可以只限目标，方法与期限还可能有分歧，不能把一个议题的共识扩大成全部同意。",
+        "sourceId": "lex",
+        "kind": "modern_connection"
+      },
+      {
+        "title": "回到本句",
+        "text": "团队对主要目标已有普遍共识。reached 报告已经形成共识，on the main objective 则限制共识的范围。",
+        "sourceId": "lex",
+        "kind": "current_use"
+      }
+    ],
+    "limitations": [],
+    "exampleEvidence": {
+      "status": "author_checked_pending_independent_review",
+      "note": "既有学习例句与Oxford当前词义相符；不是来源逐字引用，来源不证明例句所述事件真实。",
+      "items": [
+        {
+          "en": "We reached a consensus on the main objective.",
+          "sourceId": "lex",
+          "basis": "团队对某个方向形成的普遍共识"
+        },
+        {
+          "en": "There is no consensus on pricing.",
+          "sourceId": "lex",
+          "basis": "团队对某个方向形成的普遍共识"
+        }
+      ]
+    }
+  },
+  {
+    "cardId": "V20261012-051",
+    "writer": "whole50-author2",
+    "headword": {
+      "ipa": "/kənˈsɜːn/",
+      "pos": "n.",
+      "chunk": "raise a concern",
+      "ipaNote": "采用 Oxford 条目的英式读音；与旧卡美式音标不同属口音统一。",
+      "chunkNote": "沿用原学习卡搭配；搭配可由本词义构成，不声称每个搭配均为词典逐字例句。"
+    },
+    "sources": [
+      {
+        "id": "lex",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/concern_2",
+        "title": "Oxford Learner’s Dictionaries · concern",
+        "section": "Pronunciation; definitions; grammar patterns and examples",
+        "evidence": "concern: 本句采用的词义为值得注意或让人担心的事项；读音 /kənˈsɜːn/。页面提供相应词性及搭配。 另外收录企业；公司义，与本句义分开。",
+        "retrievalStatus": "full_page",
+        "accessedAt": "2026-11-03",
+        "publisher": "Oxford University Press"
+      },
+      {
+        "id": "history",
+        "url": "https://www.etymonline.com/word/concern",
+        "title": "Online Etymology Dictionary · concern",
+        "section": "Etymology entry; related word links where shown",
+        "evidence": "concern 的历史用法与涉及、关系到某事相连，后来也用于引起关切、担忧。词源更早的拉丁语线索不能机械地拿来翻译今天每一个 concern。",
+        "retrievalStatus": "full_page",
+        "accessedAt": "2026-11-03",
+        "publisher": "Online Etymology Dictionary"
+      }
+    ],
+    "examples": [
+      {
+        "en": "My main concern is the time available for review.",
+        "zh": "我主要担心可供评审的时间。",
+        "kind": "existing_public_learning_example"
+      },
+      {
+        "en": "Her concern about safety was valid.",
+        "zh": "她对安全的担忧有道理。",
+        "kind": "existing_public_learning_example"
+      }
+    ],
+    "etymology": [
+      {
+        "title": "词源线索",
+        "text": "concern 的历史用法与涉及、关系到某事相连，后来也用于引起关切、担忧。词源更早的拉丁语线索不能机械地拿来翻译今天每一个 concern。",
+        "sourceId": "history",
+        "kind": "historical_fact"
+      },
+      {
+        "title": "联系今天的意思",
+        "text": "与我有关、值得注意的事，可能进一步成为让我担心的事，这个联系有助记住本句义。它是词义联系，不能推出所有关注都包含焦虑。",
+        "sourceId": "lex",
+        "kind": "modern_connection"
+      },
+      {
+        "title": "回到本句",
+        "text": "主要担心评审可用时间不足。My main concern 把最值得回应的问题摆出来，is 后面指出是评审时间。",
+        "sourceId": "lex",
+        "kind": "current_use"
+      }
+    ],
+    "limitations": [],
+    "exampleEvidence": {
+      "status": "author_checked_pending_independent_review",
+      "note": "既有学习例句与Oxford当前词义相符；不是来源逐字引用，来源不证明例句所述事件真实。",
+      "items": [
+        {
+          "en": "My main concern is the time available for review.",
+          "sourceId": "lex",
+          "basis": "值得注意或让人担心的事项"
+        },
+        {
+          "en": "Her concern about safety was valid.",
+          "sourceId": "lex",
+          "basis": "值得注意或让人担心的事项"
+        }
+      ]
+    }
+  },
+  {
+    "cardId": "V20261012-052",
+    "writer": "whole50-author2",
+    "headword": {
+      "ipa": "/əbˈdʒekʃn/",
+      "pos": "n.",
+      "chunk": "raise an objection",
+      "ipaNote": "采用 Oxford 条目的英式读音；与旧卡美式音标不同属口音统一。",
+      "chunkNote": "沿用原学习卡搭配；搭配可由本词义构成，不声称每个搭配均为词典逐字例句。"
+    },
+    "sources": [
+      {
+        "id": "lex",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/objection",
+        "title": "Oxford Learner’s Dictionaries · objection",
+        "section": "Pronunciation; definitions; grammar patterns and examples",
+        "evidence": "objection: 本句采用的词义为对提议明确表示反对的理由或意见；读音 /əbˈdʒekʃn/。页面提供相应词性及搭配。",
+        "retrievalStatus": "full_page",
+        "accessedAt": "2026-11-03",
+        "publisher": "Oxford University Press"
+      },
+      {
+        "id": "history",
+        "url": "https://www.etymonline.com/word/objection",
+        "title": "Online Etymology Dictionary · objection",
+        "section": "Etymology entry; related word links where shown",
+        "evidence": "objection 经法语来自后期拉丁语，词源涉及把东西摆到前面、提出反对，与 obicere 相连。现代英语的异议是表达反对或反对理由，不是字面扔东西。",
+        "retrievalStatus": "full_page",
+        "accessedAt": "2026-11-03",
+        "publisher": "Online Etymology Dictionary"
+      }
+    ],
+    "examples": [
+      {
+        "en": "Does anyone have an objection to the revised sequence?",
+        "zh": "有人反对调整后的顺序吗？",
+        "kind": "existing_public_learning_example"
+      },
+      {
+        "en": "The supplier raised an objection.",
+        "zh": "供应商提出了反对意见。",
+        "kind": "existing_public_learning_example"
+      }
+    ],
+    "etymology": [
+      {
+        "title": "词源线索",
+        "text": "objection 经法语来自后期拉丁语，词源涉及把东西摆到前面、提出反对，与 obicere 相连。现代英语的异议是表达反对或反对理由，不是字面扔东西。",
+        "sourceId": "history",
+        "kind": "historical_fact"
+      },
+      {
+        "title": "联系今天的意思",
+        "text": "可以把异议想作摆在方案前、需要回应的一条理由。这个画面是记忆辅助；实际使用时说明反对哪一点，比只说不喜欢更清楚。",
+        "sourceId": "lex",
+        "kind": "modern_connection"
+      },
+      {
+        "title": "回到本句",
+        "text": "在采用调整后的顺序前征询反对意见。Does anyone… 给大家提出异议的机会，to the revised sequence 指定要评议的对象。",
+        "sourceId": "lex",
+        "kind": "current_use"
+      }
+    ],
+    "limitations": [],
+    "exampleEvidence": {
+      "status": "author_checked_pending_independent_review",
+      "note": "既有学习例句与Oxford当前词义相符；不是来源逐字引用，来源不证明例句所述事件真实。",
+      "items": [
+        {
+          "en": "Does anyone have an objection to the revised sequence?",
+          "sourceId": "lex",
+          "basis": "对提议明确表示反对的理由或意见"
+        },
+        {
+          "en": "The supplier raised an objection.",
+          "sourceId": "lex",
+          "basis": "对提议明确表示反对的理由或意见"
+        }
+      ]
+    }
+  },
+  {
+    "cardId": "V20261012-053",
+    "writer": "whole50-author2",
+    "headword": {
+      "ipa": "/ˌrezəˈveɪʃn/",
+      "pos": "n.",
+      "chunk": "have reservations about",
+      "ipaNote": "采用 Oxford 条目的英式读音；与旧卡美式音标不同属口音统一。",
+      "chunkNote": "沿用原学习卡搭配；搭配可由本词义构成，不声称每个搭配均为词典逐字例句。"
+    },
+    "sources": [
+      {
+        "id": "lex",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/reservation",
+        "title": "Oxford Learner’s Dictionaries · reservation",
+        "section": "Pronunciation; definitions; grammar patterns and examples",
+        "evidence": "reservation: 本句采用的词义为尚未消除的保留意见或疑虑；读音 /ˌrezəˈveɪʃn/。页面提供相应词性及搭配。 另外收录预订；预约义，与本句义分开。",
+        "retrievalStatus": "full_page",
+        "accessedAt": "2026-11-03",
+        "publisher": "Oxford University Press"
+      },
+      {
+        "id": "history",
+        "url": "https://www.etymonline.com/word/reservation",
+        "title": "Online Etymology Dictionary · reservation",
+        "section": "Etymology entry; related word links where shown",
+        "evidence": "reservation 的词源与拉丁语 reservare（留住、保留）相连。保留条件或疑虑与预订都是历史中记录的用法，不能把疑虑义说成由酒店预订直接产生。",
+        "retrievalStatus": "full_page",
+        "accessedAt": "2026-11-03",
+        "publisher": "Online Etymology Dictionary"
+      }
+    ],
+    "examples": [
+      {
+        "en": "I have reservations about committing before the review.",
+        "zh": "在评审前作出承诺，我有保留意见。",
+        "kind": "existing_public_learning_example"
+      },
+      {
+        "en": "She expressed reservations about the estimate.",
+        "zh": "她对估算表达了疑虑。",
+        "kind": "existing_public_learning_example"
+      }
+    ],
+    "etymology": [
+      {
+        "title": "词源线索",
+        "text": "reservation 的词源与拉丁语 reservare（留住、保留）相连。保留条件或疑虑与预订都是历史中记录的用法，不能把疑虑义说成由酒店预订直接产生。",
+        "sourceId": "history",
+        "kind": "historical_fact"
+      },
+      {
+        "title": "联系今天的意思",
+        "text": "可以用尚未完全交出同意来联想有保留意见；这只是记忆画面。酒店预订则是真的保留一个位置，遇到词时还要看搭配决定用哪一义。",
+        "sourceId": "lex",
+        "kind": "modern_connection"
+      },
+      {
+        "title": "回到本句",
+        "text": "对评审前承诺仍有疑虑。have reservations 表明支持仍有保留，about committing before the review 指明疑虑所在。",
+        "sourceId": "lex",
+        "kind": "current_use"
+      }
+    ],
+    "limitations": [],
+    "exampleEvidence": {
+      "status": "author_checked_pending_independent_review",
+      "note": "既有学习例句与Oxford当前词义相符；不是来源逐字引用，来源不证明例句所述事件真实。",
+      "items": [
+        {
+          "en": "I have reservations about committing before the review.",
+          "sourceId": "lex",
+          "basis": "尚未消除的保留意见或疑虑"
+        },
+        {
+          "en": "She expressed reservations about the estimate.",
+          "sourceId": "lex",
+          "basis": "尚未消除的保留意见或疑虑"
+        }
+      ]
+    }
+  },
+  {
+    "cardId": "V20261012-054",
+    "writer": "whole50-author2",
+    "headword": {
+      "ipa": "/ˌræʃəˈnɑːl/",
+      "pos": "n.",
+      "chunk": "explain the rationale",
+      "ipaNote": "采用 Oxford 条目的英式读音；与旧卡美式音标不同属口音统一。",
+      "chunkNote": "沿用原学习卡搭配；搭配可由本词义构成，不声称每个搭配均为词典逐字例句。"
+    },
+    "sources": [
+      {
+        "id": "lex",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/rationale",
+        "title": "Oxford Learner’s Dictionaries · rationale",
+        "section": "Pronunciation; definitions; grammar patterns and examples",
+        "evidence": "rationale: 本句采用的词义为某项决定或方案背后的理由；读音 /ˌræʃəˈnɑːl/。页面提供相应词性及搭配。",
+        "retrievalStatus": "full_page",
+        "accessedAt": "2026-11-03",
+        "publisher": "Oxford University Press"
+      },
+      {
+        "id": "history",
+        "url": "https://www.etymonline.com/word/rationale",
+        "title": "Online Etymology Dictionary · rationale",
+        "section": "Etymology entry; related word links where shown",
+        "evidence": "rationale 来自后期拉丁语，与 rationalis（与理性、理由有关）相连。英语用它表示对原则或理由的说明；相关词 rational 是形容词，不能与这个名词互换。",
+        "retrievalStatus": "full_page",
+        "accessedAt": "2026-11-03",
+        "publisher": "Online Etymology Dictionary"
+      }
+    ],
+    "examples": [
+      {
+        "en": "Could you explain the rationale for changing the priority?",
+        "zh": "你能解释改变优先级的理由吗？",
+        "kind": "existing_public_learning_example"
+      },
+      {
+        "en": "Record the rationale for each exception.",
+        "zh": "记录每项例外的理由。",
+        "kind": "existing_public_learning_example"
+      }
+    ],
+    "etymology": [
+      {
+        "title": "词源线索",
+        "text": "rationale 来自后期拉丁语，与 rationalis（与理性、理由有关）相连。英语用它表示对原则或理由的说明；相关词 rational 是形容词，不能与这个名词互换。",
+        "sourceId": "history",
+        "kind": "historical_fact"
+      },
+      {
+        "title": "联系今天的意思",
+        "text": "用 rational（有理据的）联系 rationale（给决定提供的理据）。这个词帮助追问为什么这样做；给出了理由，还需要看理由是否站得住脚。",
+        "sourceId": "lex",
+        "kind": "modern_connection"
+      },
+      {
+        "title": "回到本句",
+        "text": "追问更改优先级背后的理由。Could you explain 是请求说明，rationale 把问题从改了什么转到为何这样改。",
+        "sourceId": "lex",
+        "kind": "current_use"
+      }
+    ],
+    "limitations": [],
+    "exampleEvidence": {
+      "status": "author_checked_pending_independent_review",
+      "note": "既有学习例句与Oxford当前词义相符；不是来源逐字引用，来源不证明例句所述事件真实。",
+      "items": [
+        {
+          "en": "Could you explain the rationale for changing the priority?",
+          "sourceId": "lex",
+          "basis": "某项决定或方案背后的理由"
+        },
+        {
+          "en": "Record the rationale for each exception.",
+          "sourceId": "lex",
+          "basis": "某项决定或方案背后的理由"
+        }
+      ]
+    }
+  },
+  {
+    "cardId": "V20261012-055",
+    "writer": "whole50_author3",
+    "etymology": [
+      {
+        "title": "历史来源：把想法提出供人考虑",
+        "text": "proposal 由 propose 加名词后缀 -al 构成。propose 的来历与“向前放、提出”有关，英语中形成了把计划拿出来供人考虑的用法。这里的 -al 构成名词，并非所有以 -al 结尾的词都按同一方式拆解。",
+        "sourceId": "etym",
+        "kind": "historical_fact"
+      },
+      {
+        "title": "现代联系：摆出来的方案",
+        "text": "可以把 proposal 想成摆到讨论桌上的方案：别人可以查看、提出问题、接受或拒绝。重点在于供人考虑，不在纸张厚薄；一句口头建议也可能叫 proposal，不一定是一份长文档。",
+        "sourceId": "lex",
+        "kind": "modern_connection"
+      },
+      {
+        "title": "回到本句：先审阅，再讨论",
+        "text": "review a proposal 是审阅方案。原句要求在明天讨论前看过它，让后面的交流有具体内容可谈。review 说的是阅读和评估，不能仅凭这个动作就当成已经 approve，批准。",
+        "sourceId": "lex",
+        "kind": "current_use"
+      }
+    ],
+    "sources": [
+      {
+        "id": "etym",
+        "url": "https://www.etymonline.com/word/proposal",
+        "title": "Etymonline — proposal",
+        "section": "Origin and history; main headword",
+        "retrievalStatus": "full_page",
+        "evidence": "proposal为propose加名词后缀-al，1650年代记录供接受的方案义；关联propose来自古法语proposer，含提出供考虑义。",
+        "accessedAt": "2026-11-03"
+      },
+      {
+        "id": "lex",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/proposal",
+        "title": "Oxford Advanced Learner’s Dictionary — proposal",
+        "section": "pronunciation; sense 1 and collocations",
+        "retrievalStatus": "full_page",
+        "evidence": "/prəˈpəʊzl/；名词可数/不可数，表示正式建议或计划，亦指提出建议行为；列submit/present/consider/discuss/approve/reject a proposal。",
+        "accessedAt": "2026-11-03"
+      }
+    ],
+    "headword": {
+      "ipa": "prəˈpəʊzl",
+      "ipaNote": "本预览统一采用Oxford英式宽式音标；未改正式词库。",
+      "pos": "n.（本句可数）",
+      "chunk": "review a proposal"
+    },
+    "examples": [
+      {
+        "en": "Please review the proposal before tomorrow's discussion.",
+        "zh": "请在明天讨论前审阅提案。",
+        "kind": "existing_public_learning_example"
+      },
+      {
+        "en": "The proposal includes a training budget.",
+        "zh": "提案包含培训预算。",
+        "kind": "existing_public_learning_example"
+      }
+    ],
+    "limitations": [
+      "古法语构词解释用于说明历史联系；现代proposal是否正式或书面由语境决定。"
+    ]
+  },
+  {
+    "cardId": "V20261012-056",
+    "writer": "whole50_author3",
+    "headword": {
+      "ipa": "ɔːlˈtɜːnətɪv",
+      "pos": "n.",
+      "chunk": "consider an alternative",
+      "ipaNote": "Oxford英式音标；按当前词性核对。"
+    },
+    "examples": [
+      {
+        "en": "We should consider an alternative if the date is too tight.",
+        "zh": "如果日期过紧，我们应考虑替代方案。",
+        "kind": "existing_public_learning_example"
+      },
+      {
+        "en": "We need a cheaper alternative.",
+        "zh": "我们需要一个成本更低的替代方案。",
+        "kind": "existing_public_learning_example"
+      }
+    ],
+    "etymology": [
+      {
+        "kind": "historical_fact",
+        "title": "历史来源与边界",
+        "text": "alternative 经中世纪拉丁语而来，相关的 alter 表示“另一个”，alternare 涉及交替。英语后来用名词 alternative 谈可选择的另一条行动路线；今天并不限于恰好两个选项。",
+        "sourceId": "etym"
+      },
+      {
+        "kind": "modern_connection",
+        "title": "用现代联系帮助理解",
+        "text": "把它和“还有另一条路吗？”联系起来。另一条路可以替代当前安排，但有没有更便宜、更快，需要继续比较；alternative 本身只告诉我们有另一个可选方向。",
+        "sourceId": "lex"
+      },
+      {
+        "kind": "current_use",
+        "title": "回到当前句子",
+        "text": "当前安排太紧时，alternative 是另一个可考虑的选择。比如原日期做不到，可以考虑别的日期，也可以另拟做法；这个词没有替你决定具体换哪一项。",
+        "sourceId": "lex"
+      }
+    ],
+    "sources": [
+      {
+        "id": "lex",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/alternative_1",
+        "title": "Oxford · alternative",
+        "publisher": "Oxford University Press",
+        "accessedAt": "2026-11-03",
+        "section": "Headword, part of speech, current contextual sense and usage patterns",
+        "retrievalStatus": "full_page",
+        "evidence": "alternative本句义：可替代目前选择的另一个选项。核对n.和consider an alternative；相关义项：另见extra条目。中文与英文定义为原创转述。",
+        "supportedClaims": [
+          "alternative本句义：可替代目前选择的另一个选项。核对n.和consider an alternative；相关义项：另见extra条目。中文与英文定义为原创转述。"
+        ],
+        "summaryZh": "alternative本句义：可替代目前选择的另一个选项。核对n.和consider an alternative；相关义项：另见extra条目。中文与英文定义为原创转述。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创教学转述及链接；不复制词典全文"
+      },
+      {
+        "id": "extra",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/alternative_2",
+        "title": "Oxford · alternative (adj.)",
+        "publisher": "Oxford University Press",
+        "accessedAt": "2026-11-03",
+        "section": "Headword, part of speech and additional sense",
+        "retrievalStatus": "full_page",
+        "evidence": "非传统的；不同于通常做法的；different from the usual or conventional approach",
+        "supportedClaims": [
+          "非传统的；不同于通常做法的；different from the usual or conventional approach"
+        ],
+        "summaryZh": "非传统的；不同于通常做法的；different from the usual or conventional approach",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创教学转述及链接；不复制词典全文"
+      },
+      {
+        "id": "etym",
+        "url": "https://www.etymonline.com/word/alternative",
+        "title": "Etymonline · alternative",
+        "publisher": "Etymonline",
+        "accessedAt": "2026-11-03",
+        "section": "Headword origin paragraph and historical senses",
+        "retrievalStatus": "full_page",
+        "evidence": "alternative 经中世纪拉丁语而来，相关的 alter 表示“另一个”，alternare 涉及交替。英语后来用名词 alternative 谈可选择的另一条行动路线；今天并不限于恰好两个选项。",
+        "supportedClaims": [
+          "alternative 经中世纪拉丁语而来，相关的 alter 表示“另一个”，alternare 涉及交替。英语后来用名词 alternative 谈可选择的另一条行动路线；今天并不限于恰好两个选项。"
+        ],
+        "summaryZh": "alternative 经中世纪拉丁语而来，相关的 alter 表示“另一个”，alternare 涉及交替。英语后来用名词 alternative 谈可选择的另一条行动路线；今天并不限于恰好两个选项。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创教学转述及链接；不复制词典全文"
+      }
+    ],
+    "limitations": [
+      "词源历史与现代教学联系分开；短语不虚构整体首见年代。",
+      "音标为字典宽式学习标注；实际句重音随语境变化。"
+    ]
+  },
+  {
+    "cardId": "V20261012-057",
+    "writer": "whole50_author3",
+    "headword": {
+      "ipa": "ˈkɒmprəmaɪz",
+      "pos": "n.",
+      "chunk": "reach a compromise",
+      "ipaNote": "Oxford英式音标；按当前词性核对。"
+    },
+    "examples": [
+      {
+        "en": "We reached a compromise on the review schedule.",
+        "zh": "我们就评审时间表达成了折中方案。",
+        "kind": "existing_public_learning_example"
+      },
+      {
+        "en": "The compromise satisfied both departments.",
+        "zh": "折中方案让两个部门都满意。",
+        "kind": "existing_public_learning_example"
+      }
+    ],
+    "etymology": [
+      {
+        "kind": "historical_fact",
+        "title": "历史来源与边界",
+        "text": "compromise 早期指双方共同承诺遵守仲裁者的决定，来历与拉丁语“共同作出承诺”有关。后来它也指双方让步后达成的和解及其结果，不只是某一方单独退让。",
+        "sourceId": "etym"
+      },
+      {
+        "kind": "modern_connection",
+        "title": "用现代联系帮助理解",
+        "text": "可以想成两个人各把要求往中间移一点，找到都能接受的安排。这是理解现代折中义的图像，不表示每次让步必须完全对等，也不表示所有事情都适合折中。",
+        "sourceId": "lex"
+      },
+      {
+        "kind": "current_use",
+        "title": "回到当前句子",
+        "text": "本句说双方已经谈成一个折中安排。比如一方想周一评审，另一方想周五，最后接受周三；重点是各自调整要求后取得一致，而不是争论谁完全获胜。",
+        "sourceId": "lex"
+      }
+    ],
+    "sources": [
+      {
+        "id": "lex",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/compromise_1",
+        "title": "Oxford · compromise",
+        "publisher": "Oxford University Press",
+        "accessedAt": "2026-11-03",
+        "section": "Headword, part of speech, current contextual sense and usage patterns",
+        "retrievalStatus": "full_page",
+        "evidence": "compromise本句义：各方作出部分让步后达成的安排。核对n.和reach a compromise；相关义项：另见extra条目。中文与英文定义为原创转述。",
+        "supportedClaims": [
+          "compromise本句义：各方作出部分让步后达成的安排。核对n.和reach a compromise；相关义项：另见extra条目。中文与英文定义为原创转述。"
+        ],
+        "summaryZh": "compromise本句义：各方作出部分让步后达成的安排。核对n.和reach a compromise；相关义项：另见extra条目。中文与英文定义为原创转述。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创教学转述及链接；不复制词典全文"
+      },
+      {
+        "id": "extra",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/compromise_2",
+        "title": "Oxford · compromise (v.)",
+        "publisher": "Oxford University Press",
+        "accessedAt": "2026-11-03",
+        "section": "Headword, part of speech and additional sense",
+        "retrievalStatus": "full_page",
+        "evidence": "危及；损害；put something valuable at risk or reduce its quality",
+        "supportedClaims": [
+          "危及；损害；put something valuable at risk or reduce its quality"
+        ],
+        "summaryZh": "危及；损害；put something valuable at risk or reduce its quality",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创教学转述及链接；不复制词典全文"
+      },
+      {
+        "id": "etym",
+        "url": "https://www.etymonline.com/word/compromise",
+        "title": "Etymonline · compromise",
+        "publisher": "Etymonline",
+        "accessedAt": "2026-11-03",
+        "section": "Headword origin paragraph and historical senses",
+        "retrievalStatus": "full_page",
+        "evidence": "compromise 早期指双方共同承诺遵守仲裁者的决定，来历与拉丁语“共同作出承诺”有关。后来它也指双方让步后达成的和解及其结果，不只是某一方单独退让。",
+        "supportedClaims": [
+          "compromise 早期指双方共同承诺遵守仲裁者的决定，来历与拉丁语“共同作出承诺”有关。后来它也指双方让步后达成的和解及其结果，不只是某一方单独退让。"
+        ],
+        "summaryZh": "compromise 早期指双方共同承诺遵守仲裁者的决定，来历与拉丁语“共同作出承诺”有关。后来它也指双方让步后达成的和解及其结果，不只是某一方单独退让。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创教学转述及链接；不复制词典全文"
+      }
+    ],
+    "limitations": [
+      "词源历史与现代教学联系分开；短语不虚构整体首见年代。",
+      "音标为字典宽式学习标注；实际句重音随语境变化。"
+    ]
+  },
+  {
+    "cardId": "V20261012-058",
+    "writer": "whole50_author3",
+    "headword": {
+      "ipa": "nɪˈɡəʊʃieɪt",
+      "pos": "v.",
+      "chunk": "negotiate a deadline",
+      "ipaNote": "Oxford英式音标；按当前词性核对。"
+    },
+    "examples": [
+      {
+        "en": "We may need to negotiate a more realistic deadline.",
+        "zh": "我们可能需要协商更实际的截止期限。",
+        "kind": "existing_public_learning_example"
+      },
+      {
+        "en": "They negotiated a longer warranty.",
+        "zh": "他们谈妥了更长的保修期。",
+        "kind": "existing_public_learning_example"
+      }
+    ],
+    "etymology": [
+      {
+        "kind": "historical_fact",
+        "title": "历史来源与边界",
+        "text": "negotiate 的来历与拉丁语 negotiari“处理事务、做生意”有关；更早的 negotium 是事务，字面构成为“非闲暇”。这说明历史背景，不意味着现代 negotiate 可译为一切忙碌活动。",
+        "sourceId": "etym"
+      },
+      {
+        "kind": "modern_connection",
+        "title": "用现代联系帮助理解",
+        "text": "做生意或处理安排时，双方常要拿条件来回讨论。可以借这一过程记 negotiate：不是单方面宣布要求，而是讨论能接受什么。词源提供联系，实际用法仍要看谈的对象。",
+        "sourceId": "lex"
+      },
+      {
+        "kind": "current_use",
+        "title": "回到当前句子",
+        "text": "negotiate a deadline 是把截止时间拿来协商，争取一个双方可接受的安排。你可以说明现日期哪里不现实，再讨论能否延后或调整条件；它比单纯告知日期多了协商这一步。",
+        "sourceId": "lex"
+      }
+    ],
+    "sources": [
+      {
+        "id": "lex",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/negotiate",
+        "title": "Oxford · negotiate",
+        "publisher": "Oxford University Press",
+        "accessedAt": "2026-11-03",
+        "section": "Headword, part of speech, current contextual sense and usage patterns",
+        "retrievalStatus": "full_page",
+        "evidence": "negotiate本句义：与另一方讨论条件以争取达成协议。核对v.和negotiate a deadline；相关义项：设法通过困难路段或障碍。中文与英文定义为原创转述。",
+        "supportedClaims": [
+          "negotiate本句义：与另一方讨论条件以争取达成协议。核对v.和negotiate a deadline；相关义项：设法通过困难路段或障碍。中文与英文定义为原创转述。"
+        ],
+        "summaryZh": "negotiate本句义：与另一方讨论条件以争取达成协议。核对v.和negotiate a deadline；相关义项：设法通过困难路段或障碍。中文与英文定义为原创转述。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创教学转述及链接；不复制词典全文"
+      },
+      {
+        "id": "etym",
+        "url": "https://www.etymonline.com/word/negotiate",
+        "title": "Etymonline · negotiate",
+        "publisher": "Etymonline",
+        "accessedAt": "2026-11-03",
+        "section": "Headword origin paragraph and historical senses",
+        "retrievalStatus": "full_page",
+        "evidence": "negotiate 的来历与拉丁语 negotiari“处理事务、做生意”有关；更早的 negotium 是事务，字面构成为“非闲暇”。这说明历史背景，不意味着现代 negotiate 可译为一切忙碌活动。",
+        "supportedClaims": [
+          "negotiate 的来历与拉丁语 negotiari“处理事务、做生意”有关；更早的 negotium 是事务，字面构成为“非闲暇”。这说明历史背景，不意味着现代 negotiate 可译为一切忙碌活动。"
+        ],
+        "summaryZh": "negotiate 的来历与拉丁语 negotiari“处理事务、做生意”有关；更早的 negotium 是事务，字面构成为“非闲暇”。这说明历史背景，不意味着现代 negotiate 可译为一切忙碌活动。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创教学转述及链接；不复制词典全文"
+      }
+    ],
+    "limitations": [
+      "词源历史与现代教学联系分开；短语不虚构整体首见年代。",
+      "音标为字典宽式学习标注；实际句重音随语境变化。"
+    ]
+  },
+  {
+    "cardId": "V20261012-059",
+    "writer": "whole50_author3",
+    "headword": {
+      "ipa": "kənˈkluːd",
+      "pos": "v.",
+      "chunk": "conclude a meeting",
+      "ipaNote": "Oxford英式音标；按当前词性核对。"
+    },
+    "examples": [
+      {
+        "en": "Let's conclude the meeting by confirming the next steps.",
+        "zh": "我们以确认后续步骤来结束会议吧。",
+        "kind": "existing_public_learning_example"
+      },
+      {
+        "en": "We concluded that repairs were necessary.",
+        "zh": "我们得出结论，维修是必要的。",
+        "kind": "existing_public_learning_example"
+      }
+    ],
+    "etymology": [
+      {
+        "kind": "historical_fact",
+        "title": "历史来源与边界",
+        "text": "conclude 来自拉丁语 concludere，与“关闭、围住”有关。英语很早就有结束以及经推理得出结论的用法；两种现代义都存在，不能见到 conclude 就一律译成“总结”。",
+        "sourceId": "etym"
+      },
+      {
+        "kind": "modern_connection",
+        "title": "用现代联系帮助理解",
+        "text": "可以把一次讨论想成一段需要有结尾的过程。conclude the meeting 是使会议结束；conclude that… 则把思考收束为一个判断。这个对照帮助选义，不是把所有历史用法排成一条推导线。",
+        "sourceId": "lex"
+      },
+      {
+        "kind": "current_use",
+        "title": "回到当前句子",
+        "text": "本句的 conclude 是结束会议。后面的 by confirming the next steps 说明怎样结束：先把下一步说清楚，再散会。这里没有 that 从句，所以不是在说“得出某个结论”。",
+        "sourceId": "lex"
+      }
+    ],
+    "sources": [
+      {
+        "id": "lex",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/conclude",
+        "title": "Oxford · conclude",
+        "publisher": "Oxford University Press",
+        "accessedAt": "2026-11-03",
+        "section": "Headword, part of speech, current contextual sense and usage patterns",
+        "retrievalStatus": "full_page",
+        "evidence": "conclude本句义：使会议、讲话或讨论结束。核对v.和conclude a meeting；相关义项：根据证据得出结论。中文与英文定义为原创转述。",
+        "supportedClaims": [
+          "conclude本句义：使会议、讲话或讨论结束。核对v.和conclude a meeting；相关义项：根据证据得出结论。中文与英文定义为原创转述。"
+        ],
+        "summaryZh": "conclude本句义：使会议、讲话或讨论结束。核对v.和conclude a meeting；相关义项：根据证据得出结论。中文与英文定义为原创转述。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创教学转述及链接；不复制词典全文"
+      },
+      {
+        "id": "etym",
+        "url": "https://www.etymonline.com/word/conclude",
+        "title": "Etymonline · conclude",
+        "publisher": "Etymonline",
+        "accessedAt": "2026-11-03",
+        "section": "Headword origin paragraph and historical senses",
+        "retrievalStatus": "full_page",
+        "evidence": "conclude 来自拉丁语 concludere，与“关闭、围住”有关。英语很早就有结束以及经推理得出结论的用法；两种现代义都存在，不能见到 conclude 就一律译成“总结”。",
+        "supportedClaims": [
+          "conclude 来自拉丁语 concludere，与“关闭、围住”有关。英语很早就有结束以及经推理得出结论的用法；两种现代义都存在，不能见到 conclude 就一律译成“总结”。"
+        ],
+        "summaryZh": "conclude 来自拉丁语 concludere，与“关闭、围住”有关。英语很早就有结束以及经推理得出结论的用法；两种现代义都存在，不能见到 conclude 就一律译成“总结”。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创教学转述及链接；不复制词典全文"
+      }
+    ],
+    "limitations": [
+      "词源历史与现代教学联系分开；短语不虚构整体首见年代。",
+      "音标为字典宽式学习标注；实际句重音随语境变化。"
+    ]
+  },
+  {
+    "cardId": "V20261012-060",
+    "writer": "whole50_author3",
+    "headword": {
+      "ipa": "ˈdɒkjument",
+      "pos": "v.",
+      "chunk": "document a decision",
+      "ipaNote": "Oxford英式音标；按当前词性核对。"
+    },
+    "examples": [
+      {
+        "en": "Please document the decision and the reason behind it.",
+        "zh": "请记录决定及其背后的理由。",
+        "kind": "existing_public_learning_example"
+      },
+      {
+        "en": "Document every approved design change.",
+        "zh": "记录每项获批的设计变更。",
+        "kind": "existing_public_learning_example"
+      }
+    ],
+    "etymology": [
+      {
+        "kind": "historical_fact",
+        "title": "历史来源与边界",
+        "text": "document 与拉丁语 documentum 有关，早期含例证、教导、证明等意义。英语后来用名词指提供信息或证据的文件，也用动词表示用材料记录或证明。今天的动词不要求一定写在纸上。",
+        "sourceId": "etym"
+      },
+      {
+        "kind": "modern_connection",
+        "title": "用现代联系帮助理解",
+        "text": "名词 a document 是一份记录材料，动词 document 是把事情留下可查的记录。可以想成把一次口头决定变成以后能查到的内容；形式可能是文字，也可以是照片等材料。",
+        "sourceId": "lex"
+      },
+      {
+        "kind": "current_use",
+        "title": "回到当前句子",
+        "text": "这里的 document 是动词，要求把决定和理由记录下来。只写“同意修改”还不够，本句还希望读者以后知道为什么改；核心是留下可追溯内容，而不是把文件排得漂亮。",
+        "sourceId": "lex"
+      }
+    ],
+    "sources": [
+      {
+        "id": "lex",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/document_2",
+        "title": "Oxford · document",
+        "publisher": "Oxford University Press",
+        "accessedAt": "2026-11-03",
+        "section": "Headword, part of speech, current contextual sense and usage patterns",
+        "retrievalStatus": "full_page",
+        "evidence": "document本句义：把信息、事件或过程记录下来。核对v.和document a decision；相关义项：另见extra条目。中文与英文定义为原创转述。",
+        "supportedClaims": [
+          "document本句义：把信息、事件或过程记录下来。核对v.和document a decision；相关义项：另见extra条目。中文与英文定义为原创转述。"
+        ],
+        "summaryZh": "document本句义：把信息、事件或过程记录下来。核对v.和document a decision；相关义项：另见extra条目。中文与英文定义为原创转述。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创教学转述及链接；不复制词典全文"
+      },
+      {
+        "id": "extra",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/document_1",
+        "title": "Oxford · document (n.)",
+        "publisher": "Oxford University Press",
+        "accessedAt": "2026-11-03",
+        "section": "Headword, part of speech and additional sense",
+        "retrievalStatus": "full_page",
+        "evidence": "文件；保存信息的书面或电子材料；a written or electronic item that holds information",
+        "supportedClaims": [
+          "文件；保存信息的书面或电子材料；a written or electronic item that holds information"
+        ],
+        "summaryZh": "文件；保存信息的书面或电子材料；a written or electronic item that holds information",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创教学转述及链接；不复制词典全文"
+      },
+      {
+        "id": "etym",
+        "url": "https://www.etymonline.com/word/document",
+        "title": "Etymonline · document",
+        "publisher": "Etymonline",
+        "accessedAt": "2026-11-03",
+        "section": "Headword origin paragraph and historical senses",
+        "retrievalStatus": "full_page",
+        "evidence": "document 与拉丁语 documentum 有关，早期含例证、教导、证明等意义。英语后来用名词指提供信息或证据的文件，也用动词表示用材料记录或证明。今天的动词不要求一定写在纸上。",
+        "supportedClaims": [
+          "document 与拉丁语 documentum 有关，早期含例证、教导、证明等意义。英语后来用名词指提供信息或证据的文件，也用动词表示用材料记录或证明。今天的动词不要求一定写在纸上。"
+        ],
+        "summaryZh": "document 与拉丁语 documentum 有关，早期含例证、教导、证明等意义。英语后来用名词指提供信息或证据的文件，也用动词表示用材料记录或证明。今天的动词不要求一定写在纸上。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创教学转述及链接；不复制词典全文"
+      }
+    ],
+    "limitations": [
+      "词源历史与现代教学联系分开；短语不虚构整体首见年代。",
+      "音标为字典宽式学习标注；实际句重音随语境变化。"
+    ]
+  },
+  {
+    "cardId": "V20261012-061",
+    "writer": "whole50_author3",
+    "headword": {
+      "ipa": "ˈfɒləʊ ʌp",
+      "pos": "短语动词",
+      "chunk": "follow up on an action",
+      "ipaNote": "英式组成词宽式标注；已核对Oxford组成词和小品词音标，非整短语录音或固定句重音。"
+    },
+    "examples": [
+      {
+        "en": "I'll follow up on the open action tomorrow.",
+        "zh": "我明天会跟进这项未结行动。",
+        "kind": "existing_public_learning_example"
+      },
+      {
+        "en": "Please follow up with the inspector.",
+        "zh": "请向检查员跟进。",
+        "kind": "existing_public_learning_example"
+      }
+    ],
+    "etymology": [
+      {
+        "kind": "historical_fact",
+        "title": "历史来源与边界",
+        "text": "follow 来自古英语，已有跟随、伴随等意思；后来也表示时间上接在后面。这里考证的是 follow 这个组成词，不把它的年代当作 follow up 这一工作表达的起源时间。",
+        "sourceId": "etym"
+      },
+      {
+        "kind": "modern_connection",
+        "title": "用现代联系帮助理解",
+        "text": "一件事做过之后，再接着问进展、补资料或采取下一步，就是容易理解的 follow up 图像。重点是前面已经有事情可接续，不是毫无前情地重新开一个话题。",
+        "sourceId": "lex"
+      },
+      {
+        "kind": "current_use",
+        "title": "回到当前句子",
+        "text": "follow up 是对已经提出或开始的事情继续处理。本句的 open action 是尚未完成的行动项，明天要继续查它的进展；只是发起第一次联系，通常还谈不上这层“后续”。",
+        "sourceId": "lex"
+      }
+    ],
+    "sources": [
+      {
+        "id": "lex",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/follow-up_1",
+        "title": "Oxford · follow up",
+        "publisher": "Oxford University Press",
+        "accessedAt": "2026-11-03",
+        "section": "Headword, part of speech, current contextual sense and usage patterns",
+        "retrievalStatus": "full_page",
+        "evidence": "follow up本句义：对已经开始的事项继续采取行动或查问。核对短语动词和follow up on an action；相关义项：另见extra条目。中文与英文定义为原创转述。",
+        "supportedClaims": [
+          "follow up本句义：对已经开始的事项继续采取行动或查问。核对短语动词和follow up on an action；相关义项：另见extra条目。中文与英文定义为原创转述。"
+        ],
+        "summaryZh": "follow up本句义：对已经开始的事项继续采取行动或查问。核对短语动词和follow up on an action；相关义项：另见extra条目。中文与英文定义为原创转述。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创教学转述及链接；不复制词典全文"
+      },
+      {
+        "id": "extra",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/follow-up_2",
+        "title": "Oxford · follow-up (adj.)",
+        "publisher": "Oxford University Press",
+        "accessedAt": "2026-11-03",
+        "section": "Headword, part of speech and additional sense",
+        "retrievalStatus": "full_page",
+        "evidence": "后续的；用于继续了解或处理的；done later to continue or check earlier work",
+        "supportedClaims": [
+          "后续的；用于继续了解或处理的；done later to continue or check earlier work"
+        ],
+        "summaryZh": "后续的；用于继续了解或处理的；done later to continue or check earlier work",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创教学转述及链接；不复制词典全文"
+      },
+      {
+        "id": "component",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/follow",
+        "title": "Oxford · follow",
+        "publisher": "Oxford University Press",
+        "accessedAt": "2026-11-03",
+        "section": "Headword British IPA and base verb sense",
+        "retrievalStatus": "full_page",
+        "evidence": "跟随；在后面继续；本页英式音标已核对。组成词联系不代替整体短语义。",
+        "supportedClaims": [
+          "跟随；在后面继续；本页英式音标已核对。组成词联系不代替整体短语义。"
+        ],
+        "summaryZh": "跟随；在后面继续；本页英式音标已核对。组成词联系不代替整体短语义。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创教学转述及链接；不复制词典全文"
+      },
+      {
+        "id": "particle",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/up_1",
+        "title": "Oxford · up",
+        "publisher": "Oxford University Press",
+        "accessedAt": "2026-11-03",
+        "section": "Headword British IPA and phrasal-verb lookup note",
+        "retrievalStatus": "full_page",
+        "evidence": "up英式音标/ʌp/；具体短语义应查动词词条，不能逐字翻译。",
+        "supportedClaims": [
+          "up英式音标/ʌp/；具体短语义应查动词词条，不能逐字翻译。"
+        ],
+        "summaryZh": "up英式音标/ʌp/；具体短语义应查动词词条，不能逐字翻译。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创教学转述及链接；不复制词典全文"
+      },
+      {
+        "id": "grammar",
+        "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/phrasal-verbs",
+        "title": "British Council · Phrasal verbs",
+        "publisher": "British Council",
+        "accessedAt": "2026-11-03",
+        "section": "Phrasal verbs: meaning and separable word order",
+        "retrievalStatus": "full_page",
+        "evidence": "动词与小品词组成整体；可分短语中代词位置；具体义项仍按对应词典。",
+        "supportedClaims": [
+          "动词与小品词组成整体；可分短语中代词位置；具体义项仍按对应词典。"
+        ],
+        "summaryZh": "动词与小品词组成整体；可分短语中代词位置；具体义项仍按对应词典。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创教学转述及链接；不复制词典全文"
+      },
+      {
+        "id": "etym",
+        "url": "https://www.etymonline.com/word/follow",
+        "title": "Etymonline · follow",
+        "publisher": "Etymonline",
+        "accessedAt": "2026-11-03",
+        "section": "Headword origin paragraph and historical senses",
+        "retrievalStatus": "full_page",
+        "evidence": "follow 来自古英语，已有跟随、伴随等意思；后来也表示时间上接在后面。这里考证的是 follow 这个组成词，不把它的年代当作 follow up 这一工作表达的起源时间。",
+        "supportedClaims": [
+          "follow 来自古英语，已有跟随、伴随等意思；后来也表示时间上接在后面。这里考证的是 follow 这个组成词，不把它的年代当作 follow up 这一工作表达的起源时间。"
+        ],
+        "summaryZh": "follow 来自古英语，已有跟随、伴随等意思；后来也表示时间上接在后面。这里考证的是 follow 这个组成词，不把它的年代当作 follow up 这一工作表达的起源时间。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创教学转述及链接；不复制词典全文"
+      }
+    ],
+    "limitations": [
+      "词源历史与现代教学联系分开；短语不虚构整体首见年代。",
+      "音标为字典宽式学习标注；实际句重音随语境变化。"
+    ]
+  },
+  {
+    "cardId": "V20261012-062",
+    "writer": "whole50_author3",
+    "headword": {
+      "ipa": "brɪŋ ʌp",
+      "pos": "短语动词",
+      "chunk": "bring up an issue",
+      "ipaNote": "英式组成词宽式标注；已核对Oxford组成词和小品词音标，非整短语录音或固定句重音。"
+    },
+    "examples": [
+      {
+        "en": "I'd like to bring up one issue before we finish.",
+        "zh": "结束前，我想提出一个问题。",
+        "kind": "existing_public_learning_example"
+      },
+      {
+        "en": "She brought up the staffing shortage.",
+        "zh": "她提出了人员短缺问题。",
+        "kind": "existing_public_learning_example"
+      }
+    ],
+    "etymology": [
+      {
+        "kind": "historical_fact",
+        "title": "历史来源与边界",
+        "text": "bring 来自古英语，含带来、呈现等用法。Etymonline另记录 bring up 的养育义早于“提出来供考虑”的义项；这说明同一个短语可以发展出不同用途，不能把它们都译成“向上带”。",
+        "sourceId": "etym"
+      },
+      {
+        "kind": "modern_connection",
+        "title": "用现代联系帮助理解",
+        "text": "谈话时，把原本还没谈的事项带进大家的注意中，可以帮助记住 bring up an issue。这个画面是现代学习联系；养育孩子的 bring up 是另一个义项，要靠宾语判断。",
+        "sourceId": "lex"
+      },
+      {
+        "kind": "current_use",
+        "title": "回到当前句子",
+        "text": "bring up an issue 是把问题提出，让大家开始注意或讨论。本句想在结束前补提一件事；它只表示把议题带进来，还没有保证当场解决。",
+        "sourceId": "lex"
+      }
+    ],
+    "sources": [
+      {
+        "id": "lex",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/bring-up",
+        "title": "Oxford · bring up",
+        "publisher": "Oxford University Press",
+        "accessedAt": "2026-11-03",
+        "section": "Headword, part of speech, current contextual sense and usage patterns",
+        "retrievalStatus": "full_page",
+        "evidence": "bring up本句义：在交谈中提出某个话题。核对短语动词和bring up an issue；相关义项：抚养；养育孩子。中文与英文定义为原创转述。",
+        "supportedClaims": [
+          "bring up本句义：在交谈中提出某个话题。核对短语动词和bring up an issue；相关义项：抚养；养育孩子。中文与英文定义为原创转述。"
+        ],
+        "summaryZh": "bring up本句义：在交谈中提出某个话题。核对短语动词和bring up an issue；相关义项：抚养；养育孩子。中文与英文定义为原创转述。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创教学转述及链接；不复制词典全文"
+      },
+      {
+        "id": "component",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/bring",
+        "title": "Oxford · bring",
+        "publisher": "Oxford University Press",
+        "accessedAt": "2026-11-03",
+        "section": "Headword British IPA and base verb sense",
+        "retrievalStatus": "full_page",
+        "evidence": "带来；带到某个地方；本页英式音标已核对。组成词联系不代替整体短语义。",
+        "supportedClaims": [
+          "带来；带到某个地方；本页英式音标已核对。组成词联系不代替整体短语义。"
+        ],
+        "summaryZh": "带来；带到某个地方；本页英式音标已核对。组成词联系不代替整体短语义。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创教学转述及链接；不复制词典全文"
+      },
+      {
+        "id": "particle",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/up_1",
+        "title": "Oxford · up",
+        "publisher": "Oxford University Press",
+        "accessedAt": "2026-11-03",
+        "section": "Headword British IPA and phrasal-verb lookup note",
+        "retrievalStatus": "full_page",
+        "evidence": "up英式音标/ʌp/；具体短语义应查动词词条，不能逐字翻译。",
+        "supportedClaims": [
+          "up英式音标/ʌp/；具体短语义应查动词词条，不能逐字翻译。"
+        ],
+        "summaryZh": "up英式音标/ʌp/；具体短语义应查动词词条，不能逐字翻译。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创教学转述及链接；不复制词典全文"
+      },
+      {
+        "id": "grammar",
+        "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/phrasal-verbs",
+        "title": "British Council · Phrasal verbs",
+        "publisher": "British Council",
+        "accessedAt": "2026-11-03",
+        "section": "Phrasal verbs: meaning and separable word order",
+        "retrievalStatus": "full_page",
+        "evidence": "动词与小品词组成整体；可分短语中代词位置；具体义项仍按对应词典。",
+        "supportedClaims": [
+          "动词与小品词组成整体；可分短语中代词位置；具体义项仍按对应词典。"
+        ],
+        "summaryZh": "动词与小品词组成整体；可分短语中代词位置；具体义项仍按对应词典。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创教学转述及链接；不复制词典全文"
+      },
+      {
+        "id": "etym",
+        "url": "https://www.etymonline.com/word/bring",
+        "title": "Etymonline · bring",
+        "publisher": "Etymonline",
+        "accessedAt": "2026-11-03",
+        "section": "Headword origin paragraph and historical senses",
+        "retrievalStatus": "full_page",
+        "evidence": "bring 来自古英语，含带来、呈现等用法。Etymonline另记录 bring up 的养育义早于“提出来供考虑”的义项；这说明同一个短语可以发展出不同用途，不能把它们都译成“向上带”。",
+        "supportedClaims": [
+          "bring 来自古英语，含带来、呈现等用法。Etymonline另记录 bring up 的养育义早于“提出来供考虑”的义项；这说明同一个短语可以发展出不同用途，不能把它们都译成“向上带”。"
+        ],
+        "summaryZh": "bring 来自古英语，含带来、呈现等用法。Etymonline另记录 bring up 的养育义早于“提出来供考虑”的义项；这说明同一个短语可以发展出不同用途，不能把它们都译成“向上带”。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创教学转述及链接；不复制词典全文"
+      }
+    ],
+    "limitations": [
+      "词源历史与现代教学联系分开；短语不虚构整体首见年代。",
+      "音标为字典宽式学习标注；实际句重音随语境变化。"
+    ]
+  },
+  {
+    "cardId": "V20261012-063",
+    "writer": "whole50_author3",
+    "headword": {
+      "ipa": "wɔːk θruː",
+      "pos": "短语动词",
+      "chunk": "walk someone through a plan",
+      "ipaNote": "英式组成词宽式标注；已核对Oxford组成词和小品词音标，非整短语录音或固定句重音。"
+    },
+    "examples": [
+      {
+        "en": "Could you walk us through the revised plan?",
+        "zh": "你能逐步向我们讲解修订计划吗？",
+        "kind": "existing_public_learning_example"
+      },
+      {
+        "en": "Walk me through the inspection process.",
+        "zh": "请逐步向我讲解检验流程。",
+        "kind": "existing_public_learning_example"
+      }
+    ],
+    "etymology": [
+      {
+        "kind": "historical_fact",
+        "title": "历史来源与边界",
+        "text": "walk 的“步行”用法在中古英语已有记录，更早相关形式的意义并不完全等于今天的走路。这里仅说明组成词背景；不能据此编出 walk someone through 某一年从走路变成讲解的故事。",
+        "sourceId": "etym"
+      },
+      {
+        "kind": "modern_connection",
+        "title": "用现代联系帮助理解",
+        "text": "可以想成你陪一个人沿流程走一遍：不是只指终点，而是一路说明每一步。through 给出从头到尾经过的图像；在工作表达里，实际动作是讲解或演示，不必真的走路。",
+        "sourceId": "lex"
+      },
+      {
+        "kind": "current_use",
+        "title": "回到当前句子",
+        "text": "walk someone through something 是带着对方一步一步了解过程。本句要求对方把修订后的计划讲一遍，重点是让听者跟上各步骤，而不只是说计划已经改好了。",
+        "sourceId": "lex"
+      }
+    ],
+    "sources": [
+      {
+        "id": "lex",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/walk-through_1",
+        "title": "Oxford · walk through",
+        "publisher": "Oxford University Press",
+        "accessedAt": "2026-11-04",
+        "section": "Headword, part of speech, current contextual sense and usage patterns",
+        "retrievalStatus": "full_page",
+        "evidence": "walk through本句义：按步骤向某人说明或演示一件事。核对短语动词和walk someone through a plan；相关义项：另见extra条目。中文与英文定义为原创转述。",
+        "supportedClaims": [
+          "walk through本句义：按步骤向某人说明或演示一件事。核对短语动词和walk someone through a plan；相关义项：另见extra条目。中文与英文定义为原创转述。"
+        ],
+        "summaryZh": "walk through本句义：按步骤向某人说明或演示一件事。核对短语动词和walk someone through a plan；相关义项：另见extra条目。中文与英文定义为原创转述。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创教学转述及链接；不复制词典全文"
+      },
+      {
+        "id": "extra",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/walk_1",
+        "title": "Oxford · walk (v.)",
+        "publisher": "Oxford University Press",
+        "accessedAt": "2026-11-03",
+        "section": "Headword, part of speech and additional sense",
+        "retrievalStatus": "full_page",
+        "evidence": "陪同某人步行到某处；go with someone on foot to a place",
+        "supportedClaims": [
+          "陪同某人步行到某处；go with someone on foot to a place"
+        ],
+        "summaryZh": "陪同某人步行到某处；go with someone on foot to a place",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创教学转述及链接；不复制词典全文"
+      },
+      {
+        "id": "component",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/walk_1",
+        "title": "Oxford · walk",
+        "publisher": "Oxford University Press",
+        "accessedAt": "2026-11-03",
+        "section": "Headword British IPA and base verb sense",
+        "retrievalStatus": "full_page",
+        "evidence": "步行；一步一步移动；本页英式音标已核对。组成词联系不代替整体短语义。",
+        "supportedClaims": [
+          "步行；一步一步移动；本页英式音标已核对。组成词联系不代替整体短语义。"
+        ],
+        "summaryZh": "步行；一步一步移动；本页英式音标已核对。组成词联系不代替整体短语义。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创教学转述及链接；不复制词典全文"
+      },
+      {
+        "id": "particle",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/through_1",
+        "title": "Oxford · through",
+        "publisher": "Oxford University Press",
+        "accessedAt": "2026-11-03",
+        "section": "Headword British IPA and phrasal-verb lookup note",
+        "retrievalStatus": "full_page",
+        "evidence": "through英式音标/θruː/；具体短语义应查动词词条，不能逐字翻译。",
+        "supportedClaims": [
+          "through英式音标/θruː/；具体短语义应查动词词条，不能逐字翻译。"
+        ],
+        "summaryZh": "through英式音标/θruː/；具体短语义应查动词词条，不能逐字翻译。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创教学转述及链接；不复制词典全文"
+      },
+      {
+        "id": "grammar",
+        "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/phrasal-verbs",
+        "title": "British Council · Phrasal verbs",
+        "publisher": "British Council",
+        "accessedAt": "2026-11-03",
+        "section": "Phrasal verbs: meaning and separable word order",
+        "retrievalStatus": "full_page",
+        "evidence": "动词与小品词组成整体；可分短语中代词位置；具体义项仍按对应词典。",
+        "supportedClaims": [
+          "动词与小品词组成整体；可分短语中代词位置；具体义项仍按对应词典。"
+        ],
+        "summaryZh": "动词与小品词组成整体；可分短语中代词位置；具体义项仍按对应词典。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创教学转述及链接；不复制词典全文"
+      },
+      {
+        "id": "etym",
+        "url": "https://www.etymonline.com/word/walk",
+        "title": "Etymonline · walk",
+        "publisher": "Etymonline",
+        "accessedAt": "2026-11-03",
+        "section": "Headword origin paragraph and historical senses",
+        "retrievalStatus": "full_page",
+        "evidence": "walk 的“步行”用法在中古英语已有记录，更早相关形式的意义并不完全等于今天的走路。这里仅说明组成词背景；不能据此编出 walk someone through 某一年从走路变成讲解的故事。",
+        "supportedClaims": [
+          "walk 的“步行”用法在中古英语已有记录，更早相关形式的意义并不完全等于今天的走路。这里仅说明组成词背景；不能据此编出 walk someone through 某一年从走路变成讲解的故事。"
+        ],
+        "summaryZh": "walk 的“步行”用法在中古英语已有记录，更早相关形式的意义并不完全等于今天的走路。这里仅说明组成词背景；不能据此编出 walk someone through 某一年从走路变成讲解的故事。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创教学转述及链接；不复制词典全文"
+      }
+    ],
+    "limitations": [
+      "词源历史与现代教学联系分开；短语不虚构整体首见年代。",
+      "音标为字典宽式学习标注；实际句重音随语境变化。"
+    ]
+  },
+  {
+    "cardId": "V20261012-064",
+    "writer": "whole50_author3",
+    "headword": {
+      "ipa": "pɔɪnt aʊt",
+      "pos": "短语动词",
+      "chunk": "point out a difference",
+      "ipaNote": "英式组成词宽式标注；已核对Oxford组成词和小品词音标，非整短语录音或固定句重音。"
+    },
+    "examples": [
+      {
+        "en": "Let me point out one difference between the two options.",
+        "zh": "让我指出两个方案间的一处差异。",
+        "kind": "existing_public_learning_example"
+      },
+      {
+        "en": "He pointed out a missing signature.",
+        "zh": "他指出少了一个签名。",
+        "kind": "existing_public_learning_example"
+      }
+    ],
+    "etymology": [
+      {
+        "kind": "historical_fact",
+        "title": "历史来源与边界",
+        "text": "point 的名词历史与拉丁语中刺出的点、尖端等意义有关，后来形成今天的多个名词和动词用法。这能说明词族背景，但不应直接把“尖端”推导成所有 point out 的语用效果。",
+        "sourceId": "etym"
+      },
+      {
+        "kind": "modern_connection",
+        "title": "用现代联系帮助理解",
+        "text": "可以从指着某个地方让人看，联想到用话语把注意力引到一项信息上。point out a difference 不要求用手指；关键是让对方注意到那个区别。",
+        "sourceId": "lex"
+      },
+      {
+        "kind": "current_use",
+        "title": "回到当前句子",
+        "text": "point out 是把一项信息特意指出来，让对方留意。本句要大家看到两个选项之间的一处差异；它可能是补充信息，不一定是在批评谁。",
+        "sourceId": "lex"
+      }
+    ],
+    "sources": [
+      {
+        "id": "lex",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/point-out",
+        "title": "Oxford · point out",
+        "publisher": "Oxford University Press",
+        "accessedAt": "2026-11-03",
+        "section": "Headword, part of speech, current contextual sense and usage patterns",
+        "retrievalStatus": "full_page",
+        "evidence": "point out本句义：提醒别人注意某条信息或细节。核对短语动词和point out a difference；相关义项：指出某人或某物的位置供辨认。中文与英文定义为原创转述。",
+        "supportedClaims": [
+          "point out本句义：提醒别人注意某条信息或细节。核对短语动词和point out a difference；相关义项：指出某人或某物的位置供辨认。中文与英文定义为原创转述。"
+        ],
+        "summaryZh": "point out本句义：提醒别人注意某条信息或细节。核对短语动词和point out a difference；相关义项：指出某人或某物的位置供辨认。中文与英文定义为原创转述。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创教学转述及链接；不复制词典全文"
+      },
+      {
+        "id": "component",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/point_2",
+        "title": "Oxford · point",
+        "publisher": "Oxford University Press",
+        "accessedAt": "2026-11-03",
+        "section": "Headword British IPA and base verb sense",
+        "retrievalStatus": "full_page",
+        "evidence": "指向；示意某人看哪里；本页英式音标已核对。组成词联系不代替整体短语义。",
+        "supportedClaims": [
+          "指向；示意某人看哪里；本页英式音标已核对。组成词联系不代替整体短语义。"
+        ],
+        "summaryZh": "指向；示意某人看哪里；本页英式音标已核对。组成词联系不代替整体短语义。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创教学转述及链接；不复制词典全文"
+      },
+      {
+        "id": "particle",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/out_1",
+        "title": "Oxford · out",
+        "publisher": "Oxford University Press",
+        "accessedAt": "2026-11-03",
+        "section": "Headword British IPA and phrasal-verb lookup note",
+        "retrievalStatus": "full_page",
+        "evidence": "out英式音标/aʊt/；具体短语义应查动词词条，不能逐字翻译。",
+        "supportedClaims": [
+          "out英式音标/aʊt/；具体短语义应查动词词条，不能逐字翻译。"
+        ],
+        "summaryZh": "out英式音标/aʊt/；具体短语义应查动词词条，不能逐字翻译。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创教学转述及链接；不复制词典全文"
+      },
+      {
+        "id": "grammar",
+        "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/phrasal-verbs",
+        "title": "British Council · Phrasal verbs",
+        "publisher": "British Council",
+        "accessedAt": "2026-11-03",
+        "section": "Phrasal verbs: meaning and separable word order",
+        "retrievalStatus": "full_page",
+        "evidence": "动词与小品词组成整体；可分短语中代词位置；具体义项仍按对应词典。",
+        "supportedClaims": [
+          "动词与小品词组成整体；可分短语中代词位置；具体义项仍按对应词典。"
+        ],
+        "summaryZh": "动词与小品词组成整体；可分短语中代词位置；具体义项仍按对应词典。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创教学转述及链接；不复制词典全文"
+      },
+      {
+        "id": "etym",
+        "url": "https://www.etymonline.com/word/point",
+        "title": "Etymonline · point",
+        "publisher": "Etymonline",
+        "accessedAt": "2026-11-03",
+        "section": "Headword origin paragraph and historical senses",
+        "retrievalStatus": "full_page",
+        "evidence": "point 的名词历史与拉丁语中刺出的点、尖端等意义有关，后来形成今天的多个名词和动词用法。这能说明词族背景，但不应直接把“尖端”推导成所有 point out 的语用效果。",
+        "supportedClaims": [
+          "point 的名词历史与拉丁语中刺出的点、尖端等意义有关，后来形成今天的多个名词和动词用法。这能说明词族背景，但不应直接把“尖端”推导成所有 point out 的语用效果。"
+        ],
+        "summaryZh": "point 的名词历史与拉丁语中刺出的点、尖端等意义有关，后来形成今天的多个名词和动词用法。这能说明词族背景，但不应直接把“尖端”推导成所有 point out 的语用效果。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创教学转述及链接；不复制词典全文"
+      }
+    ],
+    "limitations": [
+      "词源历史与现代教学联系分开；短语不虚构整体首见年代。",
+      "音标为字典宽式学习标注；实际句重音随语境变化。"
+    ]
+  },
+  {
+    "cardId": "V20261012-065",
+    "writer": "whole50_author3",
+    "headword": {
+      "ipa": "ruːl aʊt",
+      "pos": "短语动词",
+      "chunk": "rule out an option",
+      "ipaNote": "英式组成词宽式标注；已核对Oxford组成词和小品词音标，非整短语录音或固定句重音。"
+    },
+    "examples": [
+      {
+        "en": "We cannot rule out a delay at this stage.",
+        "zh": "现阶段，我们无法排除延误的可能。",
+        "kind": "existing_public_learning_example"
+      },
+      {
+        "en": "The tests ruled out material damage.",
+        "zh": "测试排除了材料损坏的可能。",
+        "kind": "existing_public_learning_example"
+      }
+    ],
+    "etymology": [
+      {
+        "kind": "historical_fact",
+        "title": "历史来源与边界",
+        "text": "rule 的来历与拉丁语 regula 有关，既涉及直尺，也涉及准则。英语的 rule 又有裁定、决定等用法；这些是组成词的历史，不能直接当作 rule out 排除义的完整起源证明。",
+        "sourceId": "etym"
+      },
+      {
+        "kind": "modern_connection",
+        "title": "用现代联系帮助理解",
+        "text": "可以把候选解释想成一张清单：rule out 是把某项排除，不再把它当可行解释或可能选项。这个清单只是学习图像，不是说英语历史上一定先有划掉清单的动作。",
+        "sourceId": "lex"
+      },
+      {
+        "kind": "current_use",
+        "title": "回到当前句子",
+        "text": "cannot rule out 表示现在还不能排除一种可能。本句保留“可能延误”这个风险，但没有说延误一定发生或概率很高；它提醒大家别过早把风险当作不存在。",
+        "sourceId": "lex"
+      }
+    ],
+    "sources": [
+      {
+        "id": "lex",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/rule-out",
+        "title": "Oxford · rule out",
+        "publisher": "Oxford University Press",
+        "accessedAt": "2026-11-03",
+        "section": "Headword, part of speech, current contextual sense and usage patterns",
+        "retrievalStatus": "full_page",
+        "evidence": "rule out本句义：不再把某事视为可能情况或可选方案。核对短语动词和rule out an option；相关义项：使某事不可能发生；使某人无法参加。中文与英文定义为原创转述。",
+        "supportedClaims": [
+          "rule out本句义：不再把某事视为可能情况或可选方案。核对短语动词和rule out an option；相关义项：使某事不可能发生；使某人无法参加。中文与英文定义为原创转述。"
+        ],
+        "summaryZh": "rule out本句义：不再把某事视为可能情况或可选方案。核对短语动词和rule out an option；相关义项：使某事不可能发生；使某人无法参加。中文与英文定义为原创转述。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创教学转述及链接；不复制词典全文"
+      },
+      {
+        "id": "component",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/rule_2",
+        "title": "Oxford · rule",
+        "publisher": "Oxford University Press",
+        "accessedAt": "2026-11-03",
+        "section": "Headword British IPA and base verb sense",
+        "retrievalStatus": "full_page",
+        "evidence": "作出正式裁定或决定；本页英式音标已核对。组成词联系不代替整体短语义。",
+        "supportedClaims": [
+          "作出正式裁定或决定；本页英式音标已核对。组成词联系不代替整体短语义。"
+        ],
+        "summaryZh": "作出正式裁定或决定；本页英式音标已核对。组成词联系不代替整体短语义。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创教学转述及链接；不复制词典全文"
+      },
+      {
+        "id": "particle",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/out_1",
+        "title": "Oxford · out",
+        "publisher": "Oxford University Press",
+        "accessedAt": "2026-11-03",
+        "section": "Headword British IPA and phrasal-verb lookup note",
+        "retrievalStatus": "full_page",
+        "evidence": "out英式音标/aʊt/；具体短语义应查动词词条，不能逐字翻译。",
+        "supportedClaims": [
+          "out英式音标/aʊt/；具体短语义应查动词词条，不能逐字翻译。"
+        ],
+        "summaryZh": "out英式音标/aʊt/；具体短语义应查动词词条，不能逐字翻译。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创教学转述及链接；不复制词典全文"
+      },
+      {
+        "id": "grammar",
+        "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/phrasal-verbs",
+        "title": "British Council · Phrasal verbs",
+        "publisher": "British Council",
+        "accessedAt": "2026-11-03",
+        "section": "Phrasal verbs: meaning and separable word order",
+        "retrievalStatus": "full_page",
+        "evidence": "动词与小品词组成整体；可分短语中代词位置；具体义项仍按对应词典。",
+        "supportedClaims": [
+          "动词与小品词组成整体；可分短语中代词位置；具体义项仍按对应词典。"
+        ],
+        "summaryZh": "动词与小品词组成整体；可分短语中代词位置；具体义项仍按对应词典。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创教学转述及链接；不复制词典全文"
+      },
+      {
+        "id": "etym",
+        "url": "https://www.etymonline.com/word/rule",
+        "title": "Etymonline · rule",
+        "publisher": "Etymonline",
+        "accessedAt": "2026-11-03",
+        "section": "Headword origin paragraph and historical senses",
+        "retrievalStatus": "full_page",
+        "evidence": "rule 的来历与拉丁语 regula 有关，既涉及直尺，也涉及准则。英语的 rule 又有裁定、决定等用法；这些是组成词的历史，不能直接当作 rule out 排除义的完整起源证明。",
+        "supportedClaims": [
+          "rule 的来历与拉丁语 regula 有关，既涉及直尺，也涉及准则。英语的 rule 又有裁定、决定等用法；这些是组成词的历史，不能直接当作 rule out 排除义的完整起源证明。"
+        ],
+        "summaryZh": "rule 的来历与拉丁语 regula 有关，既涉及直尺，也涉及准则。英语的 rule 又有裁定、决定等用法；这些是组成词的历史，不能直接当作 rule out 排除义的完整起源证明。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创教学转述及链接；不复制词典全文"
+      }
+    ],
+    "limitations": [
+      "词源历史与现代教学联系分开；短语不虚构整体首见年代。",
+      "音标为字典宽式学习标注；实际句重音随语境变化。"
+    ]
+  },
+  {
+    "cardId": "V20261012-066",
+    "writer": "whole50_author3",
+    "headword": {
+      "ipa": "həʊld ɒf",
+      "pos": "短语动词",
+      "chunk": "hold off on a decision",
+      "ipaNote": "英式组成词宽式标注；已核对Oxford组成词和小品词音标，非整短语录音或固定句重音。"
+    },
+    "examples": [
+      {
+        "en": "Let's hold off on the decision until we have the results.",
+        "zh": "等拿到结果后，我们再作决定吧。",
+        "kind": "existing_public_learning_example"
+      },
+      {
+        "en": "Hold off on hiring until June.",
+        "zh": "把招聘暂缓到六月。",
+        "kind": "existing_public_learning_example"
+      }
+    ],
+    "etymology": [
+      {
+        "kind": "historical_fact",
+        "title": "历史来源与边界",
+        "text": "hold 来自古英语，已有抓住、保留、约束等用法。现代 hold off 作为整体表示暂缓或雨还没下等意思；组成词的历史并不能证明这些短语义都从同一个具体动作直接演变而来。",
+        "sourceId": "etym"
+      },
+      {
+        "kind": "modern_connection",
+        "title": "用现代联系帮助理解",
+        "text": "把行动暂时按住，不让它现在开始，是记住暂缓义的好图像。off 在这里不能单独理解成取消；整词组让时间往后移，何时再行动可由 until 后面的条件说明。",
+        "sourceId": "lex"
+      },
+      {
+        "kind": "current_use",
+        "title": "回到当前句子",
+        "text": "hold off on a decision 是先不作决定，等条件更合适再说。本句给了明确的等待条件：拿到结果。这比一句“以后再说”更清楚，因为大家知道该等什么。",
+        "sourceId": "lex"
+      }
+    ],
+    "sources": [
+      {
+        "id": "lex",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/hold-off",
+        "title": "Oxford · hold off",
+        "publisher": "Oxford University Press",
+        "accessedAt": "2026-11-03",
+        "section": "Headword, part of speech, current contextual sense and usage patterns",
+        "retrievalStatus": "full_page",
+        "evidence": "hold off本句义：先等待一段时间再采取行动。核对短语动词和hold off on a decision；相关义项：雨或风暴暂时没有开始。中文与英文定义为原创转述。",
+        "supportedClaims": [
+          "hold off本句义：先等待一段时间再采取行动。核对短语动词和hold off on a decision；相关义项：雨或风暴暂时没有开始。中文与英文定义为原创转述。"
+        ],
+        "summaryZh": "hold off本句义：先等待一段时间再采取行动。核对短语动词和hold off on a decision；相关义项：雨或风暴暂时没有开始。中文与英文定义为原创转述。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创教学转述及链接；不复制词典全文"
+      },
+      {
+        "id": "component",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/hold_1",
+        "title": "Oxford · hold",
+        "publisher": "Oxford University Press",
+        "accessedAt": "2026-11-03",
+        "section": "Headword British IPA and base verb sense",
+        "retrievalStatus": "full_page",
+        "evidence": "拿住；使保持在原处；本页英式音标已核对。组成词联系不代替整体短语义。",
+        "supportedClaims": [
+          "拿住；使保持在原处；本页英式音标已核对。组成词联系不代替整体短语义。"
+        ],
+        "summaryZh": "拿住；使保持在原处；本页英式音标已核对。组成词联系不代替整体短语义。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创教学转述及链接；不复制词典全文"
+      },
+      {
+        "id": "particle",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/off_1",
+        "title": "Oxford · off",
+        "publisher": "Oxford University Press",
+        "accessedAt": "2026-11-03",
+        "section": "Headword British IPA and phrasal-verb lookup note",
+        "retrievalStatus": "full_page",
+        "evidence": "off英式音标/ɒf/；具体短语义应查动词词条，不能逐字翻译。",
+        "supportedClaims": [
+          "off英式音标/ɒf/；具体短语义应查动词词条，不能逐字翻译。"
+        ],
+        "summaryZh": "off英式音标/ɒf/；具体短语义应查动词词条，不能逐字翻译。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创教学转述及链接；不复制词典全文"
+      },
+      {
+        "id": "grammar",
+        "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/phrasal-verbs",
+        "title": "British Council · Phrasal verbs",
+        "publisher": "British Council",
+        "accessedAt": "2026-11-03",
+        "section": "Phrasal verbs: meaning and separable word order",
+        "retrievalStatus": "full_page",
+        "evidence": "动词与小品词组成整体；可分短语中代词位置；具体义项仍按对应词典。",
+        "supportedClaims": [
+          "动词与小品词组成整体；可分短语中代词位置；具体义项仍按对应词典。"
+        ],
+        "summaryZh": "动词与小品词组成整体；可分短语中代词位置；具体义项仍按对应词典。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创教学转述及链接；不复制词典全文"
+      },
+      {
+        "id": "etym",
+        "url": "https://www.etymonline.com/word/hold",
+        "title": "Etymonline · hold",
+        "publisher": "Etymonline",
+        "accessedAt": "2026-11-03",
+        "section": "Headword origin paragraph and historical senses",
+        "retrievalStatus": "full_page",
+        "evidence": "hold 来自古英语，已有抓住、保留、约束等用法。现代 hold off 作为整体表示暂缓或雨还没下等意思；组成词的历史并不能证明这些短语义都从同一个具体动作直接演变而来。",
+        "supportedClaims": [
+          "hold 来自古英语，已有抓住、保留、约束等用法。现代 hold off 作为整体表示暂缓或雨还没下等意思；组成词的历史并不能证明这些短语义都从同一个具体动作直接演变而来。"
+        ],
+        "summaryZh": "hold 来自古英语，已有抓住、保留、约束等用法。现代 hold off 作为整体表示暂缓或雨还没下等意思；组成词的历史并不能证明这些短语义都从同一个具体动作直接演变而来。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创教学转述及链接；不复制词典全文"
+      }
+    ],
+    "limitations": [
+      "词源历史与现代教学联系分开；短语不虚构整体首见年代。",
+      "音标为字典宽式学习标注；实际句重音随语境变化。"
+    ]
+  },
+  {
+    "cardId": "V20261012-067",
+    "writer": "whole50_author3",
+    "etymology": [
+      {
+        "title": "历史范围：先分清词与短语",
+        "text": "work 是古英语传下来的动词，与做事、制作和运作有关。不过，work 的历史不能直接证明 work around 这个短语何时出现；这次不编造整词组的起源年代。",
+        "sourceId": "etym",
+        "kind": "historical_fact"
+      },
+      {
+        "title": "现代联系：障碍仍在，换条路线",
+        "text": "around 可以表示绕到另一侧，英语也会用 a way around a problem 谈应对问题的办法。可以借“换条路线”理解 work around，但这里是语义联系，不是考证短语最早来自真实绕路。",
+        "sourceId": "particle",
+        "kind": "modern_connection"
+      },
+      {
+        "title": "回到本句：方法变，限制仍在",
+        "text": "work around a constraint 是想办法避开限制的影响，让工作继续。原句又加 without changing the scope，要求工作范围不变：需要寻找合适的做法，而不是直接删掉一部分工作。",
+        "sourceId": "lex",
+        "kind": "current_use"
+      }
+    ],
+    "sources": [
+      {
+        "id": "etym",
+        "url": "https://www.etymonline.com/word/work",
+        "title": "Etymonline — work",
+        "section": "Origin and history; main headword",
+        "retrievalStatus": "full_page",
+        "evidence": "work动词来自古英语wyrcan/wircan等形式，涉及做、制造、运作。该页不证明work around整体短语的诞生时间。",
+        "accessedAt": "2026-11-03"
+      },
+      {
+        "id": "lex",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/work-around",
+        "title": "Oxford Advanced Learner’s Dictionary — work around",
+        "section": "work around something, sense 1",
+        "retrievalStatus": "full_page",
+        "evidence": "整体义为找到避开问题的工作做法而不真正解决问题，明确关联名词workaround。",
+        "accessedAt": "2026-11-03"
+      },
+      {
+        "id": "word",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/work_1",
+        "title": "Oxford Advanced Learner’s Dictionary — work",
+        "section": "pronunciation; do job/task",
+        "retrievalStatus": "full_page",
+        "evidence": "英式/wɜːk/，动词，做需体力或脑力的事。",
+        "accessedAt": "2026-11-03"
+      },
+      {
+        "id": "particle",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/around_1",
+        "title": "Oxford Advanced Learner’s Dictionary — around",
+        "section": "pronunciation; sense 2",
+        "retrievalStatus": "full_page",
+        "evidence": "/əˈraʊnd/；第2义表示绕到另一侧，并例示a way around the problem，支持从绕路到应对问题的现代联系。",
+        "accessedAt": "2026-11-03"
+      }
+    ],
+    "headword": {
+      "ipa": "wɜːk əˈraʊnd",
+      "ipaNote": "英式组成词宽式标注；整句重音随语境变化，非词典整短语音频转录。",
+      "pos": "短语动词",
+      "chunk": "work around a constraint"
+    },
+    "examples": [
+      {
+        "en": "Can we work around this constraint without changing the scope?",
+        "zh": "我们能在不改范围的情况下应对这项限制吗？",
+        "kind": "existing_public_learning_example"
+      },
+      {
+        "en": "We worked around the storage limitation.",
+        "zh": "我们设法绕开存储限制，让工作继续进行。",
+        "kind": "existing_public_learning_example"
+      }
+    ],
+    "limitations": [
+      "没有核实work around整词组首见年代，不从work词源推造。",
+      "短语IPA由已核实组成词的英式音标组合，未声称词典提供了整短语录音或固定句重音。"
+    ]
+  },
+  {
+    "cardId": "V20261012-068",
+    "writer": "whole50_author3",
+    "headword": {
+      "ipa": "teɪk ɒn",
+      "pos": "短语动词",
+      "chunk": "take on a task",
+      "ipaNote": "英式组成词宽式标注；已核对Oxford组成词和小品词音标，非整短语录音或固定句重音。"
+    },
+    "examples": [
+      {
+        "en": "Our team cannot take on another task this week.",
+        "zh": "我们团队本周无法再承担任务。",
+        "kind": "existing_public_learning_example"
+      },
+      {
+        "en": "She will take on the audit role.",
+        "zh": "她将承担审计职责。",
+        "kind": "existing_public_learning_example"
+      }
+    ],
+    "etymology": [
+      {
+        "kind": "historical_fact",
+        "title": "历史来源与边界",
+        "text": "take 的历史与古诺尔斯语 taka 等形式有关，早期有抓取、取得的意思。英语后来形成很多 take 短语；这里不把 take 的来源年代说成 take on“承担”义的首见年代。",
+        "sourceId": "etym"
+      },
+      {
+        "kind": "modern_connection",
+        "title": "用现代联系帮助理解",
+        "text": "可以把任务想成接到自己手上的责任，帮助记住 take on a task。这是学习联系，不是把 on 译成“在上面”；真正的整体义要看后面的 task、role 或 responsibility。",
+        "sourceId": "lex"
+      },
+      {
+        "kind": "current_use",
+        "title": "回到当前句子",
+        "text": "take on a task 强调接受并承担一项任务。本句说团队本周不能再接新的工作；它是在划定新增工作的容量边界，不是在汇报某项任务已经完成。",
+        "sourceId": "lex"
+      }
+    ],
+    "sources": [
+      {
+        "id": "lex",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/take-on",
+        "title": "Oxford · take on",
+        "publisher": "Oxford University Press",
+        "accessedAt": "2026-11-03",
+        "section": "Headword, part of speech, current contextual sense and usage patterns",
+        "retrievalStatus": "full_page",
+        "evidence": "take on本句义：接受并承担工作或责任。核对短语动词和take on a task；相关义项：雇用；聘用。中文与英文定义为原创转述。",
+        "supportedClaims": [
+          "take on本句义：接受并承担工作或责任。核对短语动词和take on a task；相关义项：雇用；聘用。中文与英文定义为原创转述。"
+        ],
+        "summaryZh": "take on本句义：接受并承担工作或责任。核对短语动词和take on a task；相关义项：雇用；聘用。中文与英文定义为原创转述。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创教学转述及链接；不复制词典全文"
+      },
+      {
+        "id": "component",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/take_1",
+        "title": "Oxford · take",
+        "publisher": "Oxford University Press",
+        "accessedAt": "2026-11-03",
+        "section": "Headword British IPA and base verb sense",
+        "retrievalStatus": "full_page",
+        "evidence": "拿；带走（基本词义联系）；本页英式音标已核对。组成词联系不代替整体短语义。",
+        "supportedClaims": [
+          "拿；带走（基本词义联系）；本页英式音标已核对。组成词联系不代替整体短语义。"
+        ],
+        "summaryZh": "拿；带走（基本词义联系）；本页英式音标已核对。组成词联系不代替整体短语义。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创教学转述及链接；不复制词典全文"
+      },
+      {
+        "id": "particle",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/on_1",
+        "title": "Oxford · on",
+        "publisher": "Oxford University Press",
+        "accessedAt": "2026-11-03",
+        "section": "Headword British IPA and phrasal-verb lookup note",
+        "retrievalStatus": "full_page",
+        "evidence": "on英式音标/ɒn/；具体短语义应查动词词条，不能逐字翻译。",
+        "supportedClaims": [
+          "on英式音标/ɒn/；具体短语义应查动词词条，不能逐字翻译。"
+        ],
+        "summaryZh": "on英式音标/ɒn/；具体短语义应查动词词条，不能逐字翻译。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创教学转述及链接；不复制词典全文"
+      },
+      {
+        "id": "grammar",
+        "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/phrasal-verbs",
+        "title": "British Council · Phrasal verbs",
+        "publisher": "British Council",
+        "accessedAt": "2026-11-03",
+        "section": "Phrasal verbs: meaning and separable word order",
+        "retrievalStatus": "full_page",
+        "evidence": "动词与小品词组成整体；可分短语中代词位置；具体义项仍按对应词典。",
+        "supportedClaims": [
+          "动词与小品词组成整体；可分短语中代词位置；具体义项仍按对应词典。"
+        ],
+        "summaryZh": "动词与小品词组成整体；可分短语中代词位置；具体义项仍按对应词典。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创教学转述及链接；不复制词典全文"
+      },
+      {
+        "id": "etym",
+        "url": "https://www.etymonline.com/word/take",
+        "title": "Etymonline · take",
+        "publisher": "Etymonline",
+        "accessedAt": "2026-11-03",
+        "section": "Headword origin paragraph and historical senses",
+        "retrievalStatus": "full_page",
+        "evidence": "take 的历史与古诺尔斯语 taka 等形式有关，早期有抓取、取得的意思。英语后来形成很多 take 短语；这里不把 take 的来源年代说成 take on“承担”义的首见年代。",
+        "supportedClaims": [
+          "take 的历史与古诺尔斯语 taka 等形式有关，早期有抓取、取得的意思。英语后来形成很多 take 短语；这里不把 take 的来源年代说成 take on“承担”义的首见年代。"
+        ],
+        "summaryZh": "take 的历史与古诺尔斯语 taka 等形式有关，早期有抓取、取得的意思。英语后来形成很多 take 短语；这里不把 take 的来源年代说成 take on“承担”义的首见年代。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创教学转述及链接；不复制词典全文"
+      }
+    ],
+    "limitations": [
+      "词源历史与现代教学联系分开；短语不虚构整体首见年代。",
+      "音标为字典宽式学习标注；实际句重音随语境变化。"
+    ]
+  },
+  {
+    "cardId": "V20261012-069",
+    "writer": "whole50_author3",
+    "etymology": [
+      {
+        "title": "历史来源：称重量，也用来思量",
+        "text": "weigh 来自古英语 wegan，早期已经涉及称重量等意思。把 weigh 用于仔细考虑、形成看法的比喻用法，在14世纪就有记录。这个历史属于 weigh；不能据此断定 weigh up 整个短语也在同一时期形成。",
+        "sourceId": "etym",
+        "kind": "historical_fact"
+      },
+      {
+        "title": "现代联系：比较事情的分量",
+        "text": "从“有多重”可以联想到“有多重要”：价格、交期、风险各占多少分量？这有助于记住权衡的意思。这里只是学习联系，不要求真的给每个因素打分；up 也不是把选项向上举。",
+        "sourceId": "lex",
+        "kind": "modern_connection"
+      },
+      {
+        "title": "回到本句：比较得失，再作选择",
+        "text": "weigh up the options 把重点放在考虑各选项的利弊。原句接 before choosing a supplier，说明比较在前、选择在后。可以再用 weigh A against B 说出具体两面，例如把节省时间与新增成本相比较。",
+        "sourceId": "lex",
+        "kind": "current_use"
+      }
+    ],
+    "sources": [
+      {
+        "id": "etym",
+        "url": "https://www.etymonline.com/word/weigh",
+        "title": "Etymonline — weigh",
+        "section": "Origin and history; main headword",
+        "retrievalStatus": "full_page",
+        "evidence": "weigh来自古英语wegan，包含称重量、具有重量以及搬抬等义；形成看法的考虑/审视比喻义在14世纪中期已有记录。资料没有给出weigh up整体短语首见日期。",
+        "accessedAt": "2026-11-03"
+      },
+      {
+        "id": "lex",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/weigh",
+        "title": "Oxford Advanced Learner’s Dictionary — weigh",
+        "section": "pronunciation; senses 2–3",
+        "retrievalStatus": "full_page",
+        "evidence": "/weɪ/；第2义称重，第3义决定前仔细考虑，列weigh something (up)、weigh up options、weigh benefits against risks。",
+        "accessedAt": "2026-11-03"
+      },
+      {
+        "id": "particle",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/up_1",
+        "title": "Oxford Advanced Learner’s Dictionary — up",
+        "section": "pronunciation; phrasal-verb usage note",
+        "retrievalStatus": "full_page",
+        "evidence": "/ʌp/；条目明确短语动词中的特殊用法要查动词对应条目，不能把所有up都译成向上。",
+        "accessedAt": "2026-11-03"
+      }
+    ],
+    "headword": {
+      "ipa": "weɪ ʌp",
+      "ipaNote": "英式组成词宽式标注；整句重音随语境变化，非词典整短语音频转录。",
+      "pos": "短语动词",
+      "chunk": "weigh up the options"
+    },
+    "examples": [
+      {
+        "en": "We need to weigh up the options before choosing a supplier.",
+        "zh": "选择供应商前，我们需要权衡各个选项。",
+        "kind": "existing_public_learning_example"
+      },
+      {
+        "en": "Weigh up the benefits and risks.",
+        "zh": "权衡收益与风险。",
+        "kind": "existing_public_learning_example"
+      }
+    ],
+    "limitations": [
+      "只陈述weigh可考的历史；不虚构weigh up整体短语首见年代。",
+      "短语IPA由词典已核实的/weɪ/和/ʌp/组合；没有添加未经取证的整短语固定重音。"
+    ]
+  },
+  {
+    "cardId": "V20261012-070",
+    "writer": "whole50_author3",
+    "headword": {
+      "ipa": "ræp ʌp",
+      "pos": "短语动词",
+      "chunk": "wrap up a discussion",
+      "ipaNote": "英式组成词宽式标注；已核对Oxford组成词和小品词音标，非整短语录音或固定句重音。"
+    },
+    "examples": [
+      {
+        "en": "Let's wrap up by confirming the owner and due date.",
+        "zh": "我们以确认负责人和截止日期来收尾吧。",
+        "kind": "existing_public_learning_example"
+      },
+      {
+        "en": "Wrap up the review before lunch.",
+        "zh": "午饭前结束评审。",
+        "kind": "existing_public_learning_example"
+      }
+    ],
+    "etymology": [
+      {
+        "kind": "historical_fact",
+        "title": "历史来源与边界",
+        "text": "wrap 在中古英语已有包住、折叠等用法，更早来源并不确定。今天 wrap up 有包裹、穿暖和结束等用途；这里不编造某一幅包东西的画面就是会议收尾义的确切起源。",
+        "sourceId": "etym"
+      },
+      {
+        "kind": "modern_connection",
+        "title": "用现代联系帮助理解",
+        "text": "可以把散着的事项收拢，想成给讨论收个尾。这个图像帮助理解现代结束义，但说 wrap up a meeting 时，不需要真的包装东西；要看它的宾语是在谈活动还是物品。",
+        "sourceId": "lex"
+      },
+      {
+        "kind": "current_use",
+        "title": "回到当前句子",
+        "text": "wrap up 在这里是把讨论收尾。by confirming the owner and due date 指定最后一步：确认负责人和期限。不是单纯停止说话，而是用这项确认完成本次交流。",
+        "sourceId": "lex"
+      }
+    ],
+    "sources": [
+      {
+        "id": "lex",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/wrap-up",
+        "title": "Oxford · wrap up",
+        "publisher": "Oxford University Press",
+        "accessedAt": "2026-11-03",
+        "section": "Headword, part of speech, current contextual sense and usage patterns",
+        "retrievalStatus": "full_page",
+        "evidence": "wrap up本句义：将讨论、活动或工作收尾结束。核对短语动词和wrap up a discussion；相关义项：穿暖；给某人穿上保暖衣物。中文与英文定义为原创转述。",
+        "supportedClaims": [
+          "wrap up本句义：将讨论、活动或工作收尾结束。核对短语动词和wrap up a discussion；相关义项：穿暖；给某人穿上保暖衣物。中文与英文定义为原创转述。"
+        ],
+        "summaryZh": "wrap up本句义：将讨论、活动或工作收尾结束。核对短语动词和wrap up a discussion；相关义项：穿暖；给某人穿上保暖衣物。中文与英文定义为原创转述。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创教学转述及链接；不复制词典全文"
+      },
+      {
+        "id": "component",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/wrap_1",
+        "title": "Oxford · wrap",
+        "publisher": "Oxford University Press",
+        "accessedAt": "2026-11-03",
+        "section": "Headword British IPA and base verb sense",
+        "retrievalStatus": "full_page",
+        "evidence": "包裹；用材料围住；本页英式音标已核对。组成词联系不代替整体短语义。",
+        "supportedClaims": [
+          "包裹；用材料围住；本页英式音标已核对。组成词联系不代替整体短语义。"
+        ],
+        "summaryZh": "包裹；用材料围住；本页英式音标已核对。组成词联系不代替整体短语义。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创教学转述及链接；不复制词典全文"
+      },
+      {
+        "id": "particle",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/up_1",
+        "title": "Oxford · up",
+        "publisher": "Oxford University Press",
+        "accessedAt": "2026-11-03",
+        "section": "Headword British IPA and phrasal-verb lookup note",
+        "retrievalStatus": "full_page",
+        "evidence": "up英式音标/ʌp/；具体短语义应查动词词条，不能逐字翻译。",
+        "supportedClaims": [
+          "up英式音标/ʌp/；具体短语义应查动词词条，不能逐字翻译。"
+        ],
+        "summaryZh": "up英式音标/ʌp/；具体短语义应查动词词条，不能逐字翻译。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创教学转述及链接；不复制词典全文"
+      },
+      {
+        "id": "grammar",
+        "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/phrasal-verbs",
+        "title": "British Council · Phrasal verbs",
+        "publisher": "British Council",
+        "accessedAt": "2026-11-03",
+        "section": "Phrasal verbs: meaning and separable word order",
+        "retrievalStatus": "full_page",
+        "evidence": "动词与小品词组成整体；可分短语中代词位置；具体义项仍按对应词典。",
+        "supportedClaims": [
+          "动词与小品词组成整体；可分短语中代词位置；具体义项仍按对应词典。"
+        ],
+        "summaryZh": "动词与小品词组成整体；可分短语中代词位置；具体义项仍按对应词典。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创教学转述及链接；不复制词典全文"
+      },
+      {
+        "id": "etym",
+        "url": "https://www.etymonline.com/word/wrap",
+        "title": "Etymonline · wrap",
+        "publisher": "Etymonline",
+        "accessedAt": "2026-11-03",
+        "section": "Headword origin paragraph and historical senses",
+        "retrievalStatus": "full_page",
+        "evidence": "wrap 在中古英语已有包住、折叠等用法，更早来源并不确定。今天 wrap up 有包裹、穿暖和结束等用途；这里不编造某一幅包东西的画面就是会议收尾义的确切起源。",
+        "supportedClaims": [
+          "wrap 在中古英语已有包住、折叠等用法，更早来源并不确定。今天 wrap up 有包裹、穿暖和结束等用途；这里不编造某一幅包东西的画面就是会议收尾义的确切起源。"
+        ],
+        "summaryZh": "wrap 在中古英语已有包住、折叠等用法，更早来源并不确定。今天 wrap up 有包裹、穿暖和结束等用途；这里不编造某一幅包东西的画面就是会议收尾义的确切起源。",
+        "adaptationType": "paraphrase",
+        "useAssessment": "原创教学转述及链接；不复制词典全文"
+      }
+    ],
+    "limitations": [
+      "词源历史与现代教学联系分开；短语不虚构整体首见年代。",
+      "音标为字典宽式学习标注；实际句重音随语境变化。"
+    ]
+  }
+]

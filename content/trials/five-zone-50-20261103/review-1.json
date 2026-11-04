@@ -1,0 +1,877 @@
+{
+  "reviewer": "trial_reviewer_1",
+  "scope": "trial_not_production",
+  "entries": [
+    {
+      "cardId": "V20261012-001",
+      "contentHash": "06800dc9bc67b4b5de189c5ec27fbe0d1234109627830db682ab75497a518d31",
+      "sourceEvidenceHash": "af15b5025b7236b5e909dd4aab2fbb63a5d93167c490d5fac6a3f5eaf7e84196",
+      "reviewer": "trial_reviewer_1",
+      "decision": "APPROVE",
+      "hardGates": "PASS",
+      "scores": {
+        "accuracy": 4,
+        "readability": 4,
+        "explanation": 5,
+        "transfer": 5,
+        "efficiency": 4
+      },
+      "reasons": {
+        "accuracy": "范围义与Collins及APM边界说明一致；before的逻辑主语判断正确。",
+        "readability": "画边界及报价两套工作具体易懂。",
+        "explanation": "用报告与降低返工率解释范围和目标的区别。",
+        "transfer": "培训是否包含的回应能接到工时；05排除项问法自然。",
+        "efficiency": "五区分别承担类比、句法、对照、澄清和新问句任务。"
+      },
+      "issues": [],
+      "sourceChecks": [
+        {
+          "sourceId": "lexical",
+          "url": "https://www.collinsdictionary.com/dictionary/english/scope",
+          "checkedAt": "2026-11-03",
+          "retrievalStatus": "index_excerpt",
+          "result": "SUPPORTED",
+          "method": "独立web检索并阅读该词条可见索引；没有将搜索结果算作直接抓取全文。",
+          "finding": "COBUILD范围义索引；APM支持in/out of scope。",
+          "checkedUrl": "https://www.collinsdictionary.com/us/dictionary/english/scope"
+        },
+        {
+          "sourceId": "method",
+          "url": "https://www.apm.org.uk/resources/what-is-project-management/what-is-scope-management/",
+          "checkedAt": "2026-11-03",
+          "retrievalStatus": "partial",
+          "result": "SUPPORTED",
+          "method": "独立打开APM原页并定点阅读相关段落。",
+          "finding": "partial：原页26–44行；范围边界及记录规划假设。"
+        },
+        {
+          "sourceId": "communication",
+          "url": "https://www.apm.org.uk/resources/what-is-project-management/what-is-project-communication/",
+          "checkedAt": "2026-11-03",
+          "retrievalStatus": "partial",
+          "result": "SUPPORTED",
+          "method": "独立打开APM原页并定点阅读相关段落。",
+          "finding": "partial：原页26–38行；交换信息、共同理解、受众及沟通方式。仅支持原则，具体对话为原创。"
+        }
+      ]
+    },
+    {
+      "cardId": "V20261012-002",
+      "contentHash": "e83b4b139b2e984cf3e4672b7a1d00b0baa1c2288fbb9b5731e76857bec7bed5",
+      "sourceEvidenceHash": "0e822cb08e7c5a89773bd429963e35ab44bd01d6d58741916ee5d8e59b55b7ff",
+      "reviewer": "trial_reviewer_1",
+      "decision": "APPROVE",
+      "hardGates": "PASS",
+      "scores": {
+        "accuracy": 4,
+        "readability": 4,
+        "explanation": 4,
+        "transfer": 5,
+        "efficiency": 4
+      },
+      "reasons": {
+        "accuracy": "名词目标义、spent后置修饰及by one day均准确；未把goal硬性二分。",
+        "readability": "表单行动与审批耗时变化直观。",
+        "explanation": "说明行动与期望结果的区别，但第一、三区略有重叠。",
+        "transfer": "04询问测量口径，05给出有数值的目标及使用条件。",
+        "efficiency": "防止误读批准有效期的提醒略长，其余各区有新信息。"
+      },
+      "issues": [],
+      "sourceChecks": [
+        {
+          "sourceId": "lexical",
+          "url": "https://dictionary.cambridge.org/dictionary/english/objective",
+          "checkedAt": "2026-11-03",
+          "retrievalStatus": "index_excerpt",
+          "result": "SUPPORTED",
+          "method": "独立web检索并阅读该词条可见索引；没有将搜索结果算作直接抓取全文。",
+          "finding": "Cambridge名词AIM及Business English目标义。"
+        },
+        {
+          "sourceId": "method",
+          "url": "https://www.apm.org.uk/resources/what-is-project-management/what-is-project-communication/",
+          "checkedAt": "2026-11-03",
+          "retrievalStatus": "partial",
+          "result": "SUPPORTED",
+          "method": "独立打开APM原页并定点阅读相关段落。",
+          "finding": "partial：原页26–38行；交换信息、共同理解、受众及沟通方式。仅支持原则，具体对话为原创。"
+        }
+      ]
+    },
+    {
+      "cardId": "V20261012-003",
+      "contentHash": "05293d8b63288f2d31848d1172d6274486397c86378e1bd8513e236b9736f593",
+      "sourceEvidenceHash": "c4773ead12efe47c210bfc0a3eac18bc88aa9c7c021cc6f028e3438bf7160c83",
+      "reviewer": "trial_reviewer_1",
+      "decision": "APPROVE",
+      "hardGates": "PASS",
+      "scores": {
+        "accuracy": 4,
+        "readability": 4,
+        "explanation": 5,
+        "transfer": 5,
+        "efficiency": 4
+      },
+      "reasons": {
+        "accuracy": "可数名词交付成果义与Cambridge及APM一致；初稿可按约定作为成果。",
+        "readability": "撰写、检查与完成报告形成具体对照。",
+        "explanation": "任务、成果和节点三者功能解释清楚。",
+        "transfer": "04接收者及验收要求、05商定阶段成果均能直接迁移。",
+        "efficiency": "未把成果限制为纸质文件；层次清楚。"
+      },
+      "issues": [],
+      "sourceChecks": [
+        {
+          "sourceId": "lexical",
+          "url": "https://dictionary.cambridge.org/dictionary/english/deliverable",
+          "checkedAt": "2026-11-03",
+          "retrievalStatus": "index_excerpt",
+          "result": "SUPPORTED",
+          "method": "独立web检索并阅读该词条可见索引；没有将搜索结果算作直接抓取全文。",
+          "finding": "Cambridge Business English项目成果；APM Deliverable/Acceptance。"
+        },
+        {
+          "sourceId": "method",
+          "url": "https://www.apm.org.uk/resources/glossary/",
+          "checkedAt": "2026-11-03",
+          "retrievalStatus": "partial",
+          "result": "SUPPORTED",
+          "method": "独立打开APM原页并定点阅读相关段落。",
+          "finding": "partial：检索并读取Deliverable 327、Dependency 332、关系类型439–444/1197–1199及Time scheduling 1293；不把整个词汇表都说成已读。"
+        },
+        {
+          "sourceId": "communication",
+          "url": "https://www.apm.org.uk/resources/what-is-project-management/what-is-project-communication/",
+          "checkedAt": "2026-11-03",
+          "retrievalStatus": "partial",
+          "result": "SUPPORTED",
+          "method": "独立打开APM原页并定点阅读相关段落。",
+          "finding": "partial：原页26–38行；交换信息、共同理解、受众及沟通方式。仅支持原则，具体对话为原创。"
+        }
+      ]
+    },
+    {
+      "cardId": "V20261012-004",
+      "contentHash": "25572d7051f4f8b994afb3ce3cd7e37e5d0266e019f2966732a39d1b2d408a98",
+      "sourceEvidenceHash": "075de7714a86842b62de2af0e3c9a714610cfbde7de6d957dfac41ac4e0a2eb3",
+      "reviewer": "trial_reviewer_1",
+      "decision": "APPROVE",
+      "hardGates": "PASS",
+      "scores": {
+        "accuracy": 4,
+        "readability": 4,
+        "explanation": 5,
+        "transfer": 4,
+        "efficiency": 4
+      },
+      "reasons": {
+        "accuracy": "重要节点义准确；正确限制after的因果和批准推断。",
+        "readability": "旅程路标类比简单且明确标为类比。",
+        "explanation": "里程碑、期限、成果之间可关联但不等同，解释充分。",
+        "transfer": "04自然询问下个节点；05预测句自然并提醒说明完成标准。",
+        "efficiency": "时间关系和完成标准各有用处，否定提醒稍多。"
+      },
+      "issues": [],
+      "sourceChecks": [
+        {
+          "sourceId": "lexical",
+          "url": "https://dictionary.cambridge.org/dictionary/english/milestone",
+          "checkedAt": "2026-11-03",
+          "retrievalStatus": "index_excerpt",
+          "result": "SUPPORTED",
+          "method": "独立web检索并阅读该词条可见索引；没有将搜索结果算作直接抓取全文。",
+          "finding": "Cambridge IMPORTANT EVENT及Business English时间节点；检索返回/us/同词条。",
+          "checkedUrl": "https://dictionary.cambridge.org/us/dictionary/english/milestone"
+        },
+        {
+          "sourceId": "method",
+          "url": "https://www.apm.org.uk/resources/glossary/",
+          "checkedAt": "2026-11-03",
+          "retrievalStatus": "partial",
+          "result": "SUPPORTED",
+          "method": "独立打开APM原页并定点阅读相关段落。",
+          "finding": "partial：检索并读取Deliverable 327、Dependency 332、关系类型439–444/1197–1199及Time scheduling 1293；不把整个词汇表都说成已读。"
+        },
+        {
+          "sourceId": "communication",
+          "url": "https://www.apm.org.uk/resources/what-is-project-management/what-is-project-communication/",
+          "checkedAt": "2026-11-03",
+          "retrievalStatus": "partial",
+          "result": "SUPPORTED",
+          "method": "独立打开APM原页并定点阅读相关段落。",
+          "finding": "partial：原页26–38行；交换信息、共同理解、受众及沟通方式。仅支持原则，具体对话为原创。"
+        }
+      ]
+    },
+    {
+      "cardId": "V20261012-005",
+      "contentHash": "d26c2cebb407a1cb9458c92437ade6d4dd92162aca7da0347f6d5e7fcfe179e3",
+      "sourceEvidenceHash": "ce8f58c670f4960acbaf2508f7f24b6962f00e7ae30c641d5d4c9c8ff0b603fd",
+      "reviewer": "trial_reviewer_1",
+      "decision": "APPROVE",
+      "hardGates": "PASS",
+      "scores": {
+        "accuracy": 4,
+        "readability": 4,
+        "explanation": 5,
+        "transfer": 5,
+        "efficiency": 4
+      },
+      "reasons": {
+        "accuracy": "priority的事项及优先地位义与词典一致；set priorities搭配获支持。",
+        "readability": "排队与同时排第一的例子易懂。",
+        "explanation": "priority与sequence的必先做检查对照解释了取舍。",
+        "transfer": "04商议安全评审优先，05竞争人力场景明确。",
+        "efficiency": "从排序概念到回应再到冲突理由推进清楚。"
+      },
+      "issues": [],
+      "sourceChecks": [
+        {
+          "sourceId": "lexical",
+          "url": "https://dictionary.cambridge.org/us/dictionary/english/priority",
+          "checkedAt": "2026-11-03",
+          "retrievalStatus": "index_excerpt",
+          "result": "SUPPORTED",
+          "method": "独立web检索并阅读该词条可见索引；没有将搜索结果算作直接抓取全文。",
+          "finding": "Cambridge Business English的set priorities和take priority搭配。"
+        },
+        {
+          "sourceId": "method",
+          "url": "https://www.apm.org.uk/blog/what-is-resource-management/",
+          "checkedAt": "2026-11-03",
+          "retrievalStatus": "partial",
+          "result": "SUPPORTED",
+          "method": "独立打开APM原页并定点阅读相关段落。",
+          "finding": "partial：原页52–71行；核对资源可用量、需求、配置和时间。"
+        },
+        {
+          "sourceId": "communication",
+          "url": "https://www.apm.org.uk/resources/what-is-project-management/what-is-project-communication/",
+          "checkedAt": "2026-11-03",
+          "retrievalStatus": "partial",
+          "result": "SUPPORTED",
+          "method": "独立打开APM原页并定点阅读相关段落。",
+          "finding": "partial：原页26–38行；交换信息、共同理解、受众及沟通方式。仅支持原则，具体对话为原创。"
+        }
+      ]
+    },
+    {
+      "cardId": "V20261012-006",
+      "contentHash": "50162a030ed780af372ca8ec40dd55205f610cc157bfa1001e63daff416284ca",
+      "sourceEvidenceHash": "2097e84cefdc051e81176863b0366cbbd997be51f2cd1d57cf1bdeee79d228d7",
+      "reviewer": "trial_reviewer_1",
+      "decision": "APPROVE",
+      "hardGates": "PASS",
+      "scores": {
+        "accuracy": 4,
+        "readability": 4,
+        "explanation": 5,
+        "transfer": 5,
+        "efficiency": 4
+      },
+      "reasons": {
+        "accuracy": "限制条件义准确；number与available修饰关系正确，风险对照未绝对化。",
+        "readability": "人员数量与水平分开，首读易懂。",
+        "explanation": "当前限制和未来请假风险的对比说明为何不同。",
+        "transfer": "错开评审的回应及预算内可行计划问法自然。",
+        "efficiency": "各区都围绕限制但增加不同判断。"
+      },
+      "issues": [],
+      "sourceChecks": [
+        {
+          "sourceId": "lexical",
+          "url": "https://dictionary.cambridge.org/us/dictionary/english/constraint",
+          "checkedAt": "2026-11-03",
+          "retrievalStatus": "index_excerpt",
+          "result": "SUPPORTED",
+          "method": "独立web检索并阅读该词条可见索引；没有将搜索结果算作直接抓取全文。",
+          "finding": "Cambridge Business English limits与budget constraints；APM资源量和时间。"
+        },
+        {
+          "sourceId": "method",
+          "url": "https://www.apm.org.uk/blog/what-is-resource-management/",
+          "checkedAt": "2026-11-03",
+          "retrievalStatus": "partial",
+          "result": "SUPPORTED",
+          "method": "独立打开APM原页并定点阅读相关段落。",
+          "finding": "partial：原页52–71行；核对资源可用量、需求、配置和时间。"
+        },
+        {
+          "sourceId": "communication",
+          "url": "https://www.apm.org.uk/resources/what-is-project-management/what-is-project-communication/",
+          "checkedAt": "2026-11-03",
+          "retrievalStatus": "partial",
+          "result": "SUPPORTED",
+          "method": "独立打开APM原页并定点阅读相关段落。",
+          "finding": "partial：原页26–38行；交换信息、共同理解、受众及沟通方式。仅支持原则，具体对话为原创。"
+        }
+      ]
+    },
+    {
+      "cardId": "V20261012-007",
+      "contentHash": "279a26b3e137ccb6666cb1354d00e6a3f20f7895c2c4a8ae2a8bbc6061bdcb82",
+      "sourceEvidenceHash": "d28b5e5c7a0b2100b04c13cb265ddfeb6c75e2f8ac5ab529cdbd1bf382bbc129",
+      "reviewer": "trial_reviewer_1",
+      "decision": "APPROVE",
+      "hardGates": "PASS",
+      "scores": {
+        "accuracy": 4,
+        "readability": 4,
+        "explanation": 5,
+        "transfer": 5,
+        "efficiency": 4
+      },
+      "reasons": {
+        "accuracy": "Cambridge一般依赖义加APM活动关系支持当前义；没有把依赖限成完成后开始。",
+        "readability": "A等B先建立直觉再加边界，负担适当。",
+        "explanation": "正常依赖不等于blocker，顺序不必是硬依赖，区分有用。",
+        "transfer": "04原型就绪条件接到可用日期；05供应商报告问句自然。",
+        "efficiency": "依赖对象、版本和日期各补一层，非重复翻译。"
+      },
+      "issues": [],
+      "sourceChecks": [
+        {
+          "sourceId": "lexical",
+          "url": "https://dictionary.cambridge.org/us/dictionary/english/dependency",
+          "checkedAt": "2026-11-03",
+          "retrievalStatus": "index_excerpt",
+          "result": "SUPPORTED",
+          "method": "独立web检索并阅读该词条可见索引；没有将搜索结果算作直接抓取全文。",
+          "finding": "Cambridge NEED一般义；项目可数关系由APM Dependency及四类关系补足。"
+        },
+        {
+          "sourceId": "method",
+          "url": "https://www.apm.org.uk/resources/glossary/",
+          "checkedAt": "2026-11-03",
+          "retrievalStatus": "partial",
+          "result": "SUPPORTED",
+          "method": "独立打开APM原页并定点阅读相关段落。",
+          "finding": "partial：检索并读取Deliverable 327、Dependency 332、关系类型439–444/1197–1199及Time scheduling 1293；不把整个词汇表都说成已读。"
+        },
+        {
+          "sourceId": "communication",
+          "url": "https://www.apm.org.uk/resources/what-is-project-management/what-is-project-communication/",
+          "checkedAt": "2026-11-03",
+          "retrievalStatus": "partial",
+          "result": "SUPPORTED",
+          "method": "独立打开APM原页并定点阅读相关段落。",
+          "finding": "partial：原页26–38行；交换信息、共同理解、受众及沟通方式。仅支持原则，具体对话为原创。"
+        }
+      ]
+    },
+    {
+      "cardId": "V20261012-008",
+      "contentHash": "3357246086c1248671aac94401c15445a638561f48726773af47a623d6524b68",
+      "sourceEvidenceHash": "c1ff62e215ac5c47848de3172bfd416aca076d40dbae1fd93e39c9bc45bafa9a",
+      "reviewer": "trial_reviewer_1",
+      "decision": "APPROVE",
+      "hardGates": "PASS",
+      "scores": {
+        "accuracy": 4,
+        "readability": 4,
+        "explanation": 5,
+        "transfer": 5,
+        "efficiency": 4
+      },
+      "reasons": {
+        "accuracy": "假设尚未核实的当前义和被动句分析正确；未当成供应商承诺。",
+        "readability": "垫板类比有明确类比标识。",
+        "explanation": "假设、事实、估算用材料和交期连接，展示区别。",
+        "transfer": "04接受核实再反馈；05based on the assumption that自然。",
+        "efficiency": "记忆、核实动作和计划影响各有作用。"
+      },
+      "issues": [],
+      "sourceChecks": [
+        {
+          "sourceId": "lexical",
+          "url": "https://dictionary.cambridge.org/dictionary/english/assumption",
+          "checkedAt": "2026-11-03",
+          "retrievalStatus": "index_excerpt",
+          "result": "SUPPORTED",
+          "method": "独立web检索并阅读该词条可见索引；没有将搜索结果算作直接抓取全文。",
+          "finding": "Cambridge BELIEF及Business English；APM scope原页记录assumptions。"
+        },
+        {
+          "sourceId": "method",
+          "url": "https://www.apm.org.uk/resources/what-is-project-management/what-is-scope-management/",
+          "checkedAt": "2026-11-03",
+          "retrievalStatus": "partial",
+          "result": "SUPPORTED",
+          "method": "独立打开APM原页并定点阅读相关段落。",
+          "finding": "partial：原页26–44行；范围边界及记录规划假设。"
+        },
+        {
+          "sourceId": "communication",
+          "url": "https://www.apm.org.uk/resources/what-is-project-management/what-is-project-communication/",
+          "checkedAt": "2026-11-03",
+          "retrievalStatus": "partial",
+          "result": "SUPPORTED",
+          "method": "独立打开APM原页并定点阅读相关段落。",
+          "finding": "partial：原页26–38行；交换信息、共同理解、受众及沟通方式。仅支持原则，具体对话为原创。"
+        }
+      ]
+    },
+    {
+      "cardId": "V20261012-009",
+      "contentHash": "9d493f5dfde3df3a5d2ce89217700bc362795fbc9c7d7dd0522b4cbfd6e91aad",
+      "sourceEvidenceHash": "804b65bc2433f2100ed2a3c87af9822253c457cf51b4b87745d43018d6fb58a0",
+      "reviewer": "trial_reviewer_1",
+      "decision": "APPROVE",
+      "hardGates": "PASS",
+      "scores": {
+        "accuracy": 4,
+        "readability": 4,
+        "explanation": 5,
+        "transfer": 5,
+        "efficiency": 3
+      },
+      "reasons": {
+        "accuracy": "基准作比较起点符合Cambridge；02用measurement而非原句measuring是小编辑瑕疵，不改变意思。",
+        "readability": "称重读数与上月平均评审时间具体。",
+        "explanation": "baseline、target、benchmark区别有限定，未把benchmark等同最佳。",
+        "transfer": "04提出可比较数据，05当前错误率和统计期间可迁移。",
+        "efficiency": "02有不在原句的名词measurement，且几次重复起点概念，建议精简。"
+      },
+      "issues": [
+        {
+          "severity": "minor",
+          "blocking": false,
+          "location": "g2",
+          "suggestion": "将measurement的对象改为measuring的宾语，贴合实际例句。"
+        }
+      ],
+      "sourceChecks": [
+        {
+          "sourceId": "lexical",
+          "url": "https://dictionary.cambridge.org/dictionary/english/baseline",
+          "checkedAt": "2026-11-03",
+          "retrievalStatus": "index_excerpt",
+          "result": "SUPPORTED",
+          "method": "独立web检索并阅读该词条可见索引；没有将搜索结果算作直接抓取全文。",
+          "finding": "Cambridge比较起点及Business English数量比较义。"
+        },
+        {
+          "sourceId": "method",
+          "url": "https://www.apm.org.uk/resources/what-is-project-management/what-is-project-communication/",
+          "checkedAt": "2026-11-03",
+          "retrievalStatus": "partial",
+          "result": "SUPPORTED",
+          "method": "独立打开APM原页并定点阅读相关段落。",
+          "finding": "partial：原页26–38行；交换信息、共同理解、受众及沟通方式。仅支持原则，具体对话为原创。"
+        }
+      ]
+    },
+    {
+      "cardId": "V20261012-010",
+      "contentHash": "570061150dff12ff2bc16a318d6876ef213605a55d1780d05819f85751bbbb20",
+      "sourceEvidenceHash": "98f804a12f9515ad011d05c7e981dc44d08889d69af79bd7fc7936d3965a37ed",
+      "reviewer": "trial_reviewer_1",
+      "decision": "APPROVE",
+      "hardGates": "PASS",
+      "scores": {
+        "accuracy": 4,
+        "readability": 4,
+        "explanation": 5,
+        "transfer": 5,
+        "efficiency": 4
+      },
+      "reasons": {
+        "accuracy": "Cambridge PROTECTION含提前到场应对延误例，足以支持时间余量；two-day语法准确。",
+        "readability": "软垫类比与两天余量衔接自然。",
+        "explanation": "预留buffer与已发生delay有清楚时态差别。",
+        "transfer": "04确认最终日期是否已含缓冲很实用，05发货前留一天自然。",
+        "efficiency": "正常评审时长与缓冲分开，避免误解。"
+      },
+      "issues": [],
+      "sourceChecks": [
+        {
+          "sourceId": "lexical",
+          "url": "https://dictionary.cambridge.org/us/dictionary/english/buffer",
+          "checkedAt": "2026-11-03",
+          "retrievalStatus": "index_excerpt",
+          "result": "SUPPORTED",
+          "method": "独立web检索并阅读该词条可见索引；没有将搜索结果算作直接抓取全文。",
+          "finding": "Cambridge PROTECTION的时间缓冲示例；不靠APM沟通页证明词义。"
+        },
+        {
+          "sourceId": "method",
+          "url": "https://www.apm.org.uk/resources/what-is-project-management/what-is-project-communication/",
+          "checkedAt": "2026-11-03",
+          "retrievalStatus": "partial",
+          "result": "SUPPORTED",
+          "method": "独立打开APM原页并定点阅读相关段落。",
+          "finding": "partial：原页26–38行；交换信息、共同理解、受众及沟通方式。仅支持原则，具体对话为原创。"
+        }
+      ]
+    },
+    {
+      "cardId": "V20261012-011",
+      "contentHash": "8cf50224cb760cac6f05937eca702864d87372235f82a3bcd2f04ae29ad5b1b6",
+      "sourceEvidenceHash": "0fa89b58d46fc2cec08fa419eadfa51f9d1ef61ec2de395ac367b5bcabf75397",
+      "reviewer": "trial_reviewer_1",
+      "decision": "APPROVE",
+      "hardGates": "PASS",
+      "scores": {
+        "accuracy": 4,
+        "readability": 4,
+        "explanation": 5,
+        "transfer": 5,
+        "efficiency": 4
+      },
+      "reasons": {
+        "accuracy": "顺序义和agree on搭配正确；对Let’s合作效果保留场合与权限限制。",
+        "readability": "步骤编号和先检查再装配容易理解。",
+        "explanation": "sequence与schedule、priority分工清楚。",
+        "transfer": "04回应提供可确认先后关系，05walk me through自然。",
+        "efficiency": "三种对照数量适中，例句各有用途。"
+      },
+      "issues": [],
+      "sourceChecks": [
+        {
+          "sourceId": "lexical",
+          "url": "https://dictionary.cambridge.org/dictionary/english/sequence",
+          "checkedAt": "2026-11-03",
+          "retrievalStatus": "index_excerpt",
+          "result": "SUPPORTED",
+          "method": "独立web检索并阅读该词条可见索引；没有将搜索结果算作直接抓取全文。",
+          "finding": "Cambridge ORDERED SERIES/in sequence；APM time scheduling。"
+        },
+        {
+          "sourceId": "method",
+          "url": "https://www.apm.org.uk/resources/glossary/",
+          "checkedAt": "2026-11-03",
+          "retrievalStatus": "partial",
+          "result": "SUPPORTED",
+          "method": "独立打开APM原页并定点阅读相关段落。",
+          "finding": "partial：检索并读取Deliverable 327、Dependency 332、关系类型439–444/1197–1199及Time scheduling 1293；不把整个词汇表都说成已读。"
+        },
+        {
+          "sourceId": "communication",
+          "url": "https://www.apm.org.uk/resources/what-is-project-management/what-is-project-communication/",
+          "checkedAt": "2026-11-03",
+          "retrievalStatus": "partial",
+          "result": "SUPPORTED",
+          "method": "独立打开APM原页并定点阅读相关段落。",
+          "finding": "partial：原页26–38行；交换信息、共同理解、受众及沟通方式。仅支持原则，具体对话为原创。"
+        }
+      ]
+    },
+    {
+      "cardId": "V20261012-012",
+      "contentHash": "d4aa74ea39dcb1be6a22545b33fb2b82e7ca5f172cf5883510e863035d87b040",
+      "sourceEvidenceHash": "c9c5b77d2663a1d8b063dcd1a063d519b8c9e5083ffdc962b6270f3a8ae08799",
+      "reviewer": "trial_reviewer_1",
+      "decision": "APPROVE",
+      "hardGates": "PASS",
+      "scores": {
+        "accuracy": 4,
+        "readability": 4,
+        "explanation": 5,
+        "transfer": 5,
+        "efficiency": 4
+      },
+      "reasons": {
+        "accuracy": "承载工作量为合理当前义，capacity/capability重叠有说明；否定both的范围正确。",
+        "readability": "容器类比帮助区别会不会与还能否承担。",
+        "explanation": "不把负荷不足当能力差，解释实际判断。",
+        "transfer": "04选启动顺序，05限定本周评审负荷，问法自然。",
+        "efficiency": "限制时段和追问瓶颈补充新信息；中文能力一词稍泛。"
+      },
+      "issues": [
+        {
+          "severity": "minor",
+          "blocking": false,
+          "location": "g5",
+          "suggestion": "中文还有能力可改为还有余力，让负荷义更直接。"
+        }
+      ],
+      "sourceChecks": [
+        {
+          "sourceId": "lexical",
+          "url": "https://dictionary.cambridge.org/dictionary/english/capacity",
+          "checkedAt": "2026-11-03",
+          "retrievalStatus": "index_excerpt",
+          "result": "SUPPORTED",
+          "method": "独立web检索并阅读该词条可见索引；没有将搜索结果算作直接抓取全文。",
+          "finding": "Cambridge AMOUNT/ABILITY及Business English；APM需求与可用资源。"
+        },
+        {
+          "sourceId": "method",
+          "url": "https://www.apm.org.uk/blog/what-is-resource-management/",
+          "checkedAt": "2026-11-03",
+          "retrievalStatus": "partial",
+          "result": "SUPPORTED",
+          "method": "独立打开APM原页并定点阅读相关段落。",
+          "finding": "partial：原页52–71行；核对资源可用量、需求、配置和时间。"
+        },
+        {
+          "sourceId": "communication",
+          "url": "https://www.apm.org.uk/resources/what-is-project-management/what-is-project-communication/",
+          "checkedAt": "2026-11-03",
+          "retrievalStatus": "partial",
+          "result": "SUPPORTED",
+          "method": "独立打开APM原页并定点阅读相关段落。",
+          "finding": "partial：原页26–38行；交换信息、共同理解、受众及沟通方式。仅支持原则，具体对话为原创。"
+        }
+      ]
+    },
+    {
+      "cardId": "V20261012-013",
+      "contentHash": "987c19610fe94c641064ec338162eb981f462185e4c385de88c1623214596a00",
+      "sourceEvidenceHash": "584317d9fc9193b560cfb9683bdd97ab0f9b1299bda41f27a21e0bf11a201fb2",
+      "reviewer": "trial_reviewer_1",
+      "decision": "APPROVE",
+      "hardGates": "PASS",
+      "scores": {
+        "accuracy": 4,
+        "readability": 4,
+        "explanation": 4,
+        "transfer": 5,
+        "efficiency": 4
+      },
+      "reasons": {
+        "accuracy": "allocate time to用途结构、should建议和spend区别准确。",
+        "readability": "划份额清楚；more的说明可更直白。",
+        "explanation": "计划分配与实际花费对照有效，但份额概念略重复。",
+        "transfer": "04追问增加量及影响，05两小时设计评审自然。",
+        "efficiency": "五区完整，02的增加多少表述略拗口但非事实错。"
+      },
+      "issues": [
+        {
+          "severity": "minor",
+          "blocking": false,
+          "location": "g2",
+          "suggestion": "more表示比原安排更多时间，但句中未说明多多少。"
+        }
+      ],
+      "sourceChecks": [
+        {
+          "sourceId": "lexical",
+          "url": "https://dictionary.cambridge.org/us/dictionary/english/allocate",
+          "checkedAt": "2026-11-03",
+          "retrievalStatus": "index_excerpt",
+          "result": "SUPPORTED",
+          "method": "独立web检索并阅读该词条可见索引；没有将搜索结果算作直接抓取全文。",
+          "finding": "Cambridge Business English allocate sth to及allocate time。"
+        },
+        {
+          "sourceId": "method",
+          "url": "https://www.apm.org.uk/blog/what-is-resource-management/",
+          "checkedAt": "2026-11-03",
+          "retrievalStatus": "partial",
+          "result": "SUPPORTED",
+          "method": "独立打开APM原页并定点阅读相关段落。",
+          "finding": "partial：原页52–71行；核对资源可用量、需求、配置和时间。"
+        },
+        {
+          "sourceId": "communication",
+          "url": "https://www.apm.org.uk/resources/what-is-project-management/what-is-project-communication/",
+          "checkedAt": "2026-11-03",
+          "retrievalStatus": "partial",
+          "result": "SUPPORTED",
+          "method": "独立打开APM原页并定点阅读相关段落。",
+          "finding": "partial：原页26–38行；交换信息、共同理解、受众及沟通方式。仅支持原则，具体对话为原创。"
+        }
+      ]
+    },
+    {
+      "cardId": "V20261012-014",
+      "contentHash": "0bfa407ca55cd2ae6036b563a2b343708e1a0669a2b36c598ab2115ae72c5034",
+      "sourceEvidenceHash": "97aa0eb0a5f0b8a8619b7f42c57526ddfdfcfd9b13b3d0fa4684889c844466a0",
+      "reviewer": "trial_reviewer_1",
+      "decision": "APPROVE",
+      "hardGates": "PASS",
+      "scores": {
+        "accuracy": 4,
+        "readability": 4,
+        "explanation": 5,
+        "transfer": 5,
+        "efficiency": 4
+      },
+      "reasons": {
+        "accuracy": "delegate动词任务委派义正确；权限作为适当配套而非自动无限授权。",
+        "readability": "交什么交给谁和整项目分开，易读。",
+        "explanation": "与allocate资源份额的例子可实际判断。",
+        "transfer": "04先确认人选可用，05交接要求和反馈方式明确。",
+        "efficiency": "没有把can或I’d like to误当已接手。"
+      },
+      "issues": [],
+      "sourceChecks": [
+        {
+          "sourceId": "lexical",
+          "url": "https://dictionary.cambridge.org/us/dictionary/english/delegate",
+          "checkedAt": "2026-11-03",
+          "retrievalStatus": "index_excerpt",
+          "result": "SUPPORTED",
+          "method": "独立web检索并阅读该词条可见索引；没有将搜索结果算作直接抓取全文。",
+          "finding": "Cambridge verb GIVE；APM第3点解释要求、第5点提供资源支持。"
+        },
+        {
+          "sourceId": "method",
+          "url": "https://www.apm.org.uk/blog/seven-tips-on-how-to-delegate-effectively/",
+          "checkedAt": "2026-11-03",
+          "retrievalStatus": "partial",
+          "result": "SUPPORTED",
+          "method": "独立打开APM原页并定点阅读相关段落。",
+          "finding": "partial：原页65–74行；解释任务要求、双向沟通和提供工具资源支持。"
+        },
+        {
+          "sourceId": "communication",
+          "url": "https://www.apm.org.uk/resources/what-is-project-management/what-is-project-communication/",
+          "checkedAt": "2026-11-03",
+          "retrievalStatus": "partial",
+          "result": "SUPPORTED",
+          "method": "独立打开APM原页并定点阅读相关段落。",
+          "finding": "partial：原页26–38行；交换信息、共同理解、受众及沟通方式。仅支持原则，具体对话为原创。"
+        }
+      ]
+    },
+    {
+      "cardId": "V20261012-015",
+      "contentHash": "e60013c9f3e4da3e73fa83cc73a46e0443882a9a2808544811984e8478d9900d",
+      "sourceEvidenceHash": "9b71ca91617c825c62dc6cc3773fc66b3ccab7cd36e3c9e89db95064ceda5240",
+      "reviewer": "trial_reviewer_1",
+      "decision": "APPROVE",
+      "hardGates": "PASS",
+      "scores": {
+        "accuracy": 4,
+        "readability": 4,
+        "explanation": 5,
+        "transfer": 5,
+        "efficiency": 4
+      },
+      "reasons": {
+        "accuracy": "Cambridge Business English明确有责任义；不可数及of宾语正确，未推断签字权。",
+        "readability": "这件事由我跟进直达当前义；open item说明自然。",
+        "explanation": "ownership/accountability区别有组织规则限定，避免绝对二分。",
+        "transfer": "04认领加明天回报；05明确测试问题职责可直接用。",
+        "efficiency": "独自执行与责任统筹分开有帮助。"
+      },
+      "issues": [],
+      "sourceChecks": [
+        {
+          "sourceId": "lexical",
+          "url": "https://dictionary.cambridge.org/us/dictionary/english/ownership",
+          "checkedAt": "2026-11-03",
+          "retrievalStatus": "index_excerpt",
+          "result": "SUPPORTED",
+          "method": "独立web检索并阅读该词条可见索引；没有将搜索结果算作直接抓取全文。",
+          "finding": "Cambridge Business English idea/problem责任义；APM ownership/authority。"
+        },
+        {
+          "sourceId": "method",
+          "url": "https://www.apm.org.uk/resources/find-a-resource/competence-framework/overview/setting-up-for-success/",
+          "checkedAt": "2026-11-03",
+          "retrievalStatus": "partial",
+          "result": "SUPPORTED",
+          "method": "独立打开APM原页并定点阅读相关段落。",
+          "finding": "partial：原页159–165行；职责、问责、权限界限和汇报安排。"
+        },
+        {
+          "sourceId": "communication",
+          "url": "https://www.apm.org.uk/resources/what-is-project-management/what-is-project-communication/",
+          "checkedAt": "2026-11-03",
+          "retrievalStatus": "partial",
+          "result": "SUPPORTED",
+          "method": "独立打开APM原页并定点阅读相关段落。",
+          "finding": "partial：原页26–38行；交换信息、共同理解、受众及沟通方式。仅支持原则，具体对话为原创。"
+        }
+      ]
+    },
+    {
+      "cardId": "V20261012-016",
+      "contentHash": "e478ee97b4262e39ff25c7810f90a2069909d00f5f7ca8d269a53ab00ae7cb3b",
+      "sourceEvidenceHash": "ae10b21f4280def7849cf0ce2a1ee38715022f666e412ef29158d77260e3005e",
+      "reviewer": "trial_reviewer_1",
+      "decision": "APPROVE",
+      "hardGates": "PASS",
+      "scores": {
+        "accuracy": 4,
+        "readability": 4,
+        "explanation": 5,
+        "transfer": 5,
+        "efficiency": 4
+      },
+      "reasons": {
+        "accuracy": "accountable for doing/to sb符合词典；没有把One person扩张为普遍规则。",
+        "readability": "需要说清为什么简洁呈现问责。",
+        "explanation": "responsible的重叠和RACI专门角色区分谨慎准确。",
+        "transfer": "04核对决策权限，05询问批准职责自然。",
+        "efficiency": "语义、结构、角色及权限分别覆盖；谨慎提醒稍多。"
+      },
+      "issues": [],
+      "sourceChecks": [
+        {
+          "sourceId": "lexical",
+          "url": "https://dictionary.cambridge.org/dictionary/english/accountable",
+          "checkedAt": "2026-11-03",
+          "retrievalStatus": "index_excerpt",
+          "result": "SUPPORTED",
+          "method": "独立web检索并阅读该词条可见索引；没有将搜索结果算作直接抓取全文。",
+          "finding": "Cambridge Business English for doing/to；APM职责问责权限汇报。"
+        },
+        {
+          "sourceId": "method",
+          "url": "https://www.apm.org.uk/resources/find-a-resource/competence-framework/overview/setting-up-for-success/",
+          "checkedAt": "2026-11-03",
+          "retrievalStatus": "partial",
+          "result": "SUPPORTED",
+          "method": "独立打开APM原页并定点阅读相关段落。",
+          "finding": "partial：原页159–165行；职责、问责、权限界限和汇报安排。"
+        },
+        {
+          "sourceId": "communication",
+          "url": "https://www.apm.org.uk/resources/what-is-project-management/what-is-project-communication/",
+          "checkedAt": "2026-11-03",
+          "retrievalStatus": "partial",
+          "result": "SUPPORTED",
+          "method": "独立打开APM原页并定点阅读相关段落。",
+          "finding": "partial：原页26–38行；交换信息、共同理解、受众及沟通方式。仅支持原则，具体对话为原创。"
+        }
+      ]
+    },
+    {
+      "cardId": "V20261012-017",
+      "contentHash": "23846bc14c2192eba874153a00c042855a6f4e4c2210376b937c98f0c685c227",
+      "sourceEvidenceHash": "8221b16281c42b1a0e5d0ca152275e345f865cfa0c35a2394f8a7f788b1ae939",
+      "reviewer": "trial_reviewer_1",
+      "decision": "APPROVE",
+      "hardGates": "PASS",
+      "scores": {
+        "accuracy": 4,
+        "readability": 4,
+        "explanation": 5,
+        "transfer": 5,
+        "efficiency": 4
+      },
+      "reasons": {
+        "accuracy": "deadline最后期限和meet搭配正确；today不必是最终截止的解释正确。",
+        "readability": "日历完成点及决定影响易懂。",
+        "explanation": "deadline与target date、milestone的对照有约定限制。",
+        "transfer": "04问今天需何决定，05确认提交时点且提醒时区，实用自然。",
+        "efficiency": "两处时间推断略重叠，但避免常见误读。"
+      },
+      "issues": [],
+      "sourceChecks": [
+        {
+          "sourceId": "lexical",
+          "url": "https://dictionary.cambridge.org/us/dictionary/english/deadline",
+          "checkedAt": "2026-11-03",
+          "retrievalStatus": "index_excerpt",
+          "result": "SUPPORTED",
+          "method": "独立web检索并阅读该词条可见索引；没有将搜索结果算作直接抓取全文。",
+          "finding": "Cambridge Business English时间日期及meet/make/set deadline。"
+        },
+        {
+          "sourceId": "method",
+          "url": "https://www.apm.org.uk/resources/what-is-project-management/what-is-project-communication/",
+          "checkedAt": "2026-11-03",
+          "retrievalStatus": "partial",
+          "result": "SUPPORTED",
+          "method": "独立打开APM原页并定点阅读相关段落。",
+          "finding": "partial：原页26–38行；交换信息、共同理解、受众及沟通方式。仅支持原则，具体对话为原创。"
+        }
+      ]
+    }
+  ]
+}

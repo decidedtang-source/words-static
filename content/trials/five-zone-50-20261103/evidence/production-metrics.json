@@ -1,0 +1,29 @@
+{
+  "batchId": "FIVE-ZONE-50-20261103",
+  "count": 50,
+  "initialReview": {
+    "approve": 48,
+    "revise": 2
+  },
+  "finalReview": {
+    "approve": 50,
+    "revise": 0,
+    "quarantine": 0
+  },
+  "uniqueSourceUrls": 66,
+  "sourceUses": 138,
+  "reuseBeyondFirstSourceUse": 72,
+  "writerWebCalls": 46,
+  "writerWebCallsBasis": "research-1:9; research-2:17; research-3:20",
+  "reviewerWebCalls": "not uniformly counted; see review logs",
+  "tokenUsage": "unknown",
+  "tokenSavings": "not measured",
+  "scoreRange": [
+    80,
+    98
+  ],
+  "meanEditorialScore": 90.2,
+  "scoreCaveat": "Three independent reviewers; editorial scales may differ; not a learning-effect measurement",
+  "runtimeActivated": false,
+  "ownerReadabilityAcceptance": "PENDING"
+}
