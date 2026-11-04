@@ -1,3 +1,5 @@
+> **2026-11-04 最新Owner补充**：完整词典区必须可独立查阅，核对主要常用义、词性、语法和对应例句，Bridge再连接当前语境。源记录全量不等于常用覆盖完整。执行 [LEARNER-DICTIONARY-QA](LEARNER-DICTIONARY-QA.md) 和 verify-learner-dictionary.mjs；新版暂不冻结最终基线，不发布。
+
 # 词典义项完整收录与QA — 2026-11-04 Owner纠正
 
 本规范优先于历史“更多已选义项”“当前义不再重复”和“中文摘要即可”的要求。模块技术ID暂保留additionalSenses，用户标题改为**词典义项**；整页契约whole-card/2，词典子契约dictionary-full/1。

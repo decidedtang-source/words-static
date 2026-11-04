@@ -1,3 +1,5 @@
+> **2026-11-04 最新Owner补充**：完整词典区必须可独立查阅，核对主要常用义、词性、语法和对应例句，Bridge再连接当前语境。源记录全量不等于常用覆盖完整。执行 [LEARNER-DICTIONARY-QA](../../docs/codex/v3/five-zone-v3.1/LEARNER-DICTIONARY-QA.md) 和 verify-learner-dictionary.mjs；新版暂不冻结最终基线，不发布。
+
 > **2026-11-04 Owner词典区纠正**：标题改为“词典义项”，按明确词典版本完整收录原文释义、源例句、用法与标签，中文译释另标；不能只列更多摘要或过滤当前义。新要求与QA见 [FULL-DICTIONARY-QA](../../docs/codex/v3/five-zone-v3.1/FULL-DICTIONARY-QA.md)，优先于本文件历史冲突描述。版式冻结，不发布。
 
 # 按职责执行的可复用提示词

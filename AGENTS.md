@@ -1,3 +1,9 @@
+> **2026-11-05 Owner确认冻结**：当前50词示例与词典默认展开/前置版式固定为 [WORDS-STATIC-V3.1-DICTIONARY-FIRST-20261105](docs/design/dictionary-learner-50-20261105/README.md)，冻结目录不可覆盖。覆盖历史暂不冻结及旧排序说明；仅预览基线，不是main/Pages发布。
+
+> **2026-11-05 Owner版式调整**：词典义项默认展开，位于 B·直接释义之前，可手动折叠；本句先记和后五区保持原内容与顺序。仅候选预览，不发布。此要求覆盖历史排序。
+
+> **2026-11-04 最新Owner补充**：完整词典区必须可独立查阅，核对主要常用义、词性、语法和对应例句，Bridge再连接当前语境。源记录全量不等于常用覆盖完整。执行 [LEARNER-DICTIONARY-QA](docs/codex/v3/five-zone-v3.1/LEARNER-DICTIONARY-QA.md) 和 verify-learner-dictionary.mjs；新版暂不冻结最终基线，不发布。
+
 > **2026-11-04 Owner词典区纠正**：标题改为“词典义项”，按明确词典版本完整收录原文释义、源例句、用法与标签，中文译释另标；不能只列更多摘要或过滤当前义。新要求与QA见 [FULL-DICTIONARY-QA](docs/codex/v3/five-zone-v3.1/FULL-DICTIONARY-QA.md)，优先于本文件历史冲突描述。版式冻结，不发布。
 
 > **2026-11-03 最新正式登记：WORDS-STATIC-V3.1-FIVE-ZONE-SOURCE-FIRST**。先读 [五区来源整理版基线、工作流与QA](docs/codex/v3/five-zone-v3.1/README.md)。Owner已确认模板和“按五区需求检索成熟解释→整理→必要补写→独立QA”的内容生产方法。保留展开的当前拆词释义，随后直接释义区→本句先记→更多词典义项，再进入完整01—05。冻结HTML不可覆盖。此登记优先于下方历史规划中冲突的排序和讲解方法；仅模板/规划新版本，不是生产发布或内容独立审核通过。GitHub Pages、FSRS、学习记录、Notion选词和定时任务边界保持。状态 **READY_FOR_OWNER_REVIEW / NOT_DEPLOYED**。

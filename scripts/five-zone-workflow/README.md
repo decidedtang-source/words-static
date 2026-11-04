@@ -1,3 +1,5 @@
+> **2026-11-04 最新Owner补充**：完整词典区必须可独立查阅，核对主要常用义、词性、语法和对应例句，Bridge再连接当前语境。源记录全量不等于常用覆盖完整。执行 [LEARNER-DICTIONARY-QA](../../docs/codex/v3/five-zone-v3.1/LEARNER-DICTIONARY-QA.md) 和 verify-learner-dictionary.mjs；新版暂不冻结最终基线，不发布。
+
 > **2026-11-04 词典完整收录工作流**：新50词使用 `content/trials/dictionary-full-50-20261104`，规范见 [FULL-DICTIONARY-QA](../../docs/codex/v3/five-zone-v3.1/FULL-DICTIONARY-QA.md)。历史“更多义项”批次仅保留回看。新模块不得过滤当前义，也不能直接继承旧词典评分。
 >
 > 执行：`node content/trials/dictionary-full-50-20261104/assemble.mjs` → 独立词典回执 → `node scripts/five-zone-workflow/verify-full-dictionary.mjs`。验证锁定原页面与12个继承模块，逐字段核对全词典，最后跑300组浏览器门禁。`extract-full-dictionary.mjs`是本批固定OEWN源的可复现提取器；未接入定时任务或生产发布。
