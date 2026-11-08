@@ -1,0 +1,31 @@
+{
+  "commit": "f9b85ab932370555b62ffcb3df9b1121993edfd0",
+  "pr": "https://github.com/decidedtang-source/words-static/pull/7",
+  "checks": [
+    {
+      "file": "preview.html",
+      "sha256": "a82b76e32ff7e57a8d25fbc1b8bc1637ee85ab5f423905518a574f145c137001",
+      "identical": true
+    },
+    {
+      "file": "cards.json",
+      "sha256": "6871c73133623a714b6a5c29d303f006edf4c6bde607e00416d65efc79b278d8",
+      "identical": true
+    },
+    {
+      "file": "reviews.json",
+      "sha256": "78ddc2deea6a14a2188f9c04e41c2cfb7a12acd342b56869aaf9f9c23154f4ca",
+      "identical": true
+    },
+    {
+      "file": "COMPARISON.html",
+      "sha256": "266fc271815eeb883f4e774e314b14d545322bfee02e0c483645a955b9e9ff8d",
+      "identical": true
+    },
+    {
+      "file": "evidence/acceptance.json",
+      "sha256": "76f4360a0b95d5a8593ef0240cafb227645b10abe7c1a8854853a077c0dd9e67",
+      "identical": true
+    }
+  ]
+}

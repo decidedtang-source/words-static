@@ -57,3 +57,9 @@ npm run test:browser
 89项单元测试、15项现有应用浏览器测试、312项候选视口检查通过；实际构建成功但未发布。桌面1440×900与手机390×844长页截图已人工查看。详见[evidence/acceptance.json](evidence/acceptance.json)、[浏览器记录](evidence/browser.json)、[测试原始日志](evidence/tests.json)。视口包括320px窄屏；原185条来源文本逐页核对保留。
 
 本机后台预览服务启动被自动审批策略拒绝（仅返回blocked by policy）；没有启动服务或替换发布方式。请直接打开preview.html，或下载候选目录后打开；所有本地来源链接已随目录封包。
+
+## GitHub交付
+
+分支：trial/dictionary-v4-50-20261109。内容提交：f9b85ab932370555b62ffcb3df9b1121993edfd0。[Draft PR #7](https://github.com/decidedtang-source/words-static/pull/7)叠加旧候选PR #6，不指向main发布。5项核心产物已按该提交从GitHub逐字节回读一致，见[evidence/remote-readback.json](evidence/remote-readback.json)。
+
+首次git push因系统凭据选到旧账户返回403；使用既有正确GitHub CLI登录的单次凭据助手后成功，未改全局账户或权限。

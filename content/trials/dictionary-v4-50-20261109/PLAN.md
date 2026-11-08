@@ -10,7 +10,7 @@ Spec: current user V4 instructions and STRUCTURE.md; these supersede historical 
 - [x] Migrate original 50, preserving sources/B/C and adding individual exceptions; independent content review.
 - [x] Implement compact progressive dictionary, Bridge and full five zones; fail-closed review fingerprints, search/copy regression.
 - [x] Run unit/build/browser regression, visually inspect desktop/mobile, verify immutable baseline and storage files.
-- [ ] Commit/push candidate, create draft PR against original candidate, read back remote; no merge/deploy.
+- [x] Commit/push candidate, create draft PR against original candidate, read back remote; no merge/deploy.
 
 Review focus: shifted POS/context bindings; transparent terms padded into fake etymology; duplicated B/C/01 explanations; mobile long-source overflow; stale or self-authored QA receipts.
 
