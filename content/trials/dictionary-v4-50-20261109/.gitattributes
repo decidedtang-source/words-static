@@ -1,0 +1,6 @@
+* text eol=lf
+*.png binary
+OEWN-LICENSE.md -text -whitespace
+WNDB_License.txt -text -whitespace
+source-snapshot.json -text
+wiktionary-snapshot.json -text

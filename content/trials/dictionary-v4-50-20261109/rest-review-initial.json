@@ -1,0 +1,1275 @@
+{
+  "status": "REVISE",
+  "scope": "46 remaining original entries; all layers",
+  "evidence": [
+    {
+      "url": "https://www.oxfordlearnersdictionaries.com/definition/english/take-on",
+      "retrieval": "search_index",
+      "supports": "no-passive qualities and compete senses; hiring is a distinct ordinary sense"
+    },
+    {
+      "url": "https://www.oxfordlearnersdictionaries.com/definition/english/elaborate_1",
+      "retrieval": "search_index",
+      "supports": "adjective usually-before-noun label and pronunciation"
+    },
+    {
+      "url": "https://www.oxfordlearnersdictionaries.com/definition/english/contingency",
+      "retrieval": "search_index",
+      "supports": "separate sum-of-money sense"
+    }
+  ],
+  "reviews": [
+    {
+      "cardId": "V20261012-001",
+      "term": "scope",
+      "reviewer": "/root/content_reviewer",
+      "ruleVersion": "dictionary-v4/1",
+      "fingerprint": "ff22c2e2161c38e60041b4aca58ef9e37f5c32e04748f6d223e2e5f37671132f",
+      "scores": {
+        "A": 4,
+        "B": 4,
+        "C": 4,
+        "D": 3,
+        "E": 4
+      },
+      "reasons": {
+        "A": "范围/机会与两种动词用法可独立查阅",
+        "B": "普通范围直接用于项目边界，不强推专业义",
+        "C": "透明义无需额外故事，边界提示足够",
+        "D": "01搭配与02前后顺序明确；04和05同问培训是否包含，增量偏少",
+        "E": "The scope of the survey excludes travel costs. 能理解调查覆盖范围"
+      },
+      "transferCheck": "The scope of the survey excludes travel costs. 能理解调查覆盖范围",
+      "decision": "REVISE",
+      "issues": [
+        {
+          "blocking": true,
+          "message": "04/05都问培训是否包含，05仅换同类宾语，教学增量不足。保留04互动，05改为表达范围变更/排除的可迁移句式及条件。"
+        },
+        {
+          "blocking": false,
+          "message": "透明Bridge中“不必编故事/不强推词源”是作者QA话语，可压缩后移到编辑记录；正文仅留必要理解提示。"
+        }
+      ]
+    },
+    {
+      "cardId": "V20261012-002",
+      "term": "objective",
+      "reviewer": "/root/content_reviewer",
+      "ruleVersion": "dictionary-v4/1",
+      "fingerprint": "6393fccfc5f68b16b55a1a220c6ebeca32d0885ca926c0214a849f68cc905fa8",
+      "scores": {
+        "A": 4,
+        "B": 4,
+        "C": 4,
+        "D": 4,
+        "E": 4
+      },
+      "reasons": {
+        "A": "名词目标、形容词客观分开且有例句",
+        "B": "名词目标直连减少耗时，并拒绝跨词性假推导",
+        "C": "辨清objective assessment不应读作目标评估",
+        "D": "02 spent修饰time、03目标与成果、04追问测量、05幅度句独立",
+        "E": "An objective assessment of our objective. 能区分两次词性"
+      },
+      "transferCheck": "An objective assessment of our objective. 能区分两次词性",
+      "decision": "PASS",
+      "issues": [
+        {
+          "blocking": false,
+          "message": "透明Bridge中“不必编故事/不强推词源”是作者QA话语，可压缩后移到编辑记录；正文仅留必要理解提示。"
+        }
+      ]
+    },
+    {
+      "cardId": "V20261012-003",
+      "term": "deliverable",
+      "reviewer": "/root/content_reviewer",
+      "ruleVersion": "dictionary-v4/1",
+      "fingerprint": "77bfa6b96ae5a2849f19fbb8555745e0c4a3b688171380b174d871fbf4afe1db",
+      "scores": {
+        "A": 4,
+        "B": 5,
+        "C": 4,
+        "D": 4,
+        "E": 4
+      },
+      "reasons": {
+        "A": "名词成果与两个形容词用法可查，不限实物",
+        "B": "deliver提供约定结果→应交成果联系明确",
+        "C": "解释活动与交付物的差异，未声称词源年代",
+        "D": "列清单/复数阶段/任务节点辨析/请求回应/补充需求层次清楚",
+        "E": "Training materials are the deliverable, not the planning meetings. 能分过程与产出"
+      },
+      "transferCheck": "Training materials are the deliverable, not the planning meetings. 能分过程与产出",
+      "decision": "PASS",
+      "issues": []
+    },
+    {
+      "cardId": "V20261012-004",
+      "term": "milestone",
+      "reviewer": "/root/content_reviewer",
+      "ruleVersion": "dictionary-v4/1",
+      "fingerprint": "bf6cb8b6a3714bd6cc1e95158c12a75377ccd160e7c2afa0d67487bb28997b28",
+      "scores": {
+        "A": 4,
+        "B": 4,
+        "C": 4,
+        "D": 4,
+        "E": 5
+      },
+      "reasons": {
+        "A": "重要事件和路标义分列，例句展示非项目人生用法",
+        "B": "路标标记进程→项目事件标记进展具体",
+        "C": "不把达成节点当作项目结束；评审节点例须加假设",
+        "D": "01时间轴、02 after不等因果、03deadline区别、04下一节点、05expect区别完整",
+        "E": "Graduation was a milestone, but her studies continued. 能理解非终点"
+      },
+      "transferCheck": "Graduation was a milestone, but her studies continued. 能理解非终点",
+      "decision": "REVISE",
+      "issues": [
+        {
+          "blocking": true,
+          "message": "Bridge“因此完成评审可成为milestone”应标为假设项目设置，不把原句after the review读成评审本身就是节点；02已准确限定，需前后一致。"
+        }
+      ]
+    },
+    {
+      "cardId": "V20261012-005",
+      "term": "priority",
+      "reviewer": "/root/content_reviewer",
+      "ruleVersion": "dictionary-v4/1",
+      "fingerprint": "0db4a47b9349ac5a1851a64972fd1a6da9ac9ca35a68b8562d8eb7fa66d1c1be",
+      "scores": {
+        "A": 4,
+        "B": 4,
+        "C": 4,
+        "D": 4,
+        "E": 4
+      },
+      "reasons": {
+        "A": "事项与优先地位区分可数/不可数",
+        "B": "前面事项与先后待遇的共核明确",
+        "C": "解释先处理不等于其他事项没价值",
+        "D": "01三搭配、02 remaining范围、03sequence、04排序提议、05竞争资源各有任务",
+        "E": "Safety takes priority over speed. 能理解比较关系"
+      },
+      "transferCheck": "Safety takes priority over speed. 能理解比较关系",
+      "decision": "PASS",
+      "issues": []
+    },
+    {
+      "cardId": "V20261012-006",
+      "term": "constraint",
+      "reviewer": "/root/content_reviewer",
+      "ruleVersion": "dictionary-v4/1",
+      "fingerprint": "e82d6cc7c921407f7d0d5e54f69106783904c8c89ca447fe41b1d591aa891e51",
+      "scores": {
+        "A": 4,
+        "B": 4,
+        "C": 4,
+        "D": 4,
+        "E": 4
+      },
+      "reasons": {
+        "A": "限制条件与拘束状态分列",
+        "B": "资源条件限制可做安排，直接应用清楚",
+        "C": "说明无需实体绳索，未补造历史",
+        "D": "资格人数、风险与现有限制、错峰回应、预算表达层次成立",
+        "E": "Space constraints prevent a larger table. 能转入日常场景"
+      },
+      "transferCheck": "Space constraints prevent a larger table. 能转入日常场景",
+      "decision": "PASS",
+      "issues": [
+        {
+          "blocking": false,
+          "message": "透明Bridge中“不必编故事/不强推词源”是作者QA话语，可压缩后移到编辑记录；正文仅留必要理解提示。"
+        }
+      ]
+    },
+    {
+      "cardId": "V20261012-007",
+      "term": "dependency",
+      "reviewer": "/root/content_reviewer",
+      "ruleVersion": "dictionary-v4/1",
+      "fingerprint": "3ca6895df8aaa784116d913946824395d2b5f8e17f9c042ef58e77d4b696878b",
+      "scores": {
+        "A": 4,
+        "B": 5,
+        "C": 5,
+        "D": 4,
+        "E": 5
+      },
+      "reasons": {
+        "A": "依赖状态、物质依赖、属地、项目关系分别组织",
+        "B": "需要支持→活动需要输入，且不只finish-to-start",
+        "C": "从单一顺序扩展到条件依赖有必要增量",
+        "D": "01关系图、02定稿顺序、03blocker、04测试回应、05外部输入各异",
+        "E": "Installation depends on both access and equipment. 能识别多个前提"
+      },
+      "transferCheck": "Installation depends on both access and equipment. 能识别多个前提",
+      "decision": "PASS",
+      "issues": [
+        {
+          "blocking": false,
+          "message": "01的A→B例与“A需要B”容易和常见前置到后续箭头方向混淆，虽要求标注，最好明确箭头表示依赖还是输入流。"
+        }
+      ]
+    },
+    {
+      "cardId": "V20261012-008",
+      "term": "assumption",
+      "reviewer": "/root/content_reviewer",
+      "ruleVersion": "dictionary-v4/1",
+      "fingerprint": "9510bdaba0435d6c50f8caf484f1564987e2e8a1284644d52b214853d9ce42fc",
+      "scores": {
+        "A": 4,
+        "B": 4,
+        "C": 4,
+        "D": 4,
+        "E": 4
+      },
+      "reasons": {
+        "A": "未经证实前提与承担责任正式义分开",
+        "B": "计划暂按前提推算，核实后修正，非必错",
+        "C": "避免把未证实理解为错误，透明说明合理",
+        "D": "01检核链、02被动、03estimate/fact、04联系动作、05that前提独立",
+        "E": "The estimate assumes dry weather. 能找出待核实条件"
+      },
+      "transferCheck": "The estimate assumes dry weather. 能找出待核实条件",
+      "decision": "PASS",
+      "issues": []
+    },
+    {
+      "cardId": "V20261012-009",
+      "term": "baseline",
+      "reviewer": "/root/content_reviewer",
+      "ruleVersion": "dictionary-v4/1",
+      "fingerprint": "ea113392c6a3b41c2581f26336a385d66ea972aa789c196ee11661a378b9e0af",
+      "scores": {
+        "A": 4,
+        "B": 5,
+        "C": 5,
+        "D": 4,
+        "E": 5
+      },
+      "reasons": {
+        "A": "比较基准与体育义分列，场所例可独立理解",
+        "B": "参照线→比较起点关系清晰",
+        "C": "说明起点不是目标且可表现不好",
+        "D": "01起点目标两栏、02测量顺序、03benchmark、04口径、05记录期间有增量",
+        "E": "Record your current running time as a baseline. 能理解个人比较"
+      },
+      "transferCheck": "Record your current running time as a baseline. 能理解个人比较",
+      "decision": "REVISE",
+      "issues": [
+        {
+          "blocking": true,
+          "message": "B场景层仍主要复述当前定义、Bridge或02；请保留B但改为该词独有的实际场景、判断边界或操作后果，避免全页重复。"
+        }
+      ]
+    },
+    {
+      "cardId": "V20261012-010",
+      "term": "buffer",
+      "reviewer": "/root/content_reviewer",
+      "ruleVersion": "dictionary-v4/1",
+      "fingerprint": "147a0e67c79b9de383409e60e1af1649f83ac44f1b643009a1ce95a7153585ef",
+      "scores": {
+        "A": 4,
+        "B": 5,
+        "C": 5,
+        "D": 4,
+        "E": 5
+      },
+      "reasons": {
+        "A": "实体保护、时间资金、数据与动词分层",
+        "B": "吸收物理冲击→余量吸收排程变化具体",
+        "C": "预留不等于已经延误，解释有增量",
+        "D": "01资源种类、02two-day、03delay、04是否计入、05预留建议独立",
+        "E": "Savings provide a buffer against repairs. 能跨入资金"
+      },
+      "transferCheck": "Savings provide a buffer against repairs. 能跨入资金",
+      "decision": "PASS",
+      "issues": []
+    },
+    {
+      "cardId": "V20261012-011",
+      "term": "sequence",
+      "reviewer": "/root/content_reviewer",
+      "ruleVersion": "dictionary-v4/1",
+      "fingerprint": "53e93d03fce527a1e1ff14c8a8f10d87e20cb326e64f6c2545bb499207e9796e",
+      "scores": {
+        "A": 4,
+        "B": 4,
+        "C": 4,
+        "D": 4,
+        "E": 4
+      },
+      "reasons": {
+        "A": "序列与顺序、影视段落、排序测序可查",
+        "B": "一串事物→事物接续方式，直接关系成立",
+        "C": "指出已有活动清单仍需定顺序",
+        "D": "01卡片顺序、02of范围、03schedule、04先检后装、05逐步说明独立",
+        "E": "Put the photographs in sequence. 能区分清单和排列"
+      },
+      "transferCheck": "Put the photographs in sequence. 能区分清单和排列",
+      "decision": "PASS",
+      "issues": [
+        {
+          "blocking": false,
+          "message": "展开动词义把一般排序与DNA测序合列，后续可分用法并各给例；当前例只展示测序。"
+        }
+      ]
+    },
+    {
+      "cardId": "V20261012-012",
+      "term": "capacity",
+      "reviewer": "/root/content_reviewer",
+      "ruleVersion": "dictionary-v4/1",
+      "fingerprint": "892c49f8f08485aba4c20a6b3655d66ff520e8af19132c7c589edeec8a9d12da",
+      "scores": {
+        "A": 4,
+        "B": 5,
+        "C": 5,
+        "D": 4,
+        "E": 5
+      },
+      "reasons": {
+        "A": "容纳量、产能、能力、身份四义可独立查阅",
+        "B": "容器装多少→团队承接多少关系具体",
+        "C": "资源已满与不会做区分有效",
+        "D": "01spare/身份、02both否定范围、03capability、04排序、05本周余力独立",
+        "E": "The hall has spare capacity; the team has none this week. 能理解共享容量"
+      },
+      "transferCheck": "The hall has spare capacity; the team has none this week. 能理解共享容量",
+      "decision": "PASS",
+      "issues": []
+    },
+    {
+      "cardId": "V20261012-013",
+      "term": "allocate",
+      "reviewer": "/root/content_reviewer",
+      "ruleVersion": "dictionary-v4/1",
+      "fingerprint": "d822069ca98f9fec1115a55fd5184434a236afa94aea4f5fd582f26f95398217",
+      "scores": {
+        "A": 4,
+        "B": 4,
+        "C": 4,
+        "D": 4,
+        "E": 4
+      },
+      "reasons": {
+        "A": "资源分配释义与to/for句型可独立",
+        "B": "物品份额→时间份额不增加总时间",
+        "C": "解释抽象资源为何能分配",
+        "D": "01资源用途表、02more未量化、03spend、04量化追问、05时长表达独立",
+        "E": "Allocate a shelf to each child. 可迁移空间资源"
+      },
+      "transferCheck": "Allocate a shelf to each child. 可迁移空间资源",
+      "decision": "PASS",
+      "issues": []
+    },
+    {
+      "cardId": "V20261012-014",
+      "term": "delegate",
+      "reviewer": "/root/content_reviewer",
+      "ruleVersion": "dictionary-v4/1",
+      "fingerprint": "56c0de82e838ee4dc660f6fe091868d104979f46b806aa5ae9d100a5acf8a84c",
+      "scores": {
+        "A": 4,
+        "B": 4,
+        "C": 4,
+        "D": 4,
+        "E": 4
+      },
+      "reasons": {
+        "A": "委派任务/代表执行/名词代表分列且提示读音",
+        "B": "代表人→由代表承担的动作联系成立",
+        "C": "不自动转走全部最终责任，边界适当",
+        "D": "01词性、02接收者、03allocate、04可用性、05交接要求有增量",
+        "E": "Delegate the bookings to an assistant. 能识别任务与人"
+      },
+      "transferCheck": "Delegate the bookings to an assistant. 能识别任务与人",
+      "decision": "PASS",
+      "issues": []
+    },
+    {
+      "cardId": "V20261012-016",
+      "term": "accountable",
+      "reviewer": "/root/content_reviewer",
+      "ruleVersion": "dictionary-v4/1",
+      "fingerprint": "2a47c85d90133dd65e30847d34687ab776fd14bacf619f19aaef72233d621b47",
+      "scores": {
+        "A": 4,
+        "B": 5,
+        "C": 5,
+        "D": 4,
+        "E": 5
+      },
+      "reasons": {
+        "A": "形容词位置、for事项/to对象与例句可用",
+        "B": "account作说明→可被要求交代，避开银行义",
+        "C": "责任与说明关系不止译成负责",
+        "D": "01双介词、02must/one、03responsible重叠、04指定人、05汇报关系完整",
+        "E": "The editor is accountable for corrections. 能理解解释责任"
+      },
+      "transferCheck": "The editor is accountable for corrections. 能理解解释责任",
+      "decision": "PASS",
+      "issues": []
+    },
+    {
+      "cardId": "V20261012-017",
+      "term": "deadline",
+      "reviewer": "/root/content_reviewer",
+      "ruleVersion": "dictionary-v4/1",
+      "fingerprint": "6505c49c1f357ba0152d49eb6a524ecdf068a36e16e12d32e5b7c458b1a64fce",
+      "scores": {
+        "A": 4,
+        "B": 4,
+        "C": 4,
+        "D": 4,
+        "E": 4
+      },
+      "reasons": {
+        "A": "最晚完成时点释义、meet/miss/extend可独立",
+        "B": "today决定与最终时限分开，透明义不编故事",
+        "C": "区分中间动作时点与最终deadline",
+        "D": "01by/on、02目的、03target date、04待决项、05具体时刻各有价值",
+        "E": "Decide today to meet Friday’s deadline. 能分两日期"
+      },
+      "transferCheck": "Decide today to meet Friday’s deadline. 能分两日期",
+      "decision": "PASS",
+      "issues": [
+        {
+          "blocking": false,
+          "message": "透明Bridge中“不必编故事/不强推词源”是作者QA话语，可压缩后移到编辑记录；正文仅留必要理解提示。"
+        }
+      ]
+    },
+    {
+      "cardId": "V20261012-018",
+      "term": "commitment",
+      "reviewer": "/root/content_reviewer",
+      "ruleVersion": "dictionary-v4/1",
+      "fingerprint": "353d9fbf0483edde37aeb0263defbd90d43191062a3db43cc12eb38055c40d25",
+      "scores": {
+        "A": 4,
+        "B": 4,
+        "C": 4,
+        "D": 4,
+        "E": 4
+      },
+      "reasons": {
+        "A": "承诺/投入/既有义务分别有例句",
+        "B": "持续履行共同核连接承诺与投入",
+        "C": "解释为何可追问承诺条件，而非单译承诺",
+        "D": "01make/honour与03有轻微复现，02behind、04条件、05until仍独立",
+        "E": "Family commitments prevent the trip. 可转入已承担义务"
+      },
+      "transferCheck": "Family commitments prevent the trip. 可转入已承担义务",
+      "decision": "REVISE",
+      "issues": [
+        {
+          "blocking": true,
+          "message": "B场景层仍主要复述当前定义、Bridge或02；请保留B但改为该词独有的实际场景、判断边界或操作后果，避免全页重复。"
+        }
+      ]
+    },
+    {
+      "cardId": "V20261012-019",
+      "term": "contingency",
+      "reviewer": "/root/content_reviewer",
+      "ruleVersion": "dictionary-v4/1",
+      "fingerprint": "2b6690bb8acaad2ed43fe4368ea6ada75cf5af08caaf842524ca0cac79c36129",
+      "scores": {
+        "A": 4,
+        "B": 4,
+        "C": 4,
+        "D": 4,
+        "E": 4
+      },
+      "reasons": {
+        "A": "可能情形与备用款项均可查，plan组合明确",
+        "B": "情形→为情形准备的plan组合联系清楚",
+        "C": "避免把风险情形与办法当同义",
+        "D": "01plan/fund、02名词修饰、03backup、04待命、05系统宕机有任务",
+        "E": "A contingency fund covers unexpected repairs. 能分事件和资金"
+      },
+      "transferCheck": "A contingency fund covers unexpected repairs. 能分事件和资金",
+      "decision": "REVISE",
+      "issues": [
+        {
+          "blocking": true,
+          "message": "B场景层仍主要复述当前定义、Bridge或02；请保留B但改为该词独有的实际场景、判断边界或操作后果，避免全页重复。"
+        }
+      ]
+    },
+    {
+      "cardId": "V20261012-020",
+      "term": "trade-off",
+      "reviewer": "/root/content_reviewer",
+      "ruleVersion": "dictionary-v4/1",
+      "fingerprint": "323cfa7db949e8e216287a230709dbbdef2fb077208cac97c77e2263f868390e",
+      "scores": {
+        "A": 4,
+        "B": 5,
+        "C": 5,
+        "D": 4,
+        "E": 5
+      },
+      "reasons": {
+        "A": "取舍释义说明获得与损失，例句自然",
+        "B": "交换→收益与代价共存关系明确",
+        "C": "不是任选两好处，而需识别牺牲",
+        "D": "01两端、02比较、03choice/compromise、04价格追问、05设计取舍完整",
+        "E": "Longer battery life means a heavier device. 能指出两端代价"
+      },
+      "transferCheck": "Longer battery life means a heavier device. 能指出两端代价",
+      "decision": "PASS",
+      "issues": []
+    },
+    {
+      "cardId": "V20261012-041",
+      "term": "agenda",
+      "reviewer": "/root/content_reviewer",
+      "ruleVersion": "dictionary-v4/1",
+      "fingerprint": "1bb91c194c631d6f2dd92943846842435f4127740bc10b00000b9afc209c0e12",
+      "scores": {
+        "A": 4,
+        "B": 4,
+        "C": 4,
+        "D": 4,
+        "E": 4
+      },
+      "reasons": {
+        "A": "会议事项与目标计划两义独立",
+        "B": "要处理事项共核连接议程和行动计划",
+        "C": "不误认为会后记录或必有暗中动机",
+        "D": "01on议程、02时间未量化、03minutes、04发送承诺、05加项清楚",
+        "E": "Put maintenance on the agenda. 能理解将事项列入讨论"
+      },
+      "transferCheck": "Put maintenance on the agenda. 能理解将事项列入讨论",
+      "decision": "PASS",
+      "issues": []
+    },
+    {
+      "cardId": "V20261012-042",
+      "term": "context",
+      "reviewer": "/root/content_reviewer",
+      "ruleVersion": "dictionary-v4/1",
+      "fingerprint": "e386619581128d492f2f06693055e6a16b198ace910550b374977f4caa811de5",
+      "scores": {
+        "A": 4,
+        "B": 5,
+        "C": 5,
+        "D": 4,
+        "E": 5
+      },
+      "reasons": {
+        "A": "背景与语言上下文各有例句",
+        "B": "前后语言与周围情况共享非孤立理解",
+        "C": "解释为何需要相关背景而非任意历史",
+        "D": "01孤立数字、02Let me、03detail、04新增需求、05估算前提可迁移",
+        "E": "The figure is misleading out of context. 能追问比较背景"
+      },
+      "transferCheck": "The figure is misleading out of context. 能追问比较背景",
+      "decision": "PASS",
+      "issues": []
+    },
+    {
+      "cardId": "V20261012-043",
+      "term": "clarify",
+      "reviewer": "/root/content_reviewer",
+      "ruleVersion": "dictionary-v4/1",
+      "fingerprint": "03d583579770072dbb940947d9c68e1f7e981e6c2f86e5ee1fa78eeb3199d528",
+      "scores": {
+        "A": 4,
+        "B": 5,
+        "C": 5,
+        "D": 4,
+        "E": 5
+      },
+      "reasons": {
+        "A": "解释明确与液体澄清分列，专业义展开",
+        "B": "杂质减少与歧义消除共享看清关系",
+        "C": "不等同说更长，有具体联系",
+        "D": "01clarification、02从句、03confirm/elaborate、04边界回应、05whether完整",
+        "E": "Clarify whether guests need tickets. 能提出针对性澄清"
+      },
+      "transferCheck": "Clarify whether guests need tickets. 能提出针对性澄清",
+      "decision": "REVISE",
+      "issues": [
+        {
+          "blocking": true,
+          "message": "B场景层仍主要复述当前定义、Bridge或02；请保留B但改为该词独有的实际场景、判断边界或操作后果，避免全页重复。"
+        }
+      ]
+    },
+    {
+      "cardId": "V20261012-044",
+      "term": "confirm",
+      "reviewer": "/root/content_reviewer",
+      "ruleVersion": "dictionary-v4/1",
+      "fingerprint": "20907f4ddcf2091b0bffbad3a423dfde4fc436e68813f765782e33c02b679ea8",
+      "scores": {
+        "A": 4,
+        "B": 4,
+        "C": 4,
+        "D": 4,
+        "E": 4
+      },
+      "reasons": {
+        "A": "证实/安排确认/任命/宗教分义",
+        "B": "让判断或安排更确定的共核成立",
+        "C": "核实事实与沟通确定安排区别有价值",
+        "D": "01that、02who主语、03approve、04负责人、05数量核实各有任务",
+        "E": "The test confirmed the diagnosis. 能迁移证据确认义"
+      },
+      "transferCheck": "The test confirmed the diagnosis. 能迁移证据确认义",
+      "decision": "REVISE",
+      "issues": [
+        {
+          "blocking": true,
+          "message": "B场景层仍主要复述当前定义、Bridge或02；请保留B但改为该词独有的实际场景、判断边界或操作后果，避免全页重复。"
+        }
+      ]
+    },
+    {
+      "cardId": "V20261012-045",
+      "term": "specify",
+      "reviewer": "/root/content_reviewer",
+      "ruleVersion": "dictionary-v4/1",
+      "fingerprint": "d89440a62cb45c5f238fa0c5cb35059beec595d50b950dbe88dabf47f2acba12",
+      "scores": {
+        "A": 4,
+        "B": 4,
+        "C": 4,
+        "D": 4,
+        "E": 4
+      },
+      "reasons": {
+        "A": "明确具体说明及从句用法独立",
+        "B": "笼统期待→可核对条目，直接用法",
+        "C": "补足具体化不等于同意或解释原因",
+        "D": "01soon量化、02for+ing、03clarify、04条件清单、05文件格式有增量",
+        "E": "Specify the required dimensions. 能问可执行信息"
+      },
+      "transferCheck": "Specify the required dimensions. 能问可执行信息",
+      "decision": "REVISE",
+      "issues": [
+        {
+          "blocking": true,
+          "message": "B场景层仍主要复述当前定义、Bridge或02；请保留B但改为该词独有的实际场景、判断边界或操作后果，避免全页重复。"
+        }
+      ]
+    },
+    {
+      "cardId": "V20261012-046",
+      "term": "elaborate",
+      "reviewer": "/root/content_reviewer",
+      "ruleVersion": "dictionary-v4/1",
+      "fingerprint": "f31bf599ac60f0e93dc2b79ec8397021cc58cb3a0873ae9d4ea635e9b26b69be",
+      "scores": {
+        "A": 4,
+        "B": 4,
+        "C": 4,
+        "D": 4,
+        "E": 4
+      },
+      "reasons": {
+        "A": "动词与形容词区别并提示两读音，Oxford支持位置标签",
+        "B": "复杂细致与补充细节共核成立",
+        "C": "强调相关细节而非故作复杂",
+        "D": "01词性、02on/about嵌套、03clarify、04具体影响、05how追问完整",
+        "E": "Could you elaborate on the cost impact? 能展开指定影响"
+      },
+      "transferCheck": "Could you elaborate on the cost impact? 能展开指定影响",
+      "decision": "REVISE",
+      "issues": [
+        {
+          "blocking": true,
+          "message": "B场景层仍主要复述当前定义、Bridge或02；请保留B但改为该词独有的实际场景、判断边界或操作后果，避免全页重复。"
+        }
+      ]
+    },
+    {
+      "cardId": "V20261012-047",
+      "term": "summarize",
+      "reviewer": "/root/content_reviewer",
+      "ruleVersion": "dictionary-v4/1",
+      "fingerprint": "36e7de537943a45845d168081133f98b8c6ff18f4f79bcaf395b65424384eb31",
+      "scores": {
+        "A": 4,
+        "B": 4,
+        "C": 4,
+        "D": 4,
+        "E": 4
+      },
+      "reasons": {
+        "A": "简要提要、及物不及物和英式拼写可用",
+        "B": "summary结果→summarize动作，联系直白",
+        "C": "保留已决未决边界有用，但不需长桥",
+        "D": "01词族、02并列对象、03repeat、04纠错、05格式约束分工成立",
+        "E": "Summarize the findings without omitting the uncertainty. 能压缩且保留限制"
+      },
+      "transferCheck": "Summarize the findings without omitting the uncertainty. 能压缩且保留限制",
+      "decision": "REVISE",
+      "issues": [
+        {
+          "blocking": true,
+          "message": "B场景层仍主要复述当前定义、Bridge或02；请保留B但改为该词独有的实际场景、判断边界或操作后果，避免全页重复。"
+        }
+      ]
+    },
+    {
+      "cardId": "V20261012-048",
+      "term": "recap",
+      "reviewer": "/root/content_reviewer",
+      "ruleVersion": "dictionary-v4/1",
+      "fingerprint": "dd3403592d2517cde58996d9fa1cd2f1ff441d6a9c9edd1cee4cce2c6c257dfa",
+      "scores": {
+        "A": 4,
+        "B": 4,
+        "C": 4,
+        "D": 4,
+        "E": 4
+      },
+      "reasons": {
+        "A": "动名词各有例，回顾义独立",
+        "B": "再次过已有要点，而非逐句重播",
+        "C": "透明义直接应用，强调已有内容",
+        "D": "01quick、02听众、03review、04未决事项、05收尾回顾职责完整",
+        "E": "Recap yesterday’s decisions for an absent colleague. 能补先前信息"
+      },
+      "transferCheck": "Recap yesterday’s decisions for an absent colleague. 能补先前信息",
+      "decision": "REVISE",
+      "issues": [
+        {
+          "blocking": true,
+          "message": "B场景层仍主要复述当前定义、Bridge或02；请保留B但改为该词独有的实际场景、判断边界或操作后果，避免全页重复。"
+        }
+      ]
+    },
+    {
+      "cardId": "V20261012-050",
+      "term": "consensus",
+      "reviewer": "/root/content_reviewer",
+      "ruleVersion": "dictionary-v4/1",
+      "fingerprint": "0c70aeee727d5f6f63d9ed4d50c01009d756b82153a91e93103a1de7756bd017",
+      "scores": {
+        "A": 4,
+        "B": 4,
+        "C": 4,
+        "D": 4,
+        "E": 4
+      },
+      "reasons": {
+        "A": "大体一致及可数性提示可独立",
+        "B": "常见义直接落到特定目标共识",
+        "C": "限制一致范围，不推定全细节一致",
+        "D": "02与04起句重复，但04写下目标的回应仍有增量；03agreement和05but有效",
+        "E": "Consensus on the goal need not mean consensus on the budget. 能限定义题"
+      },
+      "transferCheck": "Consensus on the goal need not mean consensus on the budget. 能限定义题",
+      "decision": "PASS",
+      "issues": [
+        {
+          "blocking": false,
+          "message": "02和04重复reached/on范围/未说明程序，可删04开头复述，保留把目标写下的互动增量。"
+        }
+      ]
+    },
+    {
+      "cardId": "V20261012-051",
+      "term": "concern",
+      "reviewer": "/root/content_reviewer",
+      "ruleVersion": "dictionary-v4/1",
+      "fingerprint": "f45c841be1a48be1a680ae2e0d1faed0428050737bf02135f06e6c6525ae46a7",
+      "scores": {
+        "A": 4,
+        "B": 4,
+        "C": 4,
+        "D": 4,
+        "E": 4
+      },
+      "reasons": {
+        "A": "名词忧虑/事项/关心/负责/企业及三动词可查",
+        "B": "相关→关注→可能担忧，不把相关必然化",
+        "C": "解释关切和担忧为何关联",
+        "D": "01for/about、02不推已不足、03objection、04追问工时、05窗口担忧独立",
+        "E": "This announcement concerns all passengers. 能辨涉及而非害怕"
+      },
+      "transferCheck": "This announcement concerns all passengers. 能辨涉及而非害怕",
+      "decision": "REVISE",
+      "issues": [
+        {
+          "blocking": true,
+          "message": "B场景层仍主要复述当前定义、Bridge或02；请保留B但改为该词独有的实际场景、判断边界或操作后果，避免全页重复。"
+        }
+      ]
+    },
+    {
+      "cardId": "V20261012-052",
+      "term": "objection",
+      "reviewer": "/root/content_reviewer",
+      "ruleVersion": "dictionary-v4/1",
+      "fingerprint": "69c35e04a8dbed1fac6f8c92f37578ff6f31145e04f9a7d2ea23fd8ee9a335cd",
+      "scores": {
+        "A": 4,
+        "B": 4,
+        "C": 4,
+        "D": 4,
+        "E": 4
+      },
+      "reasons": {
+        "A": "异议与理由定义清楚，to+ing例自然",
+        "B": "直用反对义，不从object物体编故事",
+        "C": "不发言不等批准由五区明确补足",
+        "D": "01object动词、02to介词、03无固定等级、04异议回应、05局部反对完整",
+        "E": "My objection is to the timing. 能限定反对对象"
+      },
+      "transferCheck": "My objection is to the timing. 能限定反对对象",
+      "decision": "PASS",
+      "issues": [
+        {
+          "blocking": false,
+          "message": "透明Bridge中“不必编故事/不强推词源”是作者QA话语，可压缩后移到编辑记录；正文仅留必要理解提示。"
+        }
+      ]
+    },
+    {
+      "cardId": "V20261012-054",
+      "term": "rationale",
+      "reviewer": "/root/content_reviewer",
+      "ruleVersion": "dictionary-v4/1",
+      "fingerprint": "af9f64f5b9071307405d08d7b6fe557aafaa1157e7bfab2724155873cb72c59d",
+      "scores": {
+        "A": 4,
+        "B": 4,
+        "C": 4,
+        "D": 4,
+        "E": 4
+      },
+      "reasons": {
+        "A": "理由及逻辑依据定义、for/behind与例句独立",
+        "B": "为何改而非改什么的直接义应用",
+        "C": "提示推理连接，不需要伪词形故事",
+        "D": "01理由链、02for+ing、03evidence、04期限理由、05变更依据独立",
+        "E": "Explain the rationale for the exception. 能区分证据和推理"
+      },
+      "transferCheck": "Explain the rationale for the exception. 能区分证据和推理",
+      "decision": "PASS",
+      "issues": [
+        {
+          "blocking": false,
+          "message": "透明Bridge中“不必编故事/不强推词源”是作者QA话语，可压缩后移到编辑记录；正文仅留必要理解提示。"
+        }
+      ]
+    },
+    {
+      "cardId": "V20261012-055",
+      "term": "proposal",
+      "reviewer": "/root/content_reviewer",
+      "ruleVersion": "dictionary-v4/1",
+      "fingerprint": "b12ad9fb25902936ee19c8871b3690b8f1ce8e6af886a847011a1b416ca30346",
+      "scores": {
+        "A": 4,
+        "B": 4,
+        "C": 4,
+        "D": 4,
+        "E": 4
+      },
+      "reasons": {
+        "A": "建议方案与求婚义分列，非必长文",
+        "B": "propose动作→proposal提出内容关系成立",
+        "C": "待考虑不等于批准，词义与流程分开",
+        "D": "01处理链、02before、03suggestion、04会前准备、05补信息完整",
+        "E": "A proposal can be rejected after review. 能辨建议与批准"
+      },
+      "transferCheck": "A proposal can be rejected after review. 能辨建议与批准",
+      "decision": "PASS",
+      "issues": []
+    },
+    {
+      "cardId": "V20261012-056",
+      "term": "alternative",
+      "reviewer": "/root/content_reviewer",
+      "ruleVersion": "dictionary-v4/1",
+      "fingerprint": "f5a2136d095cf79062dd9ff07aee23d416dfef70686452713146a36b63d0d55f",
+      "scores": {
+        "A": 4,
+        "B": 4,
+        "C": 4,
+        "D": 4,
+        "E": 4
+      },
+      "reasons": {
+        "A": "名词替代与形容词替代/非主流分义",
+        "B": "另一选择与可替代关系直接",
+        "C": "可替代不保证更好或已采用",
+        "D": "01to、02if范围、03option、04候选日期、05供应商检查独立",
+        "E": "Cycling is an alternative to driving. 能识别被替代项"
+      },
+      "transferCheck": "Cycling is an alternative to driving. 能识别被替代项",
+      "decision": "REVISE",
+      "issues": [
+        {
+          "blocking": true,
+          "message": "B场景层仍主要复述当前定义、Bridge或02；请保留B但改为该词独有的实际场景、判断边界或操作后果，避免全页重复。"
+        }
+      ]
+    },
+    {
+      "cardId": "V20261012-057",
+      "term": "compromise",
+      "reviewer": "/root/content_reviewer",
+      "ruleVersion": "dictionary-v4/1",
+      "fingerprint": "d31a870c74dec671dae81ab0a4a0b66c41a02cf88f79fc0cf2686500c5a007fd",
+      "scores": {
+        "A": 4,
+        "B": 4,
+        "C": 4,
+        "D": 4,
+        "E": 4
+      },
+      "reasons": {
+        "A": "名词折中及让步/损害/违背原则动词分列",
+        "B": "放低部分要求连接妥协/标准，不美化损害安全",
+        "C": "指出不是每个用法都良好协商",
+        "D": "01宾语判义、02议题限定、03agreement、04日期追问、05提出可让部分独立",
+        "E": "Never compromise safety to reach a compromise on price. 能分两种用法"
+      },
+      "transferCheck": "Never compromise safety to reach a compromise on price. 能分两种用法",
+      "decision": "PASS",
+      "issues": []
+    },
+    {
+      "cardId": "V20261012-058",
+      "term": "negotiate",
+      "reviewer": "/root/content_reviewer",
+      "ruleVersion": "dictionary-v4/1",
+      "fingerprint": "27ec846786f828b35e1aac3316902b00159f9d7c758ce46d15d6d617ca74be6f",
+      "scores": {
+        "A": 4,
+        "B": 4,
+        "C": 4,
+        "D": 4,
+        "E": 4
+      },
+      "reasons": {
+        "A": "协商与通过困难路段分列",
+        "B": "协商常见义直用，不编从弯路历史",
+        "C": "谈条件不等于单方通知或已达协议",
+        "D": "01with/over、02may、03discuss、04承诺日期、05留测试时间有增量",
+        "E": "Negotiate rent with the landlord. 能迁移条件协商"
+      },
+      "transferCheck": "Negotiate rent with the landlord. 能迁移条件协商",
+      "decision": "REVISE",
+      "issues": [
+        {
+          "blocking": true,
+          "message": "B场景层仍主要复述当前定义、Bridge或02；请保留B但改为该词独有的实际场景、判断边界或操作后果，避免全页重复。"
+        },
+        {
+          "blocking": false,
+          "message": "透明Bridge中“不必编故事/不强推词源”是作者QA话语，可压缩后移到编辑记录；正文仅留必要理解提示。"
+        }
+      ]
+    },
+    {
+      "cardId": "V20261012-059",
+      "term": "conclude",
+      "reviewer": "/root/content_reviewer",
+      "ruleVersion": "dictionary-v4/1",
+      "fingerprint": "e7f9c71724f5bf21fc5709d5cb1604e581da0a6cbb3eacbc78e1d94ca0ac4eee",
+      "scores": {
+        "A": 4,
+        "B": 4,
+        "C": 4,
+        "D": 4,
+        "E": 4
+      },
+      "reasons": {
+        "A": "结论/结束/达成协议三义独立",
+        "B": "活动结束与思考结论共享收束点",
+        "C": "以对象辨义而非只认that",
+        "D": "01三块、02by方式、03summarize、04下一步、05未决收尾完整",
+        "E": "Conclude from evidence that the cause is known. 能辨推理义"
+      },
+      "transferCheck": "Conclude from evidence that the cause is known. 能辨推理义",
+      "decision": "REVISE",
+      "issues": [
+        {
+          "blocking": true,
+          "message": "B场景层仍主要复述当前定义、Bridge或02；请保留B但改为该词独有的实际场景、判断边界或操作后果，避免全页重复。"
+        }
+      ]
+    },
+    {
+      "cardId": "V20261012-060",
+      "term": "document",
+      "reviewer": "/root/content_reviewer",
+      "ruleVersion": "dictionary-v4/1",
+      "fingerprint": "6256dd952923144365aa86a66c8a7080ce3c9d12e0f336c93be401c5318cb632",
+      "scores": {
+        "A": 4,
+        "B": 5,
+        "C": 4,
+        "D": 4,
+        "E": 5
+      },
+      "reasons": {
+        "A": "名词载体和动词记录证据分列",
+        "B": "记录载体→记录行为，动作转换明确",
+        "C": "非纸质也能记录，支持迁移",
+        "D": "01位置、02and/it、03discuss、04纪要位置、05记录非批准独立",
+        "E": "Photographs document the damage. 能转入非文字记录"
+      },
+      "transferCheck": "Photographs document the damage. 能转入非文字记录",
+      "decision": "REVISE",
+      "issues": [
+        {
+          "blocking": true,
+          "message": "B场景层仍主要复述当前定义、Bridge或02；请保留B但改为该词独有的实际场景、判断边界或操作后果，避免全页重复。"
+        }
+      ]
+    },
+    {
+      "cardId": "V20261012-061",
+      "term": "follow up",
+      "reviewer": "/root/content_reviewer",
+      "ruleVersion": "dictionary-v4/1",
+      "fingerprint": "1a3b9b0b69134b559b2174d8b6e08c017a242652a226627c3c65d43adc0a81e1",
+      "scores": {
+        "A": 4,
+        "B": 4,
+        "C": 4,
+        "D": 4,
+        "E": 4
+      },
+      "reasons": {
+        "A": "继续处理与接续行动两种结构可查",
+        "B": "跟随→先前行动后继续处理，关系具体",
+        "C": "区分发起与跟进，不硬译up",
+        "D": "01词形、02tomorrow非完成、03check、04回报、05缺资料跟进完整",
+        "E": "Follow up the call with an email. 能说明接续行动"
+      },
+      "transferCheck": "Follow up the call with an email. 能说明接续行动",
+      "decision": "PASS",
+      "issues": []
+    },
+    {
+      "cardId": "V20261012-062",
+      "term": "bring up",
+      "reviewer": "/root/content_reviewer",
+      "ruleVersion": "dictionary-v4/1",
+      "fingerprint": "f10b8f4099ae2dbb3bae93af7f680b8374fc7ec8dd0ae47722f7c81f7bfbb09d",
+      "scores": {
+        "A": 4,
+        "B": 4,
+        "C": 4,
+        "D": 4,
+        "E": 4
+      },
+      "reasons": {
+        "A": "提出/养育/呕吐/屏幕显示分列",
+        "B": "把话题带入注意范围，标作现代教学联系",
+        "C": "不把提出当解决，也不把所有义当向上带",
+        "D": "01代词、02时机、03discuss/point out、04入口、05议程完整",
+        "E": "Bring up the issue at lunch. 能提出不等展开讨论"
+      },
+      "transferCheck": "Bring up the issue at lunch. 能提出不等展开讨论",
+      "decision": "PASS",
+      "issues": []
+    },
+    {
+      "cardId": "V20261012-063",
+      "term": "walk through",
+      "reviewer": "/root/content_reviewer",
+      "ruleVersion": "dictionary-v4/1",
+      "fingerprint": "bbca4f2834ac519b62d51c32d085784166bc3650a0059a3f0bd859669fca2fd5",
+      "scores": {
+        "A": 4,
+        "B": 5,
+        "C": 5,
+        "D": 4,
+        "E": 5
+      },
+      "reasons": {
+        "A": "带领讲解与排练分列，短语整体可查",
+        "B": "沿路依次经过→依次理解步骤，清楚",
+        "C": "不需真走动也非宣布结果",
+        "D": "01人/内容与02略复现；03summary、04开始、05操作求助有独立任务",
+        "E": "Walk a friend through registering online. 能迁移操作教学"
+      },
+      "transferCheck": "Walk a friend through registering online. 能迁移操作教学",
+      "decision": "PASS",
+      "issues": [
+        {
+          "blocking": false,
+          "message": "01与02均填人/内容，01可更聚焦搭配检索，02保留当前句结构；已有其他三区提供充分增量。"
+        }
+      ]
+    },
+    {
+      "cardId": "V20261012-064",
+      "term": "point out",
+      "reviewer": "/root/content_reviewer",
+      "ruleVersion": "dictionary-v4/1",
+      "fingerprint": "81d3b217c00cbbbcae652b12b82bbf8243a4008794f9df6544efd473248c983f",
+      "scores": {
+        "A": 4,
+        "B": 5,
+        "C": 5,
+        "D": 4,
+        "E": 5
+      },
+      "reasons": {
+        "A": "提醒事实与指出位置分列",
+        "B": "目光位置→注意信息，关系可靠",
+        "C": "不天然批评，区别空间动作与话语动作",
+        "D": "01that、02between、03mention、04发言点、05运费条件完整",
+        "E": "Point out a discrepancy in the dates. 能提醒事实"
+      },
+      "transferCheck": "Point out a discrepancy in the dates. 能提醒事实",
+      "decision": "PASS",
+      "issues": []
+    },
+    {
+      "cardId": "V20261012-065",
+      "term": "rule out",
+      "reviewer": "/root/content_reviewer",
+      "ruleVersion": "dictionary-v4/1",
+      "fingerprint": "1db7e54d778a4e2f244228d293688d646595704c92b5eec5372dac54576cb5a3",
+      "scores": {
+        "A": 4,
+        "B": 4,
+        "C": 4,
+        "D": 4,
+        "E": 4
+      },
+      "reasons": {
+        "A": "排除选项与使行动不可能分列",
+        "B": "out考虑范围→排除可能，未强套rule规则",
+        "C": "cannot保留可能不等高概率",
+        "D": "01否定、02阶段、03unlikely/expect、04核查、05原因调查有增量",
+        "E": "We cannot rule out an error. 能保留候选而非断言"
+      },
+      "transferCheck": "We cannot rule out an error. 能保留候选而非断言",
+      "decision": "REVISE",
+      "issues": [
+        {
+          "blocking": true,
+          "message": "B场景层仍主要复述当前定义、Bridge或02；请保留B但改为该词独有的实际场景、判断边界或操作后果，避免全页重复。"
+        }
+      ]
+    },
+    {
+      "cardId": "V20261012-066",
+      "term": "hold off",
+      "reviewer": "/root/content_reviewer",
+      "ruleVersion": "dictionary-v4/1",
+      "fingerprint": "70a62852849925764ed84c1f5940b781765176fac9a68807e794c0e4a49843b3",
+      "scores": {
+        "A": 4,
+        "B": 4,
+        "C": 4,
+        "D": 4,
+        "E": 4
+      },
+      "reasons": {
+        "A": "暂缓/雨未开始/抵挡分列",
+        "B": "保持不推进→暂不开始，联系合理",
+        "C": "until界点不等取消",
+        "D": "01on/until、02条件、03cancel、04传递结果、05核数后发送完整",
+        "E": "Hold off on booking until the dates are confirmed. 能说明暂缓条件"
+      },
+      "transferCheck": "Hold off on booking until the dates are confirmed. 能说明暂缓条件",
+      "decision": "REVISE",
+      "issues": [
+        {
+          "blocking": true,
+          "message": "B场景层仍主要复述当前定义、Bridge或02；请保留B但改为该词独有的实际场景、判断边界或操作后果，避免全页重复。"
+        }
+      ]
+    },
+    {
+      "cardId": "V20261012-068",
+      "term": "take on",
+      "reviewer": "/root/content_reviewer",
+      "ruleVersion": "dictionary-v4/1",
+      "fingerprint": "1de15e2b06f41ed88f71f3ef325695df8bb09346aeac21feb28494d2ede1dad6",
+      "scores": {
+        "A": 4,
+        "B": 4,
+        "C": 4,
+        "D": 4,
+        "E": 4
+      },
+      "reasons": {
+        "A": "承担/雇用接客/呈现/对抗/载入五义，no passive核实正确",
+        "B": "接到自身→承担负担关系清楚",
+        "C": "拒绝新增不表示原任务完成",
+        "D": "01宾语、02本周范围、03work on、04改期、05有条件接手完整",
+        "E": "Take on responsibility without taking on extra staff. 能分承担/雇用"
+      },
+      "transferCheck": "Take on responsibility without taking on extra staff. 能分承担/雇用",
+      "decision": "PASS",
+      "issues": [
+        {
+          "blocking": false,
+          "message": "雇用员工是有用常见义却extended=true；建议默认展示，不要让承担的工作语境压过招聘用法。"
+        }
+      ]
+    },
+    {
+      "cardId": "V20261012-069",
+      "term": "weigh up",
+      "reviewer": "/root/content_reviewer",
+      "ruleVersion": "dictionary-v4/1",
+      "fingerprint": "3f12b5db4b6d6e092ba4143f2a6f2a8a44635ae1ca7251fd264811fa1f11a5f4",
+      "scores": {
+        "A": 4,
+        "B": 5,
+        "C": 5,
+        "D": 4,
+        "E": 5
+      },
+      "reasons": {
+        "A": "衡量选项与判断人两义独立",
+        "B": "物理重量→决定因素分量，可靠",
+        "C": "比浏览多权衡，不是真秤",
+        "D": "01两栏、02代词位置、03consider、04标准、05A against B完整",
+        "E": "Weigh the convenience against the cost. 能比较两类因素"
+      },
+      "transferCheck": "Weigh the convenience against the cost. 能比较两类因素",
+      "decision": "PASS",
+      "issues": []
+    },
+    {
+      "cardId": "V20261012-070",
+      "term": "wrap up",
+      "reviewer": "/root/content_reviewer",
+      "ruleVersion": "dictionary-v4/1",
+      "fingerprint": "f25f656328faaaff5abbe4f083ac045540ada0902e2224201b86030e7ec3571c",
+      "scores": {
+        "A": 4,
+        "B": 4,
+        "C": 4,
+        "D": 4,
+        "E": 4
+      },
+      "reasons": {
+        "A": "包裹/结束/穿暖三义独立",
+        "B": "包收整体→活动收尾，标作理解联系",
+        "C": "确认人日期不是每次必需动作",
+        "D": "01warm、02by/owner、03summarize、04填人日期、05未决事项保留完整",
+        "E": "Wrap up the meeting with open issues recorded. 能结束不等全解决"
+      },
+      "transferCheck": "Wrap up the meeting with open issues recorded. 能结束不等全解决",
+      "decision": "PASS",
+      "issues": []
+    }
+  ]
+}

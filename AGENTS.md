@@ -1,3 +1,5 @@
+> **2026-11-09 V4候选**：当前授权为词典 → 独立现代语义Bridge → 完整01–05；B场景与C有据探索按需保留。见 [V4结构和规则](content/trials/dictionary-v4-50-20261109/STRUCTURE.md) 与 [实施审计](content/trials/dictionary-v4-50-20261109/PLAN.md)。新指令覆盖旧Bridge等同B、默认堆叠全来源的要求。旧冻结目录不可覆盖；原50身份不变，另附working definition和shift完整示范。仅候选预览，不改main、不部署、不改变FSRS或学习记录。
+
 > **2026-11-05 Owner确认冻结**：当前50词示例与词典默认展开/前置版式固定为 [WORDS-STATIC-V3.1-DICTIONARY-FIRST-20261105](docs/design/dictionary-learner-50-20261105/README.md)，冻结目录不可覆盖。覆盖历史暂不冻结及旧排序说明；仅预览基线，不是main/Pages发布。
 
 > **2026-11-05 Owner版式调整**：词典义项默认展开，位于 B·直接释义之前，可手动折叠；本句先记和后五区保持原内容与顺序。仅候选预览，不发布。此要求覆盖历史排序。
