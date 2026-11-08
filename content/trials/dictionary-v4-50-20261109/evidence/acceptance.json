@@ -1,0 +1,25 @@
+{
+  "status": "READY_FOR_OWNER_REVIEW",
+  "productionActivated": false,
+  "integratedRuntime": false,
+  "original50": 50,
+  "supplementalDemos": 2,
+  "reviewed": 52,
+  "minimumDimension": 4,
+  "previewChecks": 312,
+  "engine": "Edge Chromium",
+  "realDevice": false,
+  "visualReview": "Root inspected desktop.png and phone.png: core meanings, ordinary Bridge paragraph, five zones, B/C details, and copy controls readable; no viewport overflow.",
+  "protectedPathsUnchanged": true,
+  "frozenSha256": "5160512f5c2fc79256ec4cc7e125a9df6945d21633d0b6169c383061e96f7cce",
+  "previewHash": "28c4eba1a869bf6162931eb0cf961caf490bcb7a9d42d78dc647d0502c73816b",
+  "artifactSha256": {
+    "cards.json": "6871c73133623a714b6a5c29d303f006edf4c6bde607e00416d65efc79b278d8",
+    "reviews.json": "78ddc2deea6a14a2188f9c04e41c2cfb7a12acd342b56869aaf9f9c23154f4ca",
+    "preview.html": "a82b76e32ff7e57a8d25fbc1b8bc1637ee85ab5f423905518a574f145c137001",
+    "COMPARISON.html": "266fc271815eeb883f4e774e314b14d545322bfee02e0c483645a955b9e9ff8d",
+    "QUALITY.md": "230e6943b0c7e61a4b426d9e503297264319db0916ea0868148f1e5f57275e20",
+    "evidence/browser.json": "4d93df2d1ea60e6cfdcb32e7bf60bae29ea457ab0e44fa58015cbd01765e8531",
+    "evidence/tests.json": "74969609d5598534da419bf328558e2f8c8bb6c969948c8f04c54b2168b870bb"
+  }
+}
