@@ -1,0 +1,63 @@
+{
+  "version": "word-layout-v6-20261116",
+  "status": "OWNER_REQUESTED_FREEZE",
+  "date": "2026-11-16",
+  "baseCommit": "cfa2ecc19fddf2fac7508c642f8580b1b5a85838",
+  "files": [
+    {
+      "path": "build-preview.cjs",
+      "bytes": 3162,
+      "sha256": "a195d6cf44f804cb63c68a3f5562a8821177451e7bd60501d77eb5b5deaa7fea"
+    },
+    {
+      "path": "check-preview.cjs",
+      "bytes": 2375,
+      "sha256": "5d20ec12e4da7f32cc94cbee042bc94ccf6d53d7912c8c369783ff1572b3a40c"
+    },
+    {
+      "path": "combine-pdf.py",
+      "bytes": 405,
+      "sha256": "89bfb7a5cc9a8f59d1496bc4ae5cfd9fcfcab58f2efad7a236e4f4532c20f16d"
+    },
+    {
+      "path": "data.json",
+      "bytes": 14219,
+      "sha256": "5429365c18b0955d0689441f443c3551edbe95c27f5819b0a1ec44feda50f129"
+    },
+    {
+      "path": "export-pdf.cjs",
+      "bytes": 2905,
+      "sha256": "1e71f649af7347a3e37383777a22c16ecd0b25335007244d015da2ce8e240d40"
+    },
+    {
+      "path": "index.html",
+      "bytes": 40344,
+      "sha256": "6838835783acdf4a16876735fe32009fec24f6126e564548801bd7b4bbac3980"
+    },
+    {
+      "path": "review.pdf",
+      "bytes": 1686282,
+      "sha256": "f27ebd6be391c967779b11066046777a2b73dbaa281b41649f1347d9fcef3d36"
+    },
+    {
+      "path": "sources.json",
+      "bytes": 2607,
+      "sha256": "38aa33ad42c6e895abeb767ac62d98c2b35c8cfef106a85d7a770ee922c7bcf7"
+    },
+    {
+      "path": "template.html",
+      "bytes": 19778,
+      "sha256": "de602586ebec17b34f16245e6030ad67f2713eb6f3713c29cb44d00bceda120f"
+    },
+    {
+      "path": "verify-freeze.cjs",
+      "bytes": 393,
+      "sha256": "03a59847e31e11759d267d853952695fdcc50492ccb59f23515f3cb6a86f43df"
+    },
+    {
+      "path": "WORKFLOW.md",
+      "bytes": 3635,
+      "sha256": "827ee2b1b9ae605d8e072d2d433ac5c3c3264c71df53dedf2008115258d28556"
+    }
+  ]
+}

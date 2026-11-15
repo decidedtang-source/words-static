@@ -1,0 +1,181 @@
+<div id="words-layout-review">
+  <style>
+    #words-layout-review {color-scheme:light dark; --paper:light-dark(#fffdf8,#202521);--ink:light-dark(#20372e,#e3ebe4);--quiet:light-dark(#58675e,#aab9ac);--line:light-dark(#dce3d8,#414e43);--wash:light-dark(#f0f4ec,#2b352d);--green:light-dark(#275b43,#abd4b2);--accent:light-dark(#f1e5cb,#413b2b); color:var(--ink);font:15px/1.65 system-ui,"Microsoft YaHei",sans-serif;}
+    #words-layout-review * {box-sizing:border-box;}
+    #words-layout-review button,#words-layout-review select {font:inherit;color:inherit;cursor:pointer;}
+    #words-layout-review button:focus-visible,#words-layout-review a:focus-visible,#words-layout-review summary:focus-visible {outline:3px solid var(--green);outline-offset:3px;}
+    #words-layout-review .review-controls {display:flex;gap:10px;align-items:center;flex-wrap:wrap;padding:10px 0 18px;}
+    #words-layout-review select {background:var(--paper);border:1px solid var(--line);border-radius:8px;padding:8px;min-height:44px;max-width:100%;}
+    #words-layout-review .review-controls label {display:flex;align-items:center;gap:6px;}
+    #words-layout-review .frame {position:relative;background:var(--paper);border:1px solid var(--line);border-radius:22px;overflow:hidden;margin:auto;width:100%;max-width:410px;box-shadow:0 12px 30px light-dark(#20372e12,#00000022);}
+    #words-layout-review .frame[data-device="tablet"] {max-width:780px;}
+    #words-layout-review .frame[data-device="desktop"] {max-width:100%;border-radius:12px;}
+    #words-layout-review .app-header {display:flex;justify-content:space-between;align-items:center;padding:13px 20px;border-bottom:1px solid var(--line);background:var(--paper);gap:8px;}
+    #words-layout-review .brand {font-weight:650;letter-spacing:2px;}
+    #words-layout-review .muted {color:var(--quiet);font-size:12px;}
+    #words-layout-review .app-layout {display:grid;grid-template-columns:1fr;position:relative;}
+    #words-layout-review .side {display:none;padding:25px 16px;border-right:1px solid var(--line);}
+    #words-layout-review .side button {display:block;width:100%;text-align:left;border:0;background:transparent;border-radius:8px;padding:12px 10px;}
+    #words-layout-review .side button.active {background:var(--wash);font-weight:650;}
+    #words-layout-review .reader {height:650px;overflow:auto;overscroll-behavior:contain;padding:0 22px 95px;scrollbar-width:thin;}
+    #words-layout-review .frame[data-device="tablet"] .reader {padding-left:44px;padding-right:44px;}
+    #words-layout-review .frame[data-device="desktop"] .app-layout {grid-template-columns:150px minmax(0,1fr);}
+    #words-layout-review .frame[data-device="desktop"] .side {display:block;}
+    #words-layout-review .article {max-width:650px;margin:0 auto;}
+    #words-layout-review section {scroll-margin-top:18px;}
+    #words-layout-review .word-head {padding:12px 0 16px;}
+    #words-layout-review .word-head h2 {font:500 43px/1.2 Georgia,serif;letter-spacing:-1px;margin:4px 0 8px;}
+    #words-layout-review h3 {font-size:19px;line-height:1.4;margin:0 0 12px;font-weight:650;}
+    #words-layout-review h4 {font-size:15px;margin:0 0 6px;font-weight:650;}
+    #words-layout-review p {margin:8px 0;}
+    #words-layout-review a {color:var(--green);text-underline-offset:3px;overflow-wrap:anywhere;}
+    #words-layout-review .overview {display:grid;grid-template-columns:1fr 1fr;gap:10px;margin:0 0 24px;}
+    #words-layout-review mark {background:var(--accent);color:var(--ink);font-weight:650;padding:1px 3px;border-radius:3px;text-decoration:underline;text-decoration-color:var(--green);text-underline-offset:3px;}
+    #words-layout-review .source-preview {margin:14px 0 0;padding:10px 0;}
+    #words-layout-review .source-preview summary {font-size:14px;}
+    #words-layout-review .source-preview .source-caption {display:block;font-size:12px;color:var(--quiet);font-weight:400;padding-left:18px;}
+    #words-layout-review .source-preview .focus-explain {background:var(--wash);padding:10px 12px;border-radius:8px;}
+    #words-layout-review .source-section {padding-bottom:8px;}
+    #words-layout-review .meaning-button {text-align:left;padding:14px 12px;border-radius:12px;background:var(--wash);border:1px solid var(--line);min-height:110px;display:flex;flex-direction:column;gap:8px;}
+    #words-layout-review .meaning-button:last-child {background:var(--accent);}
+    #words-layout-review .meaning-button strong {font-size:16px;font-weight:650;}
+    #words-layout-review .meaning-button small {margin-top:auto;font-size:12px;}
+    #words-layout-review details {border-top:1px solid var(--line);border-bottom:1px solid var(--line);padding:14px 0;margin:0 0 22px;}
+    #words-layout-review summary {cursor:pointer;font-weight:600;min-height:32px;}
+    #words-layout-review .dictionary-body {padding-top:12px;}
+    #words-layout-review .dictionary-body p {font-size:14px;}
+    #words-layout-review .section {padding:18px 0;border-bottom:1px solid var(--line);}
+    #words-layout-review .sense {padding:14px 0;}
+    #words-layout-review .sense+.sense {border-top:1px dashed var(--line);}
+    #words-layout-review .english {font-family:Georgia,serif;font-size:18px;line-height:1.55;}
+    #words-layout-review .gloss {color:var(--quiet);font-size:14px;}
+    #words-layout-review .section-label {color:var(--quiet);font-size:12px;letter-spacing:1px;margin-bottom:8px;}
+    #words-layout-review .memory {background:var(--wash);padding:14px 16px;border-radius:10px;margin:15px 0 8px;font-size:14px;}
+    #words-layout-review .bridge {margin:8px -8px 8px;padding:18px 18px;border-radius:14px;background:var(--wash);border:1px solid var(--line);}
+    #words-layout-review .bridge details {margin:18px 0 0;padding-bottom:0;border-bottom:0;}
+    #words-layout-review .text-button {border:0;background:transparent;color:var(--green);padding:4px 0;text-decoration:underline;text-underline-offset:3px;text-align:left;min-height:40px;}
+    #words-layout-review .answer {font-size:20px;line-height:1.6;font-weight:550;}
+    #words-layout-review blockquote {margin:18px 0;padding:4px 0 4px 15px;border-left:3px solid var(--green);}
+    #words-layout-review .analysis-piece {padding:18px 0;border-bottom:1px solid var(--line);}
+    #words-layout-review .bottom-nav {position:absolute;bottom:12px;left:10px;right:10px;display:flex;justify-content:space-around;background:var(--paper);border:1px solid var(--line);border-radius:14px;padding:5px;box-shadow:0 5px 20px light-dark(#20372e1a,#00000066);z-index:2;}
+    #words-layout-review .bottom-nav[hidden] {display:none;}
+    #words-layout-review .bottom-nav button {background:transparent;border:0;border-radius:9px;font-size:12px;padding:9px 7px;min-height:44px;}
+    #words-layout-review .bottom-nav button.active {background:var(--wash);color:var(--green);font-weight:650;}
+    #words-layout-review .return-row {display:flex;justify-content:space-between;gap:10px;padding:24px 0;}
+    #words-layout-review [hidden] {display:none!important;}
+    @media(max-width:600px){#words-layout-review .frame[data-device="desktop"] .app-layout{grid-template-columns:1fr;}#words-layout-review .frame[data-device="desktop"] .side{display:none;}#words-layout-review .frame[data-device="tablet"] .reader{padding-left:20px;padding-right:20px;}#words-layout-review .review-controls {gap:6px;}#words-layout-review .reader{padding-left:16px;padding-right:16px;}#words-layout-review .meaning-button{padding:12px 9px;} }
+    @media(prefers-reduced-motion:reduce){#words-layout-review *{scroll-behavior:auto!important;}}
+
+    /* v5: keep body type legible; compact headings and redundant spacing. */
+    #words-layout-review h3 {font-size:16px;line-height:1.45;margin:0 0 8px;}
+    #words-layout-review .overview {margin-bottom:12px;}
+    #words-layout-review #wl-dictionary {margin:0;padding:6px 0;}
+    #words-layout-review #wl-dictionary summary {font-size:14px;min-height:44px;display:flex;align-items:center;gap:8px;list-style:none;}
+    #words-layout-review #wl-dictionary summary::before {content:'▸';}
+    #words-layout-review #wl-dictionary[open] summary::before {content:'▾';}
+    #words-layout-review #wl-common {padding-top:2px;}
+    #words-layout-review .sense {padding:10px 0;}
+    #words-layout-review .sense p {margin:5px 0;}
+    #words-layout-review .section {padding:14px 0;}
+    #words-layout-review .memory {padding:10px 12px;margin:10px 0 0;}
+    #words-layout-review .source-heading {display:flex;align-items:baseline;flex-wrap:wrap;gap:2px 10px;margin-bottom:6px;}
+    #words-layout-review .source-heading h3 {margin:0;flex-shrink:0;}
+    #words-layout-review .source-heading .muted {line-height:1.5;}
+    #words-layout-review .source-section {padding-bottom:0;border-bottom:0;}
+    #words-layout-review blockquote {margin:10px 0;padding:2px 0 2px 12px;}
+    #words-layout-review .source-section details {margin:8px 0 0;padding:0;border-bottom:0;}
+    #words-layout-review .source-section summary {font-size:13px;min-height:44px;line-height:44px;}
+    #words-layout-review .bridge {margin-top:8px;padding:14px;}
+    #words-layout-review .bridge .section-label {display:none;}
+    #words-layout-review .bridge details {margin-top:10px;padding-top:8px;}
+    #words-layout-review .bridge details summary {font-size:14px;min-height:44px;display:flex;align-items:center;gap:6px;list-style:none;}
+    #words-layout-review .bridge details summary::before {content:'▸';}
+    #words-layout-review .bridge details[open] summary::before {content:'▾';}
+    #words-layout-review .analysis-piece {padding:12px 0;}
+    #words-layout-review .return-row {padding:12px 0;}
+    #words-layout-review .dictionary-credit {font-size:12px;margin:8px 0 2px;color:var(--quiet);}
+    #words-layout-review .sense-meta {font-size:12px;color:var(--quiet);}
+    #words-layout-review .example-credit {font-size:11px;color:var(--quiet);margin:4px 0 0;}
+  </style>
+  <div class="review-controls" aria-label="排版示例选择">
+    <label>词条 <select id="wl-word"><option value="0">scope · 工作示例</option><option value="1">leverage · 文章阅读</option><option value="2">absorb · 文章阅读</option></select></label>
+    <label>屏幕 <select id="wl-device"><option value="phone">手机</option><option value="tablet">平板</option><option value="desktop">桌面</option></select></label>
+    <label>查看 <select id="wl-view"><option value="top">顶部概览</option><option value="top-source">顶部例句展开</option><option value="dictionary">词典展开</option><option value="common">高频义项</option><option value="history">历史用法</option><option value="source">场景原句</option><option value="bridge">Bridge</option><option value="context">场景词义</option><option value="deep">深入分析</option></select></label>
+  </div>
+  <div class="frame" data-device="phone">
+    <header class="app-header"><span class="brand">WORDS</span><span class="muted">词条阅读 · 排版预览</span></header>
+    <div class="app-layout">
+      <aside class="side" aria-label="页内目录"><p class="muted">本页目录</p><button data-go="top">词义概览</button><button data-go="dictionary">完整词典</button><button data-go="common">高频义项</button><button data-go="history">历史用法</button><button data-go="source">场景原句</button><button data-go="bridge">Bridge</button><button data-go="context">场景词义</button><button data-go="deep">深入分析</button><button data-go="top">↑ 返回顶部</button></aside>
+      <div class="reader" aria-label="连续阅读区域"><article class="article"></article></div>
+      <nav class="bottom-nav" aria-label="滚动后的页内导航" hidden><button data-go="common">高频义项</button><button data-go="bridge">Bridge</button><button data-go="context">场景词义</button><button data-go="top">↑ 顶部</button></nav>
+    </div>
+  </div>
+  <script type="application/json" id="wl-data">__WORDS_DATA__</script>
+  <script>
+  (()=>{
+    const root=document.getElementById('words-layout-review');
+    if(root.querySelector('#wl-data').textContent.trim().startsWith('__')){
+      const notice=document.createElement('p');
+      notice.textContent='这是排版源模板，尚未填入词条数据。请打开同目录的完整预览：';
+      const previewLink=document.createElement('a');
+      previewLink.href='./词条排版预览-直接打开.html';
+      previewLink.textContent='打开完整词条排版预览';
+      root.querySelector('.article').append(notice,previewLink);
+      root.querySelectorAll('select').forEach(el=>el.disabled=true);
+      return;
+    }
+    const data=JSON.parse(root.querySelector('#wl-data').textContent);
+    const article=root.querySelector('.article'),reader=root.querySelector('.reader'),frame=root.querySelector('.frame'),bottom=root.querySelector('.bottom-nav');
+    const wordSelect=root.querySelector('#wl-word'),viewSelect=root.querySelector('#wl-view'),deviceSelect=root.querySelector('#wl-device');
+    const escape=s=>String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+    const link=(url,label)=>`<a href="${escape(url)}" target="_blank" rel="noopener noreferrer">${escape(label)}</a>`;
+    const highlight=(text,term)=>escape(text).split(escape(term)).join(`<mark>${escape(term)}</mark>`);
+    function showWord(){
+      const w=data[Number(wordSelect.value)];
+      const source=w.sourceUrl?link(w.sourceUrl,w.sourceLabel)+' · '+w.sourceDate:escape(w.sourceLabel);
+      const focus={scope:'工作范围',leverage:'影响力',absorb:'成本'}[w.word];
+      const keyMeaning={scope:'约定的工作边界',leverage:'经济施压能力',absorb:'自己承担成本'}[w.word];
+      const quoteHtml=highlight(w.quote,w.word),translationHtml=highlight(w.translation,focus);
+      const quoteContent=`<blockquote><p class="english">${quoteHtml}</p><p>${translationHtml}</p></blockquote><p class="muted">${escape(w.quoteType)}</p>`;
+      article.innerHTML=`
+      <details id="wl-top-source" class="source-preview"><summary>场景例句与来源<span class="source-caption">${escape(w.sourceLabel)}${w.sourceDate?' · '+w.sourceDate:''}</span></summary><p class="muted">${source}</p>${quoteContent}<p class="focus-explain">此处重点：<mark>${escape(keyMeaning)}</mark><br>${escape(w.meaning)}</p>${w.word==='absorb'?`<p class="gloss">${escape(w.context)}</p>`:''}</details>
+      <section id="wl-top" class="word-head"><h2>${escape(w.word)}</h2><span>${escape(w.ipa)} · ${escape(w.pos)}</span></section>
+      <div class="overview"><button class="meaning-button" data-go="common"><span class="muted">高频词义</span><strong>${escape(w.general)}</strong><small>查看常用义项 ↓</small></button><button class="meaning-button" data-go="context"><span class="muted">场景词义</span><strong>${escape(w.meaning)}</strong><small>查看场景例句 ↓</small></button></div>
+      <details id="wl-dictionary"><summary>完整词典</summary><div class="dictionary-body" data-slot="full-dictionary"><p class="muted">完整词典内容待接入。</p></div></details>
+      <section id="wl-common" class="section"><p class="dictionary-credit">${link(w.dictUrl,w.learningSource)}</p>${w.senses.map((s,i)=>`<div class="sense" id="wl-sense-${i}"><h4>${i+1}. ${escape(s.title)}</h4><p class="sense-meta">${escape(s.meta)}</p><p class="gloss">${escape(s.en)}</p><p class="english">${escape(s.example)}</p><p class="gloss">${escape(s.zh)}</p><p class="example-credit">${link(s.url,s.credit)}</p></div>`).join('')}<p class="muted">中文释义与译文为整理；英文例句为词典短引。</p><div class="memory"><strong>使用小提示</strong><p>${escape(w.note)}</p></div></section>
+      <section id="wl-history" class="section"><h3>历史用法与词源演变</h3><p>${escape(w.history)}</p><p class="muted">历史资料：${link(w.historyUrl,'Etymonline ↗')}</p></section>
+      <section id="wl-source" class="section source-section"><div class="source-heading"><h3>场景学习</h3><span class="muted">${source}</span></div>${quoteContent}${w.word==='absorb'?`<p class="gloss">${escape(w.context)}</p>`:`<details><summary>查看必要上下文</summary><p>${escape(w.context)}</p></details>`}</section>
+      <section id="wl-bridge" class="bridge"><div class="section-label">语义过渡</div><h3>Bridge <span class="muted">· 场景联系分析</span></h3><button class="text-button" data-go="common">↑ 回看相关通用义项</button><p>${escape(w.bridge)}</p><details id="wl-bridge-history"><summary>历史联系 · 如何接到当前场景</summary><p>${escape(w.bridgeHistory)}</p><button class="text-button" data-go="history">↑ 回看前面的历史用法</button></details></section>
+      <section id="wl-deep" class="section"><h3>场景深入分析</h3><p class="muted">以下结合词典与上下文整理，迁移例句另标来源。</p>
+      <div class="analysis-piece"><h4>01 先记住，再联系</h4><p>${escape(w.memoryLink)}</p></div>
+      <div class="analysis-piece"><h4>02 句法与概念</h4><p>${escape(w.interpret)}</p></div>
+      <div class="analysis-piece"><h4>03 辨析与英文邻居</h4><p>${escape(w.contrast)}</p><p>${escape(w.neighbors)}</p></div>
+      <div class="analysis-piece"><h4>04 这句话在做什么</h4><p>${escape(w.action)}</p><p>${escape(w.response)}</p></div>
+      <div class="analysis-piece"><h4>05 工作中可以这样说</h4><p class="english">${escape(w.transfer)}</p><p class="gloss">${escape(w.transferZh)}</p><p>${escape(w.transferUse)}</p><p class="muted">自编迁移例句，不是作者原话。</p></div>
+      <p class="muted">现代义项核对：${link(w.dictUrl,'Cambridge ↗')}</p></section>
+      <div class="return-row"><button class="text-button" data-go="bridge">↑ 回看 Bridge</button><button class="text-button" data-go="top">↑ 返回概览</button></div>`;
+      reader.scrollTop=0;viewSelect.value='top';updateNav();
+    }
+    function go(id){
+      if(id==='context')id='source';
+      const el=root.querySelector('#wl-'+id);if(!el)return;
+      if(id==='dictionary'||id==='top-source')el.open=true;
+      const top=id==='top'?0:el.getBoundingClientRect().top-reader.getBoundingClientRect().top+reader.scrollTop-18;
+      reader.scrollTo({top:Math.max(0,top),behavior:'auto'});viewSelect.value=id;updateNav();
+    }
+    function updateNav(){
+      const desktop=frame.dataset.device==='desktop'&&frame.clientWidth>600;
+      const overview=root.querySelector('.overview');
+      bottom.hidden=desktop||!overview||overview.getBoundingClientRect().bottom>reader.getBoundingClientRect().top;
+      let active='top';
+      for(const id of ['common','history','source','bridge','deep']){const el=root.querySelector('#wl-'+id);if(el&&el.getBoundingClientRect().top<=reader.getBoundingClientRect().top+80)active=id;}
+      root.querySelectorAll('.side button,.bottom-nav button').forEach(b=>b.classList.toggle('active',b.dataset.go===active||(['source','deep'].includes(active)&&b.dataset.go==='context')));
+    }
+    root.addEventListener('click',e=>{const b=e.target.closest('[data-go]');if(b&&root.contains(b))go(b.dataset.go);});
+    wordSelect.addEventListener('change',showWord);viewSelect.addEventListener('change',()=>go(viewSelect.value));
+    deviceSelect.addEventListener('change',()=>{frame.dataset.device=deviceSelect.value;requestAnimationFrame(updateNav);});
+    reader.addEventListener('scroll',updateNav,{passive:true});new ResizeObserver(updateNav).observe(frame);
+    article.addEventListener('toggle',updateNav,true);showWord();
+  })();
+  </script>
+</div>
