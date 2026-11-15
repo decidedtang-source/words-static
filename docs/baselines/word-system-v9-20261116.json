@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "status": "BASELINE_RECORDED_NOT_ACCESS_CONTROL_LOCK",
+  "date": "2026-11-16",
+  "repository": "decidedtang-source/words-static",
+  "baselineCommit": "02606557f6c0cad1aea20a7ba4d34073f567f1d1",
+  "baselineTree": "619e56251269763ac83e87c01d1d7bea6315629b",
+  "preservationBranch": "baseline/word-system-v9-20261116",
+  "pageRelease": "word-layout-v9-20261116",
+  "pageArtifactRecord": {
+    "path": "public/previews/word-layout-v9-20261116/artifact.json",
+    "gitBlob": "d3adc8d4fb58d7c357827f4fc0f7208da48f7b40",
+    "recordedHtmlSha256": "2b9473e8cc12078b81162bfcbee69d5719a3c86adc4f08ea355fea1cc97b0401",
+    "recordedLockSha256": "db803f7a5d08b6617e3a14bcebc5ef9ad73a291084ea7d51b70f066436fda860",
+    "verificationScope": "Remote record inspected; historical test claims are not fresh test runs."
+  },
+  "contextHub": {
+    "repository": "decidedtang-source/chatgpt-context-hub",
+    "projectId": "0003",
+    "path": "projects/0003-work-english-podcast",
+    "preUpdateCommit": "3216e7db6fc5d205a8fdcb94f0bda7958052bd4b",
+    "preUpdateProjectTree": "2993538ad0309734c57dfb6d0ce640e0fa6efcb6"
+  },
+  "originalPromptSha256": "aaf3bd1e99daf47a70a2a158973652d67ff14dafcfc1748b3fc2a09d719885db",
+  "scope": ["existing source tree", "old page releases", "nine-module architecture", "existing production process definitions", "prior planning anchors"],
+  "notAuthorizedByThisRecord": ["V10 implementation", "bulk generation", "production deployment", "FSRS migration", "scheduler changes", "Podcast cutover"]
+}
