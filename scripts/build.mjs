@@ -5,3 +5,5 @@ await cp('public/licenses','dist/licenses',{recursive:true});
 
 // Publish the owner-frozen word-page sample at a versioned URL.
 await cp('public/previews/word-layout-v6-20261116','dist/previews/word-layout-v6-20261116',{recursive:true});
+
+await cp('public/previews/word-layout-v7-20261116','dist/previews/word-layout-v7-20261116',{recursive:true});
