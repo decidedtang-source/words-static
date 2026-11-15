@@ -1,0 +1,75 @@
+{
+  "version": "1.0.0",
+  "release": "word-layout-v8-20261116",
+  "wordIds": [
+    "scope",
+    "leverage",
+    "absorb"
+  ],
+  "sharedVersion": "1.0.0",
+  "modules": [
+    {
+      "id": "source-preview",
+      "label": "来源预览",
+      "contentVersion": "1.0.0",
+      "viewVersion": "1.0.0",
+      "processVersion": "1.0.0"
+    },
+    {
+      "id": "headword",
+      "label": "词头与发音",
+      "contentVersion": "1.0.0",
+      "viewVersion": "1.0.0",
+      "processVersion": "1.0.0"
+    },
+    {
+      "id": "navigation",
+      "label": "概览与导航",
+      "contentVersion": "1.0.0",
+      "viewVersion": "1.0.0",
+      "processVersion": "1.0.0"
+    },
+    {
+      "id": "dictionary",
+      "label": "完整词典",
+      "contentVersion": "1.0.0",
+      "viewVersion": "1.0.0",
+      "processVersion": "1.0.0"
+    },
+    {
+      "id": "learning",
+      "label": "常用学习",
+      "contentVersion": "1.0.0",
+      "viewVersion": "1.0.0",
+      "processVersion": "1.0.0"
+    },
+    {
+      "id": "history",
+      "label": "独立历史用法",
+      "contentVersion": "1.0.0",
+      "viewVersion": "1.0.0",
+      "processVersion": "1.0.0"
+    },
+    {
+      "id": "scenario",
+      "label": "场景学习",
+      "contentVersion": "1.0.0",
+      "viewVersion": "1.0.0",
+      "processVersion": "1.0.0"
+    },
+    {
+      "id": "bridge",
+      "label": "Bridge",
+      "contentVersion": "1.0.0",
+      "viewVersion": "1.0.0",
+      "processVersion": "1.0.0"
+    },
+    {
+      "id": "analysis",
+      "label": "五区连续分析",
+      "contentVersion": "1.0.0",
+      "viewVersion": "1.0.0",
+      "processVersion": "1.0.0"
+    }
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "release": "word-layout-v8-20261116",
+  "registry": "31938967a52f3ec961b274fc33e27df98fb9e8e226c87ff7367355be6d4b24ce",
+  "shared": {
+    "version": "1.0.0",
+    "hash": "c372dd403ede3fb098506d9b7e8bd7e22343f2babfe735680cdac9e0a12819e7"
+  },
+  "modules": {
+    "source-preview": {
+      "versions": {
+        "content": "1.0.0",
+        "view": "1.0.0",
+        "process": "1.0.0",
+        "interface": "1.0.0"
+      },
+      "hashes": {
+        "content": "e42a82c43bd8b4624dba295f5f072554370bd0cc58064ef00f2d55efb51d2f78",
+        "view": "57c84ee13e8e2e82f7498a105178cff44ffc062b84af03788b2cb898fee14a33",
+        "process": "d55842d67c3dc96608ed5f64103d215a729f97f04b3b58dfb129dc3db109cd1b",
+        "interface": "ccd2f94ec86737b17b7c2fa941e2e6005ed8e56032d8b6e19b5561c6b032d072"
+      },
+      "inputs": {
+        "scenario": {
+          "content": "53055844ad0fd00336461ff2b7be29d1be33ea01b82854d9b3da214c7f7625ac",
+          "interface": "888f5b959afe4c3e160c9cb2d035326535801f98ece46a167196a016934691c9"
+        }
+      }
+    },
+    "headword": {
+      "versions": {
+        "content": "1.0.0",
+        "view": "1.0.0",
+        "process": "1.0.0",
+        "interface": "1.0.0"
+      },
+      "hashes": {
+        "content": "d495ff16c5f78ec467afdf979982611cdddc3ee1f24bc0c541b053ece0896bdf",
+        "view": "033c4af24a0150d7e634675ef3d2391a5ae7f12bbcec420387063a6ddc44457b",
+        "process": "afa54cfcaf4d031750c5e6d8aad3699d6ac651a43f12d32756f6e0649b5d6e65",
+        "interface": "5a4c63b3cbbadffb29ea79b1455bdb71edbbd156668a685a12d5fa929d7c7139"
+      },
+      "inputs": {}
+    },
+    "navigation": {
+      "versions": {
+        "content": "1.0.0",
+        "view": "1.0.0",
+        "process": "1.0.0",
+        "interface": "1.0.0"
+      },
+      "hashes": {
+        "content": "e42a82c43bd8b4624dba295f5f072554370bd0cc58064ef00f2d55efb51d2f78",
+        "view": "8b5d30338ceac32f8590c260cb3cec9cebf56ed22dec96c5836c7287dd5c9a6c",
+        "process": "3f2b2647484c4956a63e70960430fd8dfe18100dc4b37cdb987de6d5a091af9b",
+        "interface": "1c68a46818441358739b894807e658d8dde691faa82e2f9a31f839b185fa8f4e"
+      },
+      "inputs": {
+        "learning": {
+          "content": "064512affc803f975af63e6482af17903ff4774fb85556a1eec09f82899286f1",
+          "interface": "dcb6d58f3b43914e453c26f2e86a3826186d5a549fdf9a3afa04652ba3e037d6"
+        },
+        "scenario": {
+          "content": "53055844ad0fd00336461ff2b7be29d1be33ea01b82854d9b3da214c7f7625ac",
+          "interface": "888f5b959afe4c3e160c9cb2d035326535801f98ece46a167196a016934691c9"
+        }
+      }
+    },
+    "dictionary": {
+      "versions": {
+        "content": "1.0.0",
+        "view": "1.0.0",
+        "process": "1.0.0",
+        "interface": "1.0.0"
+      },
+      "hashes": {
+        "content": "d98dcc7104bb8259e2fdff6671b2d98a8eca051e4148982b4d9c8012e0e45269",
+        "view": "0d03cb17895c31f7aafc5cdf0f890788322085c57d9a5ca49db87c08c576208b",
+        "process": "1f89c8752a25eddb7ba511752c4b652d0a48cacb195bc7b7570e879f1cb4e863",
+        "interface": "eb41d3722358a0e5426baf933fbde876b46112f89e15ba24a06136a76f44f625"
+      },
+      "inputs": {}
+    },
+    "learning": {
+      "versions": {
+        "content": "1.0.0",
+        "view": "1.0.0",
+        "process": "1.0.0",
+        "interface": "1.0.0"
+      },
+      "hashes": {
+        "content": "064512affc803f975af63e6482af17903ff4774fb85556a1eec09f82899286f1",
+        "view": "aeaf1ca303a326fd84926b0239748cc3a979c599435ea25e0d5ac50a8f8a8aff",
+        "process": "72f5dd74a41d879d2c694f9d53d732ea8fe907bcd3b134093f9599023fa873f5",
+        "interface": "dcb6d58f3b43914e453c26f2e86a3826186d5a549fdf9a3afa04652ba3e037d6"
+      },
+      "inputs": {
+        "dictionary": {
+          "content": "d98dcc7104bb8259e2fdff6671b2d98a8eca051e4148982b4d9c8012e0e45269",
+          "interface": "eb41d3722358a0e5426baf933fbde876b46112f89e15ba24a06136a76f44f625"
+        }
+      }
+    },
+    "history": {
+      "versions": {
+        "content": "1.0.0",
+        "view": "1.0.0",
+        "process": "1.0.0",
+        "interface": "1.0.0"
+      },
+      "hashes": {
+        "content": "7973e85a14856849b1c2141b05b0688262674c529692f98735ee3fa4b398e7cd",
+        "view": "32ff97601a150f6c029ace0a5a6c80d3b14b8c54f46566054a3b7da467b72f64",
+        "process": "687f6a90371a4cbe517d64cf37cd6fbce2aeefe5c2d94e9f278bcac791980272",
+        "interface": "9ab4896e62946aa3148ec528e701191a8a8c03fd2fc50ce1cb343bc4ef665fc0"
+      },
+      "inputs": {}
+    },
+    "scenario": {
+      "versions": {
+        "content": "1.0.0",
+        "view": "1.0.0",
+        "process": "1.0.0",
+        "interface": "1.0.0"
+      },
+      "hashes": {
+        "content": "53055844ad0fd00336461ff2b7be29d1be33ea01b82854d9b3da214c7f7625ac",
+        "view": "236b013e77c553fa286c7422338755e7eec5ea394dc856b9f51d6092e0617d1c",
+        "process": "7280000f69a84ebf3765dd473889076cbcf29ae4c8854c5fa8e4ac3776055f5a",
+        "interface": "888f5b959afe4c3e160c9cb2d035326535801f98ece46a167196a016934691c9"
+      },
+      "inputs": {}
+    },
+    "bridge": {
+      "versions": {
+        "content": "1.0.0",
+        "view": "1.0.0",
+        "process": "1.0.0",
+        "interface": "1.0.0"
+      },
+      "hashes": {
+        "content": "17b1b8e873e956fc6184a43c054613635a0b16edd91e3320bd8266eedc738ff3",
+        "view": "7c0575dfe425450132cd67973fad5abc158c2ad20a031703097ffdc8ec4bc381",
+        "process": "6fd5864ec56cc0ddd22404e0c47d52a5b45a768445b7147996625309bdd789d9",
+        "interface": "95ef4a5a789dd9e85e35643373cc8eabe66d5aa7387380cf034e3508d812fb41"
+      },
+      "inputs": {
+        "learning": {
+          "content": "064512affc803f975af63e6482af17903ff4774fb85556a1eec09f82899286f1",
+          "interface": "dcb6d58f3b43914e453c26f2e86a3826186d5a549fdf9a3afa04652ba3e037d6"
+        },
+        "history": {
+          "content": "7973e85a14856849b1c2141b05b0688262674c529692f98735ee3fa4b398e7cd",
+          "interface": "9ab4896e62946aa3148ec528e701191a8a8c03fd2fc50ce1cb343bc4ef665fc0"
+        },
+        "scenario": {
+          "content": "53055844ad0fd00336461ff2b7be29d1be33ea01b82854d9b3da214c7f7625ac",
+          "interface": "888f5b959afe4c3e160c9cb2d035326535801f98ece46a167196a016934691c9"
+        }
+      }
+    },
+    "analysis": {
+      "versions": {
+        "content": "1.0.0",
+        "view": "1.0.0",
+        "process": "1.0.0",
+        "interface": "1.0.0"
+      },
+      "hashes": {
+        "content": "10efba9157a636c2645aca8721d90a7ad96df6bf407dc1c5fa1705e588cd8def",
+        "view": "7a28089eff22dc08a9cd42028f83214bde2bedc8a983e9c4487dc9365649575b",
+        "process": "feebc3a9a5372debecf01c3c0a27f8d4adcd4ec32dc8c52660140802c085757d",
+        "interface": "8cf0c202579b2e4688c73147433f89561ead2d8ded4e0aa2f47d8578a05d2756"
+      },
+      "inputs": {
+        "learning": {
+          "content": "064512affc803f975af63e6482af17903ff4774fb85556a1eec09f82899286f1",
+          "interface": "dcb6d58f3b43914e453c26f2e86a3826186d5a549fdf9a3afa04652ba3e037d6"
+        },
+        "scenario": {
+          "content": "53055844ad0fd00336461ff2b7be29d1be33ea01b82854d9b3da214c7f7625ac",
+          "interface": "888f5b959afe4c3e160c9cb2d035326535801f98ece46a167196a016934691c9"
+        },
+        "bridge": {
+          "content": "17b1b8e873e956fc6184a43c054613635a0b16edd91e3320bd8266eedc738ff3",
+          "interface": "95ef4a5a789dd9e85e35643373cc8eabe66d5aa7387380cf034e3508d812fb41"
+        }
+      }
+    }
+  }
+}

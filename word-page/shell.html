@@ -1,0 +1,70 @@
+<div id="words-layout-review">
+  <style>
+@@THEME@@
+  </style>
+  <div class="review-controls" aria-label="排版示例选择">
+    <label>词条 <select id="wl-word"><option value="0">scope · 工作示例</option><option value="1">leverage · 文章阅读</option><option value="2">absorb · 文章阅读</option></select></label>
+    <label>屏幕 <select id="wl-device"><option value="phone">手机</option><option value="tablet">平板</option><option value="desktop">桌面</option></select></label>
+    <label>查看 <select id="wl-view"><option value="top">顶部概览</option><option value="top-source">顶部例句展开</option><option value="dictionary">词典展开</option><option value="common">高频义项</option><option value="history">历史用法</option><option value="source">场景原句</option><option value="bridge">Bridge</option><option value="context">场景词义</option><option value="deep">深入分析</option></select></label>
+  </div>
+  <div class="frame" data-device="phone">
+    <header class="app-header"><span class="brand">WORDS</span><span class="muted">词条阅读 · 排版预览</span></header>
+    <div class="app-layout">
+@@SIDEBAR:navigation@@
+      <div class="reader" aria-label="连续阅读区域"><article class="article"></article></div>
+@@BOTTOM:navigation@@
+    </div>
+  </div>
+  <script type="application/json" id="wl-data">__WORDS_DATA__</script>
+  <script>
+  (()=>{
+    const root=document.getElementById('words-layout-review');
+    if(root.querySelector('#wl-data').textContent.trim().startsWith('__')){
+      const notice=document.createElement('p');
+      notice.textContent='这是排版源模板，尚未填入词条数据。请打开同目录的完整预览：';
+      const previewLink=document.createElement('a');
+      previewLink.href='./词条排版预览-直接打开.html';
+      previewLink.textContent='打开完整词条排版预览';
+      root.querySelector('.article').append(notice,previewLink);
+      root.querySelectorAll('select').forEach(el=>el.disabled=true);
+      return;
+    }
+    const data=JSON.parse(root.querySelector('#wl-data').textContent);
+    const article=root.querySelector('.article'),reader=root.querySelector('.reader'),frame=root.querySelector('.frame'),bottom=root.querySelector('.bottom-nav');
+    const wordSelect=root.querySelector('#wl-word'),viewSelect=root.querySelector('#wl-view'),deviceSelect=root.querySelector('#wl-device');
+    const escape=s=>String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+    const link=(url,label)=>`<a href="${escape(url)}" target="_blank" rel="noopener noreferrer">${escape(label)}</a>`;
+    const highlight=(text,term)=>escape(text).split(escape(term)).join(`<mark>${escape(term)}</mark>`);
+@@BEHAVIOR:headword@@
+    function showWord(){
+      stopSpeech();
+      const w=data[Number(wordSelect.value)];
+      const source=w.sourceUrl?link(w.sourceUrl,w.sourceLabel)+' · '+w.sourceDate:escape(w.sourceLabel);
+      const focus=w.highlightTerm;
+      const keyMeaning=w.keyMeaning;
+      const quoteHtml=highlight(w.quote,w.word),translationHtml=highlight(w.translation,focus);
+      const quoteContent=`<blockquote><p class="english">${quoteHtml}</p><p>${translationHtml}</p></blockquote><p class="muted">${escape(w.quoteType)}</p>`;
+      article.innerHTML=`
+@@VIEW:source-preview@@
+@@VIEW:headword@@
+@@VIEW:navigation@@
+@@VIEW:dictionary@@
+@@VIEW:learning@@
+@@VIEW:history@@
+@@VIEW:scenario@@
+@@VIEW:bridge@@
+@@VIEW:analysis@@
+@@FOOTER:navigation@@`;
+      const button=root.querySelector('[data-pronounce]');button.disabled=!speechAvailable;
+      if(!speechAvailable)root.querySelector('#wl-pronunciation-status').textContent='当前浏览器不支持系统发音。';
+      reader.scrollTop=0;viewSelect.value='top';updateNav();
+    }
+@@BEHAVIOR:navigation@@
+    root.addEventListener('click',e=>{if(e.target.closest('[data-pronounce]')){pronounce();return;}const b=e.target.closest('[data-go]');if(b&&root.contains(b))go(b.dataset.go);});
+    wordSelect.addEventListener('change',showWord);viewSelect.addEventListener('change',()=>go(viewSelect.value));
+    deviceSelect.addEventListener('change',()=>{frame.dataset.device=deviceSelect.value;requestAnimationFrame(updateNav);});
+    reader.addEventListener('scroll',updateNav,{passive:true});new ResizeObserver(updateNav).observe(frame);
+    window.addEventListener('pagehide',stopSpeech);article.addEventListener('toggle',updateNav,true);showWord();
+  })();
+  </script>
+</div>

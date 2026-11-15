@@ -1,0 +1,19 @@
+{
+  "id": "learning",
+  "version": "1.0.0",
+  "fields": {
+    "general": "string",
+    "senses": "array",
+    "note": "string",
+    "retrieved": "string",
+    "retrieval": "string",
+    "learningSource": "string"
+  },
+  "dependencies": [
+    "dictionary"
+  ],
+  "wordKey": "wordId",
+  "anchors": [
+    "common"
+  ]
+}

@@ -1,0 +1,53 @@
+[
+  {
+    "id": "cambridge-scope",
+    "url": "https://dictionary.cambridge.org/dictionary/english/scope",
+    "accessed": "2026-11-16",
+    "retrieval": "Direct open returned HTTP 403; official-page text obtained through web search index.",
+    "scope": "Selected senses, grammatical labels, CEFR where shown, short examples; Chinese glosses/translations are editorial.",
+    "limitation": "Not an API integration or a complete dictionary download. Indexed text may lag live page."
+  },
+  {
+    "id": "etymonline-scope",
+    "url": "https://www.etymonline.com/word/scope",
+    "accessed": "2026-11-16",
+    "retrieval": "Web page read during v4 preparation.",
+    "scope": "Etymology/history summary; no asserted date for absorb cost sense."
+  },
+  {
+    "id": "cambridge-leverage",
+    "url": "https://dictionary.cambridge.org/dictionary/english/leverage",
+    "accessed": "2026-11-16",
+    "retrieval": "Direct open returned HTTP 403; official-page text obtained through web search index.",
+    "scope": "Selected senses, grammatical labels, CEFR where shown, short examples; Chinese glosses/translations are editorial.",
+    "limitation": "Not an API integration or a complete dictionary download. Indexed text may lag live page."
+  },
+  {
+    "id": "etymonline-leverage",
+    "url": "https://www.etymonline.com/word/leverage",
+    "accessed": "2026-11-16",
+    "retrieval": "Web page read during v4 preparation.",
+    "scope": "Etymology/history summary; no asserted date for absorb cost sense."
+  },
+  {
+    "id": "cambridge-absorb",
+    "url": "https://dictionary.cambridge.org/dictionary/english/absorb",
+    "accessed": "2026-11-16",
+    "retrieval": "Direct open returned HTTP 403; official-page text obtained through web search index.",
+    "scope": "Selected senses, grammatical labels, CEFR where shown, short examples; Chinese glosses/translations are editorial.",
+    "limitation": "Not an API integration or a complete dictionary download. Indexed text may lag live page."
+  },
+  {
+    "id": "etymonline-absorb",
+    "url": "https://www.etymonline.com/word/absorb",
+    "accessed": "2026-11-16",
+    "retrieval": "Web page read during v4 preparation.",
+    "scope": "Etymology/history summary; no asserted date for absorb cost sense."
+  },
+  {
+    "id": "krugman-context",
+    "url": "https://paulkrugman.substack.com/p/maga-delusions-of-economic-leverage",
+    "retrieval": "Retained from earlier source-reviewed prototype; not newly retrieved in v6.",
+    "scope": "Short quotations for leverage/absorb; absorb negation preserved."
+  }
+]

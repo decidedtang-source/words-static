@@ -7,3 +7,7 @@ await cp('public/licenses','dist/licenses',{recursive:true});
 await cp('public/previews/word-layout-v6-20261116','dist/previews/word-layout-v6-20261116',{recursive:true});
 
 await cp('public/previews/word-layout-v7-20261116','dist/previews/word-layout-v7-20261116',{recursive:true});
+
+// Validate the modular source and committed generated artifact before publishing.
+const {verifyGenerated}=await import('../word-page/manage.mjs');
+await cp(verifyGenerated(),'dist/previews/word-layout-v8-20261116',{recursive:true});

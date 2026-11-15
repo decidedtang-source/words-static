@@ -1,0 +1,102 @@
+
+    #words-layout-review {color-scheme:light dark; --paper:light-dark(#fffdf8,#202521);--ink:light-dark(#20372e,#e3ebe4);--quiet:light-dark(#58675e,#aab9ac);--line:light-dark(#dce3d8,#414e43);--wash:light-dark(#f0f4ec,#2b352d);--green:light-dark(#275b43,#abd4b2);--accent:light-dark(#f1e5cb,#413b2b); color:var(--ink);font:15px/1.65 system-ui,"Microsoft YaHei",sans-serif;}
+    #words-layout-review * {box-sizing:border-box;}
+    #words-layout-review button,#words-layout-review select {font:inherit;color:inherit;cursor:pointer;}
+    #words-layout-review button:focus-visible,#words-layout-review a:focus-visible,#words-layout-review summary:focus-visible {outline:3px solid var(--green);outline-offset:3px;}
+    #words-layout-review .review-controls {display:flex;gap:10px;align-items:center;flex-wrap:wrap;padding:10px 0 18px;}
+    #words-layout-review select {background:var(--paper);border:1px solid var(--line);border-radius:8px;padding:8px;min-height:44px;max-width:100%;}
+    #words-layout-review .review-controls label {display:flex;align-items:center;gap:6px;}
+    #words-layout-review .frame {position:relative;background:var(--paper);border:1px solid var(--line);border-radius:22px;overflow:hidden;margin:auto;width:100%;max-width:410px;box-shadow:0 12px 30px light-dark(#20372e12,#00000022);}
+    #words-layout-review .frame[data-device="tablet"] {max-width:780px;}
+    #words-layout-review .frame[data-device="desktop"] {max-width:100%;border-radius:12px;}
+    #words-layout-review .app-header {display:flex;justify-content:space-between;align-items:center;padding:13px 20px;border-bottom:1px solid var(--line);background:var(--paper);gap:8px;}
+    #words-layout-review .brand {font-weight:650;letter-spacing:2px;}
+    #words-layout-review .muted {color:var(--quiet);font-size:12px;}
+    #words-layout-review .app-layout {display:grid;grid-template-columns:1fr;position:relative;}
+    #words-layout-review .side {display:none;padding:25px 16px;border-right:1px solid var(--line);}
+    #words-layout-review .side button {display:block;width:100%;text-align:left;border:0;background:transparent;border-radius:8px;padding:12px 10px;}
+    #words-layout-review .side button.active {background:var(--wash);font-weight:650;}
+    #words-layout-review .reader {height:650px;overflow:auto;overscroll-behavior:contain;padding:0 22px 95px;scrollbar-width:thin;}
+    #words-layout-review .frame[data-device="tablet"] .reader {padding-left:44px;padding-right:44px;}
+    #words-layout-review .frame[data-device="desktop"] .app-layout {grid-template-columns:150px minmax(0,1fr);}
+    #words-layout-review .frame[data-device="desktop"] .side {display:block;}
+    #words-layout-review .article {max-width:650px;margin:0 auto;}
+    #words-layout-review section {scroll-margin-top:18px;}
+    #words-layout-review .word-head {padding:12px 0 16px;}
+    #words-layout-review .word-head h2 {font:500 43px/1.2 Georgia,serif;letter-spacing:-1px;margin:4px 0 8px;}
+    #words-layout-review h3 {font-size:19px;line-height:1.4;margin:0 0 12px;font-weight:650;}
+    #words-layout-review h4 {font-size:15px;margin:0 0 6px;font-weight:650;}
+    #words-layout-review p {margin:8px 0;}
+    #words-layout-review a {color:var(--green);text-underline-offset:3px;overflow-wrap:anywhere;}
+    #words-layout-review .overview {display:grid;grid-template-columns:1fr 1fr;gap:10px;margin:0 0 24px;}
+    #words-layout-review mark {background:var(--accent);color:var(--ink);font-weight:650;padding:1px 3px;border-radius:3px;text-decoration:underline;text-decoration-color:var(--green);text-underline-offset:3px;}
+    #words-layout-review .source-preview {margin:14px 0 0;padding:10px 0;}
+    #words-layout-review .source-preview summary {font-size:14px;}
+    #words-layout-review .source-preview .source-caption {display:block;font-size:12px;color:var(--quiet);font-weight:400;padding-left:18px;}
+    #words-layout-review .source-preview .focus-explain {background:var(--wash);padding:10px 12px;border-radius:8px;}
+    #words-layout-review .source-section {padding-bottom:8px;}
+    #words-layout-review .meaning-button {text-align:left;padding:14px 12px;border-radius:12px;background:var(--wash);border:1px solid var(--line);min-height:110px;display:flex;flex-direction:column;gap:8px;}
+    #words-layout-review .meaning-button:last-child {background:var(--accent);}
+    #words-layout-review .meaning-button strong {font-size:16px;font-weight:650;}
+    #words-layout-review .meaning-button small {margin-top:auto;font-size:12px;}
+    #words-layout-review details {border-top:1px solid var(--line);border-bottom:1px solid var(--line);padding:14px 0;margin:0 0 22px;}
+    #words-layout-review summary {cursor:pointer;font-weight:600;min-height:32px;}
+    #words-layout-review .dictionary-body {padding-top:12px;}
+    #words-layout-review .dictionary-body p {font-size:14px;}
+    #words-layout-review .section {padding:18px 0;border-bottom:1px solid var(--line);}
+    #words-layout-review .sense {padding:14px 0;}
+    #words-layout-review .sense+.sense {border-top:1px dashed var(--line);}
+    #words-layout-review .english {font-family:Georgia,serif;font-size:18px;line-height:1.55;}
+    #words-layout-review .gloss {color:var(--quiet);font-size:14px;}
+    #words-layout-review .section-label {color:var(--quiet);font-size:12px;letter-spacing:1px;margin-bottom:8px;}
+    #words-layout-review .memory {background:var(--wash);padding:14px 16px;border-radius:10px;margin:15px 0 8px;font-size:14px;}
+    #words-layout-review .bridge {margin:8px -8px 8px;padding:18px 18px;border-radius:14px;background:var(--wash);border:1px solid var(--line);}
+    #words-layout-review .bridge details {margin:18px 0 0;padding-bottom:0;border-bottom:0;}
+    #words-layout-review .text-button {border:0;background:transparent;color:var(--green);padding:4px 0;text-decoration:underline;text-underline-offset:3px;text-align:left;min-height:40px;}
+    #words-layout-review .answer {font-size:20px;line-height:1.6;font-weight:550;}
+    #words-layout-review blockquote {margin:18px 0;padding:4px 0 4px 15px;border-left:3px solid var(--green);}
+    #words-layout-review .analysis-piece {padding:18px 0;border-bottom:1px solid var(--line);}
+    #words-layout-review .bottom-nav {position:absolute;bottom:12px;left:10px;right:10px;display:flex;justify-content:space-around;background:var(--paper);border:1px solid var(--line);border-radius:14px;padding:5px;box-shadow:0 5px 20px light-dark(#20372e1a,#00000066);z-index:2;}
+    #words-layout-review .bottom-nav[hidden] {display:none;}
+    #words-layout-review .bottom-nav button {background:transparent;border:0;border-radius:9px;font-size:12px;padding:9px 7px;min-height:44px;}
+    #words-layout-review .bottom-nav button.active {background:var(--wash);color:var(--green);font-weight:650;}
+    #words-layout-review .return-row {display:flex;justify-content:space-between;gap:10px;padding:24px 0;}
+    #words-layout-review [hidden] {display:none!important;}
+    @media(max-width:600px){#words-layout-review .frame[data-device="desktop"] .app-layout{grid-template-columns:1fr;}#words-layout-review .frame[data-device="desktop"] .side{display:none;}#words-layout-review .frame[data-device="tablet"] .reader{padding-left:20px;padding-right:20px;}#words-layout-review .review-controls {gap:6px;}#words-layout-review .reader{padding-left:16px;padding-right:16px;}#words-layout-review .meaning-button{padding:12px 9px;} }
+    @media(prefers-reduced-motion:reduce){#words-layout-review *{scroll-behavior:auto!important;}}
+
+    /* v5: keep body type legible; compact headings and redundant spacing. */
+    #words-layout-review h3 {font-size:16px;line-height:1.45;margin:0 0 8px;}
+    #words-layout-review .overview {margin-bottom:12px;}
+    #words-layout-review #wl-dictionary {margin:0;padding:6px 0;}
+    #words-layout-review #wl-dictionary summary {font-size:14px;min-height:44px;display:flex;align-items:center;gap:8px;list-style:none;}
+    #words-layout-review #wl-dictionary summary::before {content:'▸';}
+    #words-layout-review #wl-dictionary[open] summary::before {content:'▾';}
+    #words-layout-review #wl-common {padding-top:2px;}
+    #words-layout-review .sense {padding:10px 0;}
+    #words-layout-review .sense p {margin:5px 0;}
+    #words-layout-review .section {padding:14px 0;}
+    #words-layout-review .memory {padding:10px 12px;margin:10px 0 0;}
+    #words-layout-review .source-heading {display:flex;align-items:baseline;flex-wrap:wrap;gap:2px 10px;margin-bottom:6px;}
+    #words-layout-review .source-heading h3 {margin:0;flex-shrink:0;}
+    #words-layout-review .source-heading .muted {line-height:1.5;}
+    #words-layout-review .source-section {padding-bottom:0;border-bottom:0;}
+    #words-layout-review blockquote {margin:10px 0;padding:2px 0 2px 12px;}
+    #words-layout-review .source-section details {margin:8px 0 0;padding:0;border-bottom:0;}
+    #words-layout-review .source-section summary {font-size:13px;min-height:44px;line-height:44px;}
+    #words-layout-review .bridge {margin-top:8px;padding:14px;}
+    #words-layout-review .bridge .section-label {display:none;}
+    #words-layout-review .bridge details {margin-top:10px;padding-top:8px;}
+    #words-layout-review .bridge details summary {font-size:14px;min-height:44px;display:flex;align-items:center;gap:6px;list-style:none;}
+    #words-layout-review .bridge details summary::before {content:'▸';}
+    #words-layout-review .bridge details[open] summary::before {content:'▾';}
+    #words-layout-review .analysis-piece {padding:12px 0;}
+    #words-layout-review .return-row {padding:12px 0;}
+    #words-layout-review .dictionary-credit {font-size:12px;margin:8px 0 2px;color:var(--quiet);}
+    #words-layout-review .sense-meta {font-size:12px;color:var(--quiet);}
+    #words-layout-review .example-credit {font-size:11px;color:var(--quiet);margin:4px 0 0;}
+    #words-layout-review .pronunciation-row {display:flex;align-items:center;flex-wrap:wrap;gap:4px 10px;}
+    #words-layout-review .pronounce {display:inline-flex;align-items:center;gap:5px;min-height:44px;padding:5px 10px;border:1px solid var(--line);border-radius:22px;background:var(--wash);color:var(--green);font-size:13px;}
+    #words-layout-review .pronounce[aria-pressed="true"] {background:var(--accent);}
+    #words-layout-review .pronounce:disabled {opacity:.55;cursor:default;}
+    #words-layout-review #wl-pronunciation-status:empty {display:none;}

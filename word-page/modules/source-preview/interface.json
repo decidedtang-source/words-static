@@ -1,0 +1,12 @@
+{
+  "id": "source-preview",
+  "version": "1.0.0",
+  "fields": {},
+  "dependencies": [
+    "scenario"
+  ],
+  "wordKey": "wordId",
+  "anchors": [
+    "top-source"
+  ]
+}

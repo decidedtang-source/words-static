@@ -1,0 +1,21 @@
+{
+  "id": "scenario",
+  "version": "1.0.0",
+  "fields": {
+    "meaning": "string",
+    "sourceLabel": "string",
+    "sourceUrl": "nullable-string",
+    "sourceDate": "nullable-string",
+    "quote": "string",
+    "translation": "string",
+    "quoteType": "string",
+    "context": "string",
+    "highlightTerm": "string",
+    "keyMeaning": "string"
+  },
+  "dependencies": [],
+  "wordKey": "wordId",
+  "anchors": [
+    "source"
+  ]
+}

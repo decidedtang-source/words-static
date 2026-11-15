@@ -1,0 +1,24 @@
+{
+  "id": "analysis",
+  "version": "1.0.0",
+  "fields": {
+    "memoryLink": "string",
+    "interpret": "string",
+    "contrast": "string",
+    "neighbors": "string",
+    "action": "string",
+    "response": "string",
+    "transfer": "string",
+    "transferZh": "string",
+    "transferUse": "string"
+  },
+  "dependencies": [
+    "learning",
+    "scenario",
+    "bridge"
+  ],
+  "wordKey": "wordId",
+  "anchors": [
+    "deep"
+  ]
+}

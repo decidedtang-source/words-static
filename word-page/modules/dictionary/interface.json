@@ -1,0 +1,13 @@
+{
+  "id": "dictionary",
+  "version": "1.0.0",
+  "fields": {
+    "dictUrl": "string",
+    "extra": "string"
+  },
+  "dependencies": [],
+  "wordKey": "wordId",
+  "anchors": [
+    "dictionary"
+  ]
+}

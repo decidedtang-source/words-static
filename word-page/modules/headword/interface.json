@@ -1,0 +1,14 @@
+{
+  "id": "headword",
+  "version": "1.0.0",
+  "fields": {
+    "word": "string",
+    "ipa": "string",
+    "pos": "string"
+  },
+  "dependencies": [],
+  "wordKey": "wordId",
+  "anchors": [
+    "top"
+  ]
+}

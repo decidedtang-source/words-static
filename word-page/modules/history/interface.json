@@ -1,0 +1,13 @@
+{
+  "id": "history",
+  "version": "1.0.0",
+  "fields": {
+    "history": "string",
+    "historyUrl": "string"
+  },
+  "dependencies": [],
+  "wordKey": "wordId",
+  "anchors": [
+    "history"
+  ]
+}

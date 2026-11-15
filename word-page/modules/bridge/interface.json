@@ -1,0 +1,18 @@
+{
+  "id": "bridge",
+  "version": "1.0.0",
+  "fields": {
+    "bridge": "string",
+    "bridgeHistory": "string"
+  },
+  "dependencies": [
+    "learning",
+    "history",
+    "scenario"
+  ],
+  "wordKey": "wordId",
+  "anchors": [
+    "bridge",
+    "bridge-history"
+  ]
+}
