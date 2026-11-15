@@ -1,1 +1,11 @@
-      <section id="wl-top" class="word-head"><h2>${escape(w.word)}</h2><div class="pronunciation-row"><span>${escape(w.ipa)}</span><button type="button" class="pronounce" data-pronounce aria-label="朗读 ${escape(w.word)}（系统美式英语语音）" aria-pressed="false" title="系统英语发音" disabled><svg aria-hidden="true" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M11 4 6 8H3v8h3l5 4V4Z"/><path d="M15 8a6 6 0 0 1 0 8m3-11a10 10 0 0 1 0 14"/></svg><span>发音</span></button><span class="muted">${escape(w.pos)}</span></div><p id="wl-pronunciation-status" class="muted" role="status" aria-live="polite"></p></section>
+<style>
+#words-layout-review .pronounce{width:44px;height:44px;min-width:44px;flex:0 0 44px;padding:0;justify-content:center;border:0;background:transparent;}
+#words-layout-review .pronounce[aria-pressed="true"]{background:var(--wash);}
+#words-layout-review #wl-pronunciation-status{position:absolute!important;width:1px!important;height:1px!important;padding:0!important;margin:-1px!important;overflow:hidden!important;clip-path:inset(50%);white-space:nowrap;border:0;}
+#words-layout-review .pronounce[aria-pressed="true"] .audio-wave{animation:word-audio-wave .85s ease-in-out infinite;}
+#words-layout-review .pronounce[aria-pressed="true"] .wave-far{animation-delay:.16s;}
+#words-layout-review .pronounce[data-error="true"]{color:var(--quiet);}
+@keyframes word-audio-wave{0%,100%{opacity:.2}50%{opacity:1}}
+@media(prefers-reduced-motion:reduce){#words-layout-review .pronounce[aria-pressed="true"] .audio-wave{animation:none;}}
+</style>
+      <section id="wl-top" class="word-head"><h2>${escape(w.word)}</h2><div class="pronunciation-row"><span>${escape(w.ipa)}</span><button type="button" class="pronounce" data-pronounce aria-label="朗读 ${escape(w.word)}（系统美式英语语音）" aria-pressed="false" title="系统英语发音" disabled><svg aria-hidden="true" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M11 4 6 8H3v8h3l5 4V4Z"/><path class="audio-wave wave-near" d="M15 8a6 6 0 0 1 0 8"/><path class="audio-wave wave-far" d="M18 5a10 10 0 0 1 0 14"/></svg></button><span class="muted">${escape(w.pos)}</span></div><p id="wl-pronunciation-status" class="muted" role="status" aria-live="polite"></p></section>

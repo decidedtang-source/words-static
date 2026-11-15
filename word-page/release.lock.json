@@ -1,9 +1,9 @@
 {
-  "release": "word-layout-v8-20261116",
-  "registry": "31938967a52f3ec961b274fc33e27df98fb9e8e226c87ff7367355be6d4b24ce",
+  "release": "word-layout-v9-20261116",
+  "registry": "3135186bd3a165d9717fe96525faa002d712808d766fe0a81e52effcf274b4ae",
   "shared": {
-    "version": "1.0.0",
-    "hash": "c372dd403ede3fb098506d9b7e8bd7e22343f2babfe735680cdac9e0a12819e7"
+    "version": "1.1.0",
+    "hash": "dad3907879e8512919d1e5ca789a4775581217ee923c3d9534cd16763153b7c8"
   },
   "modules": {
     "source-preview": {
@@ -29,13 +29,13 @@
     "headword": {
       "versions": {
         "content": "1.0.0",
-        "view": "1.0.0",
+        "view": "1.1.0",
         "process": "1.0.0",
         "interface": "1.0.0"
       },
       "hashes": {
         "content": "d495ff16c5f78ec467afdf979982611cdddc3ee1f24bc0c541b053ece0896bdf",
-        "view": "033c4af24a0150d7e634675ef3d2391a5ae7f12bbcec420387063a6ddc44457b",
+        "view": "aec3891bc5a604393fb35f27d5ac23431370ea11f38a9de17856055209d7fe3b",
         "process": "afa54cfcaf4d031750c5e6d8aad3699d6ac651a43f12d32756f6e0649b5d6e65",
         "interface": "5a4c63b3cbbadffb29ea79b1455bdb71edbbd156668a685a12d5fa929d7c7139"
       },

@@ -1,12 +1,12 @@
 {
   "version": "1.0.0",
-  "release": "word-layout-v8-20261116",
+  "release": "word-layout-v9-20261116",
   "wordIds": [
     "scope",
     "leverage",
     "absorb"
   ],
-  "sharedVersion": "1.0.0",
+  "sharedVersion": "1.1.0",
   "modules": [
     {
       "id": "source-preview",
@@ -19,7 +19,7 @@
       "id": "headword",
       "label": "词头与发音",
       "contentVersion": "1.0.0",
-      "viewVersion": "1.0.0",
+      "viewVersion": "1.1.0",
       "processVersion": "1.0.0"
     },
     {

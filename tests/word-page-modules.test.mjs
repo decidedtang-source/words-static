@@ -14,7 +14,7 @@ test('module contracts assemble all existing word fields and preserve source own
  assert.throws(()=>validateModules(badSense),/url/);
 });
 test('committed generated page matches the locked module assembly',()=>{
- assert.match(verifyGenerated(),/word-layout-v8-20261116/);
+ assert.ok(verifyGenerated().endsWith(loadPage().registry.release));
 });
 test('locks detect a module edit and identify downstream review without changing unrelated modules',()=>{
  const p=loadPage(),lock=makeLock(p);
