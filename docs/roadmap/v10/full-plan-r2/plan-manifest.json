@@ -1,0 +1,99 @@
+{
+  "planVersion": "V10-PLAN-R2-20261116",
+  "status": "REVIEW_READY_NOT_FROZEN",
+  "ownerApproval": null,
+  "freezeId": null,
+  "trialAuthorization": null,
+  "trialOnHold": true,
+  "baselineCommit": "02606557f6c0cad1aea20a7ba4d34073f567f1d1",
+  "originalPromptSha256": "aaf3bd1e99daf47a70a2a158973652d67ff14dafcfc1748b3fc2a09d719885db",
+  "modules": [
+    "M01-headword",
+    "M02-source-preview",
+    "M03-navigation",
+    "M04-dictionary",
+    "M05-learning",
+    "M06-history",
+    "M07-scenario",
+    "M08-bridge",
+    "M09-analysis"
+  ],
+  "checks": {
+    "documents": 16,
+    "relativeLinks": 23,
+    "qaCases": 48,
+    "implementationTasks": 9,
+    "productTestsRun": false,
+    "generationRun": false
+  },
+  "files": [
+    {
+      "path": "01-架构与排版.md",
+      "sha256": "b70e191ff1d5bf56e75eadce7b740d0309d58259b02da93a5235fb91050566da"
+    },
+    {
+      "path": "02-数据接口与依赖.md",
+      "sha256": "5d7f23da697ac6e82216d65fa88a1cc4af8fbe91242b14e48057b4653a266334"
+    },
+    {
+      "path": "03-来源与生产流程.md",
+      "sha256": "774fd5717c0a9e5b92d02f3e2dcb235036129627033c52f7c0bf52205a35f78a"
+    },
+    {
+      "path": "04-QA矩阵.md",
+      "sha256": "338134724b9331edeada68364e2ef06cda26be8bc2fdca2971ce4f0ed1026d79"
+    },
+    {
+      "path": "05-冻结与同步.md",
+      "sha256": "a9f463cbca4107f27d7d411c2891ee3c8a5dce4d9da9203410a264613e3a9bfd"
+    },
+    {
+      "path": "06-实施计划.md",
+      "sha256": "13310ef09e3b5366292122817a78524c7f9126638124506a576d8711dfb4c640"
+    },
+    {
+      "path": "modules/M01-headword.md",
+      "sha256": "9561da1b34983f2a6fb7f08976285935b54ded5fb544350abdc066f31f031367"
+    },
+    {
+      "path": "modules/M02-source-preview.md",
+      "sha256": "22d7b3075a3557891e4677e8f39bd2c36629306ec6d44ccb51daa520f05229b6"
+    },
+    {
+      "path": "modules/M03-navigation.md",
+      "sha256": "d276cd5b97dfd4367032c4216408edc72e5445ce9d22e04766ef502c0c4614aa"
+    },
+    {
+      "path": "modules/M04-dictionary.md",
+      "sha256": "1192246ab8ea2f5da4894bf62b9383c343d53a5fab86d2120fec4e3f1c093c3b"
+    },
+    {
+      "path": "modules/M05-learning.md",
+      "sha256": "af59f40844555766a87c6e8884a17e26db5253b7a873b8a655923cf74137c541"
+    },
+    {
+      "path": "modules/M06-history.md",
+      "sha256": "f66564ed8a46aa9e916a675323c67ea0a3f7c263857a454d414de4273db01930"
+    },
+    {
+      "path": "modules/M07-scenario.md",
+      "sha256": "4f1b6ed97ea0fae639be4db7658f3fa7a64971cbded3d9163c2c60024416bd0a"
+    },
+    {
+      "path": "modules/M08-bridge.md",
+      "sha256": "6b76b94d974e16f4c2bdd8090d7824a86e303de11f1109814a4059f16f3f3f9a"
+    },
+    {
+      "path": "modules/M09-analysis.md",
+      "sha256": "e0632e94808b716e36f9df77ad145c61ed420cf7db046ac211f4f36e181f85a7"
+    },
+    {
+      "path": "README.md",
+      "sha256": "2dfb5e1c4515d9db18fff0a3ce96116e93444ddc667f484ff77a62d60e893d18"
+    },
+    {
+      "path": "规划完整性检查.md",
+      "sha256": "fcf72c6e55cc127e416daf5c97797ce29ca189a1195105c6dd467591d91fa033"
+    }
+  ]
+}

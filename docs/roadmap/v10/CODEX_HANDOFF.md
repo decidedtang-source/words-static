@@ -2,6 +2,8 @@
 
 当前：**PLAN_REVIEW_ONLY / NOT_FROZEN / TRIAL_ON_HOLD**。用户指出此前提前试运行且页面偏离旧版与规划。先读 [方案冻结与QA纠偏稿](PLAN_FREEZE_AND_QA_20261116.md)。文档同步不等于定稿、冻结或启动许可；目前只整理与同步方案，暂停生成、重跑、改页面和部署。原50词试样不是认可基准。
 
+本轮已完成 [V10全部模块完整方案R2](full-plan-r2/README.md)：九模块独立方案、整体排版、数据接口、来源与生产流程、QA矩阵、冻结同步及后续实施任务。当前为完整审阅稿，尚无用户对R2的审定／冻结／启动记录；不得执行任务框。
+
 ## 先读
 
 1. 最新 Context Hub `main` 的 Protocol、Registry，复用 Project `0003`。
