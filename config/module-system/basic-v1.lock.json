@@ -1,0 +1,15 @@
+{
+  "version": "basic-release-1.0.0",
+  "authorization": "Owner 2026-11-17: remove context disclosure; freeze as official release; trial 100 words",
+  "files": {
+    "config/qa/basic-release-v1.json": "8d02ef179470389abeb796c2e84a541f72e483941c13efa520508ea14a184db7",
+    "content/basic-release-20261117/roster.json": "06eb49a32b7e8bfd9c91f3a1532119a93cef1a26a8d98c76622e7810a028f6df",
+    "docs/roadmap/v10/BASIC_RELEASE_100_PLAN_20261117.md": "97e34a97e37a58eb024299207ba57e08a278bd929d3710c14f4cde7b80ee64e5",
+    "public/vocabulary.json": "ec65d33d6da99ebad2577f6c9f9938499823d29d117f43532302cf964a4c60a3",
+    "scripts/basic/build.mjs": "84a15dfc4ca15e8b1bc2de95634d5113475f38a357d20ff4182a9cfda2b5570c",
+    "scripts/basic/collect.mjs": "13ad21253a61a4430a04e8907f059c1453d676c42bcfed226a31548d606b7c23",
+    "scripts/basic/freeze.mjs": "3981cbc847f87d23bea3708390025de1604eee3216cedaf85993a6b24876a6a5",
+    "scripts/basic/render.mjs": "b8cf94b3ece227356062284f5077439d39e72b5dd51f2589dac9f1964005dd92",
+    "tests/basic-release.test.mjs": "2fc073cb1796dc0524146a5a086435b3834f269ba3192cf7cb4b75ceb8fb1aca"
+  }
+}

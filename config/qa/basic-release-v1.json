@@ -1,0 +1,15 @@
+{
+  "version":"basic-release-structure-flow-1.0.0",
+  "inherits":"structure-flow-v1.1",
+  "expectedEntries":100,
+  "semanticScoring":false,
+  "pageWidths":[320,390,768,1440],
+  "requiredSelectors":["#wl-top-source","#wl-top",".overview","#wl-common","#wl-history","#wl-source"],
+  "forbiddenSelectors":["#wl-dictionary","#wl-bridge","#wl-deep","#wl-source details"],
+  "minimumBilingualExamples":2,
+  "minimumLearningSenses":1,
+  "requireHistoryReceipt":true,
+  "preserveOriginalQuote":true,
+  "sevenStepAmountCheck":"not_applicable_removed_by_owner",
+  "publicationAcceptance":"owner_approved_baseline_2026-11-17"
+}
