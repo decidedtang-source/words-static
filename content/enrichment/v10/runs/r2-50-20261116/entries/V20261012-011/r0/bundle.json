@@ -1,0 +1,394 @@
+{
+  "snapshot": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-011",
+    "term": "sequence",
+    "quote": "Let's agree on the sequence of the remaining activities.",
+    "batch": "2026-10-12",
+    "originalFileSHA": "ec65d33d6da99ebad2577f6c9f9938499823d29d117f43532302cf964a4c60a3",
+    "quoteSHA": "f03812439e723845316df235afd0465af22611fad84a4e13fc7650afb04e60d5",
+    "originalIPA": "ˈsiː.kwəns",
+    "originalPOS": "n.",
+    "originalMeaning": "行动或步骤的先后顺序"
+  },
+  "selection": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-011",
+    "version": "1",
+    "inventoryRefs": [
+      "inventory:V20261012-011"
+    ],
+    "selectedSenseIds": [
+      "sequence%1:14:00::",
+      "sequence%2:31:00::"
+    ],
+    "reason": "按学习用途选择常见或易混义；这里不是语料频率排名。",
+    "usageTip": "名词the sequence of…；动词sequence the activities。",
+    "general": "按次序排列的一系列事物；按次序安排",
+    "senses": [
+      {
+        "senseId": "sequence%1:14:00::",
+        "title": "按次序排列的一系列事物",
+        "usageLabels": [
+          "n.",
+          "精选学习义"
+        ],
+        "explanationZh": "按次序排列的一系列事物",
+        "examples": [
+          {
+            "en": "Please follow this sequence of steps.",
+            "zh": "请遵循这个步骤顺序。",
+            "origin": "original",
+            "sourceRef": null,
+            "usageNote": "按次序排列的一系列事物"
+          }
+        ],
+        "evidenceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-s.json/sequence/n / sequence%1:14:00::",
+            "supportedClaim": "serial arrangement in which things follow in logical order or a recurrent pattern",
+            "url": "https://en-word.net/"
+          }
+        ]
+      },
+      {
+        "senseId": "sequence%2:31:00::",
+        "title": "按次序安排",
+        "usageLabels": [
+          "v.",
+          "精选学习义"
+        ],
+        "explanationZh": "按次序安排",
+        "examples": [
+          {
+            "en": "We need to sequence the tests carefully.",
+            "zh": "我们需要仔细安排测试次序。",
+            "origin": "original",
+            "sourceRef": null,
+            "usageNote": "按次序安排"
+          }
+        ],
+        "evidenceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-s.json/sequence/v / sequence%2:31:00::",
+            "supportedClaim": "arrange in a sequence",
+            "url": "https://en-word.net/"
+          }
+        ]
+      }
+    ]
+  },
+  "senses": [
+    {
+      "schemaVersion": 1,
+      "senseId": "sequence%1:14:00::",
+      "lexicalEntryId": "lex:sequence",
+      "pos": "n.",
+      "definitionOrigin": "licensed_verbatim",
+      "meaning": {
+        "definitionEn": "serial arrangement in which things follow in logical order or a recurrent pattern",
+        "glossZh": "按次序排列的一系列事物",
+        "glossOrigin": "editorial"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "oewn-2025",
+          "sourceVersion": "2025",
+          "locator": "entries-s.json/sequence/n / sequence%1:14:00::",
+          "supportedClaim": "serial arrangement in which things follow in logical order or a recurrent pattern",
+          "url": "https://en-word.net/"
+        }
+      ],
+      "version": "1"
+    },
+    {
+      "schemaVersion": 1,
+      "senseId": "sequence%2:31:00::",
+      "lexicalEntryId": "lex:sequence",
+      "pos": "v.",
+      "definitionOrigin": "licensed_verbatim",
+      "meaning": {
+        "definitionEn": "arrange in a sequence",
+        "glossZh": "按次序安排",
+        "glossOrigin": "editorial"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "oewn-2025",
+          "sourceVersion": "2025",
+          "locator": "entries-s.json/sequence/v / sequence%2:31:00::",
+          "supportedClaim": "arrange in a sequence",
+          "url": "https://en-word.net/"
+        }
+      ],
+      "version": "1"
+    }
+  ],
+  "inventory": {
+    "schemaVersion": 1,
+    "inventoryId": "inventory:V20261012-011",
+    "version": "1",
+    "lexicalEntryId": "lex:sequence",
+    "sources": [
+      "oewn-2025"
+    ],
+    "senseIds": [
+      "sequence%1:14:00::",
+      "sequence%2:31:00::"
+    ],
+    "coverageStatus": "partial"
+  },
+  "context": {
+    "schemaVersion": 1,
+    "contextId": "V20261012-011-context",
+    "entryId": "V20261012-011",
+    "sourceRef": "original-vocab",
+    "quote": "Let's agree on the sequence of the remaining activities.",
+    "quoteSHA": "f03812439e723845316df235afd0465af22611fad84a4e13fc7650afb04e60d5",
+    "translation": "我们来商定剩余活动的顺序吧。",
+    "quoteType": "原词库教学例句／转述；未认定为外部作者逐字引文",
+    "meaning": "有待共同确定的执行先后",
+    "qualifiers": {
+      "polarity": "affirmative",
+      "modality": [],
+      "conditions": [],
+      "agents": [],
+      "timeScope": null,
+      "excludedInferences": [
+        "不能把建议达成一致写成一致已经形成。"
+      ]
+    },
+    "location": "selected",
+    "senseRefs": [
+      "sequence%1:14:00::"
+    ],
+    "targetSpans": [
+      {
+        "start": 19,
+        "end": 27,
+        "text": "sequence",
+        "mappingType": "exact",
+        "note": "原句精确匹配；词形变化时不伪造span"
+      }
+    ],
+    "context": "仅以保留的这条原句为分析范围；未知背景不补造。"
+  },
+  "history": {
+    "schemaVersion": 1,
+    "lexicalEntryId": "lex:sequence",
+    "version": "1",
+    "summary": "",
+    "claims": [],
+    "sourceRefs": [],
+    "limitations": [
+      "未核实历史资料，不编造词源或年代。"
+    ]
+  },
+  "bridge": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-011",
+    "contextId": "V20261012-011-context",
+    "version": "1",
+    "location": "selected",
+    "strategies": [
+      "direct",
+      "contextualization"
+    ],
+    "anchorRefs": [
+      "sequence%1:14:00::"
+    ],
+    "targetRefs": [
+      "sequence%1:14:00::"
+    ],
+    "semanticText": "顺序义直接落到剩余活动上；名词sequence是要商定的对象，不是动词“给任务排序”的句法位置。",
+    "boundary": "不能把建议达成一致写成一致已经形成。",
+    "evidenceRefs": [
+      {
+        "sourceId": "oewn-2025",
+        "sourceVersion": "2025",
+        "locator": "entries-s.json/sequence/n / sequence%1:14:00::",
+        "supportedClaim": "serial arrangement in which things follow in logical order or a recurrent pattern",
+        "url": "https://en-word.net/"
+      }
+    ],
+    "historyLink": null,
+    "historyClaimRefs": [],
+    "returnTargets": [
+      "wl-common",
+      "wl-history"
+    ]
+  },
+  "analysis": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-011",
+    "contextId": "V20261012-011-context",
+    "version": "1",
+    "promptHash": "aaf3bd1e99daf47a70a2a158973652d67ff14dafcfc1748b3fc2a09d719885db",
+    "depth": "standard",
+    "depthReason": "需辨析相邻用法并保留原句的承诺或证据边界。",
+    "coverage": {
+      "syntax": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "syntax-concept"
+        ]
+      },
+      "concept": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "syntax-concept"
+        ]
+      },
+      "contrast": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "contrast"
+        ]
+      },
+      "languageGame": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "game-neighbors"
+        ]
+      },
+      "englishNeighbors": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "game-neighbors"
+        ]
+      },
+      "pragmaticAction": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "action"
+        ]
+      },
+      "workplaceUse": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "workplace"
+        ]
+      }
+    },
+    "blocks": [
+      {
+        "blockId": "syntax-concept",
+        "dimensions": [
+          "syntax",
+          "concept"
+        ],
+        "text": "Let us的缩写Let’s提出共同建议；agree on后接the sequence；of the remaining activities限定对象。 讨论的是各项活动怎样排列。原句没有给出顺序、具体开始时间或是否可并行。",
+        "sourceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-s.json/sequence/n / sequence%1:14:00::",
+            "supportedClaim": "serial arrangement in which things follow in logical order or a recurrent pattern",
+            "url": "https://en-word.net/"
+          }
+        ],
+        "title": "句子结构与当前所指"
+      },
+      {
+        "blockId": "contrast",
+        "dimensions": [
+          "contrast"
+        ],
+        "text": "sequence回答先后怎样；schedule还涉及时间安排；priority回答相对重要或紧迫程度。高优先级任务也可能在等待前置输入。",
+        "sourceRefs": [],
+        "title": "容易混淆的地方"
+      },
+      {
+        "blockId": "game-neighbors",
+        "dimensions": [
+          "languageGame",
+          "englishNeighbors"
+        ],
+        "text": "应把依赖关系和资源限制摆出来，再商定哪些先做、哪些可以并行，并让执行人员理解这个次序。 sequence of activities说明排列对象；in sequence强调依次进行；parallel activities是检查是否真的需要严格串行时的相关概念。",
+        "sourceRefs": [],
+        "title": "讨论通常怎样继续"
+      },
+      {
+        "blockId": "action",
+        "dimensions": [
+          "pragmaticAction"
+        ],
+        "text": "说话者在邀请共同确定顺序，尚未单方面发出排序指令。",
+        "sourceRefs": [],
+        "title": "说话者正在做什么"
+      },
+      {
+        "blockId": "workplace",
+        "dimensions": [
+          "workplaceUse"
+        ],
+        "text": "下面是迁移到制造业沟通的新例句；不代表原场景中已发生的决定。",
+        "sourceRefs": [],
+        "title": "迁移到工作情境"
+      }
+    ],
+    "workplaceUse": [
+      {
+        "en": "Can we change the test sequence to reduce waiting time?",
+        "zh": "我们能调整测试顺序来减少等待吗？",
+        "whenToUse": "讨论执行顺序的优化。",
+        "limitation": "原创教学表达；具体权限和流程以实际约定为准。",
+        "origin": "original"
+      },
+      {
+        "en": "Please confirm which activities can run in parallel.",
+        "zh": "请确认哪些活动可以并行。",
+        "whenToUse": "检查顺序是否有必要严格串行。",
+        "limitation": "原创教学表达；具体权限和流程以实际约定为准。",
+        "origin": "original"
+      }
+    ],
+    "practiceRefs": [],
+    "edges": []
+  },
+  "practices": [],
+  "sources": [
+    {
+      "schemaVersion": 1,
+      "sourceId": "original-vocab",
+      "version": "2026-11-16",
+      "title": "原词库教学句／转述",
+      "url": "public/vocabulary.json",
+      "accessMode": "user_material",
+      "retrievedAt": "2026-11-16T01:45:06.410Z",
+      "coverage": "partial",
+      "rights": "用户授权处理原词库",
+      "limitations": [
+        "非外部作者逐字引文；保留原ID与原句"
+      ]
+    },
+    {
+      "schemaVersion": 1,
+      "sourceId": "oewn-2025",
+      "version": "2025",
+      "title": "Open English Wordnet 2025",
+      "url": "https://en-word.net/",
+      "accessMode": "licensed_snapshot",
+      "retrievedAt": "2026-11-16T01:45:06.410Z",
+      "coverage": "partial",
+      "rights": "CC BY 4.0 + Princeton notice",
+      "limitations": [
+        "本包仅选部分源义；中文非官方译文"
+      ]
+    }
+  ],
+  "verifiedIPA": null,
+  "dictionaryURL": "https://en-word.net/",
+  "historyURL": null
+}

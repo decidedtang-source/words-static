@@ -1,0 +1,326 @@
+{
+  "schemaVersion": 1,
+  "reviewId": "independent-expansion-r1-V20261012-017",
+  "reviewer": "/root/r2_implementation_review",
+  "role": "content-reviewer",
+  "scope": "full_package",
+  "inputHash": "13e20713c0ca3d468503ec4259505126c38bd7a4594307eda66f9b5b4afb9390",
+  "artifactHash": "57385ed0258b090aee4bc6a86083ccb0f88b7942975d55bf4dcf956a5d843df8",
+  "checks": [
+    {
+      "qaId": "Q-H01",
+      "result": "pass",
+      "observation": "deadline: original headword and ID preserved; source-sense POS checked. Display IPA 音标待核; null original IPA is not falsely certified.",
+      "evidencePaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-017\\r0/bundle.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-017\\r0/input.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\oewn-selected-2025.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\web-evidence-20261116.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-expansion-r1/summary.json"
+      ],
+      "issueIds": []
+    },
+    {
+      "qaId": "Q-S01",
+      "result": "pass",
+      "observation": "Read original quote We need a decision today to meet the deadline. with Chinese 为了赶上截止时间，我们今天需要作出决定。; shared ContextUse projection retains the same text/meaning.",
+      "evidencePaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-017\\r0/bundle.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-017\\r0/input.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\oewn-selected-2025.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\web-evidence-20261116.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-expansion-r1/summary.json"
+      ],
+      "issueIds": []
+    },
+    {
+      "qaId": "Q-S03",
+      "result": "pass",
+      "observation": "Explicit original-library teaching/paraphrase identity; no fabricated external author or work date. Source-registration timestamp interpreted as import time, not original publication time.",
+      "evidencePaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-017\\r0/bundle.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-017\\r0/input.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\oewn-selected-2025.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\web-evidence-20261116.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-expansion-r1/summary.json"
+      ],
+      "issueIds": []
+    },
+    {
+      "qaId": "Q-N01",
+      "result": "pass",
+      "observation": "General summary 必须完成某事的最后时限; current summary 需要按时完成事项的最后期限. Both usable and consistent with learning/current-sense distinction.",
+      "evidencePaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-017\\r0/bundle.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-017\\r0/input.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\oewn-selected-2025.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\web-evidence-20261116.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-expansion-r1/summary.json"
+      ],
+      "issueIds": []
+    },
+    {
+      "qaId": "Q-D01",
+      "result": "pass",
+      "observation": "Checked all 1 sense definitions, Chinese glosses, actual source IDs, POS and versioned locators against licensed OEWN snapshot or identified official lexical source.",
+      "evidencePaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-017\\r0/bundle.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-017\\r0/input.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\oewn-selected-2025.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\web-evidence-20261116.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-expansion-r1/summary.json"
+      ],
+      "issueIds": []
+    },
+    {
+      "qaId": "Q-D02",
+      "result": "pass",
+      "observation": "Coverage partial accurately remains partial; no whole-expression component substitution found.",
+      "evidencePaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-017\\r0/bundle.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-017\\r0/input.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\oewn-selected-2025.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\web-evidence-20261116.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-expansion-r1/summary.json"
+      ],
+      "issueIds": []
+    },
+    {
+      "qaId": "Q-L01",
+      "result": "pass",
+      "observation": "Read all 1 selected bilingual examples, original labels and visible usage tip: meet the deadline是按期完成，不是“开会讨论期限”。. Examples fit intended senses; no material language/source mismatch found.",
+      "evidencePaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-017\\r0/bundle.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-017\\r0/input.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\oewn-selected-2025.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\web-evidence-20261116.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-expansion-r1/summary.json"
+      ],
+      "issueIds": []
+    },
+    {
+      "qaId": "Q-L03",
+      "result": "pass",
+      "observation": "Shared general summary and actual learning projection agree; corrected vocabulary is not bypassed by a stale navigation summary.",
+      "evidencePaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-017\\r0/bundle.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-017\\r0/input.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\oewn-selected-2025.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\web-evidence-20261116.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-expansion-r1/summary.json"
+      ],
+      "issueIds": []
+    },
+    {
+      "qaId": "Q-L04",
+      "result": "pass",
+      "observation": "No invented frequency ranking; current references deadline%1:28:00:: are appropriate to original context and not mechanically imposed by first sense.",
+      "evidencePaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-017\\r0/bundle.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-017\\r0/input.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\oewn-selected-2025.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\web-evidence-20261116.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-expansion-r1/summary.json"
+      ],
+      "issueIds": []
+    },
+    {
+      "qaId": "Q-Y01",
+      "result": "not_applicable",
+      "observation": "No historical claims supplied; not applicable rather than historical-source pass.",
+      "evidencePaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-017\\r0/bundle.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-017\\r0/input.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\oewn-selected-2025.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\web-evidence-20261116.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-expansion-r1/summary.json"
+      ],
+      "issueIds": []
+    },
+    {
+      "qaId": "Q-Y03",
+      "result": "pass",
+      "observation": "Absence of checked historical evidence explicitly preserved, with no invented chronology or evolutionary story.",
+      "evidencePaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-017\\r0/bundle.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-017\\r0/input.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\oewn-selected-2025.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\web-evidence-20261116.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-expansion-r1/summary.json"
+      ],
+      "issueIds": []
+    },
+    {
+      "qaId": "Q-C01",
+      "result": "pass",
+      "observation": "Original quote/hash and stable entry identity match vocabulary and BoundInput; translation and spans reviewed; no fictional external attribution.",
+      "evidencePaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-017\\r0/bundle.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-017\\r0/input.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\oewn-selected-2025.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\web-evidence-20261116.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-expansion-r1/summary.json"
+      ],
+      "issueIds": []
+    },
+    {
+      "qaId": "Q-C02",
+      "result": "pass",
+      "observation": "Independently compared complete r1 package with previously reviewed r0: only ContextUse.qualifiers changed. Read against original quote We need a decision today to meet the deadline.; sentence-supported actors, relative scope, modality and scoped polarity now preserved: {\"polarity\":\"affirmative\",\"modality\":[\"need (necessity)\"],\"conditions\":[\"a decision today is needed to meet the deadline\"],\"agents\":[\"we\"],\"timeScope\":\"today (decision); deadline date unspecified\",\"excludedInferences\":[\"不能将today误读为明示的最终截止日，也不能推出决定已经作出。\"]}. No invented identity or calendar date; Let’s explicitly described as joint proposal, not auxiliary. All prior Q-C02 requirements resolved.",
+      "evidencePaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-017\\r0/bundle.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-017\\r0/input.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\oewn-selected-2025.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\web-evidence-20261116.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-expansion-r1/summary.json"
+      ],
+      "issueIds": []
+    },
+    {
+      "qaId": "Q-C03",
+      "result": "pass",
+      "observation": "Current meaning 需要按时完成事项的最后期限; referenced ordinary/procedural sense supports it. Sign-off noun and checkpoint procedural source distinction independently verified where relevant.",
+      "evidencePaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-017\\r0/bundle.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-017\\r0/input.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\oewn-selected-2025.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\web-evidence-20261116.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-expansion-r1/summary.json"
+      ],
+      "issueIds": []
+    },
+    {
+      "qaId": "Q-C04",
+      "result": "pass",
+      "observation": "M02/M03/M07 consume shared fields in actual projection; no inconsistent duplicate summary. Candidate DOM and visual order remain engineering checks.",
+      "evidencePaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-017\\r0/bundle.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-017\\r0/input.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\oewn-selected-2025.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\web-evidence-20261116.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-expansion-r1/summary.json"
+      ],
+      "issueIds": []
+    },
+    {
+      "qaId": "Q-B01",
+      "result": "pass",
+      "observation": "Route selected; strategies direct, contextualization. Location and explanation strategy are separate; depth not used to infer a sense.",
+      "evidencePaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-017\\r0/bundle.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-017\\r0/input.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\oewn-selected-2025.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\web-evidence-20261116.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-expansion-r1/summary.json"
+      ],
+      "issueIds": []
+    },
+    {
+      "qaId": "Q-B02",
+      "result": "pass",
+      "observation": "Read semantic connection and boundary: 最后时限义直接适用；本句把一个近期决定与能否按时完成联系起来，但没有把两者日期等同。 不能将today误读为明示的最终截止日，也不能推出决定已经作出。",
+      "evidencePaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-017\\r0/bundle.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-017\\r0/input.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\oewn-selected-2025.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\web-evidence-20261116.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-expansion-r1/summary.json"
+      ],
+      "issueIds": []
+    },
+    {
+      "qaId": "Q-B04",
+      "result": "pass",
+      "observation": "No unsupported authority, approval completion or unconditional result inferred. Boundary: 不能将today误读为明示的最终截止日，也不能推出决定已经作出。",
+      "evidencePaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-017\\r0/bundle.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-017\\r0/input.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\oewn-selected-2025.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\web-evidence-20261116.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-expansion-r1/summary.json"
+      ],
+      "issueIds": []
+    },
+    {
+      "qaId": "Q-B05",
+      "result": "pass",
+      "observation": "Modern meaning has source support; missing optional history does not create a fabricated explanation or block this independently supported modern bridge.",
+      "evidencePaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-017\\r0/bundle.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-017\\r0/input.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\oewn-selected-2025.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\web-evidence-20261116.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-expansion-r1/summary.json"
+      ],
+      "issueIds": []
+    },
+    {
+      "qaId": "Q-A01",
+      "result": "pass",
+      "observation": "Read every block and seven coverage assignments. Syntax/concept: today修饰需要决定的时间；to meet the deadline说明今天决定的目的，不直接给出deadline是哪一天。 今天作决定被视为赶上后续时限所需的一步。原句没有说截止时间就是今天，也未说明晚决定的全部后果。 Other dimensions add contrast, activity, neighbors, speech action and actual original transfer examples.",
+      "evidencePaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-017\\r0/bundle.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-017\\r0/input.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\oewn-selected-2025.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\web-evidence-20261116.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-expansion-r1/summary.json"
+      ],
+      "issueIds": []
+    },
+    {
+      "qaId": "Q-A02",
+      "result": "pass",
+      "observation": "Depth standard; analysis remains proportionate to ambiguity and explains concrete scope without token-padding or new company procedures.",
+      "evidencePaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-017\\r0/bundle.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-017\\r0/input.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\oewn-selected-2025.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\web-evidence-20261116.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-expansion-r1/summary.json"
+      ],
+      "issueIds": []
+    },
+    {
+      "qaId": "Q-A03",
+      "result": "pass",
+      "observation": "Game/neighbors and action provide different information. Speech action read in full: 说话者在强调今天作决定的紧迫性。",
+      "evidencePaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-017\\r0/bundle.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-017\\r0/input.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\oewn-selected-2025.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\web-evidence-20261116.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-expansion-r1/summary.json"
+      ],
+      "issueIds": []
+    },
+    {
+      "qaId": "Q-A04",
+      "result": "not_applicable",
+      "observation": "No Practice references or edges; local application remains standalone. Zero-Practice is expressly allowed; no extra card required.",
+      "evidencePaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-017\\r0/bundle.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-017\\r0/input.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\oewn-selected-2025.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\web-evidence-20261116.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-expansion-r1/summary.json"
+      ],
+      "issueIds": []
+    },
+    {
+      "qaId": "Q-A05",
+      "result": "pass",
+      "observation": "Both original work expressions and Chinese/usage conditions reviewed: What decision is needed today to meet the shipment deadline? / 为了赶上发货截止时间，今天需要作出什么决定？ | Can we meet the deadline without reducing the inspection scope? / 我们能在不缩小检验范围的情况下赶上期限吗？",
+      "evidencePaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-017\\r0/bundle.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-017\\r0/input.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\oewn-selected-2025.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\web-evidence-20261116.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-expansion-r1/summary.json"
+      ],
+      "issueIds": []
+    }
+  ],
+  "verdict": "pass",
+  "issues": [],
+  "time": "2026-11-16T02:09:04.468Z"
+}

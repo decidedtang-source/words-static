@@ -1,0 +1,338 @@
+{
+  "schemaVersion": 1,
+  "reviewId": "independent-expansion-r0-V20261012-033",
+  "reviewer": "/root/r2_implementation_review",
+  "role": "content-reviewer",
+  "scope": "full_package",
+  "inputHash": "6fe2647353739175936aa044e2ffa283d52bb02eeccb3e09c8c210c740641dd0",
+  "artifactHash": "67bf94005301faabb103457be3defb33f6a548baad6741e1642334ca07fe3b7e",
+  "checks": [
+    {
+      "qaId": "Q-H01",
+      "result": "pass",
+      "observation": "defer: original headword and ID preserved; source-sense POS checked. Display IPA 音标待核; null original IPA is not falsely certified.",
+      "evidencePaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-033\\r0/bundle.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-033\\r0/input.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\oewn-selected-2025.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\web-evidence-20261116.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-expansion-r0/summary.json"
+      ],
+      "issueIds": []
+    },
+    {
+      "qaId": "Q-S01",
+      "result": "pass",
+      "observation": "Read original quote We can defer the decision until the missing data arrives. with Chinese 我们可以把决定推迟到缺失的数据到齐时再作。; shared ContextUse projection retains the same text/meaning.",
+      "evidencePaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-033\\r0/bundle.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-033\\r0/input.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\oewn-selected-2025.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\web-evidence-20261116.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-expansion-r0/summary.json"
+      ],
+      "issueIds": []
+    },
+    {
+      "qaId": "Q-S03",
+      "result": "pass",
+      "observation": "Explicit original-library teaching/paraphrase identity; no fabricated external author or work date. Source-registration timestamp interpreted as import time, not original publication time.",
+      "evidencePaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-033\\r0/bundle.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-033\\r0/input.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\oewn-selected-2025.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\web-evidence-20261116.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-expansion-r0/summary.json"
+      ],
+      "issueIds": []
+    },
+    {
+      "qaId": "Q-N01",
+      "result": "pass",
+      "observation": "General summary 推迟；延后处理；遵从；听从他人的意见; current summary 提出等待必要数据后再决定的选项. Both usable and consistent with learning/current-sense distinction.",
+      "evidencePaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-033\\r0/bundle.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-033\\r0/input.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\oewn-selected-2025.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\web-evidence-20261116.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-expansion-r0/summary.json"
+      ],
+      "issueIds": []
+    },
+    {
+      "qaId": "Q-D01",
+      "result": "pass",
+      "observation": "Checked all 2 sense definitions, Chinese glosses, actual source IDs, POS and versioned locators against licensed OEWN snapshot or identified official lexical source.",
+      "evidencePaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-033\\r0/bundle.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-033\\r0/input.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\oewn-selected-2025.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\web-evidence-20261116.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-expansion-r0/summary.json"
+      ],
+      "issueIds": []
+    },
+    {
+      "qaId": "Q-D02",
+      "result": "pass",
+      "observation": "Coverage partial accurately remains partial; no whole-expression component substitution found.",
+      "evidencePaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-033\\r0/bundle.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-033\\r0/input.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\oewn-selected-2025.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\web-evidence-20261116.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-expansion-r0/summary.json"
+      ],
+      "issueIds": []
+    },
+    {
+      "qaId": "Q-L01",
+      "result": "pass",
+      "observation": "Read all 2 selected bilingual examples, original labels and visible usage tip: defer something与defer to someone要按结构区分。. Examples fit intended senses; no material language/source mismatch found.",
+      "evidencePaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-033\\r0/bundle.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-033\\r0/input.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\oewn-selected-2025.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\web-evidence-20261116.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-expansion-r0/summary.json"
+      ],
+      "issueIds": []
+    },
+    {
+      "qaId": "Q-L03",
+      "result": "pass",
+      "observation": "Shared general summary and actual learning projection agree; corrected vocabulary is not bypassed by a stale navigation summary.",
+      "evidencePaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-033\\r0/bundle.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-033\\r0/input.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\oewn-selected-2025.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\web-evidence-20261116.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-expansion-r0/summary.json"
+      ],
+      "issueIds": []
+    },
+    {
+      "qaId": "Q-L04",
+      "result": "pass",
+      "observation": "No invented frequency ranking; current references defer%2:42:00:: are appropriate to original context and not mechanically imposed by first sense.",
+      "evidencePaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-033\\r0/bundle.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-033\\r0/input.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\oewn-selected-2025.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\web-evidence-20261116.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-expansion-r0/summary.json"
+      ],
+      "issueIds": []
+    },
+    {
+      "qaId": "Q-Y01",
+      "result": "not_applicable",
+      "observation": "No historical claims supplied; not applicable rather than historical-source pass.",
+      "evidencePaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-033\\r0/bundle.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-033\\r0/input.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\oewn-selected-2025.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\web-evidence-20261116.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-expansion-r0/summary.json"
+      ],
+      "issueIds": []
+    },
+    {
+      "qaId": "Q-Y03",
+      "result": "pass",
+      "observation": "Absence of checked historical evidence explicitly preserved, with no invented chronology or evolutionary story.",
+      "evidencePaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-033\\r0/bundle.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-033\\r0/input.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\oewn-selected-2025.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\web-evidence-20261116.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-expansion-r0/summary.json"
+      ],
+      "issueIds": []
+    },
+    {
+      "qaId": "Q-C01",
+      "result": "pass",
+      "observation": "Original quote/hash and stable entry identity match vocabulary and BoundInput; translation and spans reviewed; no fictional external attribution.",
+      "evidencePaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-033\\r0/bundle.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-033\\r0/input.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\oewn-selected-2025.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\web-evidence-20261116.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-expansion-r0/summary.json"
+      ],
+      "issueIds": []
+    },
+    {
+      "qaId": "Q-C02",
+      "result": "fail",
+      "observation": "Actual constraints inspected: {\"polarity\":\"affirmative\",\"modality\":[\"can\"],\"conditions\":[\"until the missing data arrives\"],\"agents\":[],\"timeScope\":null,\"excludedInferences\":[\"can不是实际已延期；数据到达不自动保证某个决定获批。\"]}. Explicit we is absent from agents; retain the already-recorded until condition without inventing data arrival date.",
+      "evidencePaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-033\\r0/bundle.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-033\\r0/input.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\oewn-selected-2025.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\web-evidence-20261116.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-expansion-r0/summary.json"
+      ],
+      "issueIds": [
+        "EXP0-QUALIFIERS-V20261012-033"
+      ]
+    },
+    {
+      "qaId": "Q-C03",
+      "result": "pass",
+      "observation": "Current meaning 提出等待必要数据后再决定的选项; referenced ordinary/procedural sense supports it. Sign-off noun and checkpoint procedural source distinction independently verified where relevant.",
+      "evidencePaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-033\\r0/bundle.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-033\\r0/input.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\oewn-selected-2025.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\web-evidence-20261116.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-expansion-r0/summary.json"
+      ],
+      "issueIds": []
+    },
+    {
+      "qaId": "Q-C04",
+      "result": "pass",
+      "observation": "M02/M03/M07 consume shared fields in actual projection; no inconsistent duplicate summary. Candidate DOM and visual order remain engineering checks.",
+      "evidencePaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-033\\r0/bundle.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-033\\r0/input.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\oewn-selected-2025.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\web-evidence-20261116.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-expansion-r0/summary.json"
+      ],
+      "issueIds": []
+    },
+    {
+      "qaId": "Q-B01",
+      "result": "pass",
+      "observation": "Route selected; strategies direct, contextualization. Location and explanation strategy are separate; depth not used to infer a sense.",
+      "evidencePaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-033\\r0/bundle.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-033\\r0/input.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\oewn-selected-2025.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\web-evidence-20261116.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-expansion-r0/summary.json"
+      ],
+      "issueIds": []
+    },
+    {
+      "qaId": "Q-B02",
+      "result": "pass",
+      "observation": "Read semantic connection and boundary: 使用推迟义，until把延后与数据到达相连；不是“服从数据”或已经取消决定。 can不是实际已延期；数据到达不自动保证某个决定获批。",
+      "evidencePaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-033\\r0/bundle.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-033\\r0/input.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\oewn-selected-2025.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\web-evidence-20261116.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-expansion-r0/summary.json"
+      ],
+      "issueIds": []
+    },
+    {
+      "qaId": "Q-B04",
+      "result": "pass",
+      "observation": "No unsupported authority, approval completion or unconditional result inferred. Boundary: can不是实际已延期；数据到达不自动保证某个决定获批。",
+      "evidencePaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-033\\r0/bundle.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-033\\r0/input.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\oewn-selected-2025.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\web-evidence-20261116.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-expansion-r0/summary.json"
+      ],
+      "issueIds": []
+    },
+    {
+      "qaId": "Q-B05",
+      "result": "pass",
+      "observation": "Modern meaning has source support; missing optional history does not create a fabricated explanation or block this independently supported modern bridge.",
+      "evidencePaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-033\\r0/bundle.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-033\\r0/input.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\oewn-selected-2025.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\web-evidence-20261116.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-expansion-r0/summary.json"
+      ],
+      "issueIds": []
+    },
+    {
+      "qaId": "Q-A01",
+      "result": "pass",
+      "observation": "Read every block and seven coverage assignments. Syntax/concept: can表示可行选择；defer直接接the decision；until限定等待终点。这里没有defer to的结构。 延后决定可以等待证据，而非永久不作决定。数据何时到、是否足以支持决定，句子没有回答。 Other dimensions add contrast, activity, neighbors, speech action and actual original transfer examples.",
+      "evidencePaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-033\\r0/bundle.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-033\\r0/input.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\oewn-selected-2025.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\web-evidence-20261116.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-expansion-r0/summary.json"
+      ],
+      "issueIds": []
+    },
+    {
+      "qaId": "Q-A02",
+      "result": "pass",
+      "observation": "Depth standard; analysis remains proportionate to ambiguity and explains concrete scope without token-padding or new company procedures.",
+      "evidencePaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-033\\r0/bundle.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-033\\r0/input.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\oewn-selected-2025.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\web-evidence-20261116.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-expansion-r0/summary.json"
+      ],
+      "issueIds": []
+    },
+    {
+      "qaId": "Q-A03",
+      "result": "pass",
+      "observation": "Game/neighbors and action provide different information. Speech action read in full: 说话者在提出一个有条件的延后方案。",
+      "evidencePaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-033\\r0/bundle.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-033\\r0/input.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\oewn-selected-2025.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\web-evidence-20261116.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-expansion-r0/summary.json"
+      ],
+      "issueIds": []
+    },
+    {
+      "qaId": "Q-A04",
+      "result": "not_applicable",
+      "observation": "No Practice references or edges; local application remains standalone. Zero-Practice is expressly allowed; no extra card required.",
+      "evidencePaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-033\\r0/bundle.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-033\\r0/input.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\oewn-selected-2025.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\web-evidence-20261116.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-expansion-r0/summary.json"
+      ],
+      "issueIds": []
+    },
+    {
+      "qaId": "Q-A05",
+      "result": "pass",
+      "observation": "Both original work expressions and Chinese/usage conditions reviewed: Can we defer the release decision until the test results arrive? / 我们能把放行决定推迟到测试结果出来后吗？ | If the data is delayed again, when should we revisit the plan? / 如果数据再次延迟，我们应何时重新讨论计划？",
+      "evidencePaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-033\\r0/bundle.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-033\\r0/input.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\oewn-selected-2025.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\web-evidence-20261116.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-expansion-r0/summary.json"
+      ],
+      "issueIds": []
+    }
+  ],
+  "verdict": "fail",
+  "issues": [
+    {
+      "issueId": "EXP0-QUALIFIERS-V20261012-033",
+      "qaIds": [
+        "Q-C02"
+      ],
+      "severity": "important",
+      "observation": "Explicit we is absent from agents; retain the already-recorded until condition without inventing data arrival date. The prose generally preserves the distinction; the failure concerns the frozen structured constraint representation.",
+      "requiredChange": "Populate only sentence-supported actors, relative time/conditions and scoped polarity/modality. Preserve existing accurate prose and source quote; do not invent names, dates, company policy or auxiliary-verb classifications."
+    }
+  ],
+  "time": "2026-11-16T02:06:38.231Z"
+}

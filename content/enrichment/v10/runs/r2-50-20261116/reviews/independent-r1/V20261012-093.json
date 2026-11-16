@@ -1,0 +1,350 @@
+{
+  "schemaVersion": 1,
+  "reviewId": "independent-r1-V20261012-093",
+  "reviewer": "/root/r2_implementation_review",
+  "role": "content-reviewer",
+  "scope": "full_package",
+  "inputHash": "e221429a6bd00586ba9cca6bcbe9d2adb66f87b1f1a8149862a75add738f2178",
+  "artifactHash": "99fb304881e744f6d9a25560d6c2410a9c4b01f5f47efa4e8f19cea5ea819069",
+  "checks": [
+    {
+      "qaId": "Q-H01",
+      "result": "pass",
+      "observation": "provided that: original headword/entry identity preserved. Projected IPA prəˈvaɪ.dɪd ðət; absence is explicit. Corrected per-sense POS inspected; phrase IPA exception is listed below.",
+      "evidencePaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-093\\r1/bundle.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-093\\r1/input.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-r1/source-checks.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/source-registration.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\oewn-selected-2025.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\web-evidence-20261116.json"
+      ],
+      "issueIds": []
+    },
+    {
+      "qaId": "Q-S01",
+      "result": "pass",
+      "observation": "Quote We can proceed provided that the owner confirms the scope. and translation 在负责人确认范围的条件下，我们可以继续。 checked together; shared ContextUse projection preserved. Capacity no longer asserts simultaneous timing.",
+      "evidencePaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-093\\r1/bundle.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-093\\r1/input.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-r1/source-checks.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/source-registration.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\oewn-selected-2025.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\web-evidence-20261116.json"
+      ],
+      "issueIds": []
+    },
+    {
+      "qaId": "Q-S03",
+      "result": "pass",
+      "observation": "Original-library teaching/paraphrase identity preserved. Missing external source URL/date not fabricated. Registration timestamp meaning is explicitly documented in source-registration.json.",
+      "evidencePaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-093\\r1/bundle.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-093\\r1/input.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-r1/source-checks.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/source-registration.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\oewn-selected-2025.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\web-evidence-20261116.json"
+      ],
+      "issueIds": []
+    },
+    {
+      "qaId": "Q-N01",
+      "result": "pass",
+      "observation": "General summary 只要；在……条件下; current meaning 把负责人确认范围设为继续推进的条件. Phrase summaries now describe the whole expression while component teaching is labeled separately.",
+      "evidencePaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-093\\r1/bundle.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-093\\r1/input.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-r1/source-checks.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/source-registration.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\oewn-selected-2025.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\web-evidence-20261116.json"
+      ],
+      "issueIds": []
+    },
+    {
+      "qaId": "Q-D01",
+      "result": "pass",
+      "observation": "All 1 definitions/glosses/source mappings inspected. OEWN component POS/lemma restored; NASA verification/validation have distinct complete editorial definitions; shock ordinary event evidence replaces geological sense.",
+      "evidencePaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-093\\r1/bundle.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-093\\r1/input.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-r1/source-checks.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/source-registration.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\oewn-selected-2025.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\web-evidence-20261116.json"
+      ],
+      "issueIds": []
+    },
+    {
+      "qaId": "Q-D02",
+      "result": "pass",
+      "observation": "Coverage partial; projected disclosure: 已核查的部分义项；不代表完整词典. Whole-expression/constituent boundaries explicit, except listed orthographic-label regression.",
+      "evidencePaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-093\\r1/bundle.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-093\\r1/input.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-r1/source-checks.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/source-registration.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\oewn-selected-2025.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\web-evidence-20261116.json"
+      ],
+      "issueIds": []
+    },
+    {
+      "qaId": "Q-L01",
+      "result": "pass",
+      "observation": "Read every selected example/translation and visible guidance. Entry tip: 条件从句必须和主句一起转述；删掉provided that会改变承诺范围。. Originality is separate from useful learning guidance; remaining specific wording defects listed below.",
+      "evidencePaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-093\\r1/bundle.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-093\\r1/input.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-r1/source-checks.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/source-registration.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\oewn-selected-2025.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\web-evidence-20261116.json"
+      ],
+      "issueIds": []
+    },
+    {
+      "qaId": "Q-L03",
+      "result": "pass",
+      "observation": "Shared navigation summary 只要；在……条件下 is consistent with the corrected whole-word/expression meaning; selected component examples no longer masquerade as entire phrase senses.",
+      "evidencePaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-093\\r1/bundle.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-093\\r1/input.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-r1/source-checks.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/source-registration.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\oewn-selected-2025.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\web-evidence-20261116.json"
+      ],
+      "issueIds": []
+    },
+    {
+      "qaId": "Q-L04",
+      "result": "pass",
+      "observation": "No frequency rank asserted; true current references web:cambridge-provided retained independently of selection order.",
+      "evidencePaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-093\\r1/bundle.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-093\\r1/input.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-r1/source-checks.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/source-registration.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\oewn-selected-2025.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\web-evidence-20261116.json"
+      ],
+      "issueIds": []
+    },
+    {
+      "qaId": "Q-Y01",
+      "result": "not_applicable",
+      "observation": "No history claim exists; not applicable, not a historical-source certification.",
+      "evidencePaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-093\\r1/bundle.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-093\\r1/input.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-r1/source-checks.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/source-registration.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\oewn-selected-2025.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\web-evidence-20261116.json"
+      ],
+      "issueIds": []
+    },
+    {
+      "qaId": "Q-Y03",
+      "result": "pass",
+      "observation": "Explicit unverified-history limitation retained; absence is not filled with speculative evolution.",
+      "evidencePaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-093\\r1/bundle.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-093\\r1/input.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-r1/source-checks.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/source-registration.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\oewn-selected-2025.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\web-evidence-20261116.json"
+      ],
+      "issueIds": []
+    },
+    {
+      "qaId": "Q-C01",
+      "result": "pass",
+      "observation": "Original quote/identity checked against public vocabulary and exact snapshot; original source identity and spans retained. Context translations reviewed after changes.",
+      "evidencePaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-093\\r1/bundle.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-093\\r1/input.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-r1/source-checks.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/source-registration.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\oewn-selected-2025.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\web-evidence-20261116.json"
+      ],
+      "issueIds": []
+    },
+    {
+      "qaId": "Q-C02",
+      "result": "pass",
+      "observation": "Qualifiers now record relevant actor/time/condition: {\"polarity\":\"affirmative\",\"modality\":[\"can\"],\"conditions\":[\"the owner confirms the scope\"],\"agents\":[\"we\",\"the owner\"],\"timeScope\":null,\"excludedInferences\":[\"不认定条件已经满足，也不把这句话推广为所有项目的唯一开工规则。\"]}. No new confirmation/authority fact inferred.",
+      "evidencePaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-093\\r1/bundle.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-093\\r1/input.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-r1/source-checks.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/source-registration.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\oewn-selected-2025.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\web-evidence-20261116.json"
+      ],
+      "issueIds": []
+    },
+    {
+      "qaId": "Q-C03",
+      "result": "pass",
+      "observation": "Current meaning 把负责人确认范围设为继续推进的条件; route whole_expression. Actual meaning/evidence alignment checked, including NASA professional criteria and ordinary compositional shock explanation.",
+      "evidencePaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-093\\r1/bundle.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-093\\r1/input.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-r1/source-checks.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/source-registration.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\oewn-selected-2025.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\web-evidence-20261116.json"
+      ],
+      "issueIds": []
+    },
+    {
+      "qaId": "Q-C04",
+      "result": "pass",
+      "observation": "Shared M02/M03/M07 field ownership preserved in actual projection. DOM order/visual acceptance remains a separate engineering gate.",
+      "evidencePaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-093\\r1/bundle.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-093\\r1/input.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-r1/source-checks.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/source-registration.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\oewn-selected-2025.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\web-evidence-20261116.json"
+      ],
+      "issueIds": []
+    },
+    {
+      "qaId": "Q-B01",
+      "result": "pass",
+      "observation": "Frozen route value whole_expression; separate strategies direct, no_derivation. Depth does not choose route.",
+      "evidencePaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-093\\r1/bundle.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-093\\r1/input.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-r1/source-checks.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/source-registration.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\oewn-selected-2025.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\web-evidence-20261116.json"
+      ],
+      "issueIds": []
+    },
+    {
+      "qaId": "Q-B02",
+      "result": "pass",
+      "observation": "Semantic Bridge and boundary read together: 整段是词典收录的条件连接表达，应整体理解。它把“可以继续”和“负责人确认范围”连接起来，不能按provide＋that逐词拼成提供某物。 不认定条件已经满足，也不把这句话推广为所有项目的唯一开工规则。",
+      "evidencePaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-093\\r1/bundle.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-093\\r1/input.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-r1/source-checks.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/source-registration.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\oewn-selected-2025.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\web-evidence-20261116.json"
+      ],
+      "issueIds": []
+    },
+    {
+      "qaId": "Q-B04",
+      "result": "pass",
+      "observation": "No unprovided permission/result inferred. Boundary: 不认定条件已经满足，也不把这句话推广为所有项目的唯一开工规则。",
+      "evidencePaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-093\\r1/bundle.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-093\\r1/input.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-r1/source-checks.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/source-registration.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\oewn-selected-2025.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\web-evidence-20261116.json"
+      ],
+      "issueIds": []
+    },
+    {
+      "qaId": "Q-B05",
+      "result": "pass",
+      "observation": "No history required for supported current meaning; corrected shock evidence now supports ordinary current interpretation.",
+      "evidencePaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-093\\r1/bundle.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-093\\r1/input.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-r1/source-checks.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/source-registration.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\oewn-selected-2025.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\web-evidence-20261116.json"
+      ],
+      "issueIds": []
+    },
+    {
+      "qaId": "Q-A01",
+      "result": "pass",
+      "observation": "All five blocks and seven dimension assignments re-read with r1 changes; concept and syntax add specific understanding, combined game/neighbors explain related questions, and work examples are separate original transfer.",
+      "evidencePaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-093\\r1/bundle.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-093\\r1/input.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-r1/source-checks.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/source-registration.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\oewn-selected-2025.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\web-evidence-20261116.json"
+      ],
+      "issueIds": []
+    },
+    {
+      "qaId": "Q-A02",
+      "result": "pass",
+      "observation": "Depth deep: 条件从句影响能否行动，误删会扩大授权。. Professional definitions explain practical criteria without importing NASA organizational policy.",
+      "evidencePaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-093\\r1/bundle.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-093\\r1/input.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-r1/source-checks.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/source-registration.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\oewn-selected-2025.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\web-evidence-20261116.json"
+      ],
+      "issueIds": []
+    },
+    {
+      "qaId": "Q-A03",
+      "result": "pass",
+      "observation": "Action grounded in actual utterance: 说话者允许在条件满足时推进，同时限制当下承诺；不是发出无条件开工令。. Game/neighbors retain distinct contextual information.",
+      "evidencePaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-093\\r1/bundle.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-093\\r1/input.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-r1/source-checks.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/source-registration.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\oewn-selected-2025.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\web-evidence-20261116.json"
+      ],
+      "issueIds": []
+    },
+    {
+      "qaId": "Q-A04",
+      "result": "not_applicable",
+      "observation": "No Practice attached; local explanation remains independently readable. No forced edge required.",
+      "evidencePaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-093\\r1/bundle.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-093\\r1/input.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-r1/source-checks.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/source-registration.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\oewn-selected-2025.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\web-evidence-20261116.json"
+      ],
+      "issueIds": []
+    },
+    {
+      "qaId": "Q-A05",
+      "result": "pass",
+      "observation": "Both bilingual work examples and use conditions reviewed: We can start the trial provided that the safety review is complete. / 在安全评审完成的条件下，我们可以开始试验。 | The date is acceptable provided that the supplier confirms capacity. / 只要供应商确认产能，这个日期就可以接受。. Account-for now uses supported part-of-total sense; trade-off translation word order corrected.",
+      "evidencePaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-093\\r1/bundle.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-093\\r1/input.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-r1/source-checks.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/source-registration.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\oewn-selected-2025.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\web-evidence-20261116.json"
+      ],
+      "issueIds": []
+    }
+  ],
+  "verdict": "pass",
+  "issues": [],
+  "time": "2026-11-16T01:47:54.415Z"
+}

@@ -1,0 +1,457 @@
+{
+  "snapshot": {
+    "schemaVersion": 1,
+    "entryId": "V20261018-106",
+    "term": "lead in the polls",
+    "quote": "The opposition candidate continued to lead in the polls.",
+    "batch": "2026-10-18",
+    "originalFileSHA": "ec65d33d6da99ebad2577f6c9f9938499823d29d117f43532302cf964a4c60a3",
+    "quoteSHA": "be5cb9ff913e1e01712b937f8fa1a0bdc4528aa4fd2592870910e21bd1486556",
+    "originalIPA": "liːd ɪn ðə poʊlz",
+    "originalPOS": "verb phrase",
+    "originalMeaning": "在民意调查中获得最高支持率"
+  },
+  "selection": {
+    "schemaVersion": 1,
+    "entryId": "V20261018-106",
+    "version": "1",
+    "inventoryRefs": [
+      "inventory:V20261018-106"
+    ],
+    "selectedSenseIds": [
+      "lead%2:41:00::",
+      "lead%2:42:01::"
+    ],
+    "reason": "按学习用途选择常见或易混义；这里不是语料频率排名。",
+    "usageTip": "领先于民调不等于赢得选举；lead在领导、领先两义中都读长元音。",
+    "general": "在民意调查中处于领先位置",
+    "senses": [
+      {
+        "senseId": "lead%2:41:00::",
+        "title": "lead（组成词／独立词目）：带领；负责领导",
+        "usageLabels": [
+          "v.",
+          "精选学习义"
+        ],
+        "explanationZh": "带领；负责领导。例句说明的用法：她带领工程团队。",
+        "examples": [
+          {
+            "en": "She leads the engineering team.",
+            "zh": "她带领工程团队。",
+            "origin": "original",
+            "sourceRef": null,
+            "usageNote": "带领；负责领导。例句说明的用法：她带领工程团队。"
+          }
+        ],
+        "evidenceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-l.json/lead/v / lead%2:41:00::",
+            "supportedClaim": "be in charge of",
+            "url": "https://en-word.net/"
+          }
+        ]
+      },
+      {
+        "senseId": "lead%2:42:01::",
+        "title": "lead（组成词／独立词目）：领先；处于前面",
+        "usageLabels": [
+          "v.",
+          "精选学习义"
+        ],
+        "explanationZh": "领先；处于前面。例句说明的用法：我们队领先两分。",
+        "examples": [
+          {
+            "en": "Our team leads by two points.",
+            "zh": "我们队领先两分。",
+            "origin": "original",
+            "sourceRef": null,
+            "usageNote": "领先；处于前面。例句说明的用法：我们队领先两分。"
+          }
+        ],
+        "evidenceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-l.json/lead/v / lead%2:42:01::",
+            "supportedClaim": "be ahead of others; be the first",
+            "url": "https://en-word.net/"
+          }
+        ]
+      }
+    ]
+  },
+  "senses": [
+    {
+      "schemaVersion": 1,
+      "senseId": "lead%2:41:00::",
+      "lexicalEntryId": "lex:lead",
+      "pos": "v.",
+      "definitionOrigin": "licensed_verbatim",
+      "meaning": {
+        "definitionEn": "be in charge of",
+        "glossZh": "带领；负责领导",
+        "glossOrigin": "editorial"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "oewn-2025",
+          "sourceVersion": "2025",
+          "locator": "entries-l.json/lead/v / lead%2:41:00::",
+          "supportedClaim": "be in charge of",
+          "url": "https://en-word.net/"
+        }
+      ],
+      "version": "1"
+    },
+    {
+      "schemaVersion": 1,
+      "senseId": "lead%2:42:01::",
+      "lexicalEntryId": "lex:lead",
+      "pos": "v.",
+      "definitionOrigin": "licensed_verbatim",
+      "meaning": {
+        "definitionEn": "be ahead of others; be the first",
+        "glossZh": "领先；处于前面",
+        "glossOrigin": "editorial"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "oewn-2025",
+          "sourceVersion": "2025",
+          "locator": "entries-l.json/lead/v / lead%2:42:01::",
+          "supportedClaim": "be ahead of others; be the first",
+          "url": "https://en-word.net/"
+        }
+      ],
+      "version": "1"
+    },
+    {
+      "schemaVersion": 1,
+      "senseId": "poll%1:09:00::",
+      "lexicalEntryId": "lex:poll",
+      "pos": "n.",
+      "definitionOrigin": "licensed_verbatim",
+      "meaning": {
+        "definitionEn": "an inquiry into public opinion conducted by interviewing a random sample of people",
+        "glossZh": "民意调查",
+        "glossOrigin": "editorial"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "oewn-2025",
+          "sourceVersion": "2025",
+          "locator": "entries-p.json/poll/n-1 / poll%1:09:00::",
+          "supportedClaim": "an inquiry into public opinion conducted by interviewing a random sample of people",
+          "url": "https://en-word.net/"
+        }
+      ],
+      "version": "1"
+    }
+  ],
+  "inventory": {
+    "schemaVersion": 1,
+    "inventoryId": "inventory:V20261018-106",
+    "version": "1",
+    "lexicalEntryId": "lex:lead in the polls",
+    "sources": [
+      "oewn-2025"
+    ],
+    "senseIds": [
+      "lead%2:41:00::",
+      "lead%2:42:01::",
+      "poll%1:09:00::"
+    ],
+    "coverageStatus": "component_partial"
+  },
+  "context": {
+    "schemaVersion": 1,
+    "contextId": "V20261018-106-context",
+    "entryId": "V20261018-106",
+    "sourceRef": "original-vocab",
+    "quote": "The opposition candidate continued to lead in the polls.",
+    "quoteSHA": "be5cb9ff913e1e01712b937f8fa1a0bdc4528aa4fd2592870910e21bd1486556",
+    "translation": "反对党候选人在民调中继续领先。",
+    "quoteType": "原词库教学例句／转述；未认定为外部作者逐字引文",
+    "meaning": "在民调所反映的支持比较中保持领先",
+    "qualifiers": {
+      "polarity": "affirmative",
+      "modality": [],
+      "conditions": [],
+      "agents": [
+        "the opposition candidate"
+      ],
+      "timeScope": "continued (prior leading state, dates unspecified)",
+      "excludedInferences": [
+        "不把这条无明确外部出处的教学句当成已核实的现实选举新闻。"
+      ]
+    },
+    "location": "whole_expression",
+    "senseRefs": [
+      "lead%2:42:01::",
+      "poll%1:09:00::"
+    ],
+    "targetSpans": [
+      {
+        "start": 38,
+        "end": 55,
+        "text": "lead in the polls",
+        "mappingType": "exact",
+        "note": "原句精确匹配；词形变化时不伪造span"
+      }
+    ],
+    "context": "原库保留的政治语境教学句，未提供可核验的特定选举出处。",
+    "expressionExplanation": {
+      "kind": "compositional",
+      "text": "在民调所反映的支持比较中保持领先",
+      "componentRefs": [
+        {
+          "sourceId": "oewn-2025",
+          "sourceVersion": "2025",
+          "locator": "entries-l.json/lead/v / lead%2:42:01::",
+          "supportedClaim": "be ahead of others; be the first",
+          "url": "https://en-word.net/"
+        },
+        {
+          "sourceId": "oewn-2025",
+          "sourceVersion": "2025",
+          "locator": "entries-p.json/poll/n-1 / poll%1:09:00::",
+          "supportedClaim": "an inquiry into public opinion conducted by interviewing a random sample of people",
+          "url": "https://en-word.net/"
+        }
+      ],
+      "wholeExpressionRefs": [],
+      "boundary": "不把这条无明确外部出处的教学句当成已核实的现实选举新闻。",
+      "reviewerBasis": "待独立完整包核对表达身份与证据范围"
+    }
+  },
+  "history": {
+    "schemaVersion": 1,
+    "lexicalEntryId": "lex:lead in the polls",
+    "version": "1",
+    "summary": "",
+    "claims": [],
+    "sourceRefs": [],
+    "limitations": [
+      "未核实历史资料，不编造词源或年代。"
+    ]
+  },
+  "bridge": {
+    "schemaVersion": 1,
+    "entryId": "V20261018-106",
+    "contextId": "V20261018-106-context",
+    "version": "1",
+    "location": "whole_expression",
+    "strategies": [
+      "contextualization"
+    ],
+    "anchorRefs": [
+      "lead%2:41:00::"
+    ],
+    "targetRefs": [
+      "lead%2:42:01::",
+      "poll%1:09:00::"
+    ],
+    "semanticText": "这里是领先义，不是带队义。polls把领先位置限定为民意调查中的比较；整体可以由这两个经核查的义加上下文解释。",
+    "boundary": "不把这条无明确外部出处的教学句当成已核实的现实选举新闻。",
+    "evidenceRefs": [
+      {
+        "sourceId": "oewn-2025",
+        "sourceVersion": "2025",
+        "locator": "entries-l.json/lead/v / lead%2:42:01::",
+        "supportedClaim": "be ahead of others; be the first",
+        "url": "https://en-word.net/"
+      },
+      {
+        "sourceId": "oewn-2025",
+        "sourceVersion": "2025",
+        "locator": "entries-p.json/poll/n-1 / poll%1:09:00::",
+        "supportedClaim": "an inquiry into public opinion conducted by interviewing a random sample of people",
+        "url": "https://en-word.net/"
+      }
+    ],
+    "historyLink": null,
+    "historyClaimRefs": [],
+    "returnTargets": [
+      "wl-common",
+      "wl-history"
+    ]
+  },
+  "analysis": {
+    "schemaVersion": 1,
+    "entryId": "V20261018-106",
+    "contextId": "V20261018-106-context",
+    "version": "1",
+    "promptHash": "aaf3bd1e99daf47a70a2a158973652d67ff14dafcfc1748b3fc2a09d719885db",
+    "depth": "standard",
+    "depthReason": "需辨析相邻用法并保留原句的承诺或证据边界。",
+    "coverage": {
+      "syntax": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "syntax-concept"
+        ]
+      },
+      "concept": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "syntax-concept"
+        ]
+      },
+      "contrast": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "contrast"
+        ]
+      },
+      "languageGame": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "game-neighbors"
+        ]
+      },
+      "englishNeighbors": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "game-neighbors"
+        ]
+      },
+      "pragmaticAction": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "action"
+        ]
+      },
+      "workplaceUse": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "workplace"
+        ]
+      }
+    },
+    "blocks": [
+      {
+        "blockId": "syntax-concept",
+        "dimensions": [
+          "syntax",
+          "concept"
+        ],
+        "text": "continued to lead表示领先状态持续；in the polls限定比较依据，不能把民调领先直接改写为选举获胜。 这是政治报道／评论中的支持度比较。民调是调查结果，不是实际计票；原句没提供调查机构、时间范围或优势幅度。",
+        "sourceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-l.json/lead/v / lead%2:42:01::",
+            "supportedClaim": "be ahead of others; be the first",
+            "url": "https://en-word.net/"
+          },
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-p.json/poll/n-1 / poll%1:09:00::",
+            "supportedClaim": "an inquiry into public opinion conducted by interviewing a random sample of people",
+            "url": "https://en-word.net/"
+          }
+        ],
+        "title": "句子结构与当前所指"
+      },
+      {
+        "blockId": "contrast",
+        "dimensions": [
+          "contrast"
+        ],
+        "text": "lead in the polls和win the election不同。前者报告调查中的相对位置，后者报告选举结果。lead a team则是领导义。",
+        "sourceRefs": [],
+        "title": "容易混淆的地方"
+      },
+      {
+        "blockId": "game-neighbors",
+        "dimensions": [
+          "languageGame",
+          "englishNeighbors"
+        ],
+        "text": "读者应关注民调对象、时间和不确定性；这属于读懂公共论述，不要强制改成项目工作场景。 lead/trail与margin相连，因为领先通常涉及与谁比较及差距；poll result连到survey date，提醒读者数据有时间范围。",
+        "sourceRefs": [],
+        "title": "讨论通常怎样继续"
+      },
+      {
+        "blockId": "action",
+        "dimensions": [
+          "pragmaticAction"
+        ],
+        "text": "这条教学句在报告领先状态的延续，并未预测最终胜负。",
+        "sourceRefs": [],
+        "title": "说话者正在做什么"
+      },
+      {
+        "blockId": "workplace",
+        "dimensions": [
+          "workplaceUse"
+        ],
+        "text": "下面是迁移到制造业沟通的新例句；不代表原场景中已发生的决定。",
+        "sourceRefs": [],
+        "title": "迁移到工作情境"
+      }
+    ],
+    "workplaceUse": [
+      {
+        "en": "Supplier A leads in our technical evaluation, but no award has been made.",
+        "zh": "供应商A在技术评估中领先，但尚未授标。",
+        "whenToUse": "迁移相对领先与最终决定的区别。",
+        "limitation": "原创教学表达；具体权限和流程以实际约定为准。",
+        "origin": "original"
+      },
+      {
+        "en": "How large is the lead on the agreed scoring criteria?",
+        "zh": "按约定评分标准，领先幅度有多大？",
+        "whenToUse": "追问比较依据与差距。",
+        "limitation": "原创教学表达；具体权限和流程以实际约定为准。",
+        "origin": "original"
+      }
+    ],
+    "practiceRefs": [],
+    "edges": []
+  },
+  "practices": [],
+  "sources": [
+    {
+      "schemaVersion": 1,
+      "sourceId": "original-vocab",
+      "version": "2026-11-16",
+      "title": "原词库教学句／转述",
+      "url": "public/vocabulary.json",
+      "accessMode": "user_material",
+      "retrievedAt": "2026-11-16T01:45:06.410Z",
+      "coverage": "partial",
+      "rights": "用户授权处理原词库",
+      "limitations": [
+        "非外部作者逐字引文；保留原ID与原句"
+      ]
+    },
+    {
+      "schemaVersion": 1,
+      "sourceId": "oewn-2025",
+      "version": "2025",
+      "title": "Open English Wordnet 2025",
+      "url": "https://en-word.net/",
+      "accessMode": "licensed_snapshot",
+      "retrievedAt": "2026-11-16T01:45:06.410Z",
+      "coverage": "partial",
+      "rights": "CC BY 4.0 + Princeton notice",
+      "limitations": [
+        "本包仅选部分源义；中文非官方译文"
+      ]
+    }
+  ],
+  "verifiedIPA": null,
+  "dictionaryURL": "https://en-word.net/",
+  "historyURL": null
+}

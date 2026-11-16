@@ -1,0 +1,382 @@
+{
+  "schemaVersion": 1,
+  "reviewId": "independent-r0-V20261029-005",
+  "reviewer": "/root/r2_implementation_review",
+  "role": "content-reviewer",
+  "scope": "full_package",
+  "inputHash": "ec4a9574b70e625db7cd74f377158a3843823558f548f7dd4c183ab97e5b06df",
+  "artifactHash": "c5c204a4f80b6a8f473af3a9092ffeada828ccb7d73dcc85f2a5d3282e610a84",
+  "checks": [
+    {
+      "qaId": "Q-H01",
+      "result": "pass",
+      "observation": "working definition: original identity retained. verifiedIPA is null: no unverified original IPA certified. Sense-POS problems are reported under D01/L01.",
+      "evidencePaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261029-005\\r0/bundle.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261029-005\\r0/input.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\oewn-selected-2025.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\web-evidence-20261116.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-r0/source-checks.json"
+      ],
+      "issueIds": []
+    },
+    {
+      "qaId": "Q-S01",
+      "result": "pass",
+      "observation": "Original quote checked: Let us agree on a working definition of a critical defect. Translation read: 我们先就关键缺陷的工作定义达成一致。 Shared projection is data-level, not screenshot acceptance.",
+      "evidencePaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261029-005\\r0/bundle.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261029-005\\r0/input.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\oewn-selected-2025.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\web-evidence-20261116.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-r0/source-checks.json"
+      ],
+      "issueIds": []
+    },
+    {
+      "qaId": "Q-S03",
+      "result": "fail",
+      "observation": "Teaching/paraphrase identity retained; no invented external speaker/date. Source timestamp precision limitation recorded separately. Issues: Source retrieval timestamps uniformly assert midnight with minute/second precision, whereas source evidence supplies only a checked date.",
+      "evidencePaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261029-005\\r0/bundle.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261029-005\\r0/input.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\oewn-selected-2025.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\web-evidence-20261116.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-r0/source-checks.json"
+      ],
+      "issueIds": [
+        "R0-SOURCE-TIME"
+      ]
+    },
+    {
+      "qaId": "Q-N01",
+      "result": "fail",
+      "observation": "General: 暂用作进一步工作的；定义；对含义的简要说明 Current: 暂供当前讨论和判断使用的关键缺陷定义 Populated, shared projected summaries; component mistakes listed below. Issues: Component senses receive the entire phrase lexicalEntryId and phrase POS. Their summaries appear as whole-headword meanings, e.g. frame the issue includes picture frame. Components are not explicitly labeled/separated in dictionary/learning projection.",
+      "evidencePaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261029-005\\r0/bundle.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261029-005\\r0/input.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\oewn-selected-2025.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\web-evidence-20261116.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-r0/source-checks.json"
+      ],
+      "issueIds": [
+        "R0-COMPONENT-IDENTITY"
+      ]
+    },
+    {
+      "qaId": "Q-D01",
+      "result": "fail",
+      "observation": "Compared 2 sense definitions, POS, glosses and locators with actual OEWN snapshot or official excerpt/NASA evidence. Issues: Component senses receive the entire phrase lexicalEntryId and phrase POS. Their summaries appear as whole-headword meanings, e.g. frame the issue includes picture frame. Components are not explicitly labeled/separated in dictionary/learning projection.",
+      "evidencePaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261029-005\\r0/bundle.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261029-005\\r0/input.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\oewn-selected-2025.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\web-evidence-20261116.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-r0/source-checks.json"
+      ],
+      "issueIds": [
+        "R0-COMPONENT-IDENTITY"
+      ]
+    },
+    {
+      "qaId": "Q-D02",
+      "result": "fail",
+      "observation": "Coverage explicitly partial. Component/whole expression distinction examined; no complete dictionary coverage accepted. Issues: Component senses receive the entire phrase lexicalEntryId and phrase POS. Their summaries appear as whole-headword meanings, e.g. frame the issue includes picture frame. Components are not explicitly labeled/separated in dictionary/learning projection.",
+      "evidencePaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261029-005\\r0/bundle.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261029-005\\r0/input.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\oewn-selected-2025.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\web-evidence-20261116.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-r0/source-checks.json"
+      ],
+      "issueIds": [
+        "R0-COMPONENT-IDENTITY"
+      ]
+    },
+    {
+      "qaId": "Q-L01",
+      "result": "fail",
+      "observation": "Read 2 selected senses and every bilingual original example. Per-sense usage/projection gap detailed below. Issues: Every selected-sense usageNote only identifies original teaching text. The displayed usage tip repeats selection/provenance boilerplate. Required independent front-section usage guidance is missing. Component senses receive the entire phrase lexicalEntryId and phrase POS. Their summaries appear as whole-headword meanings, e.g. frame the issue includes picture frame. Components are not explicitly labeled/separated in dictionary/learning projection.",
+      "evidencePaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261029-005\\r0/bundle.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261029-005\\r0/input.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\oewn-selected-2025.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\web-evidence-20261116.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-r0/source-checks.json"
+      ],
+      "issueIds": [
+        "R0-M05-USAGE",
+        "R0-COMPONENT-IDENTITY"
+      ]
+    },
+    {
+      "qaId": "Q-L03",
+      "result": "fail",
+      "observation": "Summary follows selected text and shared navigation projection; specific component-summary faults recorded below. Issues: Component senses receive the entire phrase lexicalEntryId and phrase POS. Their summaries appear as whole-headword meanings, e.g. frame the issue includes picture frame. Components are not explicitly labeled/separated in dictionary/learning projection.",
+      "evidencePaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261029-005\\r0/bundle.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261029-005\\r0/input.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\oewn-selected-2025.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\web-evidence-20261116.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-r0/source-checks.json"
+      ],
+      "issueIds": [
+        "R0-COMPONENT-IDENTITY"
+      ]
+    },
+    {
+      "qaId": "Q-L04",
+      "result": "pass",
+      "observation": "No frequency rank asserted. Current references working%5:00:00:impermanent:00, definition%1:10:00::; not mechanically forced to first selected sense.",
+      "evidencePaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261029-005\\r0/bundle.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261029-005\\r0/input.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\oewn-selected-2025.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\web-evidence-20261116.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-r0/source-checks.json"
+      ],
+      "issueIds": []
+    },
+    {
+      "qaId": "Q-Y01",
+      "result": "not_applicable",
+      "observation": "No historical claim exists for working definition; this check is not applicable, not a historical-source pass.",
+      "evidencePaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261029-005\\r0/bundle.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261029-005\\r0/input.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\oewn-selected-2025.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\web-evidence-20261116.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-r0/source-checks.json"
+      ],
+      "issueIds": []
+    },
+    {
+      "qaId": "Q-Y03",
+      "result": "pass",
+      "observation": "Unverified history explicitly disclosed and historyLink null; absence is not fabricated explanation.",
+      "evidencePaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261029-005\\r0/bundle.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261029-005\\r0/input.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\oewn-selected-2025.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\web-evidence-20261116.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-r0/source-checks.json"
+      ],
+      "issueIds": []
+    },
+    {
+      "qaId": "Q-C01",
+      "result": "pass",
+      "observation": "Quote and word identity match original vocabulary/frozen snapshot; teaching identity retained; target slices inspected, including reservation substring inflection.",
+      "evidencePaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261029-005\\r0/bundle.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261029-005\\r0/input.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\oewn-selected-2025.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\web-evidence-20261116.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-r0/source-checks.json"
+      ],
+      "issueIds": []
+    },
+    {
+      "qaId": "Q-C02",
+      "result": "pass",
+      "observation": "Read polarity/modality/conditions against Let us agree on a working definition of a critical defect.; excluded inference: 这条句子没有提供critical defect的正式定义。",
+      "evidencePaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261029-005\\r0/bundle.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261029-005\\r0/input.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\oewn-selected-2025.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\web-evidence-20261116.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-r0/source-checks.json"
+      ],
+      "issueIds": []
+    },
+    {
+      "qaId": "Q-C03",
+      "result": "pass",
+      "observation": "Current interpretation: 暂供当前讨论和判断使用的关键缺陷定义. Checked real referenced senses and composition/professional evidence.",
+      "evidencePaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261029-005\\r0/bundle.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261029-005\\r0/input.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\oewn-selected-2025.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\web-evidence-20261116.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-r0/source-checks.json"
+      ],
+      "issueIds": []
+    },
+    {
+      "qaId": "Q-C04",
+      "result": "pass",
+      "observation": "M02/M03 share ContextUse fields with M07 through adapter. Actual candidate DOM/visual order remains engineering review and is not certified here.",
+      "evidencePaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261029-005\\r0/bundle.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261029-005\\r0/input.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\oewn-selected-2025.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\web-evidence-20261116.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-r0/source-checks.json"
+      ],
+      "issueIds": []
+    },
+    {
+      "qaId": "Q-B01",
+      "result": "fail",
+      "observation": "Location contextualized; strategies contextualization, no_derivation. Route assessed separately from depth. Issues: inventory_only/external/contextualized are not the frozen M07 six-value location vocabulary.",
+      "evidencePaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261029-005\\r0/bundle.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261029-005\\r0/input.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\oewn-selected-2025.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\web-evidence-20261116.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-r0/source-checks.json"
+      ],
+      "issueIds": [
+        "R0-ROUTE-ENUM"
+      ]
+    },
+    {
+      "qaId": "Q-B02",
+      "result": "pass",
+      "observation": "Read actual Bridge against evidence and limit: 这条句子没有提供critical defect的正式定义。",
+      "evidencePaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261029-005\\r0/bundle.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261029-005\\r0/input.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\oewn-selected-2025.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\web-evidence-20261116.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-r0/source-checks.json"
+      ],
+      "issueIds": []
+    },
+    {
+      "qaId": "Q-B04",
+      "result": "pass",
+      "observation": "Boundary read: 这条句子没有提供critical defect的正式定义。. No general authority/completed approval inferred from lexical relation.",
+      "evidencePaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261029-005\\r0/bundle.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261029-005\\r0/input.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\oewn-selected-2025.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\web-evidence-20261116.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-r0/source-checks.json"
+      ],
+      "issueIds": []
+    },
+    {
+      "qaId": "Q-B05",
+      "result": "pass",
+      "observation": "Missing history does not block supported modern meaning; wrong current sense evidence still blocks.",
+      "evidencePaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261029-005\\r0/bundle.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261029-005\\r0/input.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\oewn-selected-2025.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\web-evidence-20261116.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-r0/source-checks.json"
+      ],
+      "issueIds": []
+    },
+    {
+      "qaId": "Q-A01",
+      "result": "pass",
+      "observation": "Read five blocks, seven dimension coverage and work expressions; combined syntax/concept and game/neighbors contain distinct sentence-specific information. Workplace intro is supplemented by actual examples.",
+      "evidencePaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261029-005\\r0/bundle.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261029-005\\r0/input.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\oewn-selected-2025.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\web-evidence-20261116.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-r0/source-checks.json"
+      ],
+      "issueIds": []
+    },
+    {
+      "qaId": "Q-A02",
+      "result": "pass",
+      "observation": "Depth standard; reason 需辨析相邻用法并保留原句的承诺或证据边界。. Checked useful distinctions and evidence limits without token quotas.",
+      "evidencePaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261029-005\\r0/bundle.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261029-005\\r0/input.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\oewn-selected-2025.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\web-evidence-20261116.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-r0/source-checks.json"
+      ],
+      "issueIds": []
+    },
+    {
+      "qaId": "Q-A03",
+      "result": "pass",
+      "observation": "Read game/neighbors/action functions separately. Action: 说话者在邀请建立共同讨论基础，不是在宣布一个完整质量标准已经批准。",
+      "evidencePaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261029-005\\r0/bundle.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261029-005\\r0/input.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\oewn-selected-2025.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\web-evidence-20261116.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-r0/source-checks.json"
+      ],
+      "issueIds": []
+    },
+    {
+      "qaId": "Q-A04",
+      "result": "not_applicable",
+      "observation": "No Practice attached to working definition; local explanation remains readable. No forced relationship required.",
+      "evidencePaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261029-005\\r0/bundle.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261029-005\\r0/input.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\oewn-selected-2025.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\web-evidence-20261116.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-r0/source-checks.json"
+      ],
+      "issueIds": []
+    },
+    {
+      "qaId": "Q-A05",
+      "result": "pass",
+      "observation": "Read both original work expressions, Chinese/use limits: Can we agree on a working definition before reviewing the defect data? / This working definition does not replace the approved specification.",
+      "evidencePaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261029-005\\r0/bundle.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261029-005\\r0/input.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\oewn-selected-2025.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\web-evidence-20261116.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-r0/source-checks.json"
+      ],
+      "issueIds": []
+    }
+  ],
+  "verdict": "fail",
+  "issues": [
+    {
+      "issueId": "R0-M05-USAGE",
+      "qaIds": [
+        "Q-L01"
+      ],
+      "severity": "important",
+      "observation": "Every selected-sense usageNote only identifies original teaching text. The displayed usage tip repeats selection/provenance boilerplate. Required independent front-section usage guidance is missing.",
+      "requiredChange": "Add per-sense usage guidance and entry-specific learning tips; keep provenance separate; ensure guidance appears in the projection."
+    },
+    {
+      "issueId": "R0-SOURCE-TIME",
+      "qaIds": [
+        "Q-S03"
+      ],
+      "severity": "minor",
+      "observation": "Source retrieval timestamps uniformly assert midnight with minute/second precision, whereas source evidence supplies only a checked date.",
+      "requiredChange": "Record actual ingestion time with precision/meaning limitations or verified retrieval time."
+    },
+    {
+      "issueId": "R0-COMPONENT-IDENTITY",
+      "qaIds": [
+        "Q-D01",
+        "Q-D02",
+        "Q-L01",
+        "Q-N01",
+        "Q-L03"
+      ],
+      "severity": "important",
+      "observation": "Component senses receive the entire phrase lexicalEntryId and phrase POS. Their summaries appear as whole-headword meanings, e.g. frame the issue includes picture frame. Components are not explicitly labeled/separated in dictionary/learning projection.",
+      "requiredChange": "Preserve component lexical identity and actual POS; visibly identify component meanings; give a phrase-level general summary without inventing dictionary whole-expression coverage."
+    },
+    {
+      "issueId": "R0-ROUTE-ENUM",
+      "qaIds": [
+        "Q-B01"
+      ],
+      "severity": "important",
+      "observation": "inventory_only/external/contextualized are not the frozen M07 six-value location vocabulary.",
+      "requiredChange": "Map actual sense position/expression reasoning to the frozen vocabulary, separate from explanation strategy."
+    }
+  ],
+  "time": "2026-11-16T01:45:12.762Z"
+}

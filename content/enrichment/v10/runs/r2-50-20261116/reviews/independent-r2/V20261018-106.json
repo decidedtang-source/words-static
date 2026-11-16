@@ -1,0 +1,326 @@
+{
+  "schemaVersion": 1,
+  "reviewId": "independent-r2-V20261018-106",
+  "reviewer": "/root/r2_implementation_review",
+  "role": "content-reviewer",
+  "scope": "full_package",
+  "inputHash": "d20eabd8c74e47055dab1435d1405525df48dc47bca8a3dda4bd3197264cba0d",
+  "artifactHash": "20998105b8570d5e366c3f1f4142e01a34f238b9c1bb52323586918777df035b",
+  "checks": [
+    {
+      "qaId": "Q-H01",
+      "result": "pass",
+      "observation": "lead in the polls: original headword/entry identity preserved. Projected IPA 音标待核; absence is explicit. Corrected per-sense POS inspected; phrase IPA exception is listed below. r2 independent check: Usage tip now correctly says 在民调中领先, preserving distinction from electoral victory. All other semantic content compared exactly with independently reviewed r1; no unreviewed content change.",
+      "evidencePaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261018-106\\r2/bundle.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261018-106\\r2/input.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-r1/V20261018-106.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-r1/source-checks.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\scripts\\word-content\\reading-adapter.mjs"
+      ],
+      "issueIds": []
+    },
+    {
+      "qaId": "Q-S01",
+      "result": "pass",
+      "observation": "Quote The opposition candidate continued to lead in the polls. and translation 反对党候选人在民调中继续领先。 checked together; shared ContextUse projection preserved. Capacity no longer asserts simultaneous timing. r2 independent check: Usage tip now correctly says 在民调中领先, preserving distinction from electoral victory. All other semantic content compared exactly with independently reviewed r1; no unreviewed content change.",
+      "evidencePaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261018-106\\r2/bundle.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261018-106\\r2/input.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-r1/V20261018-106.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-r1/source-checks.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\scripts\\word-content\\reading-adapter.mjs"
+      ],
+      "issueIds": []
+    },
+    {
+      "qaId": "Q-S03",
+      "result": "pass",
+      "observation": "Original-library teaching/paraphrase identity preserved. Missing external source URL/date not fabricated. Registration timestamp meaning is explicitly documented in source-registration.json. r2 independent check: Usage tip now correctly says 在民调中领先, preserving distinction from electoral victory. All other semantic content compared exactly with independently reviewed r1; no unreviewed content change.",
+      "evidencePaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261018-106\\r2/bundle.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261018-106\\r2/input.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-r1/V20261018-106.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-r1/source-checks.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\scripts\\word-content\\reading-adapter.mjs"
+      ],
+      "issueIds": []
+    },
+    {
+      "qaId": "Q-N01",
+      "result": "pass",
+      "observation": "General summary 在民意调查中处于领先位置; current meaning 在民调所反映的支持比较中保持领先. Phrase summaries now describe the whole expression while component teaching is labeled separately. r2 independent check: Usage tip now correctly says 在民调中领先, preserving distinction from electoral victory. All other semantic content compared exactly with independently reviewed r1; no unreviewed content change.",
+      "evidencePaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261018-106\\r2/bundle.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261018-106\\r2/input.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-r1/V20261018-106.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-r1/source-checks.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\scripts\\word-content\\reading-adapter.mjs"
+      ],
+      "issueIds": []
+    },
+    {
+      "qaId": "Q-D01",
+      "result": "pass",
+      "observation": "All 3 definitions/glosses/source mappings inspected. OEWN component POS/lemma restored; NASA verification/validation have distinct complete editorial definitions; shock ordinary event evidence replaces geological sense. r2 independent check: Usage tip now correctly says 在民调中领先, preserving distinction from electoral victory. All other semantic content compared exactly with independently reviewed r1; no unreviewed content change.",
+      "evidencePaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261018-106\\r2/bundle.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261018-106\\r2/input.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-r1/V20261018-106.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-r1/source-checks.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\scripts\\word-content\\reading-adapter.mjs"
+      ],
+      "issueIds": []
+    },
+    {
+      "qaId": "Q-D02",
+      "result": "pass",
+      "observation": "Coverage component_partial; projected disclosure: 以下为已核查的组件及必要补充资料，不代表完整短语词典. Whole-expression/constituent boundaries explicit, except listed orthographic-label regression. r2 independent check: Usage tip now correctly says 在民调中领先, preserving distinction from electoral victory. All other semantic content compared exactly with independently reviewed r1; no unreviewed content change.",
+      "evidencePaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261018-106\\r2/bundle.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261018-106\\r2/input.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-r1/V20261018-106.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-r1/source-checks.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\scripts\\word-content\\reading-adapter.mjs"
+      ],
+      "issueIds": []
+    },
+    {
+      "qaId": "Q-L01",
+      "result": "pass",
+      "observation": "Read every selected example/translation and visible guidance. Entry tip: 领先于民调不等于赢得选举；lead在领导、领先两义中都读长元音。. Originality is separate from useful learning guidance; remaining specific wording defects listed below. r2 independent check: Usage tip now correctly says 在民调中领先, preserving distinction from electoral victory. All other semantic content compared exactly with independently reviewed r1; no unreviewed content change.",
+      "evidencePaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261018-106\\r2/bundle.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261018-106\\r2/input.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-r1/V20261018-106.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-r1/source-checks.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\scripts\\word-content\\reading-adapter.mjs"
+      ],
+      "issueIds": []
+    },
+    {
+      "qaId": "Q-L03",
+      "result": "pass",
+      "observation": "Shared navigation summary 在民意调查中处于领先位置 is consistent with the corrected whole-word/expression meaning; selected component examples no longer masquerade as entire phrase senses. r2 independent check: Usage tip now correctly says 在民调中领先, preserving distinction from electoral victory. All other semantic content compared exactly with independently reviewed r1; no unreviewed content change.",
+      "evidencePaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261018-106\\r2/bundle.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261018-106\\r2/input.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-r1/V20261018-106.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-r1/source-checks.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\scripts\\word-content\\reading-adapter.mjs"
+      ],
+      "issueIds": []
+    },
+    {
+      "qaId": "Q-L04",
+      "result": "pass",
+      "observation": "No frequency rank asserted; true current references lead%2:42:01::, poll%1:09:00:: retained independently of selection order. r2 independent check: Usage tip now correctly says 在民调中领先, preserving distinction from electoral victory. All other semantic content compared exactly with independently reviewed r1; no unreviewed content change.",
+      "evidencePaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261018-106\\r2/bundle.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261018-106\\r2/input.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-r1/V20261018-106.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-r1/source-checks.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\scripts\\word-content\\reading-adapter.mjs"
+      ],
+      "issueIds": []
+    },
+    {
+      "qaId": "Q-Y01",
+      "result": "not_applicable",
+      "observation": "No history claim exists; not applicable, not a historical-source certification. r2 independent check: Usage tip now correctly says 在民调中领先, preserving distinction from electoral victory. All other semantic content compared exactly with independently reviewed r1; no unreviewed content change.",
+      "evidencePaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261018-106\\r2/bundle.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261018-106\\r2/input.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-r1/V20261018-106.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-r1/source-checks.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\scripts\\word-content\\reading-adapter.mjs"
+      ],
+      "issueIds": []
+    },
+    {
+      "qaId": "Q-Y03",
+      "result": "pass",
+      "observation": "Explicit unverified-history limitation retained; absence is not filled with speculative evolution. r2 independent check: Usage tip now correctly says 在民调中领先, preserving distinction from electoral victory. All other semantic content compared exactly with independently reviewed r1; no unreviewed content change.",
+      "evidencePaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261018-106\\r2/bundle.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261018-106\\r2/input.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-r1/V20261018-106.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-r1/source-checks.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\scripts\\word-content\\reading-adapter.mjs"
+      ],
+      "issueIds": []
+    },
+    {
+      "qaId": "Q-C01",
+      "result": "pass",
+      "observation": "Original quote/identity checked against public vocabulary and exact snapshot; original source identity and spans retained. Context translations reviewed after changes. r2 independent check: Usage tip now correctly says 在民调中领先, preserving distinction from electoral victory. All other semantic content compared exactly with independently reviewed r1; no unreviewed content change.",
+      "evidencePaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261018-106\\r2/bundle.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261018-106\\r2/input.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-r1/V20261018-106.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-r1/source-checks.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\scripts\\word-content\\reading-adapter.mjs"
+      ],
+      "issueIds": []
+    },
+    {
+      "qaId": "Q-C02",
+      "result": "pass",
+      "observation": "Qualifiers now record relevant actor/time/condition: {\"polarity\":\"affirmative\",\"modality\":[],\"conditions\":[],\"agents\":[\"the opposition candidate\"],\"timeScope\":\"continued (prior leading state, dates unspecified)\",\"excludedInferences\":[\"不把这条无明确外部出处的教学句当成已核实的现实选举新闻。\"]}. No new confirmation/authority fact inferred. r2 independent check: Usage tip now correctly says 在民调中领先, preserving distinction from electoral victory. All other semantic content compared exactly with independently reviewed r1; no unreviewed content change.",
+      "evidencePaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261018-106\\r2/bundle.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261018-106\\r2/input.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-r1/V20261018-106.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-r1/source-checks.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\scripts\\word-content\\reading-adapter.mjs"
+      ],
+      "issueIds": []
+    },
+    {
+      "qaId": "Q-C03",
+      "result": "pass",
+      "observation": "Current meaning 在民调所反映的支持比较中保持领先; route whole_expression. Actual meaning/evidence alignment checked, including NASA professional criteria and ordinary compositional shock explanation. r2 independent check: Usage tip now correctly says 在民调中领先, preserving distinction from electoral victory. All other semantic content compared exactly with independently reviewed r1; no unreviewed content change.",
+      "evidencePaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261018-106\\r2/bundle.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261018-106\\r2/input.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-r1/V20261018-106.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-r1/source-checks.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\scripts\\word-content\\reading-adapter.mjs"
+      ],
+      "issueIds": []
+    },
+    {
+      "qaId": "Q-C04",
+      "result": "pass",
+      "observation": "Shared M02/M03/M07 field ownership preserved in actual projection. DOM order/visual acceptance remains a separate engineering gate. r2 independent check: Usage tip now correctly says 在民调中领先, preserving distinction from electoral victory. All other semantic content compared exactly with independently reviewed r1; no unreviewed content change.",
+      "evidencePaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261018-106\\r2/bundle.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261018-106\\r2/input.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-r1/V20261018-106.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-r1/source-checks.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\scripts\\word-content\\reading-adapter.mjs"
+      ],
+      "issueIds": []
+    },
+    {
+      "qaId": "Q-B01",
+      "result": "pass",
+      "observation": "Frozen route value whole_expression; separate strategies contextualization. Depth does not choose route. r2 independent check: Usage tip now correctly says 在民调中领先, preserving distinction from electoral victory. All other semantic content compared exactly with independently reviewed r1; no unreviewed content change.",
+      "evidencePaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261018-106\\r2/bundle.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261018-106\\r2/input.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-r1/V20261018-106.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-r1/source-checks.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\scripts\\word-content\\reading-adapter.mjs"
+      ],
+      "issueIds": []
+    },
+    {
+      "qaId": "Q-B02",
+      "result": "pass",
+      "observation": "Semantic Bridge and boundary read together: 这里是领先义，不是带队义。polls把领先位置限定为民意调查中的比较；整体可以由这两个经核查的义加上下文解释。 不把这条无明确外部出处的教学句当成已核实的现实选举新闻。 r2 independent check: Usage tip now correctly says 在民调中领先, preserving distinction from electoral victory. All other semantic content compared exactly with independently reviewed r1; no unreviewed content change.",
+      "evidencePaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261018-106\\r2/bundle.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261018-106\\r2/input.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-r1/V20261018-106.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-r1/source-checks.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\scripts\\word-content\\reading-adapter.mjs"
+      ],
+      "issueIds": []
+    },
+    {
+      "qaId": "Q-B04",
+      "result": "pass",
+      "observation": "No unprovided permission/result inferred. Boundary: 不把这条无明确外部出处的教学句当成已核实的现实选举新闻。 r2 independent check: Usage tip now correctly says 在民调中领先, preserving distinction from electoral victory. All other semantic content compared exactly with independently reviewed r1; no unreviewed content change.",
+      "evidencePaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261018-106\\r2/bundle.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261018-106\\r2/input.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-r1/V20261018-106.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-r1/source-checks.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\scripts\\word-content\\reading-adapter.mjs"
+      ],
+      "issueIds": []
+    },
+    {
+      "qaId": "Q-B05",
+      "result": "pass",
+      "observation": "No history required for supported current meaning; corrected shock evidence now supports ordinary current interpretation. r2 independent check: Usage tip now correctly says 在民调中领先, preserving distinction from electoral victory. All other semantic content compared exactly with independently reviewed r1; no unreviewed content change.",
+      "evidencePaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261018-106\\r2/bundle.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261018-106\\r2/input.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-r1/V20261018-106.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-r1/source-checks.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\scripts\\word-content\\reading-adapter.mjs"
+      ],
+      "issueIds": []
+    },
+    {
+      "qaId": "Q-A01",
+      "result": "pass",
+      "observation": "All five blocks and seven dimension assignments re-read with r1 changes; concept and syntax add specific understanding, combined game/neighbors explain related questions, and work examples are separate original transfer. r2 independent check: Usage tip now correctly says 在民调中领先, preserving distinction from electoral victory. All other semantic content compared exactly with independently reviewed r1; no unreviewed content change.",
+      "evidencePaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261018-106\\r2/bundle.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261018-106\\r2/input.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-r1/V20261018-106.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-r1/source-checks.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\scripts\\word-content\\reading-adapter.mjs"
+      ],
+      "issueIds": []
+    },
+    {
+      "qaId": "Q-A02",
+      "result": "pass",
+      "observation": "Depth standard: 需辨析相邻用法并保留原句的承诺或证据边界。. Professional definitions explain practical criteria without importing NASA organizational policy. r2 independent check: Usage tip now correctly says 在民调中领先, preserving distinction from electoral victory. All other semantic content compared exactly with independently reviewed r1; no unreviewed content change.",
+      "evidencePaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261018-106\\r2/bundle.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261018-106\\r2/input.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-r1/V20261018-106.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-r1/source-checks.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\scripts\\word-content\\reading-adapter.mjs"
+      ],
+      "issueIds": []
+    },
+    {
+      "qaId": "Q-A03",
+      "result": "pass",
+      "observation": "Action grounded in actual utterance: 这条教学句在报告领先状态的延续，并未预测最终胜负。. Game/neighbors retain distinct contextual information. r2 independent check: Usage tip now correctly says 在民调中领先, preserving distinction from electoral victory. All other semantic content compared exactly with independently reviewed r1; no unreviewed content change.",
+      "evidencePaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261018-106\\r2/bundle.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261018-106\\r2/input.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-r1/V20261018-106.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-r1/source-checks.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\scripts\\word-content\\reading-adapter.mjs"
+      ],
+      "issueIds": []
+    },
+    {
+      "qaId": "Q-A04",
+      "result": "not_applicable",
+      "observation": "No Practice attached; local explanation remains independently readable. No forced edge required. r2 independent check: Usage tip now correctly says 在民调中领先, preserving distinction from electoral victory. All other semantic content compared exactly with independently reviewed r1; no unreviewed content change.",
+      "evidencePaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261018-106\\r2/bundle.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261018-106\\r2/input.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-r1/V20261018-106.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-r1/source-checks.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\scripts\\word-content\\reading-adapter.mjs"
+      ],
+      "issueIds": []
+    },
+    {
+      "qaId": "Q-A05",
+      "result": "pass",
+      "observation": "Both bilingual work examples and use conditions reviewed: Supplier A leads in our technical evaluation, but no award has been made. / 供应商A在技术评估中领先，但尚未授标。 | How large is the lead on the agreed scoring criteria? / 按约定评分标准，领先幅度有多大？. Account-for now uses supported part-of-total sense; trade-off translation word order corrected. r2 independent check: Usage tip now correctly says 在民调中领先, preserving distinction from electoral victory. All other semantic content compared exactly with independently reviewed r1; no unreviewed content change.",
+      "evidencePaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261018-106\\r2/bundle.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261018-106\\r2/input.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-r1/V20261018-106.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-r1/source-checks.json",
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\scripts\\word-content\\reading-adapter.mjs"
+      ],
+      "issueIds": []
+    }
+  ],
+  "verdict": "pass",
+  "issues": [],
+  "time": "2026-11-16T01:48:48.697Z"
+}

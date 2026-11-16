@@ -1,0 +1,396 @@
+{
+  "snapshot": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-004",
+    "term": "milestone",
+    "quote": "We reached the first milestone after the review.",
+    "batch": "2026-10-12",
+    "originalFileSHA": "ec65d33d6da99ebad2577f6c9f9938499823d29d117f43532302cf964a4c60a3",
+    "quoteSHA": "2f97c79d7641cac5a99d558f0ab7f2d8ce263afce9f01cc2ef9bb8dbb8ce44f8",
+    "originalIPA": "ˈmaɪl.stoʊn",
+    "originalPOS": "n.",
+    "originalMeaning": "标志阶段成果达成的重要节点"
+  },
+  "selection": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-004",
+    "version": "1",
+    "inventoryRefs": [
+      "inventory:V20261012-004"
+    ],
+    "selectedSenseIds": [
+      "milestone%1:11:00::",
+      "milestone%1:10:01::"
+    ],
+    "reason": "按学习用途选择常见或易混义；这里不是语料频率排名。",
+    "usageTip": "常说reach/achieve a milestone；不要把每一项小任务都自动译成里程碑。",
+    "general": "重要阶段；里程碑事件；路旁标示距离的里程碑",
+    "senses": [
+      {
+        "senseId": "milestone%1:11:00::",
+        "title": "重要阶段；里程碑事件",
+        "usageLabels": [
+          "n.",
+          "精选学习义"
+        ],
+        "explanationZh": "重要阶段；里程碑事件",
+        "examples": [
+          {
+            "en": "The first shipment is an important milestone.",
+            "zh": "首次发货是一个重要里程碑。",
+            "origin": "original",
+            "sourceRef": null,
+            "usageNote": "重要阶段；里程碑事件"
+          }
+        ],
+        "evidenceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-m.json/milestone/n / milestone%1:11:00::",
+            "supportedClaim": "a significant event in your life (or in a project)",
+            "url": "https://en-word.net/"
+          }
+        ]
+      },
+      {
+        "senseId": "milestone%1:10:01::",
+        "title": "路旁标示距离的里程碑",
+        "usageLabels": [
+          "n.",
+          "精选学习义"
+        ],
+        "explanationZh": "路旁标示距离的里程碑",
+        "examples": [
+          {
+            "en": "A milestone stood beside the old road.",
+            "zh": "旧路旁立着一块里程碑。",
+            "origin": "original",
+            "sourceRef": null,
+            "usageNote": "路旁标示距离的里程碑"
+          }
+        ],
+        "evidenceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-m.json/milestone/n / milestone%1:10:01::",
+            "supportedClaim": "stone post at side of a road to show distances",
+            "url": "https://en-word.net/"
+          }
+        ]
+      }
+    ]
+  },
+  "senses": [
+    {
+      "schemaVersion": 1,
+      "senseId": "milestone%1:11:00::",
+      "lexicalEntryId": "lex:milestone",
+      "pos": "n.",
+      "definitionOrigin": "licensed_verbatim",
+      "meaning": {
+        "definitionEn": "a significant event in your life (or in a project)",
+        "glossZh": "重要阶段；里程碑事件",
+        "glossOrigin": "editorial"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "oewn-2025",
+          "sourceVersion": "2025",
+          "locator": "entries-m.json/milestone/n / milestone%1:11:00::",
+          "supportedClaim": "a significant event in your life (or in a project)",
+          "url": "https://en-word.net/"
+        }
+      ],
+      "version": "1"
+    },
+    {
+      "schemaVersion": 1,
+      "senseId": "milestone%1:10:01::",
+      "lexicalEntryId": "lex:milestone",
+      "pos": "n.",
+      "definitionOrigin": "licensed_verbatim",
+      "meaning": {
+        "definitionEn": "stone post at side of a road to show distances",
+        "glossZh": "路旁标示距离的里程碑",
+        "glossOrigin": "editorial"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "oewn-2025",
+          "sourceVersion": "2025",
+          "locator": "entries-m.json/milestone/n / milestone%1:10:01::",
+          "supportedClaim": "stone post at side of a road to show distances",
+          "url": "https://en-word.net/"
+        }
+      ],
+      "version": "1"
+    }
+  ],
+  "inventory": {
+    "schemaVersion": 1,
+    "inventoryId": "inventory:V20261012-004",
+    "version": "1",
+    "lexicalEntryId": "lex:milestone",
+    "sources": [
+      "oewn-2025"
+    ],
+    "senseIds": [
+      "milestone%1:11:00::",
+      "milestone%1:10:01::"
+    ],
+    "coverageStatus": "partial"
+  },
+  "context": {
+    "schemaVersion": 1,
+    "contextId": "V20261012-004-context",
+    "entryId": "V20261012-004",
+    "sourceRef": "original-vocab",
+    "quote": "We reached the first milestone after the review.",
+    "quoteSHA": "2f97c79d7641cac5a99d558f0ab7f2d8ce263afce9f01cc2ef9bb8dbb8ce44f8",
+    "translation": "评审之后，我们达成了第一个里程碑。",
+    "quoteType": "原词库教学例句／转述；未认定为外部作者逐字引文",
+    "meaning": "已经达到的第一个重要阶段节点",
+    "qualifiers": {
+      "polarity": "affirmative",
+      "modality": [],
+      "conditions": [],
+      "agents": [
+        "we"
+      ],
+      "timeScope": "after the review; reached (past)",
+      "excludedInferences": [
+        "after表达先后，不能直接推成因果或全部验收通过。"
+      ]
+    },
+    "location": "selected",
+    "senseRefs": [
+      "milestone%1:11:00::"
+    ],
+    "targetSpans": [
+      {
+        "start": 21,
+        "end": 30,
+        "text": "milestone",
+        "mappingType": "exact",
+        "note": "原句精确匹配；词形变化时不伪造span"
+      }
+    ],
+    "context": "仅以保留的这条原句为分析范围；未知背景不补造。"
+  },
+  "history": {
+    "schemaVersion": 1,
+    "lexicalEntryId": "lex:milestone",
+    "version": "1",
+    "summary": "",
+    "claims": [],
+    "sourceRefs": [],
+    "limitations": [
+      "未核实历史资料，不编造词源或年代。"
+    ]
+  },
+  "bridge": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-004",
+    "contextId": "V20261012-004-context",
+    "version": "1",
+    "location": "selected",
+    "strategies": [
+      "direct",
+      "contextualization"
+    ],
+    "anchorRefs": [
+      "milestone%1:11:00::"
+    ],
+    "targetRefs": [
+      "milestone%1:11:00::"
+    ],
+    "semanticText": "本句直接采用重要阶段义。“路边标距离的碑”可以辅助记忆进展位置，但这里到达的是项目节点，不是一块石碑。",
+    "boundary": "after表达先后，不能直接推成因果或全部验收通过。",
+    "evidenceRefs": [
+      {
+        "sourceId": "oewn-2025",
+        "sourceVersion": "2025",
+        "locator": "entries-m.json/milestone/n / milestone%1:11:00::",
+        "supportedClaim": "a significant event in your life (or in a project)",
+        "url": "https://en-word.net/"
+      }
+    ],
+    "historyLink": null,
+    "historyClaimRefs": [],
+    "returnTargets": [
+      "wl-common",
+      "wl-history"
+    ]
+  },
+  "analysis": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-004",
+    "contextId": "V20261012-004-context",
+    "version": "1",
+    "promptHash": "aaf3bd1e99daf47a70a2a158973652d67ff14dafcfc1748b3fc2a09d719885db",
+    "depth": "standard",
+    "depthReason": "需辨析相邻用法并保留原句的承诺或证据边界。",
+    "coverage": {
+      "syntax": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "syntax-concept"
+        ]
+      },
+      "concept": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "syntax-concept"
+        ]
+      },
+      "contrast": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "contrast"
+        ]
+      },
+      "languageGame": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "game-neighbors"
+        ]
+      },
+      "englishNeighbors": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "game-neighbors"
+        ]
+      },
+      "pragmaticAction": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "action"
+        ]
+      },
+      "workplaceUse": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "workplace"
+        ]
+      }
+    },
+    "blocks": [
+      {
+        "blockId": "syntax-concept",
+        "dimensions": [
+          "syntax",
+          "concept"
+        ],
+        "text": "reached是过去式，the first限定是第一个；after the review只给出事件先后。 里程碑强调一个值得标记的进展点。原句没有说明该点的验收标准，也没有说整个项目已经完成。",
+        "sourceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-m.json/milestone/n / milestone%1:11:00::",
+            "supportedClaim": "a significant event in your life (or in a project)",
+            "url": "https://en-word.net/"
+          }
+        ],
+        "title": "句子结构与当前所指"
+      },
+      {
+        "blockId": "contrast",
+        "dimensions": [
+          "contrast"
+        ],
+        "text": "milestone是重要进展节点；deadline是必须完成的时限。里程碑可以有截止日期，两者却不是同一概念。",
+        "sourceRefs": [],
+        "title": "容易混淆的地方"
+      },
+      {
+        "blockId": "game-neighbors",
+        "dimensions": [
+          "languageGame",
+          "englishNeighbors"
+        ],
+        "text": "进度回顾中，可追问达成了什么以及有什么证据，再讨论下一节点；不能仅凭“评审之后”认定评审正式批准了所有成果。 reach a milestone报告到达；next milestone引出后续阶段；milestone criteria帮助把重要节点与普通活动区分开。",
+        "sourceRefs": [],
+        "title": "讨论通常怎样继续"
+      },
+      {
+        "blockId": "action",
+        "dimensions": [
+          "pragmaticAction"
+        ],
+        "text": "说话者在报告已经取得的阶段性进展。",
+        "sourceRefs": [],
+        "title": "说话者正在做什么"
+      },
+      {
+        "blockId": "workplace",
+        "dimensions": [
+          "workplaceUse"
+        ],
+        "text": "下面是迁移到制造业沟通的新例句；不代表原场景中已发生的决定。",
+        "sourceRefs": [],
+        "title": "迁移到工作情境"
+      }
+    ],
+    "workplaceUse": [
+      {
+        "en": "Completing the tooling trial is our next milestone.",
+        "zh": "完成工装试验是我们的下一个里程碑。",
+        "whenToUse": "把重要阶段结果说清楚。",
+        "limitation": "原创教学表达；具体权限和流程以实际约定为准。",
+        "origin": "original"
+      },
+      {
+        "en": "What evidence shows that we have reached this milestone?",
+        "zh": "哪些证据表明我们已经达成这个里程碑？",
+        "whenToUse": "核对进展声明。",
+        "limitation": "原创教学表达；具体权限和流程以实际约定为准。",
+        "origin": "original"
+      }
+    ],
+    "practiceRefs": [],
+    "edges": []
+  },
+  "practices": [],
+  "sources": [
+    {
+      "schemaVersion": 1,
+      "sourceId": "original-vocab",
+      "version": "2026-11-16",
+      "title": "原词库教学句／转述",
+      "url": "public/vocabulary.json",
+      "accessMode": "user_material",
+      "retrievedAt": "2026-11-16T01:45:06.410Z",
+      "coverage": "partial",
+      "rights": "用户授权处理原词库",
+      "limitations": [
+        "非外部作者逐字引文；保留原ID与原句"
+      ]
+    },
+    {
+      "schemaVersion": 1,
+      "sourceId": "oewn-2025",
+      "version": "2025",
+      "title": "Open English Wordnet 2025",
+      "url": "https://en-word.net/",
+      "accessMode": "licensed_snapshot",
+      "retrievedAt": "2026-11-16T01:45:06.410Z",
+      "coverage": "partial",
+      "rights": "CC BY 4.0 + Princeton notice",
+      "limitations": [
+        "本包仅选部分源义；中文非官方译文"
+      ]
+    }
+  ],
+  "verifiedIPA": null,
+  "dictionaryURL": "https://en-word.net/",
+  "historyURL": null
+}

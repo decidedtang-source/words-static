@@ -1,0 +1,343 @@
+{
+  "snapshot": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-019",
+    "term": "contingency",
+    "quote": "We need a contingency plan if the reviewer is unavailable.",
+    "batch": "2026-10-12",
+    "originalFileSHA": "ec65d33d6da99ebad2577f6c9f9938499823d29d117f43532302cf964a4c60a3",
+    "quoteSHA": "0b7131ecf381b4f41f1ae0ee8d27c6a131cf33c2b82585964642e32eefdde78f",
+    "originalIPA": "kənˈtɪn.dʒən.si",
+    "originalPOS": "n.",
+    "originalMeaning": "可能发生且需要预先准备的意外情况"
+  },
+  "selection": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-019",
+    "version": "1",
+    "inventoryRefs": [
+      "inventory:V20261012-019"
+    ],
+    "selectedSenseIds": [
+      "contingency%1:11:00::"
+    ],
+    "reason": "按学习用途选择常见或易混义；这里不是语料频率排名。",
+    "general": "可能发生的意外情况",
+    "senses": [
+      {
+        "senseId": "contingency%1:11:00::",
+        "title": "可能发生的意外情况",
+        "usageLabels": [
+          "n.",
+          "精选学习义"
+        ],
+        "explanationZh": "可能发生的意外情况",
+        "examples": [
+          {
+            "en": "We need to prepare for this contingency.",
+            "zh": "我们需要为这种可能情况作准备。",
+            "origin": "original",
+            "sourceRef": null,
+            "usageNote": "原创教学例句，不是来源原话"
+          }
+        ],
+        "evidenceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-c.json/contingency/n / contingency%1:11:00::",
+            "supportedClaim": "a possible event or occurrence or result",
+            "url": "https://en-word.net/"
+          }
+        ]
+      }
+    ]
+  },
+  "senses": [
+    {
+      "schemaVersion": 1,
+      "senseId": "contingency%1:11:00::",
+      "lexicalEntryId": "lex:contingency",
+      "pos": "n.",
+      "meaning": {
+        "definitionEn": "a possible event or occurrence or result",
+        "glossZh": "可能发生的意外情况",
+        "glossOrigin": "editorial"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "oewn-2025",
+          "sourceVersion": "2025",
+          "locator": "entries-c.json/contingency/n / contingency%1:11:00::",
+          "supportedClaim": "a possible event or occurrence or result",
+          "url": "https://en-word.net/"
+        }
+      ],
+      "version": "1"
+    }
+  ],
+  "inventory": {
+    "schemaVersion": 1,
+    "inventoryId": "inventory:V20261012-019",
+    "version": "1",
+    "lexicalEntryId": "lex:contingency",
+    "sources": [
+      "oewn-2025"
+    ],
+    "senseIds": [
+      "contingency%1:11:00::"
+    ],
+    "coverageStatus": "partial"
+  },
+  "context": {
+    "schemaVersion": 1,
+    "contextId": "V20261012-019-context",
+    "entryId": "V20261012-019",
+    "sourceRef": "original-vocab",
+    "quote": "We need a contingency plan if the reviewer is unavailable.",
+    "quoteSHA": "0b7131ecf381b4f41f1ae0ee8d27c6a131cf33c2b82585964642e32eefdde78f",
+    "translation": "如果评审人无法参加，我们需要一个应变方案。",
+    "quoteType": "原词库教学例句／转述；未认定为外部作者逐字引文",
+    "meaning": "为评审人不可用这一可能情况准备的应变安排",
+    "qualifiers": {
+      "polarity": "affirmative",
+      "modality": [],
+      "conditions": [
+        "if the reviewer is unavailable"
+      ],
+      "agents": [],
+      "timeScope": null,
+      "excludedInferences": [
+        "没有说评审人一定缺席，也没有允许跳过必要评审。"
+      ]
+    },
+    "location": "selected",
+    "senseRefs": [
+      "contingency%1:11:00::"
+    ],
+    "targetSpans": [
+      {
+        "start": 10,
+        "end": 21,
+        "text": "contingency",
+        "mappingType": "exact",
+        "note": "原句精确匹配；词形变化时不伪造span"
+      }
+    ],
+    "context": "仅以保留的这条原句为分析范围；未知背景不补造。"
+  },
+  "history": {
+    "schemaVersion": 1,
+    "lexicalEntryId": "lex:contingency",
+    "version": "1",
+    "summary": "",
+    "claims": [],
+    "sourceRefs": [],
+    "limitations": [
+      "未核实历史资料，不编造词源或年代。"
+    ]
+  },
+  "bridge": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-019",
+    "contextId": "V20261012-019-context",
+    "version": "1",
+    "location": "selected",
+    "strategies": [
+      "direct",
+      "contextualization"
+    ],
+    "anchorRefs": [
+      "contingency%1:11:00::"
+    ],
+    "targetRefs": [
+      "contingency%1:11:00::"
+    ],
+    "semanticText": "从可能出现的情况义进入：这里特指评审人不可用，plan是针对这项可能性的准备。",
+    "boundary": "没有说评审人一定缺席，也没有允许跳过必要评审。",
+    "evidenceRefs": [
+      {
+        "sourceId": "oewn-2025",
+        "sourceVersion": "2025",
+        "locator": "entries-c.json/contingency/n / contingency%1:11:00::",
+        "supportedClaim": "a possible event or occurrence or result",
+        "url": "https://en-word.net/"
+      }
+    ],
+    "historyLink": null,
+    "historyClaimRefs": [],
+    "returnTargets": [
+      "wl-common",
+      "wl-history"
+    ]
+  },
+  "analysis": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-019",
+    "contextId": "V20261012-019-context",
+    "version": "1",
+    "promptHash": "aaf3bd1e99daf47a70a2a158973652d67ff14dafcfc1748b3fc2a09d719885db",
+    "depth": "standard",
+    "depthReason": "需辨析相邻用法并保留原句的承诺或证据边界。",
+    "coverage": {
+      "syntax": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "syntax-concept"
+        ]
+      },
+      "concept": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "syntax-concept"
+        ]
+      },
+      "contrast": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "contrast"
+        ]
+      },
+      "languageGame": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "game-neighbors"
+        ]
+      },
+      "englishNeighbors": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "game-neighbors"
+        ]
+      },
+      "pragmaticAction": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "action"
+        ]
+      },
+      "workplaceUse": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "workplace"
+        ]
+      }
+    },
+    "blocks": [
+      {
+        "blockId": "syntax-concept",
+        "dimensions": [
+          "syntax",
+          "concept"
+        ],
+        "text": "contingency修饰plan；if the reviewer is unavailable给出触发情境。We need表达需求，不表示方案已经存在。 要准备的是特定情况发生时怎样继续工作，例如改期或请有适当资格的人协助；原句没有选定措施，也未授予替代者权限。",
+        "sourceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-c.json/contingency/n / contingency%1:11:00::",
+            "supportedClaim": "a possible event or occurrence or result",
+            "url": "https://en-word.net/"
+          }
+        ],
+        "title": "句子结构与当前所指"
+      },
+      {
+        "blockId": "contrast",
+        "dimensions": [
+          "contrast"
+        ],
+        "text": "contingency plan是针对可能情况的预案；current plan是眼下采用的安排。提出预案不等于宣布原方案失败。",
+        "sourceRefs": [],
+        "title": "容易混淆的地方"
+      },
+      {
+        "blockId": "game-neighbors",
+        "dimensions": [
+          "languageGame",
+          "englishNeighbors"
+        ],
+        "text": "这是应变策划。需要澄清触发条件、备选动作和确认责任，防止情况发生后才临时猜测。 in case、fallback、trigger与contingency相连，因为预案需要说明何时启用、启用什么，而不只是“另想办法”。",
+        "sourceRefs": [],
+        "title": "讨论通常怎样继续"
+      },
+      {
+        "blockId": "action",
+        "dimensions": [
+          "pragmaticAction"
+        ],
+        "text": "说话者提出准备要求，并用if限定该预案针对的风险。",
+        "sourceRefs": [],
+        "title": "说话者正在做什么"
+      },
+      {
+        "blockId": "workplace",
+        "dimensions": [
+          "workplaceUse"
+        ],
+        "text": "下面是迁移到制造业沟通的新例句；不代表原场景中已发生的决定。",
+        "sourceRefs": [],
+        "title": "迁移到工作情境"
+      }
+    ],
+    "workplaceUse": [
+      {
+        "en": "What is our contingency plan if the test rig is unavailable?",
+        "zh": "如果测试台不可用，我们的应变方案是什么？",
+        "whenToUse": "为资源不可用作准备。",
+        "limitation": "原创教学表达；具体权限和流程以实际约定为准。",
+        "origin": "original"
+      },
+      {
+        "en": "The contingency plan must preserve the required checks.",
+        "zh": "应变方案必须保留必要检查。",
+        "whenToUse": "强调备选安排的质量边界。",
+        "limitation": "原创教学表达；具体权限和流程以实际约定为准。",
+        "origin": "original"
+      }
+    ],
+    "practiceRefs": [],
+    "edges": []
+  },
+  "practices": [],
+  "sources": [
+    {
+      "schemaVersion": 1,
+      "sourceId": "original-vocab",
+      "version": "2026-11-16",
+      "title": "原词库教学句／转述",
+      "url": "public/vocabulary.json",
+      "accessMode": "user_material",
+      "retrievedAt": "2026-11-16T00:00:00+08:00",
+      "coverage": "partial",
+      "rights": "用户授权处理原词库",
+      "limitations": [
+        "非外部作者逐字引文；保留原ID与原句"
+      ]
+    },
+    {
+      "schemaVersion": 1,
+      "sourceId": "oewn-2025",
+      "version": "2025",
+      "title": "Open English Wordnet 2025",
+      "url": "https://en-word.net/",
+      "accessMode": "licensed_snapshot",
+      "retrievedAt": "2026-11-16T00:00:00+08:00",
+      "coverage": "partial",
+      "rights": "CC BY 4.0 + Princeton notice",
+      "limitations": [
+        "本包仅选部分源义；中文非官方译文"
+      ]
+    }
+  ],
+  "verifiedIPA": null,
+  "dictionaryURL": "https://en-word.net/",
+  "historyURL": null
+}

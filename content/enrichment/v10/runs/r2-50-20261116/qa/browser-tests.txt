@@ -1,0 +1,15 @@
+
+> words-static@1.0.0 test:browser
+> node --test tests/browser/*.test.mjs
+
+✔ static subpath hosting: recent vocabulary, reveal/grade, reload, export/import and mobile library (7142.1871ms)
+✔ published static subpath: progressive Chinese, copy, component bookmarks, return and legacy progress (4652.9125ms)
+✔ mobile reveal/grades stay visible with expanded examples and next card resets scroll (2931.8882ms)
+ℹ tests 3
+ℹ suites 0
+ℹ pass 3
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 8233.1581

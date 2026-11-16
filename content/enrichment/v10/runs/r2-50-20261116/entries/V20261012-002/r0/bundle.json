@@ -1,0 +1,437 @@
+{
+  "snapshot": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-002",
+    "term": "objective",
+    "quote": "Our objective is to reduce the time spent on approvals.",
+    "batch": "2026-10-12",
+    "originalFileSHA": "ec65d33d6da99ebad2577f6c9f9938499823d29d117f43532302cf964a4c60a3",
+    "quoteSHA": "45d0e2ff354b4c1bd3805389f8591e65a0ecaff05169b566aa59acda5f39ae8f",
+    "originalIPA": "əbˈdʒek.tɪv",
+    "originalPOS": "n.",
+    "originalMeaning": "希望达成的具体目标"
+  },
+  "selection": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-002",
+    "version": "1",
+    "inventoryRefs": [
+      "inventory:V20261012-002"
+    ],
+    "selectedSenseIds": [
+      "objective%1:09:00::",
+      "objective%3:00:00::"
+    ],
+    "reason": "按学习用途选择常见或易混义；这里不是语料频率排名。",
+    "general": "目标；打算达成的结果；客观的；不受个人偏见左右",
+    "senses": [
+      {
+        "senseId": "objective%1:09:00::",
+        "title": "目标；打算达成的结果",
+        "usageLabels": [
+          "n.",
+          "精选学习义"
+        ],
+        "explanationZh": "目标；打算达成的结果",
+        "examples": [
+          {
+            "en": "Our objective is to shorten the queue.",
+            "zh": "我们的目标是缩短排队时间。",
+            "origin": "original",
+            "sourceRef": null,
+            "usageNote": "原创教学例句，不是来源原话"
+          }
+        ],
+        "evidenceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-o.json/objective/n / objective%1:09:00::",
+            "supportedClaim": "the goal intended to be attained (and which is believed to be attainable)",
+            "url": "https://en-word.net/"
+          }
+        ]
+      },
+      {
+        "senseId": "objective%3:00:00::",
+        "title": "客观的；不受个人偏见左右",
+        "usageLabels": [
+          "n.",
+          "精选学习义"
+        ],
+        "explanationZh": "客观的；不受个人偏见左右",
+        "examples": [
+          {
+            "en": "We need an objective assessment.",
+            "zh": "我们需要客观的评估。",
+            "origin": "original",
+            "sourceRef": null,
+            "usageNote": "原创教学例句，不是来源原话"
+          }
+        ],
+        "evidenceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-o.json/objective/a / objective%3:00:00::",
+            "supportedClaim": "undistorted by emotion or personal bias; based on observable phenomena",
+            "url": "https://en-word.net/"
+          }
+        ]
+      }
+    ]
+  },
+  "senses": [
+    {
+      "schemaVersion": 1,
+      "senseId": "objective%1:09:00::",
+      "lexicalEntryId": "lex:objective",
+      "pos": "n.",
+      "meaning": {
+        "definitionEn": "the goal intended to be attained (and which is believed to be attainable)",
+        "glossZh": "目标；打算达成的结果",
+        "glossOrigin": "editorial"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "oewn-2025",
+          "sourceVersion": "2025",
+          "locator": "entries-o.json/objective/n / objective%1:09:00::",
+          "supportedClaim": "the goal intended to be attained (and which is believed to be attainable)",
+          "url": "https://en-word.net/"
+        }
+      ],
+      "version": "1"
+    },
+    {
+      "schemaVersion": 1,
+      "senseId": "objective%3:00:00::",
+      "lexicalEntryId": "lex:objective",
+      "pos": "n.",
+      "meaning": {
+        "definitionEn": "undistorted by emotion or personal bias; based on observable phenomena",
+        "glossZh": "客观的；不受个人偏见左右",
+        "glossOrigin": "editorial"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "oewn-2025",
+          "sourceVersion": "2025",
+          "locator": "entries-o.json/objective/a / objective%3:00:00::",
+          "supportedClaim": "undistorted by emotion or personal bias; based on observable phenomena",
+          "url": "https://en-word.net/"
+        }
+      ],
+      "version": "1"
+    }
+  ],
+  "inventory": {
+    "schemaVersion": 1,
+    "inventoryId": "inventory:V20261012-002",
+    "version": "1",
+    "lexicalEntryId": "lex:objective",
+    "sources": [
+      "oewn-2025"
+    ],
+    "senseIds": [
+      "objective%1:09:00::",
+      "objective%3:00:00::"
+    ],
+    "coverageStatus": "partial"
+  },
+  "context": {
+    "schemaVersion": 1,
+    "contextId": "V20261012-002-context",
+    "entryId": "V20261012-002",
+    "sourceRef": "original-vocab",
+    "quote": "Our objective is to reduce the time spent on approvals.",
+    "quoteSHA": "45d0e2ff354b4c1bd3805389f8591e65a0ecaff05169b566aa59acda5f39ae8f",
+    "translation": "我们的目标是减少花在审批上的时间。",
+    "quoteType": "原词库教学例句／转述；未认定为外部作者逐字引文",
+    "meaning": "希望达成的审批耗时缩短目标",
+    "qualifiers": {
+      "polarity": "affirmative",
+      "modality": [],
+      "conditions": [],
+      "agents": [],
+      "timeScope": null,
+      "excludedInferences": [
+        "目标表达不能证明现状、权限或改善已经实现。"
+      ]
+    },
+    "location": "selected",
+    "senseRefs": [
+      "objective%1:09:00::"
+    ],
+    "targetSpans": [
+      {
+        "start": 4,
+        "end": 13,
+        "text": "objective",
+        "mappingType": "exact",
+        "note": "原句精确匹配；词形变化时不伪造span"
+      }
+    ],
+    "context": "仅以保留的这条原句为分析范围；未知背景不补造。"
+  },
+  "history": {
+    "schemaVersion": 1,
+    "lexicalEntryId": "lex:objective",
+    "version": "1",
+    "summary": "词源条目将目标义记录于1881年，并联系1852年的军事用语objective point；这不是所有使用者开始使用的精确日期。",
+    "claims": [
+      {
+        "claimId": "history-objective-claim",
+        "text": "词源条目将目标义记录于1881年，并联系1852年的军事用语objective point；这不是所有使用者开始使用的精确日期。",
+        "timePrecision": "按史源记录，不作精确起源日期",
+        "sourceRefs": [
+          {
+            "sourceId": "history-objective",
+            "sourceVersion": "2026-11-16",
+            "locator": "objective (n.), paragraph 1",
+            "supportedClaim": "词源条目将目标义记录于1881年，并联系1852年的军事用语objective point；这不是所有使用者开始使用的精确日期。",
+            "url": "https://www.etymonline.com/word/objective"
+          }
+        ]
+      }
+    ],
+    "sourceRefs": [
+      {
+        "sourceId": "history-objective",
+        "sourceVersion": "2026-11-16",
+        "locator": "objective (n.), paragraph 1",
+        "supportedClaim": "词源条目将目标义记录于1881年，并联系1852年的军事用语objective point；这不是所有使用者开始使用的精确日期。",
+        "url": "https://www.etymonline.com/word/objective"
+      }
+    ],
+    "limitations": [
+      "仅限该词源条目记载；不能推出原句中的组织事实。"
+    ]
+  },
+  "bridge": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-002",
+    "contextId": "V20261012-002-context",
+    "version": "1",
+    "location": "selected",
+    "strategies": [
+      "direct",
+      "contextualization"
+    ],
+    "anchorRefs": [
+      "objective%1:09:00::"
+    ],
+    "targetRefs": [
+      "objective%1:09:00::"
+    ],
+    "semanticText": "从前面的“目标”义进入即可：本句把想达到的状态具体化为减少审批耗时，不是形容词“客观的”。",
+    "boundary": "目标表达不能证明现状、权限或改善已经实现。",
+    "evidenceRefs": [
+      {
+        "sourceId": "oewn-2025",
+        "sourceVersion": "2025",
+        "locator": "entries-o.json/objective/n / objective%1:09:00::",
+        "supportedClaim": "the goal intended to be attained (and which is believed to be attainable)",
+        "url": "https://en-word.net/"
+      }
+    ],
+    "historyLink": {
+      "text": "史源记录了目标义与军事objective point的联系；本句沿用面向一个目标的普通名词用法。这里不是军事比喻，也不能从这段词史推出项目指标。",
+      "relationType": "documented_usage_with_bounded_editorial_link",
+      "claimRefs": [
+        "history-objective-claim"
+      ],
+      "limitation": "目标表达不能证明现状、权限或改善已经实现。"
+    },
+    "historyClaimRefs": [
+      "history-objective-claim"
+    ],
+    "returnTargets": [
+      "wl-common",
+      "wl-history"
+    ]
+  },
+  "analysis": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-002",
+    "contextId": "V20261012-002-context",
+    "version": "1",
+    "promptHash": "aaf3bd1e99daf47a70a2a158973652d67ff14dafcfc1748b3fc2a09d719885db",
+    "depth": "standard",
+    "depthReason": "需辨析相邻用法并保留原句的承诺或证据边界。",
+    "coverage": {
+      "syntax": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "syntax-concept"
+        ]
+      },
+      "concept": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "syntax-concept"
+        ]
+      },
+      "contrast": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "contrast"
+        ]
+      },
+      "languageGame": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "game-neighbors"
+        ]
+      },
+      "englishNeighbors": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "game-neighbors"
+        ]
+      },
+      "pragmaticAction": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "action"
+        ]
+      },
+      "workplaceUse": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "workplace"
+        ]
+      }
+    },
+    "blocks": [
+      {
+        "blockId": "syntax-concept",
+        "dimensions": [
+          "syntax",
+          "concept"
+        ],
+        "text": "Our objective作主语，is连接后面的to reduce；不定式说明目标内容，spent on approvals修饰time。 这里设定的是要改善的结果：审批耗时。句子没有给出基准、目标幅度或完成日期，也没有说目标已经达成。",
+        "sourceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-o.json/objective/n / objective%1:09:00::",
+            "supportedClaim": "the goal intended to be attained (and which is believed to be attainable)",
+            "url": "https://en-word.net/"
+          }
+        ],
+        "title": "句子结构与当前所指"
+      },
+      {
+        "blockId": "contrast",
+        "dimensions": [
+          "contrast"
+        ],
+        "text": "objective是打算达到的结果；task是要做的事。召开评审会可以是task，却未必就是审批耗时缩短这个objective。",
+        "sourceRefs": [],
+        "title": "容易混淆的地方"
+      },
+      {
+        "blockId": "game-neighbors",
+        "dimensions": [
+          "languageGame",
+          "englishNeighbors"
+        ],
+        "text": "这是目标对齐活动。接下来可问目前耗时多少、希望减少多少、怎样测量；这些是建议追问，不是原句已定下的指标。 set an objective说明设目标；meet an objective说明达成。measurement和baseline相连，是因为想判断是否达成就需要可比较的记录。",
+        "sourceRefs": [],
+        "title": "讨论通常怎样继续"
+      },
+      {
+        "blockId": "action",
+        "dimensions": [
+          "pragmaticAction"
+        ],
+        "text": "说话者在界定努力方向，而不是下达一个已经获批的具体实施方案。",
+        "sourceRefs": [],
+        "title": "说话者正在做什么"
+      },
+      {
+        "blockId": "workplace",
+        "dimensions": [
+          "workplaceUse"
+        ],
+        "text": "下面是迁移到制造业沟通的新例句；不代表原场景中已发生的决定。",
+        "sourceRefs": [],
+        "title": "迁移到工作情境"
+      }
+    ],
+    "workplaceUse": [
+      {
+        "en": "Our objective is to reduce inspection waiting time.",
+        "zh": "我们的目标是减少等待检验的时间。",
+        "whenToUse": "讨论制造现场改善目标时。",
+        "limitation": "原创教学表达；具体权限和流程以实际约定为准。",
+        "origin": "original"
+      },
+      {
+        "en": "How will we measure progress toward that objective?",
+        "zh": "我们怎样衡量向这个目标推进的进度？",
+        "whenToUse": "目标提出后追问衡量办法。",
+        "limitation": "原创教学表达；具体权限和流程以实际约定为准。",
+        "origin": "original"
+      }
+    ],
+    "practiceRefs": [],
+    "edges": []
+  },
+  "practices": [],
+  "sources": [
+    {
+      "schemaVersion": 1,
+      "sourceId": "original-vocab",
+      "version": "2026-11-16",
+      "title": "原词库教学句／转述",
+      "url": "public/vocabulary.json",
+      "accessMode": "user_material",
+      "retrievedAt": "2026-11-16T00:00:00+08:00",
+      "coverage": "partial",
+      "rights": "用户授权处理原词库",
+      "limitations": [
+        "非外部作者逐字引文；保留原ID与原句"
+      ]
+    },
+    {
+      "schemaVersion": 1,
+      "sourceId": "oewn-2025",
+      "version": "2025",
+      "title": "Open English Wordnet 2025",
+      "url": "https://en-word.net/",
+      "accessMode": "licensed_snapshot",
+      "retrievedAt": "2026-11-16T00:00:00+08:00",
+      "coverage": "partial",
+      "rights": "CC BY 4.0 + Princeton notice",
+      "limitations": [
+        "本包仅选部分源义；中文非官方译文"
+      ]
+    },
+    {
+      "schemaVersion": 1,
+      "sourceId": "history-objective",
+      "version": "2026-11-16",
+      "title": "history-objective",
+      "url": "https://www.etymonline.com/word/objective",
+      "accessMode": "page",
+      "retrievedAt": "2026-11-16T00:00:00+08:00",
+      "coverage": "partial",
+      "rights": "必要短引与中文整理，不声称批量复制许可",
+      "limitations": [
+        "仅支持记录中的具体主张，不代表完整条目"
+      ]
+    }
+  ],
+  "verifiedIPA": null,
+  "dictionaryURL": "https://en-word.net/",
+  "historyURL": "https://www.etymonline.com/word/objective"
+}

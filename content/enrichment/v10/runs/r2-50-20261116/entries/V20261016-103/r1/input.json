@@ -1,0 +1,49 @@
+{
+  "snapshot": {
+    "schemaVersion": 1,
+    "entryId": "V20261016-103",
+    "term": "credulous",
+    "quote": "The author uses credulous to criticize voters who accepted the promise.",
+    "batch": "2026-10-16",
+    "originalFileSHA": "ec65d33d6da99ebad2577f6c9f9938499823d29d117f43532302cf964a4c60a3",
+    "quoteSHA": "dab1b11c94b0a026cc24f01975d8c0dea23848d01b39ae61599d46537fedc310",
+    "originalIPA": "ˈkredʒ.ə.ləs",
+    "originalPOS": "adj.",
+    "originalMeaning": "容易轻信、缺少必要怀疑；文中带有批评语气"
+  },
+  "evidence": [
+    {
+      "schemaVersion": 1,
+      "sourceId": "original-vocab",
+      "version": "2026-11-16",
+      "title": "原词库教学句／转述",
+      "url": "public/vocabulary.json",
+      "accessMode": "user_material",
+      "retrievedAt": "2026-11-16T01:45:06.410Z",
+      "coverage": "partial",
+      "rights": "用户授权处理原词库",
+      "limitations": [
+        "非外部作者逐字引文；保留原ID与原句"
+      ]
+    },
+    {
+      "schemaVersion": 1,
+      "sourceId": "oewn-2025",
+      "version": "2025",
+      "title": "Open English Wordnet 2025",
+      "url": "https://en-word.net/",
+      "accessMode": "licensed_snapshot",
+      "retrievedAt": "2026-11-16T01:45:06.410Z",
+      "coverage": "partial",
+      "rights": "CC BY 4.0 + Princeton notice",
+      "limitations": [
+        "本包仅选部分源义；中文非官方译文"
+      ]
+    }
+  ],
+  "promptHash": "aaf3bd1e99daf47a70a2a158973652d67ff14dafcfc1748b3fc2a09d719885db",
+  "promptText": "这个项目用于解析我在 Work English Episode、Scenario Episode、实际工作或日常学习中遇到的英文词、短语和句子。\n\n当我输入英文表达要解析的时候按照如下要求\n\n目标不是简单做“英文 = 中文”的词典式解释，而是帮助我理解：\n\n> 这个词在这里是什么意思，为什么这里使用它，它和哪些词、概念、问题和行动相连，以及我在真实工作中如何使用它。\n\n\n\n如有必要，可以到 Google Drive 中查找已有 Episode 文稿、Scenario 文稿或相关学习材料；是否查找由当前问题决定。\n\n核心解析方法\n\n解析词汇或表达时，优先采用：\n\nSyntax → Concept → Contrast → Language Game → English Neighbors → Pragmatic Action → Workplace Use\n\n1. Syntax\n\n看它在句子里是什么词性、什么成分、修饰谁、句子主干是什么。\n\n2. Concept\n\n不要只翻译。解释它在当前语境中具体指什么、范围是什么。\n\n3. Contrast\n\n如果容易混淆，比较相邻概念，例如：\n\nvalidation / test\napproval / acceptance\npreliminary / initial\n\n重点说明实际工作中什么时候更自然地用哪个词。\n\n4. Language Game\n\n分析这个词属于什么工作实践。\n\n重点问：\n\n> 这个词一说出来，大家接下来通常要做什么？\n\n\n\n例如：\n\nowner\n→ responsibility → action → due date → follow-up → closure\n\n5. English Neighbors\n\n说明这个词通常和哪些词、chunks、问题一起出现。\n\n不仅列搭配，还解释：\n\n> 为什么它们会连在一起？讨论通常会往哪里走？\n\n\n\n6. Pragmatic Action\n\n分析说话者实际上在完成什么动作，例如：\n\nclarify\n\nconfirm\n\nlimit commitment\n\nraise a risk\n\nassign ownership\n\nrequest evidence\n\nalign\n\nclose an open point\n\n\n7. Workplace Use\n\n最后给 2–5 个自然、短、可以直接用于制造业项目沟通的英文表达。\n\n技术词解释原则\n\n技术概念优先采用：\n\n现实问题 → 中文概念 → 英文术语 → 工程语境 → 工作表达\n\n中文负责把概念讲明白，英文负责绑定术语和真实使用方式。\n\n技术深度只讲到足够理解 Episode 和工作沟通，不必进入复杂公式或专业推导。\n\n回答方式\n\n不要机械地每次把七个标题全部展开。\n\n根据问题难度决定篇幅：\n\n简单词：先简洁解释，再补最重要的语境。\n\n容易混淆的词：重点做 Contrast。\n\n工程普通词：重点做 Language Game 和 English Neighbors。\n\n复杂句子：先拆 Syntax，再分析语用。\n\n如果我继续追问，再深入展开。\n\n\n核心原则：\n\n> 不要只问“这个词是什么意思”，还要问“这个词在这里让我们接下来可以做什么”。\n\n\n\n\n这一版已经很适合作为长期 Project Instructions 了。\n",
+  "contractHash": "95c363babfef1eef28b9d88b1489fd763bc47fc6577acbd2c73cf38f07f69e6a",
+  "practices": [],
+  "inputHash": "6a59c7b4adc050742b0c0def377746bf6e1e39df4afd98bf3775c35498cbf025"
+}

@@ -1,0 +1,400 @@
+{
+  "snapshot": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-031",
+    "term": "monitor",
+    "quote": "We will monitor progress and report any significant change.",
+    "batch": "2026-10-12",
+    "originalFileSHA": "ec65d33d6da99ebad2577f6c9f9938499823d29d117f43532302cf964a4c60a3",
+    "quoteSHA": "bdd7a8084fce073a2ec897fac0d172c4732e5bba01b2c97d186e7ee14594fd39",
+    "originalIPA": "ˈmɑː.nə.t̬ɚ",
+    "originalPOS": "v.",
+    "originalMeaning": "持续观察状态或变化"
+  },
+  "selection": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-031",
+    "version": "1",
+    "inventoryRefs": [
+      "inventory:V20261012-031"
+    ],
+    "selectedSenseIds": [
+      "monitor%2:39:00::",
+      "monitor%1:06:02::"
+    ],
+    "reason": "按学习用途选择常见或易混义；这里不是语料频率排名。",
+    "usageTip": "monitor progress/performance；monitor本身不表示已经采取纠正措施。",
+    "general": "持续观察；监测；显示器；监视屏幕",
+    "senses": [
+      {
+        "senseId": "monitor%2:39:00::",
+        "title": "持续观察；监测",
+        "usageLabels": [
+          "v.",
+          "精选学习义"
+        ],
+        "explanationZh": "持续观察；监测",
+        "examples": [
+          {
+            "en": "We monitor temperature during the test.",
+            "zh": "测试期间我们监测温度。",
+            "origin": "original",
+            "sourceRef": null,
+            "usageNote": "持续观察；监测"
+          }
+        ],
+        "evidenceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-m.json/monitor/v / monitor%2:39:00::",
+            "supportedClaim": "keep tabs on; keep an eye on; keep under surveillance",
+            "url": "https://en-word.net/"
+          }
+        ]
+      },
+      {
+        "senseId": "monitor%1:06:02::",
+        "title": "显示器；监视屏幕",
+        "usageLabels": [
+          "n.",
+          "精选学习义"
+        ],
+        "explanationZh": "显示器；监视屏幕",
+        "examples": [
+          {
+            "en": "The results appeared on the monitor.",
+            "zh": "结果显示在屏幕上。",
+            "origin": "original",
+            "sourceRef": null,
+            "usageNote": "显示器；监视屏幕"
+          }
+        ],
+        "evidenceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-m.json/monitor/n / monitor%1:06:02::",
+            "supportedClaim": "display produced by a device that takes signals and displays them on a television screen or a computer monitor",
+            "url": "https://en-word.net/"
+          }
+        ]
+      }
+    ]
+  },
+  "senses": [
+    {
+      "schemaVersion": 1,
+      "senseId": "monitor%2:39:00::",
+      "lexicalEntryId": "lex:monitor",
+      "pos": "v.",
+      "definitionOrigin": "licensed_verbatim",
+      "meaning": {
+        "definitionEn": "keep tabs on; keep an eye on; keep under surveillance",
+        "glossZh": "持续观察；监测",
+        "glossOrigin": "editorial"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "oewn-2025",
+          "sourceVersion": "2025",
+          "locator": "entries-m.json/monitor/v / monitor%2:39:00::",
+          "supportedClaim": "keep tabs on; keep an eye on; keep under surveillance",
+          "url": "https://en-word.net/"
+        }
+      ],
+      "version": "1"
+    },
+    {
+      "schemaVersion": 1,
+      "senseId": "monitor%1:06:02::",
+      "lexicalEntryId": "lex:monitor",
+      "pos": "n.",
+      "definitionOrigin": "licensed_verbatim",
+      "meaning": {
+        "definitionEn": "display produced by a device that takes signals and displays them on a television screen or a computer monitor",
+        "glossZh": "显示器；监视屏幕",
+        "glossOrigin": "editorial"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "oewn-2025",
+          "sourceVersion": "2025",
+          "locator": "entries-m.json/monitor/n / monitor%1:06:02::",
+          "supportedClaim": "display produced by a device that takes signals and displays them on a television screen or a computer monitor",
+          "url": "https://en-word.net/"
+        }
+      ],
+      "version": "1"
+    }
+  ],
+  "inventory": {
+    "schemaVersion": 1,
+    "inventoryId": "inventory:V20261012-031",
+    "version": "1",
+    "lexicalEntryId": "lex:monitor",
+    "sources": [
+      "oewn-2025"
+    ],
+    "senseIds": [
+      "monitor%2:39:00::",
+      "monitor%1:06:02::"
+    ],
+    "coverageStatus": "partial"
+  },
+  "context": {
+    "schemaVersion": 1,
+    "contextId": "V20261012-031-context",
+    "entryId": "V20261012-031",
+    "sourceRef": "original-vocab",
+    "quote": "We will monitor progress and report any significant change.",
+    "quoteSHA": "bdd7a8084fce073a2ec897fac0d172c4732e5bba01b2c97d186e7ee14594fd39",
+    "translation": "我们会监测进展，并报告任何显著变化。",
+    "quoteType": "原词库教学例句／转述；未认定为外部作者逐字引文",
+    "meaning": "持续留意进度并在发生显著变化时报告",
+    "qualifiers": {
+      "polarity": "affirmative",
+      "modality": [
+        "will"
+      ],
+      "conditions": [
+        "report any significant change; significance threshold unspecified"
+      ],
+      "agents": [
+        "we"
+      ],
+      "timeScope": null,
+      "excludedInferences": [
+        "未给出的频率和报告渠道不能当作已有制度。"
+      ]
+    },
+    "location": "selected",
+    "senseRefs": [
+      "monitor%2:39:00::"
+    ],
+    "targetSpans": [
+      {
+        "start": 8,
+        "end": 15,
+        "text": "monitor",
+        "mappingType": "exact",
+        "note": "原句精确匹配；词形变化时不伪造span"
+      }
+    ],
+    "context": "仅以保留的这条原句为分析范围；未知背景不补造。"
+  },
+  "history": {
+    "schemaVersion": 1,
+    "lexicalEntryId": "lex:monitor",
+    "version": "1",
+    "summary": "",
+    "claims": [],
+    "sourceRefs": [],
+    "limitations": [
+      "未核实历史资料，不编造词源或年代。"
+    ]
+  },
+  "bridge": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-031",
+    "contextId": "V20261012-031-context",
+    "version": "1",
+    "location": "selected",
+    "strategies": [
+      "direct",
+      "contextualization"
+    ],
+    "anchorRefs": [
+      "monitor%2:39:00::"
+    ],
+    "targetRefs": [
+      "monitor%2:39:00::"
+    ],
+    "semanticText": "这里是动词监测义，因为后面直接接progress；不是名词显示器，也不是承诺进度绝不偏离。",
+    "boundary": "未给出的频率和报告渠道不能当作已有制度。",
+    "evidenceRefs": [
+      {
+        "sourceId": "oewn-2025",
+        "sourceVersion": "2025",
+        "locator": "entries-m.json/monitor/v / monitor%2:39:00::",
+        "supportedClaim": "keep tabs on; keep an eye on; keep under surveillance",
+        "url": "https://en-word.net/"
+      }
+    ],
+    "historyLink": null,
+    "historyClaimRefs": [],
+    "returnTargets": [
+      "wl-common",
+      "wl-history"
+    ]
+  },
+  "analysis": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-031",
+    "contextId": "V20261012-031-context",
+    "version": "1",
+    "promptHash": "aaf3bd1e99daf47a70a2a158973652d67ff14dafcfc1748b3fc2a09d719885db",
+    "depth": "standard",
+    "depthReason": "需辨析相邻用法并保留原句的承诺或证据边界。",
+    "coverage": {
+      "syntax": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "syntax-concept"
+        ]
+      },
+      "concept": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "syntax-concept"
+        ]
+      },
+      "contrast": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "contrast"
+        ]
+      },
+      "languageGame": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "game-neighbors"
+        ]
+      },
+      "englishNeighbors": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "game-neighbors"
+        ]
+      },
+      "pragmaticAction": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "action"
+        ]
+      },
+      "workplaceUse": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "workplace"
+        ]
+      }
+    },
+    "blocks": [
+      {
+        "blockId": "syntax-concept",
+        "dimensions": [
+          "syntax",
+          "concept"
+        ],
+        "text": "will同时作用于monitor和report；any significant change是要报告的对象，significant不能省略成所有细微波动。 监测提供发现变化的机会，但原句没有规定频率、指标或“显著”的阈值。监测也不等于已纠正问题。",
+        "sourceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-m.json/monitor/v / monitor%2:39:00::",
+            "supportedClaim": "keep tabs on; keep an eye on; keep under surveillance",
+            "url": "https://en-word.net/"
+          }
+        ],
+        "title": "句子结构与当前所指"
+      },
+      {
+        "blockId": "contrast",
+        "dimensions": [
+          "contrast"
+        ],
+        "text": "monitor是持续关注；inspect常指具体检查；control包含采取措施影响状态。监测可以支持控制，却不是自动控制。",
+        "sourceRefs": [],
+        "title": "容易混淆的地方"
+      },
+      {
+        "blockId": "game-neighbors",
+        "dimensions": [
+          "languageGame",
+          "englishNeighbors"
+        ],
+        "text": "执行前可约定看哪些指标、多久更新、怎样判定显著以及向谁报告，让持续观察有明确用途。 monitor progress与status update连接；significant change引出阈值或影响判断；report是监测之后的信息动作。",
+        "sourceRefs": [],
+        "title": "讨论通常怎样继续"
+      },
+      {
+        "blockId": "action",
+        "dimensions": [
+          "pragmaticAction"
+        ],
+        "text": "说话者在承诺持续观察并通报重大变化。",
+        "sourceRefs": [],
+        "title": "说话者正在做什么"
+      },
+      {
+        "blockId": "workplace",
+        "dimensions": [
+          "workplaceUse"
+        ],
+        "text": "下面是迁移到制造业沟通的新例句；不代表原场景中已发生的决定。",
+        "sourceRefs": [],
+        "title": "迁移到工作情境"
+      }
+    ],
+    "workplaceUse": [
+      {
+        "en": "Which indicators should we monitor during the pilot run?",
+        "zh": "试生产期间应监测哪些指标？",
+        "whenToUse": "确定观察对象。",
+        "limitation": "原创教学表达；具体权限和流程以实际约定为准。",
+        "origin": "original"
+      },
+      {
+        "en": "Please report any significant change in the completion forecast.",
+        "zh": "完成时间预测如有显著变化，请报告。",
+        "whenToUse": "明确报告变化。",
+        "limitation": "原创教学表达；具体权限和流程以实际约定为准。",
+        "origin": "original"
+      }
+    ],
+    "practiceRefs": [],
+    "edges": []
+  },
+  "practices": [],
+  "sources": [
+    {
+      "schemaVersion": 1,
+      "sourceId": "original-vocab",
+      "version": "2026-11-16",
+      "title": "原词库教学句／转述",
+      "url": "public/vocabulary.json",
+      "accessMode": "user_material",
+      "retrievedAt": "2026-11-16T01:45:06.410Z",
+      "coverage": "partial",
+      "rights": "用户授权处理原词库",
+      "limitations": [
+        "非外部作者逐字引文；保留原ID与原句"
+      ]
+    },
+    {
+      "schemaVersion": 1,
+      "sourceId": "oewn-2025",
+      "version": "2025",
+      "title": "Open English Wordnet 2025",
+      "url": "https://en-word.net/",
+      "accessMode": "licensed_snapshot",
+      "retrievedAt": "2026-11-16T01:45:06.410Z",
+      "coverage": "partial",
+      "rights": "CC BY 4.0 + Princeton notice",
+      "limitations": [
+        "本包仅选部分源义；中文非官方译文"
+      ]
+    }
+  ],
+  "verifiedIPA": null,
+  "dictionaryURL": "https://en-word.net/",
+  "historyURL": null
+}

@@ -1,0 +1,406 @@
+{
+  "snapshot": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-006",
+    "term": "constraint",
+    "quote": "The main constraint is the number of available reviewers.",
+    "batch": "2026-10-12",
+    "originalFileSHA": "ec65d33d6da99ebad2577f6c9f9938499823d29d117f43532302cf964a4c60a3",
+    "quoteSHA": "d71685a9af8dc663db20ac057d2417437e3cbcbe076cfcb0bbb4905e949838f8",
+    "originalIPA": "kənˈstreɪnt",
+    "originalPOS": "n.",
+    "originalMeaning": "限制可选方案的条件"
+  },
+  "selection": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-006",
+    "version": "1",
+    "inventoryRefs": [
+      "inventory:V20261012-006"
+    ],
+    "selectedSenseIds": [
+      "web:cambridge-constraint",
+      "constraint%1:26:00::"
+    ],
+    "reason": "按学习用途选择常见或易混义；这里不是语料频率排名。",
+    "general": "约束；限制行动的条件；受约束的状态",
+    "senses": [
+      {
+        "senseId": "web:cambridge-constraint",
+        "title": "约束；限制行动的条件",
+        "usageLabels": [
+          "n.",
+          "精选学习义"
+        ],
+        "explanationZh": "约束；限制行动的条件",
+        "examples": [
+          {
+            "en": "Space is a major constraint in this workshop.",
+            "zh": "空间是这个车间的重要限制条件。",
+            "origin": "original",
+            "sourceRef": null,
+            "usageNote": "原创教学例句，不是来源原话"
+          }
+        ],
+        "evidenceRefs": [
+          {
+            "sourceId": "cambridge-constraint",
+            "sourceVersion": "2026-11-16",
+            "locator": "countable noun, limits",
+            "supportedClaim": "constraint可指限制行动的条件，不仅是物理束缚。",
+            "url": "https://dictionary.cambridge.org/dictionary/english/constraint"
+          }
+        ]
+      },
+      {
+        "senseId": "constraint%1:26:00::",
+        "title": "受约束的状态",
+        "usageLabels": [
+          "n.",
+          "精选学习义"
+        ],
+        "explanationZh": "受约束的状态",
+        "examples": [
+          {
+            "en": "The mechanism moves under constraint.",
+            "zh": "该机构在受约束状态下运动。",
+            "origin": "original",
+            "sourceRef": null,
+            "usageNote": "原创教学例句，不是来源原话"
+          }
+        ],
+        "evidenceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-c.json/constraint/n / constraint%1:26:00::",
+            "supportedClaim": "the state of being physically constrained",
+            "url": "https://en-word.net/"
+          }
+        ]
+      }
+    ]
+  },
+  "senses": [
+    {
+      "schemaVersion": 1,
+      "senseId": "web:cambridge-constraint",
+      "lexicalEntryId": "lex:constraint",
+      "pos": "n.",
+      "meaning": {
+        "definitionEn": "something that controls what you do by keeping you within particular limits",
+        "glossZh": "约束；限制行动的条件",
+        "glossOrigin": "editorial"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "cambridge-constraint",
+          "sourceVersion": "2026-11-16",
+          "locator": "countable noun, limits",
+          "supportedClaim": "constraint可指限制行动的条件，不仅是物理束缚。",
+          "url": "https://dictionary.cambridge.org/dictionary/english/constraint"
+        }
+      ],
+      "version": "1"
+    },
+    {
+      "schemaVersion": 1,
+      "senseId": "constraint%1:26:00::",
+      "lexicalEntryId": "lex:constraint",
+      "pos": "n.",
+      "meaning": {
+        "definitionEn": "the state of being physically constrained",
+        "glossZh": "受约束的状态",
+        "glossOrigin": "editorial"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "oewn-2025",
+          "sourceVersion": "2025",
+          "locator": "entries-c.json/constraint/n / constraint%1:26:00::",
+          "supportedClaim": "the state of being physically constrained",
+          "url": "https://en-word.net/"
+        }
+      ],
+      "version": "1"
+    }
+  ],
+  "inventory": {
+    "schemaVersion": 1,
+    "inventoryId": "inventory:V20261012-006",
+    "version": "1",
+    "lexicalEntryId": "lex:constraint",
+    "sources": [
+      "cambridge-constraint",
+      "oewn-2025"
+    ],
+    "senseIds": [
+      "web:cambridge-constraint",
+      "constraint%1:26:00::"
+    ],
+    "coverageStatus": "partial"
+  },
+  "context": {
+    "schemaVersion": 1,
+    "contextId": "V20261012-006-context",
+    "entryId": "V20261012-006",
+    "sourceRef": "original-vocab",
+    "quote": "The main constraint is the number of available reviewers.",
+    "quoteSHA": "d71685a9af8dc663db20ac057d2417437e3cbcbe076cfcb0bbb4905e949838f8",
+    "translation": "主要限制是可用评审人的数量。",
+    "quoteType": "原词库教学例句／转述；未认定为外部作者逐字引文",
+    "meaning": "评审人数量对安排工作形成的主要限制",
+    "qualifiers": {
+      "polarity": "affirmative",
+      "modality": [],
+      "conditions": [],
+      "agents": [],
+      "timeScope": null,
+      "excludedInferences": [
+        "不能把main误译成唯一限制，也不能推断评审人数已经获准增加。"
+      ]
+    },
+    "location": "selected",
+    "senseRefs": [
+      "web:cambridge-constraint"
+    ],
+    "targetSpans": [
+      {
+        "start": 9,
+        "end": 19,
+        "text": "constraint",
+        "mappingType": "exact",
+        "note": "原句精确匹配；词形变化时不伪造span"
+      }
+    ],
+    "context": "仅以保留的这条原句为分析范围；未知背景不补造。"
+  },
+  "history": {
+    "schemaVersion": 1,
+    "lexicalEntryId": "lex:constraint",
+    "version": "1",
+    "summary": "",
+    "claims": [],
+    "sourceRefs": [],
+    "limitations": [
+      "未核实历史资料，不编造词源或年代。"
+    ]
+  },
+  "bridge": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-006",
+    "contextId": "V20261012-006-context",
+    "version": "1",
+    "location": "selected",
+    "strategies": [
+      "direct",
+      "contextualization"
+    ],
+    "anchorRefs": [
+      "web:cambridge-constraint"
+    ],
+    "targetRefs": [
+      "web:cambridge-constraint"
+    ],
+    "semanticText": "行动受限制的通用义在本句具体化为人数约束。它不是指某人施压，也不证明评审制度本身有问题。",
+    "boundary": "不能把main误译成唯一限制，也不能推断评审人数已经获准增加。",
+    "evidenceRefs": [
+      {
+        "sourceId": "cambridge-constraint",
+        "sourceVersion": "2026-11-16",
+        "locator": "countable noun, limits",
+        "supportedClaim": "constraint可指限制行动的条件，不仅是物理束缚。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/constraint"
+      }
+    ],
+    "historyLink": null,
+    "historyClaimRefs": [],
+    "returnTargets": [
+      "wl-common",
+      "wl-history"
+    ]
+  },
+  "analysis": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-006",
+    "contextId": "V20261012-006-context",
+    "version": "1",
+    "promptHash": "aaf3bd1e99daf47a70a2a158973652d67ff14dafcfc1748b3fc2a09d719885db",
+    "depth": "standard",
+    "depthReason": "需辨析相邻用法并保留原句的承诺或证据边界。",
+    "coverage": {
+      "syntax": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "syntax-concept"
+        ]
+      },
+      "concept": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "syntax-concept"
+        ]
+      },
+      "contrast": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "contrast"
+        ]
+      },
+      "languageGame": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "game-neighbors"
+        ]
+      },
+      "englishNeighbors": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "game-neighbors"
+        ]
+      },
+      "pragmaticAction": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "action"
+        ]
+      },
+      "workplaceUse": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "workplace"
+        ]
+      }
+    },
+    "blocks": [
+      {
+        "blockId": "syntax-concept",
+        "dimensions": [
+          "syntax",
+          "concept"
+        ],
+        "text": "The main constraint作主语；is后的名词组指出限制内容，available修饰reviewers。main表示主要，不表示唯一。 问题是当前有多少评审人可用，而非对他们能力的评价。可用人数和每人的可用时段仍可能影响实际审核能力。",
+        "sourceRefs": [
+          {
+            "sourceId": "cambridge-constraint",
+            "sourceVersion": "2026-11-16",
+            "locator": "countable noun, limits",
+            "supportedClaim": "constraint可指限制行动的条件，不仅是物理束缚。",
+            "url": "https://dictionary.cambridge.org/dictionary/english/constraint"
+          }
+        ],
+        "title": "句子结构与当前所指"
+      },
+      {
+        "blockId": "contrast",
+        "dimensions": [
+          "contrast"
+        ],
+        "text": "constraint是必须考虑的限制；preference是偏好；risk是未来不确定事件。已知资源不足与将来可能缺人不应混写。",
+        "sourceRefs": [],
+        "title": "容易混淆的地方"
+      },
+      {
+        "blockId": "game-neighbors",
+        "dimensions": [
+          "languageGame",
+          "englishNeighbors"
+        ],
+        "text": "资源策划可以据此核对排期、优先级和其他可行安排。增加评审人是否可行、是否具备资格都须另查。 resource constraint连到available reviewers和schedule；work within constraints强调在边界内安排，而非直接假定边界可消除。",
+        "sourceRefs": [],
+        "title": "讨论通常怎样继续"
+      },
+      {
+        "blockId": "action",
+        "dimensions": [
+          "pragmaticAction"
+        ],
+        "text": "说话者在指出当前主要瓶颈条件，帮助团队把讨论集中在实际资源上。",
+        "sourceRefs": [],
+        "title": "说话者正在做什么"
+      },
+      {
+        "blockId": "workplace",
+        "dimensions": [
+          "workplaceUse"
+        ],
+        "text": "下面是迁移到制造业沟通的新例句；不代表原场景中已发生的决定。",
+        "sourceRefs": [],
+        "title": "迁移到工作情境"
+      }
+    ],
+    "workplaceUse": [
+      {
+        "en": "Reviewer availability is our main scheduling constraint.",
+        "zh": "评审人的可用性是我们的主要排期限制。",
+        "whenToUse": "说明资源边界。",
+        "limitation": "原创教学表达；具体权限和流程以实际约定为准。",
+        "origin": "original"
+      },
+      {
+        "en": "Can we change the sequence while staying within this constraint?",
+        "zh": "我们能在这个限制内调整顺序吗？",
+        "whenToUse": "探索不改变既定边界的方案。",
+        "limitation": "原创教学表达；具体权限和流程以实际约定为准。",
+        "origin": "original"
+      }
+    ],
+    "practiceRefs": [],
+    "edges": []
+  },
+  "practices": [],
+  "sources": [
+    {
+      "schemaVersion": 1,
+      "sourceId": "original-vocab",
+      "version": "2026-11-16",
+      "title": "原词库教学句／转述",
+      "url": "public/vocabulary.json",
+      "accessMode": "user_material",
+      "retrievedAt": "2026-11-16T00:00:00+08:00",
+      "coverage": "partial",
+      "rights": "用户授权处理原词库",
+      "limitations": [
+        "非外部作者逐字引文；保留原ID与原句"
+      ]
+    },
+    {
+      "schemaVersion": 1,
+      "sourceId": "oewn-2025",
+      "version": "2025",
+      "title": "Open English Wordnet 2025",
+      "url": "https://en-word.net/",
+      "accessMode": "licensed_snapshot",
+      "retrievedAt": "2026-11-16T00:00:00+08:00",
+      "coverage": "partial",
+      "rights": "CC BY 4.0 + Princeton notice",
+      "limitations": [
+        "本包仅选部分源义；中文非官方译文"
+      ]
+    },
+    {
+      "schemaVersion": 1,
+      "sourceId": "cambridge-constraint",
+      "version": "2026-11-16",
+      "title": "cambridge-constraint",
+      "url": "https://dictionary.cambridge.org/dictionary/english/constraint",
+      "accessMode": "indexed_excerpt",
+      "retrievedAt": "2026-11-16T00:00:00+08:00",
+      "coverage": "partial",
+      "rights": "必要短引与中文整理，不声称批量复制许可",
+      "limitations": [
+        "仅支持记录中的具体主张，不代表完整条目"
+      ]
+    }
+  ],
+  "verifiedIPA": "kənˈstreɪnt",
+  "dictionaryURL": "https://dictionary.cambridge.org/dictionary/english/constraint",
+  "historyURL": null
+}

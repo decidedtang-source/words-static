@@ -1,0 +1,452 @@
+{
+  "snapshot": {
+    "schemaVersion": 1,
+    "entryId": "V20261014-075",
+    "term": "verification method",
+    "quote": "Select a verification method for each requirement.",
+    "batch": "2026-10-14",
+    "originalFileSHA": "ec65d33d6da99ebad2577f6c9f9938499823d29d117f43532302cf964a4c60a3",
+    "quoteSHA": "954d46007be17876f9db12192a86d0be56cdeaa36002a241c52ab168b7c28585",
+    "originalIPA": "ˌver.ə.fəˈkeɪ.ʃən ˈmeθ.əd",
+    "originalPOS": "n. phrase",
+    "originalMeaning": "用于确认输出是否满足已规定要求的方法"
+  },
+  "selection": {
+    "schemaVersion": 1,
+    "entryId": "V20261014-075",
+    "version": "1",
+    "inventoryRefs": [
+      "inventory:V20261014-075"
+    ],
+    "selectedSenseIds": [
+      "verification%1:09:00::",
+      "method%1:09:00::"
+    ],
+    "reason": "按学习用途选择常见或易混义；这里不是语料频率排名。",
+    "general": "核实；用额外证据确认；方法；有系统的做法",
+    "senses": [
+      {
+        "senseId": "verification%1:09:00::",
+        "title": "核实；用额外证据确认",
+        "usageLabels": [
+          "n. phrase",
+          "精选学习义"
+        ],
+        "explanationZh": "核实；用额外证据确认",
+        "examples": [
+          {
+            "en": "We need independent verification of the figures.",
+            "zh": "这些数字需要独立核实。",
+            "origin": "original",
+            "sourceRef": null,
+            "usageNote": "原创教学例句，不是来源原话"
+          }
+        ],
+        "evidenceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-v.json/verification/n / verification%1:09:00::",
+            "supportedClaim": "additional proof that something that was believed (some fact or hypothesis or theory) is correct",
+            "url": "https://en-word.net/"
+          }
+        ]
+      },
+      {
+        "senseId": "method%1:09:00::",
+        "title": "方法；有系统的做法",
+        "usageLabels": [
+          "n. phrase",
+          "精选学习义"
+        ],
+        "explanationZh": "方法；有系统的做法",
+        "examples": [
+          {
+            "en": "We need a repeatable method.",
+            "zh": "我们需要可重复的方法。",
+            "origin": "original",
+            "sourceRef": null,
+            "usageNote": "原创教学例句，不是来源原话"
+          }
+        ],
+        "evidenceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-m.json/method/n / method%1:09:00::",
+            "supportedClaim": "a way of doing something, especially a systematic way; implies an orderly logical arrangement (usually in steps)",
+            "url": "https://en-word.net/"
+          }
+        ]
+      }
+    ]
+  },
+  "senses": [
+    {
+      "schemaVersion": 1,
+      "senseId": "verification%1:09:00::",
+      "lexicalEntryId": "lex:verification method",
+      "pos": "n. phrase",
+      "meaning": {
+        "definitionEn": "additional proof that something that was believed (some fact or hypothesis or theory) is correct",
+        "glossZh": "核实；用额外证据确认",
+        "glossOrigin": "editorial"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "oewn-2025",
+          "sourceVersion": "2025",
+          "locator": "entries-v.json/verification/n / verification%1:09:00::",
+          "supportedClaim": "additional proof that something that was believed (some fact or hypothesis or theory) is correct",
+          "url": "https://en-word.net/"
+        }
+      ],
+      "version": "1"
+    },
+    {
+      "schemaVersion": 1,
+      "senseId": "method%1:09:00::",
+      "lexicalEntryId": "lex:verification method",
+      "pos": "n. phrase",
+      "meaning": {
+        "definitionEn": "a way of doing something, especially a systematic way; implies an orderly logical arrangement (usually in steps)",
+        "glossZh": "方法；有系统的做法",
+        "glossOrigin": "editorial"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "oewn-2025",
+          "sourceVersion": "2025",
+          "locator": "entries-m.json/method/n / method%1:09:00::",
+          "supportedClaim": "a way of doing something, especially a systematic way; implies an orderly logical arrangement (usually in steps)",
+          "url": "https://en-word.net/"
+        }
+      ],
+      "version": "1"
+    },
+    {
+      "schemaVersion": 1,
+      "senseId": "web:nasa-verification",
+      "lexicalEntryId": "lex:verification method",
+      "pos": "n. phrase",
+      "meaning": {
+        "definitionEn": "verification provides objective evidence",
+        "glossZh": "对照规定要求取得符合性证据的方法",
+        "glossOrigin": "editorial"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "nasa-verification",
+          "sourceVersion": "2026-11-16",
+          "locator": "5.3 Product Verification; 5.4 Product Validation",
+          "supportedClaim": "Verification对照规定要求；validation关注预定使用环境和用户需求。检查、分析、演示、测试可作方法；具体选择依要求与场景，不能将NASA流程当成本公司制度。",
+          "url": "https://www.nasa.gov/reference/5-0-product-realization/"
+        }
+      ],
+      "version": "1"
+    }
+  ],
+  "inventory": {
+    "schemaVersion": 1,
+    "inventoryId": "inventory:V20261014-075",
+    "version": "1",
+    "lexicalEntryId": "lex:verification method",
+    "sources": [
+      "oewn-2025",
+      "nasa-verification"
+    ],
+    "senseIds": [
+      "verification%1:09:00::",
+      "method%1:09:00::",
+      "web:nasa-verification"
+    ],
+    "coverageStatus": "partial"
+  },
+  "context": {
+    "schemaVersion": 1,
+    "contextId": "V20261014-075-context",
+    "entryId": "V20261014-075",
+    "sourceRef": "original-vocab",
+    "quote": "Select a verification method for each requirement.",
+    "quoteSHA": "954d46007be17876f9db12192a86d0be56cdeaa36002a241c52ab168b7c28585",
+    "translation": "为每一项要求选择一种验证方法。",
+    "quoteType": "原词库教学例句／转述；未认定为外部作者逐字引文",
+    "meaning": "选择怎样取得产品符合每项规定要求的证据",
+    "qualifiers": {
+      "polarity": "affirmative",
+      "modality": [],
+      "conditions": [],
+      "agents": [],
+      "timeScope": null,
+      "excludedInferences": [
+        "NASA定义用于解释概念，不自动成为本公司的作业规定；原句没有选定具体方法。"
+      ]
+    },
+    "location": "external",
+    "senseRefs": [
+      "web:nasa-verification"
+    ],
+    "targetSpans": [
+      {
+        "start": 9,
+        "end": 28,
+        "text": "verification method",
+        "mappingType": "exact",
+        "note": "原句精确匹配；词形变化时不伪造span"
+      }
+    ],
+    "context": "仅以保留的这条原句为分析范围；未知背景不补造。",
+    "expressionExplanation": {
+      "kind": "technical",
+      "text": "选择怎样取得产品符合每项规定要求的证据",
+      "componentRefs": [
+        {
+          "sourceId": "nasa-verification",
+          "sourceVersion": "2026-11-16",
+          "locator": "5.3 Product Verification; 5.4 Product Validation",
+          "supportedClaim": "Verification对照规定要求；validation关注预定使用环境和用户需求。检查、分析、演示、测试可作方法；具体选择依要求与场景，不能将NASA流程当成本公司制度。",
+          "url": "https://www.nasa.gov/reference/5-0-product-realization/"
+        }
+      ],
+      "wholeExpressionRefs": [
+        {
+          "sourceId": "nasa-verification",
+          "sourceVersion": "2026-11-16",
+          "locator": "5.3 Product Verification; 5.4 Product Validation",
+          "supportedClaim": "Verification对照规定要求；validation关注预定使用环境和用户需求。检查、分析、演示、测试可作方法；具体选择依要求与场景，不能将NASA流程当成本公司制度。",
+          "url": "https://www.nasa.gov/reference/5-0-product-realization/"
+        }
+      ],
+      "boundary": "NASA定义用于解释概念，不自动成为本公司的作业规定；原句没有选定具体方法。",
+      "reviewerBasis": "待独立完整包核对表达身份与证据范围"
+    }
+  },
+  "history": {
+    "schemaVersion": 1,
+    "lexicalEntryId": "lex:verification method",
+    "version": "1",
+    "summary": "",
+    "claims": [],
+    "sourceRefs": [],
+    "limitations": [
+      "未核实历史资料，不编造词源或年代。"
+    ]
+  },
+  "bridge": {
+    "schemaVersion": 1,
+    "entryId": "V20261014-075",
+    "contextId": "V20261014-075-context",
+    "version": "1",
+    "location": "external",
+    "strategies": [
+      "needs_specialist_concept",
+      "evidenced_modern_link"
+    ],
+    "anchorRefs": [
+      "verification%1:09:00::"
+    ],
+    "targetRefs": [
+      "web:nasa-verification"
+    ],
+    "semanticText": "普通verification的核实义和method的方法义提供入口，但工程用法还需要“对照规定要求”的专业判准。这里依据系统工程资料补上这个判准，不靠两个普通义自行猜测。",
+    "boundary": "NASA定义用于解释概念，不自动成为本公司的作业规定；原句没有选定具体方法。",
+    "evidenceRefs": [
+      {
+        "sourceId": "nasa-verification",
+        "sourceVersion": "2026-11-16",
+        "locator": "5.3 Product Verification; 5.4 Product Validation",
+        "supportedClaim": "Verification对照规定要求；validation关注预定使用环境和用户需求。检查、分析、演示、测试可作方法；具体选择依要求与场景，不能将NASA流程当成本公司制度。",
+        "url": "https://www.nasa.gov/reference/5-0-product-realization/"
+      }
+    ],
+    "historyLink": null,
+    "historyClaimRefs": [],
+    "returnTargets": [
+      "wl-common",
+      "wl-history"
+    ]
+  },
+  "analysis": {
+    "schemaVersion": 1,
+    "entryId": "V20261014-075",
+    "contextId": "V20261014-075-context",
+    "version": "1",
+    "promptHash": "aaf3bd1e99daf47a70a2a158973652d67ff14dafcfc1748b3fc2a09d719885db",
+    "depth": "deep",
+    "depthReason": "工程判准不能仅由普通词义组合推出。",
+    "coverage": {
+      "syntax": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "syntax-concept"
+        ]
+      },
+      "concept": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "syntax-concept"
+        ]
+      },
+      "contrast": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "contrast"
+        ]
+      },
+      "languageGame": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "game-neighbors"
+        ]
+      },
+      "englishNeighbors": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "game-neighbors"
+        ]
+      },
+      "pragmaticAction": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "action"
+        ]
+      },
+      "workplaceUse": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "workplace"
+        ]
+      }
+    },
+    "blocks": [
+      {
+        "blockId": "syntax-concept",
+        "dimensions": [
+          "syntax",
+          "concept"
+        ],
+        "text": "Select是祈使动词；a verification method是宾语；for each requirement要求逐项考虑，并不是一个总测试自动覆盖所有要求。 现实问题是怎样证明产品做到了规格所要求的事。NASA的系统工程框架把检验、分析、演示和测试作为可选方法；方法应能提供相应要求所需的证据。",
+        "sourceRefs": [
+          {
+            "sourceId": "nasa-verification",
+            "sourceVersion": "2026-11-16",
+            "locator": "5.3 Product Verification; 5.4 Product Validation",
+            "supportedClaim": "Verification对照规定要求；validation关注预定使用环境和用户需求。检查、分析、演示、测试可作方法；具体选择依要求与场景，不能将NASA流程当成本公司制度。",
+            "url": "https://www.nasa.gov/reference/5-0-product-realization/"
+          }
+        ],
+        "title": "句子结构与当前所指"
+      },
+      {
+        "blockId": "contrast",
+        "dimensions": [
+          "contrast"
+        ],
+        "text": "verification对照规定要求；validation关注在预定用途与环境中是否适用。test是一种取证方法，不是verification的唯一同义词。",
+        "sourceRefs": [],
+        "title": "容易混淆的地方"
+      },
+      {
+        "blockId": "game-neighbors",
+        "dimensions": [
+          "languageGame",
+          "englishNeighbors"
+        ],
+        "text": "在验证策划中，相关人员把要求与方法、证据及判定条件对应起来。具体责任和批准权限仍依实际项目约定。 requirement、verification method、evidence、acceptance criterion形成取证链：哪项要求、怎样检查、留下什么结果、怎样判定。",
+        "sourceRefs": [],
+        "title": "讨论通常怎样继续"
+      },
+      {
+        "blockId": "action",
+        "dimensions": [
+          "pragmaticAction"
+        ],
+        "text": "说话者在布置验证方法选择，不是在宣布产品已经符合要求。",
+        "sourceRefs": [],
+        "title": "说话者正在做什么"
+      },
+      {
+        "blockId": "workplace",
+        "dimensions": [
+          "workplaceUse"
+        ],
+        "text": "下面是迁移到制造业沟通的新例句；不代表原场景中已发生的决定。",
+        "sourceRefs": [],
+        "title": "迁移到工作情境"
+      }
+    ],
+    "workplaceUse": [
+      {
+        "en": "Which verification method will we use for this dimensional requirement?",
+        "zh": "这项尺寸要求采用哪种验证方法？",
+        "whenToUse": "逐项策划证据。",
+        "limitation": "原创教学表达；具体权限和流程以实际约定为准。",
+        "origin": "original"
+      },
+      {
+        "en": "Please link each requirement to its verification evidence.",
+        "zh": "请把每项要求与对应验证证据关联起来。",
+        "whenToUse": "整理可追溯的验证记录。",
+        "limitation": "原创教学表达；具体权限和流程以实际约定为准。",
+        "origin": "original"
+      }
+    ],
+    "practiceRefs": [],
+    "edges": []
+  },
+  "practices": [],
+  "sources": [
+    {
+      "schemaVersion": 1,
+      "sourceId": "original-vocab",
+      "version": "2026-11-16",
+      "title": "原词库教学句／转述",
+      "url": "public/vocabulary.json",
+      "accessMode": "user_material",
+      "retrievedAt": "2026-11-16T00:00:00+08:00",
+      "coverage": "partial",
+      "rights": "用户授权处理原词库",
+      "limitations": [
+        "非外部作者逐字引文；保留原ID与原句"
+      ]
+    },
+    {
+      "schemaVersion": 1,
+      "sourceId": "oewn-2025",
+      "version": "2025",
+      "title": "Open English Wordnet 2025",
+      "url": "https://en-word.net/",
+      "accessMode": "licensed_snapshot",
+      "retrievedAt": "2026-11-16T00:00:00+08:00",
+      "coverage": "partial",
+      "rights": "CC BY 4.0 + Princeton notice",
+      "limitations": [
+        "本包仅选部分源义；中文非官方译文"
+      ]
+    },
+    {
+      "schemaVersion": 1,
+      "sourceId": "nasa-verification",
+      "version": "2026-11-16",
+      "title": "nasa-verification",
+      "url": "https://www.nasa.gov/reference/5-0-product-realization/",
+      "accessMode": "page",
+      "retrievedAt": "2026-11-16T00:00:00+08:00",
+      "coverage": "partial",
+      "rights": "必要短引与中文整理，不声称批量复制许可",
+      "limitations": [
+        "仅支持记录中的具体主张，不代表完整条目"
+      ]
+    }
+  ],
+  "verifiedIPA": null,
+  "dictionaryURL": "https://en-word.net/",
+  "historyURL": null
+}

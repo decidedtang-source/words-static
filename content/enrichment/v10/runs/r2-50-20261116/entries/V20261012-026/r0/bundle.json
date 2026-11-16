@@ -1,0 +1,394 @@
+{
+  "snapshot": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-026",
+    "term": "bottleneck",
+    "quote": "The approval step has become a bottleneck.",
+    "batch": "2026-10-12",
+    "originalFileSHA": "ec65d33d6da99ebad2577f6c9f9938499823d29d117f43532302cf964a4c60a3",
+    "quoteSHA": "226dbd8cbc6e8c2632a848111b268da5bf109b0a13840fa5a5b02d37617ec83e",
+    "originalIPA": "ˈbɑː.t̬əl.nek",
+    "originalPOS": "n.",
+    "originalMeaning": "限制整体进度或产出的关键环节"
+  },
+  "selection": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-026",
+    "version": "1",
+    "inventoryRefs": [
+      "inventory:V20261012-026"
+    ],
+    "selectedSenseIds": [
+      "bottleneck%1:25:00::",
+      "bottleneck%1:06:00::"
+    ],
+    "reason": "按学习用途选择常见或易混义；这里不是语料频率排名。",
+    "usageTip": "bottleneck常与process/production/approval搭配；先判断是否限制整体进展。",
+    "general": "限制流动或进展的狭窄处；瓶颈；瓶颈；瓶子的狭窄颈部",
+    "senses": [
+      {
+        "senseId": "bottleneck%1:25:00::",
+        "title": "限制流动或进展的狭窄处；瓶颈",
+        "usageLabels": [
+          "n.",
+          "精选学习义"
+        ],
+        "explanationZh": "限制流动或进展的狭窄处；瓶颈",
+        "examples": [
+          {
+            "en": "One inspection station became a bottleneck.",
+            "zh": "一个检验工位成了瓶颈。",
+            "origin": "original",
+            "sourceRef": null,
+            "usageNote": "限制流动或进展的狭窄处；瓶颈"
+          }
+        ],
+        "evidenceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-b.json/bottleneck/n / bottleneck%1:25:00::",
+            "supportedClaim": "a narrowing that reduces the flow through a channel",
+            "url": "https://en-word.net/"
+          }
+        ]
+      },
+      {
+        "senseId": "bottleneck%1:06:00::",
+        "title": "瓶颈；瓶子的狭窄颈部",
+        "usageLabels": [
+          "n.",
+          "精选学习义"
+        ],
+        "explanationZh": "瓶颈；瓶子的狭窄颈部",
+        "examples": [
+          {
+            "en": "The brush would not fit through the bottleneck.",
+            "zh": "刷子穿不过瓶颈。",
+            "origin": "original",
+            "sourceRef": null,
+            "usageNote": "瓶颈；瓶子的狭窄颈部"
+          }
+        ],
+        "evidenceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-b.json/bottleneck/n / bottleneck%1:06:00::",
+            "supportedClaim": "the narrow part of a bottle near the top",
+            "url": "https://en-word.net/"
+          }
+        ]
+      }
+    ]
+  },
+  "senses": [
+    {
+      "schemaVersion": 1,
+      "senseId": "bottleneck%1:25:00::",
+      "lexicalEntryId": "lex:bottleneck",
+      "pos": "n.",
+      "definitionOrigin": "licensed_verbatim",
+      "meaning": {
+        "definitionEn": "a narrowing that reduces the flow through a channel",
+        "glossZh": "限制流动或进展的狭窄处；瓶颈",
+        "glossOrigin": "editorial"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "oewn-2025",
+          "sourceVersion": "2025",
+          "locator": "entries-b.json/bottleneck/n / bottleneck%1:25:00::",
+          "supportedClaim": "a narrowing that reduces the flow through a channel",
+          "url": "https://en-word.net/"
+        }
+      ],
+      "version": "1"
+    },
+    {
+      "schemaVersion": 1,
+      "senseId": "bottleneck%1:06:00::",
+      "lexicalEntryId": "lex:bottleneck",
+      "pos": "n.",
+      "definitionOrigin": "licensed_verbatim",
+      "meaning": {
+        "definitionEn": "the narrow part of a bottle near the top",
+        "glossZh": "瓶颈；瓶子的狭窄颈部",
+        "glossOrigin": "editorial"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "oewn-2025",
+          "sourceVersion": "2025",
+          "locator": "entries-b.json/bottleneck/n / bottleneck%1:06:00::",
+          "supportedClaim": "the narrow part of a bottle near the top",
+          "url": "https://en-word.net/"
+        }
+      ],
+      "version": "1"
+    }
+  ],
+  "inventory": {
+    "schemaVersion": 1,
+    "inventoryId": "inventory:V20261012-026",
+    "version": "1",
+    "lexicalEntryId": "lex:bottleneck",
+    "sources": [
+      "oewn-2025"
+    ],
+    "senseIds": [
+      "bottleneck%1:25:00::",
+      "bottleneck%1:06:00::"
+    ],
+    "coverageStatus": "partial"
+  },
+  "context": {
+    "schemaVersion": 1,
+    "contextId": "V20261012-026-context",
+    "entryId": "V20261012-026",
+    "sourceRef": "original-vocab",
+    "quote": "The approval step has become a bottleneck.",
+    "quoteSHA": "226dbd8cbc6e8c2632a848111b268da5bf109b0a13840fa5a5b02d37617ec83e",
+    "translation": "审批环节已经成为瓶颈。",
+    "quoteType": "原词库教学例句／转述；未认定为外部作者逐字引文",
+    "meaning": "审批步骤正在限制流程进展",
+    "qualifiers": {
+      "polarity": "affirmative",
+      "modality": [],
+      "conditions": [],
+      "agents": [],
+      "timeScope": null,
+      "excludedInferences": [
+        "不能直接归咎于审批人，也不能由此推断可以取消审批。"
+      ]
+    },
+    "location": "selected",
+    "senseRefs": [
+      "bottleneck%1:25:00::"
+    ],
+    "targetSpans": [
+      {
+        "start": 31,
+        "end": 41,
+        "text": "bottleneck",
+        "mappingType": "exact",
+        "note": "原句精确匹配；词形变化时不伪造span"
+      }
+    ],
+    "context": "仅以保留的这条原句为分析范围；未知背景不补造。"
+  },
+  "history": {
+    "schemaVersion": 1,
+    "lexicalEntryId": "lex:bottleneck",
+    "version": "1",
+    "summary": "",
+    "claims": [],
+    "sourceRefs": [],
+    "limitations": [
+      "未核实历史资料，不编造词源或年代。"
+    ]
+  },
+  "bridge": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-026",
+    "contextId": "V20261012-026-context",
+    "version": "1",
+    "location": "selected",
+    "strategies": [
+      "direct",
+      "contextualization"
+    ],
+    "anchorRefs": [
+      "bottleneck%1:25:00::"
+    ],
+    "targetRefs": [
+      "bottleneck%1:25:00::"
+    ],
+    "semanticText": "源义的收窄、限制流动在这里落到工作流程：审批步骤限制任务推进。瓶子形状只是理解辅助，不是词史结论。",
+    "boundary": "不能直接归咎于审批人，也不能由此推断可以取消审批。",
+    "evidenceRefs": [
+      {
+        "sourceId": "oewn-2025",
+        "sourceVersion": "2025",
+        "locator": "entries-b.json/bottleneck/n / bottleneck%1:25:00::",
+        "supportedClaim": "a narrowing that reduces the flow through a channel",
+        "url": "https://en-word.net/"
+      }
+    ],
+    "historyLink": null,
+    "historyClaimRefs": [],
+    "returnTargets": [
+      "wl-common",
+      "wl-history"
+    ]
+  },
+  "analysis": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-026",
+    "contextId": "V20261012-026-context",
+    "version": "1",
+    "promptHash": "aaf3bd1e99daf47a70a2a158973652d67ff14dafcfc1748b3fc2a09d719885db",
+    "depth": "standard",
+    "depthReason": "需辨析相邻用法并保留原句的承诺或证据边界。",
+    "coverage": {
+      "syntax": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "syntax-concept"
+        ]
+      },
+      "concept": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "syntax-concept"
+        ]
+      },
+      "contrast": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "contrast"
+        ]
+      },
+      "languageGame": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "game-neighbors"
+        ]
+      },
+      "englishNeighbors": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "game-neighbors"
+        ]
+      },
+      "pragmaticAction": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "action"
+        ]
+      },
+      "workplaceUse": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "workplace"
+        ]
+      }
+    },
+    "blocks": [
+      {
+        "blockId": "syntax-concept",
+        "dimensions": [
+          "syntax",
+          "concept"
+        ],
+        "text": "The approval step是主语；has become表示从之前到现在形成了这种状态；a bottleneck是表语。 一处限制会影响通过它的工作流量或进度。原句判断限制位于审批步骤，但没有给出等待量、处理速度或根本原因。",
+        "sourceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-b.json/bottleneck/n / bottleneck%1:25:00::",
+            "supportedClaim": "a narrowing that reduces the flow through a channel",
+            "url": "https://en-word.net/"
+          }
+        ],
+        "title": "句子结构与当前所指"
+      },
+      {
+        "blockId": "contrast",
+        "dimensions": [
+          "contrast"
+        ],
+        "text": "bottleneck是限制整体流动的环节；a slow task只是耗时较长的任务，不一定限制整体。解决单个延误也未必解除系统瓶颈。",
+        "sourceRefs": [],
+        "title": "容易混淆的地方"
+      },
+      {
+        "blockId": "game-neighbors",
+        "dimensions": [
+          "languageGame",
+          "englishNeighbors"
+        ],
+        "text": "可核对排队量、处理能力、等待原因及前后环节，再决定是否调整资料质量、审批节奏或资源。 throughput、queue、waiting time能帮助验证是否确为瓶颈；remove a bottleneck要看整体效果而不只看局部速度。",
+        "sourceRefs": [],
+        "title": "讨论通常怎样继续"
+      },
+      {
+        "blockId": "action",
+        "dimensions": [
+          "pragmaticAction"
+        ],
+        "text": "说话者在指出当前流程受限的位置，开启原因与改善讨论。",
+        "sourceRefs": [],
+        "title": "说话者正在做什么"
+      },
+      {
+        "blockId": "workplace",
+        "dimensions": [
+          "workplaceUse"
+        ],
+        "text": "下面是迁移到制造业沟通的新例句；不代表原场景中已发生的决定。",
+        "sourceRefs": [],
+        "title": "迁移到工作情境"
+      }
+    ],
+    "workplaceUse": [
+      {
+        "en": "Is inspection really the bottleneck, or are samples arriving late?",
+        "zh": "检验真是瓶颈，还是样品到得太晚？",
+        "whenToUse": "区分排队限制与上游延迟。",
+        "limitation": "原创教学表达；具体权限和流程以实际约定为准。",
+        "origin": "original"
+      },
+      {
+        "en": "We need data before deciding how to remove the approval bottleneck.",
+        "zh": "我们需要数据，再决定如何消除审批瓶颈。",
+        "whenToUse": "避免凭直觉改流程。",
+        "limitation": "原创教学表达；具体权限和流程以实际约定为准。",
+        "origin": "original"
+      }
+    ],
+    "practiceRefs": [],
+    "edges": []
+  },
+  "practices": [],
+  "sources": [
+    {
+      "schemaVersion": 1,
+      "sourceId": "original-vocab",
+      "version": "2026-11-16",
+      "title": "原词库教学句／转述",
+      "url": "public/vocabulary.json",
+      "accessMode": "user_material",
+      "retrievedAt": "2026-11-16T01:45:06.410Z",
+      "coverage": "partial",
+      "rights": "用户授权处理原词库",
+      "limitations": [
+        "非外部作者逐字引文；保留原ID与原句"
+      ]
+    },
+    {
+      "schemaVersion": 1,
+      "sourceId": "oewn-2025",
+      "version": "2025",
+      "title": "Open English Wordnet 2025",
+      "url": "https://en-word.net/",
+      "accessMode": "licensed_snapshot",
+      "retrievedAt": "2026-11-16T01:45:06.410Z",
+      "coverage": "partial",
+      "rights": "CC BY 4.0 + Princeton notice",
+      "limitations": [
+        "本包仅选部分源义；中文非官方译文"
+      ]
+    }
+  ],
+  "verifiedIPA": null,
+  "dictionaryURL": "https://en-word.net/",
+  "historyURL": null
+}

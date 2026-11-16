@@ -1,0 +1,155 @@
+{
+  "status": "pass",
+  "type": "synthetic adapter regression, not trial content",
+  "rows": [
+    {
+      "width": 320,
+      "scheme": "light",
+      "word": "scope",
+      "status": "pass"
+    },
+    {
+      "width": 320,
+      "scheme": "light",
+      "word": "leverage",
+      "status": "pass"
+    },
+    {
+      "width": 320,
+      "scheme": "light",
+      "word": "absorb",
+      "status": "pass"
+    },
+    {
+      "width": 320,
+      "scheme": "dark",
+      "word": "scope",
+      "status": "pass"
+    },
+    {
+      "width": 320,
+      "scheme": "dark",
+      "word": "leverage",
+      "status": "pass"
+    },
+    {
+      "width": 320,
+      "scheme": "dark",
+      "word": "absorb",
+      "status": "pass"
+    },
+    {
+      "width": 390,
+      "scheme": "light",
+      "word": "scope",
+      "status": "pass"
+    },
+    {
+      "width": 390,
+      "scheme": "light",
+      "word": "leverage",
+      "status": "pass"
+    },
+    {
+      "width": 390,
+      "scheme": "light",
+      "word": "absorb",
+      "status": "pass"
+    },
+    {
+      "width": 390,
+      "scheme": "dark",
+      "word": "scope",
+      "status": "pass"
+    },
+    {
+      "width": 390,
+      "scheme": "dark",
+      "word": "leverage",
+      "status": "pass"
+    },
+    {
+      "width": 390,
+      "scheme": "dark",
+      "word": "absorb",
+      "status": "pass"
+    },
+    {
+      "width": 768,
+      "scheme": "light",
+      "word": "scope",
+      "status": "pass"
+    },
+    {
+      "width": 768,
+      "scheme": "light",
+      "word": "leverage",
+      "status": "pass"
+    },
+    {
+      "width": 768,
+      "scheme": "light",
+      "word": "absorb",
+      "status": "pass"
+    },
+    {
+      "width": 768,
+      "scheme": "dark",
+      "word": "scope",
+      "status": "pass"
+    },
+    {
+      "width": 768,
+      "scheme": "dark",
+      "word": "leverage",
+      "status": "pass"
+    },
+    {
+      "width": 768,
+      "scheme": "dark",
+      "word": "absorb",
+      "status": "pass"
+    },
+    {
+      "width": 1440,
+      "scheme": "light",
+      "word": "scope",
+      "status": "pass"
+    },
+    {
+      "width": 1440,
+      "scheme": "light",
+      "word": "leverage",
+      "status": "pass"
+    },
+    {
+      "width": 1440,
+      "scheme": "light",
+      "word": "absorb",
+      "status": "pass"
+    },
+    {
+      "width": 1440,
+      "scheme": "dark",
+      "word": "scope",
+      "status": "pass"
+    },
+    {
+      "width": 1440,
+      "scheme": "dark",
+      "word": "leverage",
+      "status": "pass"
+    },
+    {
+      "width": 1440,
+      "scheme": "dark",
+      "word": "absorb",
+      "status": "pass"
+    }
+  ],
+  "exceptions": [
+    "dictionary partial inventory body",
+    "learning example attribution footer",
+    "M09 explicit synthetic v2 fixture"
+  ]
+}

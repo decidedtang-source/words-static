@@ -1,0 +1,21 @@
+{
+  "reviewer": "root assistant; actual image inspection",
+  "status": "pass_with_baseline_notes",
+  "images": [
+    "qa-390.png",
+    "deep-320-light.png",
+    "deep-390-light.png",
+    "deep-768-light.png",
+    "deep-1440-dark.png"
+  ],
+  "observations": [
+    "Mobile/320 wraps English and Chinese within reader; bottom navigation remains reachable.",
+    "Tablet retains continuous paragraphs and bottom navigation; desktop retains side navigation.",
+    "Both independent history regions and continuous analysis keep original template roles; no empty frame.",
+    "Dark theme review-control labels retain existing low contrast against the outer white canvas; unchanged baseline detail, not fixed as an unsolicited theme redesign."
+  ],
+  "limitations": [
+    "Physical devices not tested.",
+    "Screenshots show viewport portions of the continuous scroll area, not all50 full pages."
+  ]
+}

@@ -1,0 +1,347 @@
+{
+  "snapshot": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-036",
+    "term": "handover",
+    "quote": "A clear handover will help the next team start smoothly.",
+    "batch": "2026-10-12",
+    "originalFileSHA": "ec65d33d6da99ebad2577f6c9f9938499823d29d117f43532302cf964a4c60a3",
+    "quoteSHA": "3886b46880af39f857e1f4f776670310957e90fedd505e96bf84ce7cf627abc4",
+    "originalIPA": "ˈhænd.oʊ.vɚ",
+    "originalPOS": "n.",
+    "originalMeaning": "工作、信息和责任的正式交接"
+  },
+  "selection": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-036",
+    "version": "1",
+    "inventoryRefs": [
+      "inventory:V20261012-036"
+    ],
+    "selectedSenseIds": [
+      "handover%1:04:00::"
+    ],
+    "reason": "按学习用途选择常见或易混义；这里不是语料频率排名。",
+    "usageTip": "名词handover；动词常写hand over something to someone。",
+    "general": "移交；交接责任、控制或事物",
+    "senses": [
+      {
+        "senseId": "handover%1:04:00::",
+        "title": "移交；交接责任、控制或事物",
+        "usageLabels": [
+          "n.",
+          "精选学习义"
+        ],
+        "explanationZh": "移交；交接责任、控制或事物",
+        "examples": [
+          {
+            "en": "The handover included the latest drawings.",
+            "zh": "交接包含了最新图纸。",
+            "origin": "original",
+            "sourceRef": null,
+            "usageNote": "移交；交接责任、控制或事物"
+          }
+        ],
+        "evidenceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-h.json/handover/n / handover%1:04:00::",
+            "supportedClaim": "act of relinquishing property or authority etc",
+            "url": "https://en-word.net/"
+          }
+        ]
+      }
+    ]
+  },
+  "senses": [
+    {
+      "schemaVersion": 1,
+      "senseId": "handover%1:04:00::",
+      "lexicalEntryId": "lex:handover",
+      "pos": "n.",
+      "definitionOrigin": "licensed_verbatim",
+      "meaning": {
+        "definitionEn": "act of relinquishing property or authority etc",
+        "glossZh": "移交；交接责任、控制或事物",
+        "glossOrigin": "editorial"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "oewn-2025",
+          "sourceVersion": "2025",
+          "locator": "entries-h.json/handover/n / handover%1:04:00::",
+          "supportedClaim": "act of relinquishing property or authority etc",
+          "url": "https://en-word.net/"
+        }
+      ],
+      "version": "1"
+    }
+  ],
+  "inventory": {
+    "schemaVersion": 1,
+    "inventoryId": "inventory:V20261012-036",
+    "version": "1",
+    "lexicalEntryId": "lex:handover",
+    "sources": [
+      "oewn-2025"
+    ],
+    "senseIds": [
+      "handover%1:04:00::"
+    ],
+    "coverageStatus": "partial"
+  },
+  "context": {
+    "schemaVersion": 1,
+    "contextId": "V20261012-036-context",
+    "entryId": "V20261012-036",
+    "sourceRef": "original-vocab",
+    "quote": "A clear handover will help the next team start smoothly.",
+    "quoteSHA": "3886b46880af39f857e1f4f776670310957e90fedd505e96bf84ce7cf627abc4",
+    "translation": "清楚的交接将有助于下一个团队顺利启动。",
+    "quoteType": "原词库教学例句／转述；未认定为外部作者逐字引文",
+    "meaning": "让接手团队了解并接续工作的交接",
+    "qualifiers": {
+      "polarity": "affirmative",
+      "modality": [
+        "will help (expected assistance, not guarantee)"
+      ],
+      "conditions": [],
+      "agents": [
+        "the next team (receiving team)"
+      ],
+      "timeScope": "next team’s start (no date)",
+      "excludedInferences": [
+        "will help表示有帮助，不是保证顺利；未说明交接已经完成。"
+      ]
+    },
+    "location": "selected",
+    "senseRefs": [
+      "handover%1:04:00::"
+    ],
+    "targetSpans": [
+      {
+        "start": 8,
+        "end": 16,
+        "text": "handover",
+        "mappingType": "exact",
+        "note": "原句精确匹配；词形变化时不伪造span"
+      }
+    ],
+    "context": "仅以保留的这条原句为分析范围；未知背景不补造。"
+  },
+  "history": {
+    "schemaVersion": 1,
+    "lexicalEntryId": "lex:handover",
+    "version": "1",
+    "summary": "",
+    "claims": [],
+    "sourceRefs": [],
+    "limitations": [
+      "未核实历史资料，不编造词源或年代。"
+    ]
+  },
+  "bridge": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-036",
+    "contextId": "V20261012-036-context",
+    "version": "1",
+    "location": "selected",
+    "strategies": [
+      "direct",
+      "contextualization"
+    ],
+    "anchorRefs": [
+      "handover%1:04:00::"
+    ],
+    "targetRefs": [
+      "handover%1:04:00::"
+    ],
+    "semanticText": "一般移交义在这里落实为团队之间的工作接续；不必局限于财产所有权转让。",
+    "boundary": "will help表示有帮助，不是保证顺利；未说明交接已经完成。",
+    "evidenceRefs": [
+      {
+        "sourceId": "oewn-2025",
+        "sourceVersion": "2025",
+        "locator": "entries-h.json/handover/n / handover%1:04:00::",
+        "supportedClaim": "act of relinquishing property or authority etc",
+        "url": "https://en-word.net/"
+      }
+    ],
+    "historyLink": null,
+    "historyClaimRefs": [],
+    "returnTargets": [
+      "wl-common",
+      "wl-history"
+    ]
+  },
+  "analysis": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-036",
+    "contextId": "V20261012-036-context",
+    "version": "1",
+    "promptHash": "aaf3bd1e99daf47a70a2a158973652d67ff14dafcfc1748b3fc2a09d719885db",
+    "depth": "standard",
+    "depthReason": "需辨析相邻用法并保留原句的承诺或证据边界。",
+    "coverage": {
+      "syntax": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "syntax-concept"
+        ]
+      },
+      "concept": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "syntax-concept"
+        ]
+      },
+      "contrast": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "contrast"
+        ]
+      },
+      "languageGame": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "game-neighbors"
+        ]
+      },
+      "englishNeighbors": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "game-neighbors"
+        ]
+      },
+      "pragmaticAction": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "action"
+        ]
+      },
+      "workplaceUse": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "workplace"
+        ]
+      }
+    },
+    "blocks": [
+      {
+        "blockId": "syntax-concept",
+        "dimensions": [
+          "syntax",
+          "concept"
+        ],
+        "text": "A clear handover是主语；will help说明预期帮助；the next team是start的执行者。 交接需要让接手者获得继续工作所需的信息与事项。原句并未列出固定清单，也没有保证仅凭交接就不会遇到问题。",
+        "sourceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-h.json/handover/n / handover%1:04:00::",
+            "supportedClaim": "act of relinquishing property or authority etc",
+            "url": "https://en-word.net/"
+          }
+        ],
+        "title": "句子结构与当前所指"
+      },
+      {
+        "blockId": "contrast",
+        "dimensions": [
+          "contrast"
+        ],
+        "text": "handover强调从一方移交到另一方；status update只是告知当前情况，不必意味着责任或工作已经转交。",
+        "sourceRefs": [],
+        "title": "容易混淆的地方"
+      },
+      {
+        "blockId": "game-neighbors",
+        "dimensions": [
+          "languageGame",
+          "englishNeighbors"
+        ],
+        "text": "可以核对最新版本、未决问题、下一步及接手者的理解，让交接不仅是发送文件；具体接收标准按实际约定。 handover notes留下信息；outstanding issues防止未决事项丢失；receiving team强调需要确认接收与理解。",
+        "sourceRefs": [],
+        "title": "讨论通常怎样继续"
+      },
+      {
+        "blockId": "action",
+        "dimensions": [
+          "pragmaticAction"
+        ],
+        "text": "说话者在强调交接清晰度对后续启动的作用。",
+        "sourceRefs": [],
+        "title": "说话者正在做什么"
+      },
+      {
+        "blockId": "workplace",
+        "dimensions": [
+          "workplaceUse"
+        ],
+        "text": "下面是迁移到制造业沟通的新例句；不代表原场景中已发生的决定。",
+        "sourceRefs": [],
+        "title": "迁移到工作情境"
+      }
+    ],
+    "workplaceUse": [
+      {
+        "en": "Please include the open issues in the handover notes.",
+        "zh": "请把未决问题写进交接记录。",
+        "whenToUse": "避免事项在团队间丢失。",
+        "limitation": "原创教学表达；具体权限和流程以实际约定为准。",
+        "origin": "original"
+      },
+      {
+        "en": "Has the receiving team confirmed what remains to be done?",
+        "zh": "接手团队是否确认还有哪些工作待完成？",
+        "whenToUse": "核对接收者理解。",
+        "limitation": "原创教学表达；具体权限和流程以实际约定为准。",
+        "origin": "original"
+      }
+    ],
+    "practiceRefs": [],
+    "edges": []
+  },
+  "practices": [],
+  "sources": [
+    {
+      "schemaVersion": 1,
+      "sourceId": "original-vocab",
+      "version": "2026-11-16",
+      "title": "原词库教学句／转述",
+      "url": "public/vocabulary.json",
+      "accessMode": "user_material",
+      "retrievedAt": "2026-11-16T01:45:06.410Z",
+      "coverage": "partial",
+      "rights": "用户授权处理原词库",
+      "limitations": [
+        "非外部作者逐字引文；保留原ID与原句"
+      ]
+    },
+    {
+      "schemaVersion": 1,
+      "sourceId": "oewn-2025",
+      "version": "2025",
+      "title": "Open English Wordnet 2025",
+      "url": "https://en-word.net/",
+      "accessMode": "licensed_snapshot",
+      "retrievedAt": "2026-11-16T01:45:06.410Z",
+      "coverage": "partial",
+      "rights": "CC BY 4.0 + Princeton notice",
+      "limitations": [
+        "本包仅选部分源义；中文非官方译文"
+      ]
+    }
+  ],
+  "verifiedIPA": null,
+  "dictionaryURL": "https://en-word.net/",
+  "historyURL": null
+}

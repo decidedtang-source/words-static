@@ -1,3 +1,7 @@
 
 # Preserve byte-identical frozen artifacts and their SHA-256 receipts.
 public/previews/word-layout-v6-20261116/** -text
+content/enrichment/v10/** -text
+scripts/word-content/** -text
+word-page/modules/analysis/view-v2.html -text
+docs/roadmap/v10/full-plan-r2/** -text

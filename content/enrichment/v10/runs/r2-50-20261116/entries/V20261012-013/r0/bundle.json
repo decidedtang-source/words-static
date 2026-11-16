@@ -1,0 +1,345 @@
+{
+  "snapshot": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-013",
+    "term": "allocate",
+    "quote": "We should allocate more time to the initial review.",
+    "batch": "2026-10-12",
+    "originalFileSHA": "ec65d33d6da99ebad2577f6c9f9938499823d29d117f43532302cf964a4c60a3",
+    "quoteSHA": "678418ad6820e3371390b218fb3f8f9ea3d02223516a9819afb7212455414617",
+    "originalIPA": "ˈæl.ə.keɪt",
+    "originalPOS": "v.",
+    "originalMeaning": "把时间、人员或资源分配给某项工作"
+  },
+  "selection": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-013",
+    "version": "1",
+    "inventoryRefs": [
+      "inventory:V20261012-013"
+    ],
+    "selectedSenseIds": [
+      "allocate%2:40:00::"
+    ],
+    "reason": "按学习用途选择常见或易混义；这里不是语料频率排名。",
+    "usageTip": "allocate something to/for something；说清分配的资源与用途。",
+    "general": "按计划分配资源或作专门用途",
+    "senses": [
+      {
+        "senseId": "allocate%2:40:00::",
+        "title": "按计划分配资源或作专门用途",
+        "usageLabels": [
+          "v.",
+          "精选学习义"
+        ],
+        "explanationZh": "按计划分配资源或作专门用途",
+        "examples": [
+          {
+            "en": "We allocated two hours to the inspection.",
+            "zh": "我们给检验分配了两个小时。",
+            "origin": "original",
+            "sourceRef": null,
+            "usageNote": "按计划分配资源或作专门用途"
+          }
+        ],
+        "evidenceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-a.json/allocate/v / allocate%2:40:00::",
+            "supportedClaim": "distribute according to a plan or set apart for a special purpose",
+            "url": "https://en-word.net/"
+          }
+        ]
+      }
+    ]
+  },
+  "senses": [
+    {
+      "schemaVersion": 1,
+      "senseId": "allocate%2:40:00::",
+      "lexicalEntryId": "lex:allocate",
+      "pos": "v.",
+      "definitionOrigin": "licensed_verbatim",
+      "meaning": {
+        "definitionEn": "distribute according to a plan or set apart for a special purpose",
+        "glossZh": "按计划分配资源或作专门用途",
+        "glossOrigin": "editorial"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "oewn-2025",
+          "sourceVersion": "2025",
+          "locator": "entries-a.json/allocate/v / allocate%2:40:00::",
+          "supportedClaim": "distribute according to a plan or set apart for a special purpose",
+          "url": "https://en-word.net/"
+        }
+      ],
+      "version": "1"
+    }
+  ],
+  "inventory": {
+    "schemaVersion": 1,
+    "inventoryId": "inventory:V20261012-013",
+    "version": "1",
+    "lexicalEntryId": "lex:allocate",
+    "sources": [
+      "oewn-2025"
+    ],
+    "senseIds": [
+      "allocate%2:40:00::"
+    ],
+    "coverageStatus": "partial"
+  },
+  "context": {
+    "schemaVersion": 1,
+    "contextId": "V20261012-013-context",
+    "entryId": "V20261012-013",
+    "sourceRef": "original-vocab",
+    "quote": "We should allocate more time to the initial review.",
+    "quoteSHA": "678418ad6820e3371390b218fb3f8f9ea3d02223516a9819afb7212455414617",
+    "translation": "我们应该给初次评审分配更多时间。",
+    "quoteType": "原词库教学例句／转述；未认定为外部作者逐字引文",
+    "meaning": "建议增加初次评审可使用的时间",
+    "qualifiers": {
+      "polarity": "affirmative",
+      "modality": [
+        "should"
+      ],
+      "conditions": [],
+      "agents": [],
+      "timeScope": null,
+      "excludedInferences": [
+        "should不是已批准；more不是无限增加，也没有指定从哪项任务挪时间。"
+      ]
+    },
+    "location": "selected",
+    "senseRefs": [
+      "allocate%2:40:00::"
+    ],
+    "targetSpans": [
+      {
+        "start": 10,
+        "end": 18,
+        "text": "allocate",
+        "mappingType": "exact",
+        "note": "原句精确匹配；词形变化时不伪造span"
+      }
+    ],
+    "context": "仅以保留的这条原句为分析范围；未知背景不补造。"
+  },
+  "history": {
+    "schemaVersion": 1,
+    "lexicalEntryId": "lex:allocate",
+    "version": "1",
+    "summary": "",
+    "claims": [],
+    "sourceRefs": [],
+    "limitations": [
+      "未核实历史资料，不编造词源或年代。"
+    ]
+  },
+  "bridge": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-013",
+    "contextId": "V20261012-013-context",
+    "version": "1",
+    "location": "selected",
+    "strategies": [
+      "direct",
+      "contextualization"
+    ],
+    "anchorRefs": [
+      "allocate%2:40:00::"
+    ],
+    "targetRefs": [
+      "allocate%2:40:00::"
+    ],
+    "semanticText": "从资源分配义进入，当前资源是时间，接受资源的是初次评审。无需另造专业词义。",
+    "boundary": "should不是已批准；more不是无限增加，也没有指定从哪项任务挪时间。",
+    "evidenceRefs": [
+      {
+        "sourceId": "oewn-2025",
+        "sourceVersion": "2025",
+        "locator": "entries-a.json/allocate/v / allocate%2:40:00::",
+        "supportedClaim": "distribute according to a plan or set apart for a special purpose",
+        "url": "https://en-word.net/"
+      }
+    ],
+    "historyLink": null,
+    "historyClaimRefs": [],
+    "returnTargets": [
+      "wl-common",
+      "wl-history"
+    ]
+  },
+  "analysis": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-013",
+    "contextId": "V20261012-013-context",
+    "version": "1",
+    "promptHash": "aaf3bd1e99daf47a70a2a158973652d67ff14dafcfc1748b3fc2a09d719885db",
+    "depth": "standard",
+    "depthReason": "需辨析相邻用法并保留原句的承诺或证据边界。",
+    "coverage": {
+      "syntax": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "syntax-concept"
+        ]
+      },
+      "concept": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "syntax-concept"
+        ]
+      },
+      "contrast": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "contrast"
+        ]
+      },
+      "languageGame": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "game-neighbors"
+        ]
+      },
+      "englishNeighbors": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "game-neighbors"
+        ]
+      },
+      "pragmaticAction": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "action"
+        ]
+      },
+      "workplaceUse": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "workplace"
+        ]
+      }
+    },
+    "blocks": [
+      {
+        "blockId": "syntax-concept",
+        "dimensions": [
+          "syntax",
+          "concept"
+        ],
+        "text": "should提出建议；allocate的宾语是more time；to the initial review说明资源投向。 时间被作为有限资源安排给一项活动。more表示相对当前安排增加，但没有给出新增时长或资金批准。",
+        "sourceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-a.json/allocate/v / allocate%2:40:00::",
+            "supportedClaim": "distribute according to a plan or set apart for a special purpose",
+            "url": "https://en-word.net/"
+          }
+        ],
+        "title": "句子结构与当前所指"
+      },
+      {
+        "blockId": "contrast",
+        "dimensions": [
+          "contrast"
+        ],
+        "text": "allocate是分配资源；estimate是估计需要多少。估计评审需要三小时，不等于日程已经给足三小时。",
+        "sourceRefs": [],
+        "title": "容易混淆的地方"
+      },
+      {
+        "blockId": "game-neighbors",
+        "dimensions": [
+          "languageGame",
+          "englishNeighbors"
+        ],
+        "text": "应结合评审范围、参与者和已有日程讨论调整，并核对增加时间对其他事项的影响。 allocate time/resources to连接资源与用途；time allocation是分配结果；available capacity帮助检查分配能否兑现。",
+        "sourceRefs": [],
+        "title": "讨论通常怎样继续"
+      },
+      {
+        "blockId": "action",
+        "dimensions": [
+          "pragmaticAction"
+        ],
+        "text": "说话者在倡议调整时间安排，而不是报告调整已生效。",
+        "sourceRefs": [],
+        "title": "说话者正在做什么"
+      },
+      {
+        "blockId": "workplace",
+        "dimensions": [
+          "workplaceUse"
+        ],
+        "text": "下面是迁移到制造业沟通的新例句；不代表原场景中已发生的决定。",
+        "sourceRefs": [],
+        "title": "迁移到工作情境"
+      }
+    ],
+    "workplaceUse": [
+      {
+        "en": "How much time can we allocate to the tooling review?",
+        "zh": "我们能给工装评审分配多少时间？",
+        "whenToUse": "核对可用评审时间。",
+        "limitation": "原创教学表达；具体权限和流程以实际约定为准。",
+        "origin": "original"
+      },
+      {
+        "en": "We should allocate inspection capacity before confirming the trial date.",
+        "zh": "我们应在确认试验日期前分配检验能力。",
+        "whenToUse": "把资源安排与日期承诺连接。",
+        "limitation": "原创教学表达；具体权限和流程以实际约定为准。",
+        "origin": "original"
+      }
+    ],
+    "practiceRefs": [],
+    "edges": []
+  },
+  "practices": [],
+  "sources": [
+    {
+      "schemaVersion": 1,
+      "sourceId": "original-vocab",
+      "version": "2026-11-16",
+      "title": "原词库教学句／转述",
+      "url": "public/vocabulary.json",
+      "accessMode": "user_material",
+      "retrievedAt": "2026-11-16T01:45:06.410Z",
+      "coverage": "partial",
+      "rights": "用户授权处理原词库",
+      "limitations": [
+        "非外部作者逐字引文；保留原ID与原句"
+      ]
+    },
+    {
+      "schemaVersion": 1,
+      "sourceId": "oewn-2025",
+      "version": "2025",
+      "title": "Open English Wordnet 2025",
+      "url": "https://en-word.net/",
+      "accessMode": "licensed_snapshot",
+      "retrievedAt": "2026-11-16T01:45:06.410Z",
+      "coverage": "partial",
+      "rights": "CC BY 4.0 + Princeton notice",
+      "limitations": [
+        "本包仅选部分源义；中文非官方译文"
+      ]
+    }
+  ],
+  "verifiedIPA": null,
+  "dictionaryURL": "https://en-word.net/",
+  "historyURL": null
+}

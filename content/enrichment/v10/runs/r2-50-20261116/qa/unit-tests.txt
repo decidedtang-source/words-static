@@ -1,0 +1,49 @@
+
+> words-static@1.0.0 test
+> node --test tests/*.test.mjs
+
+✔ all published entries provide short meanings and two bilingual examples without changing IDs (27.7194ms)
+✔ dictionary evidence separates Chinese senses, phrase context and old card identities (3.9488ms)
+✔ copy keeps exact target and separates generated context from quotations (0.4754ms)
+✔ bookmark namespaces cannot merge dictionary entries with source cards; invalid backups fail (0.7113ms)
+✔ stale tab undo cannot select another tab unseen answer (6.3961ms)
+✔ settings and unchecked marks transfer only by explicit import preference (0.8436ms)
+✔ long undo history and backup validation complete without recursive explosion (112.1245ms)
+✔ ratings persist, retry idempotently, stale state rejected, undo preserves audit (25.5922ms)
+✔ backup validates, merges idempotently and refuses divergent card histories (2.3586ms)
+✔ network-labelled English voices require explicit compatibility opt-in (2.1376ms)
+✔ empty voice list can try browser default only after opt-in and late voices do not auto-play (0.5303ms)
+✔ unknown schema, fields and unresolved definitive meaning are rejected (1.9284ms)
+✔ context spans use codepoints and quote hash is immutable (1.1531ms)
+✔ analysis has all seven justified dimensions and two to five original uses (0.5066ms)
+✔ reference validation catches missing senses instead of silently rendering fallback (1.1946ms)
+✔ source types and enums and dangling bridge/practice references are rejected (0.3786ms)
+✔ historical and contextual evidence cannot reference a nonexistent source (0.2598ms)
+✔ original three entries and all first eight views preserve baseline exactly (31.468ms)
+✔ missing dependencies fail rather than fabricate generic meaning (0.9537ms)
+✔ partial same-revision files can finish, different content cannot overwrite (16.6389ms)
+✔ journal replays only exact prior manifest after interruption and clears dead-process lock (22.0077ms)
+✔ source and practice versions bind input; depth does not choose bridge strategy (2.2811ms)
+✔ quote modification and weak technical evidence block draft (0.9989ms)
+✔ direct caller cannot bypass actual prompt and generation-contract binding (0.2479ms)
+✔ 403 and indexed excerpt cannot supply full entry coverage (3.9567ms)
+✔ upstream source edits invalidate a formerly bound sense before rendering (0.5706ms)
+✔ source locator required and components do not prove technical whole expression (0.3497ms)
+✔ sync alone denied; current hold overrides authorization (0.8669ms)
+✔ canonical fingerprints preserve arrays and ignore only recorded timestamps (0.7396ms)
+✔ review binds actual input and draft, requires independent full package scope (0.6201ms)
+✔ blocked resume remains blocked; third revision rejected; accepted cannot mutate (0.3942ms)
+✔ same input changed draft invalidates review; durable revisions never overwrite (11.1783ms)
+✔ candidate sealing rejects missing reviews and expansion before calibration (0.3651ms)
+✔ one arbitrary checkbox cannot authorize a complete package (0.2357ms)
+✔ module contracts assemble all existing word fields and preserve source ownership (29.5329ms)
+✔ committed generated page matches the locked module assembly (42.5838ms)
+✔ locks detect a module edit and identify downstream review without changing unrelated modules (21.666ms)
+ℹ tests 37
+ℹ suites 0
+ℹ pass 37
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 360.6717

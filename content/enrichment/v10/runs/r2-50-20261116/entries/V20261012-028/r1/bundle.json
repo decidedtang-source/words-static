@@ -1,0 +1,345 @@
+{
+  "snapshot": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-028",
+    "term": "setback",
+    "quote": "The missing approval is a temporary setback, not a reason to stop the project.",
+    "batch": "2026-10-12",
+    "originalFileSHA": "ec65d33d6da99ebad2577f6c9f9938499823d29d117f43532302cf964a4c60a3",
+    "quoteSHA": "2177a070c3c24807a84a9ae38c19eab4e341e361a51f90339e22a1ce3ac1a4e2",
+    "originalIPA": "ˈset.bæk",
+    "originalPOS": "n.",
+    "originalMeaning": "使原定进展受到阻碍的挫折或延误"
+  },
+  "selection": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-028",
+    "version": "1",
+    "inventoryRefs": [
+      "inventory:V20261012-028"
+    ],
+    "selectedSenseIds": [
+      "setback%1:11:01::"
+    ],
+    "reason": "按学习用途选择常见或易混义；这里不是语料频率排名。",
+    "usageTip": "a setback是一次受挫；temporary setback仍需要具体恢复行动。",
+    "general": "妨碍进展的不利事件；挫折",
+    "senses": [
+      {
+        "senseId": "setback%1:11:01::",
+        "title": "妨碍进展的不利事件；挫折",
+        "usageLabels": [
+          "n.",
+          "精选学习义"
+        ],
+        "explanationZh": "妨碍进展的不利事件；挫折",
+        "examples": [
+          {
+            "en": "The failed trial was a setback.",
+            "zh": "试验失败是一次挫折。",
+            "origin": "original",
+            "sourceRef": null,
+            "usageNote": "妨碍进展的不利事件；挫折"
+          }
+        ],
+        "evidenceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-s.json/setback/n / setback%1:11:01::",
+            "supportedClaim": "an unfortunate happening that hinders or impedes; something that is thwarting or frustrating",
+            "url": "https://en-word.net/"
+          }
+        ]
+      }
+    ]
+  },
+  "senses": [
+    {
+      "schemaVersion": 1,
+      "senseId": "setback%1:11:01::",
+      "lexicalEntryId": "lex:setback",
+      "pos": "n.",
+      "definitionOrigin": "licensed_verbatim",
+      "meaning": {
+        "definitionEn": "an unfortunate happening that hinders or impedes; something that is thwarting or frustrating",
+        "glossZh": "妨碍进展的不利事件；挫折",
+        "glossOrigin": "editorial"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "oewn-2025",
+          "sourceVersion": "2025",
+          "locator": "entries-s.json/setback/n / setback%1:11:01::",
+          "supportedClaim": "an unfortunate happening that hinders or impedes; something that is thwarting or frustrating",
+          "url": "https://en-word.net/"
+        }
+      ],
+      "version": "1"
+    }
+  ],
+  "inventory": {
+    "schemaVersion": 1,
+    "inventoryId": "inventory:V20261012-028",
+    "version": "1",
+    "lexicalEntryId": "lex:setback",
+    "sources": [
+      "oewn-2025"
+    ],
+    "senseIds": [
+      "setback%1:11:01::"
+    ],
+    "coverageStatus": "partial"
+  },
+  "context": {
+    "schemaVersion": 1,
+    "contextId": "V20261012-028-context",
+    "entryId": "V20261012-028",
+    "sourceRef": "original-vocab",
+    "quote": "The missing approval is a temporary setback, not a reason to stop the project.",
+    "quoteSHA": "2177a070c3c24807a84a9ae38c19eab4e341e361a51f90339e22a1ce3ac1a4e2",
+    "translation": "缺少批准只是暂时的阻碍，并不是停止项目的理由。",
+    "quoteType": "原词库教学例句／转述；未认定为外部作者逐字引文",
+    "meaning": "说话者把未获批准界定为暂时妨碍进展的情况",
+    "qualifiers": {
+      "polarity": "mixed",
+      "modality": [],
+      "conditions": [
+        "not a reason to stop the project; no permission to bypass approval"
+      ],
+      "agents": [],
+      "timeScope": "temporary (speaker characterization; duration unspecified)",
+      "excludedInferences": [
+        "原句不授权绕过审批；暂时是说话者判断而非已验证恢复期限。"
+      ]
+    },
+    "location": "selected",
+    "senseRefs": [
+      "setback%1:11:01::"
+    ],
+    "targetSpans": [
+      {
+        "start": 36,
+        "end": 43,
+        "text": "setback",
+        "mappingType": "exact",
+        "note": "原句精确匹配；词形变化时不伪造span"
+      }
+    ],
+    "context": "仅以保留的这条原句为分析范围；未知背景不补造。"
+  },
+  "history": {
+    "schemaVersion": 1,
+    "lexicalEntryId": "lex:setback",
+    "version": "1",
+    "summary": "",
+    "claims": [],
+    "sourceRefs": [],
+    "limitations": [
+      "未核实历史资料，不编造词源或年代。"
+    ]
+  },
+  "bridge": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-028",
+    "contextId": "V20261012-028-context",
+    "version": "1",
+    "location": "selected",
+    "strategies": [
+      "direct",
+      "contextualization"
+    ],
+    "anchorRefs": [
+      "setback%1:11:01::"
+    ],
+    "targetRefs": [
+      "setback%1:11:01::"
+    ],
+    "semanticText": "通用的不利阻碍义在此被temporary进一步限定；当前阻碍是缺少批准，不是所有项目价值都被否定。",
+    "boundary": "原句不授权绕过审批；暂时是说话者判断而非已验证恢复期限。",
+    "evidenceRefs": [
+      {
+        "sourceId": "oewn-2025",
+        "sourceVersion": "2025",
+        "locator": "entries-s.json/setback/n / setback%1:11:01::",
+        "supportedClaim": "an unfortunate happening that hinders or impedes; something that is thwarting or frustrating",
+        "url": "https://en-word.net/"
+      }
+    ],
+    "historyLink": null,
+    "historyClaimRefs": [],
+    "returnTargets": [
+      "wl-common",
+      "wl-history"
+    ]
+  },
+  "analysis": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-028",
+    "contextId": "V20261012-028-context",
+    "version": "1",
+    "promptHash": "aaf3bd1e99daf47a70a2a158973652d67ff14dafcfc1748b3fc2a09d719885db",
+    "depth": "standard",
+    "depthReason": "需辨析相邻用法并保留原句的承诺或证据边界。",
+    "coverage": {
+      "syntax": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "syntax-concept"
+        ]
+      },
+      "concept": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "syntax-concept"
+        ]
+      },
+      "contrast": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "contrast"
+        ]
+      },
+      "languageGame": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "game-neighbors"
+        ]
+      },
+      "englishNeighbors": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "game-neighbors"
+        ]
+      },
+      "pragmaticAction": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "action"
+        ]
+      },
+      "workplaceUse": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "workplace"
+        ]
+      }
+    },
+    "blocks": [
+      {
+        "blockId": "syntax-concept",
+        "dimensions": [
+          "syntax",
+          "concept"
+        ],
+        "text": "temporary限定setback；not a reason to stop与前面判断对照，否定的是停止项目的理由。 句子表达说话者对困难的性质和应对方向的判断。temporary不是已经掌握确切恢复日期，也未说可以不经批准继续所有工作。",
+        "sourceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-s.json/setback/n / setback%1:11:01::",
+            "supportedClaim": "an unfortunate happening that hinders or impedes; something that is thwarting or frustrating",
+            "url": "https://en-word.net/"
+          }
+        ],
+        "title": "句子结构与当前所指"
+      },
+      {
+        "blockId": "contrast",
+        "dimensions": [
+          "contrast"
+        ],
+        "text": "setback是进展受挫；failure可以指目标未达；cancellation是正式取消。一次挫折不必然等于整个项目失败。",
+        "sourceRefs": [],
+        "title": "容易混淆的地方"
+      },
+      {
+        "blockId": "game-neighbors",
+        "dimensions": [
+          "languageGame",
+          "englishNeighbors"
+        ],
+        "text": "应确认缺少哪项批准、哪些活动受其限制、如何补齐；保持项目推进意愿与遵守批准条件可以同时成立。 temporary setback与recover/get back on track相连；missing approval引出澄清审批条件，而不是绕过批准。",
+        "sourceRefs": [],
+        "title": "讨论通常怎样继续"
+      },
+      {
+        "blockId": "action",
+        "dimensions": [
+          "pragmaticAction"
+        ],
+        "text": "说话者在抑制“遇到阻碍就停止整个项目”的反应，并重新界定问题规模。",
+        "sourceRefs": [],
+        "title": "说话者正在做什么"
+      },
+      {
+        "blockId": "workplace",
+        "dimensions": [
+          "workplaceUse"
+        ],
+        "text": "下面是迁移到制造业沟通的新例句；不代表原场景中已发生的决定。",
+        "sourceRefs": [],
+        "title": "迁移到工作情境"
+      }
+    ],
+    "workplaceUse": [
+      {
+        "en": "This delay is a setback, but we need to assess which activities it affects.",
+        "zh": "这次延误是个阻碍，但我们需要评估它影响哪些活动。",
+        "whenToUse": "避免把局部挫折扩大成全面失败。",
+        "limitation": "原创教学表达；具体权限和流程以实际约定为准。",
+        "origin": "original"
+      },
+      {
+        "en": "What needs to happen before we can recover from this setback?",
+        "zh": "要从这次挫折中恢复，需要先发生什么？",
+        "whenToUse": "讨论恢复条件。",
+        "limitation": "原创教学表达；具体权限和流程以实际约定为准。",
+        "origin": "original"
+      }
+    ],
+    "practiceRefs": [],
+    "edges": []
+  },
+  "practices": [],
+  "sources": [
+    {
+      "schemaVersion": 1,
+      "sourceId": "original-vocab",
+      "version": "2026-11-16",
+      "title": "原词库教学句／转述",
+      "url": "public/vocabulary.json",
+      "accessMode": "user_material",
+      "retrievedAt": "2026-11-16T01:45:06.410Z",
+      "coverage": "partial",
+      "rights": "用户授权处理原词库",
+      "limitations": [
+        "非外部作者逐字引文；保留原ID与原句"
+      ]
+    },
+    {
+      "schemaVersion": 1,
+      "sourceId": "oewn-2025",
+      "version": "2025",
+      "title": "Open English Wordnet 2025",
+      "url": "https://en-word.net/",
+      "accessMode": "licensed_snapshot",
+      "retrievedAt": "2026-11-16T01:45:06.410Z",
+      "coverage": "partial",
+      "rights": "CC BY 4.0 + Princeton notice",
+      "limitations": [
+        "本包仅选部分源义；中文非官方译文"
+      ]
+    }
+  ],
+  "verifiedIPA": null,
+  "dictionaryURL": "https://en-word.net/",
+  "historyURL": null
+}

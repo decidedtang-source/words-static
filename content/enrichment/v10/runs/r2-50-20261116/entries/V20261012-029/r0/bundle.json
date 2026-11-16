@@ -1,0 +1,414 @@
+{
+  "snapshot": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-029",
+    "term": "escalate",
+    "quote": "We should escalate the issue if the teams cannot agree.",
+    "batch": "2026-10-12",
+    "originalFileSHA": "ec65d33d6da99ebad2577f6c9f9938499823d29d117f43532302cf964a4c60a3",
+    "quoteSHA": "5c272ebba2215b0b52cad3f8e90b5ea967db9570921a4d63d47fb5552c2e89db",
+    "originalIPA": "ˈes.kə.leɪt",
+    "originalPOS": "v.",
+    "originalMeaning": "把超出当前处理权限的问题提交上级协调"
+  },
+  "selection": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-029",
+    "version": "1",
+    "inventoryRefs": [
+      "inventory:V20261012-029"
+    ],
+    "selectedSenseIds": [
+      "escalate%2:30:00::",
+      "web:cambridge-escalate"
+    ],
+    "reason": "按学习用途选择常见或易混义；这里不是语料频率排名。",
+    "usageTip": "业务语境注意escalate an issue to someone；别与escalating costs混淆。",
+    "general": "加剧；上升；将问题提交更高级别处理",
+    "senses": [
+      {
+        "senseId": "escalate%2:30:00::",
+        "title": "加剧；上升",
+        "usageLabels": [
+          "v.",
+          "精选学习义"
+        ],
+        "explanationZh": "加剧；上升",
+        "examples": [
+          {
+            "en": "Costs escalated during the delay.",
+            "zh": "延误期间成本不断上升。",
+            "origin": "original",
+            "sourceRef": null,
+            "usageNote": "加剧；上升"
+          }
+        ],
+        "evidenceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-e.json/escalate/v / escalate%2:30:00::",
+            "supportedClaim": "increase in extent or intensity",
+            "url": "https://en-word.net/"
+          }
+        ]
+      },
+      {
+        "senseId": "web:cambridge-escalate",
+        "title": "将问题提交更高级别处理",
+        "usageLabels": [
+          "v.",
+          "精选学习义"
+        ],
+        "explanationZh": "将问题提交更高级别处理",
+        "examples": [
+          {
+            "en": "Please escalate the unresolved issue to the lead.",
+            "zh": "请把尚未解决的问题提交负责人处理。",
+            "origin": "original",
+            "sourceRef": null,
+            "usageNote": "将问题提交更高级别处理"
+          }
+        ],
+        "evidenceRefs": [
+          {
+            "sourceId": "cambridge-escalate",
+            "sourceVersion": "2026-11-16",
+            "locator": "transitive business specialized",
+            "supportedClaim": "escalate issue可指提交较高级别处理，不等于故意扩大冲突。",
+            "url": "https://dictionary.cambridge.org/dictionary/english/escalate"
+          }
+        ]
+      }
+    ]
+  },
+  "senses": [
+    {
+      "schemaVersion": 1,
+      "senseId": "escalate%2:30:00::",
+      "lexicalEntryId": "lex:escalate",
+      "pos": "v.",
+      "definitionOrigin": "licensed_verbatim",
+      "meaning": {
+        "definitionEn": "increase in extent or intensity",
+        "glossZh": "加剧；上升",
+        "glossOrigin": "editorial"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "oewn-2025",
+          "sourceVersion": "2025",
+          "locator": "entries-e.json/escalate/v / escalate%2:30:00::",
+          "supportedClaim": "increase in extent or intensity",
+          "url": "https://en-word.net/"
+        }
+      ],
+      "version": "1"
+    },
+    {
+      "schemaVersion": 1,
+      "senseId": "web:cambridge-escalate",
+      "lexicalEntryId": "lex:escalate",
+      "pos": "v.",
+      "definitionOrigin": "short_quote",
+      "meaning": {
+        "definitionEn": "to involve someone more important or higher in rank in a situation or problem",
+        "glossZh": "将问题提交更高级别处理",
+        "glossOrigin": "editorial"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "cambridge-escalate",
+          "sourceVersion": "2026-11-16",
+          "locator": "transitive business specialized",
+          "supportedClaim": "escalate issue可指提交较高级别处理，不等于故意扩大冲突。",
+          "url": "https://dictionary.cambridge.org/dictionary/english/escalate"
+        }
+      ],
+      "version": "1"
+    }
+  ],
+  "inventory": {
+    "schemaVersion": 1,
+    "inventoryId": "inventory:V20261012-029",
+    "version": "1",
+    "lexicalEntryId": "lex:escalate",
+    "sources": [
+      "oewn-2025",
+      "cambridge-escalate"
+    ],
+    "senseIds": [
+      "escalate%2:30:00::",
+      "web:cambridge-escalate"
+    ],
+    "coverageStatus": "partial"
+  },
+  "context": {
+    "schemaVersion": 1,
+    "contextId": "V20261012-029-context",
+    "entryId": "V20261012-029",
+    "sourceRef": "original-vocab",
+    "quote": "We should escalate the issue if the teams cannot agree.",
+    "quoteSHA": "5c272ebba2215b0b52cad3f8e90b5ea967db9570921a4d63d47fb5552c2e89db",
+    "translation": "如果各团队无法达成一致，我们应该把问题提交更高级别处理。",
+    "quoteType": "原词库教学例句／转述；未认定为外部作者逐字引文",
+    "meaning": "在团队无法达成一致时建议向更高层寻求处理",
+    "qualifiers": {
+      "polarity": "negative",
+      "modality": [
+        "should",
+        "cannot"
+      ],
+      "conditions": [
+        "if the teams cannot agree"
+      ],
+      "agents": [],
+      "timeScope": null,
+      "excludedInferences": [
+        "不能删除if，也不能把升级处理翻成故意扩大冲突。"
+      ]
+    },
+    "location": "selected",
+    "senseRefs": [
+      "web:cambridge-escalate"
+    ],
+    "targetSpans": [
+      {
+        "start": 10,
+        "end": 18,
+        "text": "escalate",
+        "mappingType": "exact",
+        "note": "原句精确匹配；词形变化时不伪造span"
+      }
+    ],
+    "context": "仅以保留的这条原句为分析范围；未知背景不补造。"
+  },
+  "history": {
+    "schemaVersion": 1,
+    "lexicalEntryId": "lex:escalate",
+    "version": "1",
+    "summary": "",
+    "claims": [],
+    "sourceRefs": [],
+    "limitations": [
+      "未核实历史资料，不编造词源或年代。"
+    ]
+  },
+  "bridge": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-029",
+    "contextId": "V20261012-029-context",
+    "version": "1",
+    "location": "selected",
+    "strategies": [
+      "direct",
+      "contextualization"
+    ],
+    "anchorRefs": [
+      "escalate%2:30:00::"
+    ],
+    "targetRefs": [
+      "web:cambridge-escalate"
+    ],
+    "semanticText": "虽然常见义是“程度上升”，本句采用已收录的向更高职位提交问题义。团队不能一致是触发条件，不是升级已经发生。",
+    "boundary": "不能删除if，也不能把升级处理翻成故意扩大冲突。",
+    "evidenceRefs": [
+      {
+        "sourceId": "cambridge-escalate",
+        "sourceVersion": "2026-11-16",
+        "locator": "transitive business specialized",
+        "supportedClaim": "escalate issue可指提交较高级别处理，不等于故意扩大冲突。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/escalate"
+      }
+    ],
+    "historyLink": null,
+    "historyClaimRefs": [],
+    "returnTargets": [
+      "wl-common",
+      "wl-history"
+    ]
+  },
+  "analysis": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-029",
+    "contextId": "V20261012-029-context",
+    "version": "1",
+    "promptHash": "aaf3bd1e99daf47a70a2a158973652d67ff14dafcfc1748b3fc2a09d719885db",
+    "depth": "standard",
+    "depthReason": "需辨析相邻用法并保留原句的承诺或证据边界。",
+    "coverage": {
+      "syntax": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "syntax-concept"
+        ]
+      },
+      "concept": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "syntax-concept"
+        ]
+      },
+      "contrast": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "contrast"
+        ]
+      },
+      "languageGame": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "game-neighbors"
+        ]
+      },
+      "englishNeighbors": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "game-neighbors"
+        ]
+      },
+      "pragmaticAction": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "action"
+        ]
+      },
+      "workplaceUse": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "workplace"
+        ]
+      }
+    },
+    "blocks": [
+      {
+        "blockId": "syntax-concept",
+        "dimensions": [
+          "syntax",
+          "concept"
+        ],
+        "text": "should表示建议；if the teams cannot agree是触发条件；escalate的宾语是the issue。 这里是把问题带到更有权处理的人面前，而不是主动让争执变激烈。对象、渠道和时间仍需依据实际约定。",
+        "sourceRefs": [
+          {
+            "sourceId": "cambridge-escalate",
+            "sourceVersion": "2026-11-16",
+            "locator": "transitive business specialized",
+            "supportedClaim": "escalate issue可指提交较高级别处理，不等于故意扩大冲突。",
+            "url": "https://dictionary.cambridge.org/dictionary/english/escalate"
+          }
+        ],
+        "title": "句子结构与当前所指"
+      },
+      {
+        "blockId": "contrast",
+        "dimensions": [
+          "contrast"
+        ],
+        "text": "escalate a dispute可能指让争端加剧；escalate an issue to a manager则通常是向上提交。上下文和to的对象决定理解。",
+        "sourceRefs": [],
+        "title": "容易混淆的地方"
+      },
+      {
+        "blockId": "game-neighbors",
+        "dimensions": [
+          "languageGame",
+          "englishNeighbors"
+        ],
+        "text": "升级沟通时应带上分歧、已尝试办法、影响和所需决定，使接收者能判断；不能把升级变成甩锅。 escalation path说明找谁；unresolved issue说明待处理事项；decision required说明希望更高层提供什么。",
+        "sourceRefs": [],
+        "title": "讨论通常怎样继续"
+      },
+      {
+        "blockId": "action",
+        "dimensions": [
+          "pragmaticAction"
+        ],
+        "text": "说话者在提出条件性的后续处理方案。",
+        "sourceRefs": [],
+        "title": "说话者正在做什么"
+      },
+      {
+        "blockId": "workplace",
+        "dimensions": [
+          "workplaceUse"
+        ],
+        "text": "下面是迁移到制造业沟通的新例句；不代表原场景中已发生的决定。",
+        "sourceRefs": [],
+        "title": "迁移到工作情境"
+      }
+    ],
+    "workplaceUse": [
+      {
+        "en": "If we cannot resolve the interface issue, who should we escalate it to?",
+        "zh": "如果我们无法解决接口问题，应把它提交给谁？",
+        "whenToUse": "确认升级路径。",
+        "limitation": "原创教学表达；具体权限和流程以实际约定为准。",
+        "origin": "original"
+      },
+      {
+        "en": "Please summarize the disagreement before escalating the issue.",
+        "zh": "提交问题前，请概括分歧。",
+        "whenToUse": "准备可供处理的信息。",
+        "limitation": "原创教学表达；具体权限和流程以实际约定为准。",
+        "origin": "original"
+      }
+    ],
+    "practiceRefs": [],
+    "edges": []
+  },
+  "practices": [],
+  "sources": [
+    {
+      "schemaVersion": 1,
+      "sourceId": "original-vocab",
+      "version": "2026-11-16",
+      "title": "原词库教学句／转述",
+      "url": "public/vocabulary.json",
+      "accessMode": "user_material",
+      "retrievedAt": "2026-11-16T01:45:06.410Z",
+      "coverage": "partial",
+      "rights": "用户授权处理原词库",
+      "limitations": [
+        "非外部作者逐字引文；保留原ID与原句"
+      ]
+    },
+    {
+      "schemaVersion": 1,
+      "sourceId": "oewn-2025",
+      "version": "2025",
+      "title": "Open English Wordnet 2025",
+      "url": "https://en-word.net/",
+      "accessMode": "licensed_snapshot",
+      "retrievedAt": "2026-11-16T01:45:06.410Z",
+      "coverage": "partial",
+      "rights": "CC BY 4.0 + Princeton notice",
+      "limitations": [
+        "本包仅选部分源义；中文非官方译文"
+      ]
+    },
+    {
+      "schemaVersion": 1,
+      "sourceId": "cambridge-escalate",
+      "version": "2026-11-16",
+      "title": "cambridge-escalate",
+      "url": "https://dictionary.cambridge.org/dictionary/english/escalate",
+      "accessMode": "indexed_excerpt",
+      "retrievedAt": "2026-11-16T01:45:06.410Z",
+      "coverage": "partial",
+      "rights": "必要短引与中文整理，不声称批量复制许可",
+      "limitations": [
+        "仅支持记录中的具体主张，不代表完整条目"
+      ]
+    }
+  ],
+  "verifiedIPA": "ˈes.kə.leɪt",
+  "dictionaryURL": "https://en-word.net/",
+  "historyURL": null
+}

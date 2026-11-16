@@ -1,0 +1,1354 @@
+{
+  "status": "pass",
+  "htmlSHA": "52d825dde26e40e8203a100233717c33259e47170f6647da8bafa64fb724a550",
+  "scope": "50-word isolated candidate; automated browser interactions; captured screenshots require separate visual inspection",
+  "baselineFilesUnchanged": 96,
+  "originalWordCount": 1875,
+  "batchCount": 15,
+  "checks": [
+    {
+      "width": 320,
+      "colorScheme": "light",
+      "index": "0",
+      "audioKeyboardStartStopEndError": "pass",
+      "layoutShift": 0,
+      "bridgeReturn": "pass",
+      "practiceReturn": "pass",
+      "deep": "pass"
+    },
+    {
+      "width": 320,
+      "colorScheme": "light",
+      "index": "5",
+      "audioKeyboardStartStopEndError": "pass",
+      "layoutShift": 0,
+      "bridgeReturn": "pass",
+      "practiceReturn": "pass",
+      "deep": "pass"
+    },
+    {
+      "width": 320,
+      "colorScheme": "light",
+      "index": "10",
+      "audioKeyboardStartStopEndError": "pass",
+      "layoutShift": 0,
+      "bridgeReturn": "pass",
+      "practiceReturn": "pass",
+      "deep": "pass"
+    },
+    {
+      "width": 320,
+      "colorScheme": "light",
+      "index": "20",
+      "audioKeyboardStartStopEndError": "pass",
+      "layoutShift": 0,
+      "bridgeReturn": "pass",
+      "practiceReturn": "pass",
+      "deep": "pass"
+    },
+    {
+      "width": 320,
+      "colorScheme": "light",
+      "index": "39",
+      "audioKeyboardStartStopEndError": "pass",
+      "layoutShift": 0,
+      "bridgeReturn": "pass",
+      "practiceReturn": "pass",
+      "deep": "pass"
+    },
+    {
+      "width": 320,
+      "colorScheme": "light",
+      "index": "47",
+      "audioKeyboardStartStopEndError": "pass",
+      "layoutShift": 0,
+      "bridgeReturn": "pass",
+      "practiceReturn": "pass",
+      "deep": "pass"
+    },
+    {
+      "width": 320,
+      "colorScheme": "dark",
+      "index": "0",
+      "audioKeyboardStartStopEndError": "pass",
+      "layoutShift": 0,
+      "bridgeReturn": "pass",
+      "practiceReturn": "pass",
+      "deep": "pass"
+    },
+    {
+      "width": 320,
+      "colorScheme": "dark",
+      "index": "5",
+      "audioKeyboardStartStopEndError": "pass",
+      "layoutShift": 0,
+      "bridgeReturn": "pass",
+      "practiceReturn": "pass",
+      "deep": "pass"
+    },
+    {
+      "width": 320,
+      "colorScheme": "dark",
+      "index": "10",
+      "audioKeyboardStartStopEndError": "pass",
+      "layoutShift": 0,
+      "bridgeReturn": "pass",
+      "practiceReturn": "pass",
+      "deep": "pass"
+    },
+    {
+      "width": 320,
+      "colorScheme": "dark",
+      "index": "20",
+      "audioKeyboardStartStopEndError": "pass",
+      "layoutShift": 0,
+      "bridgeReturn": "pass",
+      "practiceReturn": "pass",
+      "deep": "pass"
+    },
+    {
+      "width": 320,
+      "colorScheme": "dark",
+      "index": "39",
+      "audioKeyboardStartStopEndError": "pass",
+      "layoutShift": 0,
+      "bridgeReturn": "pass",
+      "practiceReturn": "pass",
+      "deep": "pass"
+    },
+    {
+      "width": 320,
+      "colorScheme": "dark",
+      "index": "47",
+      "audioKeyboardStartStopEndError": "pass",
+      "layoutShift": 0,
+      "bridgeReturn": "pass",
+      "practiceReturn": "pass",
+      "deep": "pass"
+    },
+    {
+      "width": 390,
+      "colorScheme": "light",
+      "index": "0",
+      "audioKeyboardStartStopEndError": "pass",
+      "layoutShift": 0,
+      "bridgeReturn": "pass",
+      "practiceReturn": "pass",
+      "deep": "pass"
+    },
+    {
+      "width": 390,
+      "colorScheme": "light",
+      "index": "5",
+      "audioKeyboardStartStopEndError": "pass",
+      "layoutShift": 0,
+      "bridgeReturn": "pass",
+      "practiceReturn": "pass",
+      "deep": "pass"
+    },
+    {
+      "width": 390,
+      "colorScheme": "light",
+      "index": "10",
+      "audioKeyboardStartStopEndError": "pass",
+      "layoutShift": 0,
+      "bridgeReturn": "pass",
+      "practiceReturn": "pass",
+      "deep": "pass"
+    },
+    {
+      "width": 390,
+      "colorScheme": "light",
+      "index": "20",
+      "audioKeyboardStartStopEndError": "pass",
+      "layoutShift": 0,
+      "bridgeReturn": "pass",
+      "practiceReturn": "pass",
+      "deep": "pass"
+    },
+    {
+      "width": 390,
+      "colorScheme": "light",
+      "index": "39",
+      "audioKeyboardStartStopEndError": "pass",
+      "layoutShift": 0,
+      "bridgeReturn": "pass",
+      "practiceReturn": "pass",
+      "deep": "pass"
+    },
+    {
+      "width": 390,
+      "colorScheme": "light",
+      "index": "47",
+      "audioKeyboardStartStopEndError": "pass",
+      "layoutShift": 0,
+      "bridgeReturn": "pass",
+      "practiceReturn": "pass",
+      "deep": "pass"
+    },
+    {
+      "width": 390,
+      "colorScheme": "dark",
+      "index": "0",
+      "audioKeyboardStartStopEndError": "pass",
+      "layoutShift": 0,
+      "bridgeReturn": "pass",
+      "practiceReturn": "pass",
+      "deep": "pass"
+    },
+    {
+      "width": 390,
+      "colorScheme": "dark",
+      "index": "5",
+      "audioKeyboardStartStopEndError": "pass",
+      "layoutShift": 0,
+      "bridgeReturn": "pass",
+      "practiceReturn": "pass",
+      "deep": "pass"
+    },
+    {
+      "width": 390,
+      "colorScheme": "dark",
+      "index": "10",
+      "audioKeyboardStartStopEndError": "pass",
+      "layoutShift": 0,
+      "bridgeReturn": "pass",
+      "practiceReturn": "pass",
+      "deep": "pass"
+    },
+    {
+      "width": 390,
+      "colorScheme": "dark",
+      "index": "20",
+      "audioKeyboardStartStopEndError": "pass",
+      "layoutShift": 0,
+      "bridgeReturn": "pass",
+      "practiceReturn": "pass",
+      "deep": "pass"
+    },
+    {
+      "width": 390,
+      "colorScheme": "dark",
+      "index": "39",
+      "audioKeyboardStartStopEndError": "pass",
+      "layoutShift": 0,
+      "bridgeReturn": "pass",
+      "practiceReturn": "pass",
+      "deep": "pass"
+    },
+    {
+      "width": 390,
+      "colorScheme": "dark",
+      "index": "47",
+      "audioKeyboardStartStopEndError": "pass",
+      "layoutShift": 0,
+      "bridgeReturn": "pass",
+      "practiceReturn": "pass",
+      "deep": "pass"
+    },
+    {
+      "width": 768,
+      "colorScheme": "light",
+      "index": "0",
+      "audioKeyboardStartStopEndError": "pass",
+      "layoutShift": 0,
+      "bridgeReturn": "pass",
+      "practiceReturn": "pass",
+      "deep": "pass"
+    },
+    {
+      "width": 768,
+      "colorScheme": "light",
+      "index": "5",
+      "audioKeyboardStartStopEndError": "pass",
+      "layoutShift": 0,
+      "bridgeReturn": "pass",
+      "practiceReturn": "pass",
+      "deep": "pass"
+    },
+    {
+      "width": 768,
+      "colorScheme": "light",
+      "index": "10",
+      "audioKeyboardStartStopEndError": "pass",
+      "layoutShift": 0,
+      "bridgeReturn": "pass",
+      "practiceReturn": "pass",
+      "deep": "pass"
+    },
+    {
+      "width": 768,
+      "colorScheme": "light",
+      "index": "20",
+      "audioKeyboardStartStopEndError": "pass",
+      "layoutShift": 0,
+      "bridgeReturn": "pass",
+      "practiceReturn": "pass",
+      "deep": "pass"
+    },
+    {
+      "width": 768,
+      "colorScheme": "light",
+      "index": "39",
+      "audioKeyboardStartStopEndError": "pass",
+      "layoutShift": 0,
+      "bridgeReturn": "pass",
+      "practiceReturn": "pass",
+      "deep": "pass"
+    },
+    {
+      "width": 768,
+      "colorScheme": "light",
+      "index": "47",
+      "audioKeyboardStartStopEndError": "pass",
+      "layoutShift": 0,
+      "bridgeReturn": "pass",
+      "practiceReturn": "pass",
+      "deep": "pass"
+    },
+    {
+      "width": 768,
+      "colorScheme": "dark",
+      "index": "0",
+      "audioKeyboardStartStopEndError": "pass",
+      "layoutShift": 0,
+      "bridgeReturn": "pass",
+      "practiceReturn": "pass",
+      "deep": "pass"
+    },
+    {
+      "width": 768,
+      "colorScheme": "dark",
+      "index": "5",
+      "audioKeyboardStartStopEndError": "pass",
+      "layoutShift": 0,
+      "bridgeReturn": "pass",
+      "practiceReturn": "pass",
+      "deep": "pass"
+    },
+    {
+      "width": 768,
+      "colorScheme": "dark",
+      "index": "10",
+      "audioKeyboardStartStopEndError": "pass",
+      "layoutShift": 0,
+      "bridgeReturn": "pass",
+      "practiceReturn": "pass",
+      "deep": "pass"
+    },
+    {
+      "width": 768,
+      "colorScheme": "dark",
+      "index": "20",
+      "audioKeyboardStartStopEndError": "pass",
+      "layoutShift": 0,
+      "bridgeReturn": "pass",
+      "practiceReturn": "pass",
+      "deep": "pass"
+    },
+    {
+      "width": 768,
+      "colorScheme": "dark",
+      "index": "39",
+      "audioKeyboardStartStopEndError": "pass",
+      "layoutShift": 0,
+      "bridgeReturn": "pass",
+      "practiceReturn": "pass",
+      "deep": "pass"
+    },
+    {
+      "width": 768,
+      "colorScheme": "dark",
+      "index": "47",
+      "audioKeyboardStartStopEndError": "pass",
+      "layoutShift": 0,
+      "bridgeReturn": "pass",
+      "practiceReturn": "pass",
+      "deep": "pass"
+    },
+    {
+      "width": 1440,
+      "colorScheme": "light",
+      "index": "0",
+      "audioKeyboardStartStopEndError": "pass",
+      "layoutShift": 0,
+      "bridgeReturn": "pass",
+      "practiceReturn": "pass",
+      "deep": "pass"
+    },
+    {
+      "width": 1440,
+      "colorScheme": "light",
+      "index": "5",
+      "audioKeyboardStartStopEndError": "pass",
+      "layoutShift": 0,
+      "bridgeReturn": "pass",
+      "practiceReturn": "pass",
+      "deep": "pass"
+    },
+    {
+      "width": 1440,
+      "colorScheme": "light",
+      "index": "10",
+      "audioKeyboardStartStopEndError": "pass",
+      "layoutShift": 0,
+      "bridgeReturn": "pass",
+      "practiceReturn": "pass",
+      "deep": "pass"
+    },
+    {
+      "width": 1440,
+      "colorScheme": "light",
+      "index": "20",
+      "audioKeyboardStartStopEndError": "pass",
+      "layoutShift": 0,
+      "bridgeReturn": "pass",
+      "practiceReturn": "pass",
+      "deep": "pass"
+    },
+    {
+      "width": 1440,
+      "colorScheme": "light",
+      "index": "39",
+      "audioKeyboardStartStopEndError": "pass",
+      "layoutShift": 0,
+      "bridgeReturn": "pass",
+      "practiceReturn": "pass",
+      "deep": "pass"
+    },
+    {
+      "width": 1440,
+      "colorScheme": "light",
+      "index": "47",
+      "audioKeyboardStartStopEndError": "pass",
+      "layoutShift": 0,
+      "bridgeReturn": "pass",
+      "practiceReturn": "pass",
+      "deep": "pass"
+    },
+    {
+      "width": 1440,
+      "colorScheme": "dark",
+      "index": "0",
+      "audioKeyboardStartStopEndError": "pass",
+      "layoutShift": 0,
+      "bridgeReturn": "pass",
+      "practiceReturn": "pass",
+      "deep": "pass"
+    },
+    {
+      "width": 1440,
+      "colorScheme": "dark",
+      "index": "5",
+      "audioKeyboardStartStopEndError": "pass",
+      "layoutShift": 0,
+      "bridgeReturn": "pass",
+      "practiceReturn": "pass",
+      "deep": "pass"
+    },
+    {
+      "width": 1440,
+      "colorScheme": "dark",
+      "index": "10",
+      "audioKeyboardStartStopEndError": "pass",
+      "layoutShift": 0,
+      "bridgeReturn": "pass",
+      "practiceReturn": "pass",
+      "deep": "pass"
+    },
+    {
+      "width": 1440,
+      "colorScheme": "dark",
+      "index": "20",
+      "audioKeyboardStartStopEndError": "pass",
+      "layoutShift": 0,
+      "bridgeReturn": "pass",
+      "practiceReturn": "pass",
+      "deep": "pass"
+    },
+    {
+      "width": 1440,
+      "colorScheme": "dark",
+      "index": "39",
+      "audioKeyboardStartStopEndError": "pass",
+      "layoutShift": 0,
+      "bridgeReturn": "pass",
+      "practiceReturn": "pass",
+      "deep": "pass"
+    },
+    {
+      "width": 1440,
+      "colorScheme": "dark",
+      "index": "47",
+      "audioKeyboardStartStopEndError": "pass",
+      "layoutShift": 0,
+      "bridgeReturn": "pass",
+      "practiceReturn": "pass",
+      "deep": "pass"
+    }
+  ],
+  "entryChecks": [
+    {
+      "navigationTargets": [
+        "top",
+        "dictionary",
+        "common",
+        "history",
+        "source",
+        "bridge",
+        "context",
+        "deep",
+        "sense-0"
+      ],
+      "entryId": "V20261012-002",
+      "quoteAndTranslation": "pass",
+      "previewToggle": "pass",
+      "legacyContextAlias": "pass"
+    },
+    {
+      "navigationTargets": [
+        "top",
+        "dictionary",
+        "common",
+        "history",
+        "source",
+        "bridge",
+        "context",
+        "deep",
+        "sense-1"
+      ],
+      "entryId": "V20261012-012",
+      "quoteAndTranslation": "pass",
+      "previewToggle": "pass",
+      "legacyContextAlias": "pass"
+    },
+    {
+      "navigationTargets": [
+        "top",
+        "dictionary",
+        "common",
+        "history",
+        "source",
+        "bridge",
+        "context",
+        "deep",
+        "sense-0"
+      ],
+      "entryId": "V20261012-022",
+      "quoteAndTranslation": "pass",
+      "previewToggle": "pass",
+      "legacyContextAlias": "pass"
+    },
+    {
+      "navigationTargets": [
+        "top",
+        "dictionary",
+        "common",
+        "history",
+        "source",
+        "bridge",
+        "context",
+        "deep",
+        "sense-0"
+      ],
+      "entryId": "V20261012-024",
+      "quoteAndTranslation": "pass",
+      "previewToggle": "pass",
+      "legacyContextAlias": "pass"
+    },
+    {
+      "navigationTargets": [
+        "top",
+        "dictionary",
+        "common",
+        "history",
+        "source",
+        "bridge",
+        "context",
+        "deep",
+        "sense-1"
+      ],
+      "entryId": "V20261012-053",
+      "quoteAndTranslation": "pass",
+      "previewToggle": "pass",
+      "legacyContextAlias": "pass"
+    },
+    {
+      "navigationTargets": [
+        "top",
+        "dictionary",
+        "common",
+        "history",
+        "source",
+        "bridge",
+        "context",
+        "deep",
+        "inventory-2"
+      ],
+      "entryId": "V20261012-078",
+      "quoteAndTranslation": "pass",
+      "previewToggle": "pass",
+      "legacyContextAlias": "pass"
+    },
+    {
+      "navigationTargets": [
+        "top",
+        "dictionary",
+        "common",
+        "history",
+        "source",
+        "bridge",
+        "context",
+        "deep",
+        "sense-0"
+      ],
+      "entryId": "V20261012-076",
+      "quoteAndTranslation": "pass",
+      "previewToggle": "pass",
+      "legacyContextAlias": "pass"
+    },
+    {
+      "navigationTargets": [
+        "top",
+        "dictionary",
+        "common",
+        "history",
+        "source",
+        "bridge",
+        "context",
+        "deep",
+        "sense-0"
+      ],
+      "entryId": "V20261012-093",
+      "quoteAndTranslation": "pass",
+      "previewToggle": "pass",
+      "legacyContextAlias": "pass"
+    },
+    {
+      "navigationTargets": [
+        "top",
+        "dictionary",
+        "common",
+        "history",
+        "source",
+        "bridge",
+        "context",
+        "deep",
+        "sense-0"
+      ],
+      "entryId": "V20261012-100",
+      "quoteAndTranslation": "pass",
+      "previewToggle": "pass",
+      "legacyContextAlias": "pass"
+    },
+    {
+      "navigationTargets": [
+        "top",
+        "dictionary",
+        "common",
+        "history",
+        "source",
+        "bridge",
+        "context",
+        "deep",
+        "inventory-2"
+      ],
+      "entryId": "V20261014-075",
+      "quoteAndTranslation": "pass",
+      "previewToggle": "pass",
+      "legacyContextAlias": "pass"
+    },
+    {
+      "navigationTargets": [
+        "top",
+        "dictionary",
+        "common",
+        "history",
+        "source",
+        "bridge",
+        "context",
+        "deep",
+        "inventory-2"
+      ],
+      "entryId": "V20261014-076",
+      "quoteAndTranslation": "pass",
+      "previewToggle": "pass",
+      "legacyContextAlias": "pass"
+    },
+    {
+      "navigationTargets": [
+        "top",
+        "dictionary",
+        "common",
+        "history",
+        "source",
+        "bridge",
+        "context",
+        "deep",
+        "sense-0"
+      ],
+      "entryId": "V20261029-005",
+      "quoteAndTranslation": "pass",
+      "previewToggle": "pass",
+      "legacyContextAlias": "pass"
+    },
+    {
+      "navigationTargets": [
+        "top",
+        "dictionary",
+        "common",
+        "history",
+        "source",
+        "bridge",
+        "context",
+        "deep",
+        "sense-1"
+      ],
+      "entryId": "V20261014-003",
+      "quoteAndTranslation": "pass",
+      "previewToggle": "pass",
+      "legacyContextAlias": "pass"
+    },
+    {
+      "navigationTargets": [
+        "top",
+        "dictionary",
+        "common",
+        "history",
+        "source",
+        "bridge",
+        "context",
+        "deep",
+        "inventory-1"
+      ],
+      "entryId": "V20261012-117",
+      "quoteAndTranslation": "pass",
+      "previewToggle": "pass",
+      "legacyContextAlias": "pass"
+    },
+    {
+      "navigationTargets": [
+        "top",
+        "dictionary",
+        "common",
+        "history",
+        "source",
+        "bridge",
+        "context",
+        "deep",
+        "sense-1"
+      ],
+      "entryId": "V20261018-106",
+      "quoteAndTranslation": "pass",
+      "previewToggle": "pass",
+      "legacyContextAlias": "pass"
+    },
+    {
+      "navigationTargets": [
+        "top",
+        "dictionary",
+        "common",
+        "history",
+        "source",
+        "bridge",
+        "context",
+        "deep",
+        "sense-0"
+      ],
+      "entryId": "V20261016-103",
+      "quoteAndTranslation": "pass",
+      "previewToggle": "pass",
+      "legacyContextAlias": "pass"
+    },
+    {
+      "navigationTargets": [
+        "top",
+        "dictionary",
+        "common",
+        "history",
+        "source",
+        "bridge",
+        "context",
+        "deep",
+        "sense-0"
+      ],
+      "entryId": "V20261016-119",
+      "quoteAndTranslation": "pass",
+      "previewToggle": "pass",
+      "legacyContextAlias": "pass"
+    },
+    {
+      "navigationTargets": [
+        "top",
+        "dictionary",
+        "common",
+        "history",
+        "source",
+        "bridge",
+        "context",
+        "deep",
+        "sense-0"
+      ],
+      "entryId": "V20261012-020",
+      "quoteAndTranslation": "pass",
+      "previewToggle": "pass",
+      "legacyContextAlias": "pass"
+    },
+    {
+      "navigationTargets": [
+        "top",
+        "dictionary",
+        "common",
+        "history",
+        "source",
+        "bridge",
+        "context",
+        "deep",
+        "sense-0"
+      ],
+      "entryId": "V20261012-019",
+      "quoteAndTranslation": "pass",
+      "previewToggle": "pass",
+      "legacyContextAlias": "pass"
+    },
+    {
+      "navigationTargets": [
+        "top",
+        "dictionary",
+        "common",
+        "history",
+        "source",
+        "bridge",
+        "context",
+        "deep",
+        "inventory-2"
+      ],
+      "entryId": "V20261012-015",
+      "quoteAndTranslation": "pass",
+      "previewToggle": "pass",
+      "legacyContextAlias": "pass"
+    },
+    {
+      "navigationTargets": [
+        "top",
+        "dictionary",
+        "common",
+        "history",
+        "source",
+        "bridge",
+        "context",
+        "deep",
+        "sense-0"
+      ],
+      "entryId": "V20261012-018",
+      "quoteAndTranslation": "pass",
+      "previewToggle": "pass",
+      "legacyContextAlias": "pass"
+    },
+    {
+      "navigationTargets": [
+        "top",
+        "dictionary",
+        "common",
+        "history",
+        "source",
+        "bridge",
+        "context",
+        "deep",
+        "sense-0"
+      ],
+      "entryId": "V20261012-010",
+      "quoteAndTranslation": "pass",
+      "previewToggle": "pass",
+      "legacyContextAlias": "pass"
+    },
+    {
+      "navigationTargets": [
+        "top",
+        "dictionary",
+        "common",
+        "history",
+        "source",
+        "bridge",
+        "context",
+        "deep",
+        "sense-0"
+      ],
+      "entryId": "V20261012-006",
+      "quoteAndTranslation": "pass",
+      "previewToggle": "pass",
+      "legacyContextAlias": "pass"
+    },
+    {
+      "navigationTargets": [
+        "top",
+        "dictionary",
+        "common",
+        "history",
+        "source",
+        "bridge",
+        "context",
+        "deep",
+        "sense-0"
+      ],
+      "entryId": "V20261012-088",
+      "quoteAndTranslation": "pass",
+      "previewToggle": "pass",
+      "legacyContextAlias": "pass"
+    },
+    {
+      "navigationTargets": [
+        "top",
+        "dictionary",
+        "common",
+        "history",
+        "source",
+        "bridge",
+        "context",
+        "deep",
+        "sense-0"
+      ],
+      "entryId": "V20261012-004",
+      "quoteAndTranslation": "pass",
+      "previewToggle": "pass",
+      "legacyContextAlias": "pass"
+    },
+    {
+      "navigationTargets": [
+        "top",
+        "dictionary",
+        "common",
+        "history",
+        "source",
+        "bridge",
+        "context",
+        "deep",
+        "sense-0"
+      ],
+      "entryId": "V20261012-005",
+      "quoteAndTranslation": "pass",
+      "previewToggle": "pass",
+      "legacyContextAlias": "pass"
+    },
+    {
+      "navigationTargets": [
+        "top",
+        "dictionary",
+        "common",
+        "history",
+        "source",
+        "bridge",
+        "context",
+        "deep",
+        "sense-0"
+      ],
+      "entryId": "V20261012-007",
+      "quoteAndTranslation": "pass",
+      "previewToggle": "pass",
+      "legacyContextAlias": "pass"
+    },
+    {
+      "navigationTargets": [
+        "top",
+        "dictionary",
+        "common",
+        "history",
+        "source",
+        "bridge",
+        "context",
+        "deep",
+        "sense-0"
+      ],
+      "entryId": "V20261012-008",
+      "quoteAndTranslation": "pass",
+      "previewToggle": "pass",
+      "legacyContextAlias": "pass"
+    },
+    {
+      "navigationTargets": [
+        "top",
+        "dictionary",
+        "common",
+        "history",
+        "source",
+        "bridge",
+        "context",
+        "deep",
+        "sense-0"
+      ],
+      "entryId": "V20261012-009",
+      "quoteAndTranslation": "pass",
+      "previewToggle": "pass",
+      "legacyContextAlias": "pass"
+    },
+    {
+      "navigationTargets": [
+        "top",
+        "dictionary",
+        "common",
+        "history",
+        "source",
+        "bridge",
+        "context",
+        "deep",
+        "sense-0"
+      ],
+      "entryId": "V20261012-011",
+      "quoteAndTranslation": "pass",
+      "previewToggle": "pass",
+      "legacyContextAlias": "pass"
+    },
+    {
+      "navigationTargets": [
+        "top",
+        "dictionary",
+        "common",
+        "history",
+        "source",
+        "bridge",
+        "context",
+        "deep",
+        "sense-0"
+      ],
+      "entryId": "V20261012-013",
+      "quoteAndTranslation": "pass",
+      "previewToggle": "pass",
+      "legacyContextAlias": "pass"
+    },
+    {
+      "navigationTargets": [
+        "top",
+        "dictionary",
+        "common",
+        "history",
+        "source",
+        "bridge",
+        "context",
+        "deep",
+        "sense-0"
+      ],
+      "entryId": "V20261012-014",
+      "quoteAndTranslation": "pass",
+      "previewToggle": "pass",
+      "legacyContextAlias": "pass"
+    },
+    {
+      "navigationTargets": [
+        "top",
+        "dictionary",
+        "common",
+        "history",
+        "source",
+        "bridge",
+        "context",
+        "deep",
+        "sense-0"
+      ],
+      "entryId": "V20261012-016",
+      "quoteAndTranslation": "pass",
+      "previewToggle": "pass",
+      "legacyContextAlias": "pass"
+    },
+    {
+      "navigationTargets": [
+        "top",
+        "dictionary",
+        "common",
+        "history",
+        "source",
+        "bridge",
+        "context",
+        "deep",
+        "sense-0"
+      ],
+      "entryId": "V20261012-017",
+      "quoteAndTranslation": "pass",
+      "previewToggle": "pass",
+      "legacyContextAlias": "pass"
+    },
+    {
+      "navigationTargets": [
+        "top",
+        "dictionary",
+        "common",
+        "history",
+        "source",
+        "bridge",
+        "context",
+        "deep",
+        "sense-0"
+      ],
+      "entryId": "V20261012-021",
+      "quoteAndTranslation": "pass",
+      "previewToggle": "pass",
+      "legacyContextAlias": "pass"
+    },
+    {
+      "navigationTargets": [
+        "top",
+        "dictionary",
+        "common",
+        "history",
+        "source",
+        "bridge",
+        "context",
+        "deep",
+        "sense-0"
+      ],
+      "entryId": "V20261012-023",
+      "quoteAndTranslation": "pass",
+      "previewToggle": "pass",
+      "legacyContextAlias": "pass"
+    },
+    {
+      "navigationTargets": [
+        "top",
+        "dictionary",
+        "common",
+        "history",
+        "source",
+        "bridge",
+        "context",
+        "deep",
+        "sense-0"
+      ],
+      "entryId": "V20261012-025",
+      "quoteAndTranslation": "pass",
+      "previewToggle": "pass",
+      "legacyContextAlias": "pass"
+    },
+    {
+      "navigationTargets": [
+        "top",
+        "dictionary",
+        "common",
+        "history",
+        "source",
+        "bridge",
+        "context",
+        "deep",
+        "sense-0"
+      ],
+      "entryId": "V20261012-026",
+      "quoteAndTranslation": "pass",
+      "previewToggle": "pass",
+      "legacyContextAlias": "pass"
+    },
+    {
+      "navigationTargets": [
+        "top",
+        "dictionary",
+        "common",
+        "history",
+        "source",
+        "bridge",
+        "context",
+        "deep",
+        "sense-0"
+      ],
+      "entryId": "V20261012-028",
+      "quoteAndTranslation": "pass",
+      "previewToggle": "pass",
+      "legacyContextAlias": "pass"
+    },
+    {
+      "navigationTargets": [
+        "top",
+        "dictionary",
+        "common",
+        "history",
+        "source",
+        "bridge",
+        "context",
+        "deep",
+        "sense-1"
+      ],
+      "entryId": "V20261012-029",
+      "quoteAndTranslation": "pass",
+      "previewToggle": "pass",
+      "legacyContextAlias": "pass"
+    },
+    {
+      "navigationTargets": [
+        "top",
+        "dictionary",
+        "common",
+        "history",
+        "source",
+        "bridge",
+        "context",
+        "deep",
+        "sense-0"
+      ],
+      "entryId": "V20261012-030",
+      "quoteAndTranslation": "pass",
+      "previewToggle": "pass",
+      "legacyContextAlias": "pass"
+    },
+    {
+      "navigationTargets": [
+        "top",
+        "dictionary",
+        "common",
+        "history",
+        "source",
+        "bridge",
+        "context",
+        "deep",
+        "sense-0"
+      ],
+      "entryId": "V20261012-031",
+      "quoteAndTranslation": "pass",
+      "previewToggle": "pass",
+      "legacyContextAlias": "pass"
+    },
+    {
+      "navigationTargets": [
+        "top",
+        "dictionary",
+        "common",
+        "history",
+        "source",
+        "bridge",
+        "context",
+        "deep",
+        "sense-0"
+      ],
+      "entryId": "V20261012-032",
+      "quoteAndTranslation": "pass",
+      "previewToggle": "pass",
+      "legacyContextAlias": "pass"
+    },
+    {
+      "navigationTargets": [
+        "top",
+        "dictionary",
+        "common",
+        "history",
+        "source",
+        "bridge",
+        "context",
+        "deep",
+        "sense-0"
+      ],
+      "entryId": "V20261012-033",
+      "quoteAndTranslation": "pass",
+      "previewToggle": "pass",
+      "legacyContextAlias": "pass"
+    },
+    {
+      "navigationTargets": [
+        "top",
+        "dictionary",
+        "common",
+        "history",
+        "source",
+        "bridge",
+        "context",
+        "deep",
+        "sense-0"
+      ],
+      "entryId": "V20261012-034",
+      "quoteAndTranslation": "pass",
+      "previewToggle": "pass",
+      "legacyContextAlias": "pass"
+    },
+    {
+      "navigationTargets": [
+        "top",
+        "dictionary",
+        "common",
+        "history",
+        "source",
+        "bridge",
+        "context",
+        "deep",
+        "sense-0"
+      ],
+      "entryId": "V20261012-035",
+      "quoteAndTranslation": "pass",
+      "previewToggle": "pass",
+      "legacyContextAlias": "pass"
+    },
+    {
+      "navigationTargets": [
+        "top",
+        "dictionary",
+        "common",
+        "history",
+        "source",
+        "bridge",
+        "context",
+        "deep",
+        "sense-0"
+      ],
+      "entryId": "V20261012-036",
+      "quoteAndTranslation": "pass",
+      "previewToggle": "pass",
+      "legacyContextAlias": "pass"
+    },
+    {
+      "navigationTargets": [
+        "top",
+        "dictionary",
+        "common",
+        "history",
+        "source",
+        "bridge",
+        "context",
+        "deep",
+        "sense-0"
+      ],
+      "entryId": "V20261012-037",
+      "quoteAndTranslation": "pass",
+      "previewToggle": "pass",
+      "legacyContextAlias": "pass"
+    },
+    {
+      "navigationTargets": [
+        "top",
+        "dictionary",
+        "common",
+        "history",
+        "source",
+        "bridge",
+        "context",
+        "deep",
+        "sense-1"
+      ],
+      "entryId": "V20261012-038",
+      "quoteAndTranslation": "pass",
+      "previewToggle": "pass",
+      "legacyContextAlias": "pass"
+    },
+    {
+      "navigationTargets": [
+        "top",
+        "dictionary",
+        "common",
+        "history",
+        "source",
+        "bridge",
+        "context",
+        "deep",
+        "sense-0"
+      ],
+      "entryId": "V20261012-040",
+      "quoteAndTranslation": "pass",
+      "previewToggle": "pass",
+      "legacyContextAlias": "pass"
+    }
+  ],
+  "extraChecks": [
+    "stale audio callbacks",
+    "local voice required",
+    "reduced motion",
+    "no localStorage or IndexedDB writes",
+    "static first-entry fallback"
+  ],
+  "limitations": [
+    "Audio lifecycle simulated; no listening-quality verification",
+    "No physical-device or learner acceptance",
+    "No candidate-to-live-learning integration or deployment"
+  ]
+}

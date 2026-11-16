@@ -1,0 +1,51 @@
+{
+  "reviewer": "/root/r2_implementation_review",
+  "revision": "r2",
+  "counts": {
+    "reviewed": 3,
+    "pass": 3,
+    "fail": 0,
+    "blocked": 0
+  },
+  "entries": [
+    {
+      "entryId": "V20261018-106",
+      "term": "lead in the polls",
+      "verdict": "pass",
+      "inputHash": "d20eabd8c74e47055dab1435d1405525df48dc47bca8a3dda4bd3197264cba0d",
+      "artifactHash": "20998105b8570d5e366c3f1f4142e01a34f238b9c1bb52323586918777df035b",
+      "resolution": "Usage tip now correctly says 在民调中领先, preserving distinction from electoral victory.",
+      "reviewPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-r2/V20261018-106.json"
+    },
+    {
+      "entryId": "V20261016-119",
+      "term": "inflation shock",
+      "verdict": "pass",
+      "inputHash": "f92497c12254ff457c362b02ba4ae5440d696546d8c601457e995c1f1a0dd7cd",
+      "artifactHash": "a4bcbb56d4cd4836b9b57a04dea54950f0c7e7a0744f037c5985170954089cb8",
+      "resolution": "Whole-phrase verifiedIPA is null and actual projection displays 音标待核; component shock IPA is no longer misrepresented as full phrase pronunciation.",
+      "reviewPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-r2/V20261016-119.json"
+    },
+    {
+      "entryId": "V20261012-020",
+      "term": "trade-off",
+      "verdict": "pass",
+      "inputHash": "9f8f9ce484594410a3a45d31b437393981540443b3f173a599cae98e6288b80e",
+      "artifactHash": "aa6a1dc9f9e9a2764c8268f697e6e19e6736d327655785ecb4f90ccc7f3cb9ce",
+      "resolution": "Learning and dictionary projections no longer label tradeoff as a component of trade-off; orthographic variant maps to the same lexical expression.",
+      "reviewPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-r2/V20261012-020.json"
+    }
+  ],
+  "currentCalibrationContent": {
+    "total": 24,
+    "pass": 24,
+    "versions": "21 r1 + 3 r2"
+  },
+  "calibrationGateDecision": "Not granted by content review alone: design/engineering evidence and actual gate checks remain required.",
+  "limitations": [
+    "21 whole-headword IPA values remain explicitly unverified/null.",
+    "All dictionaries partial;20 historical entries unavailable and disclosed.",
+    "No learner or real-device/audio acceptance.",
+    "No publication authorization or production approval implied."
+  ]
+}

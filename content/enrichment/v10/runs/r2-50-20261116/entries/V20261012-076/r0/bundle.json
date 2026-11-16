@@ -1,0 +1,393 @@
+{
+  "snapshot": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-076",
+    "term": "infer",
+    "quote": "We should not infer approval from the lack of a reply.",
+    "batch": "2026-10-12",
+    "originalFileSHA": "ec65d33d6da99ebad2577f6c9f9938499823d29d117f43532302cf964a4c60a3",
+    "quoteSHA": "a57782355eb6fc2d600c907a8b04dbfc47dacc3908cc64d02a19e13419f7576d",
+    "originalIPA": "ɪnˈfɝː",
+    "originalPOS": "v.",
+    "originalMeaning": "根据已有信息推断"
+  },
+  "selection": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-076",
+    "version": "1",
+    "inventoryRefs": [
+      "inventory:V20261012-076"
+    ],
+    "selectedSenseIds": [
+      "infer%2:32:00::",
+      "infer%2:31:02::"
+    ],
+    "reason": "按学习用途选择常见或易混义；这里不是语料频率排名。",
+    "general": "根据已有信息推断；猜中；凭猜测推知",
+    "senses": [
+      {
+        "senseId": "infer%2:32:00::",
+        "title": "根据已有信息推断",
+        "usageLabels": [
+          "v.",
+          "精选学习义"
+        ],
+        "explanationZh": "根据已有信息推断",
+        "examples": [
+          {
+            "en": "We can infer the trend from these measurements.",
+            "zh": "我们可以从这些测量值推断趋势。",
+            "origin": "original",
+            "sourceRef": null,
+            "usageNote": "原创教学例句，不是来源原话"
+          }
+        ],
+        "evidenceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-i.json/infer/v / infer%2:32:00::",
+            "supportedClaim": "conclude by reasoning; in logic",
+            "url": "https://en-word.net/"
+          }
+        ]
+      },
+      {
+        "senseId": "infer%2:31:02::",
+        "title": "猜中；凭猜测推知",
+        "usageLabels": [
+          "v.",
+          "精选学习义"
+        ],
+        "explanationZh": "猜中；凭猜测推知",
+        "examples": [
+          {
+            "en": "She inferred the answer from a few clues.",
+            "zh": "她凭几个线索推知了答案。",
+            "origin": "original",
+            "sourceRef": null,
+            "usageNote": "原创教学例句，不是来源原话"
+          }
+        ],
+        "evidenceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-i.json/infer/v / infer%2:31:02::",
+            "supportedClaim": "guess correctly; solve by guessing",
+            "url": "https://en-word.net/"
+          }
+        ]
+      }
+    ]
+  },
+  "senses": [
+    {
+      "schemaVersion": 1,
+      "senseId": "infer%2:32:00::",
+      "lexicalEntryId": "lex:infer",
+      "pos": "v.",
+      "meaning": {
+        "definitionEn": "conclude by reasoning; in logic",
+        "glossZh": "根据已有信息推断",
+        "glossOrigin": "editorial"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "oewn-2025",
+          "sourceVersion": "2025",
+          "locator": "entries-i.json/infer/v / infer%2:32:00::",
+          "supportedClaim": "conclude by reasoning; in logic",
+          "url": "https://en-word.net/"
+        }
+      ],
+      "version": "1"
+    },
+    {
+      "schemaVersion": 1,
+      "senseId": "infer%2:31:02::",
+      "lexicalEntryId": "lex:infer",
+      "pos": "v.",
+      "meaning": {
+        "definitionEn": "guess correctly; solve by guessing",
+        "glossZh": "猜中；凭猜测推知",
+        "glossOrigin": "editorial"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "oewn-2025",
+          "sourceVersion": "2025",
+          "locator": "entries-i.json/infer/v / infer%2:31:02::",
+          "supportedClaim": "guess correctly; solve by guessing",
+          "url": "https://en-word.net/"
+        }
+      ],
+      "version": "1"
+    }
+  ],
+  "inventory": {
+    "schemaVersion": 1,
+    "inventoryId": "inventory:V20261012-076",
+    "version": "1",
+    "lexicalEntryId": "lex:infer",
+    "sources": [
+      "oewn-2025"
+    ],
+    "senseIds": [
+      "infer%2:32:00::",
+      "infer%2:31:02::"
+    ],
+    "coverageStatus": "partial"
+  },
+  "context": {
+    "schemaVersion": 1,
+    "contextId": "V20261012-076-context",
+    "entryId": "V20261012-076",
+    "sourceRef": "original-vocab",
+    "quote": "We should not infer approval from the lack of a reply.",
+    "quoteSHA": "a57782355eb6fc2d600c907a8b04dbfc47dacc3908cc64d02a19e13419f7576d",
+    "translation": "我们不应从没有回复就推断已经批准。",
+    "quoteType": "原词库教学例句／转述；未认定为外部作者逐字引文",
+    "meaning": "根据未回复这一信息作出批准结论，但原句明确反对这样推断",
+    "qualifiers": {
+      "polarity": "negative",
+      "modality": [
+        "should"
+      ],
+      "conditions": [],
+      "agents": [],
+      "timeScope": null,
+      "excludedInferences": [
+        "不能反过来推断对方已经拒绝，也不能把should not删掉。"
+      ]
+    },
+    "location": "selected",
+    "senseRefs": [
+      "infer%2:32:00::"
+    ],
+    "targetSpans": [
+      {
+        "start": 14,
+        "end": 19,
+        "text": "infer",
+        "mappingType": "exact",
+        "note": "原句精确匹配；词形变化时不伪造span"
+      }
+    ],
+    "context": "仅以保留的这条原句为分析范围；未知背景不补造。"
+  },
+  "history": {
+    "schemaVersion": 1,
+    "lexicalEntryId": "lex:infer",
+    "version": "1",
+    "summary": "",
+    "claims": [],
+    "sourceRefs": [],
+    "limitations": [
+      "未核实历史资料，不编造词源或年代。"
+    ]
+  },
+  "bridge": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-076",
+    "contextId": "V20261012-076-context",
+    "version": "1",
+    "location": "selected",
+    "strategies": [
+      "direct",
+      "contextualization"
+    ],
+    "anchorRefs": [
+      "infer%2:32:00::"
+    ],
+    "targetRefs": [
+      "infer%2:32:00::"
+    ],
+    "semanticText": "这里沿用“由信息推出结论”的义，但原句重点是这一次推断不应作出：缺回复不能作为批准的充分依据。",
+    "boundary": "不能反过来推断对方已经拒绝，也不能把should not删掉。",
+    "evidenceRefs": [
+      {
+        "sourceId": "oewn-2025",
+        "sourceVersion": "2025",
+        "locator": "entries-i.json/infer/v / infer%2:32:00::",
+        "supportedClaim": "conclude by reasoning; in logic",
+        "url": "https://en-word.net/"
+      }
+    ],
+    "historyLink": null,
+    "historyClaimRefs": [],
+    "returnTargets": [
+      "wl-common",
+      "wl-history"
+    ]
+  },
+  "analysis": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-076",
+    "contextId": "V20261012-076-context",
+    "version": "1",
+    "promptHash": "aaf3bd1e99daf47a70a2a158973652d67ff14dafcfc1748b3fc2a09d719885db",
+    "depth": "standard",
+    "depthReason": "需辨析相邻用法并保留原句的承诺或证据边界。",
+    "coverage": {
+      "syntax": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "syntax-concept"
+        ]
+      },
+      "concept": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "syntax-concept"
+        ]
+      },
+      "contrast": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "contrast"
+        ]
+      },
+      "languageGame": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "game-neighbors"
+        ]
+      },
+      "englishNeighbors": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "game-neighbors"
+        ]
+      },
+      "pragmaticAction": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "action"
+        ]
+      },
+      "workplaceUse": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "workplace"
+        ]
+      }
+    },
+    "blocks": [
+      {
+        "blockId": "syntax-concept",
+        "dimensions": [
+          "syntax",
+          "concept"
+        ],
+        "text": "should not否定建议做的推断；infer approval from the lack of a reply中，approval是拟推出的结论，from短语是依据。 沉默可能有多种原因，单靠未回复不足以确认批准。这里是在指出证据与结论之间的缺口，不是在判断对方真实意图。",
+        "sourceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-i.json/infer/v / infer%2:32:00::",
+            "supportedClaim": "conclude by reasoning; in logic",
+            "url": "https://en-word.net/"
+          }
+        ],
+        "title": "句子结构与当前所指"
+      },
+      {
+        "blockId": "contrast",
+        "dimensions": [
+          "contrast"
+        ],
+        "text": "infer是听者／读者作推断，imply是信息暗示某事；confirm approval则要求明确确认。不要把三者当同一个动作。",
+        "sourceRefs": [],
+        "title": "容易混淆的地方"
+      },
+      {
+        "blockId": "game-neighbors",
+        "dimensions": [
+          "languageGame",
+          "englishNeighbors"
+        ],
+        "text": "在审批核对中应取得可追溯的明确回复，并核对回复针对哪个版本。原句没有规定某家公司必须采用什么批准格式。 infer X from Y把结论和依据分别摆出；evidence/explicit confirmation是下一步问题，因为目前的依据不能支持结论。",
+        "sourceRefs": [],
+        "title": "讨论通常怎样继续"
+      },
+      {
+        "blockId": "action",
+        "dimensions": [
+          "pragmaticAction"
+        ],
+        "text": "说话者正在阻止一个过强推断，提醒团队不要把沉默写成批准状态。",
+        "sourceRefs": [],
+        "title": "说话者正在做什么"
+      },
+      {
+        "blockId": "workplace",
+        "dimensions": [
+          "workplaceUse"
+        ],
+        "text": "下面是迁移到制造业沟通的新例句；不代表原场景中已发生的决定。",
+        "sourceRefs": [],
+        "title": "迁移到工作情境"
+      }
+    ],
+    "workplaceUse": [
+      {
+        "en": "We should not infer acceptance from the absence of complaints.",
+        "zh": "我们不应因为没有投诉就推断已经验收。",
+        "whenToUse": "区分沉默和正式接受。",
+        "limitation": "原创教学表达；具体权限和流程以实际约定为准。",
+        "origin": "original"
+      },
+      {
+        "en": "What evidence supports that inference?",
+        "zh": "什么证据支持这个推断？",
+        "whenToUse": "要求说明结论依据。",
+        "limitation": "原创教学表达；具体权限和流程以实际约定为准。",
+        "origin": "original"
+      }
+    ],
+    "practiceRefs": [],
+    "edges": []
+  },
+  "practices": [],
+  "sources": [
+    {
+      "schemaVersion": 1,
+      "sourceId": "original-vocab",
+      "version": "2026-11-16",
+      "title": "原词库教学句／转述",
+      "url": "public/vocabulary.json",
+      "accessMode": "user_material",
+      "retrievedAt": "2026-11-16T00:00:00+08:00",
+      "coverage": "partial",
+      "rights": "用户授权处理原词库",
+      "limitations": [
+        "非外部作者逐字引文；保留原ID与原句"
+      ]
+    },
+    {
+      "schemaVersion": 1,
+      "sourceId": "oewn-2025",
+      "version": "2025",
+      "title": "Open English Wordnet 2025",
+      "url": "https://en-word.net/",
+      "accessMode": "licensed_snapshot",
+      "retrievedAt": "2026-11-16T00:00:00+08:00",
+      "coverage": "partial",
+      "rights": "CC BY 4.0 + Princeton notice",
+      "limitations": [
+        "本包仅选部分源义；中文非官方译文"
+      ]
+    }
+  ],
+  "verifiedIPA": null,
+  "dictionaryURL": "https://en-word.net/",
+  "historyURL": null
+}

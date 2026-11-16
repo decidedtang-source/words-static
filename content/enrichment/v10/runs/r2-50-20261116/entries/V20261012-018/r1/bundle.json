@@ -1,0 +1,503 @@
+{
+  "snapshot": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-018",
+    "term": "commitment",
+    "quote": "Please confirm the conditions behind this commitment.",
+    "batch": "2026-10-12",
+    "originalFileSHA": "ec65d33d6da99ebad2577f6c9f9938499823d29d117f43532302cf964a4c60a3",
+    "quoteSHA": "79c6368037e84230f213ac171e8fae7d68f897a6022fc80b56ed5655a0d4ac69",
+    "originalIPA": "kəˈmɪt.mənt",
+    "originalPOS": "n.",
+    "originalMeaning": "对具体行动或交付作出的明确承诺"
+  },
+  "selection": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-018",
+    "version": "1",
+    "inventoryRefs": [
+      "inventory:V20261012-018"
+    ],
+    "selectedSenseIds": [
+      "commitment%1:10:00::",
+      "commitment%1:07:01::"
+    ],
+    "reason": "按学习用途选择常见或易混义；这里不是语料频率排名。",
+    "usageTip": "承诺要连同条件一起理解；commitment to quality常表示持续投入。",
+    "general": "承诺；表示会做某事；投入；坚定致力于某事",
+    "senses": [
+      {
+        "senseId": "commitment%1:10:00::",
+        "title": "承诺；表示会做某事",
+        "usageLabels": [
+          "n.",
+          "精选学习义"
+        ],
+        "explanationZh": "承诺；表示会做某事。例句说明的用法：我们承诺在星期五前回复。",
+        "examples": [
+          {
+            "en": "We made a commitment to respond by Friday.",
+            "zh": "我们承诺在星期五前回复。",
+            "origin": "original",
+            "sourceRef": null,
+            "usageNote": "承诺；表示会做某事。例句说明的用法：我们承诺在星期五前回复。"
+          }
+        ],
+        "evidenceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-c.json/commitment/n / commitment%1:10:00::",
+            "supportedClaim": "a message that makes a pledge",
+            "url": "https://en-word.net/"
+          }
+        ]
+      },
+      {
+        "senseId": "commitment%1:07:01::",
+        "title": "投入；坚定致力于某事",
+        "usageLabels": [
+          "n.",
+          "精选学习义"
+        ],
+        "explanationZh": "投入；坚定致力于某事。例句说明的用法：她对质量的投入很明显。",
+        "examples": [
+          {
+            "en": "Her commitment to quality is clear.",
+            "zh": "她对质量的投入很明显。",
+            "origin": "original",
+            "sourceRef": null,
+            "usageNote": "投入；坚定致力于某事。例句说明的用法：她对质量的投入很明显。"
+          }
+        ],
+        "evidenceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-c.json/commitment/n / commitment%1:07:01::",
+            "supportedClaim": "the trait of sincere and steadfast fixity of purpose",
+            "url": "https://en-word.net/"
+          }
+        ]
+      }
+    ]
+  },
+  "senses": [
+    {
+      "schemaVersion": 1,
+      "senseId": "commitment%1:10:00::",
+      "lexicalEntryId": "lex:commitment",
+      "pos": "n.",
+      "definitionOrigin": "licensed_verbatim",
+      "meaning": {
+        "definitionEn": "a message that makes a pledge",
+        "glossZh": "承诺；表示会做某事",
+        "glossOrigin": "editorial"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "oewn-2025",
+          "sourceVersion": "2025",
+          "locator": "entries-c.json/commitment/n / commitment%1:10:00::",
+          "supportedClaim": "a message that makes a pledge",
+          "url": "https://en-word.net/"
+        }
+      ],
+      "version": "1"
+    },
+    {
+      "schemaVersion": 1,
+      "senseId": "commitment%1:07:01::",
+      "lexicalEntryId": "lex:commitment",
+      "pos": "n.",
+      "definitionOrigin": "licensed_verbatim",
+      "meaning": {
+        "definitionEn": "the trait of sincere and steadfast fixity of purpose",
+        "glossZh": "投入；坚定致力于某事",
+        "glossOrigin": "editorial"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "oewn-2025",
+          "sourceVersion": "2025",
+          "locator": "entries-c.json/commitment/n / commitment%1:07:01::",
+          "supportedClaim": "the trait of sincere and steadfast fixity of purpose",
+          "url": "https://en-word.net/"
+        }
+      ],
+      "version": "1"
+    }
+  ],
+  "inventory": {
+    "schemaVersion": 1,
+    "inventoryId": "inventory:V20261012-018",
+    "version": "1",
+    "lexicalEntryId": "lex:commitment",
+    "sources": [
+      "oewn-2025"
+    ],
+    "senseIds": [
+      "commitment%1:10:00::",
+      "commitment%1:07:01::"
+    ],
+    "coverageStatus": "partial"
+  },
+  "context": {
+    "schemaVersion": 1,
+    "contextId": "V20261012-018-context",
+    "entryId": "V20261012-018",
+    "sourceRef": "original-vocab",
+    "quote": "Please confirm the conditions behind this commitment.",
+    "quoteSHA": "79c6368037e84230f213ac171e8fae7d68f897a6022fc80b56ed5655a0d4ac69",
+    "translation": "请确认这项承诺背后的条件。",
+    "quoteType": "原词库教学例句／转述；未认定为外部作者逐字引文",
+    "meaning": "需要核对其成立条件的承诺",
+    "qualifiers": {
+      "polarity": "affirmative",
+      "modality": [],
+      "conditions": [],
+      "agents": [
+        "implicit addressee"
+      ],
+      "timeScope": null,
+      "excludedInferences": [
+        "不能从一个commitment推断合同法律效力、具体批准人或无条件保证。"
+      ]
+    },
+    "location": "selected",
+    "senseRefs": [
+      "commitment%1:10:00::"
+    ],
+    "targetSpans": [
+      {
+        "start": 42,
+        "end": 52,
+        "text": "commitment",
+        "mappingType": "exact",
+        "note": "原句精确匹配；词形变化时不伪造span"
+      }
+    ],
+    "context": "仅以保留的这条原句为分析范围；未知背景不补造。"
+  },
+  "history": {
+    "schemaVersion": 1,
+    "lexicalEntryId": "lex:commitment",
+    "version": "1",
+    "summary": "",
+    "claims": [],
+    "sourceRefs": [],
+    "limitations": [
+      "未核实历史资料，不编造词源或年代。"
+    ]
+  },
+  "bridge": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-018",
+    "contextId": "V20261012-018-context",
+    "version": "1",
+    "location": "selected",
+    "strategies": [
+      "direct",
+      "contextualization"
+    ],
+    "anchorRefs": [
+      "commitment%1:10:00::"
+    ],
+    "targetRefs": [
+      "commitment%1:10:00::"
+    ],
+    "semanticText": "本句采用承诺义，而不是“热忱投入”的品质义。conditions提示读者把承诺连同前提一起理解。",
+    "boundary": "不能从一个commitment推断合同法律效力、具体批准人或无条件保证。",
+    "evidenceRefs": [
+      {
+        "sourceId": "oewn-2025",
+        "sourceVersion": "2025",
+        "locator": "entries-c.json/commitment/n / commitment%1:10:00::",
+        "supportedClaim": "a message that makes a pledge",
+        "url": "https://en-word.net/"
+      }
+    ],
+    "historyLink": null,
+    "historyClaimRefs": [],
+    "returnTargets": [
+      "wl-common",
+      "wl-history"
+    ]
+  },
+  "analysis": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-018",
+    "contextId": "V20261012-018-context",
+    "version": "1",
+    "promptHash": "aaf3bd1e99daf47a70a2a158973652d67ff14dafcfc1748b3fc2a09d719885db",
+    "depth": "standard",
+    "depthReason": "需辨析相邻用法并保留原句的承诺或证据边界。",
+    "coverage": {
+      "syntax": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "syntax-concept"
+        ]
+      },
+      "concept": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "syntax-concept"
+        ]
+      },
+      "contrast": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "contrast"
+        ]
+      },
+      "languageGame": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "game-neighbors"
+        ]
+      },
+      "englishNeighbors": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "game-neighbors"
+        ]
+      },
+      "pragmaticAction": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "action"
+        ]
+      },
+      "workplaceUse": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "workplace"
+        ]
+      }
+    },
+    "blocks": [
+      {
+        "blockId": "syntax-concept",
+        "dimensions": [
+          "syntax",
+          "concept"
+        ],
+        "text": "Please confirm请求确认，宾语是conditions，不是重新承诺；behind this commitment指支撑或限制这项承诺的前提。 说话者承认正在讨论一项承诺，但尚要核对其条件。未说明条件是什么，不能替原句补成“所有批准已经完成”。",
+        "sourceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-c.json/commitment/n / commitment%1:10:00::",
+            "supportedClaim": "a message that makes a pledge",
+            "url": "https://en-word.net/"
+          }
+        ],
+        "title": "句子结构与当前所指"
+      },
+      {
+        "blockId": "contrast",
+        "dimensions": [
+          "contrast"
+        ],
+        "text": "commitment比intention更有承担意味；但实际约束还要看措辞和情境。条件承诺与无条件承诺尤其不能混写。",
+        "sourceRefs": [],
+        "title": "容易混淆的地方"
+      },
+      {
+        "blockId": "game-neighbors",
+        "dimensions": [
+          "languageGame",
+          "englishNeighbors"
+        ],
+        "text": "这是承诺核对，应该让双方明确范围、前提和变化时的沟通安排；共享实践卡只是教学提示，不是合同解释。 make/meet a commitment分别连到提出和履行；conditions/assumptions连到能否按承诺执行，追问因此有明确对象。",
+        "sourceRefs": [],
+        "title": "讨论通常怎样继续"
+      },
+      {
+        "blockId": "action",
+        "dimensions": [
+          "pragmaticAction"
+        ],
+        "text": "说话者要求澄清承诺的依据，并没有替对方确认任何条件已满足。",
+        "sourceRefs": [],
+        "title": "说话者正在做什么"
+      },
+      {
+        "blockId": "workplace",
+        "dimensions": [
+          "workplaceUse"
+        ],
+        "text": "下面是迁移到制造业沟通的新例句；不代表原场景中已发生的决定。",
+        "sourceRefs": [],
+        "title": "迁移到工作情境"
+      }
+    ],
+    "workplaceUse": [
+      {
+        "en": "What assumptions does this delivery commitment depend on?",
+        "zh": "这项交付承诺依赖哪些假设？",
+        "whenToUse": "核对承诺前提。",
+        "limitation": "原创教学表达；具体权限和流程以实际约定为准。",
+        "origin": "original"
+      },
+      {
+        "en": "Please update us if any condition behind the commitment changes.",
+        "zh": "如果承诺背后的任何条件变化，请及时更新。",
+        "whenToUse": "建立条件变化的沟通安排。",
+        "limitation": "原创教学表达；具体权限和流程以实际约定为准。",
+        "origin": "original"
+      }
+    ],
+    "practiceRefs": [
+      {
+        "practiceId": "practice:commitment",
+        "version": "1"
+      },
+      {
+        "practiceId": "practice:ownership",
+        "version": "1"
+      }
+    ],
+    "edges": [
+      {
+        "type": "condition",
+        "targetId": "practice:commitment",
+        "targetVersion": "1",
+        "explanation": "本句要求确认承诺条件；条件沟通需明确谁提供确认，而事项负责人不自动拥有批准权限。"
+      },
+      {
+        "type": "role",
+        "targetId": "practice:ownership",
+        "targetVersion": "1",
+        "explanation": "本句要求确认承诺条件；条件沟通需明确谁提供确认，而事项负责人不自动拥有批准权限。"
+      }
+    ]
+  },
+  "practices": [
+    {
+      "schemaVersion": 1,
+      "practiceId": "practice:commitment",
+      "version": "1",
+      "activity": "核对承诺与前提",
+      "goal": "让双方知道承诺对象、条件及何时需要更新。",
+      "roles": [
+        {
+          "roleName": "提出安排者",
+          "responsibility": "说明条件和范围",
+          "authorityBoundary": "不因发言就视为具有批准权限"
+        },
+        {
+          "roleName": "接收者",
+          "responsibility": "核对理解并提出未决问题",
+          "authorityBoundary": "询问不等于接受承诺"
+        }
+      ],
+      "evidenceCriteria": {
+        "neededEvidence": [
+          "被讨论的版本与范围",
+          "已明确的前提及未决项"
+        ],
+        "decisionCriteria": [
+          "双方能区分暂定安排与已确认承诺"
+        ],
+        "limits": [
+          "教学实践卡，不代替公司合同或授权规则"
+        ]
+      },
+      "questions": [
+        "What conditions does this commitment depend on?",
+        "When will we confirm the date?"
+      ],
+      "responses": [
+        "The date remains tentative until the review is complete."
+      ],
+      "boundaries": [
+        "未回复不等于批准；前提变化需重新沟通。"
+      ],
+      "sourceRefs": []
+    },
+    {
+      "schemaVersion": 1,
+      "practiceId": "practice:ownership",
+      "version": "1",
+      "activity": "明确事项负责人及跟进边界",
+      "goal": "确认谁协调下一步，以及怎样核对进展。",
+      "roles": [
+        {
+          "roleName": "事项负责人",
+          "responsibility": "按约定协调和跟进",
+          "authorityBoundary": "不自动拥有支出、批准或人事权限"
+        },
+        {
+          "roleName": "协作者",
+          "responsibility": "提供所需资料或完成已接受任务",
+          "authorityBoundary": "任务范围须明确"
+        }
+      ],
+      "evidenceCriteria": {
+        "neededEvidence": [
+          "事项描述",
+          "已确认的负责人和下一步"
+        ],
+        "decisionCriteria": [
+          "责任对象和跟进安排可复述"
+        ],
+        "limits": [
+          "具体责任分配依实际约定"
+        ]
+      },
+      "questions": [
+        "Who will own the next action?",
+        "What support does the owner need?"
+      ],
+      "responses": [
+        "I can coordinate the review; approval remains with the designated approver."
+      ],
+      "boundaries": [
+        "承担跟进不等于取得所有批准权。"
+      ],
+      "sourceRefs": []
+    }
+  ],
+  "sources": [
+    {
+      "schemaVersion": 1,
+      "sourceId": "original-vocab",
+      "version": "2026-11-16",
+      "title": "原词库教学句／转述",
+      "url": "public/vocabulary.json",
+      "accessMode": "user_material",
+      "retrievedAt": "2026-11-16T01:45:06.410Z",
+      "coverage": "partial",
+      "rights": "用户授权处理原词库",
+      "limitations": [
+        "非外部作者逐字引文；保留原ID与原句"
+      ]
+    },
+    {
+      "schemaVersion": 1,
+      "sourceId": "oewn-2025",
+      "version": "2025",
+      "title": "Open English Wordnet 2025",
+      "url": "https://en-word.net/",
+      "accessMode": "licensed_snapshot",
+      "retrievedAt": "2026-11-16T01:45:06.410Z",
+      "coverage": "partial",
+      "rights": "CC BY 4.0 + Princeton notice",
+      "limitations": [
+        "本包仅选部分源义；中文非官方译文"
+      ]
+    }
+  ],
+  "verifiedIPA": null,
+  "dictionaryURL": "https://en-word.net/",
+  "historyURL": null
+}

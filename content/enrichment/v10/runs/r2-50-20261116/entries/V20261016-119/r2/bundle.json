@@ -1,0 +1,451 @@
+{
+  "snapshot": {
+    "schemaVersion": 1,
+    "entryId": "V20261016-119",
+    "term": "inflation shock",
+    "quote": "Households may struggle to absorb another inflation shock.",
+    "batch": "2026-10-16",
+    "originalFileSHA": "ec65d33d6da99ebad2577f6c9f9938499823d29d117f43532302cf964a4c60a3",
+    "quoteSHA": "f5256aea5ed52b59cd8467a25d1114c697b42c1d561af7a2bec1581da4af5324",
+    "originalIPA": "ɪnˈfleɪ.ʃən ʃɑːk",
+    "originalPOS": "n. phrase",
+    "originalMeaning": "使总体价格水平突然上升的外部或政策冲击"
+  },
+  "selection": {
+    "schemaVersion": 1,
+    "entryId": "V20261016-119",
+    "version": "1",
+    "inventoryRefs": [
+      "inventory:V20261016-119"
+    ],
+    "selectedSenseIds": [
+      "inflation%1:22:00::",
+      "web:cambridge-shock"
+    ],
+    "reason": "按学习用途选择常见或易混义；这里不是语料频率排名。",
+    "usageTip": "按本句作普通组合解释；不把家庭承受压力改写为某个宏观经济模型的确定预测。",
+    "general": "通胀带来的突然冲击",
+    "senses": [
+      {
+        "senseId": "inflation%1:22:00::",
+        "title": "inflation（组成词／独立词目）：通货膨胀；总体价格上涨",
+        "usageLabels": [
+          "n.",
+          "精选学习义"
+        ],
+        "explanationZh": "普通经济用法指总体价格水平上涨，不是单项商品涨价。",
+        "examples": [
+          {
+            "en": "Inflation has reduced purchasing power.",
+            "zh": "通货膨胀降低了购买力。",
+            "origin": "original",
+            "sourceRef": null,
+            "usageNote": "普通经济用法指总体价格水平上涨，不是单项商品涨价。"
+          }
+        ],
+        "evidenceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-i.json/inflation/n / inflation%1:22:00::",
+            "supportedClaim": "a general and progressive increase in prices",
+            "url": "https://en-word.net/"
+          }
+        ]
+      },
+      {
+        "senseId": "web:cambridge-shock",
+        "title": "shock（组成词／独立词目）：冲击；突然而强烈的打击",
+        "usageLabels": [
+          "n.",
+          "精选学习义"
+        ],
+        "explanationZh": "这里选突然意外事件／反应义，不是地震、休克或电击义。",
+        "examples": [
+          {
+            "en": "The closure came as a shock to the town.",
+            "zh": "工厂关闭给这座城镇带来了冲击。",
+            "origin": "original",
+            "sourceRef": null,
+            "usageNote": "这里选突然意外事件／反应义，不是地震、休克或电击义。"
+          }
+        ],
+        "evidenceRefs": [
+          {
+            "sourceId": "cambridge-shock",
+            "sourceVersion": "2026-11-16",
+            "locator": "noun SURPRISE",
+            "supportedClaim": "shock可指突然、意外且通常不愉快的事件及其反应；此处只作普通语义解释，不引入宏观模型。",
+            "url": "https://dictionary.cambridge.org/us/dictionary/english/shock"
+          }
+        ]
+      }
+    ]
+  },
+  "senses": [
+    {
+      "schemaVersion": 1,
+      "senseId": "inflation%1:22:00::",
+      "lexicalEntryId": "lex:inflation",
+      "pos": "n.",
+      "definitionOrigin": "licensed_verbatim",
+      "meaning": {
+        "definitionEn": "a general and progressive increase in prices",
+        "glossZh": "通货膨胀；总体价格上涨",
+        "glossOrigin": "editorial"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "oewn-2025",
+          "sourceVersion": "2025",
+          "locator": "entries-i.json/inflation/n / inflation%1:22:00::",
+          "supportedClaim": "a general and progressive increase in prices",
+          "url": "https://en-word.net/"
+        }
+      ],
+      "version": "1"
+    },
+    {
+      "schemaVersion": 1,
+      "senseId": "web:cambridge-shock",
+      "lexicalEntryId": "lex:shock",
+      "pos": "n.",
+      "definitionOrigin": "short_quote",
+      "meaning": {
+        "definitionEn": "a sudden, unexpected, and often unpleasant or offensive event",
+        "glossZh": "冲击；突然而强烈的打击",
+        "glossOrigin": "editorial"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "cambridge-shock",
+          "sourceVersion": "2026-11-16",
+          "locator": "noun SURPRISE",
+          "supportedClaim": "shock可指突然、意外且通常不愉快的事件及其反应；此处只作普通语义解释，不引入宏观模型。",
+          "url": "https://dictionary.cambridge.org/us/dictionary/english/shock"
+        }
+      ],
+      "version": "1"
+    }
+  ],
+  "inventory": {
+    "schemaVersion": 1,
+    "inventoryId": "inventory:V20261016-119",
+    "version": "1",
+    "lexicalEntryId": "lex:inflation shock",
+    "sources": [
+      "oewn-2025",
+      "cambridge-shock"
+    ],
+    "senseIds": [
+      "inflation%1:22:00::",
+      "web:cambridge-shock"
+    ],
+    "coverageStatus": "component_partial"
+  },
+  "context": {
+    "schemaVersion": 1,
+    "contextId": "V20261016-119-context",
+    "entryId": "V20261016-119",
+    "sourceRef": "original-vocab",
+    "quote": "Households may struggle to absorb another inflation shock.",
+    "quoteSHA": "f5256aea5ed52b59cd8467a25d1114c697b42c1d561af7a2bec1581da4af5324",
+    "translation": "家庭可能难以承受又一次通胀冲击。",
+    "quoteType": "原词库教学例句／转述；未认定为外部作者逐字引文",
+    "meaning": "物价上涨给家庭购买力和支出安排带来的冲击",
+    "qualifiers": {
+      "polarity": "affirmative",
+      "modality": [
+        "may"
+      ],
+      "conditions": [],
+      "agents": [
+        "households"
+      ],
+      "timeScope": "another shock (prior event unspecified)",
+      "excludedInferences": [
+        "may不是必然，households也没有被原句量化为全部家庭。"
+      ]
+    },
+    "location": "whole_expression",
+    "senseRefs": [
+      "inflation%1:22:00::",
+      "web:cambridge-shock"
+    ],
+    "targetSpans": [
+      {
+        "start": 42,
+        "end": 57,
+        "text": "inflation shock",
+        "mappingType": "exact",
+        "note": "原句精确匹配；词形变化时不伪造span"
+      }
+    ],
+    "context": "仅以保留的这条原句为分析范围；未知背景不补造。",
+    "expressionExplanation": {
+      "kind": "compositional",
+      "text": "物价上涨给家庭购买力和支出安排带来的冲击",
+      "componentRefs": [
+        {
+          "sourceId": "oewn-2025",
+          "sourceVersion": "2025",
+          "locator": "entries-i.json/inflation/n / inflation%1:22:00::",
+          "supportedClaim": "a general and progressive increase in prices",
+          "url": "https://en-word.net/"
+        },
+        {
+          "sourceId": "cambridge-shock",
+          "sourceVersion": "2026-11-16",
+          "locator": "noun SURPRISE",
+          "supportedClaim": "shock可指突然、意外且通常不愉快的事件及其反应；此处只作普通语义解释，不引入宏观模型。",
+          "url": "https://dictionary.cambridge.org/us/dictionary/english/shock"
+        }
+      ],
+      "wholeExpressionRefs": [],
+      "boundary": "may不是必然，households也没有被原句量化为全部家庭。",
+      "reviewerBasis": "待独立完整包核对表达身份与证据范围"
+    }
+  },
+  "history": {
+    "schemaVersion": 1,
+    "lexicalEntryId": "lex:inflation shock",
+    "version": "1",
+    "summary": "",
+    "claims": [],
+    "sourceRefs": [],
+    "limitations": [
+      "未核实历史资料，不编造词源或年代。"
+    ]
+  },
+  "bridge": {
+    "schemaVersion": 1,
+    "entryId": "V20261016-119",
+    "contextId": "V20261016-119-context",
+    "version": "1",
+    "location": "whole_expression",
+    "strategies": [
+      "contextualization"
+    ],
+    "anchorRefs": [
+      "inflation%1:22:00::"
+    ],
+    "targetRefs": [
+      "inflation%1:22:00::",
+      "web:cambridge-shock"
+    ],
+    "semanticText": "经核查的通胀义与冲击义可以支持这里的组合解释。absorb在句中是承受影响的比喻，不能据此补出某个专门经济模型。",
+    "boundary": "may不是必然，households也没有被原句量化为全部家庭。",
+    "evidenceRefs": [
+      {
+        "sourceId": "oewn-2025",
+        "sourceVersion": "2025",
+        "locator": "entries-i.json/inflation/n / inflation%1:22:00::",
+        "supportedClaim": "a general and progressive increase in prices",
+        "url": "https://en-word.net/"
+      },
+      {
+        "sourceId": "cambridge-shock",
+        "sourceVersion": "2026-11-16",
+        "locator": "noun SURPRISE",
+        "supportedClaim": "shock可指突然、意外且通常不愉快的事件及其反应；此处只作普通语义解释，不引入宏观模型。",
+        "url": "https://dictionary.cambridge.org/us/dictionary/english/shock"
+      }
+    ],
+    "historyLink": null,
+    "historyClaimRefs": [],
+    "returnTargets": [
+      "wl-common",
+      "wl-history"
+    ]
+  },
+  "analysis": {
+    "schemaVersion": 1,
+    "entryId": "V20261016-119",
+    "contextId": "V20261016-119-context",
+    "version": "1",
+    "promptHash": "aaf3bd1e99daf47a70a2a158973652d67ff14dafcfc1748b3fc2a09d719885db",
+    "depth": "deep",
+    "depthReason": "需区分宏观概念、家庭影响与可能性限定。",
+    "coverage": {
+      "syntax": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "syntax-concept"
+        ]
+      },
+      "concept": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "syntax-concept"
+        ]
+      },
+      "contrast": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "contrast"
+        ]
+      },
+      "languageGame": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "game-neighbors"
+        ]
+      },
+      "englishNeighbors": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "game-neighbors"
+        ]
+      },
+      "pragmaticAction": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "action"
+        ]
+      },
+      "workplaceUse": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "workplace"
+        ]
+      }
+    },
+    "blocks": [
+      {
+        "blockId": "syntax-concept",
+        "dimensions": [
+          "syntax",
+          "concept"
+        ],
+        "text": "may struggle保留可能性；to absorb说明难以承受的对象；another表示又一次，但没有交代此前事件的具体时间或规模。 价格总体上涨会使固定收入能买到的东西减少。这里讨论家庭承受变化的压力，没有提出通胀发生机制或预测具体经济指标。",
+        "sourceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-i.json/inflation/n / inflation%1:22:00::",
+            "supportedClaim": "a general and progressive increase in prices",
+            "url": "https://en-word.net/"
+          },
+          {
+            "sourceId": "cambridge-shock",
+            "sourceVersion": "2026-11-16",
+            "locator": "noun SURPRISE",
+            "supportedClaim": "shock可指突然、意外且通常不愉快的事件及其反应；此处只作普通语义解释，不引入宏观模型。",
+            "url": "https://dictionary.cambridge.org/us/dictionary/english/shock"
+          }
+        ],
+        "title": "句子结构与当前所指"
+      },
+      {
+        "blockId": "contrast",
+        "dimensions": [
+          "contrast"
+        ],
+        "text": "inflation shock强调冲击性影响；inflation rate是价格变化率指标。并非任何一个商品涨价都足以证明总体通胀。",
+        "sourceRefs": [],
+        "title": "容易混淆的地方"
+      },
+      {
+        "blockId": "game-neighbors",
+        "dimensions": [
+          "languageGame",
+          "englishNeighbors"
+        ],
+        "text": "这是经济评论的阅读情境。可以追问哪些家庭、收入是否变化、冲击在什么时间范围内；不能强行替换成项目成本报告。 absorb a shock连到应对冲击；purchasing power连到实际能买多少；household budget则把抽象价格变化落到支出安排。",
+        "sourceRefs": [],
+        "title": "讨论通常怎样继续"
+      },
+      {
+        "blockId": "action",
+        "dimensions": [
+          "pragmaticAction"
+        ],
+        "text": "说话者在提示可能的承受压力，而不是断言所有家庭都会遭遇相同结果。",
+        "sourceRefs": [],
+        "title": "说话者正在做什么"
+      },
+      {
+        "blockId": "workplace",
+        "dimensions": [
+          "workplaceUse"
+        ],
+        "text": "下面是迁移到制造业沟通的新例句；不代表原场景中已发生的决定。",
+        "sourceRefs": [],
+        "title": "迁移到工作情境"
+      }
+    ],
+    "workplaceUse": [
+      {
+        "en": "Can our cost plan absorb another sharp increase in energy prices?",
+        "zh": "我们的成本计划能承受能源价格再次大幅上涨吗？",
+        "whenToUse": "将承受冲击的表达迁移到制造成本讨论。",
+        "limitation": "原创教学表达；具体权限和流程以实际约定为准。",
+        "origin": "original"
+      },
+      {
+        "en": "We should test how the budget responds to a price shock.",
+        "zh": "我们应检验预算面对价格冲击时的表现。",
+        "whenToUse": "提出情景分析，不预言涨价必然发生。",
+        "limitation": "原创教学表达；具体权限和流程以实际约定为准。",
+        "origin": "original"
+      }
+    ],
+    "practiceRefs": [],
+    "edges": []
+  },
+  "practices": [],
+  "sources": [
+    {
+      "schemaVersion": 1,
+      "sourceId": "original-vocab",
+      "version": "2026-11-16",
+      "title": "原词库教学句／转述",
+      "url": "public/vocabulary.json",
+      "accessMode": "user_material",
+      "retrievedAt": "2026-11-16T01:45:06.410Z",
+      "coverage": "partial",
+      "rights": "用户授权处理原词库",
+      "limitations": [
+        "非外部作者逐字引文；保留原ID与原句"
+      ]
+    },
+    {
+      "schemaVersion": 1,
+      "sourceId": "oewn-2025",
+      "version": "2025",
+      "title": "Open English Wordnet 2025",
+      "url": "https://en-word.net/",
+      "accessMode": "licensed_snapshot",
+      "retrievedAt": "2026-11-16T01:45:06.410Z",
+      "coverage": "partial",
+      "rights": "CC BY 4.0 + Princeton notice",
+      "limitations": [
+        "本包仅选部分源义；中文非官方译文"
+      ]
+    },
+    {
+      "schemaVersion": 1,
+      "sourceId": "cambridge-shock",
+      "version": "2026-11-16",
+      "title": "cambridge-shock",
+      "url": "https://dictionary.cambridge.org/us/dictionary/english/shock",
+      "accessMode": "indexed_excerpt",
+      "retrievedAt": "2026-11-16T01:45:06.410Z",
+      "coverage": "partial",
+      "rights": "必要短引与中文整理，不声称批量复制许可",
+      "limitations": [
+        "仅支持记录中的具体主张，不代表完整条目"
+      ]
+    }
+  ],
+  "verifiedIPA": null,
+  "dictionaryURL": "https://en-word.net/",
+  "historyURL": null
+}

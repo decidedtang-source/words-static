@@ -1,0 +1,484 @@
+{
+  "snapshot": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-078",
+    "term": "qualify",
+    "quote": "I should qualify that statement: the date depends on approval.",
+    "batch": "2026-10-12",
+    "originalFileSHA": "ec65d33d6da99ebad2577f6c9f9938499823d29d117f43532302cf964a4c60a3",
+    "quoteSHA": "ca266abf7e6676a1d63c32325c05f845e4c182ac19da900263b6537c1175d636",
+    "originalIPA": "ˈkwɑː.lə.faɪ",
+    "originalPOS": "v.",
+    "originalMeaning": "给一项陈述加上条件或限制，使其更准确"
+  },
+  "selection": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-078",
+    "version": "1",
+    "inventoryRefs": [
+      "inventory:V20261012-078"
+    ],
+    "selectedSenseIds": [
+      "qualify%2:42:00::",
+      "qualify%2:30:00::"
+    ],
+    "reason": "按学习用途选择常见或易混义；这里不是语料频率排名。",
+    "usageTip": "qualify for a role谈资格；qualify a statement谈给说法加限定。",
+    "general": "符合条件；取得资格；使具备条件或能力",
+    "senses": [
+      {
+        "senseId": "qualify%2:42:00::",
+        "title": "符合条件；取得资格",
+        "usageLabels": [
+          "v.",
+          "精选学习义"
+        ],
+        "explanationZh": "符合条件；取得资格。例句说明的用法：你必须满足标准才符合资格。",
+        "examples": [
+          {
+            "en": "You must meet the criteria to qualify.",
+            "zh": "你必须满足标准才符合资格。",
+            "origin": "original",
+            "sourceRef": null,
+            "usageNote": "符合条件；取得资格。例句说明的用法：你必须满足标准才符合资格。"
+          }
+        ],
+        "evidenceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-q.json/qualify/v / qualify%2:42:00::",
+            "supportedClaim": "prove capable or fit; meet requirements",
+            "url": "https://en-word.net/"
+          }
+        ]
+      },
+      {
+        "senseId": "qualify%2:30:00::",
+        "title": "使具备条件或能力",
+        "usageLabels": [
+          "v.",
+          "精选学习义"
+        ],
+        "explanationZh": "使具备条件或能力。例句说明的用法：这门课程使员工具备开展该项检验的资格。",
+        "examples": [
+          {
+            "en": "The course qualifies staff to perform the inspection.",
+            "zh": "这门课程使员工具备开展该项检验的资格。",
+            "origin": "original",
+            "sourceRef": null,
+            "usageNote": "使具备条件或能力。例句说明的用法：这门课程使员工具备开展该项检验的资格。"
+          }
+        ],
+        "evidenceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-q.json/qualify/v / qualify%2:30:00::",
+            "supportedClaim": "make fit or prepared",
+            "url": "https://en-word.net/"
+          }
+        ]
+      }
+    ]
+  },
+  "senses": [
+    {
+      "schemaVersion": 1,
+      "senseId": "qualify%2:42:00::",
+      "lexicalEntryId": "lex:qualify",
+      "pos": "v.",
+      "definitionOrigin": "licensed_verbatim",
+      "meaning": {
+        "definitionEn": "prove capable or fit; meet requirements",
+        "glossZh": "符合条件；取得资格",
+        "glossOrigin": "editorial"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "oewn-2025",
+          "sourceVersion": "2025",
+          "locator": "entries-q.json/qualify/v / qualify%2:42:00::",
+          "supportedClaim": "prove capable or fit; meet requirements",
+          "url": "https://en-word.net/"
+        }
+      ],
+      "version": "1"
+    },
+    {
+      "schemaVersion": 1,
+      "senseId": "qualify%2:30:00::",
+      "lexicalEntryId": "lex:qualify",
+      "pos": "v.",
+      "definitionOrigin": "licensed_verbatim",
+      "meaning": {
+        "definitionEn": "make fit or prepared",
+        "glossZh": "使具备条件或能力",
+        "glossOrigin": "editorial"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "oewn-2025",
+          "sourceVersion": "2025",
+          "locator": "entries-q.json/qualify/v / qualify%2:30:00::",
+          "supportedClaim": "make fit or prepared",
+          "url": "https://en-word.net/"
+        }
+      ],
+      "version": "1"
+    },
+    {
+      "schemaVersion": 1,
+      "senseId": "web:cambridge-qualify",
+      "lexicalEntryId": "lex:qualify",
+      "pos": "v.",
+      "definitionOrigin": "short_quote",
+      "meaning": {
+        "definitionEn": "to limit the strength or meaning of a statement",
+        "glossZh": "给陈述加限定",
+        "glossOrigin": "editorial"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "cambridge-qualify",
+          "sourceVersion": "2026-11-16",
+          "locator": "verb, limit a statement",
+          "supportedClaim": "qualify可给陈述加限定；与具备资格义区分。",
+          "url": "https://dictionary.cambridge.org/dictionary/english/qualify"
+        }
+      ],
+      "version": "1"
+    }
+  ],
+  "inventory": {
+    "schemaVersion": 1,
+    "inventoryId": "inventory:V20261012-078",
+    "version": "1",
+    "lexicalEntryId": "lex:qualify",
+    "sources": [
+      "oewn-2025",
+      "cambridge-qualify"
+    ],
+    "senseIds": [
+      "qualify%2:42:00::",
+      "qualify%2:30:00::",
+      "web:cambridge-qualify"
+    ],
+    "coverageStatus": "partial"
+  },
+  "context": {
+    "schemaVersion": 1,
+    "contextId": "V20261012-078-context",
+    "entryId": "V20261012-078",
+    "sourceRef": "original-vocab",
+    "quote": "I should qualify that statement: the date depends on approval.",
+    "quoteSHA": "ca266abf7e6676a1d63c32325c05f845e4c182ac19da900263b6537c1175d636",
+    "translation": "我应该给那句话加个限定：这个日期取决于批准。",
+    "quoteType": "原词库教学例句／转述；未认定为外部作者逐字引文",
+    "meaning": "补充条件，限制原陈述的确定程度",
+    "qualifiers": {
+      "polarity": "affirmative",
+      "modality": [
+        "should"
+      ],
+      "conditions": [
+        "the date depends on approval"
+      ],
+      "agents": [
+        "I"
+      ],
+      "timeScope": null,
+      "excludedInferences": [
+        "加限定不是批准日期，也不必然表示原陈述全部错误。"
+      ]
+    },
+    "location": "inventory_not_selected",
+    "senseRefs": [
+      "web:cambridge-qualify"
+    ],
+    "targetSpans": [
+      {
+        "start": 9,
+        "end": 16,
+        "text": "qualify",
+        "mappingType": "exact",
+        "note": "原句精确匹配；词形变化时不伪造span"
+      }
+    ],
+    "context": "仅以保留的这条原句为分析范围；未知背景不补造。"
+  },
+  "history": {
+    "schemaVersion": 1,
+    "lexicalEntryId": "lex:qualify",
+    "version": "1",
+    "summary": "词条将给予性质用法记于15世纪中叶，将限制／修正用法记于1530年代；具备资格和加限定是不同现代用法。",
+    "claims": [
+      {
+        "claimId": "history-qualify-claim",
+        "text": "词条将给予性质用法记于15世纪中叶，将限制／修正用法记于1530年代；具备资格和加限定是不同现代用法。",
+        "timePrecision": "按史源记录，不作精确起源日期",
+        "sourceRefs": [
+          {
+            "sourceId": "history-qualify",
+            "sourceVersion": "2026-11-16",
+            "locator": "qualify (v.), paragraphs 1–2",
+            "supportedClaim": "词条将给予性质用法记于15世纪中叶，将限制／修正用法记于1530年代；具备资格和加限定是不同现代用法。",
+            "url": "https://www.etymonline.com/word/qualify"
+          }
+        ]
+      }
+    ],
+    "sourceRefs": [
+      {
+        "sourceId": "history-qualify",
+        "sourceVersion": "2026-11-16",
+        "locator": "qualify (v.), paragraphs 1–2",
+        "supportedClaim": "词条将给予性质用法记于15世纪中叶，将限制／修正用法记于1530年代；具备资格和加限定是不同现代用法。",
+        "url": "https://www.etymonline.com/word/qualify"
+      }
+    ],
+    "limitations": [
+      "仅限该词源条目记载；不能推出原句中的组织事实。"
+    ]
+  },
+  "bridge": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-078",
+    "contextId": "V20261012-078-context",
+    "version": "1",
+    "location": "inventory_not_selected",
+    "strategies": [
+      "direct",
+      "no_derivation"
+    ],
+    "anchorRefs": [
+      "qualify%2:42:00::"
+    ],
+    "targetRefs": [
+      "web:cambridge-qualify"
+    ],
+    "semanticText": "前部先学的是资格义，本句却是词典另收的“给陈述加限定”义。先补上这个义，再看冒号后的批准条件如何限制日期；不能从“取得资格”硬推出来。",
+    "boundary": "加限定不是批准日期，也不必然表示原陈述全部错误。",
+    "evidenceRefs": [
+      {
+        "sourceId": "cambridge-qualify",
+        "sourceVersion": "2026-11-16",
+        "locator": "verb, limit a statement",
+        "supportedClaim": "qualify可给陈述加限定；与具备资格义区分。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/qualify"
+      }
+    ],
+    "historyLink": {
+      "text": "史源把“加限制”的用法记到1530年代；所以本句不是临时把资格义硬引申成新义。历史只能说明这种用法已有记录，不能证明当前日期满足批准条件。",
+      "relationType": "documented_usage_with_bounded_editorial_link",
+      "claimRefs": [
+        "history-qualify-claim"
+      ],
+      "limitation": "加限定不是批准日期，也不必然表示原陈述全部错误。"
+    },
+    "historyClaimRefs": [
+      "history-qualify-claim"
+    ],
+    "returnTargets": [
+      "wl-common",
+      "wl-history"
+    ]
+  },
+  "analysis": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-078",
+    "contextId": "V20261012-078-context",
+    "version": "1",
+    "promptHash": "aaf3bd1e99daf47a70a2a158973652d67ff14dafcfc1748b3fc2a09d719885db",
+    "depth": "standard",
+    "depthReason": "需辨析相邻用法并保留原句的承诺或证据边界。",
+    "coverage": {
+      "syntax": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "syntax-concept"
+        ]
+      },
+      "concept": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "syntax-concept"
+        ]
+      },
+      "contrast": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "contrast"
+        ]
+      },
+      "languageGame": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "game-neighbors"
+        ]
+      },
+      "englishNeighbors": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "game-neighbors"
+        ]
+      },
+      "pragmaticAction": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "action"
+        ]
+      },
+      "workplaceUse": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "workplace"
+        ]
+      }
+    },
+    "blocks": [
+      {
+        "blockId": "syntax-concept",
+        "dimensions": [
+          "syntax",
+          "concept"
+        ],
+        "text": "qualify的宾语是that statement，不是人；冒号后的the date depends on approval给出要补充的限定。should表示说话者认为应作修正。 对日期的表述若缺少批准条件，可能让人误以为已经确定。qualify在这里保留陈述的一部分，同时缩小其适用范围。",
+        "sourceRefs": [
+          {
+            "sourceId": "cambridge-qualify",
+            "sourceVersion": "2026-11-16",
+            "locator": "verb, limit a statement",
+            "supportedClaim": "qualify可给陈述加限定；与具备资格义区分。",
+            "url": "https://dictionary.cambridge.org/dictionary/english/qualify"
+          }
+        ],
+        "title": "句子结构与当前所指"
+      },
+      {
+        "blockId": "contrast",
+        "dimensions": [
+          "contrast"
+        ],
+        "text": "qualify a statement不等于withdraw a statement；前者加条件，后者撤回。qualify for a role的宾语／介词结构又对应资格义。",
+        "sourceRefs": [],
+        "title": "容易混淆的地方"
+      },
+      {
+        "blockId": "game-neighbors",
+        "dimensions": [
+          "languageGame",
+          "englishNeighbors"
+        ],
+        "text": "这是承诺澄清。接收者接下来应在计划和对外沟通中保留批准条件，而不是继续转述一个无条件日期。 qualify a statement连到with a caveat或subject to approval，因为这些表达告诉读者哪些条件限制承诺。",
+        "sourceRefs": [],
+        "title": "讨论通常怎样继续"
+      },
+      {
+        "blockId": "action",
+        "dimensions": [
+          "pragmaticAction"
+        ],
+        "text": "说话者在自我修正，让先前陈述不再过强；没有宣布批准已经发生。",
+        "sourceRefs": [],
+        "title": "说话者正在做什么"
+      },
+      {
+        "blockId": "workplace",
+        "dimensions": [
+          "workplaceUse"
+        ],
+        "text": "下面是迁移到制造业沟通的新例句；不代表原场景中已发生的决定。",
+        "sourceRefs": [],
+        "title": "迁移到工作情境"
+      }
+    ],
+    "workplaceUse": [
+      {
+        "en": "Let me qualify that estimate: it assumes no tooling changes.",
+        "zh": "让我给那个估算加个限定：它假设工装不变。",
+        "whenToUse": "补充估算前提。",
+        "limitation": "原创教学表达；具体权限和流程以实际约定为准。",
+        "origin": "original"
+      },
+      {
+        "en": "We need to qualify the delivery date with an approval condition.",
+        "zh": "我们需要给交付日期加上批准条件。",
+        "whenToUse": "纠正可能被误读为无条件承诺的日期。",
+        "limitation": "原创教学表达；具体权限和流程以实际约定为准。",
+        "origin": "original"
+      }
+    ],
+    "practiceRefs": [],
+    "edges": []
+  },
+  "practices": [],
+  "sources": [
+    {
+      "schemaVersion": 1,
+      "sourceId": "original-vocab",
+      "version": "2026-11-16",
+      "title": "原词库教学句／转述",
+      "url": "public/vocabulary.json",
+      "accessMode": "user_material",
+      "retrievedAt": "2026-11-16T01:45:06.410Z",
+      "coverage": "partial",
+      "rights": "用户授权处理原词库",
+      "limitations": [
+        "非外部作者逐字引文；保留原ID与原句"
+      ]
+    },
+    {
+      "schemaVersion": 1,
+      "sourceId": "oewn-2025",
+      "version": "2025",
+      "title": "Open English Wordnet 2025",
+      "url": "https://en-word.net/",
+      "accessMode": "licensed_snapshot",
+      "retrievedAt": "2026-11-16T01:45:06.410Z",
+      "coverage": "partial",
+      "rights": "CC BY 4.0 + Princeton notice",
+      "limitations": [
+        "本包仅选部分源义；中文非官方译文"
+      ]
+    },
+    {
+      "schemaVersion": 1,
+      "sourceId": "cambridge-qualify",
+      "version": "2026-11-16",
+      "title": "cambridge-qualify",
+      "url": "https://dictionary.cambridge.org/dictionary/english/qualify",
+      "accessMode": "indexed_excerpt",
+      "retrievedAt": "2026-11-16T01:45:06.410Z",
+      "coverage": "partial",
+      "rights": "必要短引与中文整理，不声称批量复制许可",
+      "limitations": [
+        "仅支持记录中的具体主张，不代表完整条目"
+      ]
+    },
+    {
+      "schemaVersion": 1,
+      "sourceId": "history-qualify",
+      "version": "2026-11-16",
+      "title": "history-qualify",
+      "url": "https://www.etymonline.com/word/qualify",
+      "accessMode": "page",
+      "retrievedAt": "2026-11-16T01:45:06.410Z",
+      "coverage": "partial",
+      "rights": "必要短引与中文整理，不声称批量复制许可",
+      "limitations": [
+        "仅支持记录中的具体主张，不代表完整条目"
+      ]
+    }
+  ],
+  "verifiedIPA": null,
+  "dictionaryURL": "https://en-word.net/",
+  "historyURL": "https://www.etymonline.com/word/qualify"
+}

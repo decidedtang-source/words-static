@@ -1,0 +1,341 @@
+{
+  "snapshot": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-088",
+    "term": "preliminary",
+    "quote": "These are preliminary findings, not a final conclusion.",
+    "batch": "2026-10-12",
+    "originalFileSHA": "ec65d33d6da99ebad2577f6c9f9938499823d29d117f43532302cf964a4c60a3",
+    "quoteSHA": "fe26c3f6955c69eeab7920f814ff780a582afdf1b3328eca40dfeccb54069854",
+    "originalIPA": "prɪˈlɪm.ə.ner.i",
+    "originalPOS": "adj.",
+    "originalMeaning": "正式结论前的初步阶段或结果"
+  },
+  "selection": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-088",
+    "version": "1",
+    "inventoryRefs": [
+      "inventory:V20261012-088"
+    ],
+    "selectedSenseIds": [
+      "preliminary%5:00:00:exploratory:00"
+    ],
+    "reason": "按学习用途选择常见或易混义；这里不是语料频率排名。",
+    "general": "初步的；为后续阶段作准备的",
+    "senses": [
+      {
+        "senseId": "preliminary%5:00:00:exploratory:00",
+        "title": "初步的；为后续阶段作准备的",
+        "usageLabels": [
+          "adj.",
+          "精选学习义"
+        ],
+        "explanationZh": "初步的；为后续阶段作准备的",
+        "examples": [
+          {
+            "en": "These are preliminary observations.",
+            "zh": "这些是初步观察结果。",
+            "origin": "original",
+            "sourceRef": null,
+            "usageNote": "原创教学例句，不是来源原话"
+          }
+        ],
+        "evidenceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-p.json/preliminary/a / preliminary%5:00:00:exploratory:00",
+            "supportedClaim": "denoting an action or event preceding or in preparation for something more important",
+            "url": "https://en-word.net/"
+          }
+        ]
+      }
+    ]
+  },
+  "senses": [
+    {
+      "schemaVersion": 1,
+      "senseId": "preliminary%5:00:00:exploratory:00",
+      "lexicalEntryId": "lex:preliminary",
+      "pos": "adj.",
+      "meaning": {
+        "definitionEn": "denoting an action or event preceding or in preparation for something more important",
+        "glossZh": "初步的；为后续阶段作准备的",
+        "glossOrigin": "editorial"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "oewn-2025",
+          "sourceVersion": "2025",
+          "locator": "entries-p.json/preliminary/a / preliminary%5:00:00:exploratory:00",
+          "supportedClaim": "denoting an action or event preceding or in preparation for something more important",
+          "url": "https://en-word.net/"
+        }
+      ],
+      "version": "1"
+    }
+  ],
+  "inventory": {
+    "schemaVersion": 1,
+    "inventoryId": "inventory:V20261012-088",
+    "version": "1",
+    "lexicalEntryId": "lex:preliminary",
+    "sources": [
+      "oewn-2025"
+    ],
+    "senseIds": [
+      "preliminary%5:00:00:exploratory:00"
+    ],
+    "coverageStatus": "partial"
+  },
+  "context": {
+    "schemaVersion": 1,
+    "contextId": "V20261012-088-context",
+    "entryId": "V20261012-088",
+    "sourceRef": "original-vocab",
+    "quote": "These are preliminary findings, not a final conclusion.",
+    "quoteSHA": "fe26c3f6955c69eeab7920f814ff780a582afdf1b3328eca40dfeccb54069854",
+    "translation": "这些是初步发现，不是最终结论。",
+    "quoteType": "原词库教学例句／转述；未认定为外部作者逐字引文",
+    "meaning": "当前仅属初步发现，不能当作最终结论",
+    "qualifiers": {
+      "polarity": "mixed",
+      "modality": [],
+      "conditions": [],
+      "agents": [],
+      "timeScope": null,
+      "excludedInferences": [
+        "初步不等于错误，也不等于最终结论已经获得支持。"
+      ]
+    },
+    "location": "selected",
+    "senseRefs": [
+      "preliminary%5:00:00:exploratory:00"
+    ],
+    "targetSpans": [
+      {
+        "start": 10,
+        "end": 21,
+        "text": "preliminary",
+        "mappingType": "exact",
+        "note": "原句精确匹配；词形变化时不伪造span"
+      }
+    ],
+    "context": "仅以保留的这条原句为分析范围；未知背景不补造。"
+  },
+  "history": {
+    "schemaVersion": 1,
+    "lexicalEntryId": "lex:preliminary",
+    "version": "1",
+    "summary": "",
+    "claims": [],
+    "sourceRefs": [],
+    "limitations": [
+      "未核实历史资料，不编造词源或年代。"
+    ]
+  },
+  "bridge": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-088",
+    "contextId": "V20261012-088-context",
+    "version": "1",
+    "location": "selected",
+    "strategies": [
+      "direct",
+      "contextualization"
+    ],
+    "anchorRefs": [
+      "preliminary%5:00:00:exploratory:00"
+    ],
+    "targetRefs": [
+      "preliminary%5:00:00:exploratory:00"
+    ],
+    "semanticText": "初步义直接限定findings，后面的否定进一步明确它不是final conclusion。这里无须把它和“暂定日期”混成同一种不确定性。",
+    "boundary": "初步不等于错误，也不等于最终结论已经获得支持。",
+    "evidenceRefs": [
+      {
+        "sourceId": "oewn-2025",
+        "sourceVersion": "2025",
+        "locator": "entries-p.json/preliminary/a / preliminary%5:00:00:exploratory:00",
+        "supportedClaim": "denoting an action or event preceding or in preparation for something more important",
+        "url": "https://en-word.net/"
+      }
+    ],
+    "historyLink": null,
+    "historyClaimRefs": [],
+    "returnTargets": [
+      "wl-common",
+      "wl-history"
+    ]
+  },
+  "analysis": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-088",
+    "contextId": "V20261012-088-context",
+    "version": "1",
+    "promptHash": "aaf3bd1e99daf47a70a2a158973652d67ff14dafcfc1748b3fc2a09d719885db",
+    "depth": "standard",
+    "depthReason": "需辨析相邻用法并保留原句的承诺或证据边界。",
+    "coverage": {
+      "syntax": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "syntax-concept"
+        ]
+      },
+      "concept": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "syntax-concept"
+        ]
+      },
+      "contrast": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "contrast"
+        ]
+      },
+      "languageGame": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "game-neighbors"
+        ]
+      },
+      "englishNeighbors": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "game-neighbors"
+        ]
+      },
+      "pragmaticAction": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "action"
+        ]
+      },
+      "workplaceUse": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "workplace"
+        ]
+      }
+    },
+    "blocks": [
+      {
+        "blockId": "syntax-concept",
+        "dimensions": [
+          "syntax",
+          "concept"
+        ],
+        "text": "preliminary修饰findings；not a final conclusion是明确对照，不能在中文摘要中省略。 初步发现可以指示后续调查方向，但证据和解释可能继续变化。原句没有说发现是错误的，只限定其阶段和结论强度。",
+        "sourceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-p.json/preliminary/a / preliminary%5:00:00:exploratory:00",
+            "supportedClaim": "denoting an action or event preceding or in preparation for something more important",
+            "url": "https://en-word.net/"
+          }
+        ],
+        "title": "句子结构与当前所指"
+      },
+      {
+        "blockId": "contrast",
+        "dimensions": [
+          "contrast"
+        ],
+        "text": "preliminary强调初步阶段；initial只是最初；tentative强调尚不确定。最早的一次正式测量可以是initial，但不一定是tentative。",
+        "sourceRefs": [],
+        "title": "容易混淆的地方"
+      },
+      {
+        "blockId": "game-neighbors",
+        "dimensions": [
+          "languageGame",
+          "englishNeighbors"
+        ],
+        "text": "这是结果汇报的证据分级。可接着问样本范围、未完成检查和下一步确认方式，避免将初步材料过早转为定论。 preliminary findings/report连到further review、additional data；final conclusion是需要后续证据支持的不同状态。",
+        "sourceRefs": [],
+        "title": "讨论通常怎样继续"
+      },
+      {
+        "blockId": "action",
+        "dimensions": [
+          "pragmaticAction"
+        ],
+        "text": "说话者在限制听者对结果的使用强度，预防过早下结论。",
+        "sourceRefs": [],
+        "title": "说话者正在做什么"
+      },
+      {
+        "blockId": "workplace",
+        "dimensions": [
+          "workplaceUse"
+        ],
+        "text": "下面是迁移到制造业沟通的新例句；不代表原场景中已发生的决定。",
+        "sourceRefs": [],
+        "title": "迁移到工作情境"
+      }
+    ],
+    "workplaceUse": [
+      {
+        "en": "These preliminary findings need to be checked against the full sample.",
+        "zh": "这些初步发现需要与完整样本核对。",
+        "whenToUse": "说明进一步核实的范围。",
+        "limitation": "原创教学表达；具体权限和流程以实际约定为准。",
+        "origin": "original"
+      },
+      {
+        "en": "Please label the report as preliminary until the review is complete.",
+        "zh": "评审完成前，请把报告标为初步版。",
+        "whenToUse": "防止接收者误用当前版本。",
+        "limitation": "原创教学表达；具体权限和流程以实际约定为准。",
+        "origin": "original"
+      }
+    ],
+    "practiceRefs": [],
+    "edges": []
+  },
+  "practices": [],
+  "sources": [
+    {
+      "schemaVersion": 1,
+      "sourceId": "original-vocab",
+      "version": "2026-11-16",
+      "title": "原词库教学句／转述",
+      "url": "public/vocabulary.json",
+      "accessMode": "user_material",
+      "retrievedAt": "2026-11-16T00:00:00+08:00",
+      "coverage": "partial",
+      "rights": "用户授权处理原词库",
+      "limitations": [
+        "非外部作者逐字引文；保留原ID与原句"
+      ]
+    },
+    {
+      "schemaVersion": 1,
+      "sourceId": "oewn-2025",
+      "version": "2025",
+      "title": "Open English Wordnet 2025",
+      "url": "https://en-word.net/",
+      "accessMode": "licensed_snapshot",
+      "retrievedAt": "2026-11-16T00:00:00+08:00",
+      "coverage": "partial",
+      "rights": "CC BY 4.0 + Princeton notice",
+      "limitations": [
+        "本包仅选部分源义；中文非官方译文"
+      ]
+    }
+  ],
+  "verifiedIPA": null,
+  "dictionaryURL": "https://en-word.net/",
+  "historyURL": null
+}

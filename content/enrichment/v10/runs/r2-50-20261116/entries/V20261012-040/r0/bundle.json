@@ -1,0 +1,343 @@
+{
+  "snapshot": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-040",
+    "term": "outcome",
+    "quote": "The expected outcome is a decision, not another discussion.",
+    "batch": "2026-10-12",
+    "originalFileSHA": "ec65d33d6da99ebad2577f6c9f9938499823d29d117f43532302cf964a4c60a3",
+    "quoteSHA": "0aa2e4d90988cd4260c5c5c0414587ae194c80da6727e613a8e81f4f7a155134",
+    "originalIPA": "ˈaʊt.kʌm",
+    "originalPOS": "n.",
+    "originalMeaning": "行动最终带来的结果"
+  },
+  "selection": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-040",
+    "version": "1",
+    "inventoryRefs": [
+      "inventory:V20261012-040"
+    ],
+    "selectedSenseIds": [
+      "outcome%1:11:00::"
+    ],
+    "reason": "按学习用途选择常见或易混义；这里不是语料频率排名。",
+    "usageTip": "expected outcome与actual outcome区分预期和事实；outcome of说明哪项活动的结果。",
+    "general": "事情最终产生的结果",
+    "senses": [
+      {
+        "senseId": "outcome%1:11:00::",
+        "title": "事情最终产生的结果",
+        "usageLabels": [
+          "n.",
+          "精选学习义"
+        ],
+        "explanationZh": "事情最终产生的结果",
+        "examples": [
+          {
+            "en": "The outcome of the review was a revised plan.",
+            "zh": "评审的结果是一份修订计划。",
+            "origin": "original",
+            "sourceRef": null,
+            "usageNote": "事情最终产生的结果"
+          }
+        ],
+        "evidenceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-o.json/outcome/n / outcome%1:11:00::",
+            "supportedClaim": "something that results",
+            "url": "https://en-word.net/"
+          }
+        ]
+      }
+    ]
+  },
+  "senses": [
+    {
+      "schemaVersion": 1,
+      "senseId": "outcome%1:11:00::",
+      "lexicalEntryId": "lex:outcome",
+      "pos": "n.",
+      "definitionOrigin": "licensed_verbatim",
+      "meaning": {
+        "definitionEn": "something that results",
+        "glossZh": "事情最终产生的结果",
+        "glossOrigin": "editorial"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "oewn-2025",
+          "sourceVersion": "2025",
+          "locator": "entries-o.json/outcome/n / outcome%1:11:00::",
+          "supportedClaim": "something that results",
+          "url": "https://en-word.net/"
+        }
+      ],
+      "version": "1"
+    }
+  ],
+  "inventory": {
+    "schemaVersion": 1,
+    "inventoryId": "inventory:V20261012-040",
+    "version": "1",
+    "lexicalEntryId": "lex:outcome",
+    "sources": [
+      "oewn-2025"
+    ],
+    "senseIds": [
+      "outcome%1:11:00::"
+    ],
+    "coverageStatus": "partial"
+  },
+  "context": {
+    "schemaVersion": 1,
+    "contextId": "V20261012-040-context",
+    "entryId": "V20261012-040",
+    "sourceRef": "original-vocab",
+    "quote": "The expected outcome is a decision, not another discussion.",
+    "quoteSHA": "0aa2e4d90988cd4260c5c5c0414587ae194c80da6727e613a8e81f4f7a155134",
+    "translation": "预期结果是作出决定，而不是再进行一轮讨论。",
+    "quoteType": "原词库教学例句／转述；未认定为外部作者逐字引文",
+    "meaning": "把作出决定设为此次活动希望得到的结果",
+    "qualifiers": {
+      "polarity": "negative",
+      "modality": [],
+      "conditions": [],
+      "agents": [],
+      "timeScope": null,
+      "excludedInferences": [
+        "不能将预期决定当成已批准结论，也未否认必要讨论的价值。"
+      ]
+    },
+    "location": "selected",
+    "senseRefs": [
+      "outcome%1:11:00::"
+    ],
+    "targetSpans": [
+      {
+        "start": 13,
+        "end": 20,
+        "text": "outcome",
+        "mappingType": "exact",
+        "note": "原句精确匹配；词形变化时不伪造span"
+      }
+    ],
+    "context": "仅以保留的这条原句为分析范围；未知背景不补造。"
+  },
+  "history": {
+    "schemaVersion": 1,
+    "lexicalEntryId": "lex:outcome",
+    "version": "1",
+    "summary": "",
+    "claims": [],
+    "sourceRefs": [],
+    "limitations": [
+      "未核实历史资料，不编造词源或年代。"
+    ]
+  },
+  "bridge": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-040",
+    "contextId": "V20261012-040-context",
+    "version": "1",
+    "location": "selected",
+    "strategies": [
+      "direct",
+      "contextualization"
+    ],
+    "anchorRefs": [
+      "outcome%1:11:00::"
+    ],
+    "targetRefs": [
+      "outcome%1:11:00::"
+    ],
+    "semanticText": "结果义直接适用，但expected把它限制为预期：当前希望形成决定，不代表已经形成。",
+    "boundary": "不能将预期决定当成已批准结论，也未否认必要讨论的价值。",
+    "evidenceRefs": [
+      {
+        "sourceId": "oewn-2025",
+        "sourceVersion": "2025",
+        "locator": "entries-o.json/outcome/n / outcome%1:11:00::",
+        "supportedClaim": "something that results",
+        "url": "https://en-word.net/"
+      }
+    ],
+    "historyLink": null,
+    "historyClaimRefs": [],
+    "returnTargets": [
+      "wl-common",
+      "wl-history"
+    ]
+  },
+  "analysis": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-040",
+    "contextId": "V20261012-040-context",
+    "version": "1",
+    "promptHash": "aaf3bd1e99daf47a70a2a158973652d67ff14dafcfc1748b3fc2a09d719885db",
+    "depth": "standard",
+    "depthReason": "需辨析相邻用法并保留原句的承诺或证据边界。",
+    "coverage": {
+      "syntax": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "syntax-concept"
+        ]
+      },
+      "concept": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "syntax-concept"
+        ]
+      },
+      "contrast": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "contrast"
+        ]
+      },
+      "languageGame": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "game-neighbors"
+        ]
+      },
+      "englishNeighbors": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "game-neighbors"
+        ]
+      },
+      "pragmaticAction": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "action"
+        ]
+      },
+      "workplaceUse": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "workplace"
+        ]
+      }
+    },
+    "blocks": [
+      {
+        "blockId": "syntax-concept",
+        "dimensions": [
+          "syntax",
+          "concept"
+        ],
+        "text": "expected修饰outcome；a decision与not another discussion形成对照；is陈述预期，并未陈述已发生的结果。 讨论是活动，决定是本句希望带出的结果。具体决定内容、决策者和依据都没有出现，不能替说话者补出结论。",
+        "sourceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-o.json/outcome/n / outcome%1:11:00::",
+            "supportedClaim": "something that results",
+            "url": "https://en-word.net/"
+          }
+        ],
+        "title": "句子结构与当前所指"
+      },
+      {
+        "blockId": "contrast",
+        "dimensions": [
+          "contrast"
+        ],
+        "text": "outcome是活动产生的结果；output可指交出的产物，两者在普通用法中会重叠，但一份会议纪要不自动等于达成决定。",
+        "sourceRefs": [],
+        "title": "容易混淆的地方"
+      },
+      {
+        "blockId": "game-neighbors",
+        "dimensions": [
+          "languageGame",
+          "englishNeighbors"
+        ],
+        "text": "会议前可明确需要作出的决定与所需信息，若条件不足则如实记录未决原因，而不是为了有结果而制造批准。 expected outcome说明目标结果；decision required使目的具体；actual outcome用于会后核对实际发生了什么。",
+        "sourceRefs": [],
+        "title": "讨论通常怎样继续"
+      },
+      {
+        "blockId": "action",
+        "dimensions": [
+          "pragmaticAction"
+        ],
+        "text": "说话者在聚焦活动目的，并反对无止境地重复讨论。",
+        "sourceRefs": [],
+        "title": "说话者正在做什么"
+      },
+      {
+        "blockId": "workplace",
+        "dimensions": [
+          "workplaceUse"
+        ],
+        "text": "下面是迁移到制造业沟通的新例句；不代表原场景中已发生的决定。",
+        "sourceRefs": [],
+        "title": "迁移到工作情境"
+      }
+    ],
+    "workplaceUse": [
+      {
+        "en": "The expected outcome of this review is a clear release decision.",
+        "zh": "这次评审的预期结果是明确的放行决定。",
+        "whenToUse": "对齐会议目的。",
+        "limitation": "原创教学表达；具体权限和流程以实际约定为准。",
+        "origin": "original"
+      },
+      {
+        "en": "Did we achieve the expected outcome, or is more evidence needed?",
+        "zh": "我们达到了预期结果，还是仍需要更多证据？",
+        "whenToUse": "会后核对结果与缺口。",
+        "limitation": "原创教学表达；具体权限和流程以实际约定为准。",
+        "origin": "original"
+      }
+    ],
+    "practiceRefs": [],
+    "edges": []
+  },
+  "practices": [],
+  "sources": [
+    {
+      "schemaVersion": 1,
+      "sourceId": "original-vocab",
+      "version": "2026-11-16",
+      "title": "原词库教学句／转述",
+      "url": "public/vocabulary.json",
+      "accessMode": "user_material",
+      "retrievedAt": "2026-11-16T01:45:06.410Z",
+      "coverage": "partial",
+      "rights": "用户授权处理原词库",
+      "limitations": [
+        "非外部作者逐字引文；保留原ID与原句"
+      ]
+    },
+    {
+      "schemaVersion": 1,
+      "sourceId": "oewn-2025",
+      "version": "2025",
+      "title": "Open English Wordnet 2025",
+      "url": "https://en-word.net/",
+      "accessMode": "licensed_snapshot",
+      "retrievedAt": "2026-11-16T01:45:06.410Z",
+      "coverage": "partial",
+      "rights": "CC BY 4.0 + Princeton notice",
+      "limitations": [
+        "本包仅选部分源义；中文非官方译文"
+      ]
+    }
+  ],
+  "verifiedIPA": null,
+  "dictionaryURL": "https://en-word.net/",
+  "historyURL": null
+}

@@ -1,0 +1,343 @@
+{
+  "snapshot": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-020",
+    "term": "trade-off",
+    "quote": "There is a trade-off between a faster delivery and a lower cost.",
+    "batch": "2026-10-12",
+    "originalFileSHA": "ec65d33d6da99ebad2577f6c9f9938499823d29d117f43532302cf964a4c60a3",
+    "quoteSHA": "5e464f40a51aea2090aa26175649d9b1cbe0da9b3cb6eb3c1d07c880607d1743",
+    "originalIPA": "ˈtreɪd.ɑːf",
+    "originalPOS": "n.",
+    "originalMeaning": "获得一项优势时需要付出的另一项代价"
+  },
+  "selection": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-020",
+    "version": "1",
+    "inventoryRefs": [
+      "inventory:V20261012-020"
+    ],
+    "selectedSenseIds": [
+      "tradeoff%1:04:00::"
+    ],
+    "reason": "按学习用途选择常见或易混义；这里不是语料频率排名。",
+    "usageTip": "between后说明取舍两端；有权衡不等于某个方案已被选定。",
+    "general": "权衡；获得一方面而牺牲另一方面",
+    "senses": [
+      {
+        "senseId": "tradeoff%1:04:00::",
+        "title": "权衡；获得一方面而牺牲另一方面",
+        "usageLabels": [
+          "n.",
+          "精选学习义"
+        ],
+        "explanationZh": "权衡；获得一方面而牺牲另一方面。例句说明的用法：速度与准确性之间存在权衡。",
+        "examples": [
+          {
+            "en": "There is a trade-off between speed and accuracy.",
+            "zh": "速度与准确性之间存在权衡。",
+            "origin": "original",
+            "sourceRef": null,
+            "usageNote": "权衡；获得一方面而牺牲另一方面。例句说明的用法：速度与准确性之间存在权衡。"
+          }
+        ],
+        "evidenceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-t.json/tradeoff/n / tradeoff%1:04:00::",
+            "supportedClaim": "an exchange that occurs as a compromise",
+            "url": "https://en-word.net/"
+          }
+        ]
+      }
+    ]
+  },
+  "senses": [
+    {
+      "schemaVersion": 1,
+      "senseId": "tradeoff%1:04:00::",
+      "lexicalEntryId": "lex:tradeoff",
+      "pos": "n.",
+      "definitionOrigin": "licensed_verbatim",
+      "meaning": {
+        "definitionEn": "an exchange that occurs as a compromise",
+        "glossZh": "权衡；获得一方面而牺牲另一方面",
+        "glossOrigin": "editorial"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "oewn-2025",
+          "sourceVersion": "2025",
+          "locator": "entries-t.json/tradeoff/n / tradeoff%1:04:00::",
+          "supportedClaim": "an exchange that occurs as a compromise",
+          "url": "https://en-word.net/"
+        }
+      ],
+      "version": "1"
+    }
+  ],
+  "inventory": {
+    "schemaVersion": 1,
+    "inventoryId": "inventory:V20261012-020",
+    "version": "1",
+    "lexicalEntryId": "lex:trade-off",
+    "sources": [
+      "oewn-2025"
+    ],
+    "senseIds": [
+      "tradeoff%1:04:00::"
+    ],
+    "coverageStatus": "partial"
+  },
+  "context": {
+    "schemaVersion": 1,
+    "contextId": "V20261012-020-context",
+    "entryId": "V20261012-020",
+    "sourceRef": "original-vocab",
+    "quote": "There is a trade-off between a faster delivery and a lower cost.",
+    "quoteSHA": "5e464f40a51aea2090aa26175649d9b1cbe0da9b3cb6eb3c1d07c880607d1743",
+    "translation": "更快交付与更低成本之间存在权衡。",
+    "quoteType": "原词库教学例句／转述；未认定为外部作者逐字引文",
+    "meaning": "交付速度与成本目标不能在当前设定中同时无限改善",
+    "qualifiers": {
+      "polarity": "affirmative",
+      "modality": [],
+      "conditions": [],
+      "agents": [],
+      "timeScope": null,
+      "excludedInferences": [
+        "不能自动推出必须接受高成本，或速度和成本在任何条件下都必然冲突。"
+      ]
+    },
+    "location": "selected",
+    "senseRefs": [
+      "tradeoff%1:04:00::"
+    ],
+    "targetSpans": [
+      {
+        "start": 11,
+        "end": 20,
+        "text": "trade-off",
+        "mappingType": "exact",
+        "note": "原句精确匹配；词形变化时不伪造span"
+      }
+    ],
+    "context": "仅以保留的这条原句为分析范围；未知背景不补造。"
+  },
+  "history": {
+    "schemaVersion": 1,
+    "lexicalEntryId": "lex:trade-off",
+    "version": "1",
+    "summary": "",
+    "claims": [],
+    "sourceRefs": [],
+    "limitations": [
+      "未核实历史资料，不编造词源或年代。"
+    ]
+  },
+  "bridge": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-020",
+    "contextId": "V20261012-020-context",
+    "version": "1",
+    "location": "selected",
+    "strategies": [
+      "direct",
+      "contextualization"
+    ],
+    "anchorRefs": [
+      "tradeoff%1:04:00::"
+    ],
+    "targetRefs": [
+      "tradeoff%1:04:00::"
+    ],
+    "semanticText": "权衡义直接适用，当前两端已由between短语给出。无需借词史编一条因果链，也不必把“交易”字面套入项目。",
+    "boundary": "不能自动推出必须接受高成本，或速度和成本在任何条件下都必然冲突。",
+    "evidenceRefs": [
+      {
+        "sourceId": "oewn-2025",
+        "sourceVersion": "2025",
+        "locator": "entries-t.json/tradeoff/n / tradeoff%1:04:00::",
+        "supportedClaim": "an exchange that occurs as a compromise",
+        "url": "https://en-word.net/"
+      }
+    ],
+    "historyLink": null,
+    "historyClaimRefs": [],
+    "returnTargets": [
+      "wl-common",
+      "wl-history"
+    ]
+  },
+  "analysis": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-020",
+    "contextId": "V20261012-020-context",
+    "version": "1",
+    "promptHash": "aaf3bd1e99daf47a70a2a158973652d67ff14dafcfc1748b3fc2a09d719885db",
+    "depth": "standard",
+    "depthReason": "需辨析相邻用法并保留原句的承诺或证据边界。",
+    "coverage": {
+      "syntax": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "syntax-concept"
+        ]
+      },
+      "concept": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "syntax-concept"
+        ]
+      },
+      "contrast": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "contrast"
+        ]
+      },
+      "languageGame": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "game-neighbors"
+        ]
+      },
+      "englishNeighbors": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "game-neighbors"
+        ]
+      },
+      "pragmaticAction": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "action"
+        ]
+      },
+      "workplaceUse": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "workplace"
+        ]
+      }
+    },
+    "blocks": [
+      {
+        "blockId": "syntax-concept",
+        "dimensions": [
+          "syntax",
+          "concept"
+        ],
+        "text": "There is指出存在一种关系；between A and B明确两端是更快交付与更低成本。原句没有说明具体牺牲多少。 这意味着在当前选择中，改善一个目标可能要在另一个目标上付出代价。句子没有证明这种权衡在所有技术或方案中都不可消除。",
+        "sourceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-t.json/tradeoff/n / tradeoff%1:04:00::",
+            "supportedClaim": "an exchange that occurs as a compromise",
+            "url": "https://en-word.net/"
+          }
+        ],
+        "title": "句子结构与当前所指"
+      },
+      {
+        "blockId": "contrast",
+        "dimensions": [
+          "contrast"
+        ],
+        "text": "trade-off是目标间取舍；compromise是为达成一致作出的让步或折中。技术权衡可以存在，即使各方没有争执。",
+        "sourceRefs": [],
+        "title": "容易混淆的地方"
+      },
+      {
+        "blockId": "game-neighbors",
+        "dimensions": [
+          "languageGame",
+          "englishNeighbors"
+        ],
+        "text": "这是方案比较。应让选项、成本和交付影响可见，再讨论偏好；不能用一句有权衡来遮住没有量化的假设。 trade-off between X and Y连到options/priorities；quantify the trade-off会追问加快多少、额外成本多少。",
+        "sourceRefs": [],
+        "title": "讨论通常怎样继续"
+      },
+      {
+        "blockId": "action",
+        "dimensions": [
+          "pragmaticAction"
+        ],
+        "text": "说话者在提醒双目标之间的代价关系，为选择优先项做铺垫。",
+        "sourceRefs": [],
+        "title": "说话者正在做什么"
+      },
+      {
+        "blockId": "workplace",
+        "dimensions": [
+          "workplaceUse"
+        ],
+        "text": "下面是迁移到制造业沟通的新例句；不代表原场景中已发生的决定。",
+        "sourceRefs": [],
+        "title": "迁移到工作情境"
+      }
+    ],
+    "workplaceUse": [
+      {
+        "en": "What is the trade-off between a shorter cycle time and tooling cost?",
+        "zh": "缩短周期时间与工装成本之间有什么权衡？",
+        "whenToUse": "比较工艺选项。",
+        "limitation": "原创教学表达；具体权限和流程以实际约定为准。",
+        "origin": "original"
+      },
+      {
+        "en": "Please quantify the trade-off before we choose an option.",
+        "zh": "请在选择方案前先量化这项权衡。",
+        "whenToUse": "要求把取舍变成可讨论的数据。",
+        "limitation": "原创教学表达；具体权限和流程以实际约定为准。",
+        "origin": "original"
+      }
+    ],
+    "practiceRefs": [],
+    "edges": []
+  },
+  "practices": [],
+  "sources": [
+    {
+      "schemaVersion": 1,
+      "sourceId": "original-vocab",
+      "version": "2026-11-16",
+      "title": "原词库教学句／转述",
+      "url": "public/vocabulary.json",
+      "accessMode": "user_material",
+      "retrievedAt": "2026-11-16T01:45:06.410Z",
+      "coverage": "partial",
+      "rights": "用户授权处理原词库",
+      "limitations": [
+        "非外部作者逐字引文；保留原ID与原句"
+      ]
+    },
+    {
+      "schemaVersion": 1,
+      "sourceId": "oewn-2025",
+      "version": "2025",
+      "title": "Open English Wordnet 2025",
+      "url": "https://en-word.net/",
+      "accessMode": "licensed_snapshot",
+      "retrievedAt": "2026-11-16T01:45:06.410Z",
+      "coverage": "partial",
+      "rights": "CC BY 4.0 + Princeton notice",
+      "limitations": [
+        "本包仅选部分源义；中文非官方译文"
+      ]
+    }
+  ],
+  "verifiedIPA": null,
+  "dictionaryURL": "https://en-word.net/",
+  "historyURL": null
+}

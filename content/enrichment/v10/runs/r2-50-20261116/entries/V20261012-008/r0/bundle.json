@@ -1,0 +1,394 @@
+{
+  "snapshot": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-008",
+    "term": "assumption",
+    "quote": "This assumption needs to be checked with the supplier.",
+    "batch": "2026-10-12",
+    "originalFileSHA": "ec65d33d6da99ebad2577f6c9f9938499823d29d117f43532302cf964a4c60a3",
+    "quoteSHA": "75173a0defcf7a88a33a8fc56aca80276e6ffc1fb2bdfce7ad874cd9bbf9f02c",
+    "originalIPA": "əˈsʌmp.ʃən",
+    "originalPOS": "n.",
+    "originalMeaning": "尚未证实但暂时作为规划基础的条件"
+  },
+  "selection": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-008",
+    "version": "1",
+    "inventoryRefs": [
+      "inventory:V20261012-008"
+    ],
+    "selectedSenseIds": [
+      "assumption%1:10:00::",
+      "assumption%1:04:00::"
+    ],
+    "reason": "按学习用途选择常见或易混义；这里不是语料频率排名。",
+    "usageTip": "make an assumption是作假设；check an assumption是核查，二者的证据状态不同。",
+    "general": "作为推理依据而暂时接受的假设；接任；取得权力或职责",
+    "senses": [
+      {
+        "senseId": "assumption%1:10:00::",
+        "title": "作为推理依据而暂时接受的假设",
+        "usageLabels": [
+          "n.",
+          "精选学习义"
+        ],
+        "explanationZh": "作为推理依据而暂时接受的假设",
+        "examples": [
+          {
+            "en": "Our estimate rests on one assumption.",
+            "zh": "我们的估算建立在一个假设上。",
+            "origin": "original",
+            "sourceRef": null,
+            "usageNote": "作为推理依据而暂时接受的假设"
+          }
+        ],
+        "evidenceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-a.json/assumption/n / assumption%1:10:00::",
+            "supportedClaim": "a statement that is assumed to be true and from which a conclusion can be drawn",
+            "url": "https://en-word.net/"
+          }
+        ]
+      },
+      {
+        "senseId": "assumption%1:04:00::",
+        "title": "接任；取得权力或职责",
+        "usageLabels": [
+          "n.",
+          "精选学习义"
+        ],
+        "explanationZh": "接任；取得权力或职责",
+        "examples": [
+          {
+            "en": "The assumption of responsibility was gradual.",
+            "zh": "职责的接手是逐步完成的。",
+            "origin": "original",
+            "sourceRef": null,
+            "usageNote": "接任；取得权力或职责"
+          }
+        ],
+        "evidenceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-a.json/assumption/n / assumption%1:04:00::",
+            "supportedClaim": "the act of taking possession of or power over something",
+            "url": "https://en-word.net/"
+          }
+        ]
+      }
+    ]
+  },
+  "senses": [
+    {
+      "schemaVersion": 1,
+      "senseId": "assumption%1:10:00::",
+      "lexicalEntryId": "lex:assumption",
+      "pos": "n.",
+      "definitionOrigin": "licensed_verbatim",
+      "meaning": {
+        "definitionEn": "a statement that is assumed to be true and from which a conclusion can be drawn",
+        "glossZh": "作为推理依据而暂时接受的假设",
+        "glossOrigin": "editorial"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "oewn-2025",
+          "sourceVersion": "2025",
+          "locator": "entries-a.json/assumption/n / assumption%1:10:00::",
+          "supportedClaim": "a statement that is assumed to be true and from which a conclusion can be drawn",
+          "url": "https://en-word.net/"
+        }
+      ],
+      "version": "1"
+    },
+    {
+      "schemaVersion": 1,
+      "senseId": "assumption%1:04:00::",
+      "lexicalEntryId": "lex:assumption",
+      "pos": "n.",
+      "definitionOrigin": "licensed_verbatim",
+      "meaning": {
+        "definitionEn": "the act of taking possession of or power over something",
+        "glossZh": "接任；取得权力或职责",
+        "glossOrigin": "editorial"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "oewn-2025",
+          "sourceVersion": "2025",
+          "locator": "entries-a.json/assumption/n / assumption%1:04:00::",
+          "supportedClaim": "the act of taking possession of or power over something",
+          "url": "https://en-word.net/"
+        }
+      ],
+      "version": "1"
+    }
+  ],
+  "inventory": {
+    "schemaVersion": 1,
+    "inventoryId": "inventory:V20261012-008",
+    "version": "1",
+    "lexicalEntryId": "lex:assumption",
+    "sources": [
+      "oewn-2025"
+    ],
+    "senseIds": [
+      "assumption%1:10:00::",
+      "assumption%1:04:00::"
+    ],
+    "coverageStatus": "partial"
+  },
+  "context": {
+    "schemaVersion": 1,
+    "contextId": "V20261012-008-context",
+    "entryId": "V20261012-008",
+    "sourceRef": "original-vocab",
+    "quote": "This assumption needs to be checked with the supplier.",
+    "quoteSHA": "75173a0defcf7a88a33a8fc56aca80276e6ffc1fb2bdfce7ad874cd9bbf9f02c",
+    "translation": "这个假设需要向供应商核实。",
+    "quoteType": "原词库教学例句／转述；未认定为外部作者逐字引文",
+    "meaning": "尚需向供应商验证的前提",
+    "qualifiers": {
+      "polarity": "affirmative",
+      "modality": [],
+      "conditions": [],
+      "agents": [],
+      "timeScope": null,
+      "excludedInferences": [
+        "不能把“需要核实”译成“供应商已经保证”。"
+      ]
+    },
+    "location": "selected",
+    "senseRefs": [
+      "assumption%1:10:00::"
+    ],
+    "targetSpans": [
+      {
+        "start": 5,
+        "end": 15,
+        "text": "assumption",
+        "mappingType": "exact",
+        "note": "原句精确匹配；词形变化时不伪造span"
+      }
+    ],
+    "context": "仅以保留的这条原句为分析范围；未知背景不补造。"
+  },
+  "history": {
+    "schemaVersion": 1,
+    "lexicalEntryId": "lex:assumption",
+    "version": "1",
+    "summary": "",
+    "claims": [],
+    "sourceRefs": [],
+    "limitations": [
+      "未核实历史资料，不编造词源或年代。"
+    ]
+  },
+  "bridge": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-008",
+    "contextId": "V20261012-008-context",
+    "version": "1",
+    "location": "selected",
+    "strategies": [
+      "direct",
+      "contextualization"
+    ],
+    "anchorRefs": [
+      "assumption%1:10:00::"
+    ],
+    "targetRefs": [
+      "assumption%1:10:00::"
+    ],
+    "semanticText": "本句用推理前提义：当前把某件事当作成立，但要求供应商核对；不是接任职责的assumption。",
+    "boundary": "不能把“需要核实”译成“供应商已经保证”。",
+    "evidenceRefs": [
+      {
+        "sourceId": "oewn-2025",
+        "sourceVersion": "2025",
+        "locator": "entries-a.json/assumption/n / assumption%1:10:00::",
+        "supportedClaim": "a statement that is assumed to be true and from which a conclusion can be drawn",
+        "url": "https://en-word.net/"
+      }
+    ],
+    "historyLink": null,
+    "historyClaimRefs": [],
+    "returnTargets": [
+      "wl-common",
+      "wl-history"
+    ]
+  },
+  "analysis": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-008",
+    "contextId": "V20261012-008-context",
+    "version": "1",
+    "promptHash": "aaf3bd1e99daf47a70a2a158973652d67ff14dafcfc1748b3fc2a09d719885db",
+    "depth": "standard",
+    "depthReason": "需辨析相邻用法并保留原句的承诺或证据边界。",
+    "coverage": {
+      "syntax": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "syntax-concept"
+        ]
+      },
+      "concept": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "syntax-concept"
+        ]
+      },
+      "contrast": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "contrast"
+        ]
+      },
+      "languageGame": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "game-neighbors"
+        ]
+      },
+      "englishNeighbors": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "game-neighbors"
+        ]
+      },
+      "pragmaticAction": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "action"
+        ]
+      },
+      "workplaceUse": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "workplace"
+        ]
+      }
+    },
+    "blocks": [
+      {
+        "blockId": "syntax-concept",
+        "dimensions": [
+          "syntax",
+          "concept"
+        ],
+        "text": "This指向一个已提及的假设；needs to be checked是被动结构；with the supplier说明核实的沟通对象。 假设暂时支持计划或推算，但并不因此成为事实。原句没有给出其内容，也没有说供应商已确认。",
+        "sourceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-a.json/assumption/n / assumption%1:10:00::",
+            "supportedClaim": "a statement that is assumed to be true and from which a conclusion can be drawn",
+            "url": "https://en-word.net/"
+          }
+        ],
+        "title": "句子结构与当前所指"
+      },
+      {
+        "blockId": "contrast",
+        "dimensions": [
+          "contrast"
+        ],
+        "text": "assumption是暂按成立使用的前提；evidence是用来支持或反驳它的资料。供应商的回复也应核对具体内容和适用范围。",
+        "sourceRefs": [],
+        "title": "容易混淆的地方"
+      },
+      {
+        "blockId": "game-neighbors",
+        "dimensions": [
+          "languageGame",
+          "englishNeighbors"
+        ],
+        "text": "这是计划前提核实。可以把假设写成可回答的问题，向供应商索取当前能力、日期或规格的明确说明。 check/validate an assumption都指向核查；based on an assumption提醒结论依赖某个前提；if the assumption changes提示计划可能需要调整。",
+        "sourceRefs": [],
+        "title": "讨论通常怎样继续"
+      },
+      {
+        "blockId": "action",
+        "dimensions": [
+          "pragmaticAction"
+        ],
+        "text": "说话者在指出一项尚未完成的核实工作。",
+        "sourceRefs": [],
+        "title": "说话者正在做什么"
+      },
+      {
+        "blockId": "workplace",
+        "dimensions": [
+          "workplaceUse"
+        ],
+        "text": "下面是迁移到制造业沟通的新例句；不代表原场景中已发生的决定。",
+        "sourceRefs": [],
+        "title": "迁移到工作情境"
+      }
+    ],
+    "workplaceUse": [
+      {
+        "en": "Our lead-time assumption still needs supplier confirmation.",
+        "zh": "我们的交期假设仍需要供应商确认。",
+        "whenToUse": "说明计划前提尚未落实。",
+        "limitation": "原创教学表达；具体权限和流程以实际约定为准。",
+        "origin": "original"
+      },
+      {
+        "en": "If that assumption changes, we will reassess the schedule.",
+        "zh": "如果那个假设改变，我们将重新评估日程。",
+        "whenToUse": "明确前提变化的影响。",
+        "limitation": "原创教学表达；具体权限和流程以实际约定为准。",
+        "origin": "original"
+      }
+    ],
+    "practiceRefs": [],
+    "edges": []
+  },
+  "practices": [],
+  "sources": [
+    {
+      "schemaVersion": 1,
+      "sourceId": "original-vocab",
+      "version": "2026-11-16",
+      "title": "原词库教学句／转述",
+      "url": "public/vocabulary.json",
+      "accessMode": "user_material",
+      "retrievedAt": "2026-11-16T01:45:06.410Z",
+      "coverage": "partial",
+      "rights": "用户授权处理原词库",
+      "limitations": [
+        "非外部作者逐字引文；保留原ID与原句"
+      ]
+    },
+    {
+      "schemaVersion": 1,
+      "sourceId": "oewn-2025",
+      "version": "2025",
+      "title": "Open English Wordnet 2025",
+      "url": "https://en-word.net/",
+      "accessMode": "licensed_snapshot",
+      "retrievedAt": "2026-11-16T01:45:06.410Z",
+      "coverage": "partial",
+      "rights": "CC BY 4.0 + Princeton notice",
+      "limitations": [
+        "本包仅选部分源义；中文非官方译文"
+      ]
+    }
+  ],
+  "verifiedIPA": null,
+  "dictionaryURL": "https://en-word.net/",
+  "historyURL": null
+}

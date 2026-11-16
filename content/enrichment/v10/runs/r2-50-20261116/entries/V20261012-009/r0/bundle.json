@@ -1,0 +1,394 @@
+{
+  "snapshot": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-009",
+    "term": "baseline",
+    "quote": "We need a baseline before measuring the improvement.",
+    "batch": "2026-10-12",
+    "originalFileSHA": "ec65d33d6da99ebad2577f6c9f9938499823d29d117f43532302cf964a4c60a3",
+    "quoteSHA": "1ecae7508acda05741d8dd78974ae8543ede3cfd835e6d3484412d1c00e6f2bf",
+    "originalIPA": "ˈbeɪs.laɪn",
+    "originalPOS": "n.",
+    "originalMeaning": "用于比较后续变化的基准"
+  },
+  "selection": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-009",
+    "version": "1",
+    "inventoryRefs": [
+      "inventory:V20261012-009"
+    ],
+    "selectedSenseIds": [
+      "baseline%1:24:00::",
+      "baseline%1:15:01::"
+    ],
+    "reason": "按学习用途选择常见或易混义；这里不是语料频率排名。",
+    "usageTip": "baseline与target分开记：前者用于对照，后者用于追求。",
+    "general": "用于比较的基准；网球场底线",
+    "senses": [
+      {
+        "senseId": "baseline%1:24:00::",
+        "title": "用于比较的基准",
+        "usageLabels": [
+          "n.",
+          "精选学习义"
+        ],
+        "explanationZh": "用于比较的基准",
+        "examples": [
+          {
+            "en": "We recorded a baseline before the trial.",
+            "zh": "我们在试验前记录了基准。",
+            "origin": "original",
+            "sourceRef": null,
+            "usageNote": "用于比较的基准"
+          }
+        ],
+        "evidenceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-b.json/baseline/n / baseline%1:24:00::",
+            "supportedClaim": "an imaginary line or standard by which things are measured or compared",
+            "url": "https://en-word.net/"
+          }
+        ]
+      },
+      {
+        "senseId": "baseline%1:15:01::",
+        "title": "网球场底线",
+        "usageLabels": [
+          "n.",
+          "精选学习义"
+        ],
+        "explanationZh": "网球场底线",
+        "examples": [
+          {
+            "en": "The player waited behind the baseline.",
+            "zh": "球员在底线后等候。",
+            "origin": "original",
+            "sourceRef": null,
+            "usageNote": "网球场底线"
+          }
+        ],
+        "evidenceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-b.json/baseline/n / baseline%1:15:01::",
+            "supportedClaim": "the back line bounding each end of a tennis or handball court; when serving the server must not step over this line",
+            "url": "https://en-word.net/"
+          }
+        ]
+      }
+    ]
+  },
+  "senses": [
+    {
+      "schemaVersion": 1,
+      "senseId": "baseline%1:24:00::",
+      "lexicalEntryId": "lex:baseline",
+      "pos": "n.",
+      "definitionOrigin": "licensed_verbatim",
+      "meaning": {
+        "definitionEn": "an imaginary line or standard by which things are measured or compared",
+        "glossZh": "用于比较的基准",
+        "glossOrigin": "editorial"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "oewn-2025",
+          "sourceVersion": "2025",
+          "locator": "entries-b.json/baseline/n / baseline%1:24:00::",
+          "supportedClaim": "an imaginary line or standard by which things are measured or compared",
+          "url": "https://en-word.net/"
+        }
+      ],
+      "version": "1"
+    },
+    {
+      "schemaVersion": 1,
+      "senseId": "baseline%1:15:01::",
+      "lexicalEntryId": "lex:baseline",
+      "pos": "n.",
+      "definitionOrigin": "licensed_verbatim",
+      "meaning": {
+        "definitionEn": "the back line bounding each end of a tennis or handball court; when serving the server must not step over this line",
+        "glossZh": "网球场底线",
+        "glossOrigin": "editorial"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "oewn-2025",
+          "sourceVersion": "2025",
+          "locator": "entries-b.json/baseline/n / baseline%1:15:01::",
+          "supportedClaim": "the back line bounding each end of a tennis or handball court; when serving the server must not step over this line",
+          "url": "https://en-word.net/"
+        }
+      ],
+      "version": "1"
+    }
+  ],
+  "inventory": {
+    "schemaVersion": 1,
+    "inventoryId": "inventory:V20261012-009",
+    "version": "1",
+    "lexicalEntryId": "lex:baseline",
+    "sources": [
+      "oewn-2025"
+    ],
+    "senseIds": [
+      "baseline%1:24:00::",
+      "baseline%1:15:01::"
+    ],
+    "coverageStatus": "partial"
+  },
+  "context": {
+    "schemaVersion": 1,
+    "contextId": "V20261012-009-context",
+    "entryId": "V20261012-009",
+    "sourceRef": "original-vocab",
+    "quote": "We need a baseline before measuring the improvement.",
+    "quoteSHA": "1ecae7508acda05741d8dd78974ae8543ede3cfd835e6d3484412d1c00e6f2bf",
+    "translation": "在衡量改善之前，我们需要一个基准。",
+    "quoteType": "原词库教学例句／转述；未认定为外部作者逐字引文",
+    "meaning": "用于对照改善幅度的起始参照",
+    "qualifiers": {
+      "polarity": "affirmative",
+      "modality": [],
+      "conditions": [],
+      "agents": [],
+      "timeScope": null,
+      "excludedInferences": [
+        "有了基准不等于改善发生，也未指定冻结配置或正式批准程序。"
+      ]
+    },
+    "location": "selected",
+    "senseRefs": [
+      "baseline%1:24:00::"
+    ],
+    "targetSpans": [
+      {
+        "start": 10,
+        "end": 18,
+        "text": "baseline",
+        "mappingType": "exact",
+        "note": "原句精确匹配；词形变化时不伪造span"
+      }
+    ],
+    "context": "仅以保留的这条原句为分析范围；未知背景不补造。"
+  },
+  "history": {
+    "schemaVersion": 1,
+    "lexicalEntryId": "lex:baseline",
+    "version": "1",
+    "summary": "",
+    "claims": [],
+    "sourceRefs": [],
+    "limitations": [
+      "未核实历史资料，不编造词源或年代。"
+    ]
+  },
+  "bridge": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-009",
+    "contextId": "V20261012-009-context",
+    "version": "1",
+    "location": "selected",
+    "strategies": [
+      "direct",
+      "contextualization"
+    ],
+    "anchorRefs": [
+      "baseline%1:24:00::"
+    ],
+    "targetRefs": [
+      "baseline%1:24:00::"
+    ],
+    "semanticText": "本句采用比较基准义，将一般参照落实为衡量改善所需的起点；不是运动场地的底线。",
+    "boundary": "有了基准不等于改善发生，也未指定冻结配置或正式批准程序。",
+    "evidenceRefs": [
+      {
+        "sourceId": "oewn-2025",
+        "sourceVersion": "2025",
+        "locator": "entries-b.json/baseline/n / baseline%1:24:00::",
+        "supportedClaim": "an imaginary line or standard by which things are measured or compared",
+        "url": "https://en-word.net/"
+      }
+    ],
+    "historyLink": null,
+    "historyClaimRefs": [],
+    "returnTargets": [
+      "wl-common",
+      "wl-history"
+    ]
+  },
+  "analysis": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-009",
+    "contextId": "V20261012-009-context",
+    "version": "1",
+    "promptHash": "aaf3bd1e99daf47a70a2a158973652d67ff14dafcfc1748b3fc2a09d719885db",
+    "depth": "standard",
+    "depthReason": "需辨析相邻用法并保留原句的承诺或证据边界。",
+    "coverage": {
+      "syntax": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "syntax-concept"
+        ]
+      },
+      "concept": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "syntax-concept"
+        ]
+      },
+      "contrast": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "contrast"
+        ]
+      },
+      "languageGame": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "game-neighbors"
+        ]
+      },
+      "englishNeighbors": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "game-neighbors"
+        ]
+      },
+      "pragmaticAction": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "action"
+        ]
+      },
+      "workplaceUse": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "workplace"
+        ]
+      }
+    },
+    "blocks": [
+      {
+        "blockId": "syntax-concept",
+        "dimensions": [
+          "syntax",
+          "concept"
+        ],
+        "text": "need a baseline说明参照尚需建立；before measuring限制先后，the improvement指待评估的改善。 变化要与可比较的原始状态对照。记录什么指标、采用什么时间窗以及如何测量，原句都没有规定。",
+        "sourceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-b.json/baseline/n / baseline%1:24:00::",
+            "supportedClaim": "an imaginary line or standard by which things are measured or compared",
+            "url": "https://en-word.net/"
+          }
+        ],
+        "title": "句子结构与当前所指"
+      },
+      {
+        "blockId": "contrast",
+        "dimensions": [
+          "contrast"
+        ],
+        "text": "baseline是比较起点；target是希望达到的值。目标达没达到和比基准改善多少是两个相关但不同的问题。",
+        "sourceRefs": [],
+        "title": "容易混淆的地方"
+      },
+      {
+        "blockId": "game-neighbors",
+        "dimensions": [
+          "languageGame",
+          "englishNeighbors"
+        ],
+        "text": "改善评估中，应先约定指标、取样范围和测量条件，再比较新结果，避免把口径变化当成真实改善。 baseline data提供参照记录；compare against the baseline说明比较方法；target gap描述距离目标还有多少。",
+        "sourceRefs": [],
+        "title": "讨论通常怎样继续"
+      },
+      {
+        "blockId": "action",
+        "dimensions": [
+          "pragmaticAction"
+        ],
+        "text": "说话者在要求先补足评价改善的依据。",
+        "sourceRefs": [],
+        "title": "说话者正在做什么"
+      },
+      {
+        "blockId": "workplace",
+        "dimensions": [
+          "workplaceUse"
+        ],
+        "text": "下面是迁移到制造业沟通的新例句；不代表原场景中已发生的决定。",
+        "sourceRefs": [],
+        "title": "迁移到工作情境"
+      }
+    ],
+    "workplaceUse": [
+      {
+        "en": "Use the same measurement method for the baseline and the trial.",
+        "zh": "基准与试验采用相同的测量方法。",
+        "whenToUse": "保持前后可比。",
+        "limitation": "原创教学表达；具体权限和流程以实际约定为准。",
+        "origin": "original"
+      },
+      {
+        "en": "How much has waiting time changed from the baseline?",
+        "zh": "等待时间相对基准改变了多少？",
+        "whenToUse": "讨论实际改善幅度。",
+        "limitation": "原创教学表达；具体权限和流程以实际约定为准。",
+        "origin": "original"
+      }
+    ],
+    "practiceRefs": [],
+    "edges": []
+  },
+  "practices": [],
+  "sources": [
+    {
+      "schemaVersion": 1,
+      "sourceId": "original-vocab",
+      "version": "2026-11-16",
+      "title": "原词库教学句／转述",
+      "url": "public/vocabulary.json",
+      "accessMode": "user_material",
+      "retrievedAt": "2026-11-16T01:45:06.410Z",
+      "coverage": "partial",
+      "rights": "用户授权处理原词库",
+      "limitations": [
+        "非外部作者逐字引文；保留原ID与原句"
+      ]
+    },
+    {
+      "schemaVersion": 1,
+      "sourceId": "oewn-2025",
+      "version": "2025",
+      "title": "Open English Wordnet 2025",
+      "url": "https://en-word.net/",
+      "accessMode": "licensed_snapshot",
+      "retrievedAt": "2026-11-16T01:45:06.410Z",
+      "coverage": "partial",
+      "rights": "CC BY 4.0 + Princeton notice",
+      "limitations": [
+        "本包仅选部分源义；中文非官方译文"
+      ]
+    }
+  ],
+  "verifiedIPA": null,
+  "dictionaryURL": "https://en-word.net/",
+  "historyURL": null
+}

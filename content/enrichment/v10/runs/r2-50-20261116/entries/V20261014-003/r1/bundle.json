@@ -1,0 +1,458 @@
+{
+  "snapshot": {
+    "schemaVersion": 1,
+    "entryId": "V20261014-003",
+    "term": "frame the issue",
+    "quote": "Let's frame the issue around the missed inspection step.",
+    "batch": "2026-10-14",
+    "originalFileSHA": "ec65d33d6da99ebad2577f6c9f9938499823d29d117f43532302cf964a4c60a3",
+    "quoteSHA": "8773cbb6b58533c633d71e6cd49d1142a8828199aaf3f543d164a6a8a830ef3c",
+    "originalIPA": "freɪm ði ˈɪʃ.uː",
+    "originalPOS": "v. phrase",
+    "originalMeaning": "选择合适边界和角度来表述需要讨论的事项"
+  },
+  "selection": {
+    "schemaVersion": 1,
+    "entryId": "V20261014-003",
+    "version": "1",
+    "inventoryRefs": [
+      "inventory:V20261014-003"
+    ],
+    "selectedSenseIds": [
+      "frame%1:06:00::",
+      "frame%2:32:00::"
+    ],
+    "reason": "按学习用途选择常见或易混义；这里不是语料频率排名。",
+    "usageTip": "frame在这里是动词“组织表述”；界定问题还不是解决问题。",
+    "general": "组织、界定问题的表述方式",
+    "senses": [
+      {
+        "senseId": "frame%1:06:00::",
+        "title": "frame（组成词／独立词目）：画框；镜框",
+        "usageLabels": [
+          "n.",
+          "精选学习义"
+        ],
+        "explanationZh": "画框；镜框。例句说明的用法：照片装在木框里。",
+        "examples": [
+          {
+            "en": "The photograph is in a wooden frame.",
+            "zh": "照片装在木框里。",
+            "origin": "original",
+            "sourceRef": null,
+            "usageNote": "画框；镜框。例句说明的用法：照片装在木框里。"
+          }
+        ],
+        "evidenceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-f.json/frame/n / frame%1:06:00::",
+            "supportedClaim": "a framework that supports and protects a picture or a mirror",
+            "url": "https://en-word.net/"
+          }
+        ]
+      },
+      {
+        "senseId": "frame%2:32:00::",
+        "title": "frame（组成词／独立词目）：以特定方式组织或表述",
+        "usageLabels": [
+          "v.",
+          "精选学习义"
+        ],
+        "explanationZh": "以特定方式组织或表述。例句说明的用法：她仔细组织了问题的表述。",
+        "examples": [
+          {
+            "en": "She framed the question carefully.",
+            "zh": "她仔细组织了问题的表述。",
+            "origin": "original",
+            "sourceRef": null,
+            "usageNote": "以特定方式组织或表述。例句说明的用法：她仔细组织了问题的表述。"
+          }
+        ],
+        "evidenceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-f.json/frame/v / frame%2:32:00::",
+            "supportedClaim": "formulate in a particular style or language",
+            "url": "https://en-word.net/"
+          }
+        ]
+      }
+    ]
+  },
+  "senses": [
+    {
+      "schemaVersion": 1,
+      "senseId": "frame%1:06:00::",
+      "lexicalEntryId": "lex:frame",
+      "pos": "n.",
+      "definitionOrigin": "licensed_verbatim",
+      "meaning": {
+        "definitionEn": "a framework that supports and protects a picture or a mirror",
+        "glossZh": "画框；镜框",
+        "glossOrigin": "editorial"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "oewn-2025",
+          "sourceVersion": "2025",
+          "locator": "entries-f.json/frame/n / frame%1:06:00::",
+          "supportedClaim": "a framework that supports and protects a picture or a mirror",
+          "url": "https://en-word.net/"
+        }
+      ],
+      "version": "1"
+    },
+    {
+      "schemaVersion": 1,
+      "senseId": "frame%2:32:00::",
+      "lexicalEntryId": "lex:frame",
+      "pos": "v.",
+      "definitionOrigin": "licensed_verbatim",
+      "meaning": {
+        "definitionEn": "formulate in a particular style or language",
+        "glossZh": "以特定方式组织或表述",
+        "glossOrigin": "editorial"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "oewn-2025",
+          "sourceVersion": "2025",
+          "locator": "entries-f.json/frame/v / frame%2:32:00::",
+          "supportedClaim": "formulate in a particular style or language",
+          "url": "https://en-word.net/"
+        }
+      ],
+      "version": "1"
+    },
+    {
+      "schemaVersion": 1,
+      "senseId": "issue%1:09:01::",
+      "lexicalEntryId": "lex:issue",
+      "pos": "n.",
+      "definitionOrigin": "licensed_verbatim",
+      "meaning": {
+        "definitionEn": "an important question that is in dispute and must be settled",
+        "glossZh": "需要解决的争议问题",
+        "glossOrigin": "editorial"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "oewn-2025",
+          "sourceVersion": "2025",
+          "locator": "entries-i.json/issue/n / issue%1:09:01::",
+          "supportedClaim": "an important question that is in dispute and must be settled",
+          "url": "https://en-word.net/"
+        }
+      ],
+      "version": "1"
+    }
+  ],
+  "inventory": {
+    "schemaVersion": 1,
+    "inventoryId": "inventory:V20261014-003",
+    "version": "1",
+    "lexicalEntryId": "lex:frame the issue",
+    "sources": [
+      "oewn-2025"
+    ],
+    "senseIds": [
+      "frame%1:06:00::",
+      "frame%2:32:00::",
+      "issue%1:09:01::"
+    ],
+    "coverageStatus": "component_partial"
+  },
+  "context": {
+    "schemaVersion": 1,
+    "contextId": "V20261014-003-context",
+    "entryId": "V20261014-003",
+    "sourceRef": "original-vocab",
+    "quote": "Let's frame the issue around the missed inspection step.",
+    "quoteSHA": "8773cbb6b58533c633d71e6cd49d1142a8828199aaf3f543d164a6a8a830ef3c",
+    "translation": "我们围绕漏掉的检验步骤来界定这个问题吧。",
+    "quoteType": "原词库教学例句／转述；未认定为外部作者逐字引文",
+    "meaning": "把问题的讨论重点组织在漏检步骤上",
+    "qualifiers": {
+      "polarity": "affirmative",
+      "modality": [],
+      "conditions": [],
+      "agents": [
+        "us"
+      ],
+      "timeScope": null,
+      "excludedInferences": [
+        "漏检步骤是选定焦点，不等于已证明根因或有人失职。"
+      ]
+    },
+    "location": "whole_expression",
+    "senseRefs": [
+      "frame%2:32:00::",
+      "issue%1:09:01::"
+    ],
+    "targetSpans": [
+      {
+        "start": 6,
+        "end": 21,
+        "text": "frame the issue",
+        "mappingType": "exact",
+        "note": "原句精确匹配；词形变化时不伪造span"
+      }
+    ],
+    "context": "仅以保留的这条原句为分析范围；未知背景不补造。",
+    "expressionExplanation": {
+      "kind": "compositional",
+      "text": "把问题的讨论重点组织在漏检步骤上",
+      "componentRefs": [
+        {
+          "sourceId": "oewn-2025",
+          "sourceVersion": "2025",
+          "locator": "entries-f.json/frame/v / frame%2:32:00::",
+          "supportedClaim": "formulate in a particular style or language",
+          "url": "https://en-word.net/"
+        },
+        {
+          "sourceId": "oewn-2025",
+          "sourceVersion": "2025",
+          "locator": "entries-i.json/issue/n / issue%1:09:01::",
+          "supportedClaim": "an important question that is in dispute and must be settled",
+          "url": "https://en-word.net/"
+        }
+      ],
+      "wholeExpressionRefs": [],
+      "boundary": "漏检步骤是选定焦点，不等于已证明根因或有人失职。",
+      "reviewerBasis": "待独立完整包核对表达身份与证据范围"
+    }
+  },
+  "history": {
+    "schemaVersion": 1,
+    "lexicalEntryId": "lex:frame the issue",
+    "version": "1",
+    "summary": "",
+    "claims": [],
+    "sourceRefs": [],
+    "limitations": [
+      "未核实历史资料，不编造词源或年代。"
+    ]
+  },
+  "bridge": {
+    "schemaVersion": 1,
+    "entryId": "V20261014-003",
+    "contextId": "V20261014-003-context",
+    "version": "1",
+    "location": "whole_expression",
+    "strategies": [
+      "direct",
+      "memory_analogy"
+    ],
+    "anchorRefs": [
+      "frame%1:06:00::"
+    ],
+    "targetRefs": [
+      "frame%2:32:00::",
+      "issue%1:09:01::"
+    ],
+    "semanticText": "从动词“组织表述”义进入最直接。画框可以帮助记忆“选择呈现范围”，但这只是教学类比，不能当成该句的词源证据。",
+    "boundary": "漏检步骤是选定焦点，不等于已证明根因或有人失职。",
+    "evidenceRefs": [
+      {
+        "sourceId": "oewn-2025",
+        "sourceVersion": "2025",
+        "locator": "entries-f.json/frame/v / frame%2:32:00::",
+        "supportedClaim": "formulate in a particular style or language",
+        "url": "https://en-word.net/"
+      },
+      {
+        "sourceId": "oewn-2025",
+        "sourceVersion": "2025",
+        "locator": "entries-i.json/issue/n / issue%1:09:01::",
+        "supportedClaim": "an important question that is in dispute and must be settled",
+        "url": "https://en-word.net/"
+      }
+    ],
+    "historyLink": null,
+    "historyClaimRefs": [],
+    "returnTargets": [
+      "wl-common",
+      "wl-history"
+    ]
+  },
+  "analysis": {
+    "schemaVersion": 1,
+    "entryId": "V20261014-003",
+    "contextId": "V20261014-003-context",
+    "version": "1",
+    "promptHash": "aaf3bd1e99daf47a70a2a158973652d67ff14dafcfc1748b3fc2a09d719885db",
+    "depth": "standard",
+    "depthReason": "需辨析相邻用法并保留原句的承诺或证据边界。",
+    "coverage": {
+      "syntax": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "syntax-concept"
+        ]
+      },
+      "concept": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "syntax-concept"
+        ]
+      },
+      "contrast": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "contrast"
+        ]
+      },
+      "languageGame": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "game-neighbors"
+        ]
+      },
+      "englishNeighbors": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "game-neighbors"
+        ]
+      },
+      "pragmaticAction": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "action"
+        ]
+      },
+      "workplaceUse": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "workplace"
+        ]
+      }
+    },
+    "blocks": [
+      {
+        "blockId": "syntax-concept",
+        "dimensions": [
+          "syntax",
+          "concept"
+        ],
+        "text": "Let’s提出共同建议；frame the issue是动词加宾语；around the missed inspection step限定讨论切入点。 同一事件可以按责任、流程或结果来表述。这里选择漏掉的步骤作为讨论焦点，但没有证明那就是唯一根因。",
+        "sourceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-f.json/frame/v / frame%2:32:00::",
+            "supportedClaim": "formulate in a particular style or language",
+            "url": "https://en-word.net/"
+          },
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-i.json/issue/n / issue%1:09:01::",
+            "supportedClaim": "an important question that is in dispute and must be settled",
+            "url": "https://en-word.net/"
+          }
+        ],
+        "title": "句子结构与当前所指"
+      },
+      {
+        "blockId": "contrast",
+        "dimensions": [
+          "contrast"
+        ],
+        "text": "frame an issue是决定怎样描述问题；solve an issue才是解决问题。选择视角既可能帮助澄清，也可能遗漏信息，所以应保留检查视角是否合适的机会。",
+        "sourceRefs": [],
+        "title": "容易混淆的地方"
+      },
+      {
+        "blockId": "game-neighbors",
+        "dimensions": [
+          "languageGame",
+          "englishNeighbors"
+        ],
+        "text": "这是问题界定。下一步可以回看流程记录、找出预期与实际步骤的差异，再决定需要哪些证据；不能先从措辞跳到责任归属。 frame around X连到focus/scope；root cause analysis是可能后续活动，却不是frame这个词本身已经完成的工作。",
+        "sourceRefs": [],
+        "title": "讨论通常怎样继续"
+      },
+      {
+        "blockId": "action",
+        "dimensions": [
+          "pragmaticAction"
+        ],
+        "text": "说话者在建议讨论切入点，试图让讨论聚焦到一项可检查的流程差异。",
+        "sourceRefs": [],
+        "title": "说话者正在做什么"
+      },
+      {
+        "blockId": "workplace",
+        "dimensions": [
+          "workplaceUse"
+        ],
+        "text": "下面是迁移到制造业沟通的新例句；不代表原场景中已发生的决定。",
+        "sourceRefs": [],
+        "title": "迁移到工作情境"
+      }
+    ],
+    "workplaceUse": [
+      {
+        "en": "Let us frame the issue as a gap in the inspection process.",
+        "zh": "我们先把问题界定为检验流程中的缺口。",
+        "whenToUse": "提出调查的暂定切入点。",
+        "limitation": "原创教学表达；具体权限和流程以实际约定为准。",
+        "origin": "original"
+      },
+      {
+        "en": "Are we framing the issue too narrowly?",
+        "zh": "我们是否把问题界定得过窄？",
+        "whenToUse": "检查讨论是否漏掉相关因素。",
+        "limitation": "原创教学表达；具体权限和流程以实际约定为准。",
+        "origin": "original"
+      }
+    ],
+    "practiceRefs": [],
+    "edges": []
+  },
+  "practices": [],
+  "sources": [
+    {
+      "schemaVersion": 1,
+      "sourceId": "original-vocab",
+      "version": "2026-11-16",
+      "title": "原词库教学句／转述",
+      "url": "public/vocabulary.json",
+      "accessMode": "user_material",
+      "retrievedAt": "2026-11-16T01:45:06.410Z",
+      "coverage": "partial",
+      "rights": "用户授权处理原词库",
+      "limitations": [
+        "非外部作者逐字引文；保留原ID与原句"
+      ]
+    },
+    {
+      "schemaVersion": 1,
+      "sourceId": "oewn-2025",
+      "version": "2025",
+      "title": "Open English Wordnet 2025",
+      "url": "https://en-word.net/",
+      "accessMode": "licensed_snapshot",
+      "retrievedAt": "2026-11-16T01:45:06.410Z",
+      "coverage": "partial",
+      "rights": "CC BY 4.0 + Princeton notice",
+      "limitations": [
+        "本包仅选部分源义；中文非官方译文"
+      ]
+    }
+  ],
+  "verifiedIPA": null,
+  "dictionaryURL": "https://en-word.net/",
+  "historyURL": null
+}

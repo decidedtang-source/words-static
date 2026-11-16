@@ -1,0 +1,442 @@
+{
+  "snapshot": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-053",
+    "term": "reservation",
+    "quote": "I have reservations about committing before the review.",
+    "batch": "2026-10-12",
+    "originalFileSHA": "ec65d33d6da99ebad2577f6c9f9938499823d29d117f43532302cf964a4c60a3",
+    "quoteSHA": "a3f9f1d55bda91c6c9acb4942b49cbfee205caac0c51e92dd521d3b512498f02",
+    "originalIPA": "ˌrez.ɚˈveɪ.ʃən",
+    "originalPOS": "n.",
+    "originalMeaning": "尚未消除的保留意见或疑虑"
+  },
+  "selection": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-053",
+    "version": "1",
+    "inventoryRefs": [
+      "inventory:V20261012-053"
+    ],
+    "selectedSenseIds": [
+      "reservation%1:09:01::",
+      "reservation%1:09:00::"
+    ],
+    "reason": "按学习用途选择常见或易混义；这里不是语料频率排名。",
+    "usageTip": "复数reservations about常表示顾虑；a reservation for通常说明预订对象。",
+    "general": "预订；提前保留的位置；保留意见；顾虑",
+    "senses": [
+      {
+        "senseId": "reservation%1:09:01::",
+        "title": "预订；提前保留的位置",
+        "usageLabels": [
+          "n.",
+          "精选学习义"
+        ],
+        "explanationZh": "预订；提前保留的位置。例句说明的用法：我们预订了两个人的位置。",
+        "examples": [
+          {
+            "en": "We have a reservation for two people.",
+            "zh": "我们预订了两个人的位置。",
+            "origin": "original",
+            "sourceRef": null,
+            "usageNote": "预订；提前保留的位置。例句说明的用法：我们预订了两个人的位置。"
+          }
+        ],
+        "evidenceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-r.json/reservation/n / reservation%1:09:01::",
+            "supportedClaim": "something reserved in advance (as a hotel accommodation or a seat on a plane etc.)",
+            "url": "https://en-word.net/"
+          }
+        ]
+      },
+      {
+        "senseId": "reservation%1:09:00::",
+        "title": "保留意见；顾虑",
+        "usageLabels": [
+          "n.",
+          "精选学习义"
+        ],
+        "explanationZh": "保留意见；顾虑。例句说明的用法：我对这个提议有保留意见。",
+        "examples": [
+          {
+            "en": "I have reservations about the proposal.",
+            "zh": "我对这个提议有保留意见。",
+            "origin": "original",
+            "sourceRef": null,
+            "usageNote": "保留意见；顾虑。例句说明的用法：我对这个提议有保留意见。"
+          }
+        ],
+        "evidenceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-r.json/reservation/n / reservation%1:09:00::",
+            "supportedClaim": "an unstated doubt that prevents you from accepting something wholeheartedly",
+            "url": "https://en-word.net/"
+          }
+        ]
+      }
+    ]
+  },
+  "senses": [
+    {
+      "schemaVersion": 1,
+      "senseId": "reservation%1:09:01::",
+      "lexicalEntryId": "lex:reservation",
+      "pos": "n.",
+      "definitionOrigin": "licensed_verbatim",
+      "meaning": {
+        "definitionEn": "something reserved in advance (as a hotel accommodation or a seat on a plane etc.)",
+        "glossZh": "预订；提前保留的位置",
+        "glossOrigin": "editorial"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "oewn-2025",
+          "sourceVersion": "2025",
+          "locator": "entries-r.json/reservation/n / reservation%1:09:01::",
+          "supportedClaim": "something reserved in advance (as a hotel accommodation or a seat on a plane etc.)",
+          "url": "https://en-word.net/"
+        }
+      ],
+      "version": "1"
+    },
+    {
+      "schemaVersion": 1,
+      "senseId": "reservation%1:09:00::",
+      "lexicalEntryId": "lex:reservation",
+      "pos": "n.",
+      "definitionOrigin": "licensed_verbatim",
+      "meaning": {
+        "definitionEn": "an unstated doubt that prevents you from accepting something wholeheartedly",
+        "glossZh": "保留意见；顾虑",
+        "glossOrigin": "editorial"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "oewn-2025",
+          "sourceVersion": "2025",
+          "locator": "entries-r.json/reservation/n / reservation%1:09:00::",
+          "supportedClaim": "an unstated doubt that prevents you from accepting something wholeheartedly",
+          "url": "https://en-word.net/"
+        }
+      ],
+      "version": "1"
+    }
+  ],
+  "inventory": {
+    "schemaVersion": 1,
+    "inventoryId": "inventory:V20261012-053",
+    "version": "1",
+    "lexicalEntryId": "lex:reservation",
+    "sources": [
+      "oewn-2025"
+    ],
+    "senseIds": [
+      "reservation%1:09:01::",
+      "reservation%1:09:00::"
+    ],
+    "coverageStatus": "partial"
+  },
+  "context": {
+    "schemaVersion": 1,
+    "contextId": "V20261012-053-context",
+    "entryId": "V20261012-053",
+    "sourceRef": "original-vocab",
+    "quote": "I have reservations about committing before the review.",
+    "quoteSHA": "a3f9f1d55bda91c6c9acb4942b49cbfee205caac0c51e92dd521d3b512498f02",
+    "translation": "我对在评审前作出承诺有顾虑。",
+    "quoteType": "原词库教学例句／转述；未认定为外部作者逐字引文",
+    "meaning": "对未经评审就承诺表示保留意见",
+    "qualifiers": {
+      "polarity": "affirmative",
+      "modality": [],
+      "conditions": [],
+      "agents": [
+        "I"
+      ],
+      "timeScope": "before the review",
+      "excludedInferences": [
+        "这个记忆联系不证明具体历史演变，也不等于发言者拥有否决权。"
+      ]
+    },
+    "location": "selected",
+    "senseRefs": [
+      "reservation%1:09:00::"
+    ],
+    "targetSpans": [
+      {
+        "start": 7,
+        "end": 18,
+        "text": "reservation",
+        "mappingType": "exact",
+        "note": "原句精确匹配；词形变化时不伪造span"
+      }
+    ],
+    "context": "仅以保留的这条原句为分析范围；未知背景不补造。"
+  },
+  "history": {
+    "schemaVersion": 1,
+    "lexicalEntryId": "lex:reservation",
+    "version": "1",
+    "summary": "词条记载14世纪末有保留／留下用法，约1600年见未明说的限制／保留意见义。",
+    "claims": [
+      {
+        "claimId": "history-reservation-claim",
+        "text": "词条记载14世纪末有保留／留下用法，约1600年见未明说的限制／保留意见义。",
+        "timePrecision": "按史源记录，不作精确起源日期",
+        "sourceRefs": [
+          {
+            "sourceId": "history-reservation",
+            "sourceVersion": "2026-11-16",
+            "locator": "reservation (n.), paragraphs 1–2",
+            "supportedClaim": "词条记载14世纪末有保留／留下用法，约1600年见未明说的限制／保留意见义。",
+            "url": "https://www.etymonline.com/word/reservation"
+          }
+        ]
+      }
+    ],
+    "sourceRefs": [
+      {
+        "sourceId": "history-reservation",
+        "sourceVersion": "2026-11-16",
+        "locator": "reservation (n.), paragraphs 1–2",
+        "supportedClaim": "词条记载14世纪末有保留／留下用法，约1600年见未明说的限制／保留意见义。",
+        "url": "https://www.etymonline.com/word/reservation"
+      }
+    ],
+    "limitations": [
+      "仅限该词源条目记载；不能推出原句中的组织事实。"
+    ]
+  },
+  "bridge": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-053",
+    "contextId": "V20261012-053-context",
+    "version": "1",
+    "location": "selected",
+    "strategies": [
+      "direct",
+      "contextualization"
+    ],
+    "anchorRefs": [
+      "reservation%1:09:01::"
+    ],
+    "targetRefs": [
+      "reservation%1:09:00::"
+    ],
+    "semanticText": "这里用保留意见义，不是订座义。可以把两者的“留下而不完全交出去”当记忆联系，但现代场景中留下的是赞同程度。",
+    "boundary": "这个记忆联系不证明具体历史演变，也不等于发言者拥有否决权。",
+    "evidenceRefs": [
+      {
+        "sourceId": "oewn-2025",
+        "sourceVersion": "2025",
+        "locator": "entries-r.json/reservation/n / reservation%1:09:00::",
+        "supportedClaim": "an unstated doubt that prevents you from accepting something wholeheartedly",
+        "url": "https://en-word.net/"
+      }
+    ],
+    "historyLink": {
+      "text": "词史中有“保留／留下”和后来心中保留意见的记录。本句可联系这种不完全给予赞同的用法；它并不意味着先有订座义才发展出顾虑义。",
+      "relationType": "documented_usage_with_bounded_editorial_link",
+      "claimRefs": [
+        "history-reservation-claim"
+      ],
+      "limitation": "这个记忆联系不证明具体历史演变，也不等于发言者拥有否决权。"
+    },
+    "historyClaimRefs": [
+      "history-reservation-claim"
+    ],
+    "returnTargets": [
+      "wl-common",
+      "wl-history"
+    ]
+  },
+  "analysis": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-053",
+    "contextId": "V20261012-053-context",
+    "version": "1",
+    "promptHash": "aaf3bd1e99daf47a70a2a158973652d67ff14dafcfc1748b3fc2a09d719885db",
+    "depth": "standard",
+    "depthReason": "需辨析相邻用法并保留原句的承诺或证据边界。",
+    "coverage": {
+      "syntax": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "syntax-concept"
+        ]
+      },
+      "concept": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "syntax-concept"
+        ]
+      },
+      "contrast": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "contrast"
+        ]
+      },
+      "languageGame": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "game-neighbors"
+        ]
+      },
+      "englishNeighbors": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "game-neighbors"
+        ]
+      },
+      "pragmaticAction": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "action"
+        ]
+      },
+      "workplaceUse": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "workplace"
+        ]
+      }
+    },
+    "blocks": [
+      {
+        "blockId": "syntax-concept",
+        "dimensions": [
+          "syntax",
+          "concept"
+        ],
+        "text": "have reservations about后接动名词committing；before the review限定承诺发生的时点，顾虑不是针对所有承诺。 发言者尚不能完全赞同当前做法。原句未说明具体风险，可以追问是证据不足、时间不确定还是其他原因。",
+        "sourceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-r.json/reservation/n / reservation%1:09:00::",
+            "supportedClaim": "an unstated doubt that prevents you from accepting something wholeheartedly",
+            "url": "https://en-word.net/"
+          }
+        ],
+        "title": "句子结构与当前所指"
+      },
+      {
+        "blockId": "contrast",
+        "dimensions": [
+          "contrast"
+        ],
+        "text": "reservation通常允许讨论和澄清；objection更直接表达反对，但强弱仍看上下文。不能把have reservations自动解释成正式否决。",
+        "sourceRefs": [],
+        "title": "容易混淆的地方"
+      },
+      {
+        "blockId": "game-neighbors",
+        "dimensions": [
+          "languageGame",
+          "englishNeighbors"
+        ],
+        "text": "这是风险或承诺条件的协商。有效下一步是让顾虑具体化，说明需要哪些评审结果才能解除。 reservations about a proposal与address concerns相连，因为意见需要回应；commit before review把讨论引向承诺前应核实的依据。",
+        "sourceRefs": [],
+        "title": "讨论通常怎样继续"
+      },
+      {
+        "blockId": "action",
+        "dimensions": [
+          "pragmaticAction"
+        ],
+        "text": "说话者温和地提出异议并限制当前赞同程度，未撤回整个项目。",
+        "sourceRefs": [],
+        "title": "说话者正在做什么"
+      },
+      {
+        "blockId": "workplace",
+        "dimensions": [
+          "workplaceUse"
+        ],
+        "text": "下面是迁移到制造业沟通的新例句；不代表原场景中已发生的决定。",
+        "sourceRefs": [],
+        "title": "迁移到工作情境"
+      }
+    ],
+    "workplaceUse": [
+      {
+        "en": "I have reservations about releasing the batch before the test results arrive.",
+        "zh": "我对在测试结果出来前放行这批产品有顾虑。",
+        "whenToUse": "提出放行时点的担忧。",
+        "limitation": "原创教学表达；具体权限和流程以实际约定为准。",
+        "origin": "original"
+      },
+      {
+        "en": "What would address your reservations about the schedule?",
+        "zh": "怎样才能消除你对日程的顾虑？",
+        "whenToUse": "让对方说明可解决的条件。",
+        "limitation": "原创教学表达；具体权限和流程以实际约定为准。",
+        "origin": "original"
+      }
+    ],
+    "practiceRefs": [],
+    "edges": []
+  },
+  "practices": [],
+  "sources": [
+    {
+      "schemaVersion": 1,
+      "sourceId": "original-vocab",
+      "version": "2026-11-16",
+      "title": "原词库教学句／转述",
+      "url": "public/vocabulary.json",
+      "accessMode": "user_material",
+      "retrievedAt": "2026-11-16T01:45:06.410Z",
+      "coverage": "partial",
+      "rights": "用户授权处理原词库",
+      "limitations": [
+        "非外部作者逐字引文；保留原ID与原句"
+      ]
+    },
+    {
+      "schemaVersion": 1,
+      "sourceId": "oewn-2025",
+      "version": "2025",
+      "title": "Open English Wordnet 2025",
+      "url": "https://en-word.net/",
+      "accessMode": "licensed_snapshot",
+      "retrievedAt": "2026-11-16T01:45:06.410Z",
+      "coverage": "partial",
+      "rights": "CC BY 4.0 + Princeton notice",
+      "limitations": [
+        "本包仅选部分源义；中文非官方译文"
+      ]
+    },
+    {
+      "schemaVersion": 1,
+      "sourceId": "history-reservation",
+      "version": "2026-11-16",
+      "title": "history-reservation",
+      "url": "https://www.etymonline.com/word/reservation",
+      "accessMode": "page",
+      "retrievedAt": "2026-11-16T01:45:06.410Z",
+      "coverage": "partial",
+      "rights": "必要短引与中文整理，不声称批量复制许可",
+      "limitations": [
+        "仅支持记录中的具体主张，不代表完整条目"
+      ]
+    }
+  ],
+  "verifiedIPA": null,
+  "dictionaryURL": "https://en-word.net/",
+  "historyURL": "https://www.etymonline.com/word/reservation"
+}

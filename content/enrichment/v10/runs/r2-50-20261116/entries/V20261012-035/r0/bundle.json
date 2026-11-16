@@ -1,0 +1,447 @@
+{
+  "snapshot": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-035",
+    "term": "resolve",
+    "quote": "We need to resolve the scope issue before signing off.",
+    "batch": "2026-10-12",
+    "originalFileSHA": "ec65d33d6da99ebad2577f6c9f9938499823d29d117f43532302cf964a4c60a3",
+    "quoteSHA": "011263f7a9e660c8cba0498f1bfab49ee8ea9870eb6c9e58b628f9244b20eaf8",
+    "originalIPA": "rɪˈzɑːlv",
+    "originalPOS": "v.",
+    "originalMeaning": "解决问题、分歧或不确定事项"
+  },
+  "selection": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-035",
+    "version": "1",
+    "inventoryRefs": [
+      "inventory:V20261012-035"
+    ],
+    "selectedSenseIds": [
+      "resolve%2:31:01::",
+      "resolve%2:31:02::",
+      "resolve%1:07:00::"
+    ],
+    "reason": "按学习用途选择常见或易混义；这里不是语料频率排名。",
+    "usageTip": "resolve an issue/dispute；resolve to do something另表示决意。",
+    "general": "解决；使问题得到确定处理；决意；决定要做；决心",
+    "senses": [
+      {
+        "senseId": "resolve%2:31:01::",
+        "title": "解决；使问题得到确定处理",
+        "usageLabels": [
+          "v.",
+          "精选学习义"
+        ],
+        "explanationZh": "解决；使问题得到确定处理",
+        "examples": [
+          {
+            "en": "We resolved the disagreement about scope.",
+            "zh": "我们解决了范围分歧。",
+            "origin": "original",
+            "sourceRef": null,
+            "usageNote": "解决；使问题得到确定处理"
+          }
+        ],
+        "evidenceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-r.json/resolve/v / resolve%2:31:01::",
+            "supportedClaim": "bring to an end; settle conclusively",
+            "url": "https://en-word.net/"
+          }
+        ]
+      },
+      {
+        "senseId": "resolve%2:31:02::",
+        "title": "决意；决定要做",
+        "usageLabels": [
+          "v.",
+          "精选学习义"
+        ],
+        "explanationZh": "决意；决定要做",
+        "examples": [
+          {
+            "en": "She resolved to document the changes.",
+            "zh": "她决意记录这些变更。",
+            "origin": "original",
+            "sourceRef": null,
+            "usageNote": "决意；决定要做"
+          }
+        ],
+        "evidenceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-r.json/resolve/v / resolve%2:31:02::",
+            "supportedClaim": "reach a decision",
+            "url": "https://en-word.net/"
+          }
+        ]
+      },
+      {
+        "senseId": "resolve%1:07:00::",
+        "title": "决心",
+        "usageLabels": [
+          "n.",
+          "精选学习义"
+        ],
+        "explanationZh": "决心",
+        "examples": [
+          {
+            "en": "The setback tested our resolve.",
+            "zh": "这次挫折考验了我们的决心。",
+            "origin": "original",
+            "sourceRef": null,
+            "usageNote": "决心"
+          }
+        ],
+        "evidenceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-r.json/resolve/n / resolve%1:07:00::",
+            "supportedClaim": "the trait of being resolute",
+            "url": "https://en-word.net/"
+          }
+        ]
+      }
+    ]
+  },
+  "senses": [
+    {
+      "schemaVersion": 1,
+      "senseId": "resolve%2:31:01::",
+      "lexicalEntryId": "lex:resolve",
+      "pos": "v.",
+      "definitionOrigin": "licensed_verbatim",
+      "meaning": {
+        "definitionEn": "bring to an end; settle conclusively",
+        "glossZh": "解决；使问题得到确定处理",
+        "glossOrigin": "editorial"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "oewn-2025",
+          "sourceVersion": "2025",
+          "locator": "entries-r.json/resolve/v / resolve%2:31:01::",
+          "supportedClaim": "bring to an end; settle conclusively",
+          "url": "https://en-word.net/"
+        }
+      ],
+      "version": "1"
+    },
+    {
+      "schemaVersion": 1,
+      "senseId": "resolve%2:31:02::",
+      "lexicalEntryId": "lex:resolve",
+      "pos": "v.",
+      "definitionOrigin": "licensed_verbatim",
+      "meaning": {
+        "definitionEn": "reach a decision",
+        "glossZh": "决意；决定要做",
+        "glossOrigin": "editorial"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "oewn-2025",
+          "sourceVersion": "2025",
+          "locator": "entries-r.json/resolve/v / resolve%2:31:02::",
+          "supportedClaim": "reach a decision",
+          "url": "https://en-word.net/"
+        }
+      ],
+      "version": "1"
+    },
+    {
+      "schemaVersion": 1,
+      "senseId": "resolve%1:07:00::",
+      "lexicalEntryId": "lex:resolve",
+      "pos": "n.",
+      "definitionOrigin": "licensed_verbatim",
+      "meaning": {
+        "definitionEn": "the trait of being resolute",
+        "glossZh": "决心",
+        "glossOrigin": "editorial"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "oewn-2025",
+          "sourceVersion": "2025",
+          "locator": "entries-r.json/resolve/n / resolve%1:07:00::",
+          "supportedClaim": "the trait of being resolute",
+          "url": "https://en-word.net/"
+        }
+      ],
+      "version": "1"
+    }
+  ],
+  "inventory": {
+    "schemaVersion": 1,
+    "inventoryId": "inventory:V20261012-035",
+    "version": "1",
+    "lexicalEntryId": "lex:resolve",
+    "sources": [
+      "oewn-2025"
+    ],
+    "senseIds": [
+      "resolve%2:31:01::",
+      "resolve%2:31:02::",
+      "resolve%1:07:00::"
+    ],
+    "coverageStatus": "partial"
+  },
+  "context": {
+    "schemaVersion": 1,
+    "contextId": "V20261012-035-context",
+    "entryId": "V20261012-035",
+    "sourceRef": "original-vocab",
+    "quote": "We need to resolve the scope issue before signing off.",
+    "quoteSHA": "011263f7a9e660c8cba0498f1bfab49ee8ea9870eb6c9e58b628f9244b20eaf8",
+    "translation": "我们需要在签字批准之前解决范围问题。",
+    "quoteType": "原词库教学例句／转述；未认定为外部作者逐字引文",
+    "meaning": "把范围问题处理清楚作为批准前的条件",
+    "qualifiers": {
+      "polarity": "affirmative",
+      "modality": [],
+      "conditions": [
+        "before signing off"
+      ],
+      "agents": [],
+      "timeScope": null,
+      "excludedInferences": [
+        "原句没有宣布问题已解决或签字已完成。"
+      ]
+    },
+    "location": "selected",
+    "senseRefs": [
+      "resolve%2:31:01::"
+    ],
+    "targetSpans": [
+      {
+        "start": 11,
+        "end": 18,
+        "text": "resolve",
+        "mappingType": "exact",
+        "note": "原句精确匹配；词形变化时不伪造span"
+      }
+    ],
+    "context": "仅以保留的这条原句为分析范围；未知背景不补造。"
+  },
+  "history": {
+    "schemaVersion": 1,
+    "lexicalEntryId": "lex:resolve",
+    "version": "1",
+    "summary": "",
+    "claims": [],
+    "sourceRefs": [],
+    "limitations": [
+      "未核实历史资料，不编造词源或年代。"
+    ]
+  },
+  "bridge": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-035",
+    "contextId": "V20261012-035-context",
+    "version": "1",
+    "location": "selected",
+    "strategies": [
+      "direct",
+      "contextualization"
+    ],
+    "anchorRefs": [
+      "resolve%2:31:01::"
+    ],
+    "targetRefs": [
+      "resolve%2:31:01::"
+    ],
+    "semanticText": "当前是问题解决义，scope限定问题类别，before进一步建立批准顺序；不是抽象表达决心。",
+    "boundary": "原句没有宣布问题已解决或签字已完成。",
+    "evidenceRefs": [
+      {
+        "sourceId": "oewn-2025",
+        "sourceVersion": "2025",
+        "locator": "entries-r.json/resolve/v / resolve%2:31:01::",
+        "supportedClaim": "bring to an end; settle conclusively",
+        "url": "https://en-word.net/"
+      }
+    ],
+    "historyLink": null,
+    "historyClaimRefs": [],
+    "returnTargets": [
+      "wl-common",
+      "wl-history"
+    ]
+  },
+  "analysis": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-035",
+    "contextId": "V20261012-035-context",
+    "version": "1",
+    "promptHash": "aaf3bd1e99daf47a70a2a158973652d67ff14dafcfc1748b3fc2a09d719885db",
+    "depth": "standard",
+    "depthReason": "需辨析相邻用法并保留原句的承诺或证据边界。",
+    "coverage": {
+      "syntax": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "syntax-concept"
+        ]
+      },
+      "concept": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "syntax-concept"
+        ]
+      },
+      "contrast": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "contrast"
+        ]
+      },
+      "languageGame": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "game-neighbors"
+        ]
+      },
+      "englishNeighbors": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "game-neighbors"
+        ]
+      },
+      "pragmaticAction": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "action"
+        ]
+      },
+      "workplaceUse": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "workplace"
+        ]
+      }
+    },
+    "blocks": [
+      {
+        "blockId": "syntax-concept",
+        "dimensions": [
+          "syntax",
+          "concept"
+        ],
+        "text": "need to resolve说明待办动作；scope issue是宾语；before signing off要求先解决、后批准。 范围问题可能涉及做什么或不做什么，但原句没给出争点。解决应有足以支持共同理解的结果，而非仅结束讨论。",
+        "sourceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-r.json/resolve/v / resolve%2:31:01::",
+            "supportedClaim": "bring to an end; settle conclusively",
+            "url": "https://en-word.net/"
+          }
+        ],
+        "title": "句子结构与当前所指"
+      },
+      {
+        "blockId": "contrast",
+        "dimensions": [
+          "contrast"
+        ],
+        "text": "discuss an issue是讨论；resolve an issue是解决。decide to do something属于resolve to另一结构；本句不是名词决心。",
+        "sourceRefs": [],
+        "title": "容易混淆的地方"
+      },
+      {
+        "blockId": "game-neighbors",
+        "dimensions": [
+          "languageGame",
+          "englishNeighbors"
+        ],
+        "text": "应明确争点、需要的决定以及谁确认结果，再进入批准步骤；不能把会议开完当成争议已解决。 scope clarification有助于解决；agreed scope记录结论；sign off是这里被前提限制的后续动作。",
+        "sourceRefs": [],
+        "title": "讨论通常怎样继续"
+      },
+      {
+        "blockId": "action",
+        "dimensions": [
+          "pragmaticAction"
+        ],
+        "text": "说话者在指出批准前必须完成的问题处理。",
+        "sourceRefs": [],
+        "title": "说话者正在做什么"
+      },
+      {
+        "blockId": "workplace",
+        "dimensions": [
+          "workplaceUse"
+        ],
+        "text": "下面是迁移到制造业沟通的新例句；不代表原场景中已发生的决定。",
+        "sourceRefs": [],
+        "title": "迁移到工作情境"
+      }
+    ],
+    "workplaceUse": [
+      {
+        "en": "What information do we need to resolve the scope issue?",
+        "zh": "解决范围问题需要哪些信息？",
+        "whenToUse": "推动具体澄清。",
+        "limitation": "原创教学表达；具体权限和流程以实际约定为准。",
+        "origin": "original"
+      },
+      {
+        "en": "Please record the agreed scope before requesting sign-off.",
+        "zh": "请求签字批准前，请记录商定的范围。",
+        "whenToUse": "让批准依据清楚。",
+        "limitation": "原创教学表达；具体权限和流程以实际约定为准。",
+        "origin": "original"
+      }
+    ],
+    "practiceRefs": [],
+    "edges": []
+  },
+  "practices": [],
+  "sources": [
+    {
+      "schemaVersion": 1,
+      "sourceId": "original-vocab",
+      "version": "2026-11-16",
+      "title": "原词库教学句／转述",
+      "url": "public/vocabulary.json",
+      "accessMode": "user_material",
+      "retrievedAt": "2026-11-16T01:45:06.410Z",
+      "coverage": "partial",
+      "rights": "用户授权处理原词库",
+      "limitations": [
+        "非外部作者逐字引文；保留原ID与原句"
+      ]
+    },
+    {
+      "schemaVersion": 1,
+      "sourceId": "oewn-2025",
+      "version": "2025",
+      "title": "Open English Wordnet 2025",
+      "url": "https://en-word.net/",
+      "accessMode": "licensed_snapshot",
+      "retrievedAt": "2026-11-16T01:45:06.410Z",
+      "coverage": "partial",
+      "rights": "CC BY 4.0 + Princeton notice",
+      "limitations": [
+        "本包仅选部分源义；中文非官方译文"
+      ]
+    }
+  ],
+  "verifiedIPA": null,
+  "dictionaryURL": "https://en-word.net/",
+  "historyURL": null
+}

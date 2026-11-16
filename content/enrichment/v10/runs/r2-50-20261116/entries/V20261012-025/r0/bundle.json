@@ -1,0 +1,345 @@
+{
+  "snapshot": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-025",
+    "term": "backlog",
+    "quote": "We will clear the backlog before accepting more requests.",
+    "batch": "2026-10-12",
+    "originalFileSHA": "ec65d33d6da99ebad2577f6c9f9938499823d29d117f43532302cf964a4c60a3",
+    "quoteSHA": "752241623278fddefa1f2ac1f639623fbf0f7f1f8bd2ab378c514ec03536099e",
+    "originalIPA": "ˈbæk.lɑːɡ",
+    "originalPOS": "n.",
+    "originalMeaning": "积累下来尚未完成的工作"
+  },
+  "selection": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-025",
+    "version": "1",
+    "inventoryRefs": [
+      "inventory:V20261012-025"
+    ],
+    "selectedSenseIds": [
+      "backlog%1:14:00::"
+    ],
+    "reason": "按学习用途选择常见或易混义；这里不是语料频率排名。",
+    "usageTip": "a backlog of orders/requests；clear the backlog强调处理完积压事项。",
+    "general": "积压的未完成工作",
+    "senses": [
+      {
+        "senseId": "backlog%1:14:00::",
+        "title": "积压的未完成工作",
+        "usageLabels": [
+          "n.",
+          "精选学习义"
+        ],
+        "explanationZh": "积压的未完成工作",
+        "examples": [
+          {
+            "en": "The team is working through a backlog of requests.",
+            "zh": "团队正在处理积压的请求。",
+            "origin": "original",
+            "sourceRef": null,
+            "usageNote": "积压的未完成工作"
+          }
+        ],
+        "evidenceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-b.json/backlog/n / backlog%1:14:00::",
+            "supportedClaim": "an accumulation of jobs not done or materials not processed that are yet to be dealt with (especially unfilled customer orders for products or services)",
+            "url": "https://en-word.net/"
+          }
+        ]
+      }
+    ]
+  },
+  "senses": [
+    {
+      "schemaVersion": 1,
+      "senseId": "backlog%1:14:00::",
+      "lexicalEntryId": "lex:backlog",
+      "pos": "n.",
+      "definitionOrigin": "licensed_verbatim",
+      "meaning": {
+        "definitionEn": "an accumulation of jobs not done or materials not processed that are yet to be dealt with (especially unfilled customer orders for products or services)",
+        "glossZh": "积压的未完成工作",
+        "glossOrigin": "editorial"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "oewn-2025",
+          "sourceVersion": "2025",
+          "locator": "entries-b.json/backlog/n / backlog%1:14:00::",
+          "supportedClaim": "an accumulation of jobs not done or materials not processed that are yet to be dealt with (especially unfilled customer orders for products or services)",
+          "url": "https://en-word.net/"
+        }
+      ],
+      "version": "1"
+    }
+  ],
+  "inventory": {
+    "schemaVersion": 1,
+    "inventoryId": "inventory:V20261012-025",
+    "version": "1",
+    "lexicalEntryId": "lex:backlog",
+    "sources": [
+      "oewn-2025"
+    ],
+    "senseIds": [
+      "backlog%1:14:00::"
+    ],
+    "coverageStatus": "partial"
+  },
+  "context": {
+    "schemaVersion": 1,
+    "contextId": "V20261012-025-context",
+    "entryId": "V20261012-025",
+    "sourceRef": "original-vocab",
+    "quote": "We will clear the backlog before accepting more requests.",
+    "quoteSHA": "752241623278fddefa1f2ac1f639623fbf0f7f1f8bd2ab378c514ec03536099e",
+    "translation": "我们会先清理积压工作，再接受更多请求。",
+    "quoteType": "原词库教学例句／转述；未认定为外部作者逐字引文",
+    "meaning": "尚未完成、需要先处理的积压事项",
+    "qualifiers": {
+      "polarity": "affirmative",
+      "modality": [
+        "will"
+      ],
+      "conditions": [],
+      "agents": [],
+      "timeScope": null,
+      "excludedInferences": [
+        "will不是已清空；句子没有提供紧急请求的例外规则。"
+      ]
+    },
+    "location": "selected",
+    "senseRefs": [
+      "backlog%1:14:00::"
+    ],
+    "targetSpans": [
+      {
+        "start": 18,
+        "end": 25,
+        "text": "backlog",
+        "mappingType": "exact",
+        "note": "原句精确匹配；词形变化时不伪造span"
+      }
+    ],
+    "context": "仅以保留的这条原句为分析范围；未知背景不补造。"
+  },
+  "history": {
+    "schemaVersion": 1,
+    "lexicalEntryId": "lex:backlog",
+    "version": "1",
+    "summary": "",
+    "claims": [],
+    "sourceRefs": [],
+    "limitations": [
+      "未核实历史资料，不编造词源或年代。"
+    ]
+  },
+  "bridge": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-025",
+    "contextId": "V20261012-025-context",
+    "version": "1",
+    "location": "selected",
+    "strategies": [
+      "direct",
+      "contextualization"
+    ],
+    "anchorRefs": [
+      "backlog%1:14:00::"
+    ],
+    "targetRefs": [
+      "backlog%1:14:00::"
+    ],
+    "semanticText": "积压工作义直接指向已有请求；不是木材或燃料相关的另一种backlog词义。",
+    "boundary": "will不是已清空；句子没有提供紧急请求的例外规则。",
+    "evidenceRefs": [
+      {
+        "sourceId": "oewn-2025",
+        "sourceVersion": "2025",
+        "locator": "entries-b.json/backlog/n / backlog%1:14:00::",
+        "supportedClaim": "an accumulation of jobs not done or materials not processed that are yet to be dealt with (especially unfilled customer orders for products or services)",
+        "url": "https://en-word.net/"
+      }
+    ],
+    "historyLink": null,
+    "historyClaimRefs": [],
+    "returnTargets": [
+      "wl-common",
+      "wl-history"
+    ]
+  },
+  "analysis": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-025",
+    "contextId": "V20261012-025-context",
+    "version": "1",
+    "promptHash": "aaf3bd1e99daf47a70a2a158973652d67ff14dafcfc1748b3fc2a09d719885db",
+    "depth": "standard",
+    "depthReason": "需辨析相邻用法并保留原句的承诺或证据边界。",
+    "coverage": {
+      "syntax": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "syntax-concept"
+        ]
+      },
+      "concept": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "syntax-concept"
+        ]
+      },
+      "contrast": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "contrast"
+        ]
+      },
+      "languageGame": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "game-neighbors"
+        ]
+      },
+      "englishNeighbors": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "game-neighbors"
+        ]
+      },
+      "pragmaticAction": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "action"
+        ]
+      },
+      "workplaceUse": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "workplace"
+        ]
+      }
+    },
+    "blocks": [
+      {
+        "blockId": "syntax-concept",
+        "dimensions": [
+          "syntax",
+          "concept"
+        ],
+        "text": "will clear表达未来安排；before accepting more requests要求清理先于接收更多请求。 已有未完成事项与继续进来的请求竞争处理能力。原句说的是拟采取的顺序，没有说明积压量或承诺完成日期。",
+        "sourceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-b.json/backlog/n / backlog%1:14:00::",
+            "supportedClaim": "an accumulation of jobs not done or materials not processed that are yet to be dealt with (especially unfilled customer orders for products or services)",
+            "url": "https://en-word.net/"
+          }
+        ],
+        "title": "句子结构与当前所指"
+      },
+      {
+        "blockId": "contrast",
+        "dimensions": [
+          "contrast"
+        ],
+        "text": "backlog是未完成工作的集合；delay是某项工作的延迟；queue强调等待次序。积压可以包含不同优先级，不能假定一律先进先出。",
+        "sourceRefs": [],
+        "title": "容易混淆的地方"
+      },
+      {
+        "blockId": "game-neighbors",
+        "dimensions": [
+          "languageGame",
+          "englishNeighbors"
+        ],
+        "text": "工作接收与容量协商中，可以盘点积压、确定清理顺序和恢复接收的条件，必要时另行讨论例外。 clear/reduce a backlog描述减少未完成量；new requests说明流入；capacity帮助解释为什么需要暂缓接收。",
+        "sourceRefs": [],
+        "title": "讨论通常怎样继续"
+      },
+      {
+        "blockId": "action",
+        "dimensions": [
+          "pragmaticAction"
+        ],
+        "text": "说话者在说明先消化已有工作的安排。",
+        "sourceRefs": [],
+        "title": "说话者正在做什么"
+      },
+      {
+        "blockId": "workplace",
+        "dimensions": [
+          "workplaceUse"
+        ],
+        "text": "下面是迁移到制造业沟通的新例句；不代表原场景中已发生的决定。",
+        "sourceRefs": [],
+        "title": "迁移到工作情境"
+      }
+    ],
+    "workplaceUse": [
+      {
+        "en": "How many inspection requests are in the backlog?",
+        "zh": "积压了多少检验请求？",
+        "whenToUse": "量化已有负荷。",
+        "limitation": "原创教学表达；具体权限和流程以实际约定为准。",
+        "origin": "original"
+      },
+      {
+        "en": "We need a plan to reduce the backlog before the next trial.",
+        "zh": "下次试生产前，我们需要一个减少积压工作的计划。",
+        "whenToUse": "安排清理行动。",
+        "limitation": "原创教学表达；具体权限和流程以实际约定为准。",
+        "origin": "original"
+      }
+    ],
+    "practiceRefs": [],
+    "edges": []
+  },
+  "practices": [],
+  "sources": [
+    {
+      "schemaVersion": 1,
+      "sourceId": "original-vocab",
+      "version": "2026-11-16",
+      "title": "原词库教学句／转述",
+      "url": "public/vocabulary.json",
+      "accessMode": "user_material",
+      "retrievedAt": "2026-11-16T01:45:06.410Z",
+      "coverage": "partial",
+      "rights": "用户授权处理原词库",
+      "limitations": [
+        "非外部作者逐字引文；保留原ID与原句"
+      ]
+    },
+    {
+      "schemaVersion": 1,
+      "sourceId": "oewn-2025",
+      "version": "2025",
+      "title": "Open English Wordnet 2025",
+      "url": "https://en-word.net/",
+      "accessMode": "licensed_snapshot",
+      "retrievedAt": "2026-11-16T01:45:06.410Z",
+      "coverage": "partial",
+      "rights": "CC BY 4.0 + Princeton notice",
+      "limitations": [
+        "本包仅选部分源义；中文非官方译文"
+      ]
+    }
+  ],
+  "verifiedIPA": null,
+  "dictionaryURL": "https://en-word.net/",
+  "historyURL": null
+}

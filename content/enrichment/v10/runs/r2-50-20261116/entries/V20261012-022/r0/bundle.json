@@ -1,0 +1,391 @@
+{
+  "snapshot": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-022",
+    "term": "tentative",
+    "quote": "Friday is a tentative date until the review is complete.",
+    "batch": "2026-10-12",
+    "originalFileSHA": "ec65d33d6da99ebad2577f6c9f9938499823d29d117f43532302cf964a4c60a3",
+    "quoteSHA": "5c56ffa0d2436b5fdf57fe20ecd32c9d5a43634f6d86d6cc353e8d42b498af88",
+    "originalIPA": "ˈten.t̬ə.t̬ɪv",
+    "originalPOS": "adj.",
+    "originalMeaning": "尚未最终确定、可能调整的"
+  },
+  "selection": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-022",
+    "version": "1",
+    "inventoryRefs": [
+      "inventory:V20261012-022"
+    ],
+    "selectedSenseIds": [
+      "tentative%5:00:00:conditional:00",
+      "tentative%5:00:00:unsettled:02"
+    ],
+    "reason": "按学习用途选择常见或易混义；这里不是语料频率排名。",
+    "general": "暂定的；尚未最终商定；试探性的；尚不确定的",
+    "senses": [
+      {
+        "senseId": "tentative%5:00:00:conditional:00",
+        "title": "暂定的；尚未最终商定",
+        "usageLabels": [
+          "adj.",
+          "精选学习义"
+        ],
+        "explanationZh": "暂定的；尚未最终商定",
+        "examples": [
+          {
+            "en": "We have a tentative schedule.",
+            "zh": "我们有一份暂定日程。",
+            "origin": "original",
+            "sourceRef": null,
+            "usageNote": "原创教学例句，不是来源原话"
+          }
+        ],
+        "evidenceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-t.json/tentative/a / tentative%5:00:00:conditional:00",
+            "supportedClaim": "under terms not final or fully worked out or agreed upon",
+            "url": "https://en-word.net/"
+          }
+        ]
+      },
+      {
+        "senseId": "tentative%5:00:00:unsettled:02",
+        "title": "试探性的；尚不确定的",
+        "usageLabels": [
+          "adj.",
+          "精选学习义"
+        ],
+        "explanationZh": "试探性的；尚不确定的",
+        "examples": [
+          {
+            "en": "She offered a tentative explanation.",
+            "zh": "她提出了一个试探性的解释。",
+            "origin": "original",
+            "sourceRef": null,
+            "usageNote": "原创教学例句，不是来源原话"
+          }
+        ],
+        "evidenceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-t.json/tentative/a / tentative%5:00:00:unsettled:02",
+            "supportedClaim": "unsettled in mind or opinion",
+            "url": "https://en-word.net/"
+          }
+        ]
+      }
+    ]
+  },
+  "senses": [
+    {
+      "schemaVersion": 1,
+      "senseId": "tentative%5:00:00:conditional:00",
+      "lexicalEntryId": "lex:tentative",
+      "pos": "adj.",
+      "meaning": {
+        "definitionEn": "under terms not final or fully worked out or agreed upon",
+        "glossZh": "暂定的；尚未最终商定",
+        "glossOrigin": "editorial"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "oewn-2025",
+          "sourceVersion": "2025",
+          "locator": "entries-t.json/tentative/a / tentative%5:00:00:conditional:00",
+          "supportedClaim": "under terms not final or fully worked out or agreed upon",
+          "url": "https://en-word.net/"
+        }
+      ],
+      "version": "1"
+    },
+    {
+      "schemaVersion": 1,
+      "senseId": "tentative%5:00:00:unsettled:02",
+      "lexicalEntryId": "lex:tentative",
+      "pos": "adj.",
+      "meaning": {
+        "definitionEn": "unsettled in mind or opinion",
+        "glossZh": "试探性的；尚不确定的",
+        "glossOrigin": "editorial"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "oewn-2025",
+          "sourceVersion": "2025",
+          "locator": "entries-t.json/tentative/a / tentative%5:00:00:unsettled:02",
+          "supportedClaim": "unsettled in mind or opinion",
+          "url": "https://en-word.net/"
+        }
+      ],
+      "version": "1"
+    }
+  ],
+  "inventory": {
+    "schemaVersion": 1,
+    "inventoryId": "inventory:V20261012-022",
+    "version": "1",
+    "lexicalEntryId": "lex:tentative",
+    "sources": [
+      "oewn-2025"
+    ],
+    "senseIds": [
+      "tentative%5:00:00:conditional:00",
+      "tentative%5:00:00:unsettled:02"
+    ],
+    "coverageStatus": "partial"
+  },
+  "context": {
+    "schemaVersion": 1,
+    "contextId": "V20261012-022-context",
+    "entryId": "V20261012-022",
+    "sourceRef": "original-vocab",
+    "quote": "Friday is a tentative date until the review is complete.",
+    "quoteSHA": "5c56ffa0d2436b5fdf57fe20ecd32c9d5a43634f6d86d6cc353e8d42b498af88",
+    "translation": "在评审完成之前，星期五只是暂定日期。",
+    "quoteType": "原词库教学例句／转述；未认定为外部作者逐字引文",
+    "meaning": "星期五尚未成为最终确定的日期",
+    "qualifiers": {
+      "polarity": "affirmative",
+      "modality": [],
+      "conditions": [],
+      "agents": [],
+      "timeScope": null,
+      "excludedInferences": [
+        "不能将until从句改译成“评审通过后一定星期五交付”。"
+      ]
+    },
+    "location": "selected",
+    "senseRefs": [
+      "tentative%5:00:00:conditional:00"
+    ],
+    "targetSpans": [
+      {
+        "start": 12,
+        "end": 21,
+        "text": "tentative",
+        "mappingType": "exact",
+        "note": "原句精确匹配；词形变化时不伪造span"
+      }
+    ],
+    "context": "仅以保留的这条原句为分析范围；未知背景不补造。"
+  },
+  "history": {
+    "schemaVersion": 1,
+    "lexicalEntryId": "lex:tentative",
+    "version": "1",
+    "summary": "",
+    "claims": [],
+    "sourceRefs": [],
+    "limitations": [
+      "未核实历史资料，不编造词源或年代。"
+    ]
+  },
+  "bridge": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-022",
+    "contextId": "V20261012-022-context",
+    "version": "1",
+    "location": "selected",
+    "strategies": [
+      "direct",
+      "contextualization"
+    ],
+    "anchorRefs": [
+      "tentative%5:00:00:conditional:00"
+    ],
+    "targetRefs": [
+      "tentative%5:00:00:conditional:00"
+    ],
+    "semanticText": "前面的暂定义直接适用：星期五是待确认的安排。这里不是描述说话方式胆怯，而是标注日程的确认状态。",
+    "boundary": "不能将until从句改译成“评审通过后一定星期五交付”。",
+    "evidenceRefs": [
+      {
+        "sourceId": "oewn-2025",
+        "sourceVersion": "2025",
+        "locator": "entries-t.json/tentative/a / tentative%5:00:00:conditional:00",
+        "supportedClaim": "under terms not final or fully worked out or agreed upon",
+        "url": "https://en-word.net/"
+      }
+    ],
+    "historyLink": null,
+    "historyClaimRefs": [],
+    "returnTargets": [
+      "wl-common",
+      "wl-history"
+    ]
+  },
+  "analysis": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-022",
+    "contextId": "V20261012-022-context",
+    "version": "1",
+    "promptHash": "aaf3bd1e99daf47a70a2a158973652d67ff14dafcfc1748b3fc2a09d719885db",
+    "depth": "standard",
+    "depthReason": "需辨析相邻用法并保留原句的承诺或证据边界。",
+    "coverage": {
+      "syntax": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "syntax-concept"
+        ]
+      },
+      "concept": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "syntax-concept"
+        ]
+      },
+      "contrast": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "contrast"
+        ]
+      },
+      "languageGame": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "game-neighbors"
+        ]
+      },
+      "englishNeighbors": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "game-neighbors"
+        ]
+      },
+      "pragmaticAction": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "action"
+        ]
+      },
+      "workplaceUse": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "workplace"
+        ]
+      }
+    },
+    "blocks": [
+      {
+        "blockId": "syntax-concept",
+        "dimensions": [
+          "syntax",
+          "concept"
+        ],
+        "text": "tentative修饰date；until the review is complete限制当前暂定状态。句子并未说评审一完成，星期五就必然被确认。 暂定日期可以用于协调准备，但确定性低于正式承诺。完成评审是仍待发生的事件，日期也可能随评审结果改变。",
+        "sourceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-t.json/tentative/a / tentative%5:00:00:conditional:00",
+            "supportedClaim": "under terms not final or fully worked out or agreed upon",
+            "url": "https://en-word.net/"
+          }
+        ],
+        "title": "句子结构与当前所指"
+      },
+      {
+        "blockId": "contrast",
+        "dimensions": [
+          "contrast"
+        ],
+        "text": "tentative强调未定；preliminary强调初步阶段；confirmed强调已经确认。一个初步评审本身也可以有已确认的会议日期。",
+        "sourceRefs": [],
+        "title": "容易混淆的地方"
+      },
+      {
+        "blockId": "game-neighbors",
+        "dimensions": [
+          "languageGame",
+          "englishNeighbors"
+        ],
+        "text": "排期协商中应追问确认所需条件和何时复核。接收者可以预留资源，同时注明尚未形成最终交付承诺。 tentative date与confirm/revise the date相连，说明暂定之后的可能动作；subject to review也能明确日期依赖评审。",
+        "sourceRefs": [],
+        "title": "讨论通常怎样继续"
+      },
+      {
+        "blockId": "action",
+        "dimensions": [
+          "pragmaticAction"
+        ],
+        "text": "说话者正在限制对星期五的承诺强度，而不是取消这个候选日期。",
+        "sourceRefs": [],
+        "title": "说话者正在做什么"
+      },
+      {
+        "blockId": "workplace",
+        "dimensions": [
+          "workplaceUse"
+        ],
+        "text": "下面是迁移到制造业沟通的新例句；不代表原场景中已发生的决定。",
+        "sourceRefs": [],
+        "title": "迁移到工作情境"
+      }
+    ],
+    "workplaceUse": [
+      {
+        "en": "The pilot run is tentatively scheduled for Friday.",
+        "zh": "试生产暂定在星期五。",
+        "whenToUse": "尚待确认资源的排期。",
+        "limitation": "原创教学表达；具体权限和流程以实际约定为准。",
+        "origin": "original"
+      },
+      {
+        "en": "Please confirm the tentative date after the tooling review.",
+        "zh": "请在工装评审后确认这个暂定日期。",
+        "whenToUse": "请求完成评审后重新核定日程。",
+        "limitation": "原创教学表达；具体权限和流程以实际约定为准。",
+        "origin": "original"
+      }
+    ],
+    "practiceRefs": [],
+    "edges": []
+  },
+  "practices": [],
+  "sources": [
+    {
+      "schemaVersion": 1,
+      "sourceId": "original-vocab",
+      "version": "2026-11-16",
+      "title": "原词库教学句／转述",
+      "url": "public/vocabulary.json",
+      "accessMode": "user_material",
+      "retrievedAt": "2026-11-16T00:00:00+08:00",
+      "coverage": "partial",
+      "rights": "用户授权处理原词库",
+      "limitations": [
+        "非外部作者逐字引文；保留原ID与原句"
+      ]
+    },
+    {
+      "schemaVersion": 1,
+      "sourceId": "oewn-2025",
+      "version": "2025",
+      "title": "Open English Wordnet 2025",
+      "url": "https://en-word.net/",
+      "accessMode": "licensed_snapshot",
+      "retrievedAt": "2026-11-16T00:00:00+08:00",
+      "coverage": "partial",
+      "rights": "CC BY 4.0 + Princeton notice",
+      "limitations": [
+        "本包仅选部分源义；中文非官方译文"
+      ]
+    }
+  ],
+  "verifiedIPA": null,
+  "dictionaryURL": "https://en-word.net/",
+  "historyURL": null
+}

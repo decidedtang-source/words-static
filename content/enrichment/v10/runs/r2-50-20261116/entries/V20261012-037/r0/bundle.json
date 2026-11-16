@@ -1,0 +1,359 @@
+{
+  "snapshot": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-037",
+    "term": "sign-off",
+    "quote": "We need the project manager's sign-off before proceeding.",
+    "batch": "2026-10-12",
+    "originalFileSHA": "ec65d33d6da99ebad2577f6c9f9938499823d29d117f43532302cf964a4c60a3",
+    "quoteSHA": "1f9a3a53dcf7c4059c5ee1163cf1f751a175524e429c2a49ad5995915d3441d5",
+    "originalIPA": "ˈsaɪnˌɑːf",
+    "originalPOS": "n.",
+    "originalMeaning": "经过审阅后的正式同意或放行"
+  },
+  "selection": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-037",
+    "version": "1",
+    "inventoryRefs": [
+      "inventory:V20261012-037"
+    ],
+    "selectedSenseIds": [
+      "web:oxford-sign-off"
+    ],
+    "reason": "按学习用途选择常见或易混义；这里不是语料频率排名。",
+    "usageTip": "名词sign-off；动词sign off/on分开写。区别签收、知悉和正式批准。",
+    "general": "签字给出的正式批准",
+    "senses": [
+      {
+        "senseId": "web:oxford-sign-off",
+        "title": "签字给出的正式批准",
+        "usageLabels": [
+          "n.",
+          "精选学习义"
+        ],
+        "explanationZh": "签字给出的正式批准",
+        "examples": [
+          {
+            "en": "We need sign-off on the final report.",
+            "zh": "最终报告需要签字批准。",
+            "origin": "original",
+            "sourceRef": null,
+            "usageNote": "签字给出的正式批准"
+          }
+        ],
+        "evidenceRefs": [
+          {
+            "sourceId": "oxford-sign-off",
+            "sourceVersion": "2026-11-16",
+            "locator": "noun, sense 2",
+            "supportedClaim": "sign-off名词可指签字给出的正式批准；此处不用动词停止广播义替代。",
+            "url": "https://www.oxfordlearnersdictionaries.com/definition/english/sign-off_2"
+          }
+        ]
+      }
+    ]
+  },
+  "senses": [
+    {
+      "schemaVersion": 1,
+      "senseId": "web:oxford-sign-off",
+      "lexicalEntryId": "lex:sign-off",
+      "pos": "n.",
+      "definitionOrigin": "short_quote",
+      "meaning": {
+        "definitionEn": "formal approval that somebody has given to something by signing their name",
+        "glossZh": "签字给出的正式批准",
+        "glossOrigin": "editorial"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "oxford-sign-off",
+          "sourceVersion": "2026-11-16",
+          "locator": "noun, sense 2",
+          "supportedClaim": "sign-off名词可指签字给出的正式批准；此处不用动词停止广播义替代。",
+          "url": "https://www.oxfordlearnersdictionaries.com/definition/english/sign-off_2"
+        }
+      ],
+      "version": "1"
+    }
+  ],
+  "inventory": {
+    "schemaVersion": 1,
+    "inventoryId": "inventory:V20261012-037",
+    "version": "1",
+    "lexicalEntryId": "lex:sign-off",
+    "sources": [
+      "oxford-sign-off"
+    ],
+    "senseIds": [
+      "web:oxford-sign-off"
+    ],
+    "coverageStatus": "partial"
+  },
+  "context": {
+    "schemaVersion": 1,
+    "contextId": "V20261012-037-context",
+    "entryId": "V20261012-037",
+    "sourceRef": "original-vocab",
+    "quote": "We need the project manager's sign-off before proceeding.",
+    "quoteSHA": "1f9a3a53dcf7c4059c5ee1163cf1f751a175524e429c2a49ad5995915d3441d5",
+    "translation": "继续进行之前，我们需要项目经理的签字批准。",
+    "quoteType": "原词库教学例句／转述；未认定为外部作者逐字引文",
+    "meaning": "本情境继续执行所需的项目经理正式批准",
+    "qualifiers": {
+      "polarity": "affirmative",
+      "modality": [],
+      "conditions": [
+        "before proceeding"
+      ],
+      "agents": [],
+      "timeScope": null,
+      "excludedInferences": [
+        "需要批准不等于已批准，也不能把本句推广成任何组织都由项目经理批准所有事项。"
+      ]
+    },
+    "location": "selected",
+    "senseRefs": [
+      "web:oxford-sign-off"
+    ],
+    "targetSpans": [
+      {
+        "start": 30,
+        "end": 38,
+        "text": "sign-off",
+        "mappingType": "exact",
+        "note": "原句精确匹配；词形变化时不伪造span"
+      }
+    ],
+    "context": "仅以保留的这条原句为分析范围；未知背景不补造。"
+  },
+  "history": {
+    "schemaVersion": 1,
+    "lexicalEntryId": "lex:sign-off",
+    "version": "1",
+    "summary": "",
+    "claims": [],
+    "sourceRefs": [],
+    "limitations": [
+      "未核实历史资料，不编造词源或年代。"
+    ]
+  },
+  "bridge": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-037",
+    "contextId": "V20261012-037-context",
+    "version": "1",
+    "location": "selected",
+    "strategies": [
+      "direct",
+      "contextualization"
+    ],
+    "anchorRefs": [
+      "web:oxford-sign-off"
+    ],
+    "targetRefs": [
+      "web:oxford-sign-off"
+    ],
+    "semanticText": "名词词条的正式批准义直接适用；不需要从动词“停止广播”推导。这里的批准者被原句限定为项目经理。",
+    "boundary": "需要批准不等于已批准，也不能把本句推广成任何组织都由项目经理批准所有事项。",
+    "evidenceRefs": [
+      {
+        "sourceId": "oxford-sign-off",
+        "sourceVersion": "2026-11-16",
+        "locator": "noun, sense 2",
+        "supportedClaim": "sign-off名词可指签字给出的正式批准；此处不用动词停止广播义替代。",
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/sign-off_2"
+      }
+    ],
+    "historyLink": null,
+    "historyClaimRefs": [],
+    "returnTargets": [
+      "wl-common",
+      "wl-history"
+    ]
+  },
+  "analysis": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-037",
+    "contextId": "V20261012-037-context",
+    "version": "1",
+    "promptHash": "aaf3bd1e99daf47a70a2a158973652d67ff14dafcfc1748b3fc2a09d719885db",
+    "depth": "standard",
+    "depthReason": "需辨析相邻用法并保留原句的承诺或证据边界。",
+    "coverage": {
+      "syntax": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "syntax-concept"
+        ]
+      },
+      "concept": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "syntax-concept"
+        ]
+      },
+      "contrast": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "contrast"
+        ]
+      },
+      "languageGame": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "game-neighbors"
+        ]
+      },
+      "englishNeighbors": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "game-neighbors"
+        ]
+      },
+      "pragmaticAction": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "action"
+        ]
+      },
+      "workplaceUse": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "workplace"
+        ]
+      }
+    },
+    "blocks": [
+      {
+        "blockId": "syntax-concept",
+        "dimensions": [
+          "syntax",
+          "concept"
+        ],
+        "text": "project manager’s说明批准来自谁；need的宾语是名词sign-off；before proceeding限定继续之前。 批准在这里是继续的前提。原句没有说已取得批准，也没有列出审查材料或规定项目经理在其他情境中的普遍权限。",
+        "sourceRefs": [
+          {
+            "sourceId": "oxford-sign-off",
+            "sourceVersion": "2026-11-16",
+            "locator": "noun, sense 2",
+            "supportedClaim": "sign-off名词可指签字给出的正式批准；此处不用动词停止广播义替代。",
+            "url": "https://www.oxfordlearnersdictionaries.com/definition/english/sign-off_2"
+          }
+        ],
+        "title": "句子结构与当前所指"
+      },
+      {
+        "blockId": "contrast",
+        "dimensions": [
+          "contrast"
+        ],
+        "text": "sign-off名词是正式批准；sign off on是动词结构；acknowledgement只是确认收到，不自动构成批准。",
+        "sourceRefs": [],
+        "title": "容易混淆的地方"
+      },
+      {
+        "blockId": "game-neighbors",
+        "dimensions": [
+          "languageGame",
+          "englishNeighbors"
+        ],
+        "text": "应准备明确版本和审批对象，向指定人请求决定并保留结果；仅有“已读”或参加会议不满足这里的批准意思。 request/obtain sign-off区分提出申请与取得批准；sign-off on the report指出批准对象；proceed是受批准条件约束的后续动作。",
+        "sourceRefs": [],
+        "title": "讨论通常怎样继续"
+      },
+      {
+        "blockId": "action",
+        "dimensions": [
+          "pragmaticAction"
+        ],
+        "text": "说话者在说明行动前尚需满足的批准条件。",
+        "sourceRefs": [],
+        "title": "说话者正在做什么"
+      },
+      {
+        "blockId": "workplace",
+        "dimensions": [
+          "workplaceUse"
+        ],
+        "text": "下面是迁移到制造业沟通的新例句；不代表原场景中已发生的决定。",
+        "sourceRefs": [],
+        "title": "迁移到工作情境"
+      }
+    ],
+    "workplaceUse": [
+      {
+        "en": "Which document version are we requesting sign-off on?",
+        "zh": "我们请求签字批准的是哪个文件版本？",
+        "whenToUse": "避免批准对象不明确。",
+        "limitation": "原创教学表达；具体权限和流程以实际约定为准。",
+        "origin": "original"
+      },
+      {
+        "en": "We have received comments, but not the required sign-off.",
+        "zh": "我们收到了意见，但尚未收到所需的签字批准。",
+        "whenToUse": "区分反馈与批准。",
+        "limitation": "原创教学表达；具体权限和流程以实际约定为准。",
+        "origin": "original"
+      }
+    ],
+    "practiceRefs": [],
+    "edges": []
+  },
+  "practices": [],
+  "sources": [
+    {
+      "schemaVersion": 1,
+      "sourceId": "original-vocab",
+      "version": "2026-11-16",
+      "title": "原词库教学句／转述",
+      "url": "public/vocabulary.json",
+      "accessMode": "user_material",
+      "retrievedAt": "2026-11-16T01:45:06.410Z",
+      "coverage": "partial",
+      "rights": "用户授权处理原词库",
+      "limitations": [
+        "非外部作者逐字引文；保留原ID与原句"
+      ]
+    },
+    {
+      "schemaVersion": 1,
+      "sourceId": "oewn-2025",
+      "version": "2025",
+      "title": "Open English Wordnet 2025",
+      "url": "https://en-word.net/",
+      "accessMode": "licensed_snapshot",
+      "retrievedAt": "2026-11-16T01:45:06.410Z",
+      "coverage": "partial",
+      "rights": "CC BY 4.0 + Princeton notice",
+      "limitations": [
+        "本包仅选部分源义；中文非官方译文"
+      ]
+    },
+    {
+      "schemaVersion": 1,
+      "sourceId": "oxford-sign-off",
+      "version": "2026-11-16",
+      "title": "oxford-sign-off",
+      "url": "https://www.oxfordlearnersdictionaries.com/definition/english/sign-off_2",
+      "accessMode": "indexed_excerpt",
+      "retrievedAt": "2026-11-16T01:45:06.410Z",
+      "coverage": "partial",
+      "rights": "必要短引与中文整理，不声称批量复制许可",
+      "limitations": [
+        "仅支持记录中的具体主张，不代表完整条目"
+      ]
+    }
+  ],
+  "verifiedIPA": "ˈsaɪn ɔːf",
+  "dictionaryURL": "https://www.oxfordlearnersdictionaries.com/definition/english/sign-off_2",
+  "historyURL": null
+}

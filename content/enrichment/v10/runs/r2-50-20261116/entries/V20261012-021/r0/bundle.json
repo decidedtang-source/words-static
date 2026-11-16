@@ -1,0 +1,343 @@
+{
+  "snapshot": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-021",
+    "term": "feasible",
+    "quote": "Is this option feasible with our current resources?",
+    "batch": "2026-10-12",
+    "originalFileSHA": "ec65d33d6da99ebad2577f6c9f9938499823d29d117f43532302cf964a4c60a3",
+    "quoteSHA": "3d3f1c28ffea383bfb742cf92baf996f65555c6eb9ae78e699f5a66c231b4828",
+    "originalIPA": "ˈfiː.zə.bəl",
+    "originalPOS": "adj.",
+    "originalMeaning": "在现有条件下做得到的"
+  },
+  "selection": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-021",
+    "version": "1",
+    "inventoryRefs": [
+      "inventory:V20261012-021"
+    ],
+    "selectedSenseIds": [
+      "feasible%5:00:00:possible:00"
+    ],
+    "reason": "按学习用途选择常见或易混义；这里不是语料频率排名。",
+    "usageTip": "feasible with现有条件；不要将feasible与approved互换。",
+    "general": "在现有条件和手段下可行的",
+    "senses": [
+      {
+        "senseId": "feasible%5:00:00:possible:00",
+        "title": "在现有条件和手段下可行的",
+        "usageLabels": [
+          "adj.",
+          "精选学习义"
+        ],
+        "explanationZh": "在现有条件和手段下可行的",
+        "examples": [
+          {
+            "en": "The plan is feasible with two technicians.",
+            "zh": "有两位技术人员时，这个计划是可行的。",
+            "origin": "original",
+            "sourceRef": null,
+            "usageNote": "在现有条件和手段下可行的"
+          }
+        ],
+        "evidenceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-f.json/feasible/a / feasible%5:00:00:possible:00",
+            "supportedClaim": "capable of being done with means at hand and circumstances as they are",
+            "url": "https://en-word.net/"
+          }
+        ]
+      }
+    ]
+  },
+  "senses": [
+    {
+      "schemaVersion": 1,
+      "senseId": "feasible%5:00:00:possible:00",
+      "lexicalEntryId": "lex:feasible",
+      "pos": "adj.",
+      "definitionOrigin": "licensed_verbatim",
+      "meaning": {
+        "definitionEn": "capable of being done with means at hand and circumstances as they are",
+        "glossZh": "在现有条件和手段下可行的",
+        "glossOrigin": "editorial"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "oewn-2025",
+          "sourceVersion": "2025",
+          "locator": "entries-f.json/feasible/a / feasible%5:00:00:possible:00",
+          "supportedClaim": "capable of being done with means at hand and circumstances as they are",
+          "url": "https://en-word.net/"
+        }
+      ],
+      "version": "1"
+    }
+  ],
+  "inventory": {
+    "schemaVersion": 1,
+    "inventoryId": "inventory:V20261012-021",
+    "version": "1",
+    "lexicalEntryId": "lex:feasible",
+    "sources": [
+      "oewn-2025"
+    ],
+    "senseIds": [
+      "feasible%5:00:00:possible:00"
+    ],
+    "coverageStatus": "partial"
+  },
+  "context": {
+    "schemaVersion": 1,
+    "contextId": "V20261012-021-context",
+    "entryId": "V20261012-021",
+    "sourceRef": "original-vocab",
+    "quote": "Is this option feasible with our current resources?",
+    "quoteSHA": "3d3f1c28ffea383bfb742cf92baf996f65555c6eb9ae78e699f5a66c231b4828",
+    "translation": "以我们目前的资源，这个选项可行吗？",
+    "quoteType": "原词库教学例句／转述；未认定为外部作者逐字引文",
+    "meaning": "询问当前资源条件是否足以实施这个选项",
+    "qualifiers": {
+      "polarity": "affirmative",
+      "modality": [],
+      "conditions": [],
+      "agents": [],
+      "timeScope": null,
+      "excludedInferences": [
+        "问句不代表已经可行，资源可行也不自动代表安全、合规或获批。"
+      ]
+    },
+    "location": "selected",
+    "senseRefs": [
+      "feasible%5:00:00:possible:00"
+    ],
+    "targetSpans": [
+      {
+        "start": 15,
+        "end": 23,
+        "text": "feasible",
+        "mappingType": "exact",
+        "note": "原句精确匹配；词形变化时不伪造span"
+      }
+    ],
+    "context": "仅以保留的这条原句为分析范围；未知背景不补造。"
+  },
+  "history": {
+    "schemaVersion": 1,
+    "lexicalEntryId": "lex:feasible",
+    "version": "1",
+    "summary": "",
+    "claims": [],
+    "sourceRefs": [],
+    "limitations": [
+      "未核实历史资料，不编造词源或年代。"
+    ]
+  },
+  "bridge": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-021",
+    "contextId": "V20261012-021-context",
+    "version": "1",
+    "location": "selected",
+    "strategies": [
+      "direct",
+      "contextualization"
+    ],
+    "anchorRefs": [
+      "feasible%5:00:00:possible:00"
+    ],
+    "targetRefs": [
+      "feasible%5:00:00:possible:00"
+    ],
+    "semanticText": "源义“凭可用手段或条件能够实现”在问句中被具体限定为我们当前的资源；不是无条件的可能。",
+    "boundary": "问句不代表已经可行，资源可行也不自动代表安全、合规或获批。",
+    "evidenceRefs": [
+      {
+        "sourceId": "oewn-2025",
+        "sourceVersion": "2025",
+        "locator": "entries-f.json/feasible/a / feasible%5:00:00:possible:00",
+        "supportedClaim": "capable of being done with means at hand and circumstances as they are",
+        "url": "https://en-word.net/"
+      }
+    ],
+    "historyLink": null,
+    "historyClaimRefs": [],
+    "returnTargets": [
+      "wl-common",
+      "wl-history"
+    ]
+  },
+  "analysis": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-021",
+    "contextId": "V20261012-021-context",
+    "version": "1",
+    "promptHash": "aaf3bd1e99daf47a70a2a158973652d67ff14dafcfc1748b3fc2a09d719885db",
+    "depth": "standard",
+    "depthReason": "需辨析相邻用法并保留原句的承诺或证据边界。",
+    "coverage": {
+      "syntax": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "syntax-concept"
+        ]
+      },
+      "concept": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "syntax-concept"
+        ]
+      },
+      "contrast": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "contrast"
+        ]
+      },
+      "languageGame": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "game-neighbors"
+        ]
+      },
+      "englishNeighbors": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "game-neighbors"
+        ]
+      },
+      "pragmaticAction": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "action"
+        ]
+      },
+      "workplaceUse": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "workplace"
+        ]
+      }
+    },
+    "blocks": [
+      {
+        "blockId": "syntax-concept",
+        "dimensions": [
+          "syntax",
+          "concept"
+        ],
+        "text": "Is…feasible构成疑问；with our current resources限定判断条件，this option指某个已提到的选项。 问题不是单问想不想做，而是问在现实资源条件下做不做得到。尚未得到肯定或否定回答。",
+        "sourceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-f.json/feasible/a / feasible%5:00:00:possible:00",
+            "supportedClaim": "capable of being done with means at hand and circumstances as they are",
+            "url": "https://en-word.net/"
+          }
+        ],
+        "title": "句子结构与当前所指"
+      },
+      {
+        "blockId": "contrast",
+        "dimensions": [
+          "contrast"
+        ],
+        "text": "feasible强调能否实施；desirable强调是否值得或想要；approved说明是否获批。可行的选项仍可能没有批准。",
+        "sourceRefs": [],
+        "title": "容易混淆的地方"
+      },
+      {
+        "blockId": "game-neighbors",
+        "dimensions": [
+          "languageGame",
+          "englishNeighbors"
+        ],
+        "text": "可以列出所需人手、设备、时间与可用资源进行比较，并说明缺口或前提，而不是只回答“理论上可以”。 feasibility assessment是可行性评估；resource constraints是判定条件；feasible alternative是在限制下寻找替代方案。",
+        "sourceRefs": [],
+        "title": "讨论通常怎样继续"
+      },
+      {
+        "blockId": "action",
+        "dimensions": [
+          "pragmaticAction"
+        ],
+        "text": "说话者在请求基于当前条件的可行性判断。",
+        "sourceRefs": [],
+        "title": "说话者正在做什么"
+      },
+      {
+        "blockId": "workplace",
+        "dimensions": [
+          "workplaceUse"
+        ],
+        "text": "下面是迁移到制造业沟通的新例句；不代表原场景中已发生的决定。",
+        "sourceRefs": [],
+        "title": "迁移到工作情境"
+      }
+    ],
+    "workplaceUse": [
+      {
+        "en": "Is the revised test plan feasible with one available rig?",
+        "zh": "只有一套可用试验台时，修订测试计划可行吗？",
+        "whenToUse": "核对设备限制。",
+        "limitation": "原创教学表达；具体权限和流程以实际约定为准。",
+        "origin": "original"
+      },
+      {
+        "en": "What would make this option feasible?",
+        "zh": "什么条件能让这个选项变得可行？",
+        "whenToUse": "追问可行所需条件。",
+        "limitation": "原创教学表达；具体权限和流程以实际约定为准。",
+        "origin": "original"
+      }
+    ],
+    "practiceRefs": [],
+    "edges": []
+  },
+  "practices": [],
+  "sources": [
+    {
+      "schemaVersion": 1,
+      "sourceId": "original-vocab",
+      "version": "2026-11-16",
+      "title": "原词库教学句／转述",
+      "url": "public/vocabulary.json",
+      "accessMode": "user_material",
+      "retrievedAt": "2026-11-16T01:45:06.410Z",
+      "coverage": "partial",
+      "rights": "用户授权处理原词库",
+      "limitations": [
+        "非外部作者逐字引文；保留原ID与原句"
+      ]
+    },
+    {
+      "schemaVersion": 1,
+      "sourceId": "oewn-2025",
+      "version": "2025",
+      "title": "Open English Wordnet 2025",
+      "url": "https://en-word.net/",
+      "accessMode": "licensed_snapshot",
+      "retrievedAt": "2026-11-16T01:45:06.410Z",
+      "coverage": "partial",
+      "rights": "CC BY 4.0 + Princeton notice",
+      "limitations": [
+        "本包仅选部分源义；中文非官方译文"
+      ]
+    }
+  ],
+  "verifiedIPA": null,
+  "dictionaryURL": "https://en-word.net/",
+  "historyURL": null
+}

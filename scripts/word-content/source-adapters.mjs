@@ -9,3 +9,9 @@ export function assessCoverage(source,claims,requested='partial'){
  const missing=claims.filter(c=>!source.claims.includes(c));const full=requested!=='complete'||source.coverage==='complete'&&source.accessMode!=='indexed_excerpt';
  const whole=requested!=='technical_whole'||source.claimScope==='whole';return {valid:!missing.length&&full&&whole,missing,full,whole};
 }
+export function checkEvidenceBindings(bundle,oewn,web){
+ for(const sense of bundle.senses||[]){if(sense.definitionOrigin==='licensed_verbatim'){const actual=oewn.rows.flatMap(r=>r.entries).flatMap(e=>e.senses).find(s=>s.sourceSenseId===sense.senseId);if(!actual||actual.definitions.join('; ')!==sense.meaning.definitionEn)throw Error('source changed '+sense.senseId);}else if(sense.definitionOrigin==='short_quote'){const ref=sense.sourceRefs[0],record=web.records.find(r=>r.id===ref.sourceId);if(!record||record.quote!==sense.meaning.definitionEn)throw Error('source changed '+sense.senseId);}}
+ const refs=[...(bundle.senses||[]).flatMap(s=>s.sourceRefs),...(bundle.history?.sourceRefs||[]),...(bundle.bridge?.evidenceRefs||[])];
+ for(const ref of refs.filter(r=>r.sourceId!=='oewn-2025')){const record=web.records.find(r=>r.id===ref.sourceId);if(!record||record.claim!==ref.supportedClaim||record.locator!==ref.locator||record.url!==ref.url)throw Error('source changed '+ref.sourceId);}
+ return true;
+}

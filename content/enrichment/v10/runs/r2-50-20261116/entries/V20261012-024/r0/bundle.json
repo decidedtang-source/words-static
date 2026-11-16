@@ -1,0 +1,343 @@
+{
+  "snapshot": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-024",
+    "term": "pending",
+    "quote": "Approval is still pending, so we cannot proceed yet.",
+    "batch": "2026-10-12",
+    "originalFileSHA": "ec65d33d6da99ebad2577f6c9f9938499823d29d117f43532302cf964a4c60a3",
+    "quoteSHA": "76b82fa9180da9637fe8e5a59bdc51773b82fa61c8b1cd89fcbe091f7c6945e3",
+    "originalIPA": "ˈpen.dɪŋ",
+    "originalPOS": "adj.",
+    "originalMeaning": "尚待决定或处理的"
+  },
+  "selection": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-024",
+    "version": "1",
+    "inventoryRefs": [
+      "inventory:V20261012-024"
+    ],
+    "selectedSenseIds": [
+      "pending%5:00:00:unfinished:01"
+    ],
+    "reason": "按学习用途选择常见或易混义；这里不是语料频率排名。",
+    "general": "尚待处理或确认的",
+    "senses": [
+      {
+        "senseId": "pending%5:00:00:unfinished:01",
+        "title": "尚待处理或确认的",
+        "usageLabels": [
+          "adj.",
+          "精选学习义"
+        ],
+        "explanationZh": "尚待处理或确认的",
+        "examples": [
+          {
+            "en": "The request is still pending.",
+            "zh": "该请求仍待处理。",
+            "origin": "original",
+            "sourceRef": null,
+            "usageNote": "原创教学例句，不是来源原话"
+          }
+        ],
+        "evidenceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-p.json/pending/a / pending%5:00:00:unfinished:01",
+            "supportedClaim": "awaiting conclusion or confirmation",
+            "url": "https://en-word.net/"
+          }
+        ]
+      }
+    ]
+  },
+  "senses": [
+    {
+      "schemaVersion": 1,
+      "senseId": "pending%5:00:00:unfinished:01",
+      "lexicalEntryId": "lex:pending",
+      "pos": "adj.",
+      "meaning": {
+        "definitionEn": "awaiting conclusion or confirmation",
+        "glossZh": "尚待处理或确认的",
+        "glossOrigin": "editorial"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "oewn-2025",
+          "sourceVersion": "2025",
+          "locator": "entries-p.json/pending/a / pending%5:00:00:unfinished:01",
+          "supportedClaim": "awaiting conclusion or confirmation",
+          "url": "https://en-word.net/"
+        }
+      ],
+      "version": "1"
+    }
+  ],
+  "inventory": {
+    "schemaVersion": 1,
+    "inventoryId": "inventory:V20261012-024",
+    "version": "1",
+    "lexicalEntryId": "lex:pending",
+    "sources": [
+      "oewn-2025"
+    ],
+    "senseIds": [
+      "pending%5:00:00:unfinished:01"
+    ],
+    "coverageStatus": "partial"
+  },
+  "context": {
+    "schemaVersion": 1,
+    "contextId": "V20261012-024-context",
+    "entryId": "V20261012-024",
+    "sourceRef": "original-vocab",
+    "quote": "Approval is still pending, so we cannot proceed yet.",
+    "quoteSHA": "76b82fa9180da9637fe8e5a59bdc51773b82fa61c8b1cd89fcbe091f7c6945e3",
+    "translation": "批准仍未确定，所以我们现在还不能继续。",
+    "quoteType": "原词库教学例句／转述；未认定为外部作者逐字引文",
+    "meaning": "批准结果尚未作出或确认",
+    "qualifiers": {
+      "polarity": "negative",
+      "modality": [
+        "cannot"
+      ],
+      "conditions": [],
+      "agents": [],
+      "timeScope": null,
+      "excludedInferences": [
+        "原句允许得出的只有当前不能继续，不能补出批准人或预计批准时间。"
+      ]
+    },
+    "location": "selected",
+    "senseRefs": [
+      "pending%5:00:00:unfinished:01"
+    ],
+    "targetSpans": [
+      {
+        "start": 18,
+        "end": 25,
+        "text": "pending",
+        "mappingType": "exact",
+        "note": "原句精确匹配；词形变化时不伪造span"
+      }
+    ],
+    "context": "仅以保留的这条原句为分析范围；未知背景不补造。"
+  },
+  "history": {
+    "schemaVersion": 1,
+    "lexicalEntryId": "lex:pending",
+    "version": "1",
+    "summary": "",
+    "claims": [],
+    "sourceRefs": [],
+    "limitations": [
+      "未核实历史资料，不编造词源或年代。"
+    ]
+  },
+  "bridge": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-024",
+    "contextId": "V20261012-024-context",
+    "version": "1",
+    "location": "selected",
+    "strategies": [
+      "direct",
+      "contextualization"
+    ],
+    "anchorRefs": [
+      "pending%5:00:00:unfinished:01"
+    ],
+    "targetRefs": [
+      "pending%5:00:00:unfinished:01"
+    ],
+    "semanticText": "未完成确认的通用义在这里落到approval上：决定尚未落实。它既不提供批准，也不宣布拒绝。",
+    "boundary": "原句允许得出的只有当前不能继续，不能补出批准人或预计批准时间。",
+    "evidenceRefs": [
+      {
+        "sourceId": "oewn-2025",
+        "sourceVersion": "2025",
+        "locator": "entries-p.json/pending/a / pending%5:00:00:unfinished:01",
+        "supportedClaim": "awaiting conclusion or confirmation",
+        "url": "https://en-word.net/"
+      }
+    ],
+    "historyLink": null,
+    "historyClaimRefs": [],
+    "returnTargets": [
+      "wl-common",
+      "wl-history"
+    ]
+  },
+  "analysis": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-024",
+    "contextId": "V20261012-024-context",
+    "version": "1",
+    "promptHash": "aaf3bd1e99daf47a70a2a158973652d67ff14dafcfc1748b3fc2a09d719885db",
+    "depth": "standard",
+    "depthReason": "需辨析相邻用法并保留原句的承诺或证据边界。",
+    "coverage": {
+      "syntax": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "syntax-concept"
+        ]
+      },
+      "concept": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "syntax-concept"
+        ]
+      },
+      "contrast": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "contrast"
+        ]
+      },
+      "languageGame": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "game-neighbors"
+        ]
+      },
+      "englishNeighbors": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "game-neighbors"
+        ]
+      },
+      "pragmaticAction": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "action"
+        ]
+      },
+      "workplaceUse": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "workplace"
+        ]
+      }
+    },
+    "blocks": [
+      {
+        "blockId": "syntax-concept",
+        "dimensions": [
+          "syntax",
+          "concept"
+        ],
+        "text": "pending作表语描述Approval；still强调状态持续；so连接原句明确给出的不能继续这一后果，yet说明当前阶段。 等待决定不等于批准，也不等于拒绝。这里不能继续是原句明说的本情境约束，并非所有pending事项都有同一制度后果。",
+        "sourceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-p.json/pending/a / pending%5:00:00:unfinished:01",
+            "supportedClaim": "awaiting conclusion or confirmation",
+            "url": "https://en-word.net/"
+          }
+        ],
+        "title": "句子结构与当前所指"
+      },
+      {
+        "blockId": "contrast",
+        "dimensions": [
+          "contrast"
+        ],
+        "text": "pending是未决；rejected是已拒绝；approved是已批准。只看有没有回复，不能把未决归入任何一个已决类别。",
+        "sourceRefs": [],
+        "title": "容易混淆的地方"
+      },
+      {
+        "blockId": "game-neighbors",
+        "dimensions": [
+          "languageGame",
+          "englishNeighbors"
+        ],
+        "text": "审批状态核对需要找到请求、负责处理者和预计更新时间。合理回应可以是说明仍缺什么信息，不能用猜测替代正式决定。 pending approval常标注等待批准；approval status连到跟进；proceed连到能否执行，所以追问What is still needed for approval?比催促一句hurry up更具体。",
+        "sourceRefs": [],
+        "title": "讨论通常怎样继续"
+      },
+      {
+        "blockId": "action",
+        "dimensions": [
+          "pragmaticAction"
+        ],
+        "text": "说话者在报告未决状态，并明确当前暂停继续的理由。",
+        "sourceRefs": [],
+        "title": "说话者正在做什么"
+      },
+      {
+        "blockId": "workplace",
+        "dimensions": [
+          "workplaceUse"
+        ],
+        "text": "下面是迁移到制造业沟通的新例句；不代表原场景中已发生的决定。",
+        "sourceRefs": [],
+        "title": "迁移到工作情境"
+      }
+    ],
+    "workplaceUse": [
+      {
+        "en": "Tooling approval is still pending.",
+        "zh": "工装批准仍未确定。",
+        "whenToUse": "如实报告审批状态。",
+        "limitation": "原创教学表达；具体权限和流程以实际约定为准。",
+        "origin": "original"
+      },
+      {
+        "en": "What information is still needed for approval?",
+        "zh": "批准还需要哪些信息？",
+        "whenToUse": "跟进阻塞条件。",
+        "limitation": "原创教学表达；具体权限和流程以实际约定为准。",
+        "origin": "original"
+      }
+    ],
+    "practiceRefs": [],
+    "edges": []
+  },
+  "practices": [],
+  "sources": [
+    {
+      "schemaVersion": 1,
+      "sourceId": "original-vocab",
+      "version": "2026-11-16",
+      "title": "原词库教学句／转述",
+      "url": "public/vocabulary.json",
+      "accessMode": "user_material",
+      "retrievedAt": "2026-11-16T00:00:00+08:00",
+      "coverage": "partial",
+      "rights": "用户授权处理原词库",
+      "limitations": [
+        "非外部作者逐字引文；保留原ID与原句"
+      ]
+    },
+    {
+      "schemaVersion": 1,
+      "sourceId": "oewn-2025",
+      "version": "2025",
+      "title": "Open English Wordnet 2025",
+      "url": "https://en-word.net/",
+      "accessMode": "licensed_snapshot",
+      "retrievedAt": "2026-11-16T00:00:00+08:00",
+      "coverage": "partial",
+      "rights": "CC BY 4.0 + Princeton notice",
+      "limitations": [
+        "本包仅选部分源义；中文非官方译文"
+      ]
+    }
+  ],
+  "verifiedIPA": null,
+  "dictionaryURL": "https://en-word.net/",
+  "historyURL": null
+}

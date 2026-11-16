@@ -1,0 +1,383 @@
+{
+  "snapshot": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-117",
+    "term": "account for",
+    "quote": "Review activities account for most of the remaining work.",
+    "batch": "2026-10-12",
+    "originalFileSHA": "ec65d33d6da99ebad2577f6c9f9938499823d29d117f43532302cf964a4c60a3",
+    "quoteSHA": "f986043dff73e3b349c278d6bb3159c5ba9fcce2b63de9246557f6d6dc42c342",
+    "originalIPA": "əˈkaʊnt fɔːr",
+    "originalPOS": "短语动词",
+    "originalMeaning": "占总量中的某一部分；本条取占比义"
+  },
+  "selection": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-117",
+    "version": "1",
+    "inventoryRefs": [
+      "inventory:V20261012-117"
+    ],
+    "selectedSenseIds": [
+      "account_for%2:32:00::"
+    ],
+    "reason": "按学习用途选择常见或易混义；这里不是语料频率排名。",
+    "usageTip": "本句的比例义与“解释原因”义分开；most of后的总体范围不能省略。",
+    "general": "解释；说明原因",
+    "senses": [
+      {
+        "senseId": "account_for%2:32:00::",
+        "title": "解释；说明原因",
+        "usageLabels": [
+          "v.",
+          "精选学习义"
+        ],
+        "explanationZh": "解释；说明原因。例句说明的用法：你能解释这个差异吗？",
+        "examples": [
+          {
+            "en": "Can you account for the difference?",
+            "zh": "你能解释这个差异吗？",
+            "origin": "original",
+            "sourceRef": null,
+            "usageNote": "解释；说明原因。例句说明的用法：你能解释这个差异吗？"
+          }
+        ],
+        "evidenceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-a.json/account%20for/v / account_for%2:32:00::",
+            "supportedClaim": "give reasons for",
+            "url": "https://en-word.net/"
+          }
+        ]
+      }
+    ]
+  },
+  "senses": [
+    {
+      "schemaVersion": 1,
+      "senseId": "account_for%2:32:00::",
+      "lexicalEntryId": "lex:account for",
+      "pos": "v.",
+      "definitionOrigin": "licensed_verbatim",
+      "meaning": {
+        "definitionEn": "give reasons for",
+        "glossZh": "解释；说明原因",
+        "glossOrigin": "editorial"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "oewn-2025",
+          "sourceVersion": "2025",
+          "locator": "entries-a.json/account%20for/v / account_for%2:32:00::",
+          "supportedClaim": "give reasons for",
+          "url": "https://en-word.net/"
+        }
+      ],
+      "version": "1"
+    },
+    {
+      "schemaVersion": 1,
+      "senseId": "web:cambridge-account-for",
+      "lexicalEntryId": "lex:account for",
+      "pos": "v.",
+      "definitionOrigin": "short_quote",
+      "meaning": {
+        "definitionEn": "to form part of a total",
+        "glossZh": "占总体的一部分",
+        "glossOrigin": "editorial"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "cambridge-account-for",
+          "sourceVersion": "2026-11-16",
+          "locator": "Business English, part of a total",
+          "supportedClaim": "account for可表示占总体的一部分，不等于说明原因。",
+          "url": "https://dictionary.cambridge.org/dictionary/english/account-for?topic=existing-and-being"
+        }
+      ],
+      "version": "1"
+    }
+  ],
+  "inventory": {
+    "schemaVersion": 1,
+    "inventoryId": "inventory:V20261012-117",
+    "version": "1",
+    "lexicalEntryId": "lex:account for",
+    "sources": [
+      "oewn-2025",
+      "cambridge-account-for"
+    ],
+    "senseIds": [
+      "account_for%2:32:00::",
+      "web:cambridge-account-for"
+    ],
+    "coverageStatus": "partial"
+  },
+  "context": {
+    "schemaVersion": 1,
+    "contextId": "V20261012-117-context",
+    "entryId": "V20261012-117",
+    "sourceRef": "original-vocab",
+    "quote": "Review activities account for most of the remaining work.",
+    "quoteSHA": "f986043dff73e3b349c278d6bb3159c5ba9fcce2b63de9246557f6d6dc42c342",
+    "translation": "评审活动占了大部分剩余工作。",
+    "quoteType": "原词库教学例句／转述；未认定为外部作者逐字引文",
+    "meaning": "评审活动构成剩余工作的大部分",
+    "qualifiers": {
+      "polarity": "affirmative",
+      "modality": [],
+      "conditions": [],
+      "agents": [
+        "review activities"
+      ],
+      "timeScope": null,
+      "excludedInferences": [
+        "不能翻成“评审活动解释了剩余工作”，也不能推断评审造成了延误。"
+      ]
+    },
+    "location": "inventory_not_selected",
+    "senseRefs": [
+      "web:cambridge-account-for"
+    ],
+    "targetSpans": [
+      {
+        "start": 18,
+        "end": 29,
+        "text": "account for",
+        "mappingType": "exact",
+        "note": "原句精确匹配；词形变化时不伪造span"
+      }
+    ],
+    "context": "仅以保留的这条原句为分析范围；未知背景不补造。"
+  },
+  "history": {
+    "schemaVersion": 1,
+    "lexicalEntryId": "lex:account for",
+    "version": "1",
+    "summary": "",
+    "claims": [],
+    "sourceRefs": [],
+    "limitations": [
+      "未核实历史资料，不编造词源或年代。"
+    ]
+  },
+  "bridge": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-117",
+    "contextId": "V20261012-117-context",
+    "version": "1",
+    "location": "inventory_not_selected",
+    "strategies": [
+      "direct",
+      "no_derivation"
+    ],
+    "anchorRefs": [
+      "account_for%2:32:00::"
+    ],
+    "targetRefs": [
+      "web:cambridge-account-for"
+    ],
+    "semanticText": "前部解释义不是本句采用的义。成熟学习词典另有“占总体部分”的用法，当前句通过most of the remaining work明确选择这个用法。",
+    "boundary": "不能翻成“评审活动解释了剩余工作”，也不能推断评审造成了延误。",
+    "evidenceRefs": [
+      {
+        "sourceId": "cambridge-account-for",
+        "sourceVersion": "2026-11-16",
+        "locator": "Business English, part of a total",
+        "supportedClaim": "account for可表示占总体的一部分，不等于说明原因。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/account-for?topic=existing-and-being"
+      }
+    ],
+    "historyLink": null,
+    "historyClaimRefs": [],
+    "returnTargets": [
+      "wl-common",
+      "wl-history"
+    ]
+  },
+  "analysis": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-117",
+    "contextId": "V20261012-117-context",
+    "version": "1",
+    "promptHash": "aaf3bd1e99daf47a70a2a158973652d67ff14dafcfc1748b3fc2a09d719885db",
+    "depth": "standard",
+    "depthReason": "需辨析相邻用法并保留原句的承诺或证据边界。",
+    "coverage": {
+      "syntax": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "syntax-concept"
+        ]
+      },
+      "concept": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "syntax-concept"
+        ]
+      },
+      "contrast": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "contrast"
+        ]
+      },
+      "languageGame": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "game-neighbors"
+        ]
+      },
+      "englishNeighbors": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "game-neighbors"
+        ]
+      },
+      "pragmaticAction": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "action"
+        ]
+      },
+      "workplaceUse": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "workplace"
+        ]
+      }
+    },
+    "blocks": [
+      {
+        "blockId": "syntax-concept",
+        "dimensions": [
+          "syntax",
+          "concept"
+        ],
+        "text": "Review activities作主语，account for连接most of the remaining work；most of给出的是比例性概括，不是原因从句。 分母是remaining work，不是整个项目，也不是已经完成的工作。句子没有给出具体百分比或工作量单位。",
+        "sourceRefs": [
+          {
+            "sourceId": "cambridge-account-for",
+            "sourceVersion": "2026-11-16",
+            "locator": "Business English, part of a total",
+            "supportedClaim": "account for可表示占总体的一部分，不等于说明原因。",
+            "url": "https://dictionary.cambridge.org/dictionary/english/account-for?topic=existing-and-being"
+          }
+        ],
+        "title": "句子结构与当前所指"
+      },
+      {
+        "blockId": "contrast",
+        "dimensions": [
+          "contrast"
+        ],
+        "text": "account for a discrepancy通常是解释差异；account for most of a total是构成大部分。看到数量、比例或总体时要检查是否采用构成义。",
+        "sourceRefs": [],
+        "title": "容易混淆的地方"
+      },
+      {
+        "blockId": "game-neighbors",
+        "dimensions": [
+          "languageGame",
+          "englishNeighbors"
+        ],
+        "text": "这是工作量构成说明。接下来可问剩余工作如何计量、评审包含哪些任务，从而安排资源，而不是立刻寻找谁造成问题。 account for X percent与share/proportion相连；remaining work则限定总体范围，讨论总工作量时不可省略。",
+        "sourceRefs": [],
+        "title": "讨论通常怎样继续"
+      },
+      {
+        "blockId": "action",
+        "dimensions": [
+          "pragmaticAction"
+        ],
+        "text": "说话者在突出剩余工作中评审所占的比重，为关注评审资源提供理由。",
+        "sourceRefs": [],
+        "title": "说话者正在做什么"
+      },
+      {
+        "blockId": "workplace",
+        "dimensions": [
+          "workplaceUse"
+        ],
+        "text": "下面是迁移到制造业沟通的新例句；不代表原场景中已发生的决定。",
+        "sourceRefs": [],
+        "title": "迁移到工作情境"
+      }
+    ],
+    "workplaceUse": [
+      {
+        "en": "Inspection accounts for about a third of the remaining hours.",
+        "zh": "检验约占剩余工时的三分之一。",
+        "whenToUse": "按工时说明工作构成。",
+        "limitation": "原创教学表达；具体权限和流程以实际约定为准。",
+        "origin": "original"
+      },
+      {
+        "en": "Do these review tasks account for more than half of the remaining hours?",
+        "zh": "这些评审任务是否占剩余工时的一半以上？",
+        "whenToUse": "核对构成比例，保持与当前场景相同的义。",
+        "limitation": "原创教学表达；具体权限和流程以实际约定为准。",
+        "origin": "original"
+      }
+    ],
+    "practiceRefs": [],
+    "edges": []
+  },
+  "practices": [],
+  "sources": [
+    {
+      "schemaVersion": 1,
+      "sourceId": "original-vocab",
+      "version": "2026-11-16",
+      "title": "原词库教学句／转述",
+      "url": "public/vocabulary.json",
+      "accessMode": "user_material",
+      "retrievedAt": "2026-11-16T01:45:06.410Z",
+      "coverage": "partial",
+      "rights": "用户授权处理原词库",
+      "limitations": [
+        "非外部作者逐字引文；保留原ID与原句"
+      ]
+    },
+    {
+      "schemaVersion": 1,
+      "sourceId": "oewn-2025",
+      "version": "2025",
+      "title": "Open English Wordnet 2025",
+      "url": "https://en-word.net/",
+      "accessMode": "licensed_snapshot",
+      "retrievedAt": "2026-11-16T01:45:06.410Z",
+      "coverage": "partial",
+      "rights": "CC BY 4.0 + Princeton notice",
+      "limitations": [
+        "本包仅选部分源义；中文非官方译文"
+      ]
+    },
+    {
+      "schemaVersion": 1,
+      "sourceId": "cambridge-account-for",
+      "version": "2026-11-16",
+      "title": "cambridge-account-for",
+      "url": "https://dictionary.cambridge.org/dictionary/english/account-for?topic=existing-and-being",
+      "accessMode": "indexed_excerpt",
+      "retrievedAt": "2026-11-16T01:45:06.410Z",
+      "coverage": "partial",
+      "rights": "必要短引与中文整理，不声称批量复制许可",
+      "limitations": [
+        "仅支持记录中的具体主张，不代表完整条目"
+      ]
+    }
+  ],
+  "verifiedIPA": null,
+  "dictionaryURL": "https://en-word.net/",
+  "historyURL": null
+}

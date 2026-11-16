@@ -1,0 +1,373 @@
+{
+  "snapshot": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-100",
+    "term": "not necessarily",
+    "quote": "A completed task does not necessarily mean the issue is resolved.",
+    "batch": "2026-10-12",
+    "originalFileSHA": "ec65d33d6da99ebad2577f6c9f9938499823d29d117f43532302cf964a4c60a3",
+    "quoteSHA": "67caa9ce97f290b3f89ca9352a4e4089116e5b8b37725428d0510c8324a51e8e",
+    "originalIPA": "nɑːt ˌnes.əˈser.əl.i",
+    "originalPOS": "限定表达",
+    "originalMeaning": "并不必然如此，不能直接推出"
+  },
+  "selection": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-100",
+    "version": "1",
+    "inventoryRefs": [
+      "inventory:V20261012-100"
+    ],
+    "selectedSenseIds": [
+      "web:cambridge-necessarily"
+    ],
+    "reason": "按学习用途选择常见或易混义；这里不是语料频率排名。",
+    "usageTip": "not necessarily否定必然性；不是说相反情况必然成立。",
+    "general": "不一定；并非必然",
+    "senses": [
+      {
+        "senseId": "web:cambridge-necessarily",
+        "title": "不一定；并非必然",
+        "usageLabels": [
+          "adv.",
+          "精选学习义"
+        ],
+        "explanationZh": "不一定；并非必然。例句说明的用法：更大的机器不一定更快。",
+        "examples": [
+          {
+            "en": "A larger machine is not necessarily faster.",
+            "zh": "更大的机器不一定更快。",
+            "origin": "original",
+            "sourceRef": null,
+            "usageNote": "不一定；并非必然。例句说明的用法：更大的机器不一定更快。"
+          }
+        ],
+        "evidenceRefs": [
+          {
+            "sourceId": "cambridge-necessarily",
+            "sourceVersion": "2026-11-16",
+            "locator": "not necessarily",
+            "supportedClaim": "not necessarily是否定必然性，不是断言相反命题。",
+            "url": "https://dictionary.cambridge.org/dictionary/learner-english/necessarily"
+          }
+        ]
+      }
+    ]
+  },
+  "senses": [
+    {
+      "schemaVersion": 1,
+      "senseId": "web:cambridge-necessarily",
+      "lexicalEntryId": "lex:not necessarily",
+      "pos": "adv.",
+      "definitionOrigin": "short_quote",
+      "meaning": {
+        "definitionEn": "not for certain",
+        "glossZh": "不一定；并非必然",
+        "glossOrigin": "editorial"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "cambridge-necessarily",
+          "sourceVersion": "2026-11-16",
+          "locator": "not necessarily",
+          "supportedClaim": "not necessarily是否定必然性，不是断言相反命题。",
+          "url": "https://dictionary.cambridge.org/dictionary/learner-english/necessarily"
+        }
+      ],
+      "version": "1"
+    }
+  ],
+  "inventory": {
+    "schemaVersion": 1,
+    "inventoryId": "inventory:V20261012-100",
+    "version": "1",
+    "lexicalEntryId": "lex:not necessarily",
+    "sources": [
+      "cambridge-necessarily"
+    ],
+    "senseIds": [
+      "web:cambridge-necessarily"
+    ],
+    "coverageStatus": "partial"
+  },
+  "context": {
+    "schemaVersion": 1,
+    "contextId": "V20261012-100-context",
+    "entryId": "V20261012-100",
+    "sourceRef": "original-vocab",
+    "quote": "A completed task does not necessarily mean the issue is resolved.",
+    "quoteSHA": "67caa9ce97f290b3f89ca9352a4e4089116e5b8b37725428d0510c8324a51e8e",
+    "translation": "一项任务完成，并不一定意味着问题已解决。",
+    "quoteType": "原词库教学例句／转述；未认定为外部作者逐字引文",
+    "meaning": "否定任务完成与问题解决之间的必然关系",
+    "qualifiers": {
+      "polarity": "negative",
+      "modality": [],
+      "conditions": [],
+      "agents": [],
+      "timeScope": null,
+      "excludedInferences": [
+        "不能译成“任务完成就说明问题没有解决”。"
+      ]
+    },
+    "location": "whole_expression",
+    "senseRefs": [
+      "web:cambridge-necessarily"
+    ],
+    "targetSpans": [
+      {
+        "start": 22,
+        "end": 37,
+        "text": "not necessarily",
+        "mappingType": "exact",
+        "note": "原句精确匹配；词形变化时不伪造span"
+      }
+    ],
+    "context": "仅以保留的这条原句为分析范围；未知背景不补造。",
+    "expressionExplanation": {
+      "kind": "fixed",
+      "text": "否定任务完成与问题解决之间的必然关系",
+      "componentRefs": [
+        {
+          "sourceId": "cambridge-necessarily",
+          "sourceVersion": "2026-11-16",
+          "locator": "not necessarily",
+          "supportedClaim": "not necessarily是否定必然性，不是断言相反命题。",
+          "url": "https://dictionary.cambridge.org/dictionary/learner-english/necessarily"
+        }
+      ],
+      "wholeExpressionRefs": [],
+      "boundary": "不能译成“任务完成就说明问题没有解决”。",
+      "reviewerBasis": "待独立完整包核对表达身份与证据范围"
+    }
+  },
+  "history": {
+    "schemaVersion": 1,
+    "lexicalEntryId": "lex:not necessarily",
+    "version": "1",
+    "summary": "",
+    "claims": [],
+    "sourceRefs": [],
+    "limitations": [
+      "未核实历史资料，不编造词源或年代。"
+    ]
+  },
+  "bridge": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-100",
+    "contextId": "V20261012-100-context",
+    "version": "1",
+    "location": "whole_expression",
+    "strategies": [
+      "direct",
+      "contextualization"
+    ],
+    "anchorRefs": [
+      "web:cambridge-necessarily"
+    ],
+    "targetRefs": [
+      "web:cambridge-necessarily"
+    ],
+    "semanticText": "词典中的“不一定”直接作用于mean的推论关系：完成可以与解决同时出现，但前者不能保证后者。",
+    "boundary": "不能译成“任务完成就说明问题没有解决”。",
+    "evidenceRefs": [
+      {
+        "sourceId": "cambridge-necessarily",
+        "sourceVersion": "2026-11-16",
+        "locator": "not necessarily",
+        "supportedClaim": "not necessarily是否定必然性，不是断言相反命题。",
+        "url": "https://dictionary.cambridge.org/dictionary/learner-english/necessarily"
+      }
+    ],
+    "historyLink": null,
+    "historyClaimRefs": [],
+    "returnTargets": [
+      "wl-common",
+      "wl-history"
+    ]
+  },
+  "analysis": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-100",
+    "contextId": "V20261012-100-context",
+    "version": "1",
+    "promptHash": "aaf3bd1e99daf47a70a2a158973652d67ff14dafcfc1748b3fc2a09d719885db",
+    "depth": "deep",
+    "depthReason": "否定必然性与必然否定容易混淆。",
+    "coverage": {
+      "syntax": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "syntax-concept"
+        ]
+      },
+      "concept": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "syntax-concept"
+        ]
+      },
+      "contrast": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "contrast"
+        ]
+      },
+      "languageGame": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "game-neighbors"
+        ]
+      },
+      "englishNeighbors": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "game-neighbors"
+        ]
+      },
+      "pragmaticAction": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "action"
+        ]
+      },
+      "workplaceUse": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "workplace"
+        ]
+      }
+    },
+    "blocks": [
+      {
+        "blockId": "syntax-concept",
+        "dimensions": [
+          "syntax",
+          "concept"
+        ],
+        "text": "does not necessarily mean否定的是“必然意味着”；A completed task是主语，the issue is resolved是被推断的命题。 任务可能只是解决问题的一个步骤。完成记录需要与问题是否真正消除的证据分开；原句也没有断言问题肯定没解决。",
+        "sourceRefs": [
+          {
+            "sourceId": "cambridge-necessarily",
+            "sourceVersion": "2026-11-16",
+            "locator": "not necessarily",
+            "supportedClaim": "not necessarily是否定必然性，不是断言相反命题。",
+            "url": "https://dictionary.cambridge.org/dictionary/learner-english/necessarily"
+          }
+        ],
+        "title": "句子结构与当前所指"
+      },
+      {
+        "blockId": "contrast",
+        "dimensions": [
+          "contrast"
+        ],
+        "text": "not necessarily不等于necessarily not。前者留有两种可能，后者才断言必然不成立。",
+        "sourceRefs": [],
+        "title": "容易混淆的地方"
+      },
+      {
+        "blockId": "game-neighbors",
+        "dimensions": [
+          "languageGame",
+          "englishNeighbors"
+        ],
+        "text": "在关闭问题前，人们通常会核对结果而不只核对任务勾选；应问需要什么证据证明问题已解决。 does not necessarily mean连到区分指标与结果；verify effectiveness说明为何可能需要任务完成后的结果检查。这里的检查是建议，不是原句规定的固定流程。",
+        "sourceRefs": [],
+        "title": "讨论通常怎样继续"
+      },
+      {
+        "blockId": "action",
+        "dimensions": [
+          "pragmaticAction"
+        ],
+        "text": "说话者在纠正一个跳跃结论，降低“任务完成”作为解决证明的力度。",
+        "sourceRefs": [],
+        "title": "说话者正在做什么"
+      },
+      {
+        "blockId": "workplace",
+        "dimensions": [
+          "workplaceUse"
+        ],
+        "text": "下面是迁移到制造业沟通的新例句；不代表原场景中已发生的决定。",
+        "sourceRefs": [],
+        "title": "迁移到工作情境"
+      }
+    ],
+    "workplaceUse": [
+      {
+        "en": "A passed inspection does not necessarily prove long-term reliability.",
+        "zh": "一次检验通过并不一定证明长期可靠性。",
+        "whenToUse": "限制一次检查所能支持的结论。",
+        "limitation": "原创教学表达；具体权限和流程以实际约定为准。",
+        "origin": "original"
+      },
+      {
+        "en": "More data does not necessarily mean better evidence.",
+        "zh": "更多数据并不一定意味着更好的证据。",
+        "whenToUse": "讨论数据质量与相关性。",
+        "limitation": "原创教学表达；具体权限和流程以实际约定为准。",
+        "origin": "original"
+      }
+    ],
+    "practiceRefs": [],
+    "edges": []
+  },
+  "practices": [],
+  "sources": [
+    {
+      "schemaVersion": 1,
+      "sourceId": "original-vocab",
+      "version": "2026-11-16",
+      "title": "原词库教学句／转述",
+      "url": "public/vocabulary.json",
+      "accessMode": "user_material",
+      "retrievedAt": "2026-11-16T01:45:06.410Z",
+      "coverage": "partial",
+      "rights": "用户授权处理原词库",
+      "limitations": [
+        "非外部作者逐字引文；保留原ID与原句"
+      ]
+    },
+    {
+      "schemaVersion": 1,
+      "sourceId": "oewn-2025",
+      "version": "2025",
+      "title": "Open English Wordnet 2025",
+      "url": "https://en-word.net/",
+      "accessMode": "licensed_snapshot",
+      "retrievedAt": "2026-11-16T01:45:06.410Z",
+      "coverage": "partial",
+      "rights": "CC BY 4.0 + Princeton notice",
+      "limitations": [
+        "本包仅选部分源义；中文非官方译文"
+      ]
+    },
+    {
+      "schemaVersion": 1,
+      "sourceId": "cambridge-necessarily",
+      "version": "2026-11-16",
+      "title": "cambridge-necessarily",
+      "url": "https://dictionary.cambridge.org/dictionary/learner-english/necessarily",
+      "accessMode": "indexed_excerpt",
+      "retrievedAt": "2026-11-16T01:45:06.410Z",
+      "coverage": "partial",
+      "rights": "必要短引与中文整理，不声称批量复制许可",
+      "limitations": [
+        "仅支持记录中的具体主张，不代表完整条目"
+      ]
+    }
+  ],
+  "verifiedIPA": null,
+  "dictionaryURL": "https://dictionary.cambridge.org/dictionary/learner-english/necessarily",
+  "historyURL": null
+}

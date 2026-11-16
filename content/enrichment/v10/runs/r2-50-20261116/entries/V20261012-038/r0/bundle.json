@@ -1,0 +1,409 @@
+{
+  "snapshot": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-038",
+    "term": "checkpoint",
+    "quote": "Let's set a checkpoint for Wednesday afternoon.",
+    "batch": "2026-10-12",
+    "originalFileSHA": "ec65d33d6da99ebad2577f6c9f9938499823d29d117f43532302cf964a4c60a3",
+    "quoteSHA": "b1f73fef26f57f30c5e49fc603548364054003793c9fc7c58d2747a30956755f",
+    "originalIPA": "ˈtʃek.pɔɪnt",
+    "originalPOS": "n.",
+    "originalMeaning": "预先约定的进展检查节点"
+  },
+  "selection": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-038",
+    "version": "1",
+    "inventoryRefs": [
+      "inventory:V20261012-038"
+    ],
+    "selectedSenseIds": [
+      "checkpoint%1:15:00::",
+      "web:dictionarycom-checkpoint"
+    ],
+    "reason": "按学习用途选择常见或易混义；这里不是语料频率排名。",
+    "usageTip": "checkpoint可以是流程节点；按上下文区分实体地点与检查时点。",
+    "general": "检查站；接受检查的地点；程序中用于检查或确认的节点",
+    "senses": [
+      {
+        "senseId": "checkpoint%1:15:00::",
+        "title": "检查站；接受检查的地点",
+        "usageLabels": [
+          "n.",
+          "精选学习义"
+        ],
+        "explanationZh": "检查站；接受检查的地点",
+        "examples": [
+          {
+            "en": "Vehicles stopped at the checkpoint.",
+            "zh": "车辆在检查站停下。",
+            "origin": "original",
+            "sourceRef": null,
+            "usageNote": "检查站；接受检查的地点"
+          }
+        ],
+        "evidenceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-c.json/checkpoint/n / checkpoint%1:15:00::",
+            "supportedClaim": "a place (as at a frontier) where travellers are stopped for inspection and clearance",
+            "url": "https://en-word.net/"
+          }
+        ]
+      },
+      {
+        "senseId": "web:dictionarycom-checkpoint",
+        "title": "程序中用于检查或确认的节点",
+        "usageLabels": [
+          "n.",
+          "精选学习义"
+        ],
+        "explanationZh": "程序中用于检查或确认的节点",
+        "examples": [
+          {
+            "en": "We added a checkpoint before the final review.",
+            "zh": "我们在最终评审前增加了一个检查节点。",
+            "origin": "original",
+            "sourceRef": null,
+            "usageNote": "程序中用于检查或确认的节点"
+          }
+        ],
+        "evidenceRefs": [
+          {
+            "sourceId": "dictionarycom-checkpoint",
+            "sourceVersion": "2026-11-16",
+            "locator": "noun, sense 2",
+            "supportedClaim": "checkpoint也可指程序中用于记录、检查或确认的点，不只指实体检查站。",
+            "url": "https://www.dictionary.com/browse/checkpoint"
+          }
+        ]
+      }
+    ]
+  },
+  "senses": [
+    {
+      "schemaVersion": 1,
+      "senseId": "checkpoint%1:15:00::",
+      "lexicalEntryId": "lex:checkpoint",
+      "pos": "n.",
+      "definitionOrigin": "licensed_verbatim",
+      "meaning": {
+        "definitionEn": "a place (as at a frontier) where travellers are stopped for inspection and clearance",
+        "glossZh": "检查站；接受检查的地点",
+        "glossOrigin": "editorial"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "oewn-2025",
+          "sourceVersion": "2025",
+          "locator": "entries-c.json/checkpoint/n / checkpoint%1:15:00::",
+          "supportedClaim": "a place (as at a frontier) where travellers are stopped for inspection and clearance",
+          "url": "https://en-word.net/"
+        }
+      ],
+      "version": "1"
+    },
+    {
+      "schemaVersion": 1,
+      "senseId": "web:dictionarycom-checkpoint",
+      "lexicalEntryId": "lex:checkpoint",
+      "pos": "n.",
+      "definitionOrigin": "short_quote",
+      "meaning": {
+        "definitionEn": "a point or item, especially in a procedure, for notation, inspection, or confirmation",
+        "glossZh": "程序中用于检查或确认的节点",
+        "glossOrigin": "editorial"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "dictionarycom-checkpoint",
+          "sourceVersion": "2026-11-16",
+          "locator": "noun, sense 2",
+          "supportedClaim": "checkpoint也可指程序中用于记录、检查或确认的点，不只指实体检查站。",
+          "url": "https://www.dictionary.com/browse/checkpoint"
+        }
+      ],
+      "version": "1"
+    }
+  ],
+  "inventory": {
+    "schemaVersion": 1,
+    "inventoryId": "inventory:V20261012-038",
+    "version": "1",
+    "lexicalEntryId": "lex:checkpoint",
+    "sources": [
+      "oewn-2025",
+      "dictionarycom-checkpoint"
+    ],
+    "senseIds": [
+      "checkpoint%1:15:00::",
+      "web:dictionarycom-checkpoint"
+    ],
+    "coverageStatus": "partial"
+  },
+  "context": {
+    "schemaVersion": 1,
+    "contextId": "V20261012-038-context",
+    "entryId": "V20261012-038",
+    "sourceRef": "original-vocab",
+    "quote": "Let's set a checkpoint for Wednesday afternoon.",
+    "quoteSHA": "b1f73fef26f57f30c5e49fc603548364054003793c9fc7c58d2747a30956755f",
+    "translation": "我们把一个检查节点安排在星期三下午吧。",
+    "quoteType": "原词库教学例句／转述；未认定为外部作者逐字引文",
+    "meaning": "提议在星期三下午安排一次检查进展或状态的节点",
+    "qualifiers": {
+      "polarity": "affirmative",
+      "modality": [],
+      "conditions": [],
+      "agents": [],
+      "timeScope": "Wednesday afternoon",
+      "excludedInferences": [
+        "建议不是已确认日程，也未说明该节点有正式放行权。"
+      ]
+    },
+    "location": "selected",
+    "senseRefs": [
+      "web:dictionarycom-checkpoint"
+    ],
+    "targetSpans": [
+      {
+        "start": 12,
+        "end": 22,
+        "text": "checkpoint",
+        "mappingType": "exact",
+        "note": "原句精确匹配；词形变化时不伪造span"
+      }
+    ],
+    "context": "仅以保留的这条原句为分析范围；未知背景不补造。"
+  },
+  "history": {
+    "schemaVersion": 1,
+    "lexicalEntryId": "lex:checkpoint",
+    "version": "1",
+    "summary": "",
+    "claims": [],
+    "sourceRefs": [],
+    "limitations": [
+      "未核实历史资料，不编造词源或年代。"
+    ]
+  },
+  "bridge": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-038",
+    "contextId": "V20261012-038-context",
+    "version": "1",
+    "location": "selected",
+    "strategies": [
+      "direct",
+      "contextualization"
+    ],
+    "anchorRefs": [
+      "checkpoint%1:15:00::"
+    ],
+    "targetRefs": [
+      "web:dictionarycom-checkpoint"
+    ],
+    "semanticText": "先认识实体检查站，再进入来源已收录的程序检查节点义；本句把该节点排到星期三下午，不需要编造新的项目专门定义。",
+    "boundary": "建议不是已确认日程，也未说明该节点有正式放行权。",
+    "evidenceRefs": [
+      {
+        "sourceId": "dictionarycom-checkpoint",
+        "sourceVersion": "2026-11-16",
+        "locator": "noun, sense 2",
+        "supportedClaim": "checkpoint也可指程序中用于记录、检查或确认的点，不只指实体检查站。",
+        "url": "https://www.dictionary.com/browse/checkpoint"
+      }
+    ],
+    "historyLink": null,
+    "historyClaimRefs": [],
+    "returnTargets": [
+      "wl-common",
+      "wl-history"
+    ]
+  },
+  "analysis": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-038",
+    "contextId": "V20261012-038-context",
+    "version": "1",
+    "promptHash": "aaf3bd1e99daf47a70a2a158973652d67ff14dafcfc1748b3fc2a09d719885db",
+    "depth": "standard",
+    "depthReason": "需辨析相邻用法并保留原句的承诺或证据边界。",
+    "coverage": {
+      "syntax": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "syntax-concept"
+        ]
+      },
+      "concept": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "syntax-concept"
+        ]
+      },
+      "contrast": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "contrast"
+        ]
+      },
+      "languageGame": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "game-neighbors"
+        ]
+      },
+      "englishNeighbors": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "game-neighbors"
+        ]
+      },
+      "pragmaticAction": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "action"
+        ]
+      },
+      "workplaceUse": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "workplace"
+        ]
+      }
+    },
+    "blocks": [
+      {
+        "blockId": "syntax-concept",
+        "dimensions": [
+          "syntax",
+          "concept"
+        ],
+        "text": "Let’s set提出共同安排建议；a checkpoint是不定对象；for Wednesday afternoon给出拟定时间。 这里的点是流程中的检查时点，不是道路上的检查站。具体检查内容、参与者和是否需要批准仍未说明。",
+        "sourceRefs": [
+          {
+            "sourceId": "dictionarycom-checkpoint",
+            "sourceVersion": "2026-11-16",
+            "locator": "noun, sense 2",
+            "supportedClaim": "checkpoint也可指程序中用于记录、检查或确认的点，不只指实体检查站。",
+            "url": "https://www.dictionary.com/browse/checkpoint"
+          }
+        ],
+        "title": "句子结构与当前所指"
+      },
+      {
+        "blockId": "contrast",
+        "dimensions": [
+          "contrast"
+        ],
+        "text": "checkpoint用于检查或确认；milestone标记重要进展；meeting是一种交流形式。检查节点可能通过会议实现，却不等于每次会议都是里程碑。",
+        "sourceRefs": [],
+        "title": "容易混淆的地方"
+      },
+      {
+        "blockId": "game-neighbors",
+        "dimensions": [
+          "languageGame",
+          "englishNeighbors"
+        ],
+        "text": "应约定届时看什么、准备什么证据和发现偏差后如何处理，使节点有实际检查作用。 set/schedule a checkpoint说明安排；progress review是可能的活动；Wednesday afternoon是本句唯一明示的时间信息。",
+        "sourceRefs": [],
+        "title": "讨论通常怎样继续"
+      },
+      {
+        "blockId": "action",
+        "dimensions": [
+          "pragmaticAction"
+        ],
+        "text": "说话者在提出一个具体时间的检查安排，等待共同确认。",
+        "sourceRefs": [],
+        "title": "说话者正在做什么"
+      },
+      {
+        "blockId": "workplace",
+        "dimensions": [
+          "workplaceUse"
+        ],
+        "text": "下面是迁移到制造业沟通的新例句；不代表原场景中已发生的决定。",
+        "sourceRefs": [],
+        "title": "迁移到工作情境"
+      }
+    ],
+    "workplaceUse": [
+      {
+        "en": "What should we review at Wednesday’s checkpoint?",
+        "zh": "星期三的检查节点需要审查什么？",
+        "whenToUse": "使检查目标明确。",
+        "limitation": "原创教学表达；具体权限和流程以实际约定为准。",
+        "origin": "original"
+      },
+      {
+        "en": "Let’s use the checkpoint to confirm progress and remaining risks.",
+        "zh": "我们用这个检查节点确认进展和剩余风险吧。",
+        "whenToUse": "说明节点用途。",
+        "limitation": "原创教学表达；具体权限和流程以实际约定为准。",
+        "origin": "original"
+      }
+    ],
+    "practiceRefs": [],
+    "edges": []
+  },
+  "practices": [],
+  "sources": [
+    {
+      "schemaVersion": 1,
+      "sourceId": "original-vocab",
+      "version": "2026-11-16",
+      "title": "原词库教学句／转述",
+      "url": "public/vocabulary.json",
+      "accessMode": "user_material",
+      "retrievedAt": "2026-11-16T01:45:06.410Z",
+      "coverage": "partial",
+      "rights": "用户授权处理原词库",
+      "limitations": [
+        "非外部作者逐字引文；保留原ID与原句"
+      ]
+    },
+    {
+      "schemaVersion": 1,
+      "sourceId": "oewn-2025",
+      "version": "2025",
+      "title": "Open English Wordnet 2025",
+      "url": "https://en-word.net/",
+      "accessMode": "licensed_snapshot",
+      "retrievedAt": "2026-11-16T01:45:06.410Z",
+      "coverage": "partial",
+      "rights": "CC BY 4.0 + Princeton notice",
+      "limitations": [
+        "本包仅选部分源义；中文非官方译文"
+      ]
+    },
+    {
+      "schemaVersion": 1,
+      "sourceId": "dictionarycom-checkpoint",
+      "version": "2026-11-16",
+      "title": "dictionarycom-checkpoint",
+      "url": "https://www.dictionary.com/browse/checkpoint",
+      "accessMode": "indexed_excerpt",
+      "retrievedAt": "2026-11-16T01:45:06.410Z",
+      "coverage": "partial",
+      "rights": "必要短引与中文整理，不声称批量复制许可",
+      "limitations": [
+        "仅支持记录中的具体主张，不代表完整条目"
+      ]
+    }
+  ],
+  "verifiedIPA": null,
+  "dictionaryURL": "https://en-word.net/",
+  "historyURL": null
+}

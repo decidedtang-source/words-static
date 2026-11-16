@@ -1,0 +1,400 @@
+{
+  "snapshot": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-033",
+    "term": "defer",
+    "quote": "We can defer the decision until the missing data arrives.",
+    "batch": "2026-10-12",
+    "originalFileSHA": "ec65d33d6da99ebad2577f6c9f9938499823d29d117f43532302cf964a4c60a3",
+    "quoteSHA": "3f9b7ba36866fc6d0d4c31531f18ca202499f457661972bbf87a0988c7222707",
+    "originalIPA": "dɪˈfɝː",
+    "originalPOS": "v.",
+    "originalMeaning": "把决定或行动推迟到以后"
+  },
+  "selection": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-033",
+    "version": "1",
+    "inventoryRefs": [
+      "inventory:V20261012-033"
+    ],
+    "selectedSenseIds": [
+      "defer%2:42:00::",
+      "defer%2:32:00::"
+    ],
+    "reason": "按学习用途选择常见或易混义；这里不是语料频率排名。",
+    "usageTip": "defer something与defer to someone要按结构区分。",
+    "general": "推迟；延后处理；遵从；听从他人的意见",
+    "senses": [
+      {
+        "senseId": "defer%2:42:00::",
+        "title": "推迟；延后处理",
+        "usageLabels": [
+          "v.",
+          "精选学习义"
+        ],
+        "explanationZh": "推迟；延后处理",
+        "examples": [
+          {
+            "en": "We deferred the review until Monday.",
+            "zh": "我们把评审推迟到星期一。",
+            "origin": "original",
+            "sourceRef": null,
+            "usageNote": "推迟；延后处理"
+          }
+        ],
+        "evidenceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-d.json/defer/v / defer%2:42:00::",
+            "supportedClaim": "hold back to a later time",
+            "url": "https://en-word.net/"
+          }
+        ]
+      },
+      {
+        "senseId": "defer%2:32:00::",
+        "title": "遵从；听从他人的意见",
+        "usageLabels": [
+          "v.",
+          "精选学习义"
+        ],
+        "explanationZh": "遵从；听从他人的意见",
+        "examples": [
+          {
+            "en": "I defer to your technical judgment.",
+            "zh": "我听从你的技术判断。",
+            "origin": "original",
+            "sourceRef": null,
+            "usageNote": "遵从；听从他人的意见"
+          }
+        ],
+        "evidenceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-d.json/defer/v / defer%2:32:00::",
+            "supportedClaim": "yield to another's wish or opinion",
+            "url": "https://en-word.net/"
+          }
+        ]
+      }
+    ]
+  },
+  "senses": [
+    {
+      "schemaVersion": 1,
+      "senseId": "defer%2:42:00::",
+      "lexicalEntryId": "lex:defer",
+      "pos": "v.",
+      "definitionOrigin": "licensed_verbatim",
+      "meaning": {
+        "definitionEn": "hold back to a later time",
+        "glossZh": "推迟；延后处理",
+        "glossOrigin": "editorial"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "oewn-2025",
+          "sourceVersion": "2025",
+          "locator": "entries-d.json/defer/v / defer%2:42:00::",
+          "supportedClaim": "hold back to a later time",
+          "url": "https://en-word.net/"
+        }
+      ],
+      "version": "1"
+    },
+    {
+      "schemaVersion": 1,
+      "senseId": "defer%2:32:00::",
+      "lexicalEntryId": "lex:defer",
+      "pos": "v.",
+      "definitionOrigin": "licensed_verbatim",
+      "meaning": {
+        "definitionEn": "yield to another's wish or opinion",
+        "glossZh": "遵从；听从他人的意见",
+        "glossOrigin": "editorial"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "oewn-2025",
+          "sourceVersion": "2025",
+          "locator": "entries-d.json/defer/v / defer%2:32:00::",
+          "supportedClaim": "yield to another's wish or opinion",
+          "url": "https://en-word.net/"
+        }
+      ],
+      "version": "1"
+    }
+  ],
+  "inventory": {
+    "schemaVersion": 1,
+    "inventoryId": "inventory:V20261012-033",
+    "version": "1",
+    "lexicalEntryId": "lex:defer",
+    "sources": [
+      "oewn-2025"
+    ],
+    "senseIds": [
+      "defer%2:42:00::",
+      "defer%2:32:00::"
+    ],
+    "coverageStatus": "partial"
+  },
+  "context": {
+    "schemaVersion": 1,
+    "contextId": "V20261012-033-context",
+    "entryId": "V20261012-033",
+    "sourceRef": "original-vocab",
+    "quote": "We can defer the decision until the missing data arrives.",
+    "quoteSHA": "3f9b7ba36866fc6d0d4c31531f18ca202499f457661972bbf87a0988c7222707",
+    "translation": "我们可以把决定推迟到缺失的数据到齐时再作。",
+    "quoteType": "原词库教学例句／转述；未认定为外部作者逐字引文",
+    "meaning": "提出等待必要数据后再决定的选项",
+    "qualifiers": {
+      "polarity": "affirmative",
+      "modality": [
+        "can"
+      ],
+      "conditions": [
+        "until the missing data arrives"
+      ],
+      "agents": [
+        "we"
+      ],
+      "timeScope": "until the missing data arrives",
+      "excludedInferences": [
+        "can不是实际已延期；数据到达不自动保证某个决定获批。"
+      ]
+    },
+    "location": "selected",
+    "senseRefs": [
+      "defer%2:42:00::"
+    ],
+    "targetSpans": [
+      {
+        "start": 7,
+        "end": 12,
+        "text": "defer",
+        "mappingType": "exact",
+        "note": "原句精确匹配；词形变化时不伪造span"
+      }
+    ],
+    "context": "仅以保留的这条原句为分析范围；未知背景不补造。"
+  },
+  "history": {
+    "schemaVersion": 1,
+    "lexicalEntryId": "lex:defer",
+    "version": "1",
+    "summary": "",
+    "claims": [],
+    "sourceRefs": [],
+    "limitations": [
+      "未核实历史资料，不编造词源或年代。"
+    ]
+  },
+  "bridge": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-033",
+    "contextId": "V20261012-033-context",
+    "version": "1",
+    "location": "selected",
+    "strategies": [
+      "direct",
+      "contextualization"
+    ],
+    "anchorRefs": [
+      "defer%2:42:00::"
+    ],
+    "targetRefs": [
+      "defer%2:42:00::"
+    ],
+    "semanticText": "使用推迟义，until把延后与数据到达相连；不是“服从数据”或已经取消决定。",
+    "boundary": "can不是实际已延期；数据到达不自动保证某个决定获批。",
+    "evidenceRefs": [
+      {
+        "sourceId": "oewn-2025",
+        "sourceVersion": "2025",
+        "locator": "entries-d.json/defer/v / defer%2:42:00::",
+        "supportedClaim": "hold back to a later time",
+        "url": "https://en-word.net/"
+      }
+    ],
+    "historyLink": null,
+    "historyClaimRefs": [],
+    "returnTargets": [
+      "wl-common",
+      "wl-history"
+    ]
+  },
+  "analysis": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-033",
+    "contextId": "V20261012-033-context",
+    "version": "1",
+    "promptHash": "aaf3bd1e99daf47a70a2a158973652d67ff14dafcfc1748b3fc2a09d719885db",
+    "depth": "standard",
+    "depthReason": "需辨析相邻用法并保留原句的承诺或证据边界。",
+    "coverage": {
+      "syntax": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "syntax-concept"
+        ]
+      },
+      "concept": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "syntax-concept"
+        ]
+      },
+      "contrast": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "contrast"
+        ]
+      },
+      "languageGame": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "game-neighbors"
+        ]
+      },
+      "englishNeighbors": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "game-neighbors"
+        ]
+      },
+      "pragmaticAction": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "action"
+        ]
+      },
+      "workplaceUse": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "workplace"
+        ]
+      }
+    },
+    "blocks": [
+      {
+        "blockId": "syntax-concept",
+        "dimensions": [
+          "syntax",
+          "concept"
+        ],
+        "text": "can表示可行选择；defer直接接the decision；until限定等待终点。这里没有defer to的结构。 延后决定可以等待证据，而非永久不作决定。数据何时到、是否足以支持决定，句子没有回答。",
+        "sourceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-d.json/defer/v / defer%2:42:00::",
+            "supportedClaim": "hold back to a later time",
+            "url": "https://en-word.net/"
+          }
+        ],
+        "title": "句子结构与当前所指"
+      },
+      {
+        "blockId": "contrast",
+        "dimensions": [
+          "contrast"
+        ],
+        "text": "defer是延后；cancel是取消；defer to someone是听从对方。介词to的有无会改变用法。",
+        "sourceRefs": [],
+        "title": "容易混淆的地方"
+      },
+      {
+        "blockId": "game-neighbors",
+        "dimensions": [
+          "languageGame",
+          "englishNeighbors"
+        ],
+        "text": "可确认缺什么数据、预计何时到以及延后对其他安排的影响，必要时安排复核点，避免无限等待。 defer a decision until连接决定与时间条件；missing data说明等待依据；revisit the decision是资料到后重新处理。",
+        "sourceRefs": [],
+        "title": "讨论通常怎样继续"
+      },
+      {
+        "blockId": "action",
+        "dimensions": [
+          "pragmaticAction"
+        ],
+        "text": "说话者在提出一个有条件的延后方案。",
+        "sourceRefs": [],
+        "title": "说话者正在做什么"
+      },
+      {
+        "blockId": "workplace",
+        "dimensions": [
+          "workplaceUse"
+        ],
+        "text": "下面是迁移到制造业沟通的新例句；不代表原场景中已发生的决定。",
+        "sourceRefs": [],
+        "title": "迁移到工作情境"
+      }
+    ],
+    "workplaceUse": [
+      {
+        "en": "Can we defer the release decision until the test results arrive?",
+        "zh": "我们能把放行决定推迟到测试结果出来后吗？",
+        "whenToUse": "等待决定所需证据。",
+        "limitation": "原创教学表达；具体权限和流程以实际约定为准。",
+        "origin": "original"
+      },
+      {
+        "en": "If the data is delayed again, when should we revisit the plan?",
+        "zh": "如果数据再次延迟，我们应何时重新讨论计划？",
+        "whenToUse": "避免无限等待。",
+        "limitation": "原创教学表达；具体权限和流程以实际约定为准。",
+        "origin": "original"
+      }
+    ],
+    "practiceRefs": [],
+    "edges": []
+  },
+  "practices": [],
+  "sources": [
+    {
+      "schemaVersion": 1,
+      "sourceId": "original-vocab",
+      "version": "2026-11-16",
+      "title": "原词库教学句／转述",
+      "url": "public/vocabulary.json",
+      "accessMode": "user_material",
+      "retrievedAt": "2026-11-16T01:45:06.410Z",
+      "coverage": "partial",
+      "rights": "用户授权处理原词库",
+      "limitations": [
+        "非外部作者逐字引文；保留原ID与原句"
+      ]
+    },
+    {
+      "schemaVersion": 1,
+      "sourceId": "oewn-2025",
+      "version": "2025",
+      "title": "Open English Wordnet 2025",
+      "url": "https://en-word.net/",
+      "accessMode": "licensed_snapshot",
+      "retrievedAt": "2026-11-16T01:45:06.410Z",
+      "coverage": "partial",
+      "rights": "CC BY 4.0 + Princeton notice",
+      "limitations": [
+        "本包仅选部分源义；中文非官方译文"
+      ]
+    }
+  ],
+  "verifiedIPA": null,
+  "dictionaryURL": "https://en-word.net/",
+  "historyURL": null
+}

@@ -1,0 +1,409 @@
+{
+  "snapshot": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-023",
+    "term": "overdue",
+    "quote": "The action is overdue, so we need an updated completion time.",
+    "batch": "2026-10-12",
+    "originalFileSHA": "ec65d33d6da99ebad2577f6c9f9938499823d29d117f43532302cf964a4c60a3",
+    "quoteSHA": "0184c0e9e9a9c9274d6c7f83a9c1a4176c445060acd0eb7349e89191922c6df5",
+    "originalIPA": "ˌoʊ.vɚˈduː",
+    "originalPOS": "adj.",
+    "originalMeaning": "超过约定完成时间的"
+  },
+  "selection": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-023",
+    "version": "1",
+    "inventoryRefs": [
+      "inventory:V20261012-023"
+    ],
+    "selectedSenseIds": [
+      "web:cambridge-overdue",
+      "overdue%5:00:00:due:00"
+    ],
+    "reason": "按学习用途选择常见或易混义；这里不是语料频率排名。",
+    "usageTip": "be overdue是状态；overdue payment与overdue action对象不同。",
+    "general": "早该完成而尚未完成的；到期未付的",
+    "senses": [
+      {
+        "senseId": "web:cambridge-overdue",
+        "title": "早该完成而尚未完成的",
+        "usageLabels": [
+          "adj.",
+          "精选学习义"
+        ],
+        "explanationZh": "早该完成而尚未完成的",
+        "examples": [
+          {
+            "en": "The review is overdue.",
+            "zh": "评审已经逾期。",
+            "origin": "original",
+            "sourceRef": null,
+            "usageNote": "早该完成而尚未完成的"
+          }
+        ],
+        "evidenceRefs": [
+          {
+            "sourceId": "cambridge-overdue",
+            "sourceVersion": "2026-11-16",
+            "locator": "Business English, event or action overdue",
+            "supportedClaim": "overdue不限于欠款，也可指本应已经完成的事项。",
+            "url": "https://dictionary.cambridge.org/us/dictionary/english/overdue"
+          }
+        ]
+      },
+      {
+        "senseId": "overdue%5:00:00:due:00",
+        "title": "到期未付的",
+        "usageLabels": [
+          "adj.",
+          "精选学习义"
+        ],
+        "explanationZh": "到期未付的",
+        "examples": [
+          {
+            "en": "The payment is overdue.",
+            "zh": "这笔付款已经逾期。",
+            "origin": "original",
+            "sourceRef": null,
+            "usageNote": "到期未付的"
+          }
+        ],
+        "evidenceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-o.json/overdue/a / overdue%5:00:00:due:00",
+            "supportedClaim": "past due; not paid at the scheduled time",
+            "url": "https://en-word.net/"
+          }
+        ]
+      }
+    ]
+  },
+  "senses": [
+    {
+      "schemaVersion": 1,
+      "senseId": "web:cambridge-overdue",
+      "lexicalEntryId": "lex:overdue",
+      "pos": "adj.",
+      "definitionOrigin": "short_quote",
+      "meaning": {
+        "definitionEn": "it should have already happened or been done",
+        "glossZh": "早该完成而尚未完成的",
+        "glossOrigin": "editorial"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "cambridge-overdue",
+          "sourceVersion": "2026-11-16",
+          "locator": "Business English, event or action overdue",
+          "supportedClaim": "overdue不限于欠款，也可指本应已经完成的事项。",
+          "url": "https://dictionary.cambridge.org/us/dictionary/english/overdue"
+        }
+      ],
+      "version": "1"
+    },
+    {
+      "schemaVersion": 1,
+      "senseId": "overdue%5:00:00:due:00",
+      "lexicalEntryId": "lex:overdue",
+      "pos": "adj.",
+      "definitionOrigin": "licensed_verbatim",
+      "meaning": {
+        "definitionEn": "past due; not paid at the scheduled time",
+        "glossZh": "到期未付的",
+        "glossOrigin": "editorial"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "oewn-2025",
+          "sourceVersion": "2025",
+          "locator": "entries-o.json/overdue/a / overdue%5:00:00:due:00",
+          "supportedClaim": "past due; not paid at the scheduled time",
+          "url": "https://en-word.net/"
+        }
+      ],
+      "version": "1"
+    }
+  ],
+  "inventory": {
+    "schemaVersion": 1,
+    "inventoryId": "inventory:V20261012-023",
+    "version": "1",
+    "lexicalEntryId": "lex:overdue",
+    "sources": [
+      "cambridge-overdue",
+      "oewn-2025"
+    ],
+    "senseIds": [
+      "web:cambridge-overdue",
+      "overdue%5:00:00:due:00"
+    ],
+    "coverageStatus": "partial"
+  },
+  "context": {
+    "schemaVersion": 1,
+    "contextId": "V20261012-023-context",
+    "entryId": "V20261012-023",
+    "sourceRef": "original-vocab",
+    "quote": "The action is overdue, so we need an updated completion time.",
+    "quoteSHA": "0184c0e9e9a9c9274d6c7f83a9c1a4176c445060acd0eb7349e89191922c6df5",
+    "translation": "这项行动已经逾期，所以我们需要更新完成时间。",
+    "quoteType": "原词库教学例句／转述；未认定为外部作者逐字引文",
+    "meaning": "行动超过原本应完成的时间而仍未完成",
+    "qualifiers": {
+      "polarity": "affirmative",
+      "modality": [],
+      "conditions": [],
+      "agents": [],
+      "timeScope": null,
+      "excludedInferences": [
+        "逾期不等于取消或证明个人失职；更新日期也不等于工作已完成。"
+      ]
+    },
+    "location": "selected",
+    "senseRefs": [
+      "web:cambridge-overdue"
+    ],
+    "targetSpans": [
+      {
+        "start": 14,
+        "end": 21,
+        "text": "overdue",
+        "mappingType": "exact",
+        "note": "原句精确匹配；词形变化时不伪造span"
+      }
+    ],
+    "context": "仅以保留的这条原句为分析范围；未知背景不补造。"
+  },
+  "history": {
+    "schemaVersion": 1,
+    "lexicalEntryId": "lex:overdue",
+    "version": "1",
+    "summary": "",
+    "claims": [],
+    "sourceRefs": [],
+    "limitations": [
+      "未核实历史资料，不编造词源或年代。"
+    ]
+  },
+  "bridge": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-023",
+    "contextId": "V20261012-023-context",
+    "version": "1",
+    "location": "selected",
+    "strategies": [
+      "direct",
+      "contextualization"
+    ],
+    "anchorRefs": [
+      "web:cambridge-overdue"
+    ],
+    "targetRefs": [
+      "web:cambridge-overdue"
+    ],
+    "semanticText": "本句不是欠款，采用词典对应的“行动本应已完成”义。把一般到期未完成状态落实到这项行动即可。",
+    "boundary": "逾期不等于取消或证明个人失职；更新日期也不等于工作已完成。",
+    "evidenceRefs": [
+      {
+        "sourceId": "cambridge-overdue",
+        "sourceVersion": "2026-11-16",
+        "locator": "Business English, event or action overdue",
+        "supportedClaim": "overdue不限于欠款，也可指本应已经完成的事项。",
+        "url": "https://dictionary.cambridge.org/us/dictionary/english/overdue"
+      }
+    ],
+    "historyLink": null,
+    "historyClaimRefs": [],
+    "returnTargets": [
+      "wl-common",
+      "wl-history"
+    ]
+  },
+  "analysis": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-023",
+    "contextId": "V20261012-023-context",
+    "version": "1",
+    "promptHash": "aaf3bd1e99daf47a70a2a158973652d67ff14dafcfc1748b3fc2a09d719885db",
+    "depth": "standard",
+    "depthReason": "需辨析相邻用法并保留原句的承诺或证据边界。",
+    "coverage": {
+      "syntax": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "syntax-concept"
+        ]
+      },
+      "concept": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "syntax-concept"
+        ]
+      },
+      "contrast": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "contrast"
+        ]
+      },
+      "languageGame": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "game-neighbors"
+        ]
+      },
+      "englishNeighbors": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "game-neighbors"
+        ]
+      },
+      "pragmaticAction": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "action"
+        ]
+      },
+      "workplaceUse": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "workplace"
+        ]
+      }
+    },
+    "blocks": [
+      {
+        "blockId": "syntax-concept",
+        "dimensions": [
+          "syntax",
+          "concept"
+        ],
+        "text": "is overdue报告当前状态；so连接需要更新时间的后续动作；updated不是原定时间。 当前承诺的完成时间已经过去，需要一个有依据的新估计。原句没有说明逾期多久或是谁的过错。",
+        "sourceRefs": [
+          {
+            "sourceId": "cambridge-overdue",
+            "sourceVersion": "2026-11-16",
+            "locator": "Business English, event or action overdue",
+            "supportedClaim": "overdue不限于欠款，也可指本应已经完成的事项。",
+            "url": "https://dictionary.cambridge.org/us/dictionary/english/overdue"
+          }
+        ],
+        "title": "句子结构与当前所指"
+      },
+      {
+        "blockId": "contrast",
+        "dimensions": [
+          "contrast"
+        ],
+        "text": "overdue描述相对于已到时限的状态；delayed说明推迟，不一定已经超过最终截止日；cancelled是取消。",
+        "sourceRefs": [],
+        "title": "容易混淆的地方"
+      },
+      {
+        "blockId": "game-neighbors",
+        "dimensions": [
+          "languageGame",
+          "englishNeighbors"
+        ],
+        "text": "跟进时可以核实剩余工作、阻碍及新的完成预测，保留原定日期以了解偏差，而非改日期后假装从未逾期。 overdue action与revised completion time相连；remaining work与blocker解释为什么新估计需要依据。",
+        "sourceRefs": [],
+        "title": "讨论通常怎样继续"
+      },
+      {
+        "blockId": "action",
+        "dimensions": [
+          "pragmaticAction"
+        ],
+        "text": "说话者在报告逾期并要求更新时间。",
+        "sourceRefs": [],
+        "title": "说话者正在做什么"
+      },
+      {
+        "blockId": "workplace",
+        "dimensions": [
+          "workplaceUse"
+        ],
+        "text": "下面是迁移到制造业沟通的新例句；不代表原场景中已发生的决定。",
+        "sourceRefs": [],
+        "title": "迁移到工作情境"
+      }
+    ],
+    "workplaceUse": [
+      {
+        "en": "This action is overdue; what remains to be completed?",
+        "zh": "这项行动已经逾期；还有什么需要完成？",
+        "whenToUse": "跟进剩余工作。",
+        "limitation": "原创教学表达；具体权限和流程以实际约定为准。",
+        "origin": "original"
+      },
+      {
+        "en": "Please provide an updated completion time and the reason for the change.",
+        "zh": "请提供更新后的完成时间及变更原因。",
+        "whenToUse": "要求有依据的时间预测。",
+        "limitation": "原创教学表达；具体权限和流程以实际约定为准。",
+        "origin": "original"
+      }
+    ],
+    "practiceRefs": [],
+    "edges": []
+  },
+  "practices": [],
+  "sources": [
+    {
+      "schemaVersion": 1,
+      "sourceId": "original-vocab",
+      "version": "2026-11-16",
+      "title": "原词库教学句／转述",
+      "url": "public/vocabulary.json",
+      "accessMode": "user_material",
+      "retrievedAt": "2026-11-16T01:45:06.410Z",
+      "coverage": "partial",
+      "rights": "用户授权处理原词库",
+      "limitations": [
+        "非外部作者逐字引文；保留原ID与原句"
+      ]
+    },
+    {
+      "schemaVersion": 1,
+      "sourceId": "oewn-2025",
+      "version": "2025",
+      "title": "Open English Wordnet 2025",
+      "url": "https://en-word.net/",
+      "accessMode": "licensed_snapshot",
+      "retrievedAt": "2026-11-16T01:45:06.410Z",
+      "coverage": "partial",
+      "rights": "CC BY 4.0 + Princeton notice",
+      "limitations": [
+        "本包仅选部分源义；中文非官方译文"
+      ]
+    },
+    {
+      "schemaVersion": 1,
+      "sourceId": "cambridge-overdue",
+      "version": "2026-11-16",
+      "title": "cambridge-overdue",
+      "url": "https://dictionary.cambridge.org/us/dictionary/english/overdue",
+      "accessMode": "indexed_excerpt",
+      "retrievedAt": "2026-11-16T01:45:06.410Z",
+      "coverage": "partial",
+      "rights": "必要短引与中文整理，不声称批量复制许可",
+      "limitations": [
+        "仅支持记录中的具体主张，不代表完整条目"
+      ]
+    }
+  ],
+  "verifiedIPA": null,
+  "dictionaryURL": "https://dictionary.cambridge.org/us/dictionary/english/overdue",
+  "historyURL": null
+}

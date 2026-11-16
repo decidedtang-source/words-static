@@ -1,0 +1,447 @@
+{
+  "snapshot": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-014",
+    "term": "delegate",
+    "quote": "You can delegate the data collection to another team member.",
+    "batch": "2026-10-12",
+    "originalFileSHA": "ec65d33d6da99ebad2577f6c9f9938499823d29d117f43532302cf964a4c60a3",
+    "quoteSHA": "8b68bb07be019031e0b9f6b5d668ee8c0171e9fa8f4acf3069949287be58a7aa",
+    "originalIPA": "ˈdel.ə.ɡeɪt",
+    "originalPOS": "v.",
+    "originalMeaning": "把具体任务及适当权限交给别人"
+  },
+  "selection": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-014",
+    "version": "1",
+    "inventoryRefs": [
+      "inventory:V20261012-014"
+    ],
+    "selectedSenseIds": [
+      "delegate%2:41:00::",
+      "delegate%1:18:00::",
+      "delegate%2:41:01::"
+    ],
+    "reason": "按学习用途选择常见或易混义；这里不是语料频率排名。",
+    "usageTip": "delegate a task to someone；注意名词delegate与动词形式相同。",
+    "general": "把任务交给别人执行；代表；被选派的人；授予或转交权力",
+    "senses": [
+      {
+        "senseId": "delegate%2:41:00::",
+        "title": "把任务交给别人执行",
+        "usageLabels": [
+          "v.",
+          "精选学习义"
+        ],
+        "explanationZh": "把任务交给别人执行",
+        "examples": [
+          {
+            "en": "She delegated the measurements to a colleague.",
+            "zh": "她把测量工作交给了一位同事。",
+            "origin": "original",
+            "sourceRef": null,
+            "usageNote": "把任务交给别人执行"
+          }
+        ],
+        "evidenceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-d.json/delegate/v / delegate%2:41:00::",
+            "supportedClaim": "give an assignment to (a person) to a post, or assign a task to (a person)",
+            "url": "https://en-word.net/"
+          }
+        ]
+      },
+      {
+        "senseId": "delegate%1:18:00::",
+        "title": "代表；被选派的人",
+        "usageLabels": [
+          "n.",
+          "精选学习义"
+        ],
+        "explanationZh": "代表；被选派的人",
+        "examples": [
+          {
+            "en": "Each team sent a delegate.",
+            "zh": "每个团队派了一位代表。",
+            "origin": "original",
+            "sourceRef": null,
+            "usageNote": "代表；被选派的人"
+          }
+        ],
+        "evidenceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-d.json/delegate/n / delegate%1:18:00::",
+            "supportedClaim": "a person appointed or elected to represent others",
+            "url": "https://en-word.net/"
+          }
+        ]
+      },
+      {
+        "senseId": "delegate%2:41:01::",
+        "title": "授予或转交权力",
+        "usageLabels": [
+          "v.",
+          "精选学习义"
+        ],
+        "explanationZh": "授予或转交权力",
+        "examples": [
+          {
+            "en": "The director delegated limited authority.",
+            "zh": "主管授予了有限权限。",
+            "origin": "original",
+            "sourceRef": null,
+            "usageNote": "授予或转交权力"
+          }
+        ],
+        "evidenceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-d.json/delegate/v / delegate%2:41:01::",
+            "supportedClaim": "transfer power to someone",
+            "url": "https://en-word.net/"
+          }
+        ]
+      }
+    ]
+  },
+  "senses": [
+    {
+      "schemaVersion": 1,
+      "senseId": "delegate%2:41:00::",
+      "lexicalEntryId": "lex:delegate",
+      "pos": "v.",
+      "definitionOrigin": "licensed_verbatim",
+      "meaning": {
+        "definitionEn": "give an assignment to (a person) to a post, or assign a task to (a person)",
+        "glossZh": "把任务交给别人执行",
+        "glossOrigin": "editorial"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "oewn-2025",
+          "sourceVersion": "2025",
+          "locator": "entries-d.json/delegate/v / delegate%2:41:00::",
+          "supportedClaim": "give an assignment to (a person) to a post, or assign a task to (a person)",
+          "url": "https://en-word.net/"
+        }
+      ],
+      "version": "1"
+    },
+    {
+      "schemaVersion": 1,
+      "senseId": "delegate%1:18:00::",
+      "lexicalEntryId": "lex:delegate",
+      "pos": "n.",
+      "definitionOrigin": "licensed_verbatim",
+      "meaning": {
+        "definitionEn": "a person appointed or elected to represent others",
+        "glossZh": "代表；被选派的人",
+        "glossOrigin": "editorial"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "oewn-2025",
+          "sourceVersion": "2025",
+          "locator": "entries-d.json/delegate/n / delegate%1:18:00::",
+          "supportedClaim": "a person appointed or elected to represent others",
+          "url": "https://en-word.net/"
+        }
+      ],
+      "version": "1"
+    },
+    {
+      "schemaVersion": 1,
+      "senseId": "delegate%2:41:01::",
+      "lexicalEntryId": "lex:delegate",
+      "pos": "v.",
+      "definitionOrigin": "licensed_verbatim",
+      "meaning": {
+        "definitionEn": "transfer power to someone",
+        "glossZh": "授予或转交权力",
+        "glossOrigin": "editorial"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "oewn-2025",
+          "sourceVersion": "2025",
+          "locator": "entries-d.json/delegate/v / delegate%2:41:01::",
+          "supportedClaim": "transfer power to someone",
+          "url": "https://en-word.net/"
+        }
+      ],
+      "version": "1"
+    }
+  ],
+  "inventory": {
+    "schemaVersion": 1,
+    "inventoryId": "inventory:V20261012-014",
+    "version": "1",
+    "lexicalEntryId": "lex:delegate",
+    "sources": [
+      "oewn-2025"
+    ],
+    "senseIds": [
+      "delegate%2:41:00::",
+      "delegate%1:18:00::",
+      "delegate%2:41:01::"
+    ],
+    "coverageStatus": "partial"
+  },
+  "context": {
+    "schemaVersion": 1,
+    "contextId": "V20261012-014-context",
+    "entryId": "V20261012-014",
+    "sourceRef": "original-vocab",
+    "quote": "You can delegate the data collection to another team member.",
+    "quoteSHA": "8b68bb07be019031e0b9f6b5d668ee8c0171e9fa8f4acf3069949287be58a7aa",
+    "translation": "你可以把数据收集交给另一位团队成员。",
+    "quoteType": "原词库教学例句／转述；未认定为外部作者逐字引文",
+    "meaning": "允许或提出把数据收集任务委派给他人",
+    "qualifiers": {
+      "polarity": "affirmative",
+      "modality": [
+        "can"
+      ],
+      "conditions": [],
+      "agents": [],
+      "timeScope": null,
+      "excludedInferences": [
+        "can并未宣布已经委派，也不证明接手者获得批准权限。"
+      ]
+    },
+    "location": "selected",
+    "senseRefs": [
+      "delegate%2:41:00::"
+    ],
+    "targetSpans": [
+      {
+        "start": 8,
+        "end": 16,
+        "text": "delegate",
+        "mappingType": "exact",
+        "note": "原句精确匹配；词形变化时不伪造span"
+      }
+    ],
+    "context": "仅以保留的这条原句为分析范围；未知背景不补造。"
+  },
+  "history": {
+    "schemaVersion": 1,
+    "lexicalEntryId": "lex:delegate",
+    "version": "1",
+    "summary": "",
+    "claims": [],
+    "sourceRefs": [],
+    "limitations": [
+      "未核实历史资料，不编造词源或年代。"
+    ]
+  },
+  "bridge": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-014",
+    "contextId": "V20261012-014-context",
+    "version": "1",
+    "location": "selected",
+    "strategies": [
+      "direct",
+      "contextualization"
+    ],
+    "anchorRefs": [
+      "delegate%2:41:00::"
+    ],
+    "targetRefs": [
+      "delegate%2:41:00::"
+    ],
+    "semanticText": "本句是任务委派义，因为宾语是data collection；与名词代表和明确授予权力的用法区分。",
+    "boundary": "can并未宣布已经委派，也不证明接手者获得批准权限。",
+    "evidenceRefs": [
+      {
+        "sourceId": "oewn-2025",
+        "sourceVersion": "2025",
+        "locator": "entries-d.json/delegate/v / delegate%2:41:00::",
+        "supportedClaim": "give an assignment to (a person) to a post, or assign a task to (a person)",
+        "url": "https://en-word.net/"
+      }
+    ],
+    "historyLink": null,
+    "historyClaimRefs": [],
+    "returnTargets": [
+      "wl-common",
+      "wl-history"
+    ]
+  },
+  "analysis": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-014",
+    "contextId": "V20261012-014-context",
+    "version": "1",
+    "promptHash": "aaf3bd1e99daf47a70a2a158973652d67ff14dafcfc1748b3fc2a09d719885db",
+    "depth": "standard",
+    "depthReason": "需辨析相邻用法并保留原句的承诺或证据边界。",
+    "coverage": {
+      "syntax": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "syntax-concept"
+        ]
+      },
+      "concept": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "syntax-concept"
+        ]
+      },
+      "contrast": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "contrast"
+        ]
+      },
+      "languageGame": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "game-neighbors"
+        ]
+      },
+      "englishNeighbors": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "game-neighbors"
+        ]
+      },
+      "pragmaticAction": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "action"
+        ]
+      },
+      "workplaceUse": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "workplace"
+        ]
+      }
+    },
+    "blocks": [
+      {
+        "blockId": "syntax-concept",
+        "dimensions": [
+          "syntax",
+          "concept"
+        ],
+        "text": "can表达可行或许可的可能性；delegate的宾语是data collection，to引出受托者。 被转交的是一项具体执行任务。原句没有同时转移最终决策权、规定审批关系或说明原负责人不再负责。",
+        "sourceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-d.json/delegate/v / delegate%2:41:00::",
+            "supportedClaim": "give an assignment to (a person) to a post, or assign a task to (a person)",
+            "url": "https://en-word.net/"
+          }
+        ],
+        "title": "句子结构与当前所指"
+      },
+      {
+        "blockId": "contrast",
+        "dimensions": [
+          "contrast"
+        ],
+        "text": "delegate a task强调委派；collaborate强调共同做；delegate authority要明确授权范围。不能把交办收集资料理解为交出所有责任。",
+        "sourceRefs": [],
+        "title": "容易混淆的地方"
+      },
+      {
+        "blockId": "game-neighbors",
+        "dimensions": [
+          "languageGame",
+          "englishNeighbors"
+        ],
+        "text": "交办时可说明数据范围、格式、截止时间和需要澄清的问题，让接手者知道何时反馈以及如何判断完成。 delegate to说明委派对象；brief the colleague补充任务说明；follow up核对进展，而非自动意味着微观管理。",
+        "sourceRefs": [],
+        "title": "讨论通常怎样继续"
+      },
+      {
+        "blockId": "action",
+        "dimensions": [
+          "pragmaticAction"
+        ],
+        "text": "说话者在提供一种工作分配选择。",
+        "sourceRefs": [],
+        "title": "说话者正在做什么"
+      },
+      {
+        "blockId": "workplace",
+        "dimensions": [
+          "workplaceUse"
+        ],
+        "text": "下面是迁移到制造业沟通的新例句；不代表原场景中已发生的决定。",
+        "sourceRefs": [],
+        "title": "迁移到工作情境"
+      }
+    ],
+    "workplaceUse": [
+      {
+        "en": "Can I delegate the sample measurements to Mei?",
+        "zh": "我可以把样品测量交给梅吗？",
+        "whenToUse": "核对任务分配。",
+        "limitation": "原创教学表达；具体权限和流程以实际约定为准。",
+        "origin": "original"
+      },
+      {
+        "en": "Please specify the scope when you delegate the data collection.",
+        "zh": "委派数据收集时，请说明范围。",
+        "whenToUse": "让交办可执行。",
+        "limitation": "原创教学表达；具体权限和流程以实际约定为准。",
+        "origin": "original"
+      }
+    ],
+    "practiceRefs": [],
+    "edges": []
+  },
+  "practices": [],
+  "sources": [
+    {
+      "schemaVersion": 1,
+      "sourceId": "original-vocab",
+      "version": "2026-11-16",
+      "title": "原词库教学句／转述",
+      "url": "public/vocabulary.json",
+      "accessMode": "user_material",
+      "retrievedAt": "2026-11-16T01:45:06.410Z",
+      "coverage": "partial",
+      "rights": "用户授权处理原词库",
+      "limitations": [
+        "非外部作者逐字引文；保留原ID与原句"
+      ]
+    },
+    {
+      "schemaVersion": 1,
+      "sourceId": "oewn-2025",
+      "version": "2025",
+      "title": "Open English Wordnet 2025",
+      "url": "https://en-word.net/",
+      "accessMode": "licensed_snapshot",
+      "retrievedAt": "2026-11-16T01:45:06.410Z",
+      "coverage": "partial",
+      "rights": "CC BY 4.0 + Princeton notice",
+      "limitations": [
+        "本包仅选部分源义；中文非官方译文"
+      ]
+    }
+  ],
+  "verifiedIPA": null,
+  "dictionaryURL": "https://en-word.net/",
+  "historyURL": null
+}

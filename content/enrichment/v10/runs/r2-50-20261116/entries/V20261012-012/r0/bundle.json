@@ -1,0 +1,487 @@
+{
+  "snapshot": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-012",
+    "term": "capacity",
+    "quote": "We do not have enough capacity to start both projects.",
+    "batch": "2026-10-12",
+    "originalFileSHA": "ec65d33d6da99ebad2577f6c9f9938499823d29d117f43532302cf964a4c60a3",
+    "quoteSHA": "c3e67ca92710652213d1ad65977970d8ce692981661c0e77f3b3a55f5dc946c3",
+    "originalIPA": "kəˈpæs.ə.t̬i",
+    "originalPOS": "n.",
+    "originalMeaning": "团队或系统能够承担工作的能力与数量"
+  },
+  "selection": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-012",
+    "version": "1",
+    "inventoryRefs": [
+      "inventory:V20261012-012"
+    ],
+    "selectedSenseIds": [
+      "capacity%1:23:00::",
+      "capacity%1:07:00::",
+      "capacity%1:04:01::"
+    ],
+    "reason": "按学习用途选择常见或易混义；这里不是语料频率排名。",
+    "general": "容量；能够容纳的量；完成工作或生产的能力；身份；职能",
+    "senses": [
+      {
+        "senseId": "capacity%1:23:00::",
+        "title": "容量；能够容纳的量",
+        "usageLabels": [
+          "n.",
+          "精选学习义"
+        ],
+        "explanationZh": "容量；能够容纳的量",
+        "examples": [
+          {
+            "en": "The tank has a capacity of 500 litres.",
+            "zh": "这个罐子的容量是500升。",
+            "origin": "original",
+            "sourceRef": null,
+            "usageNote": "原创教学例句，不是来源原话"
+          }
+        ],
+        "evidenceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-c.json/capacity/n / capacity%1:23:00::",
+            "supportedClaim": "the amount that can be contained",
+            "url": "https://en-word.net/"
+          }
+        ]
+      },
+      {
+        "senseId": "capacity%1:07:00::",
+        "title": "完成工作或生产的能力",
+        "usageLabels": [
+          "n.",
+          "精选学习义"
+        ],
+        "explanationZh": "完成工作或生产的能力",
+        "examples": [
+          {
+            "en": "The team has limited capacity this week.",
+            "zh": "团队这周能承担的工作有限。",
+            "origin": "original",
+            "sourceRef": null,
+            "usageNote": "原创教学例句，不是来源原话"
+          }
+        ],
+        "evidenceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-c.json/capacity/n / capacity%1:07:00::",
+            "supportedClaim": "capability to perform or produce",
+            "url": "https://en-word.net/"
+          }
+        ]
+      },
+      {
+        "senseId": "capacity%1:04:01::",
+        "title": "身份；职能",
+        "usageLabels": [
+          "n.",
+          "精选学习义"
+        ],
+        "explanationZh": "身份；职能",
+        "examples": [
+          {
+            "en": "She attended in her capacity as an adviser.",
+            "zh": "她以顾问身份出席。",
+            "origin": "original",
+            "sourceRef": null,
+            "usageNote": "原创教学例句，不是来源原话"
+          }
+        ],
+        "evidenceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-c.json/capacity/n / capacity%1:04:01::",
+            "supportedClaim": "a specified function",
+            "url": "https://en-word.net/"
+          }
+        ]
+      }
+    ]
+  },
+  "senses": [
+    {
+      "schemaVersion": 1,
+      "senseId": "capacity%1:23:00::",
+      "lexicalEntryId": "lex:capacity",
+      "pos": "n.",
+      "meaning": {
+        "definitionEn": "the amount that can be contained",
+        "glossZh": "容量；能够容纳的量",
+        "glossOrigin": "editorial"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "oewn-2025",
+          "sourceVersion": "2025",
+          "locator": "entries-c.json/capacity/n / capacity%1:23:00::",
+          "supportedClaim": "the amount that can be contained",
+          "url": "https://en-word.net/"
+        }
+      ],
+      "version": "1"
+    },
+    {
+      "schemaVersion": 1,
+      "senseId": "capacity%1:07:00::",
+      "lexicalEntryId": "lex:capacity",
+      "pos": "n.",
+      "meaning": {
+        "definitionEn": "capability to perform or produce",
+        "glossZh": "完成工作或生产的能力",
+        "glossOrigin": "editorial"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "oewn-2025",
+          "sourceVersion": "2025",
+          "locator": "entries-c.json/capacity/n / capacity%1:07:00::",
+          "supportedClaim": "capability to perform or produce",
+          "url": "https://en-word.net/"
+        }
+      ],
+      "version": "1"
+    },
+    {
+      "schemaVersion": 1,
+      "senseId": "capacity%1:04:01::",
+      "lexicalEntryId": "lex:capacity",
+      "pos": "n.",
+      "meaning": {
+        "definitionEn": "a specified function",
+        "glossZh": "身份；职能",
+        "glossOrigin": "editorial"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "oewn-2025",
+          "sourceVersion": "2025",
+          "locator": "entries-c.json/capacity/n / capacity%1:04:01::",
+          "supportedClaim": "a specified function",
+          "url": "https://en-word.net/"
+        }
+      ],
+      "version": "1"
+    }
+  ],
+  "inventory": {
+    "schemaVersion": 1,
+    "inventoryId": "inventory:V20261012-012",
+    "version": "1",
+    "lexicalEntryId": "lex:capacity",
+    "sources": [
+      "oewn-2025"
+    ],
+    "senseIds": [
+      "capacity%1:23:00::",
+      "capacity%1:07:00::",
+      "capacity%1:04:01::"
+    ],
+    "coverageStatus": "partial"
+  },
+  "context": {
+    "schemaVersion": 1,
+    "contextId": "V20261012-012-context",
+    "entryId": "V20261012-012",
+    "sourceRef": "original-vocab",
+    "quote": "We do not have enough capacity to start both projects.",
+    "quoteSHA": "c3e67ca92710652213d1ad65977970d8ce692981661c0e77f3b3a55f5dc946c3",
+    "translation": "我们没有足够的能力同时启动这两个项目。",
+    "quoteType": "原词库教学例句／转述；未认定为外部作者逐字引文",
+    "meaning": "当前可承担工作的资源能力不足",
+    "qualifiers": {
+      "polarity": "negative",
+      "modality": [],
+      "conditions": [],
+      "agents": [],
+      "timeScope": null,
+      "excludedInferences": [
+        "这不是罐体容量的字面用法，也未证明任何成员缺乏技能。"
+      ]
+    },
+    "location": "selected",
+    "senseRefs": [
+      "capacity%1:07:00::"
+    ],
+    "targetSpans": [
+      {
+        "start": 22,
+        "end": 30,
+        "text": "capacity",
+        "mappingType": "exact",
+        "note": "原句精确匹配；词形变化时不伪造span"
+      }
+    ],
+    "context": "仅以保留的这条原句为分析范围；未知背景不补造。"
+  },
+  "history": {
+    "schemaVersion": 1,
+    "lexicalEntryId": "lex:capacity",
+    "version": "1",
+    "summary": "词条记载15世纪初已有容纳能力及能力相关用法；工业生产能力义记录于1931年。不能据此推定某团队的具体产能。",
+    "claims": [
+      {
+        "claimId": "history-capacity-claim",
+        "text": "词条记载15世纪初已有容纳能力及能力相关用法；工业生产能力义记录于1931年。不能据此推定某团队的具体产能。",
+        "timePrecision": "按史源记录，不作精确起源日期",
+        "sourceRefs": [
+          {
+            "sourceId": "history-capacity",
+            "sourceVersion": "2026-11-16",
+            "locator": "capacity (n.), paragraphs 1–2",
+            "supportedClaim": "词条记载15世纪初已有容纳能力及能力相关用法；工业生产能力义记录于1931年。不能据此推定某团队的具体产能。",
+            "url": "https://www.etymonline.com/word/capacity"
+          }
+        ]
+      }
+    ],
+    "sourceRefs": [
+      {
+        "sourceId": "history-capacity",
+        "sourceVersion": "2026-11-16",
+        "locator": "capacity (n.), paragraphs 1–2",
+        "supportedClaim": "词条记载15世纪初已有容纳能力及能力相关用法；工业生产能力义记录于1931年。不能据此推定某团队的具体产能。",
+        "url": "https://www.etymonline.com/word/capacity"
+      }
+    ],
+    "limitations": [
+      "仅限该词源条目记载；不能推出原句中的组织事实。"
+    ]
+  },
+  "bridge": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-012",
+    "contextId": "V20261012-012-context",
+    "version": "1",
+    "location": "selected",
+    "strategies": [
+      "direct",
+      "contextualization"
+    ],
+    "anchorRefs": [
+      "capacity%1:23:00::"
+    ],
+    "targetRefs": [
+      "capacity%1:07:00::"
+    ],
+    "semanticText": "容量义提供“承接量有限”的理解入口，当前实际采用的是工作能力义：团队在当前条件下不能同时承接两项启动工作。",
+    "boundary": "这不是罐体容量的字面用法，也未证明任何成员缺乏技能。",
+    "evidenceRefs": [
+      {
+        "sourceId": "oewn-2025",
+        "sourceVersion": "2025",
+        "locator": "entries-c.json/capacity/n / capacity%1:07:00::",
+        "supportedClaim": "capability to perform or produce",
+        "url": "https://en-word.net/"
+      }
+    ],
+    "historyLink": {
+      "text": "早期容纳／能力用法与后来的工业生产能力义可帮助理解“能承接多少”。本句的团队负荷是现代语境具体化，史源并不规定怎样计算团队产能。",
+      "relationType": "documented_usage_with_bounded_editorial_link",
+      "claimRefs": [
+        "history-capacity-claim"
+      ],
+      "limitation": "这不是罐体容量的字面用法，也未证明任何成员缺乏技能。"
+    },
+    "historyClaimRefs": [
+      "history-capacity-claim"
+    ],
+    "returnTargets": [
+      "wl-common",
+      "wl-history"
+    ]
+  },
+  "analysis": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-012",
+    "contextId": "V20261012-012-context",
+    "version": "1",
+    "promptHash": "aaf3bd1e99daf47a70a2a158973652d67ff14dafcfc1748b3fc2a09d719885db",
+    "depth": "standard",
+    "depthReason": "需辨析相邻用法并保留原句的承诺或证据边界。",
+    "coverage": {
+      "syntax": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "syntax-concept"
+        ]
+      },
+      "concept": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "syntax-concept"
+        ]
+      },
+      "contrast": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "contrast"
+        ]
+      },
+      "languageGame": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "game-neighbors"
+        ]
+      },
+      "englishNeighbors": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "game-neighbors"
+        ]
+      },
+      "pragmaticAction": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "action"
+        ]
+      },
+      "workplaceUse": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "workplace"
+        ]
+      }
+    },
+    "blocks": [
+      {
+        "blockId": "syntax-concept",
+        "dimensions": [
+          "syntax",
+          "concept"
+        ],
+        "text": "do not have否定“拥有足够能力”；to start both projects界定能力用途，both指两个都启动，并非两个都不能做。 缺的可能是人手、设备时间或审核能力，原句没有指定哪一种。应把需求与可用资源放在同一时间范围比较。",
+        "sourceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-c.json/capacity/n / capacity%1:07:00::",
+            "supportedClaim": "capability to perform or produce",
+            "url": "https://en-word.net/"
+          }
+        ],
+        "title": "句子结构与当前所指"
+      },
+      {
+        "blockId": "contrast",
+        "dimensions": [
+          "contrast"
+        ],
+        "text": "capacity关注能承接多少工作；capability常关注是否具备某种本领或技术。会做一项工艺，不代表本周有空余产能接另一项任务。",
+        "sourceRefs": [],
+        "title": "容易混淆的地方"
+      },
+      {
+        "blockId": "game-neighbors",
+        "dimensions": [
+          "languageGame",
+          "englishNeighbors"
+        ],
+        "text": "这是资源负荷讨论。相关方可以提供可用工时、已承诺任务及启动先后选择；不能未经沟通就默认加班或增员。 available capacity连到现有负荷；capacity constraint连到限制；start both projects会引出Which one should start first?，因为缺口迫使排序。",
+        "sourceRefs": [],
+        "title": "讨论通常怎样继续"
+      },
+      {
+        "blockId": "action",
+        "dimensions": [
+          "pragmaticAction"
+        ],
+        "text": "说话者在说明同时启动的限制，为排优先级创造讨论空间，不是在永久否定两个项目。",
+        "sourceRefs": [],
+        "title": "说话者正在做什么"
+      },
+      {
+        "blockId": "workplace",
+        "dimensions": [
+          "workplaceUse"
+        ],
+        "text": "下面是迁移到制造业沟通的新例句；不代表原场景中已发生的决定。",
+        "sourceRefs": [],
+        "title": "迁移到工作情境"
+      }
+    ],
+    "workplaceUse": [
+      {
+        "en": "Do we have capacity for another pilot run this week?",
+        "zh": "这周我们有能力再做一次试生产吗？",
+        "whenToUse": "排产前核对可用资源。",
+        "limitation": "原创教学表达；具体权限和流程以实际约定为准。",
+        "origin": "original"
+      },
+      {
+        "en": "We have the capability, but not enough capacity this month.",
+        "zh": "我们具备这项能力，但这个月可用产能不足。",
+        "whenToUse": "区别技术能力与当前负荷。",
+        "limitation": "原创教学表达；具体权限和流程以实际约定为准。",
+        "origin": "original"
+      }
+    ],
+    "practiceRefs": [],
+    "edges": []
+  },
+  "practices": [],
+  "sources": [
+    {
+      "schemaVersion": 1,
+      "sourceId": "original-vocab",
+      "version": "2026-11-16",
+      "title": "原词库教学句／转述",
+      "url": "public/vocabulary.json",
+      "accessMode": "user_material",
+      "retrievedAt": "2026-11-16T00:00:00+08:00",
+      "coverage": "partial",
+      "rights": "用户授权处理原词库",
+      "limitations": [
+        "非外部作者逐字引文；保留原ID与原句"
+      ]
+    },
+    {
+      "schemaVersion": 1,
+      "sourceId": "oewn-2025",
+      "version": "2025",
+      "title": "Open English Wordnet 2025",
+      "url": "https://en-word.net/",
+      "accessMode": "licensed_snapshot",
+      "retrievedAt": "2026-11-16T00:00:00+08:00",
+      "coverage": "partial",
+      "rights": "CC BY 4.0 + Princeton notice",
+      "limitations": [
+        "本包仅选部分源义；中文非官方译文"
+      ]
+    },
+    {
+      "schemaVersion": 1,
+      "sourceId": "history-capacity",
+      "version": "2026-11-16",
+      "title": "history-capacity",
+      "url": "https://www.etymonline.com/word/capacity",
+      "accessMode": "page",
+      "retrievedAt": "2026-11-16T00:00:00+08:00",
+      "coverage": "partial",
+      "rights": "必要短引与中文整理，不声称批量复制许可",
+      "limitations": [
+        "仅支持记录中的具体主张，不代表完整条目"
+      ]
+    }
+  ],
+  "verifiedIPA": null,
+  "dictionaryURL": "https://en-word.net/",
+  "historyURL": "https://www.etymonline.com/word/capacity"
+}

@@ -1,0 +1,1044 @@
+{
+  "schemaVersion": 1,
+  "batchId": "r2-50-20261116",
+  "planFreezeId": "v10-plan-r2-20261116-01",
+  "runAuthorizationRef": "authorization.json",
+  "entryIds": [
+    "V20261012-002",
+    "V20261012-012",
+    "V20261012-022",
+    "V20261012-024",
+    "V20261012-053",
+    "V20261012-078",
+    "V20261012-076",
+    "V20261012-093",
+    "V20261012-100",
+    "V20261014-075",
+    "V20261014-076",
+    "V20261029-005",
+    "V20261014-003",
+    "V20261012-117",
+    "V20261018-106",
+    "V20261016-103",
+    "V20261016-119",
+    "V20261012-020",
+    "V20261012-019",
+    "V20261012-015",
+    "V20261012-018",
+    "V20261012-010",
+    "V20261012-006",
+    "V20261012-088",
+    "V20261012-004",
+    "V20261012-005",
+    "V20261012-007",
+    "V20261012-008",
+    "V20261012-009",
+    "V20261012-011",
+    "V20261012-013",
+    "V20261012-014",
+    "V20261012-016",
+    "V20261012-017",
+    "V20261012-021",
+    "V20261012-023",
+    "V20261012-025",
+    "V20261012-026",
+    "V20261012-028",
+    "V20261012-029",
+    "V20261012-030",
+    "V20261012-031",
+    "V20261012-032",
+    "V20261012-033",
+    "V20261012-034",
+    "V20261012-035",
+    "V20261012-036",
+    "V20261012-037",
+    "V20261012-038",
+    "V20261012-040"
+  ],
+  "itemStates": [
+    {
+      "entryId": "V20261012-002",
+      "contextId": "V20261012-002-context",
+      "revision": 0,
+      "state": "reviewed",
+      "inputHash": "26ea5a6891f34b0e95c9cdd01bda50399b1f39cabac60c9041a746628ad0caf4",
+      "artifactHash": "dd7b07442d3e48c08a37659e004a8c6cc0ca27ee09e7bad0dd1f2852512f777e",
+      "reviewRefs": [
+        "independent-r1-V20261012-002"
+      ],
+      "blockers": [],
+      "revisionAttempts": 1,
+      "author": "root assistant",
+      "reviewPaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\reviews\\independent-r1\\V20261012-002.json"
+      ],
+      "inputPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-002\\r1/input.json",
+      "artifactPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-002\\r1/bundle.json"
+    },
+    {
+      "entryId": "V20261012-012",
+      "contextId": "V20261012-012-context",
+      "revision": 0,
+      "state": "reviewed",
+      "inputHash": "cc60ef30731e242a1e7ba24626b9d47b295816fd7e5b1dec1b43026bd66d21dc",
+      "artifactHash": "d32c6e6db1cf318b9bf1aa7909832053c205339371be0572de5ca5824b01e0f4",
+      "reviewRefs": [
+        "independent-r1-V20261012-012"
+      ],
+      "blockers": [],
+      "revisionAttempts": 1,
+      "author": "root assistant",
+      "reviewPaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\reviews\\independent-r1\\V20261012-012.json"
+      ],
+      "inputPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-012\\r1/input.json",
+      "artifactPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-012\\r1/bundle.json"
+    },
+    {
+      "entryId": "V20261012-022",
+      "contextId": "V20261012-022-context",
+      "revision": 0,
+      "state": "reviewed",
+      "inputHash": "bfa75be9af7209135d0325382c5e295583f408b5ad48fd2807e8c027408df82f",
+      "artifactHash": "7f13c3719d58c0df173c102838bac5ce1fe642b8f57e485433726acf910ec691",
+      "reviewRefs": [
+        "independent-r1-V20261012-022"
+      ],
+      "blockers": [],
+      "revisionAttempts": 1,
+      "author": "root assistant",
+      "reviewPaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\reviews\\independent-r1\\V20261012-022.json"
+      ],
+      "inputPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-022\\r1/input.json",
+      "artifactPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-022\\r1/bundle.json"
+    },
+    {
+      "entryId": "V20261012-024",
+      "contextId": "V20261012-024-context",
+      "revision": 0,
+      "state": "reviewed",
+      "inputHash": "ddfe1a846b8b4e0a70b4ddb45f2add0c11c1162753aa1efc4b3aa76236325957",
+      "artifactHash": "573cce5bdadadbc119e670693dbbda8cadb14e12638af1e0f029d33d16214e38",
+      "reviewRefs": [
+        "independent-r1-V20261012-024"
+      ],
+      "blockers": [],
+      "revisionAttempts": 1,
+      "author": "root assistant",
+      "reviewPaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\reviews\\independent-r1\\V20261012-024.json"
+      ],
+      "inputPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-024\\r1/input.json",
+      "artifactPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-024\\r1/bundle.json"
+    },
+    {
+      "entryId": "V20261012-053",
+      "contextId": "V20261012-053-context",
+      "revision": 0,
+      "state": "reviewed",
+      "inputHash": "e82cc234e5fbab8b9056b07d6d8bc8fe1b797bba585e66d88d6e591d43e67074",
+      "artifactHash": "8c932940a3380376f62e74ecfa7959d1f7c44f0d1f8ffef4766ccf565d4cefb5",
+      "reviewRefs": [
+        "independent-r1-V20261012-053"
+      ],
+      "blockers": [],
+      "revisionAttempts": 1,
+      "author": "root assistant",
+      "reviewPaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\reviews\\independent-r1\\V20261012-053.json"
+      ],
+      "inputPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-053\\r1/input.json",
+      "artifactPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-053\\r1/bundle.json"
+    },
+    {
+      "entryId": "V20261012-078",
+      "contextId": "V20261012-078-context",
+      "revision": 0,
+      "state": "reviewed",
+      "inputHash": "b70a1858627cd9bb88056ac36d30951c0226150fecc1e40bdfc8571fc64a7cdc",
+      "artifactHash": "484ca3cf6137a7fdb998661293f271bc63662778a27f60e8dd2f687acc8d4317",
+      "reviewRefs": [
+        "independent-r1-V20261012-078"
+      ],
+      "blockers": [],
+      "revisionAttempts": 1,
+      "author": "root assistant",
+      "reviewPaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\reviews\\independent-r1\\V20261012-078.json"
+      ],
+      "inputPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-078\\r1/input.json",
+      "artifactPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-078\\r1/bundle.json"
+    },
+    {
+      "entryId": "V20261012-076",
+      "contextId": "V20261012-076-context",
+      "revision": 0,
+      "state": "reviewed",
+      "inputHash": "436b2194182c6c3d03fa2223909edfdc3a757bcc0ba6ee4fce815b7982df58e8",
+      "artifactHash": "93a24b8cc24848d026b87f51cc31ef4151f3d0a4f40947f03cd4c98c71a245b7",
+      "reviewRefs": [
+        "independent-r1-V20261012-076"
+      ],
+      "blockers": [],
+      "revisionAttempts": 1,
+      "author": "root assistant",
+      "reviewPaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\reviews\\independent-r1\\V20261012-076.json"
+      ],
+      "inputPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-076\\r1/input.json",
+      "artifactPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-076\\r1/bundle.json"
+    },
+    {
+      "entryId": "V20261012-093",
+      "contextId": "V20261012-093-context",
+      "revision": 0,
+      "state": "reviewed",
+      "inputHash": "e221429a6bd00586ba9cca6bcbe9d2adb66f87b1f1a8149862a75add738f2178",
+      "artifactHash": "99fb304881e744f6d9a25560d6c2410a9c4b01f5f47efa4e8f19cea5ea819069",
+      "reviewRefs": [
+        "independent-r1-V20261012-093"
+      ],
+      "blockers": [],
+      "revisionAttempts": 1,
+      "author": "root assistant",
+      "reviewPaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\reviews\\independent-r1\\V20261012-093.json"
+      ],
+      "inputPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-093\\r1/input.json",
+      "artifactPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-093\\r1/bundle.json"
+    },
+    {
+      "entryId": "V20261012-100",
+      "contextId": "V20261012-100-context",
+      "revision": 0,
+      "state": "reviewed",
+      "inputHash": "bcae522938be60998aa56379f1b0ab991a648285f48813ff9cae2750bab87321",
+      "artifactHash": "2e59423ce71c6fead8a9fbdf2b7c216fe39d87d21838d1b6553b0691cbcd1574",
+      "reviewRefs": [
+        "independent-r1-V20261012-100"
+      ],
+      "blockers": [],
+      "revisionAttempts": 1,
+      "author": "root assistant",
+      "reviewPaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\reviews\\independent-r1\\V20261012-100.json"
+      ],
+      "inputPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-100\\r1/input.json",
+      "artifactPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-100\\r1/bundle.json"
+    },
+    {
+      "entryId": "V20261014-075",
+      "contextId": "V20261014-075-context",
+      "revision": 0,
+      "state": "reviewed",
+      "inputHash": "ba17a4e91cdcfe316b6dbe23732a72dd608b59d2ee41f7cc08785050037331d2",
+      "artifactHash": "042ccfdcd322d0b2ba01d5f4312e8a763eb34dc2accef386349fcb302f0aadb3",
+      "reviewRefs": [
+        "independent-r1-V20261014-075"
+      ],
+      "blockers": [],
+      "revisionAttempts": 1,
+      "author": "root assistant",
+      "reviewPaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\reviews\\independent-r1\\V20261014-075.json"
+      ],
+      "inputPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261014-075\\r1/input.json",
+      "artifactPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261014-075\\r1/bundle.json"
+    },
+    {
+      "entryId": "V20261014-076",
+      "contextId": "V20261014-076-context",
+      "revision": 0,
+      "state": "reviewed",
+      "inputHash": "879522b946a67815e393f1b00450803c52acd0242dcb46123de69cba25248f28",
+      "artifactHash": "92df1e6b6406d82478aa451484445617068d09b119b8ddbcb8aff2f0bc730e4c",
+      "reviewRefs": [
+        "independent-r1-V20261014-076"
+      ],
+      "blockers": [],
+      "revisionAttempts": 1,
+      "author": "root assistant",
+      "reviewPaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\reviews\\independent-r1\\V20261014-076.json"
+      ],
+      "inputPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261014-076\\r1/input.json",
+      "artifactPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261014-076\\r1/bundle.json"
+    },
+    {
+      "entryId": "V20261029-005",
+      "contextId": "V20261029-005-context",
+      "revision": 0,
+      "state": "reviewed",
+      "inputHash": "bc1b65f4157d2051ba154e4569196a0f6ec13509778d52f10c21d0f4e31408e6",
+      "artifactHash": "8c391a1484cfa66bd23ee49764bed3a61ede65b726f936091f87790639232bd6",
+      "reviewRefs": [
+        "independent-r1-V20261029-005"
+      ],
+      "blockers": [],
+      "revisionAttempts": 1,
+      "author": "root assistant",
+      "reviewPaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\reviews\\independent-r1\\V20261029-005.json"
+      ],
+      "inputPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261029-005\\r1/input.json",
+      "artifactPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261029-005\\r1/bundle.json"
+    },
+    {
+      "entryId": "V20261014-003",
+      "contextId": "V20261014-003-context",
+      "revision": 0,
+      "state": "reviewed",
+      "inputHash": "6e4634ba5b3fa6a68905e27da2d3d83f2202b3160b9f8c19b7749fd858b0e3d6",
+      "artifactHash": "93fb672b202c35b2d008de38bee6a2cc543535434085213052e34eee6d355cdf",
+      "reviewRefs": [
+        "independent-r1-V20261014-003"
+      ],
+      "blockers": [],
+      "revisionAttempts": 1,
+      "author": "root assistant",
+      "reviewPaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\reviews\\independent-r1\\V20261014-003.json"
+      ],
+      "inputPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261014-003\\r1/input.json",
+      "artifactPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261014-003\\r1/bundle.json"
+    },
+    {
+      "entryId": "V20261012-117",
+      "contextId": "V20261012-117-context",
+      "revision": 0,
+      "state": "reviewed",
+      "inputHash": "a31d3ee2a70dfd5d2bcca26374745944a12c5c75f967765cb8c7ad0b12486591",
+      "artifactHash": "50969d692e2c351fdb27abb8a935b54c756bbf8665baee1748b0f1813c58b8e1",
+      "reviewRefs": [
+        "independent-r1-V20261012-117"
+      ],
+      "blockers": [],
+      "revisionAttempts": 1,
+      "author": "root assistant",
+      "reviewPaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\reviews\\independent-r1\\V20261012-117.json"
+      ],
+      "inputPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-117\\r1/input.json",
+      "artifactPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-117\\r1/bundle.json"
+    },
+    {
+      "entryId": "V20261018-106",
+      "contextId": "V20261018-106-context",
+      "revision": 0,
+      "state": "reviewed",
+      "inputHash": "d20eabd8c74e47055dab1435d1405525df48dc47bca8a3dda4bd3197264cba0d",
+      "artifactHash": "20998105b8570d5e366c3f1f4142e01a34f238b9c1bb52323586918777df035b",
+      "reviewRefs": [
+        "independent-r2-V20261018-106"
+      ],
+      "blockers": [],
+      "revisionAttempts": 2,
+      "author": "root assistant",
+      "reviewPaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\reviews\\independent-r2\\V20261018-106.json"
+      ],
+      "inputPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261018-106\\r2/input.json",
+      "artifactPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261018-106\\r2/bundle.json"
+    },
+    {
+      "entryId": "V20261016-103",
+      "contextId": "V20261016-103-context",
+      "revision": 0,
+      "state": "reviewed",
+      "inputHash": "2c3590d2fab55145283e9e7239d39aaccfa306dced39d88536647401f57d90a1",
+      "artifactHash": "4c884650831114fa0db59c3d68bd05cb4eb1b5b8ee51a9484ce256b26121816a",
+      "reviewRefs": [
+        "independent-r1-V20261016-103"
+      ],
+      "blockers": [],
+      "revisionAttempts": 1,
+      "author": "root assistant",
+      "reviewPaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\reviews\\independent-r1\\V20261016-103.json"
+      ],
+      "inputPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261016-103\\r1/input.json",
+      "artifactPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261016-103\\r1/bundle.json"
+    },
+    {
+      "entryId": "V20261016-119",
+      "contextId": "V20261016-119-context",
+      "revision": 0,
+      "state": "reviewed",
+      "inputHash": "f92497c12254ff457c362b02ba4ae5440d696546d8c601457e995c1f1a0dd7cd",
+      "artifactHash": "a4bcbb56d4cd4836b9b57a04dea54950f0c7e7a0744f037c5985170954089cb8",
+      "reviewRefs": [
+        "independent-r2-V20261016-119"
+      ],
+      "blockers": [],
+      "revisionAttempts": 2,
+      "author": "root assistant",
+      "reviewPaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\reviews\\independent-r2\\V20261016-119.json"
+      ],
+      "inputPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261016-119\\r2/input.json",
+      "artifactPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261016-119\\r2/bundle.json"
+    },
+    {
+      "entryId": "V20261012-020",
+      "contextId": "V20261012-020-context",
+      "revision": 0,
+      "state": "reviewed",
+      "inputHash": "9f8f9ce484594410a3a45d31b437393981540443b3f173a599cae98e6288b80e",
+      "artifactHash": "aa6a1dc9f9e9a2764c8268f697e6e19e6736d327655785ecb4f90ccc7f3cb9ce",
+      "reviewRefs": [
+        "independent-r2-V20261012-020"
+      ],
+      "blockers": [],
+      "revisionAttempts": 2,
+      "author": "root assistant",
+      "reviewPaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\reviews\\independent-r2\\V20261012-020.json"
+      ],
+      "inputPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-020\\r2/input.json",
+      "artifactPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-020\\r2/bundle.json"
+    },
+    {
+      "entryId": "V20261012-019",
+      "contextId": "V20261012-019-context",
+      "revision": 0,
+      "state": "reviewed",
+      "inputHash": "39c11e8329458726ab6a1b6df070cded084280d676ebf312ad4115359ab43e65",
+      "artifactHash": "7018215086aff9989c62d301517c128ee060a7021b9dd28af9bf0c9ba830c9cb",
+      "reviewRefs": [
+        "independent-r1-V20261012-019"
+      ],
+      "blockers": [],
+      "revisionAttempts": 1,
+      "author": "root assistant",
+      "reviewPaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\reviews\\independent-r1\\V20261012-019.json"
+      ],
+      "inputPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-019\\r1/input.json",
+      "artifactPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-019\\r1/bundle.json"
+    },
+    {
+      "entryId": "V20261012-015",
+      "contextId": "V20261012-015-context",
+      "revision": 0,
+      "state": "reviewed",
+      "inputHash": "c73f081be862d3c2c8a63e6fb7bcefb8f644f737b337f58bd4205d2a9bb2c0ea",
+      "artifactHash": "fefa228fec1040d64ef194a1fc76e9790e30f81bbde265126bf43d9d76d4c45e",
+      "reviewRefs": [
+        "independent-r1-V20261012-015"
+      ],
+      "blockers": [],
+      "revisionAttempts": 1,
+      "author": "root assistant",
+      "reviewPaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\reviews\\independent-r1\\V20261012-015.json"
+      ],
+      "inputPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-015\\r1/input.json",
+      "artifactPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-015\\r1/bundle.json"
+    },
+    {
+      "entryId": "V20261012-018",
+      "contextId": "V20261012-018-context",
+      "revision": 0,
+      "state": "reviewed",
+      "inputHash": "2deca705dc7dc411d1ceca533f17b967d0a21d4242fc7b968d367d999009abc6",
+      "artifactHash": "a6c1fadcdca6bb40a6f21458e0068e64d49c9d2bd93e835786d8a83555f8b220",
+      "reviewRefs": [
+        "independent-r1-V20261012-018"
+      ],
+      "blockers": [],
+      "revisionAttempts": 1,
+      "author": "root assistant",
+      "reviewPaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\reviews\\independent-r1\\V20261012-018.json"
+      ],
+      "inputPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-018\\r1/input.json",
+      "artifactPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-018\\r1/bundle.json"
+    },
+    {
+      "entryId": "V20261012-010",
+      "contextId": "V20261012-010-context",
+      "revision": 0,
+      "state": "reviewed",
+      "inputHash": "c7ce83dcb76a01c892c3c210aee1e2ec6b00d16cb79d144df3c67999ef95a577",
+      "artifactHash": "0b7ac37d395a02517e8f1967ce6c8a31bf6a1a0ff6af7956fb38e3ec685abe7d",
+      "reviewRefs": [
+        "independent-r1-V20261012-010"
+      ],
+      "blockers": [],
+      "revisionAttempts": 1,
+      "author": "root assistant",
+      "reviewPaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\reviews\\independent-r1\\V20261012-010.json"
+      ],
+      "inputPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-010\\r1/input.json",
+      "artifactPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-010\\r1/bundle.json"
+    },
+    {
+      "entryId": "V20261012-006",
+      "contextId": "V20261012-006-context",
+      "revision": 0,
+      "state": "reviewed",
+      "inputHash": "5d85d2af5c178d8f491b943e1c259f6e102eba1bb43ad9109743b99718c41982",
+      "artifactHash": "6f05d472c6d0d2c6d7958fc57b259bf36ad944d88f9dc0024e1a006230d21a1f",
+      "reviewRefs": [
+        "independent-r1-V20261012-006"
+      ],
+      "blockers": [],
+      "revisionAttempts": 1,
+      "author": "root assistant",
+      "reviewPaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\reviews\\independent-r1\\V20261012-006.json"
+      ],
+      "inputPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-006\\r1/input.json",
+      "artifactPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-006\\r1/bundle.json"
+    },
+    {
+      "entryId": "V20261012-088",
+      "contextId": "V20261012-088-context",
+      "revision": 0,
+      "state": "reviewed",
+      "inputHash": "4c8934e4ba14dbcfa094d17d99fbfbf02238a665dd996cc7074e0470a57e3326",
+      "artifactHash": "64182812ffa2d4c94cfdacf9284ec51cc4fe786b8d1a7041a88c83b3db9422c9",
+      "reviewRefs": [
+        "independent-r1-V20261012-088"
+      ],
+      "blockers": [],
+      "revisionAttempts": 1,
+      "author": "root assistant",
+      "reviewPaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\reviews\\independent-r1\\V20261012-088.json"
+      ],
+      "inputPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-088\\r1/input.json",
+      "artifactPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-088\\r1/bundle.json"
+    },
+    {
+      "entryId": "V20261012-004",
+      "contextId": "V20261012-004-context",
+      "revision": 0,
+      "state": "reviewed",
+      "inputHash": "419bb43e5b2d1f1207eba71421ddb03a94ccc0f3323f86e70b3e1f6720bb0751",
+      "artifactHash": "5deea2d6e324f38fe9449ef8f0c9e3a0272fc8153fd4a4705559a3deeda0ec53",
+      "reviewRefs": [
+        "independent-expansion-r1-V20261012-004"
+      ],
+      "blockers": [],
+      "revisionAttempts": 1,
+      "author": "root assistant",
+      "reviewPaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\reviews\\independent-expansion-r1\\V20261012-004.json"
+      ],
+      "inputPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-004\\r1/input.json",
+      "artifactPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-004\\r1/bundle.json"
+    },
+    {
+      "entryId": "V20261012-005",
+      "contextId": "V20261012-005-context",
+      "revision": 0,
+      "state": "reviewed",
+      "inputHash": "2d3caef26c44db2a34a7d2c44a268c9a782f3f40f717a99745108137a729f69a",
+      "artifactHash": "dc70f9f5aca28d6a63bdeda2b7ef7376f19cb4a8e6879b0caccfc1ea495feb72",
+      "reviewRefs": [
+        "independent-expansion-r1-V20261012-005"
+      ],
+      "blockers": [],
+      "revisionAttempts": 1,
+      "author": "root assistant",
+      "reviewPaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\reviews\\independent-expansion-r1\\V20261012-005.json"
+      ],
+      "inputPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-005\\r1/input.json",
+      "artifactPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-005\\r1/bundle.json"
+    },
+    {
+      "entryId": "V20261012-007",
+      "contextId": "V20261012-007-context",
+      "revision": 0,
+      "state": "reviewed",
+      "inputHash": "8f9c14a3fd17530c2c27a51bfc158cef3ed6979a00126e4971420c651188eec3",
+      "artifactHash": "f00a4f1b0e626c92a4aea3f9d3033649ff364860d7a1a8c0448e4c914f27b7c7",
+      "reviewRefs": [
+        "independent-expansion-r1-V20261012-007"
+      ],
+      "blockers": [],
+      "revisionAttempts": 1,
+      "author": "root assistant",
+      "reviewPaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\reviews\\independent-expansion-r1\\V20261012-007.json"
+      ],
+      "inputPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-007\\r1/input.json",
+      "artifactPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-007\\r1/bundle.json"
+    },
+    {
+      "entryId": "V20261012-008",
+      "contextId": "V20261012-008-context",
+      "revision": 0,
+      "state": "reviewed",
+      "inputHash": "271068ca47db70948caceb2eb5efb06c7333b1526c5c35c59be63fae0a30c7bf",
+      "artifactHash": "00f16162a3076b77004b66fd1f205fc820c4cc6a5ac3d347c86f41e8fad201e4",
+      "reviewRefs": [
+        "independent-expansion-r1-V20261012-008"
+      ],
+      "blockers": [],
+      "revisionAttempts": 1,
+      "author": "root assistant",
+      "reviewPaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\reviews\\independent-expansion-r1\\V20261012-008.json"
+      ],
+      "inputPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-008\\r1/input.json",
+      "artifactPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-008\\r1/bundle.json"
+    },
+    {
+      "entryId": "V20261012-009",
+      "contextId": "V20261012-009-context",
+      "revision": 0,
+      "state": "reviewed",
+      "inputHash": "833ae007fbecf8727c1ce42a2c05fb4dc021a78e732f2c830bd2854694474fee",
+      "artifactHash": "51f11d3f3966e1e1f2f790c8e0dc38a3d45689d0318bdcab60a3192d1db85548",
+      "reviewRefs": [
+        "independent-expansion-r1-V20261012-009"
+      ],
+      "blockers": [],
+      "revisionAttempts": 1,
+      "author": "root assistant",
+      "reviewPaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\reviews\\independent-expansion-r1\\V20261012-009.json"
+      ],
+      "inputPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-009\\r1/input.json",
+      "artifactPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-009\\r1/bundle.json"
+    },
+    {
+      "entryId": "V20261012-011",
+      "contextId": "V20261012-011-context",
+      "revision": 0,
+      "state": "reviewed",
+      "inputHash": "5b95b701996b1966352709f45ec559832cca939ea0d740b889e9f2646ec22559",
+      "artifactHash": "d77f41a90eead39c2fc0aaadba45ee81834f94b3ce84199413b860b581893fd6",
+      "reviewRefs": [
+        "independent-expansion-r1-V20261012-011"
+      ],
+      "blockers": [],
+      "revisionAttempts": 1,
+      "author": "root assistant",
+      "reviewPaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\reviews\\independent-expansion-r1\\V20261012-011.json"
+      ],
+      "inputPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-011\\r1/input.json",
+      "artifactPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-011\\r1/bundle.json"
+    },
+    {
+      "entryId": "V20261012-013",
+      "contextId": "V20261012-013-context",
+      "revision": 0,
+      "state": "reviewed",
+      "inputHash": "36eab520aaa8a4217d28026d989947c3c49b136934a2eae33db5d24be56e9a3e",
+      "artifactHash": "282e5c5bd216c7cfb9c8557820664aee259f72123e9a76c5028a2ffc4ad4802f",
+      "reviewRefs": [
+        "independent-expansion-r1-V20261012-013"
+      ],
+      "blockers": [],
+      "revisionAttempts": 1,
+      "author": "root assistant",
+      "reviewPaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\reviews\\independent-expansion-r1\\V20261012-013.json"
+      ],
+      "inputPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-013\\r1/input.json",
+      "artifactPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-013\\r1/bundle.json"
+    },
+    {
+      "entryId": "V20261012-014",
+      "contextId": "V20261012-014-context",
+      "revision": 0,
+      "state": "reviewed",
+      "inputHash": "1e6bc54bf1feabe7cf002f7164fb3a641e254fb29ba88e8b47adc8766577cd36",
+      "artifactHash": "83a5c0dc1f74a77606bd69639a2efe0ed8d5f3adc74511308186ab08c7d25c97",
+      "reviewRefs": [
+        "independent-expansion-r1-V20261012-014"
+      ],
+      "blockers": [],
+      "revisionAttempts": 1,
+      "author": "root assistant",
+      "reviewPaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\reviews\\independent-expansion-r1\\V20261012-014.json"
+      ],
+      "inputPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-014\\r1/input.json",
+      "artifactPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-014\\r1/bundle.json"
+    },
+    {
+      "entryId": "V20261012-016",
+      "contextId": "V20261012-016-context",
+      "revision": 0,
+      "state": "reviewed",
+      "inputHash": "cf2a71b2042d11d7a68d706202b9b5e29eb18889ffdacc0bfde14c7d24101fd6",
+      "artifactHash": "5bcdc06c05fad12c45e4d1d296b645014e56043a2c82b55191aaa50cc62f7fdb",
+      "reviewRefs": [
+        "independent-expansion-r1-V20261012-016"
+      ],
+      "blockers": [],
+      "revisionAttempts": 1,
+      "author": "root assistant",
+      "reviewPaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\reviews\\independent-expansion-r1\\V20261012-016.json"
+      ],
+      "inputPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-016\\r1/input.json",
+      "artifactPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-016\\r1/bundle.json"
+    },
+    {
+      "entryId": "V20261012-017",
+      "contextId": "V20261012-017-context",
+      "revision": 0,
+      "state": "reviewed",
+      "inputHash": "13e20713c0ca3d468503ec4259505126c38bd7a4594307eda66f9b5b4afb9390",
+      "artifactHash": "57385ed0258b090aee4bc6a86083ccb0f88b7942975d55bf4dcf956a5d843df8",
+      "reviewRefs": [
+        "independent-expansion-r1-V20261012-017"
+      ],
+      "blockers": [],
+      "revisionAttempts": 1,
+      "author": "root assistant",
+      "reviewPaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\reviews\\independent-expansion-r1\\V20261012-017.json"
+      ],
+      "inputPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-017\\r1/input.json",
+      "artifactPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-017\\r1/bundle.json"
+    },
+    {
+      "entryId": "V20261012-021",
+      "contextId": "V20261012-021-context",
+      "revision": 0,
+      "state": "reviewed",
+      "inputHash": "192bf7aac97e71c65cee5a6a2f3a09757f3cd2b6ad3c67f0872325a6017ba462",
+      "artifactHash": "95b563fce5082be90cf6af51887241922b9077924e849f39ed814c0f7f663eb6",
+      "reviewRefs": [
+        "independent-expansion-r1-V20261012-021"
+      ],
+      "blockers": [],
+      "revisionAttempts": 1,
+      "author": "root assistant",
+      "reviewPaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\reviews\\independent-expansion-r1\\V20261012-021.json"
+      ],
+      "inputPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-021\\r1/input.json",
+      "artifactPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-021\\r1/bundle.json"
+    },
+    {
+      "entryId": "V20261012-023",
+      "contextId": "V20261012-023-context",
+      "revision": 0,
+      "state": "reviewed",
+      "inputHash": "4f8dda94a281af43577fab78ac6e2c61f77f53cba4055f1f9148cf03de9cd0f7",
+      "artifactHash": "c9c05117001407b6a25ff2a5616099092054aaff57eea8870330f8062a823b80",
+      "reviewRefs": [
+        "independent-expansion-r1-V20261012-023"
+      ],
+      "blockers": [],
+      "revisionAttempts": 1,
+      "author": "root assistant",
+      "reviewPaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\reviews\\independent-expansion-r1\\V20261012-023.json"
+      ],
+      "inputPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-023\\r1/input.json",
+      "artifactPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-023\\r1/bundle.json"
+    },
+    {
+      "entryId": "V20261012-025",
+      "contextId": "V20261012-025-context",
+      "revision": 0,
+      "state": "reviewed",
+      "inputHash": "d7999498f0427bebbd51ee33c55015a243a22ee75c3ddab8d01d0c62165b4e80",
+      "artifactHash": "2073cee99edf7091ee87b8941ac743f2cba63e51abd492e1e5125063e995b53a",
+      "reviewRefs": [
+        "independent-expansion-r1-V20261012-025"
+      ],
+      "blockers": [],
+      "revisionAttempts": 1,
+      "author": "root assistant",
+      "reviewPaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\reviews\\independent-expansion-r1\\V20261012-025.json"
+      ],
+      "inputPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-025\\r1/input.json",
+      "artifactPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-025\\r1/bundle.json"
+    },
+    {
+      "entryId": "V20261012-026",
+      "contextId": "V20261012-026-context",
+      "revision": 0,
+      "state": "reviewed",
+      "inputHash": "19f95bc7d4539a5caaa8c82760756423ee2143e0beaced5e5a6d3067c17f452e",
+      "artifactHash": "37ec57c93a6203b2535290b418922843bb936f87f4a15e24a66d7619cfae9bf8",
+      "reviewRefs": [
+        "independent-expansion-r0-V20261012-026"
+      ],
+      "blockers": [],
+      "revisionAttempts": 0,
+      "author": "root assistant",
+      "reviewPaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\reviews\\independent-expansion-r0\\V20261012-026.json"
+      ],
+      "inputPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-026\\r0/input.json",
+      "artifactPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-026\\r0/bundle.json"
+    },
+    {
+      "entryId": "V20261012-028",
+      "contextId": "V20261012-028-context",
+      "revision": 0,
+      "state": "reviewed",
+      "inputHash": "3d6fee1e1d13e5ef6726af36d55e5fe3120f5720036feb0aeec28f95b9ee9487",
+      "artifactHash": "57ba478f627ba41c249e4abf7b7324d824b6879c366770e0f2416817f83deb03",
+      "reviewRefs": [
+        "independent-expansion-r1-V20261012-028"
+      ],
+      "blockers": [],
+      "revisionAttempts": 1,
+      "author": "root assistant",
+      "reviewPaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\reviews\\independent-expansion-r1\\V20261012-028.json"
+      ],
+      "inputPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-028\\r1/input.json",
+      "artifactPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-028\\r1/bundle.json"
+    },
+    {
+      "entryId": "V20261012-029",
+      "contextId": "V20261012-029-context",
+      "revision": 0,
+      "state": "reviewed",
+      "inputHash": "aeb44524d8c245f5a89bfe4387d730185cdbd7faf13f945367123ffef55174e3",
+      "artifactHash": "311415fac52a851ed5c877e4bf7a1d331873eb2959d8408a0b1b8db656ceef3e",
+      "reviewRefs": [
+        "independent-expansion-r1-V20261012-029"
+      ],
+      "blockers": [],
+      "revisionAttempts": 1,
+      "author": "root assistant",
+      "reviewPaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\reviews\\independent-expansion-r1\\V20261012-029.json"
+      ],
+      "inputPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-029\\r1/input.json",
+      "artifactPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-029\\r1/bundle.json"
+    },
+    {
+      "entryId": "V20261012-030",
+      "contextId": "V20261012-030-context",
+      "revision": 0,
+      "state": "reviewed",
+      "inputHash": "328685c1ffa37716940bf7c9cfcef7b9e3c25006650a7074922140aa4f6fd774",
+      "artifactHash": "c991c0a76d6b2144dd608701b5f3e8e79b5d8dc01af76e65d150f79e5c174fd0",
+      "reviewRefs": [
+        "independent-expansion-r0-V20261012-030"
+      ],
+      "blockers": [],
+      "revisionAttempts": 0,
+      "author": "root assistant",
+      "reviewPaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\reviews\\independent-expansion-r0\\V20261012-030.json"
+      ],
+      "inputPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-030\\r0/input.json",
+      "artifactPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-030\\r0/bundle.json"
+    },
+    {
+      "entryId": "V20261012-031",
+      "contextId": "V20261012-031-context",
+      "revision": 0,
+      "state": "reviewed",
+      "inputHash": "c8b90cc36fcc41a14973878c79417deb9fed52f61c7a7ae397503be3239ea0b8",
+      "artifactHash": "803de6917d6393cdfb003f67f4446e7a8f583b6ede0e1c07001a679e955894f8",
+      "reviewRefs": [
+        "independent-expansion-r1-V20261012-031"
+      ],
+      "blockers": [],
+      "revisionAttempts": 1,
+      "author": "root assistant",
+      "reviewPaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\reviews\\independent-expansion-r1\\V20261012-031.json"
+      ],
+      "inputPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-031\\r1/input.json",
+      "artifactPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-031\\r1/bundle.json"
+    },
+    {
+      "entryId": "V20261012-032",
+      "contextId": "V20261012-032-context",
+      "revision": 0,
+      "state": "reviewed",
+      "inputHash": "272aaeec2bc738143937dd650990547fb91c78147c7271df40821b4f8ea6780b",
+      "artifactHash": "8b2019c09ce1bd71da638b207186ec992c8f160aa3c1e877e7d98fc72c9da482",
+      "reviewRefs": [
+        "independent-expansion-r1-V20261012-032"
+      ],
+      "blockers": [],
+      "revisionAttempts": 1,
+      "author": "root assistant",
+      "reviewPaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\reviews\\independent-expansion-r1\\V20261012-032.json"
+      ],
+      "inputPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-032\\r1/input.json",
+      "artifactPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-032\\r1/bundle.json"
+    },
+    {
+      "entryId": "V20261012-033",
+      "contextId": "V20261012-033-context",
+      "revision": 0,
+      "state": "reviewed",
+      "inputHash": "6fe2647353739175936aa044e2ffa283d52bb02eeccb3e09c8c210c740641dd0",
+      "artifactHash": "3d2a590868f658ac2c9009c922108a21f67a412e8b4db9b5777f5015565403ce",
+      "reviewRefs": [
+        "independent-expansion-r1-V20261012-033"
+      ],
+      "blockers": [],
+      "revisionAttempts": 1,
+      "author": "root assistant",
+      "reviewPaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\reviews\\independent-expansion-r1\\V20261012-033.json"
+      ],
+      "inputPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-033\\r1/input.json",
+      "artifactPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-033\\r1/bundle.json"
+    },
+    {
+      "entryId": "V20261012-034",
+      "contextId": "V20261012-034-context",
+      "revision": 0,
+      "state": "reviewed",
+      "inputHash": "9cbe4b7c7c9badc25315f6131970e29ebbb90055aabe7a272e7c358c6b6c60cf",
+      "artifactHash": "9c850f4abb815d4271b42f9d8e54e2723c68580a74f8fbea54518bd3c0840341",
+      "reviewRefs": [
+        "independent-expansion-r1-V20261012-034"
+      ],
+      "blockers": [],
+      "revisionAttempts": 1,
+      "author": "root assistant",
+      "reviewPaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\reviews\\independent-expansion-r1\\V20261012-034.json"
+      ],
+      "inputPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-034\\r1/input.json",
+      "artifactPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-034\\r1/bundle.json"
+    },
+    {
+      "entryId": "V20261012-035",
+      "contextId": "V20261012-035-context",
+      "revision": 0,
+      "state": "reviewed",
+      "inputHash": "a1f862a0febaf6b806064901d2a19b89ef61883d2b62d437d9eab5e1afc34b87",
+      "artifactHash": "b7caae35c88c3a50514abe6acf4ee696a1388ab0665d305b498530eebe497c24",
+      "reviewRefs": [
+        "independent-expansion-r1-V20261012-035"
+      ],
+      "blockers": [],
+      "revisionAttempts": 1,
+      "author": "root assistant",
+      "reviewPaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\reviews\\independent-expansion-r1\\V20261012-035.json"
+      ],
+      "inputPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-035\\r1/input.json",
+      "artifactPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-035\\r1/bundle.json"
+    },
+    {
+      "entryId": "V20261012-036",
+      "contextId": "V20261012-036-context",
+      "revision": 0,
+      "state": "reviewed",
+      "inputHash": "612349f10fa3077d24f1936f957685db1844fcacf9736ec1428dc1b192cb2af9",
+      "artifactHash": "4a67354608a9013f28976154f6b65ee4f36af716f3837b0f73d548429a5b4f81",
+      "reviewRefs": [
+        "independent-expansion-r1-V20261012-036"
+      ],
+      "blockers": [],
+      "revisionAttempts": 1,
+      "author": "root assistant",
+      "reviewPaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\reviews\\independent-expansion-r1\\V20261012-036.json"
+      ],
+      "inputPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-036\\r1/input.json",
+      "artifactPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-036\\r1/bundle.json"
+    },
+    {
+      "entryId": "V20261012-037",
+      "contextId": "V20261012-037-context",
+      "revision": 0,
+      "state": "reviewed",
+      "inputHash": "0323f4ab5cc76708d04eb751943044a03458955c4267aecbdd03b1c8e25dac10",
+      "artifactHash": "4216402f0de59692b9a667b576f003f80f87f300d963e8973aea34b7757085b6",
+      "reviewRefs": [
+        "independent-expansion-r1-V20261012-037"
+      ],
+      "blockers": [],
+      "revisionAttempts": 1,
+      "author": "root assistant",
+      "reviewPaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\reviews\\independent-expansion-r1\\V20261012-037.json"
+      ],
+      "inputPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-037\\r1/input.json",
+      "artifactPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-037\\r1/bundle.json"
+    },
+    {
+      "entryId": "V20261012-038",
+      "contextId": "V20261012-038-context",
+      "revision": 0,
+      "state": "reviewed",
+      "inputHash": "96caa78c484089f22184735f09cb012cd33351724c7abaf20705d2f5b95cebb0",
+      "artifactHash": "77ca79f5eb24bd4275d5a704115bca81c26a96ef004c4f4ec38950bdd0d590a8",
+      "reviewRefs": [
+        "independent-expansion-r1-V20261012-038"
+      ],
+      "blockers": [],
+      "revisionAttempts": 1,
+      "author": "root assistant",
+      "reviewPaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\reviews\\independent-expansion-r1\\V20261012-038.json"
+      ],
+      "inputPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-038\\r1/input.json",
+      "artifactPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-038\\r1/bundle.json"
+    },
+    {
+      "entryId": "V20261012-040",
+      "contextId": "V20261012-040-context",
+      "revision": 0,
+      "state": "reviewed",
+      "inputHash": "17fb4a191f40da8ecb6ee679576036cdbe7723b3f4e329254dccd35115f69467",
+      "artifactHash": "2cf54886f805af0686a5fa62fbb97ad35f58fb3ead9db1744cd7281792610fb6",
+      "reviewRefs": [
+        "independent-expansion-r1-V20261012-040"
+      ],
+      "blockers": [],
+      "revisionAttempts": 1,
+      "author": "root assistant",
+      "reviewPaths": [
+        "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\reviews\\independent-expansion-r1\\V20261012-040.json"
+      ],
+      "inputPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-040\\r1/input.json",
+      "artifactPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\entries\\V20261012-040\\r1/bundle.json"
+    }
+  ],
+  "dependencies": {
+    "selectionHash": "8bb3489a96f30b5e96fa6a58199901e1e7d00bec387a20d84590f27719307d6c"
+  },
+  "moduleLocks": {},
+  "metrics": {
+    "cost": null,
+    "costReason": "tool/model billing not available per entry"
+  },
+  "phase": "expansion",
+  "calibrationPassed": true,
+  "designPass": true,
+  "engineeringPass": true,
+  "candidateLock": "7384c8eb381d627128bd7a0b5c159303846da97b1c60300b3a68c62d8b734d76",
+  "accepted": false,
+  "published": false,
+  "qaEvidence": {
+    "design": {
+      "path": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\candidate-all\\design.json",
+      "sha256": "6a6ceb9f091174df3c0a8fa61a2fa2bde16e3036342d1783e1f15f6730218cfc"
+    },
+    "engineering": {
+      "path": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116\\candidate-all\\engineering.json",
+      "sha256": "6a0a31882914df4d8dac876bd90557fcea475f8525436dfe4237b18b78ad1cd3"
+    }
+  },
+  "renderLockSHA": "68a215c83df30dc257f0ab0e0311cdd0899c6e73817ef93e7951309c80e62693",
+  "counts": {
+    "selected": 50,
+    "drafted": 50,
+    "fullPackageReviewed": 50,
+    "accepted": 0,
+    "published": 0
+  },
+  "scope": "isolated trial; not learner acceptance or publication"
+}

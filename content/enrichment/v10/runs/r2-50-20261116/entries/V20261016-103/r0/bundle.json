@@ -1,0 +1,341 @@
+{
+  "snapshot": {
+    "schemaVersion": 1,
+    "entryId": "V20261016-103",
+    "term": "credulous",
+    "quote": "The author uses credulous to criticize voters who accepted the promise.",
+    "batch": "2026-10-16",
+    "originalFileSHA": "ec65d33d6da99ebad2577f6c9f9938499823d29d117f43532302cf964a4c60a3",
+    "quoteSHA": "dab1b11c94b0a026cc24f01975d8c0dea23848d01b39ae61599d46537fedc310",
+    "originalIPA": "ˈkredʒ.ə.ləs",
+    "originalPOS": "adj.",
+    "originalMeaning": "容易轻信、缺少必要怀疑；文中带有批评语气"
+  },
+  "selection": {
+    "schemaVersion": 1,
+    "entryId": "V20261016-103",
+    "version": "1",
+    "inventoryRefs": [
+      "inventory:V20261016-103"
+    ],
+    "selectedSenseIds": [
+      "credulous%3:00:00::"
+    ],
+    "reason": "按学习用途选择常见或易混义；这里不是语料频率排名。",
+    "general": "轻信的；缺少证据也容易相信",
+    "senses": [
+      {
+        "senseId": "credulous%3:00:00::",
+        "title": "轻信的；缺少证据也容易相信",
+        "usageLabels": [
+          "adj.",
+          "精选学习义"
+        ],
+        "explanationZh": "轻信的；缺少证据也容易相信",
+        "examples": [
+          {
+            "en": "A credulous reader may accept the story without checking it.",
+            "zh": "轻信的读者可能未经核查就相信这个故事。",
+            "origin": "original",
+            "sourceRef": null,
+            "usageNote": "原创教学例句，不是来源原话"
+          }
+        ],
+        "evidenceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-c.json/credulous/a / credulous%3:00:00::",
+            "supportedClaim": "disposed to believe on little evidence",
+            "url": "https://en-word.net/"
+          }
+        ]
+      }
+    ]
+  },
+  "senses": [
+    {
+      "schemaVersion": 1,
+      "senseId": "credulous%3:00:00::",
+      "lexicalEntryId": "lex:credulous",
+      "pos": "adj.",
+      "meaning": {
+        "definitionEn": "disposed to believe on little evidence",
+        "glossZh": "轻信的；缺少证据也容易相信",
+        "glossOrigin": "editorial"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "oewn-2025",
+          "sourceVersion": "2025",
+          "locator": "entries-c.json/credulous/a / credulous%3:00:00::",
+          "supportedClaim": "disposed to believe on little evidence",
+          "url": "https://en-word.net/"
+        }
+      ],
+      "version": "1"
+    }
+  ],
+  "inventory": {
+    "schemaVersion": 1,
+    "inventoryId": "inventory:V20261016-103",
+    "version": "1",
+    "lexicalEntryId": "lex:credulous",
+    "sources": [
+      "oewn-2025"
+    ],
+    "senseIds": [
+      "credulous%3:00:00::"
+    ],
+    "coverageStatus": "partial"
+  },
+  "context": {
+    "schemaVersion": 1,
+    "contextId": "V20261016-103-context",
+    "entryId": "V20261016-103",
+    "sourceRef": "original-vocab",
+    "quote": "The author uses credulous to criticize voters who accepted the promise.",
+    "quoteSHA": "dab1b11c94b0a026cc24f01975d8c0dea23848d01b39ae61599d46537fedc310",
+    "translation": "作者使用credulous来批评那些相信了该承诺的选民。",
+    "quoteType": "原词库教学例句／转述；未认定为外部作者逐字引文",
+    "meaning": "作者对选民轻易相信承诺所作的批评性描述",
+    "qualifiers": {
+      "polarity": "affirmative",
+      "modality": [],
+      "conditions": [],
+      "agents": [],
+      "timeScope": null,
+      "excludedInferences": [
+        "未提供外部文章出处，不认定批评本身已被证实。"
+      ]
+    },
+    "location": "selected",
+    "senseRefs": [
+      "credulous%3:00:00::"
+    ],
+    "targetSpans": [
+      {
+        "start": 16,
+        "end": 25,
+        "text": "credulous",
+        "mappingType": "exact",
+        "note": "原句精确匹配；词形变化时不伪造span"
+      }
+    ],
+    "context": "原库对文章用词的教学转述；作者身份和文章出处未在本句中核实。"
+  },
+  "history": {
+    "schemaVersion": 1,
+    "lexicalEntryId": "lex:credulous",
+    "version": "1",
+    "summary": "",
+    "claims": [],
+    "sourceRefs": [],
+    "limitations": [
+      "未核实历史资料，不编造词源或年代。"
+    ]
+  },
+  "bridge": {
+    "schemaVersion": 1,
+    "entryId": "V20261016-103",
+    "contextId": "V20261016-103-context",
+    "version": "1",
+    "location": "selected",
+    "strategies": [
+      "direct",
+      "contextualization"
+    ],
+    "anchorRefs": [
+      "credulous%3:00:00::"
+    ],
+    "targetRefs": [
+      "credulous%3:00:00::"
+    ],
+    "semanticText": "轻信义在这里具体落到相信承诺的选民身上。不能改读成“这些选民可信”，也不能把作者的评价升级为我们的事实断言。",
+    "boundary": "未提供外部文章出处，不认定批评本身已被证实。",
+    "evidenceRefs": [
+      {
+        "sourceId": "oewn-2025",
+        "sourceVersion": "2025",
+        "locator": "entries-c.json/credulous/a / credulous%3:00:00::",
+        "supportedClaim": "disposed to believe on little evidence",
+        "url": "https://en-word.net/"
+      }
+    ],
+    "historyLink": null,
+    "historyClaimRefs": [],
+    "returnTargets": [
+      "wl-common",
+      "wl-history"
+    ]
+  },
+  "analysis": {
+    "schemaVersion": 1,
+    "entryId": "V20261016-103",
+    "contextId": "V20261016-103-context",
+    "version": "1",
+    "promptHash": "aaf3bd1e99daf47a70a2a158973652d67ff14dafcfc1748b3fc2a09d719885db",
+    "depth": "standard",
+    "depthReason": "需辨析相邻用法并保留原句的承诺或证据边界。",
+    "coverage": {
+      "syntax": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "syntax-concept"
+        ]
+      },
+      "concept": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "syntax-concept"
+        ]
+      },
+      "contrast": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "contrast"
+        ]
+      },
+      "languageGame": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "game-neighbors"
+        ]
+      },
+      "englishNeighbors": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "game-neighbors"
+        ]
+      },
+      "pragmaticAction": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "action"
+        ]
+      },
+      "workplaceUse": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "workplace"
+        ]
+      }
+    },
+    "blocks": [
+      {
+        "blockId": "syntax-concept",
+        "dimensions": [
+          "syntax",
+          "concept"
+        ],
+        "text": "uses credulous to criticize说明作者的措辞动作；who accepted the promise修饰voters。这是对作者用词的转述，不是直接引用其完整原句。 credulous带批评意味，指证据不足仍容易相信。教学句报告作者如此评价，并不能独立证明这些选民实际判断能力如何。",
+        "sourceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-c.json/credulous/a / credulous%3:00:00::",
+            "supportedClaim": "disposed to believe on little evidence",
+            "url": "https://en-word.net/"
+          }
+        ],
+        "title": "句子结构与当前所指"
+      },
+      {
+        "blockId": "contrast",
+        "dimensions": [
+          "contrast"
+        ],
+        "text": "credible表示某个说法或来源可信；credulous表示某个人容易相信。把人称为credulous和把报告称为credible会表达完全不同的评价。",
+        "sourceRefs": [],
+        "title": "容易混淆的地方"
+      },
+      {
+        "blockId": "game-neighbors",
+        "dimensions": [
+          "languageGame",
+          "englishNeighbors"
+        ],
+        "text": "这是评论阅读中的立场辨识。读者应区分谁在评价、依据是什么，再决定是否接受评价，而不是把形容词当已核实事实。 credulous audience/readers与believe a claim相连；evidence和fact-checking是进一步追问，因为“轻信”暗含对证据态度的批评。",
+        "sourceRefs": [],
+        "title": "讨论通常怎样继续"
+      },
+      {
+        "blockId": "action",
+        "dimensions": [
+          "pragmaticAction"
+        ],
+        "text": "被转述的作者在批评选民的判断；当前教学句则是在解释这种措辞的作用，两层说话行为要分开。",
+        "sourceRefs": [],
+        "title": "说话者正在做什么"
+      },
+      {
+        "blockId": "workplace",
+        "dimensions": [
+          "workplaceUse"
+        ],
+        "text": "下面是迁移到制造业沟通的新例句；不代表原场景中已发生的决定。",
+        "sourceRefs": [],
+        "title": "迁移到工作情境"
+      }
+    ],
+    "workplaceUse": [
+      {
+        "en": "We should not be credulous about unsupported performance claims.",
+        "zh": "我们不应轻信没有依据的性能主张。",
+        "whenToUse": "提醒核实供应商说法；语气带批评，使用需谨慎。",
+        "limitation": "原创教学表达；具体权限和流程以实际约定为准。",
+        "origin": "original"
+      },
+      {
+        "en": "The claim sounds credible, but we still need test evidence.",
+        "zh": "这个主张听起来可信，但我们仍需要测试证据。",
+        "whenToUse": "对比credible与credulous，保持证据要求。",
+        "limitation": "原创教学表达；具体权限和流程以实际约定为准。",
+        "origin": "original"
+      }
+    ],
+    "practiceRefs": [],
+    "edges": []
+  },
+  "practices": [],
+  "sources": [
+    {
+      "schemaVersion": 1,
+      "sourceId": "original-vocab",
+      "version": "2026-11-16",
+      "title": "原词库教学句／转述",
+      "url": "public/vocabulary.json",
+      "accessMode": "user_material",
+      "retrievedAt": "2026-11-16T00:00:00+08:00",
+      "coverage": "partial",
+      "rights": "用户授权处理原词库",
+      "limitations": [
+        "非外部作者逐字引文；保留原ID与原句"
+      ]
+    },
+    {
+      "schemaVersion": 1,
+      "sourceId": "oewn-2025",
+      "version": "2025",
+      "title": "Open English Wordnet 2025",
+      "url": "https://en-word.net/",
+      "accessMode": "licensed_snapshot",
+      "retrievedAt": "2026-11-16T00:00:00+08:00",
+      "coverage": "partial",
+      "rights": "CC BY 4.0 + Princeton notice",
+      "limitations": [
+        "本包仅选部分源义；中文非官方译文"
+      ]
+    }
+  ],
+  "verifiedIPA": null,
+  "dictionaryURL": "https://en-word.net/",
+  "historyURL": null
+}

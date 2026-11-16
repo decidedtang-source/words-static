@@ -1,0 +1,27 @@
+{
+  "reviewer": "/root/r2_implementation_review",
+  "time": "2026-11-16T01:47:54.380Z",
+  "method": "Read actual r1 packages, every changed field against immutable r0, and full unchanged semantic sections from the prior independent pass. Rechecked new senses, bilingual examples, context limits, all seven analysis dimensions, both historical layers and actual Practice edges. Evaluated real legacy projections for all24; checked complete BoundInput validation, original quote/identity and exact manifest hashes.",
+  "sourceChecks": [
+    {
+      "url": "https://dictionary.cambridge.org/us/dictionary/english/shock",
+      "access": "official indexed excerpt after direct403",
+      "finding": "SURPRISE event definition supports the ordinary component explanation. US IPA belongs to shock, not inflation shock."
+    },
+    {
+      "path": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/source-registration.json",
+      "finding": "Exact timestamp is identified as registration/import time, with original webpage check date separately recorded."
+    },
+    {
+      "path": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-r0/source-checks.json",
+      "finding": "Prior independent NASA/Etymonline/Cambridge evidence remains applicable to unchanged source claims; corrected NASA editorial definitions now preserve distinct requirements and intended-use criteria."
+    }
+  ],
+  "limitations": [
+    "Full-package content review only; not user acceptance or engineering/calibration gate approval.",
+    "No real-device, audio or learner testing.",
+    "Inventories remain partial; 20 histories remain explicitly unverified/absent.",
+    "20 whole-headword IPA values are null; one additional non-null phrase IPA is incorrect as reported. Only provided that, buffer and constraint whole-headword IPA are approved.",
+    "Some per-sense notes remain repetitive gloss/example restatements; individualized visible entry tips now supply usable front-section guidance. Further stylistic refinement is optional, not an unresolved r0 blocker."
+  ]
+}

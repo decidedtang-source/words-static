@@ -1,0 +1,493 @@
+{
+  "reviewer": "/root/r2_implementation_review",
+  "revision": "expansion-r0",
+  "counts": {
+    "reviewed": 26,
+    "pass": 2,
+    "fail": 24,
+    "blocked": 0
+  },
+  "issues": [
+    {
+      "issueId": "EXP0-QUALIFIERS-V20261012-004",
+      "qaIds": [
+        "Q-C02"
+      ],
+      "severity": "important",
+      "observation": "Explicit we and after the review are omitted from agents/timeScope. The prose generally preserves the distinction; the failure concerns the frozen structured constraint representation.",
+      "requiredChange": "Populate only sentence-supported actors, relative time/conditions and scoped polarity/modality. Preserve existing accurate prose and source quote; do not invent names, dates, company policy or auxiliary-verb classifications.",
+      "entryId": "V20261012-004"
+    },
+    {
+      "issueId": "EXP0-QUALIFIERS-V20261012-005",
+      "qaIds": [
+        "Q-C02"
+      ],
+      "severity": "important",
+      "observation": "Explicit we is omitted from agents; remaining work is the restricted object scope. The prose generally preserves the distinction; the failure concerns the frozen structured constraint representation.",
+      "requiredChange": "Populate only sentence-supported actors, relative time/conditions and scoped polarity/modality. Preserve existing accurate prose and source quote; do not invent names, dates, company policy or auxiliary-verb classifications.",
+      "entryId": "V20261012-005"
+    },
+    {
+      "issueId": "EXP0-QUALIFIERS-V20261012-007",
+      "qaIds": [
+        "Q-C02"
+      ],
+      "severity": "important",
+      "observation": "Implicit requested addressee and before finalizing the schedule are omitted from agents/timeScope/conditions. The prose generally preserves the distinction; the failure concerns the frozen structured constraint representation.",
+      "requiredChange": "Populate only sentence-supported actors, relative time/conditions and scoped polarity/modality. Preserve existing accurate prose and source quote; do not invent names, dates, company policy or auxiliary-verb classifications.",
+      "entryId": "V20261012-007"
+    },
+    {
+      "issueId": "EXP0-QUALIFIERS-V20261012-008",
+      "qaIds": [
+        "Q-C02"
+      ],
+      "severity": "important",
+      "observation": "The supplier is the explicit verification counterpart but agents is empty; do not invent the person performing verification. The prose generally preserves the distinction; the failure concerns the frozen structured constraint representation.",
+      "requiredChange": "Populate only sentence-supported actors, relative time/conditions and scoped polarity/modality. Preserve existing accurate prose and source quote; do not invent names, dates, company policy or auxiliary-verb classifications.",
+      "entryId": "V20261012-008"
+    },
+    {
+      "issueId": "EXP0-QUALIFIERS-V20261012-009",
+      "qaIds": [
+        "Q-C02"
+      ],
+      "severity": "important",
+      "observation": "Explicit we and before measuring the improvement are absent from structured agents/timeScope. The prose generally preserves the distinction; the failure concerns the frozen structured constraint representation.",
+      "requiredChange": "Populate only sentence-supported actors, relative time/conditions and scoped polarity/modality. Preserve existing accurate prose and source quote; do not invent names, dates, company policy or auxiliary-verb classifications.",
+      "entryId": "V20261012-009"
+    },
+    {
+      "issueId": "EXP0-QUALIFIERS-V20261012-011",
+      "qaIds": [
+        "Q-C02"
+      ],
+      "severity": "important",
+      "observation": "Let us explicitly identifies a proposed joint actor but agents is empty. The prose generally preserves the distinction; the failure concerns the frozen structured constraint representation.",
+      "requiredChange": "Populate only sentence-supported actors, relative time/conditions and scoped polarity/modality. Preserve existing accurate prose and source quote; do not invent names, dates, company policy or auxiliary-verb classifications.",
+      "entryId": "V20261012-011"
+    },
+    {
+      "issueId": "EXP0-QUALIFIERS-V20261012-013",
+      "qaIds": [
+        "Q-C02"
+      ],
+      "severity": "important",
+      "observation": "Explicit we is omitted from agents; should is correctly retained. The prose generally preserves the distinction; the failure concerns the frozen structured constraint representation.",
+      "requiredChange": "Populate only sentence-supported actors, relative time/conditions and scoped polarity/modality. Preserve existing accurate prose and source quote; do not invent names, dates, company policy or auxiliary-verb classifications.",
+      "entryId": "V20261012-013"
+    },
+    {
+      "issueId": "EXP0-QUALIFIERS-V20261012-014",
+      "qaIds": [
+        "Q-C02"
+      ],
+      "severity": "important",
+      "observation": "Explicit you and another team member are omitted from the delegation actor/recipient representation. The prose generally preserves the distinction; the failure concerns the frozen structured constraint representation.",
+      "requiredChange": "Populate only sentence-supported actors, relative time/conditions and scoped polarity/modality. Preserve existing accurate prose and source quote; do not invent names, dates, company policy or auxiliary-verb classifications.",
+      "entryId": "V20261012-014"
+    },
+    {
+      "issueId": "EXP0-QUALIFIERS-V20261012-016",
+      "qaIds": [
+        "Q-C02"
+      ],
+      "severity": "important",
+      "observation": "One person is the explicit, unidentified accountable actor; empty agents loses that restriction. The prose generally preserves the distinction; the failure concerns the frozen structured constraint representation.",
+      "requiredChange": "Populate only sentence-supported actors, relative time/conditions and scoped polarity/modality. Preserve existing accurate prose and source quote; do not invent names, dates, company policy or auxiliary-verb classifications.",
+      "entryId": "V20261012-016"
+    },
+    {
+      "issueId": "EXP0-QUALIFIERS-V20261012-017",
+      "qaIds": [
+        "Q-C02"
+      ],
+      "severity": "important",
+      "observation": "Explicit we and today for the decision are absent; do not set the final deadline itself to today. The prose generally preserves the distinction; the failure concerns the frozen structured constraint representation.",
+      "requiredChange": "Populate only sentence-supported actors, relative time/conditions and scoped polarity/modality. Preserve existing accurate prose and source quote; do not invent names, dates, company policy or auxiliary-verb classifications.",
+      "entryId": "V20261012-017"
+    },
+    {
+      "issueId": "EXP0-QUALIFIERS-V20261012-021",
+      "qaIds": [
+        "Q-C02"
+      ],
+      "severity": "important",
+      "observation": "with our current resources is an explicit feasibility condition, but conditions is empty and timeScope null. The prose generally preserves the distinction; the failure concerns the frozen structured constraint representation.",
+      "requiredChange": "Populate only sentence-supported actors, relative time/conditions and scoped polarity/modality. Preserve existing accurate prose and source quote; do not invent names, dates, company policy or auxiliary-verb classifications.",
+      "entryId": "V20261012-021"
+    },
+    {
+      "issueId": "EXP0-QUALIFIERS-V20261012-023",
+      "qaIds": [
+        "Q-C02"
+      ],
+      "severity": "important",
+      "observation": "Explicit we is absent; the current overdue state and requested updated completion time are not represented temporally. The prose generally preserves the distinction; the failure concerns the frozen structured constraint representation.",
+      "requiredChange": "Populate only sentence-supported actors, relative time/conditions and scoped polarity/modality. Preserve existing accurate prose and source quote; do not invent names, dates, company policy or auxiliary-verb classifications.",
+      "entryId": "V20261012-023"
+    },
+    {
+      "issueId": "EXP0-QUALIFIERS-V20261012-025",
+      "qaIds": [
+        "Q-C02"
+      ],
+      "severity": "important",
+      "observation": "Explicit we and before accepting more requests are absent from agents/conditions/timeScope. The prose generally preserves the distinction; the failure concerns the frozen structured constraint representation.",
+      "requiredChange": "Populate only sentence-supported actors, relative time/conditions and scoped polarity/modality. Preserve existing accurate prose and source quote; do not invent names, dates, company policy or auxiliary-verb classifications.",
+      "entryId": "V20261012-025"
+    },
+    {
+      "issueId": "EXP0-QUALIFIERS-V20261012-028",
+      "qaIds": [
+        "Q-C02"
+      ],
+      "severity": "important",
+      "observation": "polarity negative obscures the affirmative temporary-setback assertion plus negative stop-project inference; mixed with scoped negation is appropriate. The prose generally preserves the distinction; the failure concerns the frozen structured constraint representation.",
+      "requiredChange": "Populate only sentence-supported actors, relative time/conditions and scoped polarity/modality. Preserve existing accurate prose and source quote; do not invent names, dates, company policy or auxiliary-verb classifications.",
+      "entryId": "V20261012-028"
+    },
+    {
+      "issueId": "EXP0-QUALIFIERS-V20261012-029",
+      "qaIds": [
+        "Q-C02"
+      ],
+      "severity": "important",
+      "observation": "polarity negative misclassifies an affirmative escalation recommendation conditional on a negative subordinate clause; record mixed/scoped negation and explicit we/the teams. The prose generally preserves the distinction; the failure concerns the frozen structured constraint representation.",
+      "requiredChange": "Populate only sentence-supported actors, relative time/conditions and scoped polarity/modality. Preserve existing accurate prose and source quote; do not invent names, dates, company policy or auxiliary-verb classifications.",
+      "entryId": "V20261012-029"
+    },
+    {
+      "issueId": "EXP0-QUALIFIERS-V20261012-031",
+      "qaIds": [
+        "Q-C02"
+      ],
+      "severity": "important",
+      "observation": "Explicit we as monitoring/reporting actor is omitted; future will is correctly retained. The prose generally preserves the distinction; the failure concerns the frozen structured constraint representation.",
+      "requiredChange": "Populate only sentence-supported actors, relative time/conditions and scoped polarity/modality. Preserve existing accurate prose and source quote; do not invent names, dates, company policy or auxiliary-verb classifications.",
+      "entryId": "V20261012-031"
+    },
+    {
+      "issueId": "EXP0-QUALIFIERS-V20261012-032",
+      "qaIds": [
+        "Q-C02"
+      ],
+      "severity": "important",
+      "observation": "Explicit we and after the scope change are absent from agents/timeScope. The prose generally preserves the distinction; the failure concerns the frozen structured constraint representation.",
+      "requiredChange": "Populate only sentence-supported actors, relative time/conditions and scoped polarity/modality. Preserve existing accurate prose and source quote; do not invent names, dates, company policy or auxiliary-verb classifications.",
+      "entryId": "V20261012-032"
+    },
+    {
+      "issueId": "EXP0-QUALIFIERS-V20261012-033",
+      "qaIds": [
+        "Q-C02"
+      ],
+      "severity": "important",
+      "observation": "Explicit we is absent from agents; retain the already-recorded until condition without inventing data arrival date. The prose generally preserves the distinction; the failure concerns the frozen structured constraint representation.",
+      "requiredChange": "Populate only sentence-supported actors, relative time/conditions and scoped polarity/modality. Preserve existing accurate prose and source quote; do not invent names, dates, company policy or auxiliary-verb classifications.",
+      "entryId": "V20261012-033"
+    },
+    {
+      "issueId": "EXP0-QUALIFIERS-V20261012-034",
+      "qaIds": [
+        "Q-C02"
+      ],
+      "severity": "important",
+      "observation": "Capitalized Could is absent from modality and explicit you from agents; without skipping any checks is already retained. The prose generally preserves the distinction; the failure concerns the frozen structured constraint representation.",
+      "requiredChange": "Populate only sentence-supported actors, relative time/conditions and scoped polarity/modality. Preserve existing accurate prose and source quote; do not invent names, dates, company policy or auxiliary-verb classifications.",
+      "entryId": "V20261012-034"
+    },
+    {
+      "issueId": "EXP0-QUALIFIERS-V20261012-035",
+      "qaIds": [
+        "Q-C02"
+      ],
+      "severity": "important",
+      "observation": "Explicit we is absent from agents; before signing off is already retained as a prerequisite. The prose generally preserves the distinction; the failure concerns the frozen structured constraint representation.",
+      "requiredChange": "Populate only sentence-supported actors, relative time/conditions and scoped polarity/modality. Preserve existing accurate prose and source quote; do not invent names, dates, company policy or auxiliary-verb classifications.",
+      "entryId": "V20261012-035"
+    },
+    {
+      "issueId": "EXP0-QUALIFIERS-V20261012-036",
+      "qaIds": [
+        "Q-C02"
+      ],
+      "severity": "important",
+      "observation": "the next team is the explicit starting/receiving actor but agents is empty. The prose generally preserves the distinction; the failure concerns the frozen structured constraint representation.",
+      "requiredChange": "Populate only sentence-supported actors, relative time/conditions and scoped polarity/modality. Preserve existing accurate prose and source quote; do not invent names, dates, company policy or auxiliary-verb classifications.",
+      "entryId": "V20261012-036"
+    },
+    {
+      "issueId": "EXP0-QUALIFIERS-V20261012-037",
+      "qaIds": [
+        "Q-C02"
+      ],
+      "severity": "important",
+      "observation": "Explicit we and project manager as required approver are absent from agents; this authority identity must remain scoped to the sentence. The prose generally preserves the distinction; the failure concerns the frozen structured constraint representation.",
+      "requiredChange": "Populate only sentence-supported actors, relative time/conditions and scoped polarity/modality. Preserve existing accurate prose and source quote; do not invent names, dates, company policy or auxiliary-verb classifications.",
+      "entryId": "V20261012-037"
+    },
+    {
+      "issueId": "EXP0-QUALIFIERS-V20261012-038",
+      "qaIds": [
+        "Q-C02"
+      ],
+      "severity": "important",
+      "observation": "Let us identifies joint proposed actors but agents is empty; Wednesday afternoon is correctly retained. The prose generally preserves the distinction; the failure concerns the frozen structured constraint representation.",
+      "requiredChange": "Populate only sentence-supported actors, relative time/conditions and scoped polarity/modality. Preserve existing accurate prose and source quote; do not invent names, dates, company policy or auxiliary-verb classifications.",
+      "entryId": "V20261012-038"
+    },
+    {
+      "issueId": "EXP0-QUALIFIERS-V20261012-040",
+      "qaIds": [
+        "Q-C02"
+      ],
+      "severity": "important",
+      "observation": "polarity negative obscures affirmative expected decision plus not another discussion; use mixed/scoped negation and preserve expected rather than actual outcome. The prose generally preserves the distinction; the failure concerns the frozen structured constraint representation.",
+      "requiredChange": "Populate only sentence-supported actors, relative time/conditions and scoped polarity/modality. Preserve existing accurate prose and source quote; do not invent names, dates, company policy or auxiliary-verb classifications.",
+      "entryId": "V20261012-040"
+    }
+  ],
+  "entries": [
+    {
+      "entryId": "V20261012-004",
+      "term": "milestone",
+      "verdict": "fail",
+      "inputHash": "419bb43e5b2d1f1207eba71421ddb03a94ccc0f3323f86e70b3e1f6720bb0751",
+      "artifactHash": "a8e47cf40441487caa830c571afcc9e7d0f9072b98f14ce6e244ef9c847cf10f",
+      "reviewPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-expansion-r0/V20261012-004.json"
+    },
+    {
+      "entryId": "V20261012-005",
+      "term": "priority",
+      "verdict": "fail",
+      "inputHash": "2d3caef26c44db2a34a7d2c44a268c9a782f3f40f717a99745108137a729f69a",
+      "artifactHash": "d40f4c89ec281df5f03beabee916452ed093b21b91f8dacd4eecfd726934f7ea",
+      "reviewPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-expansion-r0/V20261012-005.json"
+    },
+    {
+      "entryId": "V20261012-007",
+      "term": "dependency",
+      "verdict": "fail",
+      "inputHash": "8f9c14a3fd17530c2c27a51bfc158cef3ed6979a00126e4971420c651188eec3",
+      "artifactHash": "2c56e19367745e0e13608f543872431dd33edaa785e45b5951752578c217f560",
+      "reviewPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-expansion-r0/V20261012-007.json"
+    },
+    {
+      "entryId": "V20261012-008",
+      "term": "assumption",
+      "verdict": "fail",
+      "inputHash": "271068ca47db70948caceb2eb5efb06c7333b1526c5c35c59be63fae0a30c7bf",
+      "artifactHash": "df5f796a65d13b9b386e441fac06108ba96f6a378d5d5da4f523687ffcb09179",
+      "reviewPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-expansion-r0/V20261012-008.json"
+    },
+    {
+      "entryId": "V20261012-009",
+      "term": "baseline",
+      "verdict": "fail",
+      "inputHash": "833ae007fbecf8727c1ce42a2c05fb4dc021a78e732f2c830bd2854694474fee",
+      "artifactHash": "0ba5fa28f9eb6ba17650fb4dd11c6b0e96b50c1e8afa9b7aeca246dad5ad7720",
+      "reviewPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-expansion-r0/V20261012-009.json"
+    },
+    {
+      "entryId": "V20261012-011",
+      "term": "sequence",
+      "verdict": "fail",
+      "inputHash": "5b95b701996b1966352709f45ec559832cca939ea0d740b889e9f2646ec22559",
+      "artifactHash": "a74033fe38015125ddec0824126b457a8286fafa62d3dfcb94ab4dd59a50f630",
+      "reviewPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-expansion-r0/V20261012-011.json"
+    },
+    {
+      "entryId": "V20261012-013",
+      "term": "allocate",
+      "verdict": "fail",
+      "inputHash": "36eab520aaa8a4217d28026d989947c3c49b136934a2eae33db5d24be56e9a3e",
+      "artifactHash": "e3a1fe8ca228401e4c45d110af672ee338338797a2cb1e227b49602f8d3e0e16",
+      "reviewPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-expansion-r0/V20261012-013.json"
+    },
+    {
+      "entryId": "V20261012-014",
+      "term": "delegate",
+      "verdict": "fail",
+      "inputHash": "1e6bc54bf1feabe7cf002f7164fb3a641e254fb29ba88e8b47adc8766577cd36",
+      "artifactHash": "7f180b9a2595a005203b69cd9390ade138c7768e6cd5f104753dcf6ad1a5ee59",
+      "reviewPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-expansion-r0/V20261012-014.json"
+    },
+    {
+      "entryId": "V20261012-016",
+      "term": "accountable",
+      "verdict": "fail",
+      "inputHash": "cf2a71b2042d11d7a68d706202b9b5e29eb18889ffdacc0bfde14c7d24101fd6",
+      "artifactHash": "a983c1bff93f419ee6f59110c770819114ce340cc6dfd04227b6d6df5184a2cc",
+      "reviewPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-expansion-r0/V20261012-016.json"
+    },
+    {
+      "entryId": "V20261012-017",
+      "term": "deadline",
+      "verdict": "fail",
+      "inputHash": "13e20713c0ca3d468503ec4259505126c38bd7a4594307eda66f9b5b4afb9390",
+      "artifactHash": "bec6dbd663c0e62046c05bd13e58db4ad86414a325ea4485755fbdafacc6862e",
+      "reviewPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-expansion-r0/V20261012-017.json"
+    },
+    {
+      "entryId": "V20261012-021",
+      "term": "feasible",
+      "verdict": "fail",
+      "inputHash": "192bf7aac97e71c65cee5a6a2f3a09757f3cd2b6ad3c67f0872325a6017ba462",
+      "artifactHash": "d631a95e51a8570f13074fa06542b8e2eacbce2f4cca5c4d0998442a60f7fea5",
+      "reviewPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-expansion-r0/V20261012-021.json"
+    },
+    {
+      "entryId": "V20261012-023",
+      "term": "overdue",
+      "verdict": "fail",
+      "inputHash": "4f8dda94a281af43577fab78ac6e2c61f77f53cba4055f1f9148cf03de9cd0f7",
+      "artifactHash": "63ba33c14ea20efd8d9fbbf97cb03a26e49272e14804cc8fed962c7ba71ce98a",
+      "reviewPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-expansion-r0/V20261012-023.json"
+    },
+    {
+      "entryId": "V20261012-025",
+      "term": "backlog",
+      "verdict": "fail",
+      "inputHash": "d7999498f0427bebbd51ee33c55015a243a22ee75c3ddab8d01d0c62165b4e80",
+      "artifactHash": "a40b4f8d861bd815a4e915cff62566584139f63f8d9c5ee21d82dd372dbd7b03",
+      "reviewPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-expansion-r0/V20261012-025.json"
+    },
+    {
+      "entryId": "V20261012-026",
+      "term": "bottleneck",
+      "verdict": "pass",
+      "inputHash": "19f95bc7d4539a5caaa8c82760756423ee2143e0beaced5e5a6d3067c17f452e",
+      "artifactHash": "37ec57c93a6203b2535290b418922843bb936f87f4a15e24a66d7619cfae9bf8",
+      "reviewPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-expansion-r0/V20261012-026.json"
+    },
+    {
+      "entryId": "V20261012-028",
+      "term": "setback",
+      "verdict": "fail",
+      "inputHash": "3d6fee1e1d13e5ef6726af36d55e5fe3120f5720036feb0aeec28f95b9ee9487",
+      "artifactHash": "04fca1aa51f5ad24dda2a3778a6c3bcd9aea3d093d0cc953cfad3de896535081",
+      "reviewPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-expansion-r0/V20261012-028.json"
+    },
+    {
+      "entryId": "V20261012-029",
+      "term": "escalate",
+      "verdict": "fail",
+      "inputHash": "aeb44524d8c245f5a89bfe4387d730185cdbd7faf13f945367123ffef55174e3",
+      "artifactHash": "597b01e9dfb666e920655066c3ba6f77f598997c120e46bc8a390ee6d741eba4",
+      "reviewPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-expansion-r0/V20261012-029.json"
+    },
+    {
+      "entryId": "V20261012-030",
+      "term": "mitigate",
+      "verdict": "pass",
+      "inputHash": "328685c1ffa37716940bf7c9cfcef7b9e3c25006650a7074922140aa4f6fd774",
+      "artifactHash": "c991c0a76d6b2144dd608701b5f3e8e79b5d8dc01af76e65d150f79e5c174fd0",
+      "reviewPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-expansion-r0/V20261012-030.json"
+    },
+    {
+      "entryId": "V20261012-031",
+      "term": "monitor",
+      "verdict": "fail",
+      "inputHash": "c8b90cc36fcc41a14973878c79417deb9fed52f61c7a7ae397503be3239ea0b8",
+      "artifactHash": "ae6cd7011429d46c40be12ad75cda61756638e41c86094a455695df7a0bd676c",
+      "reviewPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-expansion-r0/V20261012-031.json"
+    },
+    {
+      "entryId": "V20261012-032",
+      "term": "reassess",
+      "verdict": "fail",
+      "inputHash": "272aaeec2bc738143937dd650990547fb91c78147c7271df40821b4f8ea6780b",
+      "artifactHash": "f249ec79e19f785c520872c8ea75dbd258ef8f5baf00bda8d3a026da3c3bf71e",
+      "reviewPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-expansion-r0/V20261012-032.json"
+    },
+    {
+      "entryId": "V20261012-033",
+      "term": "defer",
+      "verdict": "fail",
+      "inputHash": "6fe2647353739175936aa044e2ffa283d52bb02eeccb3e09c8c210c740641dd0",
+      "artifactHash": "67bf94005301faabb103457be3defb33f6a548baad6741e1642334ca07fe3b7e",
+      "reviewPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-expansion-r0/V20261012-033.json"
+    },
+    {
+      "entryId": "V20261012-034",
+      "term": "expedite",
+      "verdict": "fail",
+      "inputHash": "9cbe4b7c7c9badc25315f6131970e29ebbb90055aabe7a272e7c358c6b6c60cf",
+      "artifactHash": "6b11b007427bc3469240141ce6fb90e542d902a8f57bdd3fab5893f12448078f",
+      "reviewPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-expansion-r0/V20261012-034.json"
+    },
+    {
+      "entryId": "V20261012-035",
+      "term": "resolve",
+      "verdict": "fail",
+      "inputHash": "a1f862a0febaf6b806064901d2a19b89ef61883d2b62d437d9eab5e1afc34b87",
+      "artifactHash": "f9a0f1fa14e9f3c81f3ab2dafada31e919a80cb63f8fec26b045e00ef3ef2f95",
+      "reviewPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-expansion-r0/V20261012-035.json"
+    },
+    {
+      "entryId": "V20261012-036",
+      "term": "handover",
+      "verdict": "fail",
+      "inputHash": "612349f10fa3077d24f1936f957685db1844fcacf9736ec1428dc1b192cb2af9",
+      "artifactHash": "1ea15a427cf60e2edc62f3ee0b693a734741f8f2fbbbf0fc50a07cd7f3c547ac",
+      "reviewPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-expansion-r0/V20261012-036.json"
+    },
+    {
+      "entryId": "V20261012-037",
+      "term": "sign-off",
+      "verdict": "fail",
+      "inputHash": "0323f4ab5cc76708d04eb751943044a03458955c4267aecbdd03b1c8e25dac10",
+      "artifactHash": "b8935e1d9c2dd94353bf3631f8aaa07b5954b7b13d623165305b8fc2f82fc3b6",
+      "reviewPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-expansion-r0/V20261012-037.json"
+    },
+    {
+      "entryId": "V20261012-038",
+      "term": "checkpoint",
+      "verdict": "fail",
+      "inputHash": "96caa78c484089f22184735f09cb012cd33351724c7abaf20705d2f5b95cebb0",
+      "artifactHash": "89f2f812f54e5b4f85024494a2d822e2f09be08647ee16cde399b95c3875db25",
+      "reviewPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-expansion-r0/V20261012-038.json"
+    },
+    {
+      "entryId": "V20261012-040",
+      "term": "outcome",
+      "verdict": "fail",
+      "inputHash": "17fb4a191f40da8ecb6ee679576036cdbe7723b3f4e329254dccd35115f69467",
+      "artifactHash": "09167fda815c8e245b8c57e21f0f1049189b4238292d3a2fc1253b1ba9430d1d",
+      "reviewPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-expansion-r0/V20261012-040.json"
+    }
+  ],
+  "sourceChecks": [
+    {
+      "url": "https://www.oxfordlearnersdictionaries.com/definition/english/sign-off_2",
+      "method": "official indexed noun entry",
+      "finding": "Noun approval sense2 and recorded US IPA corroborated; not confused with verb broadcast ending."
+    },
+    {
+      "url": "https://www.dictionary.com/browse/checkpoint",
+      "method": "official indexed entry",
+      "finding": "Procedural inspection/confirmation sense2 corroborated."
+    },
+    {
+      "url": "https://dictionary.cambridge.org/dictionary/english/escalate",
+      "method": "official indexed entry",
+      "finding": "Business transitive higher-rank handling sense and US IPA corroborated."
+    },
+    {
+      "path": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\oewn-selected-2025.json",
+      "method": "actual licensed local source-sense lookup",
+      "finding": "Every selected OEWN English definition and POS/lemma compared to snapshot. Ordinary contextual extensions inspected separately from literal source wording."
+    }
+  ],
+  "limitations": [
+    "Content review only; no new calibration decision or publication authority.",
+    "All26 histories explicitly absent/unverified; no invented historical bridge.",
+    "All26 inventories partial.",
+    "24 IPA values explicitly unverified/null; only escalate and sign-off are verified here.",
+    "No real-device/audio or learner acceptance.",
+    "No Practice attached to expansion entries; zero-Practice is permitted and local analysis remains readable."
+  ],
+  "calibrationUntouched": true
+}

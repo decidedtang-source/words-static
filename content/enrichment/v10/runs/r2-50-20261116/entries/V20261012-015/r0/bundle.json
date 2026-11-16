@@ -1,0 +1,536 @@
+{
+  "snapshot": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-015",
+    "term": "ownership",
+    "quote": "Who will take ownership of this open item?",
+    "batch": "2026-10-12",
+    "originalFileSHA": "ec65d33d6da99ebad2577f6c9f9938499823d29d117f43532302cf964a4c60a3",
+    "quoteSHA": "40b88ef3f59adeb63f0298341fc9eb8c33cabdc4b6ff8b442ac43d24a1a9c6a3",
+    "originalIPA": "ˈoʊ.nɚ.ʃɪp",
+    "originalPOS": "n.",
+    "originalMeaning": "对事项负责并推动到结果的责任归属"
+  },
+  "selection": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-015",
+    "version": "1",
+    "inventoryRefs": [
+      "inventory:V20261012-015"
+    ],
+    "selectedSenseIds": [
+      "ownership%1:21:00::",
+      "ownership%1:26:00::"
+    ],
+    "reason": "按学习用途选择常见或易混义；这里不是语料频率排名。",
+    "general": "所有权；拥有的权利；拥有某物的状态",
+    "senses": [
+      {
+        "senseId": "ownership%1:21:00::",
+        "title": "所有权；拥有的权利",
+        "usageLabels": [
+          "n.",
+          "精选学习义"
+        ],
+        "explanationZh": "所有权；拥有的权利",
+        "examples": [
+          {
+            "en": "Ownership of the equipment will transfer in June.",
+            "zh": "设备所有权将在六月转移。",
+            "origin": "original",
+            "sourceRef": null,
+            "usageNote": "原创教学例句，不是来源原话"
+          }
+        ],
+        "evidenceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-o.json/ownership/n / ownership%1:21:00::",
+            "supportedClaim": "the relation of an owner to the thing possessed; possession with the right to transfer possession to others",
+            "url": "https://en-word.net/"
+          }
+        ]
+      },
+      {
+        "senseId": "ownership%1:26:00::",
+        "title": "拥有某物的状态",
+        "usageLabels": [
+          "n.",
+          "精选学习义"
+        ],
+        "explanationZh": "拥有某物的状态",
+        "examples": [
+          {
+            "en": "The building is in public ownership.",
+            "zh": "这栋建筑属于公有。",
+            "origin": "original",
+            "sourceRef": null,
+            "usageNote": "原创教学例句，不是来源原话"
+          }
+        ],
+        "evidenceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-o.json/ownership/n / ownership%1:26:00::",
+            "supportedClaim": "the state or fact of being an owner",
+            "url": "https://en-word.net/"
+          }
+        ]
+      }
+    ]
+  },
+  "senses": [
+    {
+      "schemaVersion": 1,
+      "senseId": "ownership%1:21:00::",
+      "lexicalEntryId": "lex:ownership",
+      "pos": "n.",
+      "meaning": {
+        "definitionEn": "the relation of an owner to the thing possessed; possession with the right to transfer possession to others",
+        "glossZh": "所有权；拥有的权利",
+        "glossOrigin": "editorial"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "oewn-2025",
+          "sourceVersion": "2025",
+          "locator": "entries-o.json/ownership/n / ownership%1:21:00::",
+          "supportedClaim": "the relation of an owner to the thing possessed; possession with the right to transfer possession to others",
+          "url": "https://en-word.net/"
+        }
+      ],
+      "version": "1"
+    },
+    {
+      "schemaVersion": 1,
+      "senseId": "ownership%1:26:00::",
+      "lexicalEntryId": "lex:ownership",
+      "pos": "n.",
+      "meaning": {
+        "definitionEn": "the state or fact of being an owner",
+        "glossZh": "拥有某物的状态",
+        "glossOrigin": "editorial"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "oewn-2025",
+          "sourceVersion": "2025",
+          "locator": "entries-o.json/ownership/n / ownership%1:26:00::",
+          "supportedClaim": "the state or fact of being an owner",
+          "url": "https://en-word.net/"
+        }
+      ],
+      "version": "1"
+    },
+    {
+      "schemaVersion": 1,
+      "senseId": "web:cambridge-ownership",
+      "lexicalEntryId": "lex:ownership",
+      "pos": "n.",
+      "meaning": {
+        "definitionEn": "the fact of taking responsibility for an idea or problem",
+        "glossZh": "对问题承担责任",
+        "glossOrigin": "editorial"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "cambridge-ownership",
+          "sourceVersion": "2026-11-16",
+          "locator": "Business English, responsibility for an idea or problem",
+          "supportedClaim": "ownership除财产所有权外，也指对想法或问题承担责任；不能据此推断批准权限。",
+          "url": "https://dictionary.cambridge.org/dictionary/english/ownership"
+        }
+      ],
+      "version": "1"
+    }
+  ],
+  "inventory": {
+    "schemaVersion": 1,
+    "inventoryId": "inventory:V20261012-015",
+    "version": "1",
+    "lexicalEntryId": "lex:ownership",
+    "sources": [
+      "oewn-2025",
+      "cambridge-ownership"
+    ],
+    "senseIds": [
+      "ownership%1:21:00::",
+      "ownership%1:26:00::",
+      "web:cambridge-ownership"
+    ],
+    "coverageStatus": "partial"
+  },
+  "context": {
+    "schemaVersion": 1,
+    "contextId": "V20261012-015-context",
+    "entryId": "V20261012-015",
+    "sourceRef": "original-vocab",
+    "quote": "Who will take ownership of this open item?",
+    "quoteSHA": "40b88ef3f59adeb63f0298341fc9eb8c33cabdc4b6ff8b442ac43d24a1a9c6a3",
+    "translation": "谁来负责跟进这个未结事项？",
+    "quoteType": "原词库教学例句／转述；未认定为外部作者逐字引文",
+    "meaning": "承担这个未结事项的协调与跟进责任",
+    "qualifiers": {
+      "polarity": "affirmative",
+      "modality": [
+        "will"
+      ],
+      "conditions": [],
+      "agents": [],
+      "timeScope": null,
+      "excludedInferences": [
+        "承担事项不自动取得支出、批准或人员管理权限。"
+      ]
+    },
+    "location": "external",
+    "senseRefs": [
+      "web:cambridge-ownership"
+    ],
+    "targetSpans": [
+      {
+        "start": 14,
+        "end": 23,
+        "text": "ownership",
+        "mappingType": "exact",
+        "note": "原句精确匹配；词形变化时不伪造span"
+      }
+    ],
+    "context": "仅以保留的这条原句为分析范围；未知背景不补造。"
+  },
+  "history": {
+    "schemaVersion": 1,
+    "lexicalEntryId": "lex:ownership",
+    "version": "1",
+    "summary": "",
+    "claims": [],
+    "sourceRefs": [],
+    "limitations": [
+      "未核实历史资料，不编造词源或年代。"
+    ]
+  },
+  "bridge": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-015",
+    "contextId": "V20261012-015-context",
+    "version": "1",
+    "location": "external",
+    "strategies": [
+      "no_derivation"
+    ],
+    "anchorRefs": [
+      "ownership%1:21:00::"
+    ],
+    "targetRefs": [
+      "web:cambridge-ownership"
+    ],
+    "semanticText": "普通拥有义能提供“由谁承担”的理解入口；学习词典另收对问题承担责任的用法，本句使用的是这个义，而非财产权。",
+    "boundary": "承担事项不自动取得支出、批准或人员管理权限。",
+    "evidenceRefs": [
+      {
+        "sourceId": "cambridge-ownership",
+        "sourceVersion": "2026-11-16",
+        "locator": "Business English, responsibility for an idea or problem",
+        "supportedClaim": "ownership除财产所有权外，也指对想法或问题承担责任；不能据此推断批准权限。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/ownership"
+      }
+    ],
+    "historyLink": null,
+    "historyClaimRefs": [],
+    "returnTargets": [
+      "wl-common",
+      "wl-history"
+    ]
+  },
+  "analysis": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-015",
+    "contextId": "V20261012-015-context",
+    "version": "1",
+    "promptHash": "aaf3bd1e99daf47a70a2a158973652d67ff14dafcfc1748b3fc2a09d719885db",
+    "depth": "standard",
+    "depthReason": "需辨析相邻用法并保留原句的承诺或证据边界。",
+    "coverage": {
+      "syntax": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "syntax-concept"
+        ]
+      },
+      "concept": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "syntax-concept"
+        ]
+      },
+      "contrast": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "contrast"
+        ]
+      },
+      "languageGame": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "game-neighbors"
+        ]
+      },
+      "englishNeighbors": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "game-neighbors"
+        ]
+      },
+      "pragmaticAction": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "action"
+        ]
+      },
+      "workplaceUse": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "workplace"
+        ]
+      }
+    },
+    "blocks": [
+      {
+        "blockId": "syntax-concept",
+        "dimensions": [
+          "syntax",
+          "concept"
+        ],
+        "text": "Who问承担者；take ownership of是当前搭配，of this open item限定责任对象。这里不是在问购买或财产权。 项目沟通中该表达常用来请求主动承担事项，但具体职责仍须约定。原句没有说明负责人是谁，也没有授予其全部决定权。",
+        "sourceRefs": [
+          {
+            "sourceId": "cambridge-ownership",
+            "sourceVersion": "2026-11-16",
+            "locator": "Business English, responsibility for an idea or problem",
+            "supportedClaim": "ownership除财产所有权外，也指对想法或问题承担责任；不能据此推断批准权限。",
+            "url": "https://dictionary.cambridge.org/dictionary/english/ownership"
+          }
+        ],
+        "title": "句子结构与当前所指"
+      },
+      {
+        "blockId": "contrast",
+        "dimensions": [
+          "contrast"
+        ],
+        "text": "legal ownership涉及财产权；take ownership of an issue侧重主动负责。负责协调与有权批准不是同一件事。",
+        "sourceRefs": [],
+        "title": "容易混淆的地方"
+      },
+      {
+        "blockId": "game-neighbors",
+        "dimensions": [
+          "languageGame",
+          "englishNeighbors"
+        ],
+        "text": "这是责任对齐。合理下一步是确认事项、负责人、后续动作及所需支持，不能只填一个名字就认为事情已解决。 take ownership连到action owner、next step和follow-up；due date是可能需协商的信息，而非ownership一词自带的日期。",
+        "sourceRefs": [],
+        "title": "讨论通常怎样继续"
+      },
+      {
+        "blockId": "action",
+        "dimensions": [
+          "pragmaticAction"
+        ],
+        "text": "说话者正在征询负责人，没有直接把责任分派给某个人。",
+        "sourceRefs": [],
+        "title": "说话者正在做什么"
+      },
+      {
+        "blockId": "workplace",
+        "dimensions": [
+          "workplaceUse"
+        ],
+        "text": "下面是迁移到制造业沟通的新例句；不代表原场景中已发生的决定。",
+        "sourceRefs": [],
+        "title": "迁移到工作情境"
+      }
+    ],
+    "workplaceUse": [
+      {
+        "en": "Who will take ownership of the inspection follow-up?",
+        "zh": "谁来负责检验后的跟进？",
+        "whenToUse": "明确事项协调人。",
+        "limitation": "原创教学表达；具体权限和流程以实际约定为准。",
+        "origin": "original"
+      },
+      {
+        "en": "I can coordinate the action, but approval must come from the designated approver.",
+        "zh": "我可以协调这项行动，但批准须由指定批准人作出。",
+        "whenToUse": "区分协调责任与批准权限。",
+        "limitation": "原创教学表达；具体权限和流程以实际约定为准。",
+        "origin": "original"
+      }
+    ],
+    "practiceRefs": [
+      {
+        "practiceId": "practice:commitment",
+        "version": "1"
+      },
+      {
+        "practiceId": "practice:ownership",
+        "version": "1"
+      }
+    ],
+    "edges": [
+      {
+        "type": "condition",
+        "targetId": "practice:commitment",
+        "targetVersion": "1",
+        "explanation": "这是责任对齐。合理下一步是确认事项、负责人、后续动作及所需支持，不能只填一个名字就认为事情已解决。"
+      },
+      {
+        "type": "role",
+        "targetId": "practice:ownership",
+        "targetVersion": "1",
+        "explanation": "这是责任对齐。合理下一步是确认事项、负责人、后续动作及所需支持，不能只填一个名字就认为事情已解决。"
+      }
+    ]
+  },
+  "practices": [
+    {
+      "schemaVersion": 1,
+      "practiceId": "practice:commitment",
+      "version": "1",
+      "activity": "核对承诺与前提",
+      "goal": "让双方知道承诺对象、条件及何时需要更新。",
+      "roles": [
+        {
+          "roleName": "提出安排者",
+          "responsibility": "说明条件和范围",
+          "authorityBoundary": "不因发言就视为具有批准权限"
+        },
+        {
+          "roleName": "接收者",
+          "responsibility": "核对理解并提出未决问题",
+          "authorityBoundary": "询问不等于接受承诺"
+        }
+      ],
+      "evidenceCriteria": {
+        "neededEvidence": [
+          "被讨论的版本与范围",
+          "已明确的前提及未决项"
+        ],
+        "decisionCriteria": [
+          "双方能区分暂定安排与已确认承诺"
+        ],
+        "limits": [
+          "教学实践卡，不代替公司合同或授权规则"
+        ]
+      },
+      "questions": [
+        "What conditions does this commitment depend on?",
+        "When will we confirm the date?"
+      ],
+      "responses": [
+        "The date remains tentative until the review is complete."
+      ],
+      "boundaries": [
+        "未回复不等于批准；前提变化需重新沟通。"
+      ],
+      "sourceRefs": []
+    },
+    {
+      "schemaVersion": 1,
+      "practiceId": "practice:ownership",
+      "version": "1",
+      "activity": "明确事项负责人及跟进边界",
+      "goal": "确认谁协调下一步，以及怎样核对进展。",
+      "roles": [
+        {
+          "roleName": "事项负责人",
+          "responsibility": "按约定协调和跟进",
+          "authorityBoundary": "不自动拥有支出、批准或人事权限"
+        },
+        {
+          "roleName": "协作者",
+          "responsibility": "提供所需资料或完成已接受任务",
+          "authorityBoundary": "任务范围须明确"
+        }
+      ],
+      "evidenceCriteria": {
+        "neededEvidence": [
+          "事项描述",
+          "已确认的负责人和下一步"
+        ],
+        "decisionCriteria": [
+          "责任对象和跟进安排可复述"
+        ],
+        "limits": [
+          "具体责任分配依实际约定"
+        ]
+      },
+      "questions": [
+        "Who will own the next action?",
+        "What support does the owner need?"
+      ],
+      "responses": [
+        "I can coordinate the review; approval remains with the designated approver."
+      ],
+      "boundaries": [
+        "承担跟进不等于取得所有批准权。"
+      ],
+      "sourceRefs": []
+    }
+  ],
+  "sources": [
+    {
+      "schemaVersion": 1,
+      "sourceId": "original-vocab",
+      "version": "2026-11-16",
+      "title": "原词库教学句／转述",
+      "url": "public/vocabulary.json",
+      "accessMode": "user_material",
+      "retrievedAt": "2026-11-16T00:00:00+08:00",
+      "coverage": "partial",
+      "rights": "用户授权处理原词库",
+      "limitations": [
+        "非外部作者逐字引文；保留原ID与原句"
+      ]
+    },
+    {
+      "schemaVersion": 1,
+      "sourceId": "oewn-2025",
+      "version": "2025",
+      "title": "Open English Wordnet 2025",
+      "url": "https://en-word.net/",
+      "accessMode": "licensed_snapshot",
+      "retrievedAt": "2026-11-16T00:00:00+08:00",
+      "coverage": "partial",
+      "rights": "CC BY 4.0 + Princeton notice",
+      "limitations": [
+        "本包仅选部分源义；中文非官方译文"
+      ]
+    },
+    {
+      "schemaVersion": 1,
+      "sourceId": "cambridge-ownership",
+      "version": "2026-11-16",
+      "title": "cambridge-ownership",
+      "url": "https://dictionary.cambridge.org/dictionary/english/ownership",
+      "accessMode": "indexed_excerpt",
+      "retrievedAt": "2026-11-16T00:00:00+08:00",
+      "coverage": "partial",
+      "rights": "必要短引与中文整理，不声称批量复制许可",
+      "limitations": [
+        "仅支持记录中的具体主张，不代表完整条目"
+      ]
+    }
+  ],
+  "verifiedIPA": null,
+  "dictionaryURL": "https://en-word.net/",
+  "historyURL": null
+}

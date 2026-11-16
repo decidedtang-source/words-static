@@ -1,0 +1,343 @@
+{
+  "snapshot": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-032",
+    "term": "reassess",
+    "quote": "We need to reassess the plan after the scope change.",
+    "batch": "2026-10-12",
+    "originalFileSHA": "ec65d33d6da99ebad2577f6c9f9938499823d29d117f43532302cf964a4c60a3",
+    "quoteSHA": "47195ea0d5e8f4014d648d32c78c4d70f1f74f67ba3fe0e7f1904590f1f22df1",
+    "originalIPA": "ˌriː.əˈses",
+    "originalPOS": "v.",
+    "originalMeaning": "根据信息变化重新评估"
+  },
+  "selection": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-032",
+    "version": "1",
+    "inventoryRefs": [
+      "inventory:V20261012-032"
+    ],
+    "selectedSenseIds": [
+      "reassess%2:31:00::"
+    ],
+    "reason": "按学习用途选择常见或易混义；这里不是语料频率排名。",
+    "usageTip": "reassess先重评，revise再修改；不要省略判断过程。",
+    "general": "重新评估",
+    "senses": [
+      {
+        "senseId": "reassess%2:31:00::",
+        "title": "重新评估",
+        "usageLabels": [
+          "v.",
+          "精选学习义"
+        ],
+        "explanationZh": "重新评估",
+        "examples": [
+          {
+            "en": "We reassessed the estimate after receiving new data.",
+            "zh": "收到新数据后，我们重新评估了估算。",
+            "origin": "original",
+            "sourceRef": null,
+            "usageNote": "重新评估"
+          }
+        ],
+        "evidenceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-r.json/reassess/v / reassess%2:31:00::",
+            "supportedClaim": "revise or renew one's assessment",
+            "url": "https://en-word.net/"
+          }
+        ]
+      }
+    ]
+  },
+  "senses": [
+    {
+      "schemaVersion": 1,
+      "senseId": "reassess%2:31:00::",
+      "lexicalEntryId": "lex:reassess",
+      "pos": "v.",
+      "definitionOrigin": "licensed_verbatim",
+      "meaning": {
+        "definitionEn": "revise or renew one's assessment",
+        "glossZh": "重新评估",
+        "glossOrigin": "editorial"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "oewn-2025",
+          "sourceVersion": "2025",
+          "locator": "entries-r.json/reassess/v / reassess%2:31:00::",
+          "supportedClaim": "revise or renew one's assessment",
+          "url": "https://en-word.net/"
+        }
+      ],
+      "version": "1"
+    }
+  ],
+  "inventory": {
+    "schemaVersion": 1,
+    "inventoryId": "inventory:V20261012-032",
+    "version": "1",
+    "lexicalEntryId": "lex:reassess",
+    "sources": [
+      "oewn-2025"
+    ],
+    "senseIds": [
+      "reassess%2:31:00::"
+    ],
+    "coverageStatus": "partial"
+  },
+  "context": {
+    "schemaVersion": 1,
+    "contextId": "V20261012-032-context",
+    "entryId": "V20261012-032",
+    "sourceRef": "original-vocab",
+    "quote": "We need to reassess the plan after the scope change.",
+    "quoteSHA": "47195ea0d5e8f4014d648d32c78c4d70f1f74f67ba3fe0e7f1904590f1f22df1",
+    "translation": "范围改变之后，我们需要重新评估计划。",
+    "quoteType": "原词库教学例句／转述；未认定为外部作者逐字引文",
+    "meaning": "基于范围变化再检查原计划是否适用",
+    "qualifiers": {
+      "polarity": "affirmative",
+      "modality": [],
+      "conditions": [],
+      "agents": [],
+      "timeScope": null,
+      "excludedInferences": [
+        "需要重评不代表已经重评，也不自动批准计划修改。"
+      ]
+    },
+    "location": "selected",
+    "senseRefs": [
+      "reassess%2:31:00::"
+    ],
+    "targetSpans": [
+      {
+        "start": 11,
+        "end": 19,
+        "text": "reassess",
+        "mappingType": "exact",
+        "note": "原句精确匹配；词形变化时不伪造span"
+      }
+    ],
+    "context": "仅以保留的这条原句为分析范围；未知背景不补造。"
+  },
+  "history": {
+    "schemaVersion": 1,
+    "lexicalEntryId": "lex:reassess",
+    "version": "1",
+    "summary": "",
+    "claims": [],
+    "sourceRefs": [],
+    "limitations": [
+      "未核实历史资料，不编造词源或年代。"
+    ]
+  },
+  "bridge": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-032",
+    "contextId": "V20261012-032-context",
+    "version": "1",
+    "location": "selected",
+    "strategies": [
+      "direct",
+      "contextualization"
+    ],
+    "anchorRefs": [
+      "reassess%2:31:00::"
+    ],
+    "targetRefs": [
+      "reassess%2:31:00::"
+    ],
+    "semanticText": "源义的再次评估直接落到plan上；scope change提供重评原因，而不是证明原计划全部错误。",
+    "boundary": "需要重评不代表已经重评，也不自动批准计划修改。",
+    "evidenceRefs": [
+      {
+        "sourceId": "oewn-2025",
+        "sourceVersion": "2025",
+        "locator": "entries-r.json/reassess/v / reassess%2:31:00::",
+        "supportedClaim": "revise or renew one's assessment",
+        "url": "https://en-word.net/"
+      }
+    ],
+    "historyLink": null,
+    "historyClaimRefs": [],
+    "returnTargets": [
+      "wl-common",
+      "wl-history"
+    ]
+  },
+  "analysis": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-032",
+    "contextId": "V20261012-032-context",
+    "version": "1",
+    "promptHash": "aaf3bd1e99daf47a70a2a158973652d67ff14dafcfc1748b3fc2a09d719885db",
+    "depth": "standard",
+    "depthReason": "需辨析相邻用法并保留原句的承诺或证据边界。",
+    "coverage": {
+      "syntax": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "syntax-concept"
+        ]
+      },
+      "concept": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "syntax-concept"
+        ]
+      },
+      "contrast": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "contrast"
+        ]
+      },
+      "languageGame": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "game-neighbors"
+        ]
+      },
+      "englishNeighbors": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "game-neighbors"
+        ]
+      },
+      "pragmaticAction": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "action"
+        ]
+      },
+      "workplaceUse": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "workplace"
+        ]
+      }
+    },
+    "blocks": [
+      {
+        "blockId": "syntax-concept",
+        "dimensions": [
+          "syntax",
+          "concept"
+        ],
+        "text": "need to reassess说明行动尚待进行；after the scope change给出重新评估的时点与背景。 范围变了，原有资源、工期或假设可能不再适用。重新评估可能得出调整或维持计划的结论，并不预设必须推倒重来。",
+        "sourceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-r.json/reassess/v / reassess%2:31:00::",
+            "supportedClaim": "revise or renew one's assessment",
+            "url": "https://en-word.net/"
+          }
+        ],
+        "title": "句子结构与当前所指"
+      },
+      {
+        "blockId": "contrast",
+        "dimensions": [
+          "contrast"
+        ],
+        "text": "reassess是重新判断；revise是修改。评估后可能修改，但两者不是同义替换。",
+        "sourceRefs": [],
+        "title": "容易混淆的地方"
+      },
+      {
+        "blockId": "game-neighbors",
+        "dimensions": [
+          "languageGame",
+          "englishNeighbors"
+        ],
+        "text": "应明确范围变化内容，逐项检查受影响的假设、依赖、资源与承诺，并记录哪些结论仍成立。 reassess the plan连接新信息与既有安排；impact assessment帮助找影响；revise the schedule是可能的后续动作。",
+        "sourceRefs": [],
+        "title": "讨论通常怎样继续"
+      },
+      {
+        "blockId": "action",
+        "dimensions": [
+          "pragmaticAction"
+        ],
+        "text": "说话者在要求对变化作出重新判断。",
+        "sourceRefs": [],
+        "title": "说话者正在做什么"
+      },
+      {
+        "blockId": "workplace",
+        "dimensions": [
+          "workplaceUse"
+        ],
+        "text": "下面是迁移到制造业沟通的新例句；不代表原场景中已发生的决定。",
+        "sourceRefs": [],
+        "title": "迁移到工作情境"
+      }
+    ],
+    "workplaceUse": [
+      {
+        "en": "We should reassess the capacity assumptions after the scope change.",
+        "zh": "范围改变后，我们应重新评估产能假设。",
+        "whenToUse": "检查受影响前提。",
+        "limitation": "原创教学表达；具体权限和流程以实际约定为准。",
+        "origin": "original"
+      },
+      {
+        "en": "Does the reassessment support keeping the original date?",
+        "zh": "重新评估的结果支持保留原日期吗？",
+        "whenToUse": "让结论依证据而定。",
+        "limitation": "原创教学表达；具体权限和流程以实际约定为准。",
+        "origin": "original"
+      }
+    ],
+    "practiceRefs": [],
+    "edges": []
+  },
+  "practices": [],
+  "sources": [
+    {
+      "schemaVersion": 1,
+      "sourceId": "original-vocab",
+      "version": "2026-11-16",
+      "title": "原词库教学句／转述",
+      "url": "public/vocabulary.json",
+      "accessMode": "user_material",
+      "retrievedAt": "2026-11-16T01:45:06.410Z",
+      "coverage": "partial",
+      "rights": "用户授权处理原词库",
+      "limitations": [
+        "非外部作者逐字引文；保留原ID与原句"
+      ]
+    },
+    {
+      "schemaVersion": 1,
+      "sourceId": "oewn-2025",
+      "version": "2025",
+      "title": "Open English Wordnet 2025",
+      "url": "https://en-word.net/",
+      "accessMode": "licensed_snapshot",
+      "retrievedAt": "2026-11-16T01:45:06.410Z",
+      "coverage": "partial",
+      "rights": "CC BY 4.0 + Princeton notice",
+      "limitations": [
+        "本包仅选部分源义；中文非官方译文"
+      ]
+    }
+  ],
+  "verifiedIPA": null,
+  "dictionaryURL": "https://en-word.net/",
+  "historyURL": null
+}

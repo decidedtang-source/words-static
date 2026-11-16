@@ -1,0 +1,390 @@
+{
+  "snapshot": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-005",
+    "term": "priority",
+    "quote": "We need to set priorities for the remaining work.",
+    "batch": "2026-10-12",
+    "originalFileSHA": "ec65d33d6da99ebad2577f6c9f9938499823d29d117f43532302cf964a4c60a3",
+    "quoteSHA": "32fc1173c370b0b8e8dd2855ac2b5eedc65484a143cecc121c8cd9edd3fe5f51",
+    "originalIPA": "praɪˈɔːr.ə.t̬i",
+    "originalPOS": "n.",
+    "originalMeaning": "需要优先处理的事项或优先程度"
+  },
+  "selection": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-005",
+    "version": "1",
+    "inventoryRefs": [
+      "inventory:V20261012-005"
+    ],
+    "selectedSenseIds": [
+      "priority%1:26:00::",
+      "priority%1:07:00::"
+    ],
+    "reason": "按学习用途选择常见或易混义；这里不是语料频率排名。",
+    "usageTip": "priority可数；set priorities强调确定先后，give priority to强调优先照顾某项。",
+    "general": "优先事项；重要或紧迫程度；时间上在先；先后地位",
+    "senses": [
+      {
+        "senseId": "priority%1:26:00::",
+        "title": "优先事项；重要或紧迫程度",
+        "usageLabels": [
+          "n.",
+          "精选学习义"
+        ],
+        "explanationZh": "优先事项；重要或紧迫程度",
+        "examples": [
+          {
+            "en": "Safety is our first priority.",
+            "zh": "安全是我们的首要事项。",
+            "origin": "original",
+            "sourceRef": null,
+            "usageNote": "优先事项；重要或紧迫程度"
+          }
+        ],
+        "evidenceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-p.json/priority/n / priority%1:26:00::",
+            "supportedClaim": "status established in order of importance or urgency",
+            "url": "https://en-word.net/"
+          }
+        ]
+      },
+      {
+        "senseId": "priority%1:07:00::",
+        "title": "时间上在先；先后地位",
+        "usageLabels": [
+          "n.",
+          "精选学习义"
+        ],
+        "explanationZh": "时间上在先；先后地位",
+        "examples": [
+          {
+            "en": "The earlier filing has priority in time.",
+            "zh": "较早的申请在时间上在先。",
+            "origin": "original",
+            "sourceRef": null,
+            "usageNote": "时间上在先；先后地位"
+          }
+        ],
+        "evidenceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-p.json/priority/n / priority%1:07:00::",
+            "supportedClaim": "preceding in time",
+            "url": "https://en-word.net/"
+          }
+        ]
+      }
+    ]
+  },
+  "senses": [
+    {
+      "schemaVersion": 1,
+      "senseId": "priority%1:26:00::",
+      "lexicalEntryId": "lex:priority",
+      "pos": "n.",
+      "definitionOrigin": "licensed_verbatim",
+      "meaning": {
+        "definitionEn": "status established in order of importance or urgency",
+        "glossZh": "优先事项；重要或紧迫程度",
+        "glossOrigin": "editorial"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "oewn-2025",
+          "sourceVersion": "2025",
+          "locator": "entries-p.json/priority/n / priority%1:26:00::",
+          "supportedClaim": "status established in order of importance or urgency",
+          "url": "https://en-word.net/"
+        }
+      ],
+      "version": "1"
+    },
+    {
+      "schemaVersion": 1,
+      "senseId": "priority%1:07:00::",
+      "lexicalEntryId": "lex:priority",
+      "pos": "n.",
+      "definitionOrigin": "licensed_verbatim",
+      "meaning": {
+        "definitionEn": "preceding in time",
+        "glossZh": "时间上在先；先后地位",
+        "glossOrigin": "editorial"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "oewn-2025",
+          "sourceVersion": "2025",
+          "locator": "entries-p.json/priority/n / priority%1:07:00::",
+          "supportedClaim": "preceding in time",
+          "url": "https://en-word.net/"
+        }
+      ],
+      "version": "1"
+    }
+  ],
+  "inventory": {
+    "schemaVersion": 1,
+    "inventoryId": "inventory:V20261012-005",
+    "version": "1",
+    "lexicalEntryId": "lex:priority",
+    "sources": [
+      "oewn-2025"
+    ],
+    "senseIds": [
+      "priority%1:26:00::",
+      "priority%1:07:00::"
+    ],
+    "coverageStatus": "partial"
+  },
+  "context": {
+    "schemaVersion": 1,
+    "contextId": "V20261012-005-context",
+    "entryId": "V20261012-005",
+    "sourceRef": "original-vocab",
+    "quote": "We need to set priorities for the remaining work.",
+    "quoteSHA": "32fc1173c370b0b8e8dd2855ac2b5eedc65484a143cecc121c8cd9edd3fe5f51",
+    "translation": "我们需要为剩余工作确定优先次序。",
+    "quoteType": "原词库教学例句／转述；未认定为外部作者逐字引文",
+    "meaning": "对剩余事项安排先处理什么",
+    "qualifiers": {
+      "polarity": "affirmative",
+      "modality": [
+        "need to (necessity)"
+      ],
+      "conditions": [],
+      "agents": [
+        "we"
+      ],
+      "timeScope": "remaining work",
+      "excludedInferences": [
+        "不能从need to set补出已获批准的任务顺序。"
+      ]
+    },
+    "location": "selected",
+    "senseRefs": [
+      "priority%1:26:00::"
+    ],
+    "targetSpans": [],
+    "context": "仅以保留的这条原句为分析范围；未知背景不补造。"
+  },
+  "history": {
+    "schemaVersion": 1,
+    "lexicalEntryId": "lex:priority",
+    "version": "1",
+    "summary": "",
+    "claims": [],
+    "sourceRefs": [],
+    "limitations": [
+      "未核实历史资料，不编造词源或年代。"
+    ]
+  },
+  "bridge": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-005",
+    "contextId": "V20261012-005-context",
+    "version": "1",
+    "location": "selected",
+    "strategies": [
+      "direct",
+      "contextualization"
+    ],
+    "anchorRefs": [
+      "priority%1:26:00::"
+    ],
+    "targetRefs": [
+      "priority%1:26:00::"
+    ],
+    "semanticText": "优先程度义在这里变成一项规划动作：给余下工作定先后。不是只描述谁在时间上先到。",
+    "boundary": "不能从need to set补出已获批准的任务顺序。",
+    "evidenceRefs": [
+      {
+        "sourceId": "oewn-2025",
+        "sourceVersion": "2025",
+        "locator": "entries-p.json/priority/n / priority%1:26:00::",
+        "supportedClaim": "status established in order of importance or urgency",
+        "url": "https://en-word.net/"
+      }
+    ],
+    "historyLink": null,
+    "historyClaimRefs": [],
+    "returnTargets": [
+      "wl-common",
+      "wl-history"
+    ]
+  },
+  "analysis": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-005",
+    "contextId": "V20261012-005-context",
+    "version": "1",
+    "promptHash": "aaf3bd1e99daf47a70a2a158973652d67ff14dafcfc1748b3fc2a09d719885db",
+    "depth": "standard",
+    "depthReason": "需辨析相邻用法并保留原句的承诺或证据边界。",
+    "coverage": {
+      "syntax": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "syntax-concept"
+        ]
+      },
+      "concept": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "syntax-concept"
+        ]
+      },
+      "contrast": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "contrast"
+        ]
+      },
+      "languageGame": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "game-neighbors"
+        ]
+      },
+      "englishNeighbors": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "game-neighbors"
+        ]
+      },
+      "pragmaticAction": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "action"
+        ]
+      },
+      "workplaceUse": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "workplace"
+        ]
+      }
+    },
+    "blocks": [
+      {
+        "blockId": "syntax-concept",
+        "dimensions": [
+          "syntax",
+          "concept"
+        ],
+        "text": "need to set表示有待完成的行动；priorities用复数，for the remaining work限定排序范围。 剩余事项需要有相对先后，而不是把所有事情都标成最高。句子没有指定排序依据或具体排第一的任务。",
+        "sourceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-p.json/priority/n / priority%1:26:00::",
+            "supportedClaim": "status established in order of importance or urgency",
+            "url": "https://en-word.net/"
+          }
+        ],
+        "title": "句子结构与当前所指"
+      },
+      {
+        "blockId": "contrast",
+        "dimensions": [
+          "contrast"
+        ],
+        "text": "priority不等于deadline：临近截止可能提高紧迫度，却不是唯一重要性依据。sequence关注执行顺序，可能还受依赖关系限制。",
+        "sourceRefs": [],
+        "title": "容易混淆的地方"
+      },
+      {
+        "blockId": "game-neighbors",
+        "dimensions": [
+          "languageGame",
+          "englishNeighbors"
+        ],
+        "text": "这是资源与目标对齐的讨论。应说明排序理由，例如影响、时限或依赖，然后由相关人员核定可执行次序。 set priorities先定次序；competing priorities说明多个要求争用资源；top priority表达目前最应优先考虑的事项。",
+        "sourceRefs": [],
+        "title": "讨论通常怎样继续"
+      },
+      {
+        "blockId": "action",
+        "dimensions": [
+          "pragmaticAction"
+        ],
+        "text": "说话者在要求开展排序，而非宣布已有一个确定排名。",
+        "sourceRefs": [],
+        "title": "说话者正在做什么"
+      },
+      {
+        "blockId": "workplace",
+        "dimensions": [
+          "workplaceUse"
+        ],
+        "text": "下面是迁移到制造业沟通的新例句；不代表原场景中已发生的决定。",
+        "sourceRefs": [],
+        "title": "迁移到工作情境"
+      }
+    ],
+    "workplaceUse": [
+      {
+        "en": "Can we agree on the priorities for the remaining inspections?",
+        "zh": "我们能就剩余检验的优先次序达成一致吗？",
+        "whenToUse": "协调检验资源。",
+        "limitation": "原创教学表达；具体权限和流程以实际约定为准。",
+        "origin": "original"
+      },
+      {
+        "en": "Which request should take priority, and why?",
+        "zh": "哪个请求应优先处理，为什么？",
+        "whenToUse": "让排序理由可讨论。",
+        "limitation": "原创教学表达；具体权限和流程以实际约定为准。",
+        "origin": "original"
+      }
+    ],
+    "practiceRefs": [],
+    "edges": []
+  },
+  "practices": [],
+  "sources": [
+    {
+      "schemaVersion": 1,
+      "sourceId": "original-vocab",
+      "version": "2026-11-16",
+      "title": "原词库教学句／转述",
+      "url": "public/vocabulary.json",
+      "accessMode": "user_material",
+      "retrievedAt": "2026-11-16T01:45:06.410Z",
+      "coverage": "partial",
+      "rights": "用户授权处理原词库",
+      "limitations": [
+        "非外部作者逐字引文；保留原ID与原句"
+      ]
+    },
+    {
+      "schemaVersion": 1,
+      "sourceId": "oewn-2025",
+      "version": "2025",
+      "title": "Open English Wordnet 2025",
+      "url": "https://en-word.net/",
+      "accessMode": "licensed_snapshot",
+      "retrievedAt": "2026-11-16T01:45:06.410Z",
+      "coverage": "partial",
+      "rights": "CC BY 4.0 + Princeton notice",
+      "limitations": [
+        "本包仅选部分源义；中文非官方译文"
+      ]
+    }
+  ],
+  "verifiedIPA": null,
+  "dictionaryURL": "https://en-word.net/",
+  "historyURL": null
+}

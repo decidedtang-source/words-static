@@ -1,0 +1,380 @@
+{
+  "snapshot": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-093",
+    "term": "provided that",
+    "quote": "We can proceed provided that the owner confirms the scope.",
+    "batch": "2026-10-12",
+    "originalFileSHA": "ec65d33d6da99ebad2577f6c9f9938499823d29d117f43532302cf964a4c60a3",
+    "quoteSHA": "b9b94ba7b9372848745dbd97021d5bccb32b527a678968e9012f74818cbe2c53",
+    "originalIPA": "prəˈvaɪ.dɪd ðæt",
+    "originalPOS": "条件连接表达",
+    "originalMeaning": "只要满足后面的条件"
+  },
+  "selection": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-093",
+    "version": "1",
+    "inventoryRefs": [
+      "inventory:V20261012-093"
+    ],
+    "selectedSenseIds": [
+      "web:cambridge-provided"
+    ],
+    "reason": "按学习用途选择常见或易混义；这里不是语料频率排名。",
+    "usageTip": "条件从句必须和主句一起转述；删掉provided that会改变承诺范围。",
+    "general": "只要；在……条件下",
+    "senses": [
+      {
+        "senseId": "web:cambridge-provided",
+        "title": "只要；在……条件下",
+        "usageLabels": [
+          "conj.",
+          "精选学习义"
+        ],
+        "explanationZh": "只要；在……条件下。例句说明的用法：只要戴上护目镜，你就可以进入。",
+        "examples": [
+          {
+            "en": "You may enter provided that you wear safety glasses.",
+            "zh": "只要戴上护目镜，你就可以进入。",
+            "origin": "original",
+            "sourceRef": null,
+            "usageNote": "只要；在……条件下。例句说明的用法：只要戴上护目镜，你就可以进入。"
+          }
+        ],
+        "evidenceRefs": [
+          {
+            "sourceId": "cambridge-provided",
+            "sourceVersion": "2026-11-16",
+            "locator": "conjunction, also provided that",
+            "supportedClaim": "provided that引出条件；不能删除其条件从句。",
+            "url": "https://dictionary.cambridge.org/dictionary/english/provided"
+          }
+        ]
+      }
+    ]
+  },
+  "senses": [
+    {
+      "schemaVersion": 1,
+      "senseId": "web:cambridge-provided",
+      "lexicalEntryId": "lex:provided that",
+      "pos": "conj.",
+      "definitionOrigin": "short_quote",
+      "meaning": {
+        "definitionEn": "if, or only if",
+        "glossZh": "只要；在……条件下",
+        "glossOrigin": "editorial"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "cambridge-provided",
+          "sourceVersion": "2026-11-16",
+          "locator": "conjunction, also provided that",
+          "supportedClaim": "provided that引出条件；不能删除其条件从句。",
+          "url": "https://dictionary.cambridge.org/dictionary/english/provided"
+        }
+      ],
+      "version": "1"
+    }
+  ],
+  "inventory": {
+    "schemaVersion": 1,
+    "inventoryId": "inventory:V20261012-093",
+    "version": "1",
+    "lexicalEntryId": "lex:provided that",
+    "sources": [
+      "cambridge-provided"
+    ],
+    "senseIds": [
+      "web:cambridge-provided"
+    ],
+    "coverageStatus": "partial"
+  },
+  "context": {
+    "schemaVersion": 1,
+    "contextId": "V20261012-093-context",
+    "entryId": "V20261012-093",
+    "sourceRef": "original-vocab",
+    "quote": "We can proceed provided that the owner confirms the scope.",
+    "quoteSHA": "b9b94ba7b9372848745dbd97021d5bccb32b527a678968e9012f74818cbe2c53",
+    "translation": "在负责人确认范围的条件下，我们可以继续。",
+    "quoteType": "原词库教学例句／转述；未认定为外部作者逐字引文",
+    "meaning": "把负责人确认范围设为继续推进的条件",
+    "qualifiers": {
+      "polarity": "affirmative",
+      "modality": [
+        "can"
+      ],
+      "conditions": [
+        "the owner confirms the scope"
+      ],
+      "agents": [
+        "we",
+        "the owner"
+      ],
+      "timeScope": null,
+      "excludedInferences": [
+        "不认定条件已经满足，也不把这句话推广为所有项目的唯一开工规则。"
+      ]
+    },
+    "location": "whole_expression",
+    "senseRefs": [
+      "web:cambridge-provided"
+    ],
+    "targetSpans": [
+      {
+        "start": 15,
+        "end": 28,
+        "text": "provided that",
+        "mappingType": "exact",
+        "note": "原句精确匹配；词形变化时不伪造span"
+      }
+    ],
+    "context": "仅以保留的这条原句为分析范围；未知背景不补造。",
+    "expressionExplanation": {
+      "kind": "fixed",
+      "text": "把负责人确认范围设为继续推进的条件",
+      "componentRefs": [
+        {
+          "sourceId": "cambridge-provided",
+          "sourceVersion": "2026-11-16",
+          "locator": "conjunction, also provided that",
+          "supportedClaim": "provided that引出条件；不能删除其条件从句。",
+          "url": "https://dictionary.cambridge.org/dictionary/english/provided"
+        }
+      ],
+      "wholeExpressionRefs": [],
+      "boundary": "不认定条件已经满足，也不把这句话推广为所有项目的唯一开工规则。",
+      "reviewerBasis": "待独立完整包核对表达身份与证据范围"
+    }
+  },
+  "history": {
+    "schemaVersion": 1,
+    "lexicalEntryId": "lex:provided that",
+    "version": "1",
+    "summary": "",
+    "claims": [],
+    "sourceRefs": [],
+    "limitations": [
+      "未核实历史资料，不编造词源或年代。"
+    ]
+  },
+  "bridge": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-093",
+    "contextId": "V20261012-093-context",
+    "version": "1",
+    "location": "whole_expression",
+    "strategies": [
+      "direct",
+      "no_derivation"
+    ],
+    "anchorRefs": [
+      "web:cambridge-provided"
+    ],
+    "targetRefs": [
+      "web:cambridge-provided"
+    ],
+    "semanticText": "整段是词典收录的条件连接表达，应整体理解。它把“可以继续”和“负责人确认范围”连接起来，不能按provide＋that逐词拼成提供某物。",
+    "boundary": "不认定条件已经满足，也不把这句话推广为所有项目的唯一开工规则。",
+    "evidenceRefs": [
+      {
+        "sourceId": "cambridge-provided",
+        "sourceVersion": "2026-11-16",
+        "locator": "conjunction, also provided that",
+        "supportedClaim": "provided that引出条件；不能删除其条件从句。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/provided"
+      }
+    ],
+    "historyLink": null,
+    "historyClaimRefs": [],
+    "returnTargets": [
+      "wl-common",
+      "wl-history"
+    ]
+  },
+  "analysis": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-093",
+    "contextId": "V20261012-093-context",
+    "version": "1",
+    "promptHash": "aaf3bd1e99daf47a70a2a158973652d67ff14dafcfc1748b3fc2a09d719885db",
+    "depth": "deep",
+    "depthReason": "条件从句影响能否行动，误删会扩大授权。",
+    "coverage": {
+      "syntax": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "syntax-concept"
+        ]
+      },
+      "concept": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "syntax-concept"
+        ]
+      },
+      "contrast": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "contrast"
+        ]
+      },
+      "languageGame": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "game-neighbors"
+        ]
+      },
+      "englishNeighbors": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "game-neighbors"
+        ]
+      },
+      "pragmaticAction": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "action"
+        ]
+      },
+      "workplaceUse": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "workplace"
+        ]
+      }
+    },
+    "blocks": [
+      {
+        "blockId": "syntax-concept",
+        "dimensions": [
+          "syntax",
+          "concept"
+        ],
+        "text": "provided that引导条件从句the owner confirms the scope，修饰主句We can proceed；不是provide的“提供”动作。 主句的可推进状态受到条件限制。原句没有说负责人已确认，也没有说明其他可能的要求是否已满足。",
+        "sourceRefs": [
+          {
+            "sourceId": "cambridge-provided",
+            "sourceVersion": "2026-11-16",
+            "locator": "conjunction, also provided that",
+            "supportedClaim": "provided that引出条件；不能删除其条件从句。",
+            "url": "https://dictionary.cambridge.org/dictionary/english/provided"
+          }
+        ],
+        "title": "句子结构与当前所指"
+      },
+      {
+        "blockId": "contrast",
+        "dimensions": [
+          "contrast"
+        ],
+        "text": "because用于提出原因，provided that用于设条件。换成because会暗示确认已是原因背景，改变原句的未决性。",
+        "sourceRefs": [],
+        "title": "容易混淆的地方"
+      },
+      {
+        "blockId": "game-neighbors",
+        "dimensions": [
+          "languageGame",
+          "englishNeighbors"
+        ],
+        "text": "这是有条件安排。下一步可核对谁确认、确认哪个范围版本，并保留尚未满足的状态。 subject to confirmation和on condition that也是限制行动的表达；confirm the scope把条件具体化到对象，不是泛泛要一个同意。",
+        "sourceRefs": [],
+        "title": "讨论通常怎样继续"
+      },
+      {
+        "blockId": "action",
+        "dimensions": [
+          "pragmaticAction"
+        ],
+        "text": "说话者允许在条件满足时推进，同时限制当下承诺；不是发出无条件开工令。",
+        "sourceRefs": [],
+        "title": "说话者正在做什么"
+      },
+      {
+        "blockId": "workplace",
+        "dimensions": [
+          "workplaceUse"
+        ],
+        "text": "下面是迁移到制造业沟通的新例句；不代表原场景中已发生的决定。",
+        "sourceRefs": [],
+        "title": "迁移到工作情境"
+      }
+    ],
+    "workplaceUse": [
+      {
+        "en": "We can start the trial provided that the safety review is complete.",
+        "zh": "在安全评审完成的条件下，我们可以开始试验。",
+        "whenToUse": "表达明确的前置条件。",
+        "limitation": "原创教学表达；具体权限和流程以实际约定为准。",
+        "origin": "original"
+      },
+      {
+        "en": "The date is acceptable provided that the supplier confirms capacity.",
+        "zh": "只要供应商确认产能，这个日期就可以接受。",
+        "whenToUse": "有条件接受排期。",
+        "limitation": "原创教学表达；具体权限和流程以实际约定为准。",
+        "origin": "original"
+      }
+    ],
+    "practiceRefs": [],
+    "edges": []
+  },
+  "practices": [],
+  "sources": [
+    {
+      "schemaVersion": 1,
+      "sourceId": "original-vocab",
+      "version": "2026-11-16",
+      "title": "原词库教学句／转述",
+      "url": "public/vocabulary.json",
+      "accessMode": "user_material",
+      "retrievedAt": "2026-11-16T01:45:06.410Z",
+      "coverage": "partial",
+      "rights": "用户授权处理原词库",
+      "limitations": [
+        "非外部作者逐字引文；保留原ID与原句"
+      ]
+    },
+    {
+      "schemaVersion": 1,
+      "sourceId": "oewn-2025",
+      "version": "2025",
+      "title": "Open English Wordnet 2025",
+      "url": "https://en-word.net/",
+      "accessMode": "licensed_snapshot",
+      "retrievedAt": "2026-11-16T01:45:06.410Z",
+      "coverage": "partial",
+      "rights": "CC BY 4.0 + Princeton notice",
+      "limitations": [
+        "本包仅选部分源义；中文非官方译文"
+      ]
+    },
+    {
+      "schemaVersion": 1,
+      "sourceId": "cambridge-provided",
+      "version": "2026-11-16",
+      "title": "cambridge-provided",
+      "url": "https://dictionary.cambridge.org/dictionary/english/provided",
+      "accessMode": "indexed_excerpt",
+      "retrievedAt": "2026-11-16T01:45:06.410Z",
+      "coverage": "partial",
+      "rights": "必要短引与中文整理，不声称批量复制许可",
+      "limitations": [
+        "仅支持记录中的具体主张，不代表完整条目"
+      ]
+    }
+  ],
+  "verifiedIPA": "prəˈvaɪ.dɪd ðət",
+  "dictionaryURL": "https://dictionary.cambridge.org/dictionary/english/provided",
+  "historyURL": null
+}

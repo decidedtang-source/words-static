@@ -1,0 +1,452 @@
+{
+  "snapshot": {
+    "schemaVersion": 1,
+    "entryId": "V20261014-076",
+    "term": "validation method",
+    "quote": "Choose a validation method that reflects actual use.",
+    "batch": "2026-10-14",
+    "originalFileSHA": "ec65d33d6da99ebad2577f6c9f9938499823d29d117f43532302cf964a4c60a3",
+    "quoteSHA": "151069f6c79d08483b9d29e46fe9c645c96c0d03d51c30c3962e712e2b21eea2",
+    "originalIPA": "ˌvæl.əˈdeɪ.ʃən ˈmeθ.əd",
+    "originalPOS": "n. phrase",
+    "originalMeaning": "用于确认方案是否适合真实预期用途的方法"
+  },
+  "selection": {
+    "schemaVersion": 1,
+    "entryId": "V20261014-076",
+    "version": "1",
+    "inventoryRefs": [
+      "inventory:V20261014-076"
+    ],
+    "selectedSenseIds": [
+      "validation%1:04:00::",
+      "method%1:09:00::"
+    ],
+    "reason": "按学习用途选择常见或易混义；这里不是语料频率排名。",
+    "general": "确认有效性；检验是否成立；方法；系统做法",
+    "senses": [
+      {
+        "senseId": "validation%1:04:00::",
+        "title": "确认有效性；检验是否成立",
+        "usageLabels": [
+          "n. phrase",
+          "精选学习义"
+        ],
+        "explanationZh": "确认有效性；检验是否成立",
+        "examples": [
+          {
+            "en": "The model requires further validation.",
+            "zh": "这个模型还需要进一步确认有效性。",
+            "origin": "original",
+            "sourceRef": null,
+            "usageNote": "原创教学例句，不是来源原话"
+          }
+        ],
+        "evidenceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-v.json/validation/n / validation%1:04:00::",
+            "supportedClaim": "the act of validating; finding or testing the truth of something",
+            "url": "https://en-word.net/"
+          }
+        ]
+      },
+      {
+        "senseId": "method%1:09:00::",
+        "title": "方法；系统做法",
+        "usageLabels": [
+          "n. phrase",
+          "精选学习义"
+        ],
+        "explanationZh": "方法；系统做法",
+        "examples": [
+          {
+            "en": "We changed the method, not the objective.",
+            "zh": "我们改变的是方法，不是目标。",
+            "origin": "original",
+            "sourceRef": null,
+            "usageNote": "原创教学例句，不是来源原话"
+          }
+        ],
+        "evidenceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-m.json/method/n / method%1:09:00::",
+            "supportedClaim": "a way of doing something, especially a systematic way; implies an orderly logical arrangement (usually in steps)",
+            "url": "https://en-word.net/"
+          }
+        ]
+      }
+    ]
+  },
+  "senses": [
+    {
+      "schemaVersion": 1,
+      "senseId": "validation%1:04:00::",
+      "lexicalEntryId": "lex:validation method",
+      "pos": "n. phrase",
+      "meaning": {
+        "definitionEn": "the act of validating; finding or testing the truth of something",
+        "glossZh": "确认有效性；检验是否成立",
+        "glossOrigin": "editorial"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "oewn-2025",
+          "sourceVersion": "2025",
+          "locator": "entries-v.json/validation/n / validation%1:04:00::",
+          "supportedClaim": "the act of validating; finding or testing the truth of something",
+          "url": "https://en-word.net/"
+        }
+      ],
+      "version": "1"
+    },
+    {
+      "schemaVersion": 1,
+      "senseId": "method%1:09:00::",
+      "lexicalEntryId": "lex:validation method",
+      "pos": "n. phrase",
+      "meaning": {
+        "definitionEn": "a way of doing something, especially a systematic way; implies an orderly logical arrangement (usually in steps)",
+        "glossZh": "方法；系统做法",
+        "glossOrigin": "editorial"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "oewn-2025",
+          "sourceVersion": "2025",
+          "locator": "entries-m.json/method/n / method%1:09:00::",
+          "supportedClaim": "a way of doing something, especially a systematic way; implies an orderly logical arrangement (usually in steps)",
+          "url": "https://en-word.net/"
+        }
+      ],
+      "version": "1"
+    },
+    {
+      "schemaVersion": 1,
+      "senseId": "web:nasa-verification",
+      "lexicalEntryId": "lex:validation method",
+      "pos": "n. phrase",
+      "meaning": {
+        "definitionEn": "verification provides objective evidence",
+        "glossZh": "确认产品适合预定用途的方法",
+        "glossOrigin": "editorial"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "nasa-verification",
+          "sourceVersion": "2026-11-16",
+          "locator": "5.3 Product Verification; 5.4 Product Validation",
+          "supportedClaim": "Verification对照规定要求；validation关注预定使用环境和用户需求。检查、分析、演示、测试可作方法；具体选择依要求与场景，不能将NASA流程当成本公司制度。",
+          "url": "https://www.nasa.gov/reference/5-0-product-realization/"
+        }
+      ],
+      "version": "1"
+    }
+  ],
+  "inventory": {
+    "schemaVersion": 1,
+    "inventoryId": "inventory:V20261014-076",
+    "version": "1",
+    "lexicalEntryId": "lex:validation method",
+    "sources": [
+      "oewn-2025",
+      "nasa-verification"
+    ],
+    "senseIds": [
+      "validation%1:04:00::",
+      "method%1:09:00::",
+      "web:nasa-verification"
+    ],
+    "coverageStatus": "partial"
+  },
+  "context": {
+    "schemaVersion": 1,
+    "contextId": "V20261014-076-context",
+    "entryId": "V20261014-076",
+    "sourceRef": "original-vocab",
+    "quote": "Choose a validation method that reflects actual use.",
+    "quoteSHA": "151069f6c79d08483b9d29e46fe9c645c96c0d03d51c30c3962e712e2b21eea2",
+    "translation": "选择一种能反映实际使用情况的确认方法。",
+    "quoteType": "原词库教学例句／转述；未认定为外部作者逐字引文",
+    "meaning": "用贴近实际使用的方式确认产品是否适合预定用途",
+    "qualifiers": {
+      "polarity": "affirmative",
+      "modality": [],
+      "conditions": [],
+      "agents": [],
+      "timeScope": null,
+      "excludedInferences": [
+        "不能将validation简化为“比verification更严格的测试”，也不能说产品已获准投用。"
+      ]
+    },
+    "location": "external",
+    "senseRefs": [
+      "web:nasa-verification"
+    ],
+    "targetSpans": [
+      {
+        "start": 9,
+        "end": 26,
+        "text": "validation method",
+        "mappingType": "exact",
+        "note": "原句精确匹配；词形变化时不伪造span"
+      }
+    ],
+    "context": "仅以保留的这条原句为分析范围；未知背景不补造。",
+    "expressionExplanation": {
+      "kind": "technical",
+      "text": "用贴近实际使用的方式确认产品是否适合预定用途",
+      "componentRefs": [
+        {
+          "sourceId": "nasa-verification",
+          "sourceVersion": "2026-11-16",
+          "locator": "5.3 Product Verification; 5.4 Product Validation",
+          "supportedClaim": "Verification对照规定要求；validation关注预定使用环境和用户需求。检查、分析、演示、测试可作方法；具体选择依要求与场景，不能将NASA流程当成本公司制度。",
+          "url": "https://www.nasa.gov/reference/5-0-product-realization/"
+        }
+      ],
+      "wholeExpressionRefs": [
+        {
+          "sourceId": "nasa-verification",
+          "sourceVersion": "2026-11-16",
+          "locator": "5.3 Product Verification; 5.4 Product Validation",
+          "supportedClaim": "Verification对照规定要求；validation关注预定使用环境和用户需求。检查、分析、演示、测试可作方法；具体选择依要求与场景，不能将NASA流程当成本公司制度。",
+          "url": "https://www.nasa.gov/reference/5-0-product-realization/"
+        }
+      ],
+      "boundary": "不能将validation简化为“比verification更严格的测试”，也不能说产品已获准投用。",
+      "reviewerBasis": "待独立完整包核对表达身份与证据范围"
+    }
+  },
+  "history": {
+    "schemaVersion": 1,
+    "lexicalEntryId": "lex:validation method",
+    "version": "1",
+    "summary": "",
+    "claims": [],
+    "sourceRefs": [],
+    "limitations": [
+      "未核实历史资料，不编造词源或年代。"
+    ]
+  },
+  "bridge": {
+    "schemaVersion": 1,
+    "entryId": "V20261014-076",
+    "contextId": "V20261014-076-context",
+    "version": "1",
+    "location": "external",
+    "strategies": [
+      "needs_specialist_concept",
+      "evidenced_modern_link"
+    ],
+    "anchorRefs": [
+      "validation%1:04:00::"
+    ],
+    "targetRefs": [
+      "web:nasa-verification"
+    ],
+    "semanticText": "普通validation可理解为确认是否有效，但这里需补上工程中的“预定用途”判准。前部method义说明是做法，专业资料说明这项做法应回答什么问题。",
+    "boundary": "不能将validation简化为“比verification更严格的测试”，也不能说产品已获准投用。",
+    "evidenceRefs": [
+      {
+        "sourceId": "nasa-verification",
+        "sourceVersion": "2026-11-16",
+        "locator": "5.3 Product Verification; 5.4 Product Validation",
+        "supportedClaim": "Verification对照规定要求；validation关注预定使用环境和用户需求。检查、分析、演示、测试可作方法；具体选择依要求与场景，不能将NASA流程当成本公司制度。",
+        "url": "https://www.nasa.gov/reference/5-0-product-realization/"
+      }
+    ],
+    "historyLink": null,
+    "historyClaimRefs": [],
+    "returnTargets": [
+      "wl-common",
+      "wl-history"
+    ]
+  },
+  "analysis": {
+    "schemaVersion": 1,
+    "entryId": "V20261014-076",
+    "contextId": "V20261014-076-context",
+    "version": "1",
+    "promptHash": "aaf3bd1e99daf47a70a2a158973652d67ff14dafcfc1748b3fc2a09d719885db",
+    "depth": "deep",
+    "depthReason": "必须说明用途与规定要求的区别。",
+    "coverage": {
+      "syntax": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "syntax-concept"
+        ]
+      },
+      "concept": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "syntax-concept"
+        ]
+      },
+      "contrast": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "contrast"
+        ]
+      },
+      "languageGame": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "game-neighbors"
+        ]
+      },
+      "englishNeighbors": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "game-neighbors"
+        ]
+      },
+      "pragmaticAction": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "action"
+        ]
+      },
+      "workplaceUse": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "workplace"
+        ]
+      }
+    },
+    "blocks": [
+      {
+        "blockId": "syntax-concept",
+        "dimensions": [
+          "syntax",
+          "concept"
+        ],
+        "text": "that reflects actual use是关系从句，修饰validation method；Choose要求选择方法，不是报告确认已经完成。 现实问题是实验室达标的产品在使用者真实任务中是否合适。需要考虑典型用户、预定环境和用途；actual use限制了方法选择，不只是强调多做一次测试。",
+        "sourceRefs": [
+          {
+            "sourceId": "nasa-verification",
+            "sourceVersion": "2026-11-16",
+            "locator": "5.3 Product Verification; 5.4 Product Validation",
+            "supportedClaim": "Verification对照规定要求；validation关注预定使用环境和用户需求。检查、分析、演示、测试可作方法；具体选择依要求与场景，不能将NASA流程当成本公司制度。",
+            "url": "https://www.nasa.gov/reference/5-0-product-realization/"
+          }
+        ],
+        "title": "句子结构与当前所指"
+      },
+      {
+        "blockId": "contrast",
+        "dimensions": [
+          "contrast"
+        ],
+        "text": "验证规格是否满足是verification；确认实际用途是否适合是validation。相同试验可能提供两类证据，但问题与判准必须分别清楚。",
+        "sourceRefs": [],
+        "title": "容易混淆的地方"
+      },
+      {
+        "blockId": "game-neighbors",
+        "dimensions": [
+          "languageGame",
+          "englishNeighbors"
+        ],
+        "text": "这是确认策划：先明确用户任务和使用条件，再选择怎样观察是否达到预期用途。NASA框架提供概念区分，不替用户公司规定审批流程。 intended use连到使用目标；representative conditions连到试验环境；user needs连到判定是否真正适用。",
+        "sourceRefs": [],
+        "title": "讨论通常怎样继续"
+      },
+      {
+        "blockId": "action",
+        "dimensions": [
+          "pragmaticAction"
+        ],
+        "text": "说话者要求方法与使用情境相匹配，反对只凭方便就选择一种不相关的检查。",
+        "sourceRefs": [],
+        "title": "说话者正在做什么"
+      },
+      {
+        "blockId": "workplace",
+        "dimensions": [
+          "workplaceUse"
+        ],
+        "text": "下面是迁移到制造业沟通的新例句；不代表原场景中已发生的决定。",
+        "sourceRefs": [],
+        "title": "迁移到工作情境"
+      }
+    ],
+    "workplaceUse": [
+      {
+        "en": "Does this validation method represent the intended operating conditions?",
+        "zh": "这种确认方法能代表预定运行条件吗？",
+        "whenToUse": "审查方法与用途是否匹配。",
+        "limitation": "原创教学表达；具体权限和流程以实际约定为准。",
+        "origin": "original"
+      },
+      {
+        "en": "We should include typical operator tasks in the validation plan.",
+        "zh": "我们应在确认计划中纳入典型操作员任务。",
+        "whenToUse": "把用户实际任务纳入策划。",
+        "limitation": "原创教学表达；具体权限和流程以实际约定为准。",
+        "origin": "original"
+      }
+    ],
+    "practiceRefs": [],
+    "edges": []
+  },
+  "practices": [],
+  "sources": [
+    {
+      "schemaVersion": 1,
+      "sourceId": "original-vocab",
+      "version": "2026-11-16",
+      "title": "原词库教学句／转述",
+      "url": "public/vocabulary.json",
+      "accessMode": "user_material",
+      "retrievedAt": "2026-11-16T00:00:00+08:00",
+      "coverage": "partial",
+      "rights": "用户授权处理原词库",
+      "limitations": [
+        "非外部作者逐字引文；保留原ID与原句"
+      ]
+    },
+    {
+      "schemaVersion": 1,
+      "sourceId": "oewn-2025",
+      "version": "2025",
+      "title": "Open English Wordnet 2025",
+      "url": "https://en-word.net/",
+      "accessMode": "licensed_snapshot",
+      "retrievedAt": "2026-11-16T00:00:00+08:00",
+      "coverage": "partial",
+      "rights": "CC BY 4.0 + Princeton notice",
+      "limitations": [
+        "本包仅选部分源义；中文非官方译文"
+      ]
+    },
+    {
+      "schemaVersion": 1,
+      "sourceId": "nasa-verification",
+      "version": "2026-11-16",
+      "title": "nasa-verification",
+      "url": "https://www.nasa.gov/reference/5-0-product-realization/",
+      "accessMode": "page",
+      "retrievedAt": "2026-11-16T00:00:00+08:00",
+      "coverage": "partial",
+      "rights": "必要短引与中文整理，不声称批量复制许可",
+      "limitations": [
+        "仅支持记录中的具体主张，不代表完整条目"
+      ]
+    }
+  ],
+  "verifiedIPA": null,
+  "dictionaryURL": "https://en-word.net/",
+  "historyURL": null
+}

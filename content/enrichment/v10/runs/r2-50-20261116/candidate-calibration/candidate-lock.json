@@ -1,0 +1,60 @@
+{
+  "planFreezeId": "v10-plan-r2-20261116-01",
+  "phase": "calibration",
+  "entryIds": [
+    "V20261012-002",
+    "V20261012-012",
+    "V20261012-022",
+    "V20261012-024",
+    "V20261012-053",
+    "V20261012-078",
+    "V20261012-076",
+    "V20261012-093",
+    "V20261012-100",
+    "V20261014-075",
+    "V20261014-076",
+    "V20261029-005",
+    "V20261014-003",
+    "V20261012-117",
+    "V20261018-106",
+    "V20261016-103",
+    "V20261016-119",
+    "V20261012-020",
+    "V20261012-019",
+    "V20261012-015",
+    "V20261012-018",
+    "V20261012-010",
+    "V20261012-006",
+    "V20261012-088"
+  ],
+  "htmlSHA": "e4f5667c29bebba54d851ece10bb06b720c938bdaf99a32627f1ecff8fa8c43d",
+  "files": {
+    "word-page/theme.css": "9e2744f32bf72160c04d9ccbef1f75457e2748a9709cdc82e68fc7a867dee48e",
+    "word-page/shell.html": "5dbed5f5acd7c17528a0db5ad7fa11ac010c092420de5f12bb4b8374de20f898",
+    "word-page/registry.json": "e92a1c5306d422da4e9da8fcbfc6d10707aef677017d16f4af7da35e4cccf492",
+    "word-page/release.lock.json": "382fe0841f6d076ea45f95c7463d28f9dcf54d1d5bcf4de9738755eb1f990b26",
+    "word-page/modules/analysis/view-v2.html": "763fb450196ef96c38455edef5ebce56b89b8b030a3b1b34bd12a0ccf2a54321",
+    "scripts/word-content/build-reviewed.mjs": "8fb52d855187dff647de6adbab2b60eb86845d09b1402f042070013bea608f28",
+    "scripts/word-content/contracts.mjs": "cc544b8bd9877029649810a6579ef70f505890fe73f1dc6f9751013bc7f1d01e",
+    "scripts/word-content/materialize-authored.mjs": "ef42fc46ca004e2a4df8c891a60006c548cb678cf7e79b444e41797de9626a84",
+    "scripts/word-content/prepare-run.mjs": "44c0e1e2eeb2b1450be20f8596bf9f66ffcca7bd736d49193181a8ab80d2f269",
+    "scripts/word-content/reading-adapter.mjs": "c1661de8ce344de8fc723211fa42728ac54c3f4a195dcdee7902ba459da84ed8",
+    "scripts/word-content/seal-candidate.mjs": "5b5c07841da95649ce14439125d1cd947167228e559470c411988e4278630b3c",
+    "scripts/word-content/semantics.mjs": "83260600dade8a1218decd70b133971db0b86213f741c8f5f1b323611d3a5c94",
+    "scripts/word-content/source-adapters.mjs": "43092b98ceb82de59ed308bd79862598a8efa72d5d94497aa6f0ce82a95d169c",
+    "scripts/word-content/trial-io.mjs": "c512c05edc64ddf0ff8449bbce581209f687e9e19a70deefa559f559926a4a48",
+    "scripts/word-content/workflow.mjs": "8746e9743be70f4512fb44e561a16998a808b8d28e4f6525b85ae136c0fbaee1"
+  },
+  "moduleVersions": {
+    "baseline": "word-layout-v9-20261116",
+    "analysis": {
+      "interface": "2.0.0",
+      "view": "2.0.0",
+      "content": "1.0.0",
+      "process": "2.0.0"
+    },
+    "adapter": "2.0.0"
+  },
+  "accepted": false,
+  "published": false
+}

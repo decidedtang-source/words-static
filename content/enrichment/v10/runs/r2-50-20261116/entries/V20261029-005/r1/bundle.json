@@ -1,0 +1,435 @@
+{
+  "snapshot": {
+    "schemaVersion": 1,
+    "entryId": "V20261029-005",
+    "term": "working definition",
+    "quote": "Let us agree on a working definition of a critical defect.",
+    "batch": "2026-10-29",
+    "originalFileSHA": "ec65d33d6da99ebad2577f6c9f9938499823d29d117f43532302cf964a4c60a3",
+    "quoteSHA": "05d615212e0f55609b7c783999b28bcca38f47013dad404329ca9595a1031755",
+    "originalIPA": "ˈwɝː.kɪŋ ˌdef.ɪˈnɪʃ.ən",
+    "originalPOS": "noun phrase",
+    "originalMeaning": "供当前团队一致使用、以后仍可修订的定义"
+  },
+  "selection": {
+    "schemaVersion": 1,
+    "entryId": "V20261029-005",
+    "version": "1",
+    "inventoryRefs": [
+      "inventory:V20261029-005"
+    ],
+    "selectedSenseIds": [
+      "working%5:00:00:impermanent:00",
+      "definition%1:10:00::"
+    ],
+    "reason": "按学习用途选择常见或易混义；这里不是语料频率排名。",
+    "usageTip": "working在这个组合中表示暂供工作使用；不表示定义正在运转。",
+    "general": "暂供当前讨论和判断使用的定义",
+    "senses": [
+      {
+        "senseId": "working%5:00:00:impermanent:00",
+        "title": "working（组成词／独立词目）：暂用作进一步工作的",
+        "usageLabels": [
+          "adj.",
+          "精选学习义"
+        ],
+        "explanationZh": "暂用作进一步工作的。例句说明的用法：这是暂用的工作假设。",
+        "examples": [
+          {
+            "en": "This is a working assumption.",
+            "zh": "这是暂用的工作假设。",
+            "origin": "original",
+            "sourceRef": null,
+            "usageNote": "暂用作进一步工作的。例句说明的用法：这是暂用的工作假设。"
+          }
+        ],
+        "evidenceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-w.json/working/a / working%5:00:00:impermanent:00",
+            "supportedClaim": "adopted as a temporary basis for further work",
+            "url": "https://en-word.net/"
+          }
+        ]
+      },
+      {
+        "senseId": "definition%1:10:00::",
+        "title": "definition（组成词／独立词目）：定义；对含义的简要说明",
+        "usageLabels": [
+          "n.",
+          "精选学习义"
+        ],
+        "explanationZh": "定义；对含义的简要说明。例句说明的用法：请清楚定义这个术语。",
+        "examples": [
+          {
+            "en": "Please give a clear definition of the term.",
+            "zh": "请清楚定义这个术语。",
+            "origin": "original",
+            "sourceRef": null,
+            "usageNote": "定义；对含义的简要说明。例句说明的用法：请清楚定义这个术语。"
+          }
+        ],
+        "evidenceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-d.json/definition/n / definition%1:10:00::",
+            "supportedClaim": "a concise explanation of the meaning of a word or phrase or symbol",
+            "url": "https://en-word.net/"
+          }
+        ]
+      }
+    ]
+  },
+  "senses": [
+    {
+      "schemaVersion": 1,
+      "senseId": "working%5:00:00:impermanent:00",
+      "lexicalEntryId": "lex:working",
+      "pos": "adj.",
+      "definitionOrigin": "licensed_verbatim",
+      "meaning": {
+        "definitionEn": "adopted as a temporary basis for further work",
+        "glossZh": "暂用作进一步工作的",
+        "glossOrigin": "editorial"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "oewn-2025",
+          "sourceVersion": "2025",
+          "locator": "entries-w.json/working/a / working%5:00:00:impermanent:00",
+          "supportedClaim": "adopted as a temporary basis for further work",
+          "url": "https://en-word.net/"
+        }
+      ],
+      "version": "1"
+    },
+    {
+      "schemaVersion": 1,
+      "senseId": "definition%1:10:00::",
+      "lexicalEntryId": "lex:definition",
+      "pos": "n.",
+      "definitionOrigin": "licensed_verbatim",
+      "meaning": {
+        "definitionEn": "a concise explanation of the meaning of a word or phrase or symbol",
+        "glossZh": "定义；对含义的简要说明",
+        "glossOrigin": "editorial"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "oewn-2025",
+          "sourceVersion": "2025",
+          "locator": "entries-d.json/definition/n / definition%1:10:00::",
+          "supportedClaim": "a concise explanation of the meaning of a word or phrase or symbol",
+          "url": "https://en-word.net/"
+        }
+      ],
+      "version": "1"
+    }
+  ],
+  "inventory": {
+    "schemaVersion": 1,
+    "inventoryId": "inventory:V20261029-005",
+    "version": "1",
+    "lexicalEntryId": "lex:working definition",
+    "sources": [
+      "oewn-2025"
+    ],
+    "senseIds": [
+      "working%5:00:00:impermanent:00",
+      "definition%1:10:00::"
+    ],
+    "coverageStatus": "component_partial"
+  },
+  "context": {
+    "schemaVersion": 1,
+    "contextId": "V20261029-005-context",
+    "entryId": "V20261029-005",
+    "sourceRef": "original-vocab",
+    "quote": "Let us agree on a working definition of a critical defect.",
+    "quoteSHA": "05d615212e0f55609b7c783999b28bcca38f47013dad404329ca9595a1031755",
+    "translation": "我们先就关键缺陷的工作定义达成一致。",
+    "quoteType": "原词库教学例句／转述；未认定为外部作者逐字引文",
+    "meaning": "暂供当前讨论和判断使用的关键缺陷定义",
+    "qualifiers": {
+      "polarity": "affirmative",
+      "modality": [],
+      "conditions": [],
+      "agents": [
+        "us"
+      ],
+      "timeScope": null,
+      "excludedInferences": [
+        "这条句子没有提供critical defect的正式定义。"
+      ]
+    },
+    "location": "context_specific",
+    "senseRefs": [
+      "working%5:00:00:impermanent:00",
+      "definition%1:10:00::"
+    ],
+    "targetSpans": [
+      {
+        "start": 18,
+        "end": 36,
+        "text": "working definition",
+        "mappingType": "exact",
+        "note": "原句精确匹配；词形变化时不伪造span"
+      }
+    ],
+    "context": "仅以保留的这条原句为分析范围；未知背景不补造。",
+    "expressionExplanation": {
+      "kind": "compositional",
+      "text": "暂供当前讨论和判断使用的关键缺陷定义",
+      "componentRefs": [
+        {
+          "sourceId": "oewn-2025",
+          "sourceVersion": "2025",
+          "locator": "entries-w.json/working/a / working%5:00:00:impermanent:00",
+          "supportedClaim": "adopted as a temporary basis for further work",
+          "url": "https://en-word.net/"
+        },
+        {
+          "sourceId": "oewn-2025",
+          "sourceVersion": "2025",
+          "locator": "entries-d.json/definition/n / definition%1:10:00::",
+          "supportedClaim": "a concise explanation of the meaning of a word or phrase or symbol",
+          "url": "https://en-word.net/"
+        }
+      ],
+      "wholeExpressionRefs": [],
+      "boundary": "这条句子没有提供critical defect的正式定义。",
+      "reviewerBasis": "待独立完整包核对表达身份与证据范围"
+    }
+  },
+  "history": {
+    "schemaVersion": 1,
+    "lexicalEntryId": "lex:working definition",
+    "version": "1",
+    "summary": "",
+    "claims": [],
+    "sourceRefs": [],
+    "limitations": [
+      "未核实历史资料，不编造词源或年代。"
+    ]
+  },
+  "bridge": {
+    "schemaVersion": 1,
+    "entryId": "V20261029-005",
+    "contextId": "V20261029-005-context",
+    "version": "1",
+    "location": "context_specific",
+    "strategies": [
+      "contextualization",
+      "no_derivation"
+    ],
+    "anchorRefs": [
+      "working%5:00:00:impermanent:00"
+    ],
+    "targetRefs": [
+      "working%5:00:00:impermanent:00",
+      "definition%1:10:00::"
+    ],
+    "semanticText": "两个可靠组件支持组合解释：working给definition加上“暂供当前工作使用”的性质。不是必须查到整个短语独立词目才能解释，但具体关键缺陷标准不能靠组合补造。",
+    "boundary": "这条句子没有提供critical defect的正式定义。",
+    "evidenceRefs": [
+      {
+        "sourceId": "oewn-2025",
+        "sourceVersion": "2025",
+        "locator": "entries-w.json/working/a / working%5:00:00:impermanent:00",
+        "supportedClaim": "adopted as a temporary basis for further work",
+        "url": "https://en-word.net/"
+      },
+      {
+        "sourceId": "oewn-2025",
+        "sourceVersion": "2025",
+        "locator": "entries-d.json/definition/n / definition%1:10:00::",
+        "supportedClaim": "a concise explanation of the meaning of a word or phrase or symbol",
+        "url": "https://en-word.net/"
+      }
+    ],
+    "historyLink": null,
+    "historyClaimRefs": [],
+    "returnTargets": [
+      "wl-common",
+      "wl-history"
+    ]
+  },
+  "analysis": {
+    "schemaVersion": 1,
+    "entryId": "V20261029-005",
+    "contextId": "V20261029-005-context",
+    "version": "1",
+    "promptHash": "aaf3bd1e99daf47a70a2a158973652d67ff14dafcfc1748b3fc2a09d719885db",
+    "depth": "standard",
+    "depthReason": "需辨析相邻用法并保留原句的承诺或证据边界。",
+    "coverage": {
+      "syntax": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "syntax-concept"
+        ]
+      },
+      "concept": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "syntax-concept"
+        ]
+      },
+      "contrast": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "contrast"
+        ]
+      },
+      "languageGame": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "game-neighbors"
+        ]
+      },
+      "englishNeighbors": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "game-neighbors"
+        ]
+      },
+      "pragmaticAction": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "action"
+        ]
+      },
+      "workplaceUse": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "workplace"
+        ]
+      }
+    },
+    "blocks": [
+      {
+        "blockId": "syntax-concept",
+        "dimensions": [
+          "syntax",
+          "concept"
+        ],
+        "text": "working修饰definition，并非说定义正在劳动；of a critical defect说明定义对象，agree on说明需要共同确定表述。 团队先约定怎样识别当前讨论的对象，以便继续分类和收集资料。working允许之后修订，但并不意味着可以随意改变已批准标准。",
+        "sourceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-w.json/working/a / working%5:00:00:impermanent:00",
+            "supportedClaim": "adopted as a temporary basis for further work",
+            "url": "https://en-word.net/"
+          },
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-d.json/definition/n / definition%1:10:00::",
+            "supportedClaim": "a concise explanation of the meaning of a word or phrase or symbol",
+            "url": "https://en-word.net/"
+          }
+        ],
+        "title": "句子结构与当前所指"
+      },
+      {
+        "blockId": "contrast",
+        "dimensions": [
+          "contrast"
+        ],
+        "text": "working definition是推进讨论的暂用定义；正式标准定义可能来自适用规范。两者冲突时要明确适用范围，不能让暂定说法替代强制要求。",
+        "sourceRefs": [],
+        "title": "容易混淆的地方"
+      },
+      {
+        "blockId": "game-neighbors",
+        "dimensions": [
+          "languageGame",
+          "englishNeighbors"
+        ],
+        "text": "这是概念对齐。相关人员可以给出边界案例，检查同一缺陷是否被一致分类；原句没有给出critical defect的具体安全判准。 agree on a definition连到examples/borderline cases；后续常问Does this case fit the definition?，用实例检查理解是否一致。",
+        "sourceRefs": [],
+        "title": "讨论通常怎样继续"
+      },
+      {
+        "blockId": "action",
+        "dimensions": [
+          "pragmaticAction"
+        ],
+        "text": "说话者在邀请建立共同讨论基础，不是在宣布一个完整质量标准已经批准。",
+        "sourceRefs": [],
+        "title": "说话者正在做什么"
+      },
+      {
+        "blockId": "workplace",
+        "dimensions": [
+          "workplaceUse"
+        ],
+        "text": "下面是迁移到制造业沟通的新例句；不代表原场景中已发生的决定。",
+        "sourceRefs": [],
+        "title": "迁移到工作情境"
+      }
+    ],
+    "workplaceUse": [
+      {
+        "en": "Can we agree on a working definition before reviewing the defect data?",
+        "zh": "评审缺陷数据前，我们能先就工作定义达成一致吗？",
+        "whenToUse": "避免分类口径不一。",
+        "limitation": "原创教学表达；具体权限和流程以实际约定为准。",
+        "origin": "original"
+      },
+      {
+        "en": "This working definition does not replace the approved specification.",
+        "zh": "这个工作定义不能替代已批准的规格。",
+        "whenToUse": "说明暂用定义的边界。",
+        "limitation": "原创教学表达；具体权限和流程以实际约定为准。",
+        "origin": "original"
+      }
+    ],
+    "practiceRefs": [],
+    "edges": []
+  },
+  "practices": [],
+  "sources": [
+    {
+      "schemaVersion": 1,
+      "sourceId": "original-vocab",
+      "version": "2026-11-16",
+      "title": "原词库教学句／转述",
+      "url": "public/vocabulary.json",
+      "accessMode": "user_material",
+      "retrievedAt": "2026-11-16T01:45:06.410Z",
+      "coverage": "partial",
+      "rights": "用户授权处理原词库",
+      "limitations": [
+        "非外部作者逐字引文；保留原ID与原句"
+      ]
+    },
+    {
+      "schemaVersion": 1,
+      "sourceId": "oewn-2025",
+      "version": "2025",
+      "title": "Open English Wordnet 2025",
+      "url": "https://en-word.net/",
+      "accessMode": "licensed_snapshot",
+      "retrievedAt": "2026-11-16T01:45:06.410Z",
+      "coverage": "partial",
+      "rights": "CC BY 4.0 + Princeton notice",
+      "limitations": [
+        "本包仅选部分源义；中文非官方译文"
+      ]
+    }
+  ],
+  "verifiedIPA": null,
+  "dictionaryURL": "https://en-word.net/",
+  "historyURL": null
+}

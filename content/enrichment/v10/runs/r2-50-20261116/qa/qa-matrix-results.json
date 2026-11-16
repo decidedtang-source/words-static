@@ -1,0 +1,242 @@
+[
+  {
+    "qaId": "Q-G01",
+    "status": "pass",
+    "evidence": "baseline-manifest; candidate-all/design.json;96 unchanged hashes"
+  },
+  {
+    "qaId": "Q-G02",
+    "status": "pass_with_scope",
+    "evidence": "qa/adapter-conformance.json:3 old words x4widths x2themes; actual new-word visual-review.json; no claim same-word comparison for new words"
+  },
+  {
+    "qaId": "Q-G03",
+    "status": "pass",
+    "evidence": "requirement trace below and 48 case dispositions"
+  },
+  {
+    "qaId": "Q-G04",
+    "status": "pass",
+    "evidence": "qa/unit-tests.txt: authorization/scope/hold rejection"
+  },
+  {
+    "qaId": "Q-H01",
+    "status": "pass",
+    "evidence": "50 current-hash independent full_package records referenced by manifest.json; detailed per-entry observations and exceptions preserved"
+  },
+  {
+    "qaId": "Q-H02",
+    "status": "pass_simulated",
+    "evidence": "48 candidate audio start/stop/end/error/keyboard/layout cases; no listening test"
+  },
+  {
+    "qaId": "Q-H03",
+    "status": "pass_simulated",
+    "evidence": "candidate-all/design.json extraChecks: local voice, stale callbacks, keyboard,reduced motion; physical devices not run"
+  },
+  {
+    "qaId": "Q-S01",
+    "status": "pass",
+    "evidence": "50 current-hash independent full_package records referenced by manifest.json; detailed per-entry observations and exceptions preserved"
+  },
+  {
+    "qaId": "Q-S02",
+    "status": "pass",
+    "evidence": "50 entryChecks and navigationTargets; default preview closed"
+  },
+  {
+    "qaId": "Q-S03",
+    "status": "pass",
+    "evidence": "50 current-hash independent full_package records referenced by manifest.json; detailed per-entry observations and exceptions preserved"
+  },
+  {
+    "qaId": "Q-N01",
+    "status": "pass",
+    "evidence": "50 current-hash independent full_package records referenced by manifest.json; detailed per-entry observations and exceptions preserved"
+  },
+  {
+    "qaId": "Q-N02",
+    "status": "pass",
+    "evidence": "50 entryChecks navigationTargets plus48 Bridge return cases; dictionary auto-reveal"
+  },
+  {
+    "qaId": "Q-N03",
+    "status": "pass_browser",
+    "evidence": "200 render observations,320/390/768/1440; screenshots; real device not run"
+  },
+  {
+    "qaId": "Q-N04",
+    "status": "pass",
+    "evidence": "48 interaction cases incl commitment Practice cards; same-entry return; stable sense anchors checked"
+  },
+  {
+    "qaId": "Q-D01",
+    "status": "pass",
+    "evidence": "50 current-hash independent full_package records referenced by manifest.json; detailed per-entry observations and exceptions preserved"
+  },
+  {
+    "qaId": "Q-D02",
+    "status": "pass",
+    "evidence": "50 current-hash independent full_package records referenced by manifest.json; detailed per-entry observations and exceptions preserved"
+  },
+  {
+    "qaId": "Q-D03",
+    "status": "pass_with_scope",
+    "evidence": "embedded offline inventory;50 initial collapsed checks; JS-disabled first-entry fallback; no runtime network dictionary loader to simulate"
+  },
+  {
+    "qaId": "Q-D04",
+    "status": "pass",
+    "evidence": "unit-tests source-change invalidation; original IDs unchanged; no source overwriting accepted state"
+  },
+  {
+    "qaId": "Q-L01",
+    "status": "pass",
+    "evidence": "50 current-hash independent full_package records referenced by manifest.json; detailed per-entry observations and exceptions preserved"
+  },
+  {
+    "qaId": "Q-L02",
+    "status": "pass",
+    "evidence": "original3 word-content/test +24 adapter cases;96 protected hashes"
+  },
+  {
+    "qaId": "Q-L03",
+    "status": "pass",
+    "evidence": "50 current-hash independent full_package records referenced by manifest.json; detailed per-entry observations and exceptions preserved"
+  },
+  {
+    "qaId": "Q-L04",
+    "status": "pass",
+    "evidence": "50 current-hash independent full_package records referenced by manifest.json; detailed per-entry observations and exceptions preserved"
+  },
+  {
+    "qaId": "Q-Y01",
+    "status": "pass",
+    "evidence": "50 current-hash independent full_package records referenced by manifest.json; detailed per-entry observations and exceptions preserved"
+  },
+  {
+    "qaId": "Q-Y02",
+    "status": "pass",
+    "evidence": "original baseline preserved;two history regions separate;missing new histories disclosed"
+  },
+  {
+    "qaId": "Q-Y03",
+    "status": "pass",
+    "evidence": "50 current-hash independent full_package records referenced by manifest.json; detailed per-entry observations and exceptions preserved"
+  },
+  {
+    "qaId": "Q-C01",
+    "status": "pass",
+    "evidence": "50 current-hash independent full_package records referenced by manifest.json; detailed per-entry observations and exceptions preserved"
+  },
+  {
+    "qaId": "Q-C02",
+    "status": "pass",
+    "evidence": "50 current-hash independent full_package records referenced by manifest.json; detailed per-entry observations and exceptions preserved"
+  },
+  {
+    "qaId": "Q-C03",
+    "status": "pass",
+    "evidence": "50 current-hash independent full_package records referenced by manifest.json; detailed per-entry observations and exceptions preserved"
+  },
+  {
+    "qaId": "Q-C04",
+    "status": "pass",
+    "evidence": "50 current-hash independent full_package records referenced by manifest.json; detailed per-entry observations and exceptions preserved"
+  },
+  {
+    "qaId": "Q-B01",
+    "status": "pass",
+    "evidence": "50 current-hash independent full_package records referenced by manifest.json; detailed per-entry observations and exceptions preserved"
+  },
+  {
+    "qaId": "Q-B02",
+    "status": "pass",
+    "evidence": "50 current-hash independent full_package records referenced by manifest.json; detailed per-entry observations and exceptions preserved"
+  },
+  {
+    "qaId": "Q-B03",
+    "status": "pass",
+    "evidence": "semantic full-package records + bridge return checks; historical link folded, missing evidence explicitly handled"
+  },
+  {
+    "qaId": "Q-B04",
+    "status": "pass",
+    "evidence": "50 current-hash independent full_package records referenced by manifest.json; detailed per-entry observations and exceptions preserved"
+  },
+  {
+    "qaId": "Q-B05",
+    "status": "pass",
+    "evidence": "50 current-hash independent full_package records referenced by manifest.json; detailed per-entry observations and exceptions preserved"
+  },
+  {
+    "qaId": "Q-B06",
+    "status": "pass",
+    "evidence": "unit-tests prompt/practice/source binding and depth-route separation; evidence refs retained"
+  },
+  {
+    "qaId": "Q-A01",
+    "status": "pass",
+    "evidence": "50 current-hash independent full_package records referenced by manifest.json; detailed per-entry observations and exceptions preserved"
+  },
+  {
+    "qaId": "Q-A02",
+    "status": "pass",
+    "evidence": "50 current-hash independent full_package records referenced by manifest.json; detailed per-entry observations and exceptions preserved"
+  },
+  {
+    "qaId": "Q-A03",
+    "status": "pass",
+    "evidence": "50 current-hash independent full_package records referenced by manifest.json; detailed per-entry observations and exceptions preserved"
+  },
+  {
+    "qaId": "Q-A04",
+    "status": "pass",
+    "evidence": "50 current-hash independent full_package records referenced by manifest.json; detailed per-entry observations and exceptions preserved"
+  },
+  {
+    "qaId": "Q-A05",
+    "status": "pass",
+    "evidence": "50 current-hash independent full_package records referenced by manifest.json; detailed per-entry observations and exceptions preserved"
+  },
+  {
+    "qaId": "Q-A06",
+    "status": "not_run",
+    "evidence": "No user comprehension/transfer assessment; accepted0"
+  },
+  {
+    "qaId": "Q-E01",
+    "status": "pass",
+    "evidence": "baseline manifest and actual design check:1875 IDs/15batches/originalquotes/96 files unchanged"
+  },
+  {
+    "qaId": "Q-E02",
+    "status": "pass",
+    "evidence": "unit-tests input/draft/source/practice invalidation; immutable r0/r1/r2 and review hash matching"
+  },
+  {
+    "qaId": "Q-E03",
+    "status": "pass",
+    "evidence": "unit-tests interruption/partial files/journal recovery/retry limit; no third content revision"
+  },
+  {
+    "qaId": "Q-E04",
+    "status": "pass_with_scope",
+    "evidence": "3 original browser regressions; candidate no localStorage/IndexedDB writes; live-learning integration not attempted"
+  },
+  {
+    "qaId": "Q-E05",
+    "status": "pass_with_scope",
+    "evidence": "200 render cases; no page errors; exact50 quote checks; embedded50 only/static first-entry fallback. Copy control not present in frozen review template; original library copy covered by browser regression"
+  },
+  {
+    "qaId": "Q-E06",
+    "status": "pass",
+    "evidence": "candidate-lock+final-candidate; sources/module files/artifact/HTML hashes verified; immutable old baselines remain available; no live rollback executed"
+  },
+  {
+    "qaId": "Q-E07",
+    "status": "not_run",
+    "evidence": "No deployment authorization requested or used; trial source synchronization only,published0"
+  }
+]

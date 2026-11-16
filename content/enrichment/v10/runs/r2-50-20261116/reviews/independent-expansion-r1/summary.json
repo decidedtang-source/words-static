@@ -1,0 +1,241 @@
+{
+  "reviewer": "/root/r2_implementation_review",
+  "revision": "expansion-r1",
+  "counts": {
+    "reviewed": 24,
+    "pass": 24,
+    "fail": 0,
+    "blocked": 0
+  },
+  "issues": [],
+  "entries": [
+    {
+      "entryId": "V20261012-004",
+      "term": "milestone",
+      "verdict": "pass",
+      "inputHash": "419bb43e5b2d1f1207eba71421ddb03a94ccc0f3323f86e70b3e1f6720bb0751",
+      "artifactHash": "5deea2d6e324f38fe9449ef8f0c9e3a0272fc8153fd4a4705559a3deeda0ec53",
+      "reviewPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-expansion-r1/V20261012-004.json"
+    },
+    {
+      "entryId": "V20261012-005",
+      "term": "priority",
+      "verdict": "pass",
+      "inputHash": "2d3caef26c44db2a34a7d2c44a268c9a782f3f40f717a99745108137a729f69a",
+      "artifactHash": "dc70f9f5aca28d6a63bdeda2b7ef7376f19cb4a8e6879b0caccfc1ea495feb72",
+      "reviewPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-expansion-r1/V20261012-005.json"
+    },
+    {
+      "entryId": "V20261012-007",
+      "term": "dependency",
+      "verdict": "pass",
+      "inputHash": "8f9c14a3fd17530c2c27a51bfc158cef3ed6979a00126e4971420c651188eec3",
+      "artifactHash": "f00a4f1b0e626c92a4aea3f9d3033649ff364860d7a1a8c0448e4c914f27b7c7",
+      "reviewPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-expansion-r1/V20261012-007.json"
+    },
+    {
+      "entryId": "V20261012-008",
+      "term": "assumption",
+      "verdict": "pass",
+      "inputHash": "271068ca47db70948caceb2eb5efb06c7333b1526c5c35c59be63fae0a30c7bf",
+      "artifactHash": "00f16162a3076b77004b66fd1f205fc820c4cc6a5ac3d347c86f41e8fad201e4",
+      "reviewPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-expansion-r1/V20261012-008.json"
+    },
+    {
+      "entryId": "V20261012-009",
+      "term": "baseline",
+      "verdict": "pass",
+      "inputHash": "833ae007fbecf8727c1ce42a2c05fb4dc021a78e732f2c830bd2854694474fee",
+      "artifactHash": "51f11d3f3966e1e1f2f790c8e0dc38a3d45689d0318bdcab60a3192d1db85548",
+      "reviewPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-expansion-r1/V20261012-009.json"
+    },
+    {
+      "entryId": "V20261012-011",
+      "term": "sequence",
+      "verdict": "pass",
+      "inputHash": "5b95b701996b1966352709f45ec559832cca939ea0d740b889e9f2646ec22559",
+      "artifactHash": "d77f41a90eead39c2fc0aaadba45ee81834f94b3ce84199413b860b581893fd6",
+      "reviewPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-expansion-r1/V20261012-011.json"
+    },
+    {
+      "entryId": "V20261012-013",
+      "term": "allocate",
+      "verdict": "pass",
+      "inputHash": "36eab520aaa8a4217d28026d989947c3c49b136934a2eae33db5d24be56e9a3e",
+      "artifactHash": "282e5c5bd216c7cfb9c8557820664aee259f72123e9a76c5028a2ffc4ad4802f",
+      "reviewPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-expansion-r1/V20261012-013.json"
+    },
+    {
+      "entryId": "V20261012-014",
+      "term": "delegate",
+      "verdict": "pass",
+      "inputHash": "1e6bc54bf1feabe7cf002f7164fb3a641e254fb29ba88e8b47adc8766577cd36",
+      "artifactHash": "83a5c0dc1f74a77606bd69639a2efe0ed8d5f3adc74511308186ab08c7d25c97",
+      "reviewPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-expansion-r1/V20261012-014.json"
+    },
+    {
+      "entryId": "V20261012-016",
+      "term": "accountable",
+      "verdict": "pass",
+      "inputHash": "cf2a71b2042d11d7a68d706202b9b5e29eb18889ffdacc0bfde14c7d24101fd6",
+      "artifactHash": "5bcdc06c05fad12c45e4d1d296b645014e56043a2c82b55191aaa50cc62f7fdb",
+      "reviewPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-expansion-r1/V20261012-016.json"
+    },
+    {
+      "entryId": "V20261012-017",
+      "term": "deadline",
+      "verdict": "pass",
+      "inputHash": "13e20713c0ca3d468503ec4259505126c38bd7a4594307eda66f9b5b4afb9390",
+      "artifactHash": "57385ed0258b090aee4bc6a86083ccb0f88b7942975d55bf4dcf956a5d843df8",
+      "reviewPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-expansion-r1/V20261012-017.json"
+    },
+    {
+      "entryId": "V20261012-021",
+      "term": "feasible",
+      "verdict": "pass",
+      "inputHash": "192bf7aac97e71c65cee5a6a2f3a09757f3cd2b6ad3c67f0872325a6017ba462",
+      "artifactHash": "95b563fce5082be90cf6af51887241922b9077924e849f39ed814c0f7f663eb6",
+      "reviewPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-expansion-r1/V20261012-021.json"
+    },
+    {
+      "entryId": "V20261012-023",
+      "term": "overdue",
+      "verdict": "pass",
+      "inputHash": "4f8dda94a281af43577fab78ac6e2c61f77f53cba4055f1f9148cf03de9cd0f7",
+      "artifactHash": "c9c05117001407b6a25ff2a5616099092054aaff57eea8870330f8062a823b80",
+      "reviewPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-expansion-r1/V20261012-023.json"
+    },
+    {
+      "entryId": "V20261012-025",
+      "term": "backlog",
+      "verdict": "pass",
+      "inputHash": "d7999498f0427bebbd51ee33c55015a243a22ee75c3ddab8d01d0c62165b4e80",
+      "artifactHash": "2073cee99edf7091ee87b8941ac743f2cba63e51abd492e1e5125063e995b53a",
+      "reviewPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-expansion-r1/V20261012-025.json"
+    },
+    {
+      "entryId": "V20261012-028",
+      "term": "setback",
+      "verdict": "pass",
+      "inputHash": "3d6fee1e1d13e5ef6726af36d55e5fe3120f5720036feb0aeec28f95b9ee9487",
+      "artifactHash": "57ba478f627ba41c249e4abf7b7324d824b6879c366770e0f2416817f83deb03",
+      "reviewPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-expansion-r1/V20261012-028.json"
+    },
+    {
+      "entryId": "V20261012-029",
+      "term": "escalate",
+      "verdict": "pass",
+      "inputHash": "aeb44524d8c245f5a89bfe4387d730185cdbd7faf13f945367123ffef55174e3",
+      "artifactHash": "311415fac52a851ed5c877e4bf7a1d331873eb2959d8408a0b1b8db656ceef3e",
+      "reviewPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-expansion-r1/V20261012-029.json"
+    },
+    {
+      "entryId": "V20261012-031",
+      "term": "monitor",
+      "verdict": "pass",
+      "inputHash": "c8b90cc36fcc41a14973878c79417deb9fed52f61c7a7ae397503be3239ea0b8",
+      "artifactHash": "803de6917d6393cdfb003f67f4446e7a8f583b6ede0e1c07001a679e955894f8",
+      "reviewPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-expansion-r1/V20261012-031.json"
+    },
+    {
+      "entryId": "V20261012-032",
+      "term": "reassess",
+      "verdict": "pass",
+      "inputHash": "272aaeec2bc738143937dd650990547fb91c78147c7271df40821b4f8ea6780b",
+      "artifactHash": "8b2019c09ce1bd71da638b207186ec992c8f160aa3c1e877e7d98fc72c9da482",
+      "reviewPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-expansion-r1/V20261012-032.json"
+    },
+    {
+      "entryId": "V20261012-033",
+      "term": "defer",
+      "verdict": "pass",
+      "inputHash": "6fe2647353739175936aa044e2ffa283d52bb02eeccb3e09c8c210c740641dd0",
+      "artifactHash": "3d2a590868f658ac2c9009c922108a21f67a412e8b4db9b5777f5015565403ce",
+      "reviewPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-expansion-r1/V20261012-033.json"
+    },
+    {
+      "entryId": "V20261012-034",
+      "term": "expedite",
+      "verdict": "pass",
+      "inputHash": "9cbe4b7c7c9badc25315f6131970e29ebbb90055aabe7a272e7c358c6b6c60cf",
+      "artifactHash": "9c850f4abb815d4271b42f9d8e54e2723c68580a74f8fbea54518bd3c0840341",
+      "reviewPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-expansion-r1/V20261012-034.json"
+    },
+    {
+      "entryId": "V20261012-035",
+      "term": "resolve",
+      "verdict": "pass",
+      "inputHash": "a1f862a0febaf6b806064901d2a19b89ef61883d2b62d437d9eab5e1afc34b87",
+      "artifactHash": "b7caae35c88c3a50514abe6acf4ee696a1388ab0665d305b498530eebe497c24",
+      "reviewPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-expansion-r1/V20261012-035.json"
+    },
+    {
+      "entryId": "V20261012-036",
+      "term": "handover",
+      "verdict": "pass",
+      "inputHash": "612349f10fa3077d24f1936f957685db1844fcacf9736ec1428dc1b192cb2af9",
+      "artifactHash": "4a67354608a9013f28976154f6b65ee4f36af716f3837b0f73d548429a5b4f81",
+      "reviewPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-expansion-r1/V20261012-036.json"
+    },
+    {
+      "entryId": "V20261012-037",
+      "term": "sign-off",
+      "verdict": "pass",
+      "inputHash": "0323f4ab5cc76708d04eb751943044a03458955c4267aecbdd03b1c8e25dac10",
+      "artifactHash": "4216402f0de59692b9a667b576f003f80f87f300d963e8973aea34b7757085b6",
+      "reviewPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-expansion-r1/V20261012-037.json"
+    },
+    {
+      "entryId": "V20261012-038",
+      "term": "checkpoint",
+      "verdict": "pass",
+      "inputHash": "96caa78c484089f22184735f09cb012cd33351724c7abaf20705d2f5b95cebb0",
+      "artifactHash": "77ca79f5eb24bd4275d5a704115bca81c26a96ef004c4f4ec38950bdd0d590a8",
+      "reviewPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-expansion-r1/V20261012-038.json"
+    },
+    {
+      "entryId": "V20261012-040",
+      "term": "outcome",
+      "verdict": "pass",
+      "inputHash": "17fb4a191f40da8ecb6ee679576036cdbe7723b3f4e329254dccd35115f69467",
+      "artifactHash": "2cf54886f805af0686a5fa62fbb97ad35f58fb3ead9db1744cd7281792610fb6",
+      "reviewPath": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\runs\\r2-50-20261116/reviews/independent-expansion-r1/V20261012-040.json"
+    }
+  ],
+  "sourceChecks": [
+    {
+      "url": "https://www.oxfordlearnersdictionaries.com/definition/english/sign-off_2",
+      "method": "official indexed noun entry",
+      "finding": "Noun approval sense2 and recorded US IPA corroborated; not confused with verb broadcast ending."
+    },
+    {
+      "url": "https://www.dictionary.com/browse/checkpoint",
+      "method": "official indexed entry",
+      "finding": "Procedural inspection/confirmation sense2 corroborated."
+    },
+    {
+      "url": "https://dictionary.cambridge.org/dictionary/english/escalate",
+      "method": "official indexed entry",
+      "finding": "Business transitive higher-rank handling sense and US IPA corroborated."
+    },
+    {
+      "path": "D:\\aaaaaa\\personal project\\words-v10-plan-correction-20261116\\content\\enrichment\\v10\\sources\\oewn-selected-2025.json",
+      "method": "actual licensed local source-sense lookup",
+      "finding": "Every selected OEWN English definition and POS/lemma compared to snapshot. Ordinary contextual extensions inspected separately from literal source wording."
+    }
+  ],
+  "limitations": [
+    "Content review only; no new calibration decision or publication authority.",
+    "All26 histories explicitly absent/unverified; no invented historical bridge.",
+    "All26 inventories partial.",
+    "24 IPA values explicitly unverified/null; only escalate and sign-off are verified here.",
+    "No real-device/audio or learner acceptance.",
+    "No Practice attached to expansion entries; zero-Practice is permitted and local analysis remains readable."
+  ],
+  "method": "Full-package r0 source and semantic review carried forward only after exact structural equality outside qualifiers verified; every changed qualifier read independently against original sentence; current input/bundle validation and manifest hashes verified.",
+  "unchangedPassingR0": [
+    "V20261012-026",
+    "V20261012-030"
+  ],
+  "calibrationUntouched": true
+}

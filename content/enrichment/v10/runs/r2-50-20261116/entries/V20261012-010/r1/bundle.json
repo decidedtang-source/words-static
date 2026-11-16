@@ -1,0 +1,409 @@
+{
+  "snapshot": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-010",
+    "term": "buffer",
+    "quote": "The plan includes a two-day buffer for review.",
+    "batch": "2026-10-12",
+    "originalFileSHA": "ec65d33d6da99ebad2577f6c9f9938499823d29d117f43532302cf964a4c60a3",
+    "quoteSHA": "6883cb2ebf494d53cfa18521eb85e7653a4b48e8f4d2406cbe63f2cab1470501",
+    "originalIPA": "ˈbʌf.ɚ",
+    "originalPOS": "n.",
+    "originalMeaning": "为应对不确定性预留的时间或资源"
+  },
+  "selection": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-010",
+    "version": "1",
+    "inventoryRefs": [
+      "inventory:V20261012-010"
+    ],
+    "selectedSenseIds": [
+      "web:cambridge-buffer",
+      "buffer%1:06:00::"
+    ],
+    "reason": "按学习用途选择常见或易混义；这里不是语料频率排名。",
+    "usageTip": "时间buffer是余量；不是活动本身工期，也不是新的截止日期。",
+    "general": "缓冲；减少风险或冲击的余量；缓冲装置；减少碰撞冲击的设备",
+    "senses": [
+      {
+        "senseId": "web:cambridge-buffer",
+        "title": "缓冲；减少风险或冲击的余量",
+        "usageLabels": [
+          "n.",
+          "精选学习义"
+        ],
+        "explanationZh": "缓冲；减少风险或冲击的余量。例句说明的用法：我们为意外延误预留时间缓冲。",
+        "examples": [
+          {
+            "en": "We keep a time buffer for unexpected delays.",
+            "zh": "我们为意外延误预留时间缓冲。",
+            "origin": "original",
+            "sourceRef": null,
+            "usageNote": "缓冲；减少风险或冲击的余量。例句说明的用法：我们为意外延误预留时间缓冲。"
+          }
+        ],
+        "evidenceRefs": [
+          {
+            "sourceId": "cambridge-buffer",
+            "sourceVersion": "2026-11-16",
+            "locator": "noun PROTECTION; buffer for unforeseen delays example",
+            "supportedClaim": "buffer可指应对风险的缓冲，来源有预留时间防意外延误的用例。",
+            "url": "https://dictionary.cambridge.org/dictionary/english/buffer?q=buffers"
+          }
+        ]
+      },
+      {
+        "senseId": "buffer%1:06:00::",
+        "title": "缓冲装置；减少碰撞冲击的设备",
+        "usageLabels": [
+          "n.",
+          "精选学习义"
+        ],
+        "explanationZh": "缓冲装置；减少碰撞冲击的设备。例句说明的用法：缓冲装置减轻冲击。",
+        "examples": [
+          {
+            "en": "The buffer reduces the impact.",
+            "zh": "缓冲装置减轻冲击。",
+            "origin": "original",
+            "sourceRef": null,
+            "usageNote": "缓冲装置；减少碰撞冲击的设备。例句说明的用法：缓冲装置减轻冲击。"
+          }
+        ],
+        "evidenceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-b.json/buffer/n / buffer%1:06:00::",
+            "supportedClaim": "a cushion-like device that reduces shock due to an impact",
+            "url": "https://en-word.net/"
+          }
+        ]
+      }
+    ]
+  },
+  "senses": [
+    {
+      "schemaVersion": 1,
+      "senseId": "web:cambridge-buffer",
+      "lexicalEntryId": "lex:buffer",
+      "pos": "n.",
+      "definitionOrigin": "short_quote",
+      "meaning": {
+        "definitionEn": "something or someone that helps protect from harm, risk, or problems",
+        "glossZh": "缓冲；减少风险或冲击的余量",
+        "glossOrigin": "editorial"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "cambridge-buffer",
+          "sourceVersion": "2026-11-16",
+          "locator": "noun PROTECTION; buffer for unforeseen delays example",
+          "supportedClaim": "buffer可指应对风险的缓冲，来源有预留时间防意外延误的用例。",
+          "url": "https://dictionary.cambridge.org/dictionary/english/buffer?q=buffers"
+        }
+      ],
+      "version": "1"
+    },
+    {
+      "schemaVersion": 1,
+      "senseId": "buffer%1:06:00::",
+      "lexicalEntryId": "lex:buffer",
+      "pos": "n.",
+      "definitionOrigin": "licensed_verbatim",
+      "meaning": {
+        "definitionEn": "a cushion-like device that reduces shock due to an impact",
+        "glossZh": "缓冲装置；减少碰撞冲击的设备",
+        "glossOrigin": "editorial"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "oewn-2025",
+          "sourceVersion": "2025",
+          "locator": "entries-b.json/buffer/n / buffer%1:06:00::",
+          "supportedClaim": "a cushion-like device that reduces shock due to an impact",
+          "url": "https://en-word.net/"
+        }
+      ],
+      "version": "1"
+    }
+  ],
+  "inventory": {
+    "schemaVersion": 1,
+    "inventoryId": "inventory:V20261012-010",
+    "version": "1",
+    "lexicalEntryId": "lex:buffer",
+    "sources": [
+      "cambridge-buffer",
+      "oewn-2025"
+    ],
+    "senseIds": [
+      "web:cambridge-buffer",
+      "buffer%1:06:00::"
+    ],
+    "coverageStatus": "partial"
+  },
+  "context": {
+    "schemaVersion": 1,
+    "contextId": "V20261012-010-context",
+    "entryId": "V20261012-010",
+    "sourceRef": "original-vocab",
+    "quote": "The plan includes a two-day buffer for review.",
+    "quoteSHA": "6883cb2ebf494d53cfa18521eb85e7653a4b48e8f4d2406cbe63f2cab1470501",
+    "translation": "这个计划为评审预留了两天缓冲。",
+    "quoteType": "原词库教学例句／转述；未认定为外部作者逐字引文",
+    "meaning": "为评审不确定性预留的两天时间余量",
+    "qualifiers": {
+      "polarity": "affirmative",
+      "modality": [],
+      "conditions": [],
+      "agents": [],
+      "timeScope": null,
+      "excludedInferences": [
+        "两天缓冲不等于两天评审工期，也不意味着所有延误均可接受。"
+      ]
+    },
+    "location": "selected",
+    "senseRefs": [
+      "web:cambridge-buffer"
+    ],
+    "targetSpans": [
+      {
+        "start": 28,
+        "end": 34,
+        "text": "buffer",
+        "mappingType": "exact",
+        "note": "原句精确匹配；词形变化时不伪造span"
+      }
+    ],
+    "context": "仅以保留的这条原句为分析范围；未知背景不补造。"
+  },
+  "history": {
+    "schemaVersion": 1,
+    "lexicalEntryId": "lex:buffer",
+    "version": "1",
+    "summary": "",
+    "claims": [],
+    "sourceRefs": [],
+    "limitations": [
+      "未核实历史资料，不编造词源或年代。"
+    ]
+  },
+  "bridge": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-010",
+    "contextId": "V20261012-010-context",
+    "version": "1",
+    "location": "selected",
+    "strategies": [
+      "direct",
+      "contextualization"
+    ],
+    "anchorRefs": [
+      "web:cambridge-buffer"
+    ],
+    "targetRefs": [
+      "web:cambridge-buffer"
+    ],
+    "semanticText": "前部保护义具体化为时间余量：用额外时间吸收评审变化。物理缓冲可以帮助记忆，但这里没有真实碰撞装置。",
+    "boundary": "两天缓冲不等于两天评审工期，也不意味着所有延误均可接受。",
+    "evidenceRefs": [
+      {
+        "sourceId": "cambridge-buffer",
+        "sourceVersion": "2026-11-16",
+        "locator": "noun PROTECTION; buffer for unforeseen delays example",
+        "supportedClaim": "buffer可指应对风险的缓冲，来源有预留时间防意外延误的用例。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/buffer?q=buffers"
+      }
+    ],
+    "historyLink": null,
+    "historyClaimRefs": [],
+    "returnTargets": [
+      "wl-common",
+      "wl-history"
+    ]
+  },
+  "analysis": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-010",
+    "contextId": "V20261012-010-context",
+    "version": "1",
+    "promptHash": "aaf3bd1e99daf47a70a2a158973652d67ff14dafcfc1748b3fc2a09d719885db",
+    "depth": "standard",
+    "depthReason": "需辨析相邻用法并保留原句的承诺或证据边界。",
+    "coverage": {
+      "syntax": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "syntax-concept"
+        ]
+      },
+      "concept": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "syntax-concept"
+        ]
+      },
+      "contrast": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "contrast"
+        ]
+      },
+      "languageGame": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "game-neighbors"
+        ]
+      },
+      "englishNeighbors": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "game-neighbors"
+        ]
+      },
+      "pragmaticAction": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "action"
+        ]
+      },
+      "workplaceUse": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "workplace"
+        ]
+      }
+    },
+    "blocks": [
+      {
+        "blockId": "syntax-concept",
+        "dimensions": [
+          "syntax",
+          "concept"
+        ],
+        "text": "includes表示计划中包含；a two-day buffer是宾语；for review说明余量服务于评审。two-day作定语时day用单数。 缓冲不是已经消耗的时间，也不必然等于评审本身持续两天。原句只说明计划预留了余量，没有保证它足够应对所有变化。",
+        "sourceRefs": [
+          {
+            "sourceId": "cambridge-buffer",
+            "sourceVersion": "2026-11-16",
+            "locator": "noun PROTECTION; buffer for unforeseen delays example",
+            "supportedClaim": "buffer可指应对风险的缓冲，来源有预留时间防意外延误的用例。",
+            "url": "https://dictionary.cambridge.org/dictionary/english/buffer?q=buffers"
+          }
+        ],
+        "title": "句子结构与当前所指"
+      },
+      {
+        "blockId": "contrast",
+        "dimensions": [
+          "contrast"
+        ],
+        "text": "buffer是吸收不确定性的余量；duration是活动持续时间；deadline是截止点。不能把这三个量混为同一个日期。",
+        "sourceRefs": [],
+        "title": "容易混淆的地方"
+      },
+      {
+        "blockId": "game-neighbors",
+        "dimensions": [
+          "languageGame",
+          "englishNeighbors"
+        ],
+        "text": "排期讨论中可核对缓冲用于哪些变化、何时会被消耗、消耗后怎样更新计划；这些管理方式需要另行约定。 allow/build in a buffer连到提前预留；use up the buffer则连到进度偏差与更新，而不是自动允许延误。",
+        "sourceRefs": [],
+        "title": "讨论通常怎样继续"
+      },
+      {
+        "blockId": "action",
+        "dimensions": [
+          "pragmaticAction"
+        ],
+        "text": "说话者在说明计划中的保护性余量，没有承诺评审一定在两天内完成。",
+        "sourceRefs": [],
+        "title": "说话者正在做什么"
+      },
+      {
+        "blockId": "workplace",
+        "dimensions": [
+          "workplaceUse"
+        ],
+        "text": "下面是迁移到制造业沟通的新例句；不代表原场景中已发生的决定。",
+        "sourceRefs": [],
+        "title": "迁移到工作情境"
+      }
+    ],
+    "workplaceUse": [
+      {
+        "en": "Have we included a buffer for the first-article review?",
+        "zh": "我们是否为首件评审预留了缓冲？",
+        "whenToUse": "制定排期时核对不确定性。",
+        "limitation": "原创教学表达；具体权限和流程以实际约定为准。",
+        "origin": "original"
+      },
+      {
+        "en": "The delay has used up most of the buffer.",
+        "zh": "这次延误已经消耗了大部分缓冲。",
+        "whenToUse": "更新剩余排期余量。",
+        "limitation": "原创教学表达；具体权限和流程以实际约定为准。",
+        "origin": "original"
+      }
+    ],
+    "practiceRefs": [],
+    "edges": []
+  },
+  "practices": [],
+  "sources": [
+    {
+      "schemaVersion": 1,
+      "sourceId": "original-vocab",
+      "version": "2026-11-16",
+      "title": "原词库教学句／转述",
+      "url": "public/vocabulary.json",
+      "accessMode": "user_material",
+      "retrievedAt": "2026-11-16T01:45:06.410Z",
+      "coverage": "partial",
+      "rights": "用户授权处理原词库",
+      "limitations": [
+        "非外部作者逐字引文；保留原ID与原句"
+      ]
+    },
+    {
+      "schemaVersion": 1,
+      "sourceId": "oewn-2025",
+      "version": "2025",
+      "title": "Open English Wordnet 2025",
+      "url": "https://en-word.net/",
+      "accessMode": "licensed_snapshot",
+      "retrievedAt": "2026-11-16T01:45:06.410Z",
+      "coverage": "partial",
+      "rights": "CC BY 4.0 + Princeton notice",
+      "limitations": [
+        "本包仅选部分源义；中文非官方译文"
+      ]
+    },
+    {
+      "schemaVersion": 1,
+      "sourceId": "cambridge-buffer",
+      "version": "2026-11-16",
+      "title": "cambridge-buffer",
+      "url": "https://dictionary.cambridge.org/dictionary/english/buffer?q=buffers",
+      "accessMode": "indexed_excerpt",
+      "retrievedAt": "2026-11-16T01:45:06.410Z",
+      "coverage": "partial",
+      "rights": "必要短引与中文整理，不声称批量复制许可",
+      "limitations": [
+        "仅支持记录中的具体主张，不代表完整条目"
+      ]
+    }
+  ],
+  "verifiedIPA": "ˈbʌf.ɚ",
+  "dictionaryURL": "https://dictionary.cambridge.org/dictionary/english/buffer?q=buffers",
+  "historyURL": null
+}

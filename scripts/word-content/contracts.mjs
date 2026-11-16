@@ -15,7 +15,7 @@ const schemas={
  ReviewRecord:['reviewId','reviewer','role','scope','inputHash','artifactHash','checks','verdict','issues','time'],
  CandidateManifest:['batchId','planFreezeId','runAuthorizationRef','entryIds','itemStates','dependencies','moduleLocks','metrics']
 };
-const optional={EntrySnapshot:['originalIPA','originalMeaning','originalPOS'],SourceRecord:['claimScope','claims','sourceDate','evidencePath'],Sense:['sourceSenseId','usageLabels'],ContextUse:['senseRefs','targetSpans','expressionExplanation','context','sourceLabel','sourceURL','sourceDate'],BridgeRecord:['historyLink','historyClaimRefs','returnTargets']};
+const optional={EntrySnapshot:['originalIPA','originalMeaning','originalPOS'],SourceRecord:['claimScope','claims','sourceDate','evidencePath'],Sense:['sourceSenseId','usageLabels','definitionOrigin'],LearningSelection:['usageTip'],ContextUse:['senseRefs','targetSpans','expressionExplanation','context','sourceLabel','sourceURL','sourceDate'],BridgeRecord:['historyLink','historyClaimRefs','returnTargets']};
 const arrays=new Set(['expressionType','limitations','sourceRefs','sources','senseIds','inventoryRefs','selectedSenseIds','senses','claims','strategies','anchorRefs','targetRefs','evidenceRefs','roles','questions','responses','boundaries','blocks','workplaceUse','practiceRefs','edges','checks','issues','entryIds','itemStates']);
 const objects=new Set(['meaning','qualifiers','coverage','evidenceCriteria','dependencies','moduleLocks','metrics']);
 const hash=s=>createHash('sha256').update(s).digest('hex');
@@ -43,6 +43,7 @@ export function validateEntity(kind,v){
  if(Array.isArray(refs))for(const ref of refs)if(!ref||!ref.sourceId||!ref.sourceVersion||!ref.locator||!ref.supportedClaim)errors.push('EvidenceRef incomplete');
  if(kind==='Sense'&&(!v.meaning?.definitionEn||!v.meaning?.glossZh||!v.meaning?.glossOrigin))errors.push('meaning structure');
  if(kind==='ContextUse'){
+  if(!['selected','inventory_not_selected','new_source_sense','context_specific','whole_expression','unresolved'].includes(v.location))errors.push('location enum');
   if(typeof v.quote==='string'&&hash(v.quote)!==v.quoteSHA)errors.push('quoteSHA mismatch');
   for(const s of v.targetSpans||[])if([...v.quote].slice(s.start,s.end).join('')!==s.text)errors.push('targetSpans mismatch');
   if(v.location==='unresolved'&&v.meaning)errors.push('unresolved cannot have definitive meaning');

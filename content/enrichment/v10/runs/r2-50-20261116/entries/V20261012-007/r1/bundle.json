@@ -1,0 +1,390 @@
+{
+  "snapshot": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-007",
+    "term": "dependency",
+    "quote": "Please identify dependencies before finalizing the schedule.",
+    "batch": "2026-10-12",
+    "originalFileSHA": "ec65d33d6da99ebad2577f6c9f9938499823d29d117f43532302cf964a4c60a3",
+    "quoteSHA": "d156d93f88c8c045c7286556c7c5397e9b134fdee50a56c0bf6f0d0e2ee6ca29",
+    "originalIPA": "dɪˈpen.dən.si",
+    "originalPOS": "n.",
+    "originalMeaning": "一项工作对另一项工作或条件的依赖"
+  },
+  "selection": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-007",
+    "version": "1",
+    "inventoryRefs": [
+      "inventory:V20261012-007"
+    ],
+    "selectedSenseIds": [
+      "dependency%1:26:00::",
+      "dependency%1:26:01::"
+    ],
+    "reason": "按学习用途选择常见或易混义；这里不是语料频率排名。",
+    "usageTip": "dependency on说明依赖对象；项目里复数dependencies常指多项依赖关系。",
+    "general": "依赖；受另一事物制约的状态；对成瘾物质的依赖",
+    "senses": [
+      {
+        "senseId": "dependency%1:26:00::",
+        "title": "依赖；受另一事物制约的状态",
+        "usageLabels": [
+          "n.",
+          "精选学习义"
+        ],
+        "explanationZh": "依赖；受另一事物制约的状态",
+        "examples": [
+          {
+            "en": "The plan has a dependency on supplier data.",
+            "zh": "该计划依赖供应商数据。",
+            "origin": "original",
+            "sourceRef": null,
+            "usageNote": "依赖；受另一事物制约的状态"
+          }
+        ],
+        "evidenceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-d.json/dependency/n / dependency%1:26:00::",
+            "supportedClaim": "the state of relying on or being controlled by someone or something else",
+            "url": "https://en-word.net/"
+          }
+        ]
+      },
+      {
+        "senseId": "dependency%1:26:01::",
+        "title": "对成瘾物质的依赖",
+        "usageLabels": [
+          "n.",
+          "精选学习义"
+        ],
+        "explanationZh": "对成瘾物质的依赖",
+        "examples": [
+          {
+            "en": "The report discusses drug dependency.",
+            "zh": "报告讨论了药物依赖。",
+            "origin": "original",
+            "sourceRef": null,
+            "usageNote": "对成瘾物质的依赖"
+          }
+        ],
+        "evidenceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-d.json/dependency/n / dependency%1:26:01::",
+            "supportedClaim": "being abnormally tolerant to and dependent on something that is psychologically or physically habit-forming (especially alcohol or narcotic drugs)",
+            "url": "https://en-word.net/"
+          }
+        ]
+      }
+    ]
+  },
+  "senses": [
+    {
+      "schemaVersion": 1,
+      "senseId": "dependency%1:26:00::",
+      "lexicalEntryId": "lex:dependency",
+      "pos": "n.",
+      "definitionOrigin": "licensed_verbatim",
+      "meaning": {
+        "definitionEn": "the state of relying on or being controlled by someone or something else",
+        "glossZh": "依赖；受另一事物制约的状态",
+        "glossOrigin": "editorial"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "oewn-2025",
+          "sourceVersion": "2025",
+          "locator": "entries-d.json/dependency/n / dependency%1:26:00::",
+          "supportedClaim": "the state of relying on or being controlled by someone or something else",
+          "url": "https://en-word.net/"
+        }
+      ],
+      "version": "1"
+    },
+    {
+      "schemaVersion": 1,
+      "senseId": "dependency%1:26:01::",
+      "lexicalEntryId": "lex:dependency",
+      "pos": "n.",
+      "definitionOrigin": "licensed_verbatim",
+      "meaning": {
+        "definitionEn": "being abnormally tolerant to and dependent on something that is psychologically or physically habit-forming (especially alcohol or narcotic drugs)",
+        "glossZh": "对成瘾物质的依赖",
+        "glossOrigin": "editorial"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "oewn-2025",
+          "sourceVersion": "2025",
+          "locator": "entries-d.json/dependency/n / dependency%1:26:01::",
+          "supportedClaim": "being abnormally tolerant to and dependent on something that is psychologically or physically habit-forming (especially alcohol or narcotic drugs)",
+          "url": "https://en-word.net/"
+        }
+      ],
+      "version": "1"
+    }
+  ],
+  "inventory": {
+    "schemaVersion": 1,
+    "inventoryId": "inventory:V20261012-007",
+    "version": "1",
+    "lexicalEntryId": "lex:dependency",
+    "sources": [
+      "oewn-2025"
+    ],
+    "senseIds": [
+      "dependency%1:26:00::",
+      "dependency%1:26:01::"
+    ],
+    "coverageStatus": "partial"
+  },
+  "context": {
+    "schemaVersion": 1,
+    "contextId": "V20261012-007-context",
+    "entryId": "V20261012-007",
+    "sourceRef": "original-vocab",
+    "quote": "Please identify dependencies before finalizing the schedule.",
+    "quoteSHA": "d156d93f88c8c045c7286556c7c5397e9b134fdee50a56c0bf6f0d0e2ee6ca29",
+    "translation": "请在最终确定日程之前识别各项依赖关系。",
+    "quoteType": "原词库教学例句／转述；未认定为外部作者逐字引文",
+    "meaning": "排期前需找出的前提或相互制约关系",
+    "qualifiers": {
+      "polarity": "affirmative",
+      "modality": [],
+      "conditions": [
+        "identify dependencies before finalizing the schedule"
+      ],
+      "agents": [
+        "you (implicit addressee)"
+      ],
+      "timeScope": "before finalizing the schedule",
+      "excludedInferences": [
+        "识别依赖不等于把它们都解决，也不说明供应商一定会延误。"
+      ]
+    },
+    "location": "selected",
+    "senseRefs": [
+      "dependency%1:26:00::"
+    ],
+    "targetSpans": [],
+    "context": "仅以保留的这条原句为分析范围；未知背景不补造。"
+  },
+  "history": {
+    "schemaVersion": 1,
+    "lexicalEntryId": "lex:dependency",
+    "version": "1",
+    "summary": "",
+    "claims": [],
+    "sourceRefs": [],
+    "limitations": [
+      "未核实历史资料，不编造词源或年代。"
+    ]
+  },
+  "bridge": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-007",
+    "contextId": "V20261012-007-context",
+    "version": "1",
+    "location": "selected",
+    "strategies": [
+      "direct",
+      "contextualization"
+    ],
+    "anchorRefs": [
+      "dependency%1:26:00::"
+    ],
+    "targetRefs": [
+      "dependency%1:26:00::"
+    ],
+    "semanticText": "从一般依赖义进入，本句把依赖具体化为活动与输入之间的关系；这里与成瘾义无关。",
+    "boundary": "识别依赖不等于把它们都解决，也不说明供应商一定会延误。",
+    "evidenceRefs": [
+      {
+        "sourceId": "oewn-2025",
+        "sourceVersion": "2025",
+        "locator": "entries-d.json/dependency/n / dependency%1:26:00::",
+        "supportedClaim": "the state of relying on or being controlled by someone or something else",
+        "url": "https://en-word.net/"
+      }
+    ],
+    "historyLink": null,
+    "historyClaimRefs": [],
+    "returnTargets": [
+      "wl-common",
+      "wl-history"
+    ]
+  },
+  "analysis": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-007",
+    "contextId": "V20261012-007-context",
+    "version": "1",
+    "promptHash": "aaf3bd1e99daf47a70a2a158973652d67ff14dafcfc1748b3fc2a09d719885db",
+    "depth": "standard",
+    "depthReason": "需辨析相邻用法并保留原句的承诺或证据边界。",
+    "coverage": {
+      "syntax": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "syntax-concept"
+        ]
+      },
+      "concept": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "syntax-concept"
+        ]
+      },
+      "contrast": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "contrast"
+        ]
+      },
+      "languageGame": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "game-neighbors"
+        ]
+      },
+      "englishNeighbors": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "game-neighbors"
+        ]
+      },
+      "pragmaticAction": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "action"
+        ]
+      },
+      "workplaceUse": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "workplace"
+        ]
+      }
+    },
+    "blocks": [
+      {
+        "blockId": "syntax-concept",
+        "dimensions": [
+          "syntax",
+          "concept"
+        ],
+        "text": "identify是请求动作；dependencies是复数对象；before finalizing the schedule要求识别先于定稿。 一个活动能否开始或完成可能取决于另一项输入或结果。原句并未列出具体依赖，不应凭空把所有活动串成严格先后。",
+        "sourceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-d.json/dependency/n / dependency%1:26:00::",
+            "supportedClaim": "the state of relying on or being controlled by someone or something else",
+            "url": "https://en-word.net/"
+          }
+        ],
+        "title": "句子结构与当前所指"
+      },
+      {
+        "blockId": "contrast",
+        "dimensions": [
+          "contrast"
+        ],
+        "text": "dependency是关系；delay是时间上的延误。依赖本身不一定导致延误，但漏掉它可能让日程不可执行。",
+        "sourceRefs": [],
+        "title": "容易混淆的地方"
+      },
+      {
+        "blockId": "game-neighbors",
+        "dimensions": [
+          "languageGame",
+          "englishNeighbors"
+        ],
+        "text": "排期讨论需要问“这件事在等什么、由谁提供、何时可用”。回答应用可核对输入，而不是泛称配合不好。 depends on指出依赖对象；upstream input和prerequisite帮助解释为什么某项日期受前面事项约束。",
+        "sourceRefs": [],
+        "title": "讨论通常怎样继续"
+      },
+      {
+        "blockId": "action",
+        "dimensions": [
+          "pragmaticAction"
+        ],
+        "text": "说话者在要求排期定稿前检查前提。",
+        "sourceRefs": [],
+        "title": "说话者正在做什么"
+      },
+      {
+        "blockId": "workplace",
+        "dimensions": [
+          "workplaceUse"
+        ],
+        "text": "下面是迁移到制造业沟通的新例句；不代表原场景中已发生的决定。",
+        "sourceRefs": [],
+        "title": "迁移到工作情境"
+      }
+    ],
+    "workplaceUse": [
+      {
+        "en": "The test schedule has a dependency on fixture delivery.",
+        "zh": "测试日程依赖夹具交付。",
+        "whenToUse": "指出排期前提。",
+        "limitation": "原创教学表达；具体权限和流程以实际约定为准。",
+        "origin": "original"
+      },
+      {
+        "en": "Please confirm the dependencies before committing to a date.",
+        "zh": "请在承诺日期前确认各项依赖关系。",
+        "whenToUse": "避免无前提的日期承诺。",
+        "limitation": "原创教学表达；具体权限和流程以实际约定为准。",
+        "origin": "original"
+      }
+    ],
+    "practiceRefs": [],
+    "edges": []
+  },
+  "practices": [],
+  "sources": [
+    {
+      "schemaVersion": 1,
+      "sourceId": "original-vocab",
+      "version": "2026-11-16",
+      "title": "原词库教学句／转述",
+      "url": "public/vocabulary.json",
+      "accessMode": "user_material",
+      "retrievedAt": "2026-11-16T01:45:06.410Z",
+      "coverage": "partial",
+      "rights": "用户授权处理原词库",
+      "limitations": [
+        "非外部作者逐字引文；保留原ID与原句"
+      ]
+    },
+    {
+      "schemaVersion": 1,
+      "sourceId": "oewn-2025",
+      "version": "2025",
+      "title": "Open English Wordnet 2025",
+      "url": "https://en-word.net/",
+      "accessMode": "licensed_snapshot",
+      "retrievedAt": "2026-11-16T01:45:06.410Z",
+      "coverage": "partial",
+      "rights": "CC BY 4.0 + Princeton notice",
+      "limitations": [
+        "本包仅选部分源义；中文非官方译文"
+      ]
+    }
+  ],
+  "verifiedIPA": null,
+  "dictionaryURL": "https://en-word.net/",
+  "historyURL": null
+}

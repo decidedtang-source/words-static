@@ -1,0 +1,400 @@
+{
+  "snapshot": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-034",
+    "term": "expedite",
+    "quote": "Could you help expedite the review without skipping any checks?",
+    "batch": "2026-10-12",
+    "originalFileSHA": "ec65d33d6da99ebad2577f6c9f9938499823d29d117f43532302cf964a4c60a3",
+    "quoteSHA": "3a37465b6dc75ce7ee72af025fbab5f02a7b1645dbc318b070c63b40348464bf",
+    "originalIPA": "ˈek.spə.daɪt",
+    "originalPOS": "v.",
+    "originalMeaning": "采取措施加快事项处理"
+  },
+  "selection": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-034",
+    "version": "1",
+    "inventoryRefs": [
+      "inventory:V20261012-034"
+    ],
+    "selectedSenseIds": [
+      "expedite%2:41:00::",
+      "expedite%2:41:01::"
+    ],
+    "reason": "按学习用途选择常见或易混义；这里不是语料频率排名。",
+    "usageTip": "expedite常接process/review/delivery；保留句中对提速方式的限制。",
+    "general": "促进；加快进展；高效地办理",
+    "senses": [
+      {
+        "senseId": "expedite%2:41:00::",
+        "title": "促进；加快进展",
+        "usageLabels": [
+          "v.",
+          "精选学习义"
+        ],
+        "explanationZh": "促进；加快进展",
+        "examples": [
+          {
+            "en": "We asked for help to expedite the review.",
+            "zh": "我们请求协助加快评审。",
+            "origin": "original",
+            "sourceRef": null,
+            "usageNote": "促进；加快进展"
+          }
+        ],
+        "evidenceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-e.json/expedite/v / expedite%2:41:00::",
+            "supportedClaim": "speed up the progress of; facilitate",
+            "url": "https://en-word.net/"
+          }
+        ]
+      },
+      {
+        "senseId": "expedite%2:41:01::",
+        "title": "高效地办理",
+        "usageLabels": [
+          "v.",
+          "精选学习义"
+        ],
+        "explanationZh": "高效地办理",
+        "examples": [
+          {
+            "en": "The team expedited the paperwork.",
+            "zh": "团队高效办理了文书手续。",
+            "origin": "original",
+            "sourceRef": null,
+            "usageNote": "高效地办理"
+          }
+        ],
+        "evidenceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-e.json/expedite/v / expedite%2:41:01::",
+            "supportedClaim": "process fast and efficiently",
+            "url": "https://en-word.net/"
+          }
+        ]
+      }
+    ]
+  },
+  "senses": [
+    {
+      "schemaVersion": 1,
+      "senseId": "expedite%2:41:00::",
+      "lexicalEntryId": "lex:expedite",
+      "pos": "v.",
+      "definitionOrigin": "licensed_verbatim",
+      "meaning": {
+        "definitionEn": "speed up the progress of; facilitate",
+        "glossZh": "促进；加快进展",
+        "glossOrigin": "editorial"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "oewn-2025",
+          "sourceVersion": "2025",
+          "locator": "entries-e.json/expedite/v / expedite%2:41:00::",
+          "supportedClaim": "speed up the progress of; facilitate",
+          "url": "https://en-word.net/"
+        }
+      ],
+      "version": "1"
+    },
+    {
+      "schemaVersion": 1,
+      "senseId": "expedite%2:41:01::",
+      "lexicalEntryId": "lex:expedite",
+      "pos": "v.",
+      "definitionOrigin": "licensed_verbatim",
+      "meaning": {
+        "definitionEn": "process fast and efficiently",
+        "glossZh": "高效地办理",
+        "glossOrigin": "editorial"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "oewn-2025",
+          "sourceVersion": "2025",
+          "locator": "entries-e.json/expedite/v / expedite%2:41:01::",
+          "supportedClaim": "process fast and efficiently",
+          "url": "https://en-word.net/"
+        }
+      ],
+      "version": "1"
+    }
+  ],
+  "inventory": {
+    "schemaVersion": 1,
+    "inventoryId": "inventory:V20261012-034",
+    "version": "1",
+    "lexicalEntryId": "lex:expedite",
+    "sources": [
+      "oewn-2025"
+    ],
+    "senseIds": [
+      "expedite%2:41:00::",
+      "expedite%2:41:01::"
+    ],
+    "coverageStatus": "partial"
+  },
+  "context": {
+    "schemaVersion": 1,
+    "contextId": "V20261012-034-context",
+    "entryId": "V20261012-034",
+    "sourceRef": "original-vocab",
+    "quote": "Could you help expedite the review without skipping any checks?",
+    "quoteSHA": "3a37465b6dc75ce7ee72af025fbab5f02a7b1645dbc318b070c63b40348464bf",
+    "translation": "你能帮助加快评审，同时不跳过任何检查吗？",
+    "quoteType": "原词库教学例句／转述；未认定为外部作者逐字引文",
+    "meaning": "请求在保留全部检查的条件下加快评审",
+    "qualifiers": {
+      "polarity": "affirmative",
+      "modality": [
+        "Could (polite request)"
+      ],
+      "conditions": [
+        "without skipping any checks"
+      ],
+      "agents": [
+        "you (requested helper)"
+      ],
+      "timeScope": null,
+      "excludedInferences": [
+        "请求尚未被接受，也没有授予跳过检查的权力。"
+      ]
+    },
+    "location": "selected",
+    "senseRefs": [
+      "expedite%2:41:00::"
+    ],
+    "targetSpans": [
+      {
+        "start": 15,
+        "end": 23,
+        "text": "expedite",
+        "mappingType": "exact",
+        "note": "原句精确匹配；词形变化时不伪造span"
+      }
+    ],
+    "context": "仅以保留的这条原句为分析范围；未知背景不补造。"
+  },
+  "history": {
+    "schemaVersion": 1,
+    "lexicalEntryId": "lex:expedite",
+    "version": "1",
+    "summary": "",
+    "claims": [],
+    "sourceRefs": [],
+    "limitations": [
+      "未核实历史资料，不编造词源或年代。"
+    ]
+  },
+  "bridge": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-034",
+    "contextId": "V20261012-034-context",
+    "version": "1",
+    "location": "selected",
+    "strategies": [
+      "direct",
+      "contextualization"
+    ],
+    "anchorRefs": [
+      "expedite%2:41:00::"
+    ],
+    "targetRefs": [
+      "expedite%2:41:00::"
+    ],
+    "semanticText": "加快进展的通用义在此作用于评审，但without短语规定不能靠漏查实现；不能只读出“尽快”。",
+    "boundary": "请求尚未被接受，也没有授予跳过检查的权力。",
+    "evidenceRefs": [
+      {
+        "sourceId": "oewn-2025",
+        "sourceVersion": "2025",
+        "locator": "entries-e.json/expedite/v / expedite%2:41:00::",
+        "supportedClaim": "speed up the progress of; facilitate",
+        "url": "https://en-word.net/"
+      }
+    ],
+    "historyLink": null,
+    "historyClaimRefs": [],
+    "returnTargets": [
+      "wl-common",
+      "wl-history"
+    ]
+  },
+  "analysis": {
+    "schemaVersion": 1,
+    "entryId": "V20261012-034",
+    "contextId": "V20261012-034-context",
+    "version": "1",
+    "promptHash": "aaf3bd1e99daf47a70a2a158973652d67ff14dafcfc1748b3fc2a09d719885db",
+    "depth": "standard",
+    "depthReason": "需辨析相邻用法并保留原句的承诺或证据边界。",
+    "coverage": {
+      "syntax": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "syntax-concept"
+        ]
+      },
+      "concept": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "syntax-concept"
+        ]
+      },
+      "contrast": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "contrast"
+        ]
+      },
+      "languageGame": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "game-neighbors"
+        ]
+      },
+      "englishNeighbors": {
+        "mode": "integrated",
+        "reason": "相邻维度在同段连续解释，保留各自信息。",
+        "blockIds": [
+          "game-neighbors"
+        ]
+      },
+      "pragmaticAction": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "action"
+        ]
+      },
+      "workplaceUse": {
+        "mode": "expanded",
+        "reason": "",
+        "blockIds": [
+          "workplace"
+        ]
+      }
+    },
+    "blocks": [
+      {
+        "blockId": "syntax-concept",
+        "dimensions": [
+          "syntax",
+          "concept"
+        ],
+        "text": "Could you help是礼貌请求；expedite的宾语是the review；without skipping any checks给加速方式设下边界。 加快可以来自减少等待、准备齐资料或协调人员。原句没有选定措施，也明确不能以省略检查换取速度。",
+        "sourceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-e.json/expedite/v / expedite%2:41:00::",
+            "supportedClaim": "speed up the progress of; facilitate",
+            "url": "https://en-word.net/"
+          }
+        ],
+        "title": "句子结构与当前所指"
+      },
+      {
+        "blockId": "contrast",
+        "dimensions": [
+          "contrast"
+        ],
+        "text": "expedite是促进加速；skip是略过；rush可能暗示仓促。加快流程不必等于压缩证据要求。",
+        "sourceRefs": [],
+        "title": "容易混淆的地方"
+      },
+      {
+        "blockId": "game-neighbors",
+        "dimensions": [
+          "languageGame",
+          "englishNeighbors"
+        ],
+        "text": "可找出等待或重复环节，说明能加快哪一步，并确认检查范围保持完整；让提速方案具体可评估。 expedite the review与remove waiting time相关；complete documentation可能减少往返；without skipping checks保留工作内容。",
+        "sourceRefs": [],
+        "title": "讨论通常怎样继续"
+      },
+      {
+        "blockId": "action",
+        "dimensions": [
+          "pragmaticAction"
+        ],
+        "text": "说话者在请求协助提速，同时明确质量边界。",
+        "sourceRefs": [],
+        "title": "说话者正在做什么"
+      },
+      {
+        "blockId": "workplace",
+        "dimensions": [
+          "workplaceUse"
+        ],
+        "text": "下面是迁移到制造业沟通的新例句；不代表原场景中已发生的决定。",
+        "sourceRefs": [],
+        "title": "迁移到工作情境"
+      }
+    ],
+    "workplaceUse": [
+      {
+        "en": "Could complete drawings help expedite the review?",
+        "zh": "完整图纸能帮助加快评审吗？",
+        "whenToUse": "寻找减少等待的办法。",
+        "limitation": "原创教学表达；具体权限和流程以实际约定为准。",
+        "origin": "original"
+      },
+      {
+        "en": "We can expedite scheduling while keeping every required check.",
+        "zh": "我们可以加快排期，同时保留每项必要检查。",
+        "whenToUse": "把提速范围说清楚。",
+        "limitation": "原创教学表达；具体权限和流程以实际约定为准。",
+        "origin": "original"
+      }
+    ],
+    "practiceRefs": [],
+    "edges": []
+  },
+  "practices": [],
+  "sources": [
+    {
+      "schemaVersion": 1,
+      "sourceId": "original-vocab",
+      "version": "2026-11-16",
+      "title": "原词库教学句／转述",
+      "url": "public/vocabulary.json",
+      "accessMode": "user_material",
+      "retrievedAt": "2026-11-16T01:45:06.410Z",
+      "coverage": "partial",
+      "rights": "用户授权处理原词库",
+      "limitations": [
+        "非外部作者逐字引文；保留原ID与原句"
+      ]
+    },
+    {
+      "schemaVersion": 1,
+      "sourceId": "oewn-2025",
+      "version": "2025",
+      "title": "Open English Wordnet 2025",
+      "url": "https://en-word.net/",
+      "accessMode": "licensed_snapshot",
+      "retrievedAt": "2026-11-16T01:45:06.410Z",
+      "coverage": "partial",
+      "rights": "CC BY 4.0 + Princeton notice",
+      "limitations": [
+        "本包仅选部分源义；中文非官方译文"
+      ]
+    }
+  ],
+  "verifiedIPA": null,
+  "dictionaryURL": "https://en-word.net/",
+  "historyURL": null
+}
