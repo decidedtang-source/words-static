@@ -1,0 +1,762 @@
+{
+  "moduleId": "headword",
+  "version": "1.0.0",
+  "producerHash": "a7cfac236d8cd5d9f9edeff26f9c040d1c421de973e8c7c3a840bf6e51e9c3f2",
+  "contractHash": "f6fe3dc072998fb02a0193c69762dd35dbabfbf4a8882d3dd84cea5ea2fdc452",
+  "dependencies": {},
+  "entryIds": [
+    "V20261012-002",
+    "V20261012-012",
+    "V20261012-022",
+    "V20261012-024",
+    "V20261012-053",
+    "V20261012-078",
+    "V20261012-076",
+    "V20261012-093",
+    "V20261012-100",
+    "V20261014-075",
+    "V20261014-076",
+    "V20261029-005",
+    "V20261014-003",
+    "V20261012-117",
+    "V20261018-106",
+    "V20261016-103",
+    "V20261016-119",
+    "V20261012-020",
+    "V20261012-019",
+    "V20261012-015",
+    "V20261012-018",
+    "V20261012-010",
+    "V20261012-006",
+    "V20261012-088",
+    "V20261012-004",
+    "V20261012-005",
+    "V20261012-007",
+    "V20261012-008",
+    "V20261012-009",
+    "V20261012-011",
+    "V20261012-013",
+    "V20261012-014",
+    "V20261012-016",
+    "V20261012-017",
+    "V20261012-021",
+    "V20261012-023",
+    "V20261012-025",
+    "V20261012-026",
+    "V20261012-028",
+    "V20261012-029",
+    "V20261012-030",
+    "V20261012-031",
+    "V20261012-032",
+    "V20261012-033",
+    "V20261012-034",
+    "V20261012-035",
+    "V20261012-036",
+    "V20261012-037",
+    "V20261012-038",
+    "V20261012-040"
+  ],
+  "records": [
+    {
+      "entryId": "V20261012-002",
+      "contextId": "V20261012-002-context",
+      "inputHash": "7c921e161980f0e91315021b46eae1e1f6dddf78ffdf30fa64e9978c8b42a0e6",
+      "status": "ready",
+      "data": {
+        "word": "objective",
+        "ipa": "əbˈdʒek.tɪv",
+        "pos": "n."
+      },
+      "provenance": {
+        "ipa": "original_library"
+      }
+    },
+    {
+      "entryId": "V20261012-012",
+      "contextId": "V20261012-012-context",
+      "inputHash": "6471cb583530521edcd88e8510f2507ea29e49bfb1ad399cb17a7a67ac31eb25",
+      "status": "ready",
+      "data": {
+        "word": "capacity",
+        "ipa": "kəˈpæs.ə.t̬i",
+        "pos": "n."
+      },
+      "provenance": {
+        "ipa": "original_library"
+      }
+    },
+    {
+      "entryId": "V20261012-022",
+      "contextId": "V20261012-022-context",
+      "inputHash": "fb38dc758496905e3351aa06a5d23f41d30837f656d5b6d45cf4575c9ff6d72f",
+      "status": "ready",
+      "data": {
+        "word": "tentative",
+        "ipa": "ˈten.t̬ə.t̬ɪv",
+        "pos": "adj."
+      },
+      "provenance": {
+        "ipa": "original_library"
+      }
+    },
+    {
+      "entryId": "V20261012-024",
+      "contextId": "V20261012-024-context",
+      "inputHash": "a001ae517e014e76366a521abc4021d7fd7d2c5daff7ece42e867b0deb15ce50",
+      "status": "ready",
+      "data": {
+        "word": "pending",
+        "ipa": "ˈpen.dɪŋ",
+        "pos": "adj."
+      },
+      "provenance": {
+        "ipa": "original_library"
+      }
+    },
+    {
+      "entryId": "V20261012-053",
+      "contextId": "V20261012-053-context",
+      "inputHash": "d278aa614f90ea3858be7b9032edf678f4625310eb25227553bcd9968c927e41",
+      "status": "ready",
+      "data": {
+        "word": "reservation",
+        "ipa": "ˌrez.ɚˈveɪ.ʃən",
+        "pos": "n."
+      },
+      "provenance": {
+        "ipa": "original_library"
+      }
+    },
+    {
+      "entryId": "V20261012-078",
+      "contextId": "V20261012-078-context",
+      "inputHash": "94acba785748791697dd5d83d208fac00794f3c524cf19d61f7bfe8e76ead492",
+      "status": "ready",
+      "data": {
+        "word": "qualify",
+        "ipa": "ˈkwɑː.lə.faɪ",
+        "pos": "v."
+      },
+      "provenance": {
+        "ipa": "original_library"
+      }
+    },
+    {
+      "entryId": "V20261012-076",
+      "contextId": "V20261012-076-context",
+      "inputHash": "cd8d7fb9899eee7ede31d32ff7cfe316e3be862a724babc1751dc5d75f2c681b",
+      "status": "ready",
+      "data": {
+        "word": "infer",
+        "ipa": "ɪnˈfɝː",
+        "pos": "v."
+      },
+      "provenance": {
+        "ipa": "original_library"
+      }
+    },
+    {
+      "entryId": "V20261012-093",
+      "contextId": "V20261012-093-context",
+      "inputHash": "2dd9537bfd07557afa34d72d6bb16fe780cdef355c17d63fc5dea7569069ed15",
+      "status": "ready",
+      "data": {
+        "word": "provided that",
+        "ipa": "prəˈvaɪ.dɪd ðət",
+        "pos": "条件连接表达"
+      },
+      "provenance": {
+        "ipa": "verified_source"
+      }
+    },
+    {
+      "entryId": "V20261012-100",
+      "contextId": "V20261012-100-context",
+      "inputHash": "ffdb505438ca1bbfe3bf964c49f3ba04ec104d072f3e603d396787bd20a19768",
+      "status": "ready",
+      "data": {
+        "word": "not necessarily",
+        "ipa": "nɑːt ˌnes.əˈser.əl.i",
+        "pos": "限定表达"
+      },
+      "provenance": {
+        "ipa": "original_library"
+      }
+    },
+    {
+      "entryId": "V20261014-075",
+      "contextId": "V20261014-075-context",
+      "inputHash": "b16728eb33e02efcb5375de488177b1e76e94006022d0c68a9b69f75576cd973",
+      "status": "ready",
+      "data": {
+        "word": "verification method",
+        "ipa": "ˌver.ə.fəˈkeɪ.ʃən ˈmeθ.əd",
+        "pos": "n. phrase"
+      },
+      "provenance": {
+        "ipa": "original_library"
+      }
+    },
+    {
+      "entryId": "V20261014-076",
+      "contextId": "V20261014-076-context",
+      "inputHash": "7714761ba9bb5654d350d94fb2652366d5a60dbd27ea90b14d5276f4af4b5cc6",
+      "status": "ready",
+      "data": {
+        "word": "validation method",
+        "ipa": "ˌvæl.əˈdeɪ.ʃən ˈmeθ.əd",
+        "pos": "n. phrase"
+      },
+      "provenance": {
+        "ipa": "original_library"
+      }
+    },
+    {
+      "entryId": "V20261029-005",
+      "contextId": "V20261029-005-context",
+      "inputHash": "de8df5a377d30a5b785a6bc669fb95218768ae321a9d09143dc706faa7b719c1",
+      "status": "ready",
+      "data": {
+        "word": "working definition",
+        "ipa": "ˈwɝː.kɪŋ ˌdef.ɪˈnɪʃ.ən",
+        "pos": "noun phrase"
+      },
+      "provenance": {
+        "ipa": "original_library"
+      }
+    },
+    {
+      "entryId": "V20261014-003",
+      "contextId": "V20261014-003-context",
+      "inputHash": "4101d039d3da8a09e3ee5da3b877fb52a4d41e574b0dfd63cc67b83127e1d9b4",
+      "status": "ready",
+      "data": {
+        "word": "frame the issue",
+        "ipa": "freɪm ði ˈɪʃ.uː",
+        "pos": "v. phrase"
+      },
+      "provenance": {
+        "ipa": "original_library"
+      }
+    },
+    {
+      "entryId": "V20261012-117",
+      "contextId": "V20261012-117-context",
+      "inputHash": "d97207d449920f123cc36c1273618149b15d6f665a666f69cf036694675daeb8",
+      "status": "ready",
+      "data": {
+        "word": "account for",
+        "ipa": "əˈkaʊnt fɔːr",
+        "pos": "短语动词"
+      },
+      "provenance": {
+        "ipa": "original_library"
+      }
+    },
+    {
+      "entryId": "V20261018-106",
+      "contextId": "V20261018-106-context",
+      "inputHash": "ef3e01a80baf8d50677f66275e2376604238001de2cc99dec8dc5b266aaeefcf",
+      "status": "ready",
+      "data": {
+        "word": "lead in the polls",
+        "ipa": "liːd ɪn ðə poʊlz",
+        "pos": "verb phrase"
+      },
+      "provenance": {
+        "ipa": "original_library"
+      }
+    },
+    {
+      "entryId": "V20261016-103",
+      "contextId": "V20261016-103-context",
+      "inputHash": "32d6f6c67947073ec96628dc340dfee07183e837643f4548f7ffebb15d3b8a13",
+      "status": "ready",
+      "data": {
+        "word": "credulous",
+        "ipa": "ˈkredʒ.ə.ləs",
+        "pos": "adj."
+      },
+      "provenance": {
+        "ipa": "original_library"
+      }
+    },
+    {
+      "entryId": "V20261016-119",
+      "contextId": "V20261016-119-context",
+      "inputHash": "5c6a14e12ff97ef7abb7b2c5827a2c5735afe91f9a3589e251cc608e5cab6243",
+      "status": "ready",
+      "data": {
+        "word": "inflation shock",
+        "ipa": "ɪnˈfleɪ.ʃən ʃɑːk",
+        "pos": "n. phrase"
+      },
+      "provenance": {
+        "ipa": "original_library"
+      }
+    },
+    {
+      "entryId": "V20261012-020",
+      "contextId": "V20261012-020-context",
+      "inputHash": "bbd8ff7a3127e84546440f32baccf5cba99160faf44aa54eeb5e19cf2639dc0d",
+      "status": "ready",
+      "data": {
+        "word": "trade-off",
+        "ipa": "ˈtreɪd.ɑːf",
+        "pos": "n."
+      },
+      "provenance": {
+        "ipa": "original_library"
+      }
+    },
+    {
+      "entryId": "V20261012-019",
+      "contextId": "V20261012-019-context",
+      "inputHash": "68d294aa62e7426c92bbafd47ca3a7a9ae4ca13b7ed379e99daf80dba7a6f177",
+      "status": "ready",
+      "data": {
+        "word": "contingency",
+        "ipa": "kənˈtɪn.dʒən.si",
+        "pos": "n."
+      },
+      "provenance": {
+        "ipa": "original_library"
+      }
+    },
+    {
+      "entryId": "V20261012-015",
+      "contextId": "V20261012-015-context",
+      "inputHash": "fd5dacfd025813d0e3b25f21832d96d8ba68a276c5f0ad7453bc632df615d571",
+      "status": "ready",
+      "data": {
+        "word": "ownership",
+        "ipa": "ˈoʊ.nɚ.ʃɪp",
+        "pos": "n."
+      },
+      "provenance": {
+        "ipa": "original_library"
+      }
+    },
+    {
+      "entryId": "V20261012-018",
+      "contextId": "V20261012-018-context",
+      "inputHash": "f992c2721f4099f243f01aff0b552041827d9ab182c31c2dfdd89116c8a32c26",
+      "status": "ready",
+      "data": {
+        "word": "commitment",
+        "ipa": "kəˈmɪt.mənt",
+        "pos": "n."
+      },
+      "provenance": {
+        "ipa": "original_library"
+      }
+    },
+    {
+      "entryId": "V20261012-010",
+      "contextId": "V20261012-010-context",
+      "inputHash": "3192aab20e704fca9e3e7d307f890900aac1bb5ad5c284947b5f08c8a54b0d18",
+      "status": "ready",
+      "data": {
+        "word": "buffer",
+        "ipa": "ˈbʌf.ɚ",
+        "pos": "n."
+      },
+      "provenance": {
+        "ipa": "verified_source"
+      }
+    },
+    {
+      "entryId": "V20261012-006",
+      "contextId": "V20261012-006-context",
+      "inputHash": "af6aaf25fd22083c124dd8bd092d63c457645cf37052725d86b9d3ff8ac11c2c",
+      "status": "ready",
+      "data": {
+        "word": "constraint",
+        "ipa": "kənˈstreɪnt",
+        "pos": "n."
+      },
+      "provenance": {
+        "ipa": "verified_source"
+      }
+    },
+    {
+      "entryId": "V20261012-088",
+      "contextId": "V20261012-088-context",
+      "inputHash": "be8322eacf35847ebea2dec39b7d7ae9a39d02e0c0cc837d73a5c797117ef162",
+      "status": "ready",
+      "data": {
+        "word": "preliminary",
+        "ipa": "prɪˈlɪm.ə.ner.i",
+        "pos": "adj."
+      },
+      "provenance": {
+        "ipa": "original_library"
+      }
+    },
+    {
+      "entryId": "V20261012-004",
+      "contextId": "V20261012-004-context",
+      "inputHash": "a538bc918525454873da509a61e306539c73a751b35350affe2e8806d163e378",
+      "status": "ready",
+      "data": {
+        "word": "milestone",
+        "ipa": "ˈmaɪl.stoʊn",
+        "pos": "n."
+      },
+      "provenance": {
+        "ipa": "original_library"
+      }
+    },
+    {
+      "entryId": "V20261012-005",
+      "contextId": "V20261012-005-context",
+      "inputHash": "d65329b294005b409e13cb9a99c9cce2fa410ddfc086de58105292fa7a7d3591",
+      "status": "ready",
+      "data": {
+        "word": "priority",
+        "ipa": "praɪˈɔːr.ə.t̬i",
+        "pos": "n."
+      },
+      "provenance": {
+        "ipa": "original_library"
+      }
+    },
+    {
+      "entryId": "V20261012-007",
+      "contextId": "V20261012-007-context",
+      "inputHash": "47126113c527876c849389914b5332d703958abce34f68a0a5894629d7457d36",
+      "status": "ready",
+      "data": {
+        "word": "dependency",
+        "ipa": "dɪˈpen.dən.si",
+        "pos": "n."
+      },
+      "provenance": {
+        "ipa": "original_library"
+      }
+    },
+    {
+      "entryId": "V20261012-008",
+      "contextId": "V20261012-008-context",
+      "inputHash": "3f59f65a1ec30ecf706313036ad819c3195ada55099235b353929f3d8381d25f",
+      "status": "ready",
+      "data": {
+        "word": "assumption",
+        "ipa": "əˈsʌmp.ʃən",
+        "pos": "n."
+      },
+      "provenance": {
+        "ipa": "original_library"
+      }
+    },
+    {
+      "entryId": "V20261012-009",
+      "contextId": "V20261012-009-context",
+      "inputHash": "74b31bbd10be8d284590803ec8ee1e4184b05fe7edfb60f04184a72b6c8eff33",
+      "status": "ready",
+      "data": {
+        "word": "baseline",
+        "ipa": "ˈbeɪs.laɪn",
+        "pos": "n."
+      },
+      "provenance": {
+        "ipa": "original_library"
+      }
+    },
+    {
+      "entryId": "V20261012-011",
+      "contextId": "V20261012-011-context",
+      "inputHash": "1b7497bc97f8da3d24e15fbee798f222eb00dabc997748831ad71971ae62f243",
+      "status": "ready",
+      "data": {
+        "word": "sequence",
+        "ipa": "ˈsiː.kwəns",
+        "pos": "n."
+      },
+      "provenance": {
+        "ipa": "original_library"
+      }
+    },
+    {
+      "entryId": "V20261012-013",
+      "contextId": "V20261012-013-context",
+      "inputHash": "5e826a5937e7231c3e74999f91b57f213d2fc34b1630e79bc31d3eaf02fb3882",
+      "status": "ready",
+      "data": {
+        "word": "allocate",
+        "ipa": "ˈæl.ə.keɪt",
+        "pos": "v."
+      },
+      "provenance": {
+        "ipa": "original_library"
+      }
+    },
+    {
+      "entryId": "V20261012-014",
+      "contextId": "V20261012-014-context",
+      "inputHash": "184479b60449ab4254759e9a5cf6264488eacbd23deba720849d2d6ea3539959",
+      "status": "ready",
+      "data": {
+        "word": "delegate",
+        "ipa": "ˈdel.ə.ɡeɪt",
+        "pos": "v."
+      },
+      "provenance": {
+        "ipa": "original_library"
+      }
+    },
+    {
+      "entryId": "V20261012-016",
+      "contextId": "V20261012-016-context",
+      "inputHash": "c98eace16acf16a3175f9773a8a792ba4b9b35a2f9167cdfd4cf06ff1edee731",
+      "status": "ready",
+      "data": {
+        "word": "accountable",
+        "ipa": "əˈkaʊn.t̬ə.bəl",
+        "pos": "adj."
+      },
+      "provenance": {
+        "ipa": "original_library"
+      }
+    },
+    {
+      "entryId": "V20261012-017",
+      "contextId": "V20261012-017-context",
+      "inputHash": "7785cab9c6fac63cead0e5f92e448fe15bd986188698714bd2c10d01fb0df205",
+      "status": "ready",
+      "data": {
+        "word": "deadline",
+        "ipa": "ˈded.laɪn",
+        "pos": "n."
+      },
+      "provenance": {
+        "ipa": "original_library"
+      }
+    },
+    {
+      "entryId": "V20261012-021",
+      "contextId": "V20261012-021-context",
+      "inputHash": "46b49b4d421ee5df717c0443f3cebf6530d2169b3e0fa95f3a860d66e314625c",
+      "status": "ready",
+      "data": {
+        "word": "feasible",
+        "ipa": "ˈfiː.zə.bəl",
+        "pos": "adj."
+      },
+      "provenance": {
+        "ipa": "original_library"
+      }
+    },
+    {
+      "entryId": "V20261012-023",
+      "contextId": "V20261012-023-context",
+      "inputHash": "a2eefb6bd340985944c18d141acf9e5802642e4641ae400310509daa851cef80",
+      "status": "ready",
+      "data": {
+        "word": "overdue",
+        "ipa": "ˌoʊ.vɚˈduː",
+        "pos": "adj."
+      },
+      "provenance": {
+        "ipa": "original_library"
+      }
+    },
+    {
+      "entryId": "V20261012-025",
+      "contextId": "V20261012-025-context",
+      "inputHash": "90f3967896b70b3c7c4cffaa7f412ba0bdcfdc4e834dd65f1c0e47b56f2d1b39",
+      "status": "ready",
+      "data": {
+        "word": "backlog",
+        "ipa": "ˈbæk.lɑːɡ",
+        "pos": "n."
+      },
+      "provenance": {
+        "ipa": "original_library"
+      }
+    },
+    {
+      "entryId": "V20261012-026",
+      "contextId": "V20261012-026-context",
+      "inputHash": "ab0ad18cf053731ba24b815218843426b46f9e93c4f4dfe7924b423193315a0c",
+      "status": "ready",
+      "data": {
+        "word": "bottleneck",
+        "ipa": "ˈbɑː.t̬əl.nek",
+        "pos": "n."
+      },
+      "provenance": {
+        "ipa": "original_library"
+      }
+    },
+    {
+      "entryId": "V20261012-028",
+      "contextId": "V20261012-028-context",
+      "inputHash": "9f6755076c52c2b864b4261482c9b8b0548a7b1c987ab8734c9a4de1cb5958c2",
+      "status": "ready",
+      "data": {
+        "word": "setback",
+        "ipa": "ˈset.bæk",
+        "pos": "n."
+      },
+      "provenance": {
+        "ipa": "original_library"
+      }
+    },
+    {
+      "entryId": "V20261012-029",
+      "contextId": "V20261012-029-context",
+      "inputHash": "f1edcaf27abbde0d0e51a4e61bf765f86050ca3f98c2c059d2109e4aba9d925a",
+      "status": "ready",
+      "data": {
+        "word": "escalate",
+        "ipa": "ˈes.kə.leɪt",
+        "pos": "v."
+      },
+      "provenance": {
+        "ipa": "verified_source"
+      }
+    },
+    {
+      "entryId": "V20261012-030",
+      "contextId": "V20261012-030-context",
+      "inputHash": "b6b6c342d547018f3e84c1b506f5c21bc6858b3b2f0bf95296380e2dde43a179",
+      "status": "ready",
+      "data": {
+        "word": "mitigate",
+        "ipa": "ˈmɪt̬.ə.ɡeɪt",
+        "pos": "v."
+      },
+      "provenance": {
+        "ipa": "original_library"
+      }
+    },
+    {
+      "entryId": "V20261012-031",
+      "contextId": "V20261012-031-context",
+      "inputHash": "575f46b8c20970187149b90cd145fb68f188340770e8811e32ef393755ca1b37",
+      "status": "ready",
+      "data": {
+        "word": "monitor",
+        "ipa": "ˈmɑː.nə.t̬ɚ",
+        "pos": "v."
+      },
+      "provenance": {
+        "ipa": "original_library"
+      }
+    },
+    {
+      "entryId": "V20261012-032",
+      "contextId": "V20261012-032-context",
+      "inputHash": "cabfdaaa786e14c1ba06814bd041f1a2d845ea26e9f8eb385abf02a7d6b8b05c",
+      "status": "ready",
+      "data": {
+        "word": "reassess",
+        "ipa": "ˌriː.əˈses",
+        "pos": "v."
+      },
+      "provenance": {
+        "ipa": "original_library"
+      }
+    },
+    {
+      "entryId": "V20261012-033",
+      "contextId": "V20261012-033-context",
+      "inputHash": "e473bff3a1fa13752abf1c2db2a939d19cbba48b620ddb00adf6b60f0e775761",
+      "status": "ready",
+      "data": {
+        "word": "defer",
+        "ipa": "dɪˈfɝː",
+        "pos": "v."
+      },
+      "provenance": {
+        "ipa": "original_library"
+      }
+    },
+    {
+      "entryId": "V20261012-034",
+      "contextId": "V20261012-034-context",
+      "inputHash": "8297b6659915fbe3e124c5eb7873150e999b88c01a70eb05787bf4af720cb817",
+      "status": "ready",
+      "data": {
+        "word": "expedite",
+        "ipa": "ˈek.spə.daɪt",
+        "pos": "v."
+      },
+      "provenance": {
+        "ipa": "original_library"
+      }
+    },
+    {
+      "entryId": "V20261012-035",
+      "contextId": "V20261012-035-context",
+      "inputHash": "53ca72b714fe94ff86c1fecaf493eaf00a8d9dc999cf458be747f45f26c44d85",
+      "status": "ready",
+      "data": {
+        "word": "resolve",
+        "ipa": "rɪˈzɑːlv",
+        "pos": "v."
+      },
+      "provenance": {
+        "ipa": "original_library"
+      }
+    },
+    {
+      "entryId": "V20261012-036",
+      "contextId": "V20261012-036-context",
+      "inputHash": "182ebbc6636ebd097ab42fac7f6ccda5dc2d58a74bf66872cf2657055ad3f43e",
+      "status": "ready",
+      "data": {
+        "word": "handover",
+        "ipa": "ˈhænd.oʊ.vɚ",
+        "pos": "n."
+      },
+      "provenance": {
+        "ipa": "original_library"
+      }
+    },
+    {
+      "entryId": "V20261012-037",
+      "contextId": "V20261012-037-context",
+      "inputHash": "4bd92b03dcb7178393716e7573bbc1a714a76be58d541c86e9c4ecda73c63c2d",
+      "status": "ready",
+      "data": {
+        "word": "sign-off",
+        "ipa": "ˈsaɪn ɔːf",
+        "pos": "n."
+      },
+      "provenance": {
+        "ipa": "verified_source"
+      }
+    },
+    {
+      "entryId": "V20261012-038",
+      "contextId": "V20261012-038-context",
+      "inputHash": "d6f43703b3221aba2a15da985ad52950362c297e90a8c03339c480fa149a1157",
+      "status": "ready",
+      "data": {
+        "word": "checkpoint",
+        "ipa": "ˈtʃek.pɔɪnt",
+        "pos": "n."
+      },
+      "provenance": {
+        "ipa": "original_library"
+      }
+    },
+    {
+      "entryId": "V20261012-040",
+      "contextId": "V20261012-040-context",
+      "inputHash": "958855e4beef25de026d6565a4ca840351db98db83bfc5e673b0039cebde0994",
+      "status": "ready",
+      "data": {
+        "word": "outcome",
+        "ipa": "ˈaʊt.kʌm",
+        "pos": "n."
+      },
+      "provenance": {
+        "ipa": "original_library"
+      }
+    }
+  ],
+  "outputHash": "b9e9862b4003b7b662fb90774c4c4cc211c711080cbb887eca6532bf9924a1b9"
+}

@@ -1,0 +1,2462 @@
+{
+  "moduleId": "history",
+  "version": "1.0.0",
+  "producerHash": "67c31f186ecdd6eaec2baf3dd8f7ac507d902bc828584e44ff705e301ce4dcff",
+  "contractHash": "f9bbc542fab237ba97f216fe44f96a667260fdc1700b08b00e6506b93b7f1092",
+  "dependencies": {},
+  "entryIds": [
+    "V20261012-002",
+    "V20261012-012",
+    "V20261012-022",
+    "V20261012-024",
+    "V20261012-053",
+    "V20261012-078",
+    "V20261012-076",
+    "V20261012-093",
+    "V20261012-100",
+    "V20261014-075",
+    "V20261014-076",
+    "V20261029-005",
+    "V20261014-003",
+    "V20261012-117",
+    "V20261018-106",
+    "V20261016-103",
+    "V20261016-119",
+    "V20261012-020",
+    "V20261012-019",
+    "V20261012-015",
+    "V20261012-018",
+    "V20261012-010",
+    "V20261012-006",
+    "V20261012-088",
+    "V20261012-004",
+    "V20261012-005",
+    "V20261012-007",
+    "V20261012-008",
+    "V20261012-009",
+    "V20261012-011",
+    "V20261012-013",
+    "V20261012-014",
+    "V20261012-016",
+    "V20261012-017",
+    "V20261012-021",
+    "V20261012-023",
+    "V20261012-025",
+    "V20261012-026",
+    "V20261012-028",
+    "V20261012-029",
+    "V20261012-030",
+    "V20261012-031",
+    "V20261012-032",
+    "V20261012-033",
+    "V20261012-034",
+    "V20261012-035",
+    "V20261012-036",
+    "V20261012-037",
+    "V20261012-038",
+    "V20261012-040"
+  ],
+  "records": [
+    {
+      "entryId": "V20261012-002",
+      "contextId": "V20261012-002-context",
+      "inputHash": "69ea842bfee3b6c5394225108d59001935c643d9c9cf22bfb6ee09eee3d7fa8e",
+      "status": "ready",
+      "data": {
+        "history": "名词“目标”义可追溯到19世纪军事用语 objective point，Etymonline分别列出1852年的军事表达和1881年的一般目标义。形容词的哲学用法更早，始见于17世纪初，与名词目标义应分开理解。",
+        "historyUrl": "https://www.etymonline.com/word/objective",
+        "historyScope": "whole_entry",
+        "historyCards": [
+          {
+            "unitId": "etym:objective",
+            "version": "1.0.0",
+            "label": "词条 · objective",
+            "summary": "名词“目标”义可追溯到19世纪军事用语 objective point，Etymonline分别列出1852年的军事表达和1881年的一般目标义。形容词的哲学用法更早，始见于17世纪初，与名词目标义应分开理解。",
+            "url": "https://www.etymonline.com/word/objective",
+            "status": "ready"
+          }
+        ]
+      },
+      "provenance": {
+        "refs": [
+          {
+            "unitId": "etym:objective",
+            "version": "1.0.0",
+            "scope": "whole_entry"
+          }
+        ],
+        "wholeHistoryStatus": "sourced",
+        "receipts": [
+          {
+            "url": "https://www.etymonline.com/word/objective",
+            "lemma": "objective",
+            "status": "ready",
+            "transport": "web_tool_snapshot",
+            "fetchedAt": "2026-11-16T03:41:59.325Z",
+            "artifactPath": "local-evidence/front-sources/web-batch-0.txt",
+            "rawSHA": "4aa7814a1ab7c46a1dabf1c71faa2239e0ba5d987faedce050e63231d2dd09ef",
+            "textSHA": "3efcc2b06e67d0208a4ceee9471df3672e86c71e1dbb178b1921bfe27674346d",
+            "coverage": "entry_section",
+            "parserVersion": "1.0.0"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-012",
+      "contextId": "V20261012-012-context",
+      "inputHash": "ce91eac0bd5302ec6dfd51dffd309c8a649a9b62495e4324476c0fd2bd7a9bb4",
+      "status": "ready",
+      "data": {
+        "history": "15世纪初已用于容纳能力，也用于法律、道德或智力方面的能力。它经法语进入英语，上溯拉丁语中能容纳、能承受的概念；词条另记录1931年的工业生产能力用法。",
+        "historyUrl": "https://www.etymonline.com/word/capacity",
+        "historyScope": "whole_entry",
+        "historyCards": [
+          {
+            "unitId": "etym:capacity",
+            "version": "1.0.0",
+            "label": "词条 · capacity",
+            "summary": "15世纪初已用于容纳能力，也用于法律、道德或智力方面的能力。它经法语进入英语，上溯拉丁语中能容纳、能承受的概念；词条另记录1931年的工业生产能力用法。",
+            "url": "https://www.etymonline.com/word/capacity",
+            "status": "ready"
+          }
+        ]
+      },
+      "provenance": {
+        "refs": [
+          {
+            "unitId": "etym:capacity",
+            "version": "1.0.0",
+            "scope": "whole_entry"
+          }
+        ],
+        "wholeHistoryStatus": "sourced",
+        "receipts": [
+          {
+            "url": "https://www.etymonline.com/word/capacity",
+            "lemma": "capacity",
+            "status": "ready",
+            "transport": "web_tool_snapshot",
+            "fetchedAt": "2026-11-16T03:41:59.325Z",
+            "artifactPath": "local-evidence/front-sources/web-batch-0.txt",
+            "rawSHA": "4aa7814a1ab7c46a1dabf1c71faa2239e0ba5d987faedce050e63231d2dd09ef",
+            "textSHA": "6158bbd95868bfec0077fe14cdf07e12e127f267d300bd89764d94e5554e1939",
+            "coverage": "entry_section",
+            "parserVersion": "1.0.0"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-022",
+      "contextId": "V20261012-022-context",
+      "inputHash": "13ad73f9250184b595983fba5e03dc1fd5b6a4673f5c66b3528b6b033de91045",
+      "status": "ready",
+      "data": {
+        "history": "16世纪80年代已有基于尝试、带试验性质的用法。词形经中世纪拉丁语追溯到表示尝试、检验的动词，重点在先试行再确认。",
+        "historyUrl": "https://www.etymonline.com/word/tentative",
+        "historyScope": "whole_entry",
+        "historyCards": [
+          {
+            "unitId": "etym:tentative",
+            "version": "1.0.0",
+            "label": "词条 · tentative",
+            "summary": "16世纪80年代已有基于尝试、带试验性质的用法。词形经中世纪拉丁语追溯到表示尝试、检验的动词，重点在先试行再确认。",
+            "url": "https://www.etymonline.com/word/tentative",
+            "status": "ready"
+          }
+        ]
+      },
+      "provenance": {
+        "refs": [
+          {
+            "unitId": "etym:tentative",
+            "version": "1.0.0",
+            "scope": "whole_entry"
+          }
+        ],
+        "wholeHistoryStatus": "sourced",
+        "receipts": [
+          {
+            "url": "https://www.etymonline.com/word/tentative",
+            "lemma": "tentative",
+            "status": "ready",
+            "transport": "web_tool_snapshot",
+            "fetchedAt": "2026-11-16T03:41:59.325Z",
+            "artifactPath": "local-evidence/front-sources/web-batch-0.txt",
+            "rawSHA": "4aa7814a1ab7c46a1dabf1c71faa2239e0ba5d987faedce050e63231d2dd09ef",
+            "textSHA": "a7d2f0ff6ea88ef167ca2625cf55087b6ff0443f97b0153978fc1107e6db5c52",
+            "coverage": "entry_section",
+            "parserVersion": "1.0.0"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-024",
+      "contextId": "V20261012-024-context",
+      "inputHash": "70efaa2e26592d7016a2beca5e0fc772309c25ee57843bc46009ae4329869a1a",
+      "status": "ready",
+      "data": {
+        "history": "17世纪40年代的介词用法与法语及拉丁法律表达有关，背后有事情悬而未决的意象。形容词用法记录于1797年；法律表达中的案件未结是其重要历史背景。",
+        "historyUrl": "https://www.etymonline.com/word/pending",
+        "historyScope": "whole_entry",
+        "historyCards": [
+          {
+            "unitId": "etym:pending",
+            "version": "1.0.0",
+            "label": "词条 · pending",
+            "summary": "17世纪40年代的介词用法与法语及拉丁法律表达有关，背后有事情悬而未决的意象。形容词用法记录于1797年；法律表达中的案件未结是其重要历史背景。",
+            "url": "https://www.etymonline.com/word/pending",
+            "status": "ready"
+          }
+        ]
+      },
+      "provenance": {
+        "refs": [
+          {
+            "unitId": "etym:pending",
+            "version": "1.0.0",
+            "scope": "whole_entry"
+          }
+        ],
+        "wholeHistoryStatus": "sourced",
+        "receipts": [
+          {
+            "url": "https://www.etymonline.com/word/pending",
+            "lemma": "pending",
+            "status": "ready",
+            "transport": "web_tool_snapshot",
+            "fetchedAt": "2026-11-16T03:41:59.325Z",
+            "artifactPath": "local-evidence/front-sources/web-batch-0.txt",
+            "rawSHA": "4aa7814a1ab7c46a1dabf1c71faa2239e0ba5d987faedce050e63231d2dd09ef",
+            "textSHA": "d2200b77a09c5d26361a28cf9d7789c072500912c57ee5685a3c51199b22004f",
+            "coverage": "entry_section",
+            "parserVersion": "1.0.0"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-053",
+      "contextId": "V20261012-053-context",
+      "inputHash": "395e2ae5d65d65a9ce8459ef9ded333f1eb9d223e0adf95564925e4f5c8dfabe",
+      "status": "ready",
+      "data": {
+        "history": "14世纪末首先表示保留、留存的行为；约1600年出现未明说的限定或保留意见。房间、座位等预订义较晚，词条记录于1904年的美式英语。",
+        "historyUrl": "https://www.etymonline.com/word/reservation",
+        "historyScope": "whole_entry",
+        "historyCards": [
+          {
+            "unitId": "etym:reservation",
+            "version": "1.0.0",
+            "label": "词条 · reservation",
+            "summary": "14世纪末首先表示保留、留存的行为；约1600年出现未明说的限定或保留意见。房间、座位等预订义较晚，词条记录于1904年的美式英语。",
+            "url": "https://www.etymonline.com/word/reservation",
+            "status": "ready"
+          }
+        ]
+      },
+      "provenance": {
+        "refs": [
+          {
+            "unitId": "etym:reservation",
+            "version": "1.0.0",
+            "scope": "whole_entry"
+          }
+        ],
+        "wholeHistoryStatus": "sourced",
+        "receipts": [
+          {
+            "url": "https://www.etymonline.com/word/reservation",
+            "lemma": "reservation",
+            "status": "ready",
+            "transport": "web_tool_snapshot",
+            "fetchedAt": "2026-11-16T03:41:59.325Z",
+            "artifactPath": "local-evidence/front-sources/web-batch-0.txt",
+            "rawSHA": "4aa7814a1ab7c46a1dabf1c71faa2239e0ba5d987faedce050e63231d2dd09ef",
+            "textSHA": "9629fd5be1c740e7b537201424333ec38cd58a893253dc20e4f022ac3a05e8b9",
+            "coverage": "entry_section",
+            "parserVersion": "1.0.0"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-078",
+      "contextId": "V20261012-078-context",
+      "inputHash": "a0465a87de0b8885d10a5402e44142982d63db5e1c8dd7f277b69c60e242f8c4",
+      "status": "ready",
+      "data": {
+        "history": "15世纪中期已有赋予某种性质的意思，词源中包含性质与使之成为的构词成分。16世纪30年代已见加以限制、附加保留条件的用法，同期也有使自己具备任职能力的用法。",
+        "historyUrl": "https://www.etymonline.com/word/qualify",
+        "historyScope": "whole_entry",
+        "historyCards": [
+          {
+            "unitId": "etym:qualify",
+            "version": "1.0.0",
+            "label": "词条 · qualify",
+            "summary": "15世纪中期已有赋予某种性质的意思，词源中包含性质与使之成为的构词成分。16世纪30年代已见加以限制、附加保留条件的用法，同期也有使自己具备任职能力的用法。",
+            "url": "https://www.etymonline.com/word/qualify",
+            "status": "ready"
+          }
+        ]
+      },
+      "provenance": {
+        "refs": [
+          {
+            "unitId": "etym:qualify",
+            "version": "1.0.0",
+            "scope": "whole_entry"
+          }
+        ],
+        "wholeHistoryStatus": "sourced",
+        "receipts": [
+          {
+            "url": "https://www.etymonline.com/word/qualify",
+            "lemma": "qualify",
+            "status": "ready",
+            "transport": "web_tool_snapshot",
+            "fetchedAt": "2026-11-16T03:41:59.325Z",
+            "artifactPath": "local-evidence/front-sources/web-batch-0.txt",
+            "rawSHA": "4aa7814a1ab7c46a1dabf1c71faa2239e0ba5d987faedce050e63231d2dd09ef",
+            "textSHA": "80932bb73cec97eeda7c6dc8e1d43c9c2c7983c4421d92e935261e212a0f4ea8",
+            "coverage": "entry_section",
+            "parserVersion": "1.0.0"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-076",
+      "contextId": "V20261012-076-context",
+      "inputHash": "bc4c64d38bac70cb78adb999b78e92835469da167b0dc9828c7a98182fdb95d7",
+      "status": "ready",
+      "data": {
+        "history": "16世纪20年代已进入逻辑推理用语。其拉丁来源既有带入的动作意义，也有推出结论的意义；英文很早就用于从推理过程得到结论。",
+        "historyUrl": "https://www.etymonline.com/word/infer",
+        "historyScope": "whole_entry",
+        "historyCards": [
+          {
+            "unitId": "etym:infer",
+            "version": "1.0.0",
+            "label": "词条 · infer",
+            "summary": "16世纪20年代已进入逻辑推理用语。其拉丁来源既有带入的动作意义，也有推出结论的意义；英文很早就用于从推理过程得到结论。",
+            "url": "https://www.etymonline.com/word/infer",
+            "status": "ready"
+          }
+        ]
+      },
+      "provenance": {
+        "refs": [
+          {
+            "unitId": "etym:infer",
+            "version": "1.0.0",
+            "scope": "whole_entry"
+          }
+        ],
+        "wholeHistoryStatus": "sourced",
+        "receipts": [
+          {
+            "url": "https://www.etymonline.com/word/infer",
+            "lemma": "infer",
+            "status": "ready",
+            "transport": "web_tool_snapshot",
+            "fetchedAt": "2026-11-16T03:41:59.325Z",
+            "artifactPath": "local-evidence/front-sources/web-batch-0.txt",
+            "rawSHA": "4aa7814a1ab7c46a1dabf1c71faa2239e0ba5d987faedce050e63231d2dd09ef",
+            "textSHA": "0a1b7e8d321d4e89452777926e9618d0b928e1eeaed12bd0c505190336098bee",
+            "coverage": "entry_section",
+            "parserVersion": "1.0.0"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-093",
+      "contextId": "V20261012-093-context",
+      "inputHash": "c6230544ed203e4abb4efc19428f5603563fbd95b1b1fe8f75f724e811e400a8",
+      "status": "ready",
+      "data": {
+        "history": "作为条件连接词，provided在15世纪初已有记录，由provide的过去分词发展而来。这里关注的是条件已经约定或成立的连接用法。",
+        "historyUrl": "https://www.etymonline.com/word/provided",
+        "historyScope": "component_history",
+        "historyCards": [
+          {
+            "unitId": "etym:provided",
+            "version": "1.0.0",
+            "label": "组成词 · provided",
+            "summary": "作为条件连接词，provided在15世纪初已有记录，由provide的过去分词发展而来。这里关注的是条件已经约定或成立的连接用法。",
+            "url": "https://www.etymonline.com/word/provided",
+            "status": "ready"
+          }
+        ]
+      },
+      "provenance": {
+        "refs": [
+          {
+            "unitId": "etym:provided",
+            "version": "1.0.0",
+            "scope": "component_history"
+          }
+        ],
+        "wholeHistoryStatus": "not_acquired",
+        "receipts": [
+          {
+            "url": "https://www.etymonline.com/word/provided",
+            "lemma": "provided",
+            "status": "ready",
+            "transport": "web_tool_snapshot",
+            "fetchedAt": "2026-11-16T03:41:59.325Z",
+            "artifactPath": "local-evidence/front-sources/web-batch-0.txt",
+            "rawSHA": "4aa7814a1ab7c46a1dabf1c71faa2239e0ba5d987faedce050e63231d2dd09ef",
+            "textSHA": "27e0bc280761cf54148b997d9fee1d49e127d5277c65bef6e342b60494ae3024",
+            "coverage": "entry_section",
+            "parserVersion": "1.0.0"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-100",
+      "contextId": "V20261012-100-context",
+      "inputHash": "851d34acca163bf8015c8031dd9c27a1085cd538d4daf17cf066dece01dd0b76",
+      "status": "ready",
+      "data": {
+        "history": "14世纪末已有不可避免、必然如此的意思，构词为necessary加副词后缀。约1500年进一步记录了表示必然结果或后果的用法。",
+        "historyUrl": "https://www.etymonline.com/word/necessarily",
+        "historyScope": "component_history",
+        "historyCards": [
+          {
+            "unitId": "etym:necessarily",
+            "version": "1.0.0",
+            "label": "组成词 · necessarily",
+            "summary": "14世纪末已有不可避免、必然如此的意思，构词为necessary加副词后缀。约1500年进一步记录了表示必然结果或后果的用法。",
+            "url": "https://www.etymonline.com/word/necessarily",
+            "status": "ready"
+          }
+        ]
+      },
+      "provenance": {
+        "refs": [
+          {
+            "unitId": "etym:necessarily",
+            "version": "1.0.0",
+            "scope": "component_history"
+          }
+        ],
+        "wholeHistoryStatus": "not_acquired",
+        "receipts": [
+          {
+            "url": "https://www.etymonline.com/word/necessarily",
+            "lemma": "necessarily",
+            "status": "ready",
+            "transport": "web_tool_snapshot",
+            "fetchedAt": "2026-11-16T03:41:59.325Z",
+            "artifactPath": "local-evidence/front-sources/web-batch-0.txt",
+            "rawSHA": "4aa7814a1ab7c46a1dabf1c71faa2239e0ba5d987faedce050e63231d2dd09ef",
+            "textSHA": "491f1966d61965bd6c8c30c66bb4a482a2fb312078bf60c6fa4d7616bdb72bbf",
+            "coverage": "entry_section",
+            "parserVersion": "1.0.0"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261014-075",
+      "contextId": "V20261014-075-context",
+      "inputHash": "1c6329eb79138f7906a0c61af5bcc371376320d799db4c0671b236b3a112aea8",
+      "status": "ready",
+      "data": {
+        "history": "16世纪20年代用于确认真实性；约1600年记录了核实陈述、引文等是否正确的用法。词源追溯到中世纪拉丁语，核心是使真实性得到确认。\n15世纪初用于有系统地治疗疾病，源自希腊语经拉丁语传入，背景包括探究和行进的方法。16世纪末扩展到为实现目的而有序做事的一般方法。",
+        "historyUrl": "https://www.etymonline.com/word/verification",
+        "historyScope": "component_history",
+        "historyCards": [
+          {
+            "unitId": "etym:verification",
+            "version": "1.0.0",
+            "label": "组成词 · verification",
+            "summary": "16世纪20年代用于确认真实性；约1600年记录了核实陈述、引文等是否正确的用法。词源追溯到中世纪拉丁语，核心是使真实性得到确认。",
+            "url": "https://www.etymonline.com/word/verification",
+            "status": "ready"
+          },
+          {
+            "unitId": "etym:method",
+            "version": "1.0.0",
+            "label": "组成词 · method",
+            "summary": "15世纪初用于有系统地治疗疾病，源自希腊语经拉丁语传入，背景包括探究和行进的方法。16世纪末扩展到为实现目的而有序做事的一般方法。",
+            "url": "https://www.etymonline.com/word/method",
+            "status": "ready"
+          }
+        ]
+      },
+      "provenance": {
+        "refs": [
+          {
+            "unitId": "etym:verification",
+            "version": "1.0.0",
+            "scope": "component_history"
+          },
+          {
+            "unitId": "etym:method",
+            "version": "1.0.0",
+            "scope": "component_history"
+          }
+        ],
+        "wholeHistoryStatus": "not_acquired",
+        "receipts": [
+          {
+            "url": "https://www.etymonline.com/word/verification",
+            "lemma": "verification",
+            "status": "ready",
+            "transport": "web_tool_snapshot",
+            "fetchedAt": "2026-11-16T03:41:59.325Z",
+            "artifactPath": "local-evidence/front-sources/web-batch-0.txt",
+            "rawSHA": "4aa7814a1ab7c46a1dabf1c71faa2239e0ba5d987faedce050e63231d2dd09ef",
+            "textSHA": "073b77b7a3238e93b3673fa947ea7a920ca9a575e0c40934fd9419fc1b222b16",
+            "coverage": "entry_section",
+            "parserVersion": "1.0.0"
+          },
+          {
+            "url": "https://www.etymonline.com/word/method",
+            "lemma": "method",
+            "status": "ready",
+            "transport": "web_tool_snapshot",
+            "fetchedAt": "2026-11-16T03:45:52.185Z",
+            "artifactPath": "local-evidence/front-sources/web-components.txt",
+            "rawSHA": "c44888965362a645ffe4ca8055678d92aa4380fa120b6fac1cbb9048e2240048",
+            "textSHA": "9e5621041f57291f000c6c46f3a0df77eb3caca12e63bc654082050a728fd287",
+            "coverage": "entry_section",
+            "parserVersion": "1.0.0"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261014-076",
+      "contextId": "V20261014-076-context",
+      "inputHash": "3b30507fc47b1e47048fc4566af362a8b4861a0ef515a10be3e20aba19c84ec0",
+      "status": "ready",
+      "data": {
+        "history": "17世纪50年代已有使之有效、加强或确认的名词用法，来自validate。此条提供普通词的历史背景；工程中的预定用途判准另由专业资料解释。\n15世纪初用于有系统地治疗疾病，源自希腊语经拉丁语传入，背景包括探究和行进的方法。16世纪末扩展到为实现目的而有序做事的一般方法。",
+        "historyUrl": "https://www.etymonline.com/word/validation",
+        "historyScope": "component_history",
+        "historyCards": [
+          {
+            "unitId": "etym:validation",
+            "version": "1.0.0",
+            "label": "组成词 · validation",
+            "summary": "17世纪50年代已有使之有效、加强或确认的名词用法，来自validate。此条提供普通词的历史背景；工程中的预定用途判准另由专业资料解释。",
+            "url": "https://www.etymonline.com/word/validation",
+            "status": "ready"
+          },
+          {
+            "unitId": "etym:method",
+            "version": "1.0.0",
+            "label": "组成词 · method",
+            "summary": "15世纪初用于有系统地治疗疾病，源自希腊语经拉丁语传入，背景包括探究和行进的方法。16世纪末扩展到为实现目的而有序做事的一般方法。",
+            "url": "https://www.etymonline.com/word/method",
+            "status": "ready"
+          }
+        ]
+      },
+      "provenance": {
+        "refs": [
+          {
+            "unitId": "etym:validation",
+            "version": "1.0.0",
+            "scope": "component_history"
+          },
+          {
+            "unitId": "etym:method",
+            "version": "1.0.0",
+            "scope": "component_history"
+          }
+        ],
+        "wholeHistoryStatus": "not_acquired",
+        "receipts": [
+          {
+            "url": "https://www.etymonline.com/word/validation",
+            "lemma": "validation",
+            "status": "ready",
+            "transport": "web_tool_snapshot",
+            "fetchedAt": "2026-11-16T03:41:59.349Z",
+            "artifactPath": "local-evidence/front-sources/web-batch-1.txt",
+            "rawSHA": "6ad341ff8f2ed72df39e13d5202c8a3ee1f4db690e8c25ddca431abef0e22699",
+            "textSHA": "03ce3bf58f223cd661c9285974028e6a3360f50afa53a7dcf1b6ac1ec1a0c658",
+            "coverage": "entry_section",
+            "parserVersion": "1.0.0"
+          },
+          {
+            "url": "https://www.etymonline.com/word/method",
+            "lemma": "method",
+            "status": "ready",
+            "transport": "web_tool_snapshot",
+            "fetchedAt": "2026-11-16T03:45:52.185Z",
+            "artifactPath": "local-evidence/front-sources/web-components.txt",
+            "rawSHA": "c44888965362a645ffe4ca8055678d92aa4380fa120b6fac1cbb9048e2240048",
+            "textSHA": "9e5621041f57291f000c6c46f3a0df77eb3caca12e63bc654082050a728fd287",
+            "coverage": "entry_section",
+            "parserVersion": "1.0.0"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261029-005",
+      "contextId": "V20261029-005-context",
+      "inputHash": "7bf22dabc5f65df4ab6ae25773c9287f4caf43a6a338601eff3f1eb1b1f272c4",
+      "status": "ready",
+      "data": {
+        "history": "形容词早期用于忙碌、从事劳动；到1849年，关于理论等事物已有提供工作基础的用法。这个历史分支与working definition中的供当前使用较为接近。\n14世纪末已兼有划定界限、说明事物特征以及解释词语含义等用法。拉丁来源与边界和限定有关；17世纪又记录了逻辑领域说明意义的用法。",
+        "historyUrl": "https://www.etymonline.com/word/working",
+        "historyScope": "component_history",
+        "historyCards": [
+          {
+            "unitId": "etym:working",
+            "version": "1.0.0",
+            "label": "组成词 · working",
+            "summary": "形容词早期用于忙碌、从事劳动；到1849年，关于理论等事物已有提供工作基础的用法。这个历史分支与working definition中的供当前使用较为接近。",
+            "url": "https://www.etymonline.com/word/working",
+            "status": "ready"
+          },
+          {
+            "unitId": "etym:definition",
+            "version": "1.0.0",
+            "label": "组成词 · definition",
+            "summary": "14世纪末已兼有划定界限、说明事物特征以及解释词语含义等用法。拉丁来源与边界和限定有关；17世纪又记录了逻辑领域说明意义的用法。",
+            "url": "https://www.etymonline.com/word/definition",
+            "status": "ready"
+          }
+        ]
+      },
+      "provenance": {
+        "refs": [
+          {
+            "unitId": "etym:working",
+            "version": "1.0.0",
+            "scope": "component_history"
+          },
+          {
+            "unitId": "etym:definition",
+            "version": "1.0.0",
+            "scope": "component_history"
+          }
+        ],
+        "wholeHistoryStatus": "not_acquired",
+        "receipts": [
+          {
+            "url": "https://www.etymonline.com/word/working",
+            "lemma": "working",
+            "status": "ready",
+            "transport": "web_tool_snapshot",
+            "fetchedAt": "2026-11-16T03:45:52.185Z",
+            "artifactPath": "local-evidence/front-sources/web-components.txt",
+            "rawSHA": "c44888965362a645ffe4ca8055678d92aa4380fa120b6fac1cbb9048e2240048",
+            "textSHA": "fc1a2732bec58933e734370fd85b02690b2daa41c1e5e700c2e2a15caada14b6",
+            "coverage": "entry_section",
+            "parserVersion": "1.0.0"
+          },
+          {
+            "url": "https://www.etymonline.com/word/definition",
+            "lemma": "definition",
+            "status": "ready",
+            "transport": "web_tool_snapshot",
+            "fetchedAt": "2026-11-16T03:41:59.349Z",
+            "artifactPath": "local-evidence/front-sources/web-batch-1.txt",
+            "rawSHA": "6ad341ff8f2ed72df39e13d5202c8a3ee1f4db690e8c25ddca431abef0e22699",
+            "textSHA": "3ac7cfaf1604cbe00d45986ac77d36bb8c1b97a04820dece0339b36f29f8e831",
+            "coverage": "entry_section",
+            "parserVersion": "1.0.0"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261014-003",
+      "contextId": "V20261014-003-context",
+      "inputHash": "8988ed4cf63866ae1d2bb67544036fe123297701b90be5af17c04089c84008a4",
+      "status": "ready",
+      "data": {
+        "history": "动词的古英语背景与促进、完成有关，后来经历准备、加工建材等用法；16世纪40年代已有构思、组织的意思。名词的框架、边框义属于另一条可观察的意义发展。\n约1300年先有出口的意思，随后扩展到事物的结果。法律争议中待裁定的问题又形成一条发展路径，19世纪记录了需要作决定的重要问题义。",
+        "historyUrl": "https://www.etymonline.com/word/frame",
+        "historyScope": "component_history",
+        "historyCards": [
+          {
+            "unitId": "etym:frame",
+            "version": "1.0.0",
+            "label": "组成词 · frame",
+            "summary": "动词的古英语背景与促进、完成有关，后来经历准备、加工建材等用法；16世纪40年代已有构思、组织的意思。名词的框架、边框义属于另一条可观察的意义发展。",
+            "url": "https://www.etymonline.com/word/frame",
+            "status": "ready"
+          },
+          {
+            "unitId": "etym:issue",
+            "version": "1.0.0",
+            "label": "组成词 · issue",
+            "summary": "约1300年先有出口的意思，随后扩展到事物的结果。法律争议中待裁定的问题又形成一条发展路径，19世纪记录了需要作决定的重要问题义。",
+            "url": "https://www.etymonline.com/word/issue",
+            "status": "ready"
+          }
+        ]
+      },
+      "provenance": {
+        "refs": [
+          {
+            "unitId": "etym:frame",
+            "version": "1.0.0",
+            "scope": "component_history"
+          },
+          {
+            "unitId": "etym:issue",
+            "version": "1.0.0",
+            "scope": "component_history"
+          }
+        ],
+        "wholeHistoryStatus": "not_acquired",
+        "receipts": [
+          {
+            "url": "https://www.etymonline.com/word/frame",
+            "lemma": "frame",
+            "status": "ready",
+            "transport": "web_tool_snapshot",
+            "fetchedAt": "2026-11-16T03:41:59.349Z",
+            "artifactPath": "local-evidence/front-sources/web-batch-1.txt",
+            "rawSHA": "6ad341ff8f2ed72df39e13d5202c8a3ee1f4db690e8c25ddca431abef0e22699",
+            "textSHA": "71531edb35bfe4573510d7e26ed06cfcbe52b66a535fc279e0877a7493eec4a4",
+            "coverage": "entry_section",
+            "parserVersion": "1.0.0"
+          },
+          {
+            "url": "https://www.etymonline.com/word/issue",
+            "lemma": "issue",
+            "status": "ready",
+            "transport": "web_tool_snapshot",
+            "fetchedAt": "2026-11-16T03:45:52.185Z",
+            "artifactPath": "local-evidence/front-sources/web-components.txt",
+            "rawSHA": "c44888965362a645ffe4ca8055678d92aa4380fa120b6fac1cbb9048e2240048",
+            "textSHA": "2c29e21f0ebc832589b20aa6d4fcb8f1b7fbee845618af233e4612fbfa6e4c79",
+            "coverage": "entry_section",
+            "parserVersion": "1.0.0"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-117",
+      "contextId": "V20261012-117-context",
+      "inputHash": "2892a7902224d8333e5a1640927882a05baae7d27bd50a77cb8b2098ad31fdd8",
+      "status": "ready",
+      "data": {
+        "history": "约1300年已有计数、核算的用法，源自法语。交代所管理财物的明细，也为说明、解释的用法提供了背景；这里管理的是account自身的历史。",
+        "historyUrl": "https://www.etymonline.com/word/account",
+        "historyScope": "component_history",
+        "historyCards": [
+          {
+            "unitId": "etym:account",
+            "version": "1.0.0",
+            "label": "组成词 · account",
+            "summary": "约1300年已有计数、核算的用法，源自法语。交代所管理财物的明细，也为说明、解释的用法提供了背景；这里管理的是account自身的历史。",
+            "url": "https://www.etymonline.com/word/account",
+            "status": "ready"
+          }
+        ]
+      },
+      "provenance": {
+        "refs": [
+          {
+            "unitId": "etym:account",
+            "version": "1.0.0",
+            "scope": "component_history"
+          }
+        ],
+        "wholeHistoryStatus": "not_acquired",
+        "receipts": [
+          {
+            "url": "https://www.etymonline.com/word/account",
+            "lemma": "account",
+            "status": "ready",
+            "transport": "web_tool_snapshot",
+            "fetchedAt": "2026-11-16T03:42:13.638Z",
+            "artifactPath": "local-evidence/front-sources/web-extra.txt",
+            "rawSHA": "8b7cc65cd154bffda70f68cb5bc8219eebb339e8920ed2ba613450e29c67fb1c",
+            "textSHA": "00fb3e70acbe763da6e84279c64cd85920d93a73796dcb9ff24c90cccfe8358d",
+            "coverage": "entry_excerpt",
+            "parserVersion": "1.0.0"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261018-106",
+      "contextId": "V20261018-106-context",
+      "inputHash": "dfeff3b04e7602dfcddfae6db44eddfc98078331b15ef2b66c14e8699b53a57f",
+      "status": "ready",
+      "data": {
+        "history": "引导的动词来自古英语，原有带领、走在前面之义。14世纪末已有处于首位的用法；金属铅的同形词另有来源，不参与这里的词义联系。\n早期指头部，14世纪又扩展到个人。计票义在17世纪20年代已有记录，其联系是按人头计数；现代民意调查义记录于1902年。",
+        "historyUrl": "https://www.etymonline.com/word/lead",
+        "historyScope": "component_history",
+        "historyCards": [
+          {
+            "unitId": "etym:lead",
+            "version": "1.0.0",
+            "label": "组成词 · lead",
+            "summary": "引导的动词来自古英语，原有带领、走在前面之义。14世纪末已有处于首位的用法；金属铅的同形词另有来源，不参与这里的词义联系。",
+            "url": "https://www.etymonline.com/word/lead",
+            "status": "ready"
+          },
+          {
+            "unitId": "etym:poll",
+            "version": "1.0.0",
+            "label": "组成词 · poll",
+            "summary": "早期指头部，14世纪又扩展到个人。计票义在17世纪20年代已有记录，其联系是按人头计数；现代民意调查义记录于1902年。",
+            "url": "https://www.etymonline.com/word/poll",
+            "status": "ready"
+          }
+        ]
+      },
+      "provenance": {
+        "refs": [
+          {
+            "unitId": "etym:lead",
+            "version": "1.0.0",
+            "scope": "component_history"
+          },
+          {
+            "unitId": "etym:poll",
+            "version": "1.0.0",
+            "scope": "component_history"
+          }
+        ],
+        "wholeHistoryStatus": "not_acquired",
+        "receipts": [
+          {
+            "url": "https://www.etymonline.com/word/lead",
+            "lemma": "lead",
+            "status": "ready",
+            "transport": "web_tool_snapshot",
+            "fetchedAt": "2026-11-16T03:45:52.185Z",
+            "artifactPath": "local-evidence/front-sources/web-components.txt",
+            "rawSHA": "c44888965362a645ffe4ca8055678d92aa4380fa120b6fac1cbb9048e2240048",
+            "textSHA": "b5d2a59d0a526ef85eda07aa2b4d1d0ee57c0cee0670d2d8fec544546566078a",
+            "coverage": "entry_section",
+            "parserVersion": "1.0.0"
+          },
+          {
+            "url": "https://www.etymonline.com/word/poll",
+            "lemma": "poll",
+            "status": "ready",
+            "transport": "web_tool_snapshot",
+            "fetchedAt": "2026-11-16T03:45:11.908Z",
+            "artifactPath": "local-evidence/front-sources/web-poll-search.txt",
+            "rawSHA": "a8ee65750450d9ac6fde41a8cbe79a2a36dc181587dec32a20d32757693ec714",
+            "textSHA": "b75e8988de1b7d48427e5d72c1bc3031ebd696ddba9aeceb2b354c8827fe6819",
+            "coverage": "entry_section",
+            "parserVersion": "1.0.0"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261016-103",
+      "contextId": "V20261016-103-context",
+      "inputHash": "064fdd64603a22c0fc1d26085ee0604daa4f1a337a45b7f190a08f717c8fe5f8",
+      "status": "ready",
+      "data": {
+        "history": "16世纪70年代已有容易相信、缺少批判性判断的形容词用法，来自拉丁语中容易相信的表达，其词根与相信有关。",
+        "historyUrl": "https://www.etymonline.com/word/credulous",
+        "historyScope": "whole_entry",
+        "historyCards": [
+          {
+            "unitId": "etym:credulous",
+            "version": "1.0.0",
+            "label": "词条 · credulous",
+            "summary": "16世纪70年代已有容易相信、缺少批判性判断的形容词用法，来自拉丁语中容易相信的表达，其词根与相信有关。",
+            "url": "https://www.etymonline.com/word/credulous",
+            "status": "ready"
+          }
+        ]
+      },
+      "provenance": {
+        "refs": [
+          {
+            "unitId": "etym:credulous",
+            "version": "1.0.0",
+            "scope": "whole_entry"
+          }
+        ],
+        "wholeHistoryStatus": "sourced",
+        "receipts": [
+          {
+            "url": "https://www.etymonline.com/word/credulous",
+            "lemma": "credulous",
+            "status": "ready",
+            "transport": "web_tool_snapshot",
+            "fetchedAt": "2026-11-16T03:41:59.349Z",
+            "artifactPath": "local-evidence/front-sources/web-batch-1.txt",
+            "rawSHA": "6ad341ff8f2ed72df39e13d5202c8a3ee1f4db690e8c25ddca431abef0e22699",
+            "textSHA": "a7967d0e229405f6b87784e08cb71ab339ca30f1d433788a0c9265b31ec60312",
+            "coverage": "entry_section",
+            "parserVersion": "1.0.0"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261016-119",
+      "contextId": "V20261016-119-context",
+      "inputHash": "2f43077e1526b4cfb6f74c0e939695df1d83b0142e1eaf6aa41820502cc8c95c",
+      "status": "ready",
+      "data": {
+        "history": "14世纪中期先见身体胀起等用法，也有自负膨胀的比喻。货币与价格方面的用法在19世纪出现，词条记录1838年的美式英语价格扩张义。\n16世纪中期先用于武装力量的激烈相遇，后来扩展到突然撞击，再到心理上受到强烈影响。这里提供冲击一词的历史背景，不把它当成整个经济术语的起源。",
+        "historyUrl": "https://www.etymonline.com/word/inflation",
+        "historyScope": "component_history",
+        "historyCards": [
+          {
+            "unitId": "etym:inflation",
+            "version": "1.0.0",
+            "label": "组成词 · inflation",
+            "summary": "14世纪中期先见身体胀起等用法，也有自负膨胀的比喻。货币与价格方面的用法在19世纪出现，词条记录1838年的美式英语价格扩张义。",
+            "url": "https://www.etymonline.com/word/inflation",
+            "status": "ready"
+          },
+          {
+            "unitId": "etym:shock",
+            "version": "1.0.0",
+            "label": "组成词 · shock",
+            "summary": "16世纪中期先用于武装力量的激烈相遇，后来扩展到突然撞击，再到心理上受到强烈影响。这里提供冲击一词的历史背景，不把它当成整个经济术语的起源。",
+            "url": "https://www.etymonline.com/word/shock",
+            "status": "ready"
+          }
+        ]
+      },
+      "provenance": {
+        "refs": [
+          {
+            "unitId": "etym:inflation",
+            "version": "1.0.0",
+            "scope": "component_history"
+          },
+          {
+            "unitId": "etym:shock",
+            "version": "1.0.0",
+            "scope": "component_history"
+          }
+        ],
+        "wholeHistoryStatus": "not_acquired",
+        "receipts": [
+          {
+            "url": "https://www.etymonline.com/word/inflation",
+            "lemma": "inflation",
+            "status": "ready",
+            "transport": "web_tool_snapshot",
+            "fetchedAt": "2026-11-16T03:41:59.349Z",
+            "artifactPath": "local-evidence/front-sources/web-batch-1.txt",
+            "rawSHA": "6ad341ff8f2ed72df39e13d5202c8a3ee1f4db690e8c25ddca431abef0e22699",
+            "textSHA": "174c2f9d786d2e11340b4f13630b9925f1c00eb9a6b35f03609b6898fe8a1ae0",
+            "coverage": "entry_section",
+            "parserVersion": "1.0.0"
+          },
+          {
+            "url": "https://www.etymonline.com/word/shock",
+            "lemma": "shock",
+            "status": "ready",
+            "transport": "web_tool_snapshot",
+            "fetchedAt": "2026-11-16T03:45:52.185Z",
+            "artifactPath": "local-evidence/front-sources/web-components.txt",
+            "rawSHA": "c44888965362a645ffe4ca8055678d92aa4380fa120b6fac1cbb9048e2240048",
+            "textSHA": "0824250fa1fc06fb93c9fa44bdd871d2fed5cc01ab31e4ae7362d8636ee5901f",
+            "coverage": "entry_section",
+            "parserVersion": "1.0.0"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-020",
+      "contextId": "V20261012-020-context",
+      "inputHash": "4ce3b40398424c95a5fd9a12fd03991090d2208f2880632d971d4fba5cdf8ffd",
+      "status": "ready",
+      "data": {
+        "history": "名词trade-off在1959年已有以一种好处换取另一种好处的用法。更早的动词短语trade off在1793年已用于以物交换，时间上早于现代权衡义。",
+        "historyUrl": "https://www.etymonline.com/word/trade-off",
+        "historyScope": "whole_entry",
+        "historyCards": [
+          {
+            "unitId": "etym:trade-off",
+            "version": "1.0.0",
+            "label": "词条 · trade-off",
+            "summary": "名词trade-off在1959年已有以一种好处换取另一种好处的用法。更早的动词短语trade off在1793年已用于以物交换，时间上早于现代权衡义。",
+            "url": "https://www.etymonline.com/word/trade-off",
+            "status": "ready"
+          }
+        ]
+      },
+      "provenance": {
+        "refs": [
+          {
+            "unitId": "etym:trade-off",
+            "version": "1.0.0",
+            "scope": "whole_entry"
+          }
+        ],
+        "wholeHistoryStatus": "sourced",
+        "receipts": [
+          {
+            "url": "https://www.etymonline.com/word/trade-off",
+            "lemma": "trade-off",
+            "status": "ready",
+            "transport": "web_tool_snapshot",
+            "fetchedAt": "2026-11-16T03:41:59.349Z",
+            "artifactPath": "local-evidence/front-sources/web-batch-1.txt",
+            "rawSHA": "6ad341ff8f2ed72df39e13d5202c8a3ee1f4db690e8c25ddca431abef0e22699",
+            "textSHA": "0c60f9c687009f759037e57c19a5743342a85fa7c02493edd1e83ab34bc1327e",
+            "coverage": "entry_section",
+            "parserVersion": "1.0.0"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-019",
+      "contextId": "V20261012-019-context",
+      "inputHash": "3ff630a53f8cec2aa259056412e2051709653d17f9faada9c764d289c2283fb4",
+      "status": "ready",
+      "data": {
+        "history": "16世纪60年代先用于事物并非必然如此、仍可能有其他结果的性质。17世纪初又记录了可能发生、也可能不发生的事件这一用法。",
+        "historyUrl": "https://www.etymonline.com/word/contingency",
+        "historyScope": "whole_entry",
+        "historyCards": [
+          {
+            "unitId": "etym:contingency",
+            "version": "1.0.0",
+            "label": "词条 · contingency",
+            "summary": "16世纪60年代先用于事物并非必然如此、仍可能有其他结果的性质。17世纪初又记录了可能发生、也可能不发生的事件这一用法。",
+            "url": "https://www.etymonline.com/word/contingency",
+            "status": "ready"
+          }
+        ]
+      },
+      "provenance": {
+        "refs": [
+          {
+            "unitId": "etym:contingency",
+            "version": "1.0.0",
+            "scope": "whole_entry"
+          }
+        ],
+        "wholeHistoryStatus": "sourced",
+        "receipts": [
+          {
+            "url": "https://www.etymonline.com/word/contingency",
+            "lemma": "contingency",
+            "status": "ready",
+            "transport": "web_tool_snapshot",
+            "fetchedAt": "2026-11-16T03:41:59.349Z",
+            "artifactPath": "local-evidence/front-sources/web-batch-1.txt",
+            "rawSHA": "6ad341ff8f2ed72df39e13d5202c8a3ee1f4db690e8c25ddca431abef0e22699",
+            "textSHA": "d49327a0838c39aad472aca2ca24ddf929cbbf0ce24da407f4d05e1a158e44d7",
+            "coverage": "entry_section",
+            "parserVersion": "1.0.0"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-015",
+      "contextId": "V20261012-015-context",
+      "inputHash": "07f8a5b5333a53764cdd9a0879538a225cee07117fe8649bee7fa3a4b840f71f",
+      "status": "ready",
+      "data": {
+        "history": "16世纪80年代已有所有者身份及归属权利的名词用法，由owner与表示状态的后缀组成。现代工作沟通中的责任承担义需在现代语境中另作解释。",
+        "historyUrl": "https://www.etymonline.com/word/ownership",
+        "historyScope": "whole_entry",
+        "historyCards": [
+          {
+            "unitId": "etym:ownership",
+            "version": "1.0.0",
+            "label": "词条 · ownership",
+            "summary": "16世纪80年代已有所有者身份及归属权利的名词用法，由owner与表示状态的后缀组成。现代工作沟通中的责任承担义需在现代语境中另作解释。",
+            "url": "https://www.etymonline.com/word/ownership",
+            "status": "ready"
+          }
+        ]
+      },
+      "provenance": {
+        "refs": [
+          {
+            "unitId": "etym:ownership",
+            "version": "1.0.0",
+            "scope": "whole_entry"
+          }
+        ],
+        "wholeHistoryStatus": "sourced",
+        "receipts": [
+          {
+            "url": "https://www.etymonline.com/word/ownership",
+            "lemma": "ownership",
+            "status": "ready",
+            "transport": "web_tool_snapshot",
+            "fetchedAt": "2026-11-16T03:41:59.349Z",
+            "artifactPath": "local-evidence/front-sources/web-batch-1.txt",
+            "rawSHA": "6ad341ff8f2ed72df39e13d5202c8a3ee1f4db690e8c25ddca431abef0e22699",
+            "textSHA": "451158d7277f55b0b3c3990f625fbd25297d300acd4b637a5ce41bd992fd7e56",
+            "coverage": "entry_section",
+            "parserVersion": "1.0.0"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-018",
+      "contextId": "V20261012-018-context",
+      "inputHash": "b414a2daf3ca0cbf77a54f72227ad6c616e7c7013ee39f026f9a908dd3cf0352",
+      "status": "ready",
+      "data": {
+        "history": "17世纪初先有正式交付国家拘管的用法。词条把许诺、使自己承担承诺的用法记录在1793年，把义务或约定的用法记录在1864年。",
+        "historyUrl": "https://www.etymonline.com/word/commitment",
+        "historyScope": "whole_entry",
+        "historyCards": [
+          {
+            "unitId": "etym:commitment",
+            "version": "1.0.0",
+            "label": "词条 · commitment",
+            "summary": "17世纪初先有正式交付国家拘管的用法。词条把许诺、使自己承担承诺的用法记录在1793年，把义务或约定的用法记录在1864年。",
+            "url": "https://www.etymonline.com/word/commitment",
+            "status": "ready"
+          }
+        ]
+      },
+      "provenance": {
+        "refs": [
+          {
+            "unitId": "etym:commitment",
+            "version": "1.0.0",
+            "scope": "whole_entry"
+          }
+        ],
+        "wholeHistoryStatus": "sourced",
+        "receipts": [
+          {
+            "url": "https://www.etymonline.com/word/commitment",
+            "lemma": "commitment",
+            "status": "ready",
+            "transport": "web_tool_snapshot",
+            "fetchedAt": "2026-11-16T03:41:59.370Z",
+            "artifactPath": "local-evidence/front-sources/web-batch-2.txt",
+            "rawSHA": "08057a95907e9c0b2d572498eb4e4c948a8709d15ce0bcf4d3dfb645f96a24f1",
+            "textSHA": "152a3e8fafa4f97eaccb3d008bc48f02061f94f18f91a38491c6acc49bc273f9",
+            "coverage": "entry_section",
+            "parserVersion": "1.0.0"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-010",
+      "contextId": "V20261012-010-context",
+      "inputHash": "5189c8d3ea1ed43188c20229eb75769b1ff5fb59547eb41c20c8874eab87bddb",
+      "status": "ready",
+      "data": {
+        "history": "1835年记录了吸收撞击的装置义，1858年已有防止冲击、缓和对立力量的比喻用法。另一个表示抛光者或工具的同形名词不属于这里的缓冲义。",
+        "historyUrl": "https://www.etymonline.com/word/buffer",
+        "historyScope": "whole_entry",
+        "historyCards": [
+          {
+            "unitId": "etym:buffer",
+            "version": "1.0.0",
+            "label": "词条 · buffer",
+            "summary": "1835年记录了吸收撞击的装置义，1858年已有防止冲击、缓和对立力量的比喻用法。另一个表示抛光者或工具的同形名词不属于这里的缓冲义。",
+            "url": "https://www.etymonline.com/word/buffer",
+            "status": "ready"
+          }
+        ]
+      },
+      "provenance": {
+        "refs": [
+          {
+            "unitId": "etym:buffer",
+            "version": "1.0.0",
+            "scope": "whole_entry"
+          }
+        ],
+        "wholeHistoryStatus": "sourced",
+        "receipts": [
+          {
+            "url": "https://www.etymonline.com/word/buffer",
+            "lemma": "buffer",
+            "status": "ready",
+            "transport": "web_tool_snapshot",
+            "fetchedAt": "2026-11-16T03:41:59.370Z",
+            "artifactPath": "local-evidence/front-sources/web-batch-2.txt",
+            "rawSHA": "08057a95907e9c0b2d572498eb4e4c948a8709d15ce0bcf4d3dfb645f96a24f1",
+            "textSHA": "0dd3fe3c91b6087d7a8f1e5f09c85bdd7e1de80fad56a8483f615f83bf1942f0",
+            "coverage": "entry_section",
+            "parserVersion": "1.0.0"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-006",
+      "contextId": "V20261012-006-context",
+      "inputHash": "c0ff0df267e89865db0e70dfc0226b5f20d46d67c940cb24bb5624d22964faad",
+      "status": "ready",
+      "data": {
+        "history": "14世纪末已有困迫、压迫的旧义，其法语及拉丁来源与绑紧、约束有关。16世纪30年代记录了限制或强迫行动的力量这一用法。",
+        "historyUrl": "https://www.etymonline.com/word/constraint",
+        "historyScope": "whole_entry",
+        "historyCards": [
+          {
+            "unitId": "etym:constraint",
+            "version": "1.0.0",
+            "label": "词条 · constraint",
+            "summary": "14世纪末已有困迫、压迫的旧义，其法语及拉丁来源与绑紧、约束有关。16世纪30年代记录了限制或强迫行动的力量这一用法。",
+            "url": "https://www.etymonline.com/word/constraint",
+            "status": "ready"
+          }
+        ]
+      },
+      "provenance": {
+        "refs": [
+          {
+            "unitId": "etym:constraint",
+            "version": "1.0.0",
+            "scope": "whole_entry"
+          }
+        ],
+        "wholeHistoryStatus": "sourced",
+        "receipts": [
+          {
+            "url": "https://www.etymonline.com/word/constraint",
+            "lemma": "constraint",
+            "status": "ready",
+            "transport": "web_tool_snapshot",
+            "fetchedAt": "2026-11-16T03:41:59.370Z",
+            "artifactPath": "local-evidence/front-sources/web-batch-2.txt",
+            "rawSHA": "08057a95907e9c0b2d572498eb4e4c948a8709d15ce0bcf4d3dfb645f96a24f1",
+            "textSHA": "44afdd441f6eda5ba86e7d37c6db7007c71b9264447ceb1bc28bb5ff6cf46598",
+            "coverage": "entry_section",
+            "parserVersion": "1.0.0"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-088",
+      "contextId": "V20261012-088-context",
+      "inputHash": "e6699b83d9f2548bd2289ea340e545c701395b27b37fe9c899fe558630b56da8",
+      "status": "ready",
+      "data": {
+        "history": "来自表示在门槛之前的拉丁构词，17世纪中叶先出现复数名词形式，随后记录了先于主要事项的形容词用法。当时外交谈判是词条提到的使用背景。",
+        "historyUrl": "https://www.etymonline.com/word/preliminary",
+        "historyScope": "whole_entry",
+        "historyCards": [
+          {
+            "unitId": "etym:preliminary",
+            "version": "1.0.0",
+            "label": "词条 · preliminary",
+            "summary": "来自表示在门槛之前的拉丁构词，17世纪中叶先出现复数名词形式，随后记录了先于主要事项的形容词用法。当时外交谈判是词条提到的使用背景。",
+            "url": "https://www.etymonline.com/word/preliminary",
+            "status": "ready"
+          }
+        ]
+      },
+      "provenance": {
+        "refs": [
+          {
+            "unitId": "etym:preliminary",
+            "version": "1.0.0",
+            "scope": "whole_entry"
+          }
+        ],
+        "wholeHistoryStatus": "sourced",
+        "receipts": [
+          {
+            "url": "https://www.etymonline.com/word/preliminary",
+            "lemma": "preliminary",
+            "status": "ready",
+            "transport": "web_tool_snapshot",
+            "fetchedAt": "2026-11-16T03:41:59.370Z",
+            "artifactPath": "local-evidence/front-sources/web-batch-2.txt",
+            "rawSHA": "08057a95907e9c0b2d572498eb4e4c948a8709d15ce0bcf4d3dfb645f96a24f1",
+            "textSHA": "3cc4f1fa2960d8d7f9d9aa4be736735361d8622af0cc45f4246f0a914684c61d",
+            "coverage": "entry_section",
+            "parserVersion": "1.0.0"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-004",
+      "contextId": "V20261012-004-context",
+      "inputHash": "8da1f13d7007171a59d20b1b4fd7f2c0889499e81d90f4caaaf1ebde9b73066b",
+      "status": "ready",
+      "data": {
+        "history": "1746年已有mile-stone，指沿道路设置、以英里标示距离的石碑或柱。此来源提供实体路标的记录；项目阶段节点的理解联系另列于Bridge。",
+        "historyUrl": "https://www.etymonline.com/word/milestone",
+        "historyScope": "whole_entry",
+        "historyCards": [
+          {
+            "unitId": "etym:milestone",
+            "version": "1.0.0",
+            "label": "词条 · milestone",
+            "summary": "1746年已有mile-stone，指沿道路设置、以英里标示距离的石碑或柱。此来源提供实体路标的记录；项目阶段节点的理解联系另列于Bridge。",
+            "url": "https://www.etymonline.com/word/milestone",
+            "status": "ready"
+          }
+        ]
+      },
+      "provenance": {
+        "refs": [
+          {
+            "unitId": "etym:milestone",
+            "version": "1.0.0",
+            "scope": "whole_entry"
+          }
+        ],
+        "wholeHistoryStatus": "sourced",
+        "receipts": [
+          {
+            "url": "https://www.etymonline.com/word/milestone",
+            "lemma": "milestone",
+            "status": "ready",
+            "transport": "web_tool_snapshot",
+            "fetchedAt": "2026-11-16T03:41:59.370Z",
+            "artifactPath": "local-evidence/front-sources/web-batch-2.txt",
+            "rawSHA": "08057a95907e9c0b2d572498eb4e4c948a8709d15ce0bcf4d3dfb645f96a24f1",
+            "textSHA": "e68f8df4f0f7d010e4a3dc88cf80a74a4c4a85879a553f448e844c52c39613db",
+            "coverage": "entry_section",
+            "parserVersion": "1.0.0"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-005",
+      "contextId": "V20261012-005-context",
+      "inputHash": "6623384c49d10bccebfa81cc1ce602c6150960fd43851b8787c8c498caa1dead",
+      "status": "ready",
+      "data": {
+        "history": "14世纪末先强调时间上的在先，约1400年又见权利或地位上的优先。20世纪的重心逐渐转向重要性以及需要先处理的事项。",
+        "historyUrl": "https://www.etymonline.com/word/priority",
+        "historyScope": "whole_entry",
+        "historyCards": [
+          {
+            "unitId": "etym:priority",
+            "version": "1.0.0",
+            "label": "词条 · priority",
+            "summary": "14世纪末先强调时间上的在先，约1400年又见权利或地位上的优先。20世纪的重心逐渐转向重要性以及需要先处理的事项。",
+            "url": "https://www.etymonline.com/word/priority",
+            "status": "ready"
+          }
+        ]
+      },
+      "provenance": {
+        "refs": [
+          {
+            "unitId": "etym:priority",
+            "version": "1.0.0",
+            "scope": "whole_entry"
+          }
+        ],
+        "wholeHistoryStatus": "sourced",
+        "receipts": [
+          {
+            "url": "https://www.etymonline.com/word/priority",
+            "lemma": "priority",
+            "status": "ready",
+            "transport": "web_tool_snapshot",
+            "fetchedAt": "2026-11-16T03:41:59.370Z",
+            "artifactPath": "local-evidence/front-sources/web-batch-2.txt",
+            "rawSHA": "08057a95907e9c0b2d572498eb4e4c948a8709d15ce0bcf4d3dfb645f96a24f1",
+            "textSHA": "5895c1c228e8a225c33f53d67603a51db3d1e180132126bc0b749493d385c57d",
+            "coverage": "entry_section",
+            "parserVersion": "1.0.0"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-007",
+      "contextId": "V20261012-007-context",
+      "inputHash": "c626290e200a3a0c9d88135c7b002a5350f3ac691ae489171a5d18717e886582",
+      "status": "ready",
+      "data": {
+        "history": "16世纪90年代已有逻辑上依赖以及受到支撑的关系义，17世纪初又可指依赖其他事物而存在的对象。后来还有从属领地义。",
+        "historyUrl": "https://www.etymonline.com/word/dependency",
+        "historyScope": "whole_entry",
+        "historyCards": [
+          {
+            "unitId": "etym:dependency",
+            "version": "1.0.0",
+            "label": "词条 · dependency",
+            "summary": "16世纪90年代已有逻辑上依赖以及受到支撑的关系义，17世纪初又可指依赖其他事物而存在的对象。后来还有从属领地义。",
+            "url": "https://www.etymonline.com/word/dependency",
+            "status": "ready"
+          }
+        ]
+      },
+      "provenance": {
+        "refs": [
+          {
+            "unitId": "etym:dependency",
+            "version": "1.0.0",
+            "scope": "whole_entry"
+          }
+        ],
+        "wholeHistoryStatus": "sourced",
+        "receipts": [
+          {
+            "url": "https://www.etymonline.com/word/dependency",
+            "lemma": "dependency",
+            "status": "ready",
+            "transport": "web_tool_snapshot",
+            "fetchedAt": "2026-11-16T03:41:59.370Z",
+            "artifactPath": "local-evidence/front-sources/web-batch-2.txt",
+            "rawSHA": "08057a95907e9c0b2d572498eb4e4c948a8709d15ce0bcf4d3dfb645f96a24f1",
+            "textSHA": "57cbe939baed1ceb741afb4713aa49d1abd2667499fe8b6ed3fdfd56b56a2702",
+            "coverage": "entry_section",
+            "parserVersion": "1.0.0"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-008",
+      "contextId": "V20261012-008-context",
+      "inputHash": "5b4c53c243d1d3e2721ca129b3ccda8b9946401c77ded68352671f2f1c3048e5",
+      "status": "ready",
+      "data": {
+        "history": "约1300年的英语记录涉及宗教中的升天用法；拉丁来源包含接纳、取用的概念。14世纪末已有逻辑小前提义，17世纪20年代记录了被当作当然成立之事。",
+        "historyUrl": "https://www.etymonline.com/word/assumption",
+        "historyScope": "whole_entry",
+        "historyCards": [
+          {
+            "unitId": "etym:assumption",
+            "version": "1.0.0",
+            "label": "词条 · assumption",
+            "summary": "约1300年的英语记录涉及宗教中的升天用法；拉丁来源包含接纳、取用的概念。14世纪末已有逻辑小前提义，17世纪20年代记录了被当作当然成立之事。",
+            "url": "https://www.etymonline.com/word/assumption",
+            "status": "ready"
+          }
+        ]
+      },
+      "provenance": {
+        "refs": [
+          {
+            "unitId": "etym:assumption",
+            "version": "1.0.0",
+            "scope": "whole_entry"
+          }
+        ],
+        "wholeHistoryStatus": "sourced",
+        "receipts": [
+          {
+            "url": "https://www.etymonline.com/word/assumption",
+            "lemma": "assumption",
+            "status": "ready",
+            "transport": "web_tool_snapshot",
+            "fetchedAt": "2026-11-16T03:41:59.370Z",
+            "artifactPath": "local-evidence/front-sources/web-batch-2.txt",
+            "rawSHA": "08057a95907e9c0b2d572498eb4e4c948a8709d15ce0bcf4d3dfb645f96a24f1",
+            "textSHA": "e9ca68bb2e4fa0c1ed5f707d7384cdb5d3caebb6a7cb076e5633808d8d8f2c55",
+            "coverage": "entry_section",
+            "parserVersion": "1.0.0"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-009",
+      "contextId": "V20261012-009-context",
+      "inputHash": "b842f0338adb153738a92d8de3c902d3e8919dbd195b4fc08f00fb23da892bee",
+      "status": "ready",
+      "data": {
+        "history": "1750年首先见于测量，指其他测量所依赖的基线。后来进入网球、棒球等领域；词条也记录了20世纪的baseline estimate表达。",
+        "historyUrl": "https://www.etymonline.com/word/baseline",
+        "historyScope": "whole_entry",
+        "historyCards": [
+          {
+            "unitId": "etym:baseline",
+            "version": "1.0.0",
+            "label": "词条 · baseline",
+            "summary": "1750年首先见于测量，指其他测量所依赖的基线。后来进入网球、棒球等领域；词条也记录了20世纪的baseline estimate表达。",
+            "url": "https://www.etymonline.com/word/baseline",
+            "status": "ready"
+          }
+        ]
+      },
+      "provenance": {
+        "refs": [
+          {
+            "unitId": "etym:baseline",
+            "version": "1.0.0",
+            "scope": "whole_entry"
+          }
+        ],
+        "wholeHistoryStatus": "sourced",
+        "receipts": [
+          {
+            "url": "https://www.etymonline.com/word/baseline",
+            "lemma": "baseline",
+            "status": "ready",
+            "transport": "web_tool_snapshot",
+            "fetchedAt": "2026-11-16T03:41:59.370Z",
+            "artifactPath": "local-evidence/front-sources/web-batch-2.txt",
+            "rawSHA": "08057a95907e9c0b2d572498eb4e4c948a8709d15ce0bcf4d3dfb645f96a24f1",
+            "textSHA": "3b29693a4607f8c617cb438be4cc84bfdc8d6018ffc98e6b957efe8038a4816c",
+            "coverage": "entry_section",
+            "parserVersion": "1.0.0"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-011",
+      "contextId": "V20261012-011-context",
+      "inputHash": "1f8b676aa236c3f9aae2507c4fcfd78ca6f39b85ee8ec5e5f651c0c0840b1770",
+      "status": "ready",
+      "data": {
+        "history": "其拉丁背景与跟随有关。16世纪70年代已有按一定次序相继出现的一系列事物，随后记录了先后次序义；计算领域的排序动词用法则较晚。",
+        "historyUrl": "https://www.etymonline.com/word/sequence",
+        "historyScope": "whole_entry",
+        "historyCards": [
+          {
+            "unitId": "etym:sequence",
+            "version": "1.0.0",
+            "label": "词条 · sequence",
+            "summary": "其拉丁背景与跟随有关。16世纪70年代已有按一定次序相继出现的一系列事物，随后记录了先后次序义；计算领域的排序动词用法则较晚。",
+            "url": "https://www.etymonline.com/word/sequence",
+            "status": "ready"
+          }
+        ]
+      },
+      "provenance": {
+        "refs": [
+          {
+            "unitId": "etym:sequence",
+            "version": "1.0.0",
+            "scope": "whole_entry"
+          }
+        ],
+        "wholeHistoryStatus": "sourced",
+        "receipts": [
+          {
+            "url": "https://www.etymonline.com/word/sequence",
+            "lemma": "sequence",
+            "status": "ready",
+            "transport": "web_tool_snapshot",
+            "fetchedAt": "2026-11-16T03:41:59.370Z",
+            "artifactPath": "local-evidence/front-sources/web-batch-2.txt",
+            "rawSHA": "08057a95907e9c0b2d572498eb4e4c948a8709d15ce0bcf4d3dfb645f96a24f1",
+            "textSHA": "cc88ddae0ff5f3a410f2d7d9849ce04b422fa6607b9b99c14a486937a7d29ae9",
+            "coverage": "entry_section",
+            "parserVersion": "1.0.0"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-013",
+      "contextId": "V20261012-013-context",
+      "inputHash": "799a7ded43b5c74374b6483f14c07b1f49f1ca4bca1fa5aae7d633ae8d552ebe",
+      "status": "ready",
+      "data": {
+        "history": "17世纪30年代已有为特定目的拨出、分配的动词用法。来源涉及中世纪拉丁语的付款授权文书，其构词与把东西安置到某处有关。",
+        "historyUrl": "https://www.etymonline.com/word/allocate",
+        "historyScope": "whole_entry",
+        "historyCards": [
+          {
+            "unitId": "etym:allocate",
+            "version": "1.0.0",
+            "label": "词条 · allocate",
+            "summary": "17世纪30年代已有为特定目的拨出、分配的动词用法。来源涉及中世纪拉丁语的付款授权文书，其构词与把东西安置到某处有关。",
+            "url": "https://www.etymonline.com/word/allocate",
+            "status": "ready"
+          }
+        ]
+      },
+      "provenance": {
+        "refs": [
+          {
+            "unitId": "etym:allocate",
+            "version": "1.0.0",
+            "scope": "whole_entry"
+          }
+        ],
+        "wholeHistoryStatus": "sourced",
+        "receipts": [
+          {
+            "url": "https://www.etymonline.com/word/allocate",
+            "lemma": "allocate",
+            "status": "ready",
+            "transport": "web_tool_snapshot",
+            "fetchedAt": "2026-11-16T03:41:59.394Z",
+            "artifactPath": "local-evidence/front-sources/web-batch-3.txt",
+            "rawSHA": "0c84ba01d08e5e74e93844cb46d13dd553fbf3b4d979b911eb0489f79e17a3cd",
+            "textSHA": "ff566127dfe69f313af4840d6a7c7808637cd7c0e3c2e98ca98e7747048da9cb",
+            "coverage": "entry_section",
+            "parserVersion": "1.0.0"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-014",
+      "contextId": "V20261012-014-context",
+      "inputHash": "9a665d42bb9d50bc15d498b39c5bb9b8bb41cc3e5bfddef0e94e837326515624",
+      "status": "ready",
+      "data": {
+        "history": "动词在16世纪20年代已有派遣某人代表处理事务的用法，来自表示派出代表的拉丁语。名词的会议代表用法则可见于约1600年。",
+        "historyUrl": "https://www.etymonline.com/word/delegate",
+        "historyScope": "whole_entry",
+        "historyCards": [
+          {
+            "unitId": "etym:delegate",
+            "version": "1.0.0",
+            "label": "词条 · delegate",
+            "summary": "动词在16世纪20年代已有派遣某人代表处理事务的用法，来自表示派出代表的拉丁语。名词的会议代表用法则可见于约1600年。",
+            "url": "https://www.etymonline.com/word/delegate",
+            "status": "ready"
+          }
+        ]
+      },
+      "provenance": {
+        "refs": [
+          {
+            "unitId": "etym:delegate",
+            "version": "1.0.0",
+            "scope": "whole_entry"
+          }
+        ],
+        "wholeHistoryStatus": "sourced",
+        "receipts": [
+          {
+            "url": "https://www.etymonline.com/word/delegate",
+            "lemma": "delegate",
+            "status": "ready",
+            "transport": "web_tool_snapshot",
+            "fetchedAt": "2026-11-16T03:41:59.394Z",
+            "artifactPath": "local-evidence/front-sources/web-batch-3.txt",
+            "rawSHA": "0c84ba01d08e5e74e93844cb46d13dd553fbf3b4d979b911eb0489f79e17a3cd",
+            "textSHA": "9e00598c696dcba98a239e895421963c704ee152d3315b153ec077fe172adc89",
+            "coverage": "entry_section",
+            "parserVersion": "1.0.0"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-016",
+      "contextId": "V20261012-016-context",
+      "inputHash": "9a58c9fe523dd935c31a87e7d62ce77e6f6472cf5c1c519b90964b88c87d063f",
+      "status": "ready",
+      "data": {
+        "history": "约1400年已有应当作出交代的形容词用法，经法语进入英语；构词联系account，强调可以被要求说明所做之事。",
+        "historyUrl": "https://www.etymonline.com/word/accountable",
+        "historyScope": "whole_entry",
+        "historyCards": [
+          {
+            "unitId": "etym:accountable",
+            "version": "1.0.0",
+            "label": "词条 · accountable",
+            "summary": "约1400年已有应当作出交代的形容词用法，经法语进入英语；构词联系account，强调可以被要求说明所做之事。",
+            "url": "https://www.etymonline.com/word/accountable",
+            "status": "ready"
+          }
+        ]
+      },
+      "provenance": {
+        "refs": [
+          {
+            "unitId": "etym:accountable",
+            "version": "1.0.0",
+            "scope": "whole_entry"
+          }
+        ],
+        "wholeHistoryStatus": "sourced",
+        "receipts": [
+          {
+            "url": "https://www.etymonline.com/word/accountable",
+            "lemma": "accountable",
+            "status": "ready",
+            "transport": "web_tool_snapshot",
+            "fetchedAt": "2026-11-16T03:41:59.394Z",
+            "artifactPath": "local-evidence/front-sources/web-batch-3.txt",
+            "rawSHA": "0c84ba01d08e5e74e93844cb46d13dd553fbf3b4d979b911eb0489f79e17a3cd",
+            "textSHA": "0d502a7e91ae1f11c3ca21955e168116ea63d43eeacaeaaaf8c908e0e7da311e",
+            "coverage": "entry_section",
+            "parserVersion": "1.0.0"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-017",
+      "contextId": "V20261012-017-context",
+      "inputHash": "c891db88f00e9d590a29271c455a364404608165b13023f9a62e992cc8a25658",
+      "status": "ready",
+      "data": {
+        "history": "作为时间限制，至迟1919年已用于美国报业，指稿件能送去印刷的最后时刻。词条认为它可能受更早的禁越界线用法影响，未将二者关系说成确定事实。",
+        "historyUrl": "https://www.etymonline.com/word/deadline",
+        "historyScope": "whole_entry",
+        "historyCards": [
+          {
+            "unitId": "etym:deadline",
+            "version": "1.0.0",
+            "label": "词条 · deadline",
+            "summary": "作为时间限制，至迟1919年已用于美国报业，指稿件能送去印刷的最后时刻。词条认为它可能受更早的禁越界线用法影响，未将二者关系说成确定事实。",
+            "url": "https://www.etymonline.com/word/deadline",
+            "status": "ready"
+          }
+        ]
+      },
+      "provenance": {
+        "refs": [
+          {
+            "unitId": "etym:deadline",
+            "version": "1.0.0",
+            "scope": "whole_entry"
+          }
+        ],
+        "wholeHistoryStatus": "sourced",
+        "receipts": [
+          {
+            "url": "https://www.etymonline.com/word/deadline",
+            "lemma": "deadline",
+            "status": "ready",
+            "transport": "web_tool_snapshot",
+            "fetchedAt": "2026-11-16T03:42:13.638Z",
+            "artifactPath": "local-evidence/front-sources/web-extra.txt",
+            "rawSHA": "8b7cc65cd154bffda70f68cb5bc8219eebb339e8920ed2ba613450e29c67fb1c",
+            "textSHA": "d971c3e17a5059d9ad25a5d6cae4fdb9c3a38b94e1be592a6db24efba7894817",
+            "coverage": "entry_section",
+            "parserVersion": "1.0.0"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-021",
+      "contextId": "V20261012-021-context",
+      "inputHash": "d71b37edb1c64d802fb8a301a58bd0e790c15b937b6fa8b750a5d4d9a4ec2d08",
+      "status": "ready",
+      "data": {
+        "history": "15世纪中期经法语进入英语，其法语词形与做、实施有关。早期意义即某件事能够做成或完成。",
+        "historyUrl": "https://www.etymonline.com/word/feasible",
+        "historyScope": "whole_entry",
+        "historyCards": [
+          {
+            "unitId": "etym:feasible",
+            "version": "1.0.0",
+            "label": "词条 · feasible",
+            "summary": "15世纪中期经法语进入英语，其法语词形与做、实施有关。早期意义即某件事能够做成或完成。",
+            "url": "https://www.etymonline.com/word/feasible",
+            "status": "ready"
+          }
+        ]
+      },
+      "provenance": {
+        "refs": [
+          {
+            "unitId": "etym:feasible",
+            "version": "1.0.0",
+            "scope": "whole_entry"
+          }
+        ],
+        "wholeHistoryStatus": "sourced",
+        "receipts": [
+          {
+            "url": "https://www.etymonline.com/word/feasible",
+            "lemma": "feasible",
+            "status": "ready",
+            "transport": "web_tool_snapshot",
+            "fetchedAt": "2026-11-16T03:41:59.394Z",
+            "artifactPath": "local-evidence/front-sources/web-batch-3.txt",
+            "rawSHA": "0c84ba01d08e5e74e93844cb46d13dd553fbf3b4d979b911eb0489f79e17a3cd",
+            "textSHA": "b003fffd25f27b885787ec366b3219586f11e64083eb46ec5e4b0c6e7b4358ff",
+            "coverage": "entry_section",
+            "parserVersion": "1.0.0"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-023",
+      "contextId": "V20261012-023-context",
+      "inputHash": "afa823794067e0c2ec4f2422ca8de908d732bd60bac92fdca59e19509597e8f0",
+      "status": "ready",
+      "data": {
+        "history": "词条记录1845年用于未付账单，1890年用于逾期未还的图书。构词把超过与应到期结合起来，表达已经越过应当完成的时间。",
+        "historyUrl": "https://www.etymonline.com/word/overdue",
+        "historyScope": "whole_entry",
+        "historyCards": [
+          {
+            "unitId": "etym:overdue",
+            "version": "1.0.0",
+            "label": "词条 · overdue",
+            "summary": "词条记录1845年用于未付账单，1890年用于逾期未还的图书。构词把超过与应到期结合起来，表达已经越过应当完成的时间。",
+            "url": "https://www.etymonline.com/word/overdue",
+            "status": "ready"
+          }
+        ]
+      },
+      "provenance": {
+        "refs": [
+          {
+            "unitId": "etym:overdue",
+            "version": "1.0.0",
+            "scope": "whole_entry"
+          }
+        ],
+        "wholeHistoryStatus": "sourced",
+        "receipts": [
+          {
+            "url": "https://www.etymonline.com/word/overdue",
+            "lemma": "overdue",
+            "status": "ready",
+            "transport": "web_tool_snapshot",
+            "fetchedAt": "2026-11-16T03:41:59.394Z",
+            "artifactPath": "local-evidence/front-sources/web-batch-3.txt",
+            "rawSHA": "0c84ba01d08e5e74e93844cb46d13dd553fbf3b4d979b911eb0489f79e17a3cd",
+            "textSHA": "8906d0a719d698bbb37bc1206d58ce5da7276070833ea18c6058c1ab408cfdf0",
+            "coverage": "entry_section",
+            "parserVersion": "1.0.0"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-025",
+      "contextId": "V20261012-025-context",
+      "inputHash": "c5f81a848481f75029debfe52bc105158ff42b65e2357c2769ccb700a57a1272",
+      "status": "ready",
+      "data": {
+        "history": "17世纪80年代指放在炉火后方的大木柴。19世纪末有储存待用事物的比喻，1932年记录了未完成订单的积压；后两义的来源联系在词条中保留不确定性。",
+        "historyUrl": "https://www.etymonline.com/word/backlog",
+        "historyScope": "whole_entry",
+        "historyCards": [
+          {
+            "unitId": "etym:backlog",
+            "version": "1.0.0",
+            "label": "词条 · backlog",
+            "summary": "17世纪80年代指放在炉火后方的大木柴。19世纪末有储存待用事物的比喻，1932年记录了未完成订单的积压；后两义的来源联系在词条中保留不确定性。",
+            "url": "https://www.etymonline.com/word/backlog",
+            "status": "ready"
+          }
+        ]
+      },
+      "provenance": {
+        "refs": [
+          {
+            "unitId": "etym:backlog",
+            "version": "1.0.0",
+            "scope": "whole_entry"
+          }
+        ],
+        "wholeHistoryStatus": "sourced",
+        "receipts": [
+          {
+            "url": "https://www.etymonline.com/word/backlog",
+            "lemma": "backlog",
+            "status": "ready",
+            "transport": "web_tool_snapshot",
+            "fetchedAt": "2026-11-16T03:41:59.394Z",
+            "artifactPath": "local-evidence/front-sources/web-batch-3.txt",
+            "rawSHA": "0c84ba01d08e5e74e93844cb46d13dd553fbf3b4d979b911eb0489f79e17a3cd",
+            "textSHA": "16230260d3e745d4938e09d3995fc68479ec74f126f4c57042bceaf3142c2285",
+            "coverage": "entry_section",
+            "parserVersion": "1.0.0"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-026",
+      "contextId": "V20261012-026-context",
+      "inputHash": "3a0bc56e9fb3098cfaf1aeb5643ddb92468c9a7e006e1fcc1c5a239e4e51593b",
+      "status": "ready",
+      "data": {
+        "history": "19世纪末已有狭窄入口、交通拥堵处的用法，来自瓶子与颈部的组合。1922年记录了任何阻碍流动之物这一扩展义。",
+        "historyUrl": "https://www.etymonline.com/word/bottleneck",
+        "historyScope": "whole_entry",
+        "historyCards": [
+          {
+            "unitId": "etym:bottleneck",
+            "version": "1.0.0",
+            "label": "词条 · bottleneck",
+            "summary": "19世纪末已有狭窄入口、交通拥堵处的用法，来自瓶子与颈部的组合。1922年记录了任何阻碍流动之物这一扩展义。",
+            "url": "https://www.etymonline.com/word/bottleneck",
+            "status": "ready"
+          }
+        ]
+      },
+      "provenance": {
+        "refs": [
+          {
+            "unitId": "etym:bottleneck",
+            "version": "1.0.0",
+            "scope": "whole_entry"
+          }
+        ],
+        "wholeHistoryStatus": "sourced",
+        "receipts": [
+          {
+            "url": "https://www.etymonline.com/word/bottleneck",
+            "lemma": "bottleneck",
+            "status": "ready",
+            "transport": "web_tool_snapshot",
+            "fetchedAt": "2026-11-16T03:41:59.394Z",
+            "artifactPath": "local-evidence/front-sources/web-batch-3.txt",
+            "rawSHA": "0c84ba01d08e5e74e93844cb46d13dd553fbf3b4d979b911eb0489f79e17a3cd",
+            "textSHA": "9ec9f7c916a06a5544c1a329d165b75e86fef1e5a66fbe3f63251ae279cc6d0d",
+            "coverage": "entry_section",
+            "parserVersion": "1.0.0"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-028",
+      "contextId": "V20261012-028-context",
+      "inputHash": "de68676272c1dd15854efe998e7a377edc6e796af5de436f2bcd1173f7d76971",
+      "status": "ready",
+      "data": {
+        "history": "17世纪70年代已有进展受阻、倒退的名词用法，来自动词短语。建筑与道路边界的退距义较晚，属于不同使用领域。",
+        "historyUrl": "https://www.etymonline.com/word/setback",
+        "historyScope": "whole_entry",
+        "historyCards": [
+          {
+            "unitId": "etym:setback",
+            "version": "1.0.0",
+            "label": "词条 · setback",
+            "summary": "17世纪70年代已有进展受阻、倒退的名词用法，来自动词短语。建筑与道路边界的退距义较晚，属于不同使用领域。",
+            "url": "https://www.etymonline.com/word/setback",
+            "status": "ready"
+          }
+        ]
+      },
+      "provenance": {
+        "refs": [
+          {
+            "unitId": "etym:setback",
+            "version": "1.0.0",
+            "scope": "whole_entry"
+          }
+        ],
+        "wholeHistoryStatus": "sourced",
+        "receipts": [
+          {
+            "url": "https://www.etymonline.com/word/setback",
+            "lemma": "setback",
+            "status": "ready",
+            "transport": "web_tool_snapshot",
+            "fetchedAt": "2026-11-16T03:41:59.394Z",
+            "artifactPath": "local-evidence/front-sources/web-batch-3.txt",
+            "rawSHA": "0c84ba01d08e5e74e93844cb46d13dd553fbf3b4d979b911eb0489f79e17a3cd",
+            "textSHA": "5cca24225599c3abbcb3b6056dd0ae7ae85394f297b4cfbcd2c44f1612836c68",
+            "coverage": "entry_section",
+            "parserVersion": "1.0.0"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-029",
+      "contextId": "V20261012-029-context",
+      "inputHash": "144e1c348edc9a67675ec498b2bf6d14212448124f8a3230d24fd089210e60d5",
+      "status": "ready",
+      "data": {
+        "history": "1922年先记录了使用自动扶梯的用法，由escalator逆构而成。20世纪50年代末、60年代初出现更普遍的程度升高和使之升级的比喻用法。",
+        "historyUrl": "https://www.etymonline.com/word/escalate",
+        "historyScope": "whole_entry",
+        "historyCards": [
+          {
+            "unitId": "etym:escalate",
+            "version": "1.0.0",
+            "label": "词条 · escalate",
+            "summary": "1922年先记录了使用自动扶梯的用法，由escalator逆构而成。20世纪50年代末、60年代初出现更普遍的程度升高和使之升级的比喻用法。",
+            "url": "https://www.etymonline.com/word/escalate",
+            "status": "ready"
+          }
+        ]
+      },
+      "provenance": {
+        "refs": [
+          {
+            "unitId": "etym:escalate",
+            "version": "1.0.0",
+            "scope": "whole_entry"
+          }
+        ],
+        "wholeHistoryStatus": "sourced",
+        "receipts": [
+          {
+            "url": "https://www.etymonline.com/word/escalate",
+            "lemma": "escalate",
+            "status": "ready",
+            "transport": "web_tool_snapshot",
+            "fetchedAt": "2026-11-16T03:41:59.394Z",
+            "artifactPath": "local-evidence/front-sources/web-batch-3.txt",
+            "rawSHA": "0c84ba01d08e5e74e93844cb46d13dd553fbf3b4d979b911eb0489f79e17a3cd",
+            "textSHA": "9f66369f71c2e2df7c9875d05511dca25bd772c5b17fb65c9aa1f7bb70dc51e1",
+            "coverage": "entry_section",
+            "parserVersion": "1.0.0"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-030",
+      "contextId": "V20261012-030-context",
+      "inputHash": "07624ba6db73078af628c01c070907b08e1a5d3282172a1448a12d53fd3cc23e",
+      "status": "ready",
+      "data": {
+        "history": "15世纪初已有缓解疼痛、使程度较轻或更可忍受的用法。拉丁来源涉及使柔和、使温和，延伸到减轻不利影响。",
+        "historyUrl": "https://www.etymonline.com/word/mitigate",
+        "historyScope": "whole_entry",
+        "historyCards": [
+          {
+            "unitId": "etym:mitigate",
+            "version": "1.0.0",
+            "label": "词条 · mitigate",
+            "summary": "15世纪初已有缓解疼痛、使程度较轻或更可忍受的用法。拉丁来源涉及使柔和、使温和，延伸到减轻不利影响。",
+            "url": "https://www.etymonline.com/word/mitigate",
+            "status": "ready"
+          }
+        ]
+      },
+      "provenance": {
+        "refs": [
+          {
+            "unitId": "etym:mitigate",
+            "version": "1.0.0",
+            "scope": "whole_entry"
+          }
+        ],
+        "wholeHistoryStatus": "sourced",
+        "receipts": [
+          {
+            "url": "https://www.etymonline.com/word/mitigate",
+            "lemma": "mitigate",
+            "status": "ready",
+            "transport": "web_tool_snapshot",
+            "fetchedAt": "2026-11-16T03:41:59.413Z",
+            "artifactPath": "local-evidence/front-sources/web-batch-4.txt",
+            "rawSHA": "1d94f0f315341471c208f9d92db74146c3590c8dc186ffe78967698a9b57fe72",
+            "textSHA": "7fca33f82e0185dd7cb1d0ebfde2dcc872c3816e5b33c510fb7e2a2b04e201ec",
+            "coverage": "entry_section",
+            "parserVersion": "1.0.0"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-031",
+      "contextId": "V20261012-031-context",
+      "inputHash": "3666a4319b66c6d7d9a24775bfd8b95153689038d1e81d782a4102cd372e4169",
+      "status": "ready",
+      "data": {
+        "history": "16世纪的名词可指学校中维持秩序的学生，其拉丁来源是提醒、告诫或监督者。20世纪先见检查无线电信号质量的动词用法，1944年又记录了持续观察、复查的概括用法。",
+        "historyUrl": "https://www.etymonline.com/word/monitor",
+        "historyScope": "whole_entry",
+        "historyCards": [
+          {
+            "unitId": "etym:monitor",
+            "version": "1.0.0",
+            "label": "词条 · monitor",
+            "summary": "16世纪的名词可指学校中维持秩序的学生，其拉丁来源是提醒、告诫或监督者。20世纪先见检查无线电信号质量的动词用法，1944年又记录了持续观察、复查的概括用法。",
+            "url": "https://www.etymonline.com/word/monitor",
+            "status": "ready"
+          }
+        ]
+      },
+      "provenance": {
+        "refs": [
+          {
+            "unitId": "etym:monitor",
+            "version": "1.0.0",
+            "scope": "whole_entry"
+          }
+        ],
+        "wholeHistoryStatus": "sourced",
+        "receipts": [
+          {
+            "url": "https://www.etymonline.com/word/monitor",
+            "lemma": "monitor",
+            "status": "ready",
+            "transport": "web_tool_snapshot",
+            "fetchedAt": "2026-11-16T03:41:59.413Z",
+            "artifactPath": "local-evidence/front-sources/web-batch-4.txt",
+            "rawSHA": "1d94f0f315341471c208f9d92db74146c3590c8dc186ffe78967698a9b57fe72",
+            "textSHA": "bca060e75357c132f9445d01ce994abbc18176105dba46d082880460ff353596",
+            "coverage": "entry_excerpt",
+            "parserVersion": "1.0.0"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-032",
+      "contextId": "V20261012-032-context",
+      "inputHash": "3a97f36575fe46a0396f83fdb77d133708306aaddac7c57b5fcb18ccee7f5b67",
+      "status": "ready",
+      "data": {
+        "history": "1803年已有再次评估的用法，由表示再次的re-与assess组合而成。词条同时列出过去式和进行时等派生形式。",
+        "historyUrl": "https://www.etymonline.com/word/reassess",
+        "historyScope": "whole_entry",
+        "historyCards": [
+          {
+            "unitId": "etym:reassess",
+            "version": "1.0.0",
+            "label": "词条 · reassess",
+            "summary": "1803年已有再次评估的用法，由表示再次的re-与assess组合而成。词条同时列出过去式和进行时等派生形式。",
+            "url": "https://www.etymonline.com/word/reassess",
+            "status": "ready"
+          }
+        ]
+      },
+      "provenance": {
+        "refs": [
+          {
+            "unitId": "etym:reassess",
+            "version": "1.0.0",
+            "scope": "whole_entry"
+          }
+        ],
+        "wholeHistoryStatus": "sourced",
+        "receipts": [
+          {
+            "url": "https://www.etymonline.com/word/reassess",
+            "lemma": "reassess",
+            "status": "ready",
+            "transport": "web_tool_snapshot",
+            "fetchedAt": "2026-11-16T03:41:59.413Z",
+            "artifactPath": "local-evidence/front-sources/web-batch-4.txt",
+            "rawSHA": "1d94f0f315341471c208f9d92db74146c3590c8dc186ffe78967698a9b57fe72",
+            "textSHA": "1253d50cca750e2349ca9377e1878d033e3dbccf5274ab0601edd6556e0b1a70",
+            "coverage": "entry_section",
+            "parserVersion": "1.0.0"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-033",
+      "contextId": "V20261012-033-context",
+      "inputHash": "fb7ed6cc9cf196fcb60df34754af79db993cb90392a99ee23d3e617980b9d88e",
+      "status": "ready",
+      "data": {
+        "history": "推迟义在14世纪末已有记录，来源与向外移开、延后有关，历史上与differ同源。另一个表示听从他人判断的defer来自不同拉丁前缀组合，需分开理解。",
+        "historyUrl": "https://www.etymonline.com/word/defer",
+        "historyScope": "whole_entry",
+        "historyCards": [
+          {
+            "unitId": "etym:defer",
+            "version": "1.0.0",
+            "label": "词条 · defer",
+            "summary": "推迟义在14世纪末已有记录，来源与向外移开、延后有关，历史上与differ同源。另一个表示听从他人判断的defer来自不同拉丁前缀组合，需分开理解。",
+            "url": "https://www.etymonline.com/word/defer",
+            "status": "ready"
+          }
+        ]
+      },
+      "provenance": {
+        "refs": [
+          {
+            "unitId": "etym:defer",
+            "version": "1.0.0",
+            "scope": "whole_entry"
+          }
+        ],
+        "wholeHistoryStatus": "sourced",
+        "receipts": [
+          {
+            "url": "https://www.etymonline.com/word/defer",
+            "lemma": "defer",
+            "status": "ready",
+            "transport": "web_tool_snapshot",
+            "fetchedAt": "2026-11-16T03:41:59.413Z",
+            "artifactPath": "local-evidence/front-sources/web-batch-4.txt",
+            "rawSHA": "1d94f0f315341471c208f9d92db74146c3590c8dc186ffe78967698a9b57fe72",
+            "textSHA": "473f8a842c7e0501270ac77a67e82deb104bc6bdbbbbf40269298f3576cc172f",
+            "coverage": "entry_section",
+            "parserVersion": "1.0.0"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-034",
+      "contextId": "V20261012-034-context",
+      "inputHash": "7646445678fa4a51692ad33a675afe86e8dc2d4484971bbfa64b2d633df8fb57",
+      "status": "ready",
+      "data": {
+        "history": "17世纪初已有清除进展阻碍、加快推进的用法。拉丁来源包含解除束缚、准备妥当等意思，其字面构词意象是让双脚摆脱束缚。",
+        "historyUrl": "https://www.etymonline.com/word/expedite",
+        "historyScope": "whole_entry",
+        "historyCards": [
+          {
+            "unitId": "etym:expedite",
+            "version": "1.0.0",
+            "label": "词条 · expedite",
+            "summary": "17世纪初已有清除进展阻碍、加快推进的用法。拉丁来源包含解除束缚、准备妥当等意思，其字面构词意象是让双脚摆脱束缚。",
+            "url": "https://www.etymonline.com/word/expedite",
+            "status": "ready"
+          }
+        ]
+      },
+      "provenance": {
+        "refs": [
+          {
+            "unitId": "etym:expedite",
+            "version": "1.0.0",
+            "scope": "whole_entry"
+          }
+        ],
+        "wholeHistoryStatus": "sourced",
+        "receipts": [
+          {
+            "url": "https://www.etymonline.com/word/expedite",
+            "lemma": "expedite",
+            "status": "ready",
+            "transport": "web_tool_snapshot",
+            "fetchedAt": "2026-11-16T03:41:59.413Z",
+            "artifactPath": "local-evidence/front-sources/web-batch-4.txt",
+            "rawSHA": "1d94f0f315341471c208f9d92db74146c3590c8dc186ffe78967698a9b57fe72",
+            "textSHA": "fbce8f32695641567862ab0f9559d1067fae4de2aa9a64e2e0d9fb26c1919d20",
+            "coverage": "entry_section",
+            "parserVersion": "1.0.0"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-035",
+      "contextId": "V20261012-035-context",
+      "inputHash": "efaf6c76c8991a18c8cecbc5948af41513ed3762bdedffa6d6ea2d363f6e171b",
+      "status": "ready",
+      "data": {
+        "history": "14世纪末先见融化、分解等用法，拉丁来源与松开、解开有关。由分析分解进一步发展出决定、裁定，17世纪初已有解决争端的用法。",
+        "historyUrl": "https://www.etymonline.com/word/resolve",
+        "historyScope": "whole_entry",
+        "historyCards": [
+          {
+            "unitId": "etym:resolve",
+            "version": "1.0.0",
+            "label": "词条 · resolve",
+            "summary": "14世纪末先见融化、分解等用法，拉丁来源与松开、解开有关。由分析分解进一步发展出决定、裁定，17世纪初已有解决争端的用法。",
+            "url": "https://www.etymonline.com/word/resolve",
+            "status": "ready"
+          }
+        ]
+      },
+      "provenance": {
+        "refs": [
+          {
+            "unitId": "etym:resolve",
+            "version": "1.0.0",
+            "scope": "whole_entry"
+          }
+        ],
+        "wholeHistoryStatus": "sourced",
+        "receipts": [
+          {
+            "url": "https://www.etymonline.com/word/resolve",
+            "lemma": "resolve",
+            "status": "ready",
+            "transport": "web_tool_snapshot",
+            "fetchedAt": "2026-11-16T03:41:59.413Z",
+            "artifactPath": "local-evidence/front-sources/web-batch-4.txt",
+            "rawSHA": "1d94f0f315341471c208f9d92db74146c3590c8dc186ffe78967698a9b57fe72",
+            "textSHA": "3d43ef3ee322359116cffb88e20b92d9e8e5e613cbc825cf4a0409b34630c01e",
+            "coverage": "entry_section",
+            "parserVersion": "1.0.0"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-036",
+      "contextId": "V20261012-036-context",
+      "inputHash": "8d5a04572ec59f96fe0e616295c2a5d285ec2fffe11a4ff4bd7f843bac548ce2",
+      "status": "ready",
+      "data": {
+        "history": "古英语中hand既指手，也能涉及掌握、控制或占有。动词在约1400年已有接管之义，17世纪40年代记录了把东西递给某人的用法；这里是handover组成词的历史资料。",
+        "historyUrl": "https://www.etymonline.com/word/hand",
+        "historyScope": "component_history",
+        "historyCards": [
+          {
+            "unitId": "etym:hand",
+            "version": "1.0.0",
+            "label": "组成词 · hand",
+            "summary": "古英语中hand既指手，也能涉及掌握、控制或占有。动词在约1400年已有接管之义，17世纪40年代记录了把东西递给某人的用法；这里是handover组成词的历史资料。",
+            "url": "https://www.etymonline.com/word/hand",
+            "status": "ready"
+          }
+        ]
+      },
+      "provenance": {
+        "refs": [
+          {
+            "unitId": "etym:hand",
+            "version": "1.0.0",
+            "scope": "component_history"
+          }
+        ],
+        "wholeHistoryStatus": "fetch_failed",
+        "receipts": [
+          {
+            "url": "https://www.etymonline.com/word/hand",
+            "lemma": "hand",
+            "status": "ready",
+            "transport": "web_tool_snapshot",
+            "fetchedAt": "2026-11-16T03:42:13.638Z",
+            "artifactPath": "local-evidence/front-sources/web-extra.txt",
+            "rawSHA": "8b7cc65cd154bffda70f68cb5bc8219eebb339e8920ed2ba613450e29c67fb1c",
+            "textSHA": "3cf24126da090c6c7acfd59580ad8bc4ff1ea07d56c2166963084e4a13a4cf80",
+            "coverage": "entry_section",
+            "parserVersion": "1.0.0"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-037",
+      "contextId": "V20261012-037-context",
+      "inputHash": "185c3bd0fc7d9c55894bb4f55242da33c49c5b6809eedb33fc9a34f135528bb1",
+      "status": "ready",
+      "data": {
+        "history": "词条记录1942年的结束广播名词用法，对应动词短语更早已有记录。它也提到停止做某事，以及通过正式协议解除债务责任的旧用法；现代项目批准义另按现代词典处理。",
+        "historyUrl": "https://www.etymonline.com/word/sign-off",
+        "historyScope": "whole_entry",
+        "historyCards": [
+          {
+            "unitId": "etym:sign-off",
+            "version": "1.0.0",
+            "label": "词条 · sign-off",
+            "summary": "词条记录1942年的结束广播名词用法，对应动词短语更早已有记录。它也提到停止做某事，以及通过正式协议解除债务责任的旧用法；现代项目批准义另按现代词典处理。",
+            "url": "https://www.etymonline.com/word/sign-off",
+            "status": "ready"
+          }
+        ]
+      },
+      "provenance": {
+        "refs": [
+          {
+            "unitId": "etym:sign-off",
+            "version": "1.0.0",
+            "scope": "whole_entry"
+          }
+        ],
+        "wholeHistoryStatus": "sourced",
+        "receipts": [
+          {
+            "url": "https://www.etymonline.com/word/sign-off",
+            "lemma": "sign-off",
+            "status": "ready",
+            "transport": "web_tool_snapshot",
+            "fetchedAt": "2026-11-16T03:41:59.413Z",
+            "artifactPath": "local-evidence/front-sources/web-batch-4.txt",
+            "rawSHA": "1d94f0f315341471c208f9d92db74146c3590c8dc186ffe78967698a9b57fe72",
+            "textSHA": "c8a23dcb61d28122a54051234aecb7097e21dfbb53c393031541b70b909926e4",
+            "coverage": "entry_section",
+            "parserVersion": "1.0.0"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-038",
+      "contextId": "V20261012-038-context",
+      "inputHash": "4ae1e583200255ece49d3422f9ca3f8fae6b5df749cc503ca65d574cea7401b0",
+      "status": "ready",
+      "data": {
+        "history": "1940年先见于航空，指可供核对飞行高度的已知地形或建筑。1950年记录了旅客接受安全检查的地点义。",
+        "historyUrl": "https://www.etymonline.com/word/checkpoint",
+        "historyScope": "whole_entry",
+        "historyCards": [
+          {
+            "unitId": "etym:checkpoint",
+            "version": "1.0.0",
+            "label": "词条 · checkpoint",
+            "summary": "1940年先见于航空，指可供核对飞行高度的已知地形或建筑。1950年记录了旅客接受安全检查的地点义。",
+            "url": "https://www.etymonline.com/word/checkpoint",
+            "status": "ready"
+          }
+        ]
+      },
+      "provenance": {
+        "refs": [
+          {
+            "unitId": "etym:checkpoint",
+            "version": "1.0.0",
+            "scope": "whole_entry"
+          }
+        ],
+        "wholeHistoryStatus": "sourced",
+        "receipts": [
+          {
+            "url": "https://www.etymonline.com/word/checkpoint",
+            "lemma": "checkpoint",
+            "status": "ready",
+            "transport": "web_tool_snapshot",
+            "fetchedAt": "2026-11-16T03:41:59.413Z",
+            "artifactPath": "local-evidence/front-sources/web-batch-4.txt",
+            "rawSHA": "1d94f0f315341471c208f9d92db74146c3590c8dc186ffe78967698a9b57fe72",
+            "textSHA": "04951508d44d9eeafa07fa6e57f4b78198d676813612157a9fce88f2385018ce",
+            "coverage": "entry_section",
+            "parserVersion": "1.0.0"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-040",
+      "contextId": "V20261012-040-context",
+      "inputHash": "754be6fede83a36f1892ac3c16219a2559ef1955c5fa30a083cd88932cfa205b",
+      "status": "ready",
+      "data": {
+        "history": "现代结果义在1788年已有记录，起初见于苏格兰英语，19世纪经Carlyle等人的使用而普及。更早的中古英语也曾用它表示出来、出现。",
+        "historyUrl": "https://www.etymonline.com/word/outcome",
+        "historyScope": "whole_entry",
+        "historyCards": [
+          {
+            "unitId": "etym:outcome",
+            "version": "1.0.0",
+            "label": "词条 · outcome",
+            "summary": "现代结果义在1788年已有记录，起初见于苏格兰英语，19世纪经Carlyle等人的使用而普及。更早的中古英语也曾用它表示出来、出现。",
+            "url": "https://www.etymonline.com/word/outcome",
+            "status": "ready"
+          }
+        ]
+      },
+      "provenance": {
+        "refs": [
+          {
+            "unitId": "etym:outcome",
+            "version": "1.0.0",
+            "scope": "whole_entry"
+          }
+        ],
+        "wholeHistoryStatus": "sourced",
+        "receipts": [
+          {
+            "url": "https://www.etymonline.com/word/outcome",
+            "lemma": "outcome",
+            "status": "ready",
+            "transport": "web_tool_snapshot",
+            "fetchedAt": "2026-11-16T03:41:59.413Z",
+            "artifactPath": "local-evidence/front-sources/web-batch-4.txt",
+            "rawSHA": "1d94f0f315341471c208f9d92db74146c3590c8dc186ffe78967698a9b57fe72",
+            "textSHA": "9755b240e763bba73fe75f8ce32e8a57c9edfe7ccd0f9dc0cff4ce7e689555e9",
+            "coverage": "entry_section",
+            "parserVersion": "1.0.0"
+          }
+        ]
+      }
+    }
+  ],
+  "outputHash": "a7b88a8d8511855838df68bc25d70aa687cfe2097e859a4a75dbdb1d279904e6"
+}

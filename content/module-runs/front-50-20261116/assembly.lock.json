@@ -1,0 +1,19 @@
+{
+  "systemVersion": "front-system-1.0.0",
+  "registrySHA": "55687b0e1aa5818561fde227ba8363445abab78d83ed85bc0fce079f06549983",
+  "inputRun": "content/enrichment/v10/runs/r2-50-20261116",
+  "editsPath": "content/module-inputs/front-50-20261116/edits.json",
+  "editsSHA": "011895235eef459cdded214beccf748a9ff262a9a73931285d413e63ec83c0af",
+  "moduleHashes": {
+    "headword": "b9e9862b4003b7b662fb90774c4c4cc211c711080cbb887eca6532bf9924a1b9",
+    "dictionary": "978e96daa3e2cf2d79e0ee9d4512d7f27285437f82a6071503afae5f8f72ffee",
+    "learning": "ec06cfc9fb8bf6201e8cebe853bf8ded9737f52a8c4e78a0422463346676041e",
+    "history": "a7b88a8d8511855838df68bc25d70aa687cfe2097e859a4a75dbdb1d279904e6",
+    "scenario": "e1ec6d1300c8167493958c82071fff0dabd4a2ccbbc31ce262ff99d454f2edfe",
+    "source-preview": "780e75958fd5e9dbb5157e758c214adcd8d82a9b93c28d54303ddf9ad70e6ba5",
+    "navigation": "780e75958fd5e9dbb5157e758c214adcd8d82a9b93c28d54303ddf9ad70e6ba5",
+    "bridge": "e428b0d3d6034bea24da075daf1679f08348ee37ee33271a27ca145f21c56b97",
+    "analysis": "c3eeda3fc0cf1ad7f8df3b6b6346b3118e6b81f2267c2a3b73673b25d8047c21"
+  },
+  "htmlSHA": "e2ade0857530c8e94fe6168305a7aac64ec626c2235e5c36117c7e9181c85ba8"
+}

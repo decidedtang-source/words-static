@@ -1,0 +1,1938 @@
+{
+  "moduleId": "learning",
+  "version": "1.0.0",
+  "producerHash": "56d28b323dfbc6a4d6eb8987bf51f908f082a34c45a89b5602a45dc789bd17db",
+  "contractHash": "489624658d89108d1bc1db973d7a607a1de2a54453c096e7e1b647274c7a808a",
+  "dependencies": {
+    "dictionary": "978e96daa3e2cf2d79e0ee9d4512d7f27285437f82a6071503afae5f8f72ffee"
+  },
+  "entryIds": [
+    "V20261012-002",
+    "V20261012-012",
+    "V20261012-022",
+    "V20261012-024",
+    "V20261012-053",
+    "V20261012-078",
+    "V20261012-076",
+    "V20261012-093",
+    "V20261012-100",
+    "V20261014-075",
+    "V20261014-076",
+    "V20261029-005",
+    "V20261014-003",
+    "V20261012-117",
+    "V20261018-106",
+    "V20261016-103",
+    "V20261016-119",
+    "V20261012-020",
+    "V20261012-019",
+    "V20261012-015",
+    "V20261012-018",
+    "V20261012-010",
+    "V20261012-006",
+    "V20261012-088",
+    "V20261012-004",
+    "V20261012-005",
+    "V20261012-007",
+    "V20261012-008",
+    "V20261012-009",
+    "V20261012-011",
+    "V20261012-013",
+    "V20261012-014",
+    "V20261012-016",
+    "V20261012-017",
+    "V20261012-021",
+    "V20261012-023",
+    "V20261012-025",
+    "V20261012-026",
+    "V20261012-028",
+    "V20261012-029",
+    "V20261012-030",
+    "V20261012-031",
+    "V20261012-032",
+    "V20261012-033",
+    "V20261012-034",
+    "V20261012-035",
+    "V20261012-036",
+    "V20261012-037",
+    "V20261012-038",
+    "V20261012-040"
+  ],
+  "records": [
+    {
+      "entryId": "V20261012-002",
+      "contextId": "V20261012-002-context",
+      "inputHash": "3797d7b095fef0a43371d964db8392786cfd9e0a82e5e444d27cef799ac51f07",
+      "status": "ready",
+      "data": {
+        "general": "目标；打算达成的结果；客观的；不受个人偏见左右",
+        "senses": [
+          {
+            "title": "目标；打算达成的结果",
+            "en": "the goal intended to be attained (and which is believed to be attainable)",
+            "meta": "n. · 精选学习义",
+            "example": "Our objective is to shorten the queue.",
+            "zh": "我们的目标是缩短队列。",
+            "credit": "原创教学例句",
+            "url": "https://en-word.net/"
+          },
+          {
+            "title": "客观的；不受个人偏见左右",
+            "en": "undistorted by emotion or personal bias; based on observable phenomena",
+            "meta": "adj. · 精选学习义",
+            "example": "We need an objective assessment.",
+            "zh": "我们需要客观的评估。",
+            "credit": "原创教学例句",
+            "url": "https://en-word.net/"
+          }
+        ],
+        "note": "Our objective is to…说明目标；an objective assessment中的objective是形容词“客观的”。",
+        "retrieved": "2026-11-16",
+        "retrieval": "versioned source cache",
+        "learningSource": "词义见各项来源；中文整理／例句来源分别标注"
+      },
+      "provenance": {
+        "sourceIds": [
+          "original-vocab",
+          "oewn-2025",
+          "history-objective"
+        ],
+        "selectionVersion": "1"
+      }
+    },
+    {
+      "entryId": "V20261012-012",
+      "contextId": "V20261012-012-context",
+      "inputHash": "b71a324ff79cc7cbd110f40efd43e4f9cd1352349118aa9b319874f4a2ec4247",
+      "status": "ready",
+      "data": {
+        "general": "容量；能够容纳的量；完成工作或生产的能力；身份；职能",
+        "senses": [
+          {
+            "title": "容量；能够容纳的量",
+            "en": "the amount that can be contained",
+            "meta": "n. · 精选学习义",
+            "example": "The tank has a capacity of 500 litres.",
+            "zh": "这个罐子的容量是500升。",
+            "credit": "原创教学例句",
+            "url": "https://en-word.net/"
+          },
+          {
+            "title": "完成工作或生产的能力",
+            "en": "capability to perform or produce",
+            "meta": "n. · 精选学习义",
+            "example": "The team has limited capacity this week.",
+            "zh": "团队这周能承担的工作有限。",
+            "credit": "原创教学例句",
+            "url": "https://en-word.net/"
+          },
+          {
+            "title": "身份；职能",
+            "en": "a specified function",
+            "meta": "n. · 精选学习义",
+            "example": "She attended in her capacity as an adviser.",
+            "zh": "她以顾问身份出席。",
+            "credit": "原创教学例句",
+            "url": "https://en-word.net/"
+          }
+        ],
+        "note": "have capacity to do说明能否承担工作；in one’s capacity as说明以何种身份。",
+        "retrieved": "2026-11-16",
+        "retrieval": "versioned source cache",
+        "learningSource": "词义见各项来源；中文整理／例句来源分别标注"
+      },
+      "provenance": {
+        "sourceIds": [
+          "original-vocab",
+          "oewn-2025",
+          "history-capacity"
+        ],
+        "selectionVersion": "1"
+      }
+    },
+    {
+      "entryId": "V20261012-022",
+      "contextId": "V20261012-022-context",
+      "inputHash": "94d60f06af39ea078b885ddb2c43994d969aa8686f396cdea1b95bd807b2f3ed",
+      "status": "ready",
+      "data": {
+        "general": "暂定的；尚未最终商定；试探性的；尚不确定的",
+        "senses": [
+          {
+            "title": "暂定的；尚未最终商定",
+            "en": "under terms not final or fully worked out or agreed upon",
+            "meta": "adj. · 精选学习义",
+            "example": "We have a tentative schedule.",
+            "zh": "我们有一份暂定日程。",
+            "credit": "原创教学例句",
+            "url": "https://en-word.net/"
+          },
+          {
+            "title": "试探性的；尚不确定的",
+            "en": "unsettled in mind or opinion",
+            "meta": "adj. · 精选学习义",
+            "example": "She offered a tentative explanation.",
+            "zh": "她提出了一个试探性的解释。",
+            "credit": "原创教学例句",
+            "url": "https://en-word.net/"
+          }
+        ],
+        "note": "暂定日期要保留确认条件；不要把tentative与confirmed混用。",
+        "retrieved": "2026-11-16",
+        "retrieval": "versioned source cache",
+        "learningSource": "词义见各项来源；中文整理／例句来源分别标注"
+      },
+      "provenance": {
+        "sourceIds": [
+          "original-vocab",
+          "oewn-2025"
+        ],
+        "selectionVersion": "1"
+      }
+    },
+    {
+      "entryId": "V20261012-024",
+      "contextId": "V20261012-024-context",
+      "inputHash": "5a04f1e55b4d55a1284b2bd05c7a0e7c11f58c12d5a4c2ba00baccedf36e31af",
+      "status": "ready",
+      "data": {
+        "general": "尚待处理或确认的",
+        "senses": [
+          {
+            "title": "尚待处理或确认的",
+            "en": "awaiting conclusion or confirmation",
+            "meta": "adj. · 精选学习义",
+            "example": "The request is still pending.",
+            "zh": "该请求仍待处理。",
+            "credit": "原创教学例句",
+            "url": "https://en-word.net/"
+          }
+        ],
+        "note": "pending描述未决状态；它既不是approved，也不是rejected。",
+        "retrieved": "2026-11-16",
+        "retrieval": "versioned source cache",
+        "learningSource": "词义见各项来源；中文整理／例句来源分别标注"
+      },
+      "provenance": {
+        "sourceIds": [
+          "original-vocab",
+          "oewn-2025"
+        ],
+        "selectionVersion": "1"
+      }
+    },
+    {
+      "entryId": "V20261012-053",
+      "contextId": "V20261012-053-context",
+      "inputHash": "b064a394e94c9793787a4570716c7851fc2048c5d8587b9c14a571464c9160f9",
+      "status": "ready",
+      "data": {
+        "general": "预订；提前保留的位置；保留意见；顾虑",
+        "senses": [
+          {
+            "title": "预订；提前保留的位置",
+            "en": "something reserved in advance (as a hotel accommodation or a seat on a plane etc.)",
+            "meta": "n. · 精选学习义",
+            "example": "We have a reservation for two people.",
+            "zh": "我们预订了两个人的位置。",
+            "credit": "原创教学例句",
+            "url": "https://en-word.net/"
+          },
+          {
+            "title": "保留意见；顾虑",
+            "en": "an unstated doubt that prevents you from accepting something wholeheartedly",
+            "meta": "n. · 精选学习义",
+            "example": "I have reservations about the proposal.",
+            "zh": "我对这个提议有保留意见。",
+            "credit": "原创教学例句",
+            "url": "https://en-word.net/"
+          }
+        ],
+        "note": "复数reservations about常表示顾虑；a reservation for通常说明预订对象。",
+        "retrieved": "2026-11-16",
+        "retrieval": "versioned source cache",
+        "learningSource": "词义见各项来源；中文整理／例句来源分别标注"
+      },
+      "provenance": {
+        "sourceIds": [
+          "original-vocab",
+          "oewn-2025",
+          "history-reservation"
+        ],
+        "selectionVersion": "1"
+      }
+    },
+    {
+      "entryId": "V20261012-078",
+      "contextId": "V20261012-078-context",
+      "inputHash": "a663a010355135f09ef2dc0f4d54d4a6c6c4cec3a57f1a897adf802dc86bdcf6",
+      "status": "ready",
+      "data": {
+        "general": "符合条件；取得资格；使具备条件或能力",
+        "senses": [
+          {
+            "title": "符合条件；取得资格",
+            "en": "prove capable or fit; meet requirements",
+            "meta": "v. · 精选学习义",
+            "example": "You must meet the criteria to qualify.",
+            "zh": "你必须满足标准才符合资格。",
+            "credit": "原创教学例句",
+            "url": "https://en-word.net/"
+          },
+          {
+            "title": "使具备条件或能力",
+            "en": "make fit or prepared",
+            "meta": "v. · 精选学习义",
+            "example": "The course qualifies staff to perform the inspection.",
+            "zh": "这门课程使员工具备开展该项检验的资格。",
+            "credit": "原创教学例句",
+            "url": "https://en-word.net/"
+          }
+        ],
+        "note": "qualify for a role谈资格；qualify a statement谈给说法加限定。",
+        "retrieved": "2026-11-16",
+        "retrieval": "versioned source cache",
+        "learningSource": "词义见各项来源；中文整理／例句来源分别标注"
+      },
+      "provenance": {
+        "sourceIds": [
+          "original-vocab",
+          "oewn-2025",
+          "cambridge-qualify",
+          "history-qualify"
+        ],
+        "selectionVersion": "1"
+      }
+    },
+    {
+      "entryId": "V20261012-076",
+      "contextId": "V20261012-076-context",
+      "inputHash": "7301945be80605cc99f343bcd5c3bbd323cd8cbdae0212a9f171459831665441",
+      "status": "ready",
+      "data": {
+        "general": "根据已有信息推断；猜中；凭猜测推知",
+        "senses": [
+          {
+            "title": "根据已有信息推断",
+            "en": "conclude by reasoning; in logic",
+            "meta": "v. · 精选学习义",
+            "example": "We can infer the trend from these measurements.",
+            "zh": "我们可以从这些测量值推断趋势。",
+            "credit": "原创教学例句",
+            "url": "https://en-word.net/"
+          },
+          {
+            "title": "猜中；凭猜测推知",
+            "en": "guess correctly; solve by guessing",
+            "meta": "v. · 精选学习义",
+            "example": "She inferred the answer from a few clues.",
+            "zh": "她凭几个线索推知了答案。",
+            "credit": "原创教学例句",
+            "url": "https://en-word.net/"
+          }
+        ],
+        "note": "infer a conclusion from evidence把结论与依据分开；缺回复不是批准证据。",
+        "retrieved": "2026-11-16",
+        "retrieval": "versioned source cache",
+        "learningSource": "词义见各项来源；中文整理／例句来源分别标注"
+      },
+      "provenance": {
+        "sourceIds": [
+          "original-vocab",
+          "oewn-2025"
+        ],
+        "selectionVersion": "1"
+      }
+    },
+    {
+      "entryId": "V20261012-093",
+      "contextId": "V20261012-093-context",
+      "inputHash": "982ac1b5935a5c198a484f5a443719b75ecf28c62687c07652c7c6d7291f9734",
+      "status": "ready",
+      "data": {
+        "general": "只要；在……条件下",
+        "senses": [
+          {
+            "title": "只要；在……条件下",
+            "en": "if, or only if",
+            "meta": "conj. · 精选学习义",
+            "example": "You may enter provided that you wear safety glasses.",
+            "zh": "只要戴上护目镜，你就可以进入。",
+            "credit": "原创教学例句",
+            "url": "https://dictionary.cambridge.org/dictionary/english/provided"
+          }
+        ],
+        "note": "条件从句必须和主句一起转述；删掉provided that会改变承诺范围。",
+        "retrieved": "2026-11-16",
+        "retrieval": "versioned source cache",
+        "learningSource": "词义见各项来源；中文整理／例句来源分别标注"
+      },
+      "provenance": {
+        "sourceIds": [
+          "original-vocab",
+          "oewn-2025",
+          "cambridge-provided"
+        ],
+        "selectionVersion": "1"
+      }
+    },
+    {
+      "entryId": "V20261012-100",
+      "contextId": "V20261012-100-context",
+      "inputHash": "21e0a1bbbff2a572e5a21fd04180d33a1856a8d33547480149690892888a3037",
+      "status": "ready",
+      "data": {
+        "general": "不一定；并非必然",
+        "senses": [
+          {
+            "title": "不一定；并非必然",
+            "en": "not for certain",
+            "meta": "adv. · 精选学习义",
+            "example": "A larger machine is not necessarily faster.",
+            "zh": "更大的机器不一定更快。",
+            "credit": "原创教学例句",
+            "url": "https://dictionary.cambridge.org/dictionary/learner-english/necessarily"
+          }
+        ],
+        "note": "not necessarily否定必然性；不是说相反情况必然成立。",
+        "retrieved": "2026-11-16",
+        "retrieval": "versioned source cache",
+        "learningSource": "词义见各项来源；中文整理／例句来源分别标注"
+      },
+      "provenance": {
+        "sourceIds": [
+          "original-vocab",
+          "oewn-2025",
+          "cambridge-necessarily"
+        ],
+        "selectionVersion": "1"
+      }
+    },
+    {
+      "entryId": "V20261014-075",
+      "contextId": "V20261014-075-context",
+      "inputHash": "dff9b7bc36d66e3b3d216e380a712811a6731e87d31f3bdc57d2df5f32d2cd27",
+      "status": "ready",
+      "data": {
+        "general": "为规定要求取得符合性证据的方法",
+        "senses": [
+          {
+            "title": "verification（组成词／独立词目）：核实；用额外证据确认",
+            "en": "additional proof that something that was believed (some fact or hypothesis or theory) is correct",
+            "meta": "n. · 精选学习义",
+            "example": "We need independent verification of the figures.",
+            "zh": "这些数字需要独立核实。",
+            "credit": "原创教学例句",
+            "url": "https://en-word.net/"
+          },
+          {
+            "title": "method（组成词／独立词目）：方法；有系统的做法",
+            "en": "a way of doing something, especially a systematic way; implies an orderly logical arrangement (usually in steps)",
+            "meta": "n. · 精选学习义",
+            "example": "We need a repeatable method.",
+            "zh": "我们需要可重复的方法。",
+            "credit": "原创教学例句",
+            "url": "https://en-word.net/"
+          }
+        ],
+        "note": "工程判准是规定要求；测试只是可能方法之一，不能把普通核实义当完整工程定义。",
+        "retrieved": "2026-11-16",
+        "retrieval": "versioned source cache",
+        "learningSource": "词义见各项来源；中文整理／例句来源分别标注"
+      },
+      "provenance": {
+        "sourceIds": [
+          "original-vocab",
+          "oewn-2025",
+          "nasa-verification"
+        ],
+        "selectionVersion": "1"
+      }
+    },
+    {
+      "entryId": "V20261014-076",
+      "contextId": "V20261014-076-context",
+      "inputHash": "bd5fa56608e7cde31686ee6d7034b9609d4bad55293665b376e54562615fd35c",
+      "status": "ready",
+      "data": {
+        "general": "确认预定用途适用性的方法",
+        "senses": [
+          {
+            "title": "validation（组成词／独立词目）：确认有效性；检验是否成立",
+            "en": "the act of validating; finding or testing the truth of something",
+            "meta": "n. · 精选学习义",
+            "example": "The model requires further validation.",
+            "zh": "这个模型还需要进一步确认有效性。",
+            "credit": "原创教学例句",
+            "url": "https://en-word.net/"
+          },
+          {
+            "title": "method（组成词／独立词目）：方法；系统做法",
+            "en": "a way of doing something, especially a systematic way; implies an orderly logical arrangement (usually in steps)",
+            "meta": "n. · 精选学习义",
+            "example": "We changed the method, not the objective.",
+            "zh": "我们改变的是方法，不是目标。",
+            "credit": "原创教学例句",
+            "url": "https://en-word.net/"
+          }
+        ],
+        "note": "工程判准是预定用途和使用环境；与逐项验证规定要求分开问。",
+        "retrieved": "2026-11-16",
+        "retrieval": "versioned source cache",
+        "learningSource": "词义见各项来源；中文整理／例句来源分别标注"
+      },
+      "provenance": {
+        "sourceIds": [
+          "original-vocab",
+          "oewn-2025",
+          "nasa-validation"
+        ],
+        "selectionVersion": "1"
+      }
+    },
+    {
+      "entryId": "V20261029-005",
+      "contextId": "V20261029-005-context",
+      "inputHash": "ce3825acecdaf83fc315b1b2eae24ec4effb2de76b93db7f22b8d9c919a7d7f8",
+      "status": "ready",
+      "data": {
+        "general": "暂供当前讨论和判断使用的定义",
+        "senses": [
+          {
+            "title": "working（组成词／独立词目）：暂用作进一步工作的",
+            "en": "adopted as a temporary basis for further work",
+            "meta": "adj. · 精选学习义",
+            "example": "This is a working assumption.",
+            "zh": "这是暂用的工作假设。",
+            "credit": "原创教学例句",
+            "url": "https://en-word.net/"
+          },
+          {
+            "title": "definition（组成词／独立词目）：定义；对含义的简要说明",
+            "en": "a concise explanation of the meaning of a word or phrase or symbol",
+            "meta": "n. · 精选学习义",
+            "example": "Please give a clear definition of the term.",
+            "zh": "请清楚定义这个术语。",
+            "credit": "原创教学例句",
+            "url": "https://en-word.net/"
+          }
+        ],
+        "note": "working在这个组合中表示暂供工作使用；不表示定义正在运转。",
+        "retrieved": "2026-11-16",
+        "retrieval": "versioned source cache",
+        "learningSource": "词义见各项来源；中文整理／例句来源分别标注"
+      },
+      "provenance": {
+        "sourceIds": [
+          "original-vocab",
+          "oewn-2025"
+        ],
+        "selectionVersion": "1"
+      }
+    },
+    {
+      "entryId": "V20261014-003",
+      "contextId": "V20261014-003-context",
+      "inputHash": "7b38fb061af544f1e3758ffd1ce2cab92007a0c69fdd5f08dd573fb4a2402e1a",
+      "status": "ready",
+      "data": {
+        "general": "组织、界定问题的表述方式",
+        "senses": [
+          {
+            "title": "frame（组成词／独立词目）：画框；镜框",
+            "en": "a framework that supports and protects a picture or a mirror",
+            "meta": "n. · 精选学习义",
+            "example": "The photograph is in a wooden frame.",
+            "zh": "照片装在木框里。",
+            "credit": "原创教学例句",
+            "url": "https://en-word.net/"
+          },
+          {
+            "title": "frame（组成词／独立词目）：以特定方式组织或表述",
+            "en": "formulate in a particular style or language",
+            "meta": "v. · 精选学习义",
+            "example": "She framed the question carefully.",
+            "zh": "她仔细组织了问题的表述。",
+            "credit": "原创教学例句",
+            "url": "https://en-word.net/"
+          }
+        ],
+        "note": "frame在这里是动词“组织表述”；界定问题还不是解决问题。",
+        "retrieved": "2026-11-16",
+        "retrieval": "versioned source cache",
+        "learningSource": "词义见各项来源；中文整理／例句来源分别标注"
+      },
+      "provenance": {
+        "sourceIds": [
+          "original-vocab",
+          "oewn-2025"
+        ],
+        "selectionVersion": "1"
+      }
+    },
+    {
+      "entryId": "V20261012-117",
+      "contextId": "V20261012-117-context",
+      "inputHash": "b396eb4eb123b4dde70f3959ee21bf896bcf96b2ffefc39fa7b2940eacf1366e",
+      "status": "ready",
+      "data": {
+        "general": "解释；说明原因",
+        "senses": [
+          {
+            "title": "解释；说明原因",
+            "en": "give reasons for",
+            "meta": "v. · 精选学习义",
+            "example": "Can you account for the difference?",
+            "zh": "你能解释这个差异吗？",
+            "credit": "原创教学例句",
+            "url": "https://en-word.net/"
+          }
+        ],
+        "note": "本句的比例义与“解释原因”义分开；most of后的总体范围不能省略。",
+        "retrieved": "2026-11-16",
+        "retrieval": "versioned source cache",
+        "learningSource": "词义见各项来源；中文整理／例句来源分别标注"
+      },
+      "provenance": {
+        "sourceIds": [
+          "original-vocab",
+          "oewn-2025",
+          "cambridge-account-for"
+        ],
+        "selectionVersion": "1"
+      }
+    },
+    {
+      "entryId": "V20261018-106",
+      "contextId": "V20261018-106-context",
+      "inputHash": "e3b4e4f98b768d36cf81cf5898371ae46d28667c0ac26e120263fd27f76bbcce",
+      "status": "ready",
+      "data": {
+        "general": "在民意调查中处于领先位置",
+        "senses": [
+          {
+            "title": "lead（组成词／独立词目）：带领；负责领导",
+            "en": "be in charge of",
+            "meta": "v. · 精选学习义",
+            "example": "She leads the engineering team.",
+            "zh": "她带领工程团队。",
+            "credit": "原创教学例句",
+            "url": "https://en-word.net/"
+          },
+          {
+            "title": "lead（组成词／独立词目）：领先；处于前面",
+            "en": "be ahead of others; be the first",
+            "meta": "v. · 精选学习义",
+            "example": "Our team leads by two points.",
+            "zh": "我们队领先两分。",
+            "credit": "原创教学例句",
+            "url": "https://en-word.net/"
+          }
+        ],
+        "note": "在民调中领先不等于赢得选举；lead在领导、领先两义中都读长元音。",
+        "retrieved": "2026-11-16",
+        "retrieval": "versioned source cache",
+        "learningSource": "词义见各项来源；中文整理／例句来源分别标注"
+      },
+      "provenance": {
+        "sourceIds": [
+          "original-vocab",
+          "oewn-2025"
+        ],
+        "selectionVersion": "1"
+      }
+    },
+    {
+      "entryId": "V20261016-103",
+      "contextId": "V20261016-103-context",
+      "inputHash": "4bf49d777b97ab45764b7bf74fded6fcb5d4f7e268fea9cf06099e044834ded3",
+      "status": "ready",
+      "data": {
+        "general": "轻信的；缺少证据也容易相信",
+        "senses": [
+          {
+            "title": "轻信的；缺少证据也容易相信",
+            "en": "disposed to believe on little evidence",
+            "meta": "adj. · 精选学习义",
+            "example": "A credulous reader may accept the story without checking it.",
+            "zh": "轻信的读者可能未经核查就相信这个故事。",
+            "credit": "原创教学例句",
+            "url": "https://en-word.net/"
+          }
+        ],
+        "note": "credulous说人轻信；credible说内容或来源可信，评价方向不同。",
+        "retrieved": "2026-11-16",
+        "retrieval": "versioned source cache",
+        "learningSource": "词义见各项来源；中文整理／例句来源分别标注"
+      },
+      "provenance": {
+        "sourceIds": [
+          "original-vocab",
+          "oewn-2025"
+        ],
+        "selectionVersion": "1"
+      }
+    },
+    {
+      "entryId": "V20261016-119",
+      "contextId": "V20261016-119-context",
+      "inputHash": "6108dec12e26cc8a2a2e433091f76ddf1d5474989e6ea039ed12af19929c5069",
+      "status": "ready",
+      "data": {
+        "general": "通胀带来的突然冲击",
+        "senses": [
+          {
+            "title": "inflation（组成词／独立词目）：通货膨胀；总体价格上涨",
+            "en": "a general and progressive increase in prices",
+            "meta": "n. · 精选学习义",
+            "example": "Inflation has reduced purchasing power.",
+            "zh": "通货膨胀降低了购买力。",
+            "credit": "原创教学例句",
+            "url": "https://en-word.net/"
+          },
+          {
+            "title": "shock（组成词／独立词目）：冲击；突然而强烈的打击",
+            "en": "a sudden, unexpected, and often unpleasant or offensive event",
+            "meta": "n. · 精选学习义",
+            "example": "The closure came as a shock to the town.",
+            "zh": "工厂关闭给这座城镇带来了冲击。",
+            "credit": "原创教学例句",
+            "url": "https://dictionary.cambridge.org/us/dictionary/english/shock"
+          }
+        ],
+        "note": "按本句作普通组合解释；不把家庭承受压力改写为某个宏观经济模型的确定预测。",
+        "retrieved": "2026-11-16",
+        "retrieval": "versioned source cache",
+        "learningSource": "词义见各项来源；中文整理／例句来源分别标注"
+      },
+      "provenance": {
+        "sourceIds": [
+          "original-vocab",
+          "oewn-2025",
+          "cambridge-shock"
+        ],
+        "selectionVersion": "1"
+      }
+    },
+    {
+      "entryId": "V20261012-020",
+      "contextId": "V20261012-020-context",
+      "inputHash": "062415241017061b5f299e75b0296c952f71fb786a5b4343e3e15a24d278ab17",
+      "status": "ready",
+      "data": {
+        "general": "权衡；获得一方面而牺牲另一方面",
+        "senses": [
+          {
+            "title": "权衡；获得一方面而牺牲另一方面",
+            "en": "an exchange that occurs as a compromise",
+            "meta": "n. · 精选学习义",
+            "example": "There is a trade-off between speed and accuracy.",
+            "zh": "速度与准确性之间存在权衡。",
+            "credit": "原创教学例句",
+            "url": "https://en-word.net/"
+          }
+        ],
+        "note": "between后说明取舍两端；有权衡不等于某个方案已被选定。",
+        "retrieved": "2026-11-16",
+        "retrieval": "versioned source cache",
+        "learningSource": "词义见各项来源；中文整理／例句来源分别标注"
+      },
+      "provenance": {
+        "sourceIds": [
+          "original-vocab",
+          "oewn-2025"
+        ],
+        "selectionVersion": "1"
+      }
+    },
+    {
+      "entryId": "V20261012-019",
+      "contextId": "V20261012-019-context",
+      "inputHash": "0bc917a95325a87221cd61491ae141262b31fc44da79c80aa4a59ec058d6c7a4",
+      "status": "ready",
+      "data": {
+        "general": "可能发生的意外情况",
+        "senses": [
+          {
+            "title": "可能发生的意外情况",
+            "en": "a possible event or occurrence or result",
+            "meta": "n. · 精选学习义",
+            "example": "We need to prepare for this contingency.",
+            "zh": "我们需要为这种可能情况作准备。",
+            "credit": "原创教学例句",
+            "url": "https://en-word.net/"
+          }
+        ],
+        "note": "contingency plan须说明针对什么可能情况；提出预案不表示触发条件已发生。",
+        "retrieved": "2026-11-16",
+        "retrieval": "versioned source cache",
+        "learningSource": "词义见各项来源；中文整理／例句来源分别标注"
+      },
+      "provenance": {
+        "sourceIds": [
+          "original-vocab",
+          "oewn-2025"
+        ],
+        "selectionVersion": "1"
+      }
+    },
+    {
+      "entryId": "V20261012-015",
+      "contextId": "V20261012-015-context",
+      "inputHash": "4be3fd61b07beaffbbbd38c1b23cfcc7403e342253378dbbf3334d46f7eafc0e",
+      "status": "ready",
+      "data": {
+        "general": "所有权；拥有的权利；拥有某物的状态",
+        "senses": [
+          {
+            "title": "所有权；拥有的权利",
+            "en": "the relation of an owner to the thing possessed; possession with the right to transfer possession to others",
+            "meta": "n. · 精选学习义",
+            "example": "Ownership of the equipment will transfer in June.",
+            "zh": "设备所有权将在六月转移。",
+            "credit": "原创教学例句",
+            "url": "https://en-word.net/"
+          },
+          {
+            "title": "拥有某物的状态",
+            "en": "the state or fact of being an owner",
+            "meta": "n. · 精选学习义",
+            "example": "The building is in public ownership.",
+            "zh": "这栋建筑属于公有。",
+            "credit": "原创教学例句",
+            "url": "https://en-word.net/"
+          }
+        ],
+        "note": "take ownership of an issue是承担事项责任；不自动取得财产权或批准权。",
+        "retrieved": "2026-11-16",
+        "retrieval": "versioned source cache",
+        "learningSource": "词义见各项来源；中文整理／例句来源分别标注"
+      },
+      "provenance": {
+        "sourceIds": [
+          "original-vocab",
+          "oewn-2025",
+          "cambridge-ownership"
+        ],
+        "selectionVersion": "1"
+      }
+    },
+    {
+      "entryId": "V20261012-018",
+      "contextId": "V20261012-018-context",
+      "inputHash": "eff5c78415cfbee676831577dc627a9c11ab04a605618c51ee9f9a89e167d694",
+      "status": "ready",
+      "data": {
+        "general": "承诺；表示会做某事；投入；坚定致力于某事",
+        "senses": [
+          {
+            "title": "承诺；表示会做某事",
+            "en": "a message that makes a pledge",
+            "meta": "n. · 精选学习义",
+            "example": "We made a commitment to respond by Friday.",
+            "zh": "我们承诺在星期五前回复。",
+            "credit": "原创教学例句",
+            "url": "https://en-word.net/"
+          },
+          {
+            "title": "投入；坚定致力于某事",
+            "en": "the trait of sincere and steadfast fixity of purpose",
+            "meta": "n. · 精选学习义",
+            "example": "Her commitment to quality is clear.",
+            "zh": "她对质量的投入很明显。",
+            "credit": "原创教学例句",
+            "url": "https://en-word.net/"
+          }
+        ],
+        "note": "承诺要连同条件一起理解；commitment to quality常表示持续投入。",
+        "retrieved": "2026-11-16",
+        "retrieval": "versioned source cache",
+        "learningSource": "词义见各项来源；中文整理／例句来源分别标注"
+      },
+      "provenance": {
+        "sourceIds": [
+          "original-vocab",
+          "oewn-2025"
+        ],
+        "selectionVersion": "1"
+      }
+    },
+    {
+      "entryId": "V20261012-010",
+      "contextId": "V20261012-010-context",
+      "inputHash": "46b19c3e140fd20fb04b2820e0d9dbe3c88c6e7a72de391c77c6c8c776752da2",
+      "status": "ready",
+      "data": {
+        "general": "缓冲；减少风险或冲击的余量；缓冲装置；减少碰撞冲击的设备",
+        "senses": [
+          {
+            "title": "缓冲；减少风险或冲击的余量",
+            "en": "something or someone that helps protect from harm, risk, or problems",
+            "meta": "n. · 精选学习义",
+            "example": "We keep a time buffer for unexpected delays.",
+            "zh": "我们为意外延误预留时间缓冲。",
+            "credit": "原创教学例句",
+            "url": "https://dictionary.cambridge.org/dictionary/english/buffer?q=buffers"
+          },
+          {
+            "title": "缓冲装置；减少碰撞冲击的设备",
+            "en": "a cushion-like device that reduces shock due to an impact",
+            "meta": "n. · 精选学习义",
+            "example": "The buffer reduces the impact.",
+            "zh": "缓冲装置减轻冲击。",
+            "credit": "原创教学例句",
+            "url": "https://en-word.net/"
+          }
+        ],
+        "note": "时间buffer是余量；不是活动本身工期，也不是新的截止日期。",
+        "retrieved": "2026-11-16",
+        "retrieval": "versioned source cache",
+        "learningSource": "词义见各项来源；中文整理／例句来源分别标注"
+      },
+      "provenance": {
+        "sourceIds": [
+          "original-vocab",
+          "oewn-2025",
+          "cambridge-buffer"
+        ],
+        "selectionVersion": "1"
+      }
+    },
+    {
+      "entryId": "V20261012-006",
+      "contextId": "V20261012-006-context",
+      "inputHash": "c81579395b9725bebf0dcd654f8e9c1f34feeb257d5ae86ae20052888514c6d1",
+      "status": "ready",
+      "data": {
+        "general": "约束；限制行动的条件；受约束的状态",
+        "senses": [
+          {
+            "title": "约束；限制行动的条件",
+            "en": "something that controls what you do by keeping you within particular limits",
+            "meta": "n. · 精选学习义",
+            "example": "Space is a major constraint in this workshop.",
+            "zh": "空间是这个车间的重要限制条件。",
+            "credit": "原创教学例句",
+            "url": "https://dictionary.cambridge.org/dictionary/english/constraint"
+          },
+          {
+            "title": "受约束的状态",
+            "en": "the state of being physically constrained",
+            "meta": "n. · 精选学习义",
+            "example": "The mechanism moves under constraint.",
+            "zh": "该机构在受约束状态下运动。",
+            "credit": "原创教学例句",
+            "url": "https://en-word.net/"
+          }
+        ],
+        "note": "main constraint是主要限制，不是唯一限制；先辨别限制是已知还是未来风险。",
+        "retrieved": "2026-11-16",
+        "retrieval": "versioned source cache",
+        "learningSource": "词义见各项来源；中文整理／例句来源分别标注"
+      },
+      "provenance": {
+        "sourceIds": [
+          "original-vocab",
+          "oewn-2025",
+          "cambridge-constraint"
+        ],
+        "selectionVersion": "1"
+      }
+    },
+    {
+      "entryId": "V20261012-088",
+      "contextId": "V20261012-088-context",
+      "inputHash": "ed088c0af1d036f7a4092c534e7df4330df47c5ca6caf5409c46ac1b1d599c48",
+      "status": "ready",
+      "data": {
+        "general": "初步的；为后续阶段作准备的",
+        "senses": [
+          {
+            "title": "初步的；为后续阶段作准备的",
+            "en": "denoting an action or event preceding or in preparation for something more important",
+            "meta": "adj. · 精选学习义",
+            "example": "These are preliminary observations.",
+            "zh": "这些是初步观察结果。",
+            "credit": "原创教学例句",
+            "url": "https://en-word.net/"
+          }
+        ],
+        "note": "preliminary findings是初步发现；不要在汇报中省略原句的非最终结论限定。",
+        "retrieved": "2026-11-16",
+        "retrieval": "versioned source cache",
+        "learningSource": "词义见各项来源；中文整理／例句来源分别标注"
+      },
+      "provenance": {
+        "sourceIds": [
+          "original-vocab",
+          "oewn-2025"
+        ],
+        "selectionVersion": "1"
+      }
+    },
+    {
+      "entryId": "V20261012-004",
+      "contextId": "V20261012-004-context",
+      "inputHash": "e68471c8819948401418f56f0deb7e0f6e10d7dce6844e4265ea272e3ac4a1e6",
+      "status": "ready",
+      "data": {
+        "general": "重要阶段；里程碑事件；路旁标示距离的里程碑",
+        "senses": [
+          {
+            "title": "重要阶段；里程碑事件",
+            "en": "a significant event in your life (or in a project)",
+            "meta": "n. · 精选学习义",
+            "example": "The first shipment is an important milestone.",
+            "zh": "首次发货是一个重要里程碑。",
+            "credit": "原创教学例句",
+            "url": "https://en-word.net/"
+          },
+          {
+            "title": "路旁标示距离的里程碑",
+            "en": "stone post at side of a road to show distances",
+            "meta": "n. · 精选学习义",
+            "example": "A milestone stood beside the old road.",
+            "zh": "旧路旁立着一块里程碑。",
+            "credit": "原创教学例句",
+            "url": "https://en-word.net/"
+          }
+        ],
+        "note": "常说reach/achieve a milestone；不要把每一项小任务都自动译成里程碑。",
+        "retrieved": "2026-11-16",
+        "retrieval": "versioned source cache",
+        "learningSource": "词义见各项来源；中文整理／例句来源分别标注"
+      },
+      "provenance": {
+        "sourceIds": [
+          "original-vocab",
+          "oewn-2025"
+        ],
+        "selectionVersion": "1"
+      }
+    },
+    {
+      "entryId": "V20261012-005",
+      "contextId": "V20261012-005-context",
+      "inputHash": "22424616af451c328af8acd26be339ad4eea6eea116e49eefb83718198d79c48",
+      "status": "ready",
+      "data": {
+        "general": "优先事项；重要或紧迫程度；时间上在先；先后地位",
+        "senses": [
+          {
+            "title": "优先事项；重要或紧迫程度",
+            "en": "status established in order of importance or urgency",
+            "meta": "n. · 精选学习义",
+            "example": "Safety is our first priority.",
+            "zh": "安全是我们的首要事项。",
+            "credit": "原创教学例句",
+            "url": "https://en-word.net/"
+          },
+          {
+            "title": "时间上在先；先后地位",
+            "en": "preceding in time",
+            "meta": "n. · 精选学习义",
+            "example": "The earlier filing has priority in time.",
+            "zh": "较早的申请在时间上在先。",
+            "credit": "原创教学例句",
+            "url": "https://en-word.net/"
+          }
+        ],
+        "note": "priority可数；set priorities强调确定先后，give priority to强调优先照顾某项。",
+        "retrieved": "2026-11-16",
+        "retrieval": "versioned source cache",
+        "learningSource": "词义见各项来源；中文整理／例句来源分别标注"
+      },
+      "provenance": {
+        "sourceIds": [
+          "original-vocab",
+          "oewn-2025"
+        ],
+        "selectionVersion": "1"
+      }
+    },
+    {
+      "entryId": "V20261012-007",
+      "contextId": "V20261012-007-context",
+      "inputHash": "2942b18bd73aed4ce581712a9ea38507247d1e0caa14849222767b25219b4e7b",
+      "status": "ready",
+      "data": {
+        "general": "依赖；受另一事物制约的状态；对成瘾物质的依赖",
+        "senses": [
+          {
+            "title": "依赖；受另一事物制约的状态",
+            "en": "the state of relying on or being controlled by someone or something else",
+            "meta": "n. · 精选学习义",
+            "example": "The plan has a dependency on supplier data.",
+            "zh": "该计划依赖供应商数据。",
+            "credit": "原创教学例句",
+            "url": "https://en-word.net/"
+          },
+          {
+            "title": "对成瘾物质的依赖",
+            "en": "being abnormally tolerant to and dependent on something that is psychologically or physically habit-forming (especially alcohol or narcotic drugs)",
+            "meta": "n. · 精选学习义",
+            "example": "The report discusses drug dependency.",
+            "zh": "报告讨论了药物依赖。",
+            "credit": "原创教学例句",
+            "url": "https://en-word.net/"
+          }
+        ],
+        "note": "dependency on说明依赖对象；项目里复数dependencies常指多项依赖关系。",
+        "retrieved": "2026-11-16",
+        "retrieval": "versioned source cache",
+        "learningSource": "词义见各项来源；中文整理／例句来源分别标注"
+      },
+      "provenance": {
+        "sourceIds": [
+          "original-vocab",
+          "oewn-2025"
+        ],
+        "selectionVersion": "1"
+      }
+    },
+    {
+      "entryId": "V20261012-008",
+      "contextId": "V20261012-008-context",
+      "inputHash": "85a13d75df2ddf6fa0fa3f861588ebeaf4189f62c8e21dd49cd4fe11e5a6f6e8",
+      "status": "ready",
+      "data": {
+        "general": "作为推理依据而暂时接受的假设；接任；取得权力或职责",
+        "senses": [
+          {
+            "title": "作为推理依据而暂时接受的假设",
+            "en": "a statement that is assumed to be true and from which a conclusion can be drawn",
+            "meta": "n. · 精选学习义",
+            "example": "Our estimate rests on one assumption.",
+            "zh": "我们的估算建立在一个假设上。",
+            "credit": "原创教学例句",
+            "url": "https://en-word.net/"
+          },
+          {
+            "title": "接任；取得权力或职责",
+            "en": "the act of taking possession of or power over something",
+            "meta": "n. · 精选学习义",
+            "example": "The assumption of responsibility was gradual.",
+            "zh": "职责的接手是逐步完成的。",
+            "credit": "原创教学例句",
+            "url": "https://en-word.net/"
+          }
+        ],
+        "note": "make an assumption是作假设；check an assumption是核查，二者的证据状态不同。",
+        "retrieved": "2026-11-16",
+        "retrieval": "versioned source cache",
+        "learningSource": "词义见各项来源；中文整理／例句来源分别标注"
+      },
+      "provenance": {
+        "sourceIds": [
+          "original-vocab",
+          "oewn-2025"
+        ],
+        "selectionVersion": "1"
+      }
+    },
+    {
+      "entryId": "V20261012-009",
+      "contextId": "V20261012-009-context",
+      "inputHash": "202d61ad22d0653f97fa23479a8f6642e0e339d13c92e31725bdca39483de142",
+      "status": "ready",
+      "data": {
+        "general": "用于比较的基准；网球场底线",
+        "senses": [
+          {
+            "title": "用于比较的基准",
+            "en": "an imaginary line or standard by which things are measured or compared",
+            "meta": "n. · 精选学习义",
+            "example": "We recorded a baseline before the trial.",
+            "zh": "我们在试验前记录了基准。",
+            "credit": "原创教学例句",
+            "url": "https://en-word.net/"
+          },
+          {
+            "title": "网球场底线",
+            "en": "the back line bounding each end of a tennis or handball court; when serving the server must not step over this line",
+            "meta": "n. · 精选学习义",
+            "example": "The player waited behind the baseline.",
+            "zh": "球员在底线后等候。",
+            "credit": "原创教学例句",
+            "url": "https://en-word.net/"
+          }
+        ],
+        "note": "baseline与target分开记：前者用于对照，后者用于追求。",
+        "retrieved": "2026-11-16",
+        "retrieval": "versioned source cache",
+        "learningSource": "词义见各项来源；中文整理／例句来源分别标注"
+      },
+      "provenance": {
+        "sourceIds": [
+          "original-vocab",
+          "oewn-2025"
+        ],
+        "selectionVersion": "1"
+      }
+    },
+    {
+      "entryId": "V20261012-011",
+      "contextId": "V20261012-011-context",
+      "inputHash": "3f33cf961ebe472a5e57ca604811f04b10b7c4290aad221cdef82ab4f0671a60",
+      "status": "ready",
+      "data": {
+        "general": "按次序排列的一系列事物；按次序安排",
+        "senses": [
+          {
+            "title": "按次序排列的一系列事物",
+            "en": "serial arrangement in which things follow in logical order or a recurrent pattern",
+            "meta": "n. · 精选学习义",
+            "example": "Please follow this sequence of steps.",
+            "zh": "请遵循这个步骤顺序。",
+            "credit": "原创教学例句",
+            "url": "https://en-word.net/"
+          },
+          {
+            "title": "按次序安排",
+            "en": "arrange in a sequence",
+            "meta": "v. · 精选学习义",
+            "example": "We need to sequence the tests carefully.",
+            "zh": "我们需要仔细安排测试次序。",
+            "credit": "原创教学例句",
+            "url": "https://en-word.net/"
+          }
+        ],
+        "note": "名词the sequence of…；动词sequence the activities。",
+        "retrieved": "2026-11-16",
+        "retrieval": "versioned source cache",
+        "learningSource": "词义见各项来源；中文整理／例句来源分别标注"
+      },
+      "provenance": {
+        "sourceIds": [
+          "original-vocab",
+          "oewn-2025"
+        ],
+        "selectionVersion": "1"
+      }
+    },
+    {
+      "entryId": "V20261012-013",
+      "contextId": "V20261012-013-context",
+      "inputHash": "14a8dd156abd9b2cbffbd649271ea8231d9abe9892ebae224c1a35011573177e",
+      "status": "ready",
+      "data": {
+        "general": "按计划分配资源或作专门用途",
+        "senses": [
+          {
+            "title": "按计划分配资源或作专门用途",
+            "en": "distribute according to a plan or set apart for a special purpose",
+            "meta": "v. · 精选学习义",
+            "example": "We allocated two hours to the inspection.",
+            "zh": "我们给检验分配了两个小时。",
+            "credit": "原创教学例句",
+            "url": "https://en-word.net/"
+          }
+        ],
+        "note": "allocate something to/for something；说清分配的资源与用途。",
+        "retrieved": "2026-11-16",
+        "retrieval": "versioned source cache",
+        "learningSource": "词义见各项来源；中文整理／例句来源分别标注"
+      },
+      "provenance": {
+        "sourceIds": [
+          "original-vocab",
+          "oewn-2025"
+        ],
+        "selectionVersion": "1"
+      }
+    },
+    {
+      "entryId": "V20261012-014",
+      "contextId": "V20261012-014-context",
+      "inputHash": "c685b2ec9968f0c3e2ce64f8b13d99db90fff084143690d7b70e05f58412a85d",
+      "status": "ready",
+      "data": {
+        "general": "把任务交给别人执行；代表；被选派的人；授予或转交权力",
+        "senses": [
+          {
+            "title": "把任务交给别人执行",
+            "en": "give an assignment to (a person) to a post, or assign a task to (a person)",
+            "meta": "v. · 精选学习义",
+            "example": "She delegated the measurements to a colleague.",
+            "zh": "她把测量工作交给了一位同事。",
+            "credit": "原创教学例句",
+            "url": "https://en-word.net/"
+          },
+          {
+            "title": "代表；被选派的人",
+            "en": "a person appointed or elected to represent others",
+            "meta": "n. · 精选学习义",
+            "example": "Each team sent a delegate.",
+            "zh": "每个团队派了一位代表。",
+            "credit": "原创教学例句",
+            "url": "https://en-word.net/"
+          },
+          {
+            "title": "授予或转交权力",
+            "en": "transfer power to someone",
+            "meta": "v. · 精选学习义",
+            "example": "The director delegated limited authority.",
+            "zh": "主管授予了有限权限。",
+            "credit": "原创教学例句",
+            "url": "https://en-word.net/"
+          }
+        ],
+        "note": "delegate a task to someone；注意名词delegate与动词形式相同。",
+        "retrieved": "2026-11-16",
+        "retrieval": "versioned source cache",
+        "learningSource": "词义见各项来源；中文整理／例句来源分别标注"
+      },
+      "provenance": {
+        "sourceIds": [
+          "original-vocab",
+          "oewn-2025"
+        ],
+        "selectionVersion": "1"
+      }
+    },
+    {
+      "entryId": "V20261012-016",
+      "contextId": "V20261012-016-context",
+      "inputHash": "386b3efd84dff237594dc53e8a8bd0025f717808e4cd5f021e03b9150f5f51f3",
+      "status": "ready",
+      "data": {
+        "general": "对行为或结果负有说明责任的",
+        "senses": [
+          {
+            "title": "对行为或结果负有说明责任的",
+            "en": "liable to account for one's actions",
+            "meta": "adj. · 精选学习义",
+            "example": "The lead is accountable for the final report.",
+            "zh": "负责人对最终报告负有责任。",
+            "credit": "原创教学例句",
+            "url": "https://en-word.net/"
+          }
+        ],
+        "note": "accountable for something / to someone；学习责任范围与问责对象两个方向。",
+        "retrieved": "2026-11-16",
+        "retrieval": "versioned source cache",
+        "learningSource": "词义见各项来源；中文整理／例句来源分别标注"
+      },
+      "provenance": {
+        "sourceIds": [
+          "original-vocab",
+          "oewn-2025"
+        ],
+        "selectionVersion": "1"
+      }
+    },
+    {
+      "entryId": "V20261012-017",
+      "contextId": "V20261012-017-context",
+      "inputHash": "4c8236a0fc0afaad89f284e56528c14a12966f9343ae1e37788228151462aade",
+      "status": "ready",
+      "data": {
+        "general": "必须完成某事的最后时限",
+        "senses": [
+          {
+            "title": "必须完成某事的最后时限",
+            "en": "the point in time at which something must be completed",
+            "meta": "n. · 精选学习义",
+            "example": "The submission deadline is Thursday.",
+            "zh": "提交截止时间是星期四。",
+            "credit": "原创教学例句",
+            "url": "https://en-word.net/"
+          }
+        ],
+        "note": "meet the deadline是按期完成，不是“开会讨论期限”。",
+        "retrieved": "2026-11-16",
+        "retrieval": "versioned source cache",
+        "learningSource": "词义见各项来源；中文整理／例句来源分别标注"
+      },
+      "provenance": {
+        "sourceIds": [
+          "original-vocab",
+          "oewn-2025"
+        ],
+        "selectionVersion": "1"
+      }
+    },
+    {
+      "entryId": "V20261012-021",
+      "contextId": "V20261012-021-context",
+      "inputHash": "a328ca7e10dc9ec7bbabb77f9c125cfdac8d5f9ad9e675c66858cd76dd8e9f42",
+      "status": "ready",
+      "data": {
+        "general": "在现有条件和手段下可行的",
+        "senses": [
+          {
+            "title": "在现有条件和手段下可行的",
+            "en": "capable of being done with means at hand and circumstances as they are",
+            "meta": "adj. · 精选学习义",
+            "example": "The plan is feasible with two technicians.",
+            "zh": "有两位技术人员时，这个计划是可行的。",
+            "credit": "原创教学例句",
+            "url": "https://en-word.net/"
+          }
+        ],
+        "note": "feasible with现有条件；不要将feasible与approved互换。",
+        "retrieved": "2026-11-16",
+        "retrieval": "versioned source cache",
+        "learningSource": "词义见各项来源；中文整理／例句来源分别标注"
+      },
+      "provenance": {
+        "sourceIds": [
+          "original-vocab",
+          "oewn-2025"
+        ],
+        "selectionVersion": "1"
+      }
+    },
+    {
+      "entryId": "V20261012-023",
+      "contextId": "V20261012-023-context",
+      "inputHash": "23b4a993d8a3c277e08f5cd38d04796270bbea2096c11ea56b93d7d6fca232b8",
+      "status": "ready",
+      "data": {
+        "general": "早该完成而尚未完成的；到期未付的",
+        "senses": [
+          {
+            "title": "早该完成而尚未完成的",
+            "en": "it should have already happened or been done",
+            "meta": "adj. · 精选学习义",
+            "example": "The review is overdue.",
+            "zh": "评审已经逾期。",
+            "credit": "原创教学例句",
+            "url": "https://dictionary.cambridge.org/us/dictionary/english/overdue"
+          },
+          {
+            "title": "到期未付的",
+            "en": "past due; not paid at the scheduled time",
+            "meta": "adj. · 精选学习义",
+            "example": "The payment is overdue.",
+            "zh": "这笔付款已经逾期。",
+            "credit": "原创教学例句",
+            "url": "https://en-word.net/"
+          }
+        ],
+        "note": "be overdue是状态；overdue payment与overdue action对象不同。",
+        "retrieved": "2026-11-16",
+        "retrieval": "versioned source cache",
+        "learningSource": "词义见各项来源；中文整理／例句来源分别标注"
+      },
+      "provenance": {
+        "sourceIds": [
+          "original-vocab",
+          "oewn-2025",
+          "cambridge-overdue"
+        ],
+        "selectionVersion": "1"
+      }
+    },
+    {
+      "entryId": "V20261012-025",
+      "contextId": "V20261012-025-context",
+      "inputHash": "952e88509f53b5e2a7a2e74863b55d6680894d398511a32c75b77cf7a2fa4ac3",
+      "status": "ready",
+      "data": {
+        "general": "积压的未完成工作",
+        "senses": [
+          {
+            "title": "积压的未完成工作",
+            "en": "an accumulation of jobs not done or materials not processed that are yet to be dealt with (especially unfilled customer orders for products or services)",
+            "meta": "n. · 精选学习义",
+            "example": "The team is working through a backlog of requests.",
+            "zh": "团队正在处理积压的请求。",
+            "credit": "原创教学例句",
+            "url": "https://en-word.net/"
+          }
+        ],
+        "note": "a backlog of orders/requests；clear the backlog强调处理完积压事项。",
+        "retrieved": "2026-11-16",
+        "retrieval": "versioned source cache",
+        "learningSource": "词义见各项来源；中文整理／例句来源分别标注"
+      },
+      "provenance": {
+        "sourceIds": [
+          "original-vocab",
+          "oewn-2025"
+        ],
+        "selectionVersion": "1"
+      }
+    },
+    {
+      "entryId": "V20261012-026",
+      "contextId": "V20261012-026-context",
+      "inputHash": "31fd502d68b80b376edae00d286347b6faace32eb3b327470ba34e4956fc3b98",
+      "status": "ready",
+      "data": {
+        "general": "限制流动或进展的狭窄处；瓶颈；瓶颈；瓶子的狭窄颈部",
+        "senses": [
+          {
+            "title": "限制流动或进展的狭窄处；瓶颈",
+            "en": "a narrowing that reduces the flow through a channel",
+            "meta": "n. · 精选学习义",
+            "example": "One inspection station became a bottleneck.",
+            "zh": "一个检验工位成了瓶颈。",
+            "credit": "原创教学例句",
+            "url": "https://en-word.net/"
+          },
+          {
+            "title": "瓶颈；瓶子的狭窄颈部",
+            "en": "the narrow part of a bottle near the top",
+            "meta": "n. · 精选学习义",
+            "example": "The brush would not fit through the bottleneck.",
+            "zh": "刷子穿不过瓶颈。",
+            "credit": "原创教学例句",
+            "url": "https://en-word.net/"
+          }
+        ],
+        "note": "bottleneck常与process/production/approval搭配；先判断是否限制整体进展。",
+        "retrieved": "2026-11-16",
+        "retrieval": "versioned source cache",
+        "learningSource": "词义见各项来源；中文整理／例句来源分别标注"
+      },
+      "provenance": {
+        "sourceIds": [
+          "original-vocab",
+          "oewn-2025"
+        ],
+        "selectionVersion": "1"
+      }
+    },
+    {
+      "entryId": "V20261012-028",
+      "contextId": "V20261012-028-context",
+      "inputHash": "518a2a0756a497cd346db5c477ee280a806156f40602977493f11b82471bb45c",
+      "status": "ready",
+      "data": {
+        "general": "妨碍进展的不利事件；挫折",
+        "senses": [
+          {
+            "title": "妨碍进展的不利事件；挫折",
+            "en": "an unfortunate happening that hinders or impedes; something that is thwarting or frustrating",
+            "meta": "n. · 精选学习义",
+            "example": "The failed trial was a setback.",
+            "zh": "试验失败是一次挫折。",
+            "credit": "原创教学例句",
+            "url": "https://en-word.net/"
+          }
+        ],
+        "note": "a setback是一次受挫；temporary setback仍需要具体恢复行动。",
+        "retrieved": "2026-11-16",
+        "retrieval": "versioned source cache",
+        "learningSource": "词义见各项来源；中文整理／例句来源分别标注"
+      },
+      "provenance": {
+        "sourceIds": [
+          "original-vocab",
+          "oewn-2025"
+        ],
+        "selectionVersion": "1"
+      }
+    },
+    {
+      "entryId": "V20261012-029",
+      "contextId": "V20261012-029-context",
+      "inputHash": "74d5790405da43bf2b351932c0db3f117994c94d027aa3b918e8122ba34dcfc1",
+      "status": "ready",
+      "data": {
+        "general": "加剧；上升；将问题提交更高级别处理",
+        "senses": [
+          {
+            "title": "加剧；上升",
+            "en": "increase in extent or intensity",
+            "meta": "v. · 精选学习义",
+            "example": "Costs escalated during the delay.",
+            "zh": "延误期间成本不断上升。",
+            "credit": "原创教学例句",
+            "url": "https://en-word.net/"
+          },
+          {
+            "title": "将问题提交更高级别处理",
+            "en": "to involve someone more important or higher in rank in a situation or problem",
+            "meta": "v. · 精选学习义",
+            "example": "Please escalate the unresolved issue to the lead.",
+            "zh": "请把尚未解决的问题提交负责人处理。",
+            "credit": "原创教学例句",
+            "url": "https://dictionary.cambridge.org/dictionary/english/escalate"
+          }
+        ],
+        "note": "业务语境注意escalate an issue to someone；别与escalating costs混淆。",
+        "retrieved": "2026-11-16",
+        "retrieval": "versioned source cache",
+        "learningSource": "词义见各项来源；中文整理／例句来源分别标注"
+      },
+      "provenance": {
+        "sourceIds": [
+          "original-vocab",
+          "oewn-2025",
+          "cambridge-escalate"
+        ],
+        "selectionVersion": "1"
+      }
+    },
+    {
+      "entryId": "V20261012-030",
+      "contextId": "V20261012-030-context",
+      "inputHash": "b5e2fe34dd3ffcac5c2a19a9a23af798b8de370729c2467213fdca7c6d9c7672",
+      "status": "ready",
+      "data": {
+        "general": "减轻严重性、程度或影响",
+        "senses": [
+          {
+            "title": "减轻严重性、程度或影响",
+            "en": "lessen or to try to lessen the seriousness or extent of",
+            "meta": "v. · 精选学习义",
+            "example": "The extra review may mitigate the risk.",
+            "zh": "额外评审可能减轻风险。",
+            "credit": "原创教学例句",
+            "url": "https://en-word.net/"
+          }
+        ],
+        "note": "mitigate risk/impact；若要表达彻底消除，应另核实是否能用eliminate。",
+        "retrieved": "2026-11-16",
+        "retrieval": "versioned source cache",
+        "learningSource": "词义见各项来源；中文整理／例句来源分别标注"
+      },
+      "provenance": {
+        "sourceIds": [
+          "original-vocab",
+          "oewn-2025"
+        ],
+        "selectionVersion": "1"
+      }
+    },
+    {
+      "entryId": "V20261012-031",
+      "contextId": "V20261012-031-context",
+      "inputHash": "0916f8aaf3d4b9864775d271143bb04d9c8f80edcf37ee005dcfeb0c4628c98f",
+      "status": "ready",
+      "data": {
+        "general": "持续观察；监测；显示器；监视屏幕",
+        "senses": [
+          {
+            "title": "持续观察；监测",
+            "en": "keep tabs on; keep an eye on; keep under surveillance",
+            "meta": "v. · 精选学习义",
+            "example": "We monitor temperature during the test.",
+            "zh": "测试期间我们监测温度。",
+            "credit": "原创教学例句",
+            "url": "https://en-word.net/"
+          },
+          {
+            "title": "显示器；监视屏幕",
+            "en": "display produced by a device that takes signals and displays them on a television screen or a computer monitor",
+            "meta": "n. · 精选学习义",
+            "example": "The results appeared on the monitor.",
+            "zh": "结果显示在屏幕上。",
+            "credit": "原创教学例句",
+            "url": "https://en-word.net/"
+          }
+        ],
+        "note": "monitor progress/performance；monitor本身不表示已经采取纠正措施。",
+        "retrieved": "2026-11-16",
+        "retrieval": "versioned source cache",
+        "learningSource": "词义见各项来源；中文整理／例句来源分别标注"
+      },
+      "provenance": {
+        "sourceIds": [
+          "original-vocab",
+          "oewn-2025"
+        ],
+        "selectionVersion": "1"
+      }
+    },
+    {
+      "entryId": "V20261012-032",
+      "contextId": "V20261012-032-context",
+      "inputHash": "a2f54044487bf5e56c3cac17bd18fe544a8d74dac517eb1fedf8a708f7f6c5df",
+      "status": "ready",
+      "data": {
+        "general": "重新评估",
+        "senses": [
+          {
+            "title": "重新评估",
+            "en": "revise or renew one's assessment",
+            "meta": "v. · 精选学习义",
+            "example": "We reassessed the estimate after receiving new data.",
+            "zh": "收到新数据后，我们重新评估了估算。",
+            "credit": "原创教学例句",
+            "url": "https://en-word.net/"
+          }
+        ],
+        "note": "reassess先重评，revise再修改；不要省略判断过程。",
+        "retrieved": "2026-11-16",
+        "retrieval": "versioned source cache",
+        "learningSource": "词义见各项来源；中文整理／例句来源分别标注"
+      },
+      "provenance": {
+        "sourceIds": [
+          "original-vocab",
+          "oewn-2025"
+        ],
+        "selectionVersion": "1"
+      }
+    },
+    {
+      "entryId": "V20261012-033",
+      "contextId": "V20261012-033-context",
+      "inputHash": "15d12db0e8357e2136e0b5c44ad4d97c4fa822250bb14ba84edd69902e95bb5e",
+      "status": "ready",
+      "data": {
+        "general": "推迟；延后处理；遵从；听从他人的意见",
+        "senses": [
+          {
+            "title": "推迟；延后处理",
+            "en": "hold back to a later time",
+            "meta": "v. · 精选学习义",
+            "example": "We deferred the review until Monday.",
+            "zh": "我们把评审推迟到星期一。",
+            "credit": "原创教学例句",
+            "url": "https://en-word.net/"
+          },
+          {
+            "title": "遵从；听从他人的意见",
+            "en": "yield to another's wish or opinion",
+            "meta": "v. · 精选学习义",
+            "example": "I defer to your technical judgment.",
+            "zh": "我听从你的技术判断。",
+            "credit": "原创教学例句",
+            "url": "https://en-word.net/"
+          }
+        ],
+        "note": "defer something与defer to someone要按结构区分。",
+        "retrieved": "2026-11-16",
+        "retrieval": "versioned source cache",
+        "learningSource": "词义见各项来源；中文整理／例句来源分别标注"
+      },
+      "provenance": {
+        "sourceIds": [
+          "original-vocab",
+          "oewn-2025"
+        ],
+        "selectionVersion": "1"
+      }
+    },
+    {
+      "entryId": "V20261012-034",
+      "contextId": "V20261012-034-context",
+      "inputHash": "ccdc13b447a91e114bb7c12f389cbff216c7e3e5ca434387f6a465cf70cb418c",
+      "status": "ready",
+      "data": {
+        "general": "促进；加快进展；高效地办理",
+        "senses": [
+          {
+            "title": "促进；加快进展",
+            "en": "speed up the progress of; facilitate",
+            "meta": "v. · 精选学习义",
+            "example": "We asked for help to expedite the review.",
+            "zh": "我们请求协助加快评审。",
+            "credit": "原创教学例句",
+            "url": "https://en-word.net/"
+          },
+          {
+            "title": "高效地办理",
+            "en": "process fast and efficiently",
+            "meta": "v. · 精选学习义",
+            "example": "The team expedited the paperwork.",
+            "zh": "团队高效办理了文书手续。",
+            "credit": "原创教学例句",
+            "url": "https://en-word.net/"
+          }
+        ],
+        "note": "expedite常接process/review/delivery；保留句中对提速方式的限制。",
+        "retrieved": "2026-11-16",
+        "retrieval": "versioned source cache",
+        "learningSource": "词义见各项来源；中文整理／例句来源分别标注"
+      },
+      "provenance": {
+        "sourceIds": [
+          "original-vocab",
+          "oewn-2025"
+        ],
+        "selectionVersion": "1"
+      }
+    },
+    {
+      "entryId": "V20261012-035",
+      "contextId": "V20261012-035-context",
+      "inputHash": "0e74f2750121c8ca225e6627a467abcd4f651fe85ae4e82a273d59912d1a2d81",
+      "status": "ready",
+      "data": {
+        "general": "解决；使问题得到确定处理；决意；决定要做；决心",
+        "senses": [
+          {
+            "title": "解决；使问题得到确定处理",
+            "en": "bring to an end; settle conclusively",
+            "meta": "v. · 精选学习义",
+            "example": "We resolved the disagreement about scope.",
+            "zh": "我们解决了范围分歧。",
+            "credit": "原创教学例句",
+            "url": "https://en-word.net/"
+          },
+          {
+            "title": "决意；决定要做",
+            "en": "reach a decision",
+            "meta": "v. · 精选学习义",
+            "example": "She resolved to document the changes.",
+            "zh": "她决意记录这些变更。",
+            "credit": "原创教学例句",
+            "url": "https://en-word.net/"
+          },
+          {
+            "title": "决心",
+            "en": "the trait of being resolute",
+            "meta": "n. · 精选学习义",
+            "example": "The setback tested our resolve.",
+            "zh": "这次挫折考验了我们的决心。",
+            "credit": "原创教学例句",
+            "url": "https://en-word.net/"
+          }
+        ],
+        "note": "resolve an issue/dispute；resolve to do something另表示决意。",
+        "retrieved": "2026-11-16",
+        "retrieval": "versioned source cache",
+        "learningSource": "词义见各项来源；中文整理／例句来源分别标注"
+      },
+      "provenance": {
+        "sourceIds": [
+          "original-vocab",
+          "oewn-2025"
+        ],
+        "selectionVersion": "1"
+      }
+    },
+    {
+      "entryId": "V20261012-036",
+      "contextId": "V20261012-036-context",
+      "inputHash": "4365701eaae2d0a764c498fcedf0d7c1d8e231bed9adc399c7a17136cddabfe5",
+      "status": "ready",
+      "data": {
+        "general": "移交；交接责任、控制或事物",
+        "senses": [
+          {
+            "title": "移交；交接责任、控制或事物",
+            "en": "act of relinquishing property or authority etc",
+            "meta": "n. · 精选学习义",
+            "example": "The handover included the latest drawings.",
+            "zh": "交接包含了最新图纸。",
+            "credit": "原创教学例句",
+            "url": "https://en-word.net/"
+          }
+        ],
+        "note": "名词handover；动词常写hand over something to someone。",
+        "retrieved": "2026-11-16",
+        "retrieval": "versioned source cache",
+        "learningSource": "词义见各项来源；中文整理／例句来源分别标注"
+      },
+      "provenance": {
+        "sourceIds": [
+          "original-vocab",
+          "oewn-2025"
+        ],
+        "selectionVersion": "1"
+      }
+    },
+    {
+      "entryId": "V20261012-037",
+      "contextId": "V20261012-037-context",
+      "inputHash": "b176e05c0d1e2510ebe7bbfea605ffd0eed604ff11d59ce0165ad7442f46008f",
+      "status": "ready",
+      "data": {
+        "general": "签字给出的正式批准",
+        "senses": [
+          {
+            "title": "签字给出的正式批准",
+            "en": "formal approval that somebody has given to something by signing their name",
+            "meta": "n. · 精选学习义",
+            "example": "We need sign-off on the final report.",
+            "zh": "最终报告需要签字批准。",
+            "credit": "原创教学例句",
+            "url": "https://www.oxfordlearnersdictionaries.com/definition/english/sign-off_2"
+          }
+        ],
+        "note": "名词sign-off；动词sign off/on分开写。区别签收、知悉和正式批准。",
+        "retrieved": "2026-11-16",
+        "retrieval": "versioned source cache",
+        "learningSource": "词义见各项来源；中文整理／例句来源分别标注"
+      },
+      "provenance": {
+        "sourceIds": [
+          "original-vocab",
+          "oewn-2025",
+          "oxford-sign-off"
+        ],
+        "selectionVersion": "1"
+      }
+    },
+    {
+      "entryId": "V20261012-038",
+      "contextId": "V20261012-038-context",
+      "inputHash": "53f93cd49f56bb721870e1f2d53173f84672e005defe900f3beb8edd7f1d583e",
+      "status": "ready",
+      "data": {
+        "general": "检查站；接受检查的地点；程序中用于检查或确认的节点",
+        "senses": [
+          {
+            "title": "检查站；接受检查的地点",
+            "en": "a place (as at a frontier) where travellers are stopped for inspection and clearance",
+            "meta": "n. · 精选学习义",
+            "example": "Vehicles stopped at the checkpoint.",
+            "zh": "车辆在检查站停下。",
+            "credit": "原创教学例句",
+            "url": "https://en-word.net/"
+          },
+          {
+            "title": "程序中用于检查或确认的节点",
+            "en": "a point or item, especially in a procedure, for notation, inspection, or confirmation",
+            "meta": "n. · 精选学习义",
+            "example": "We added a checkpoint before the final review.",
+            "zh": "我们在最终评审前增加了一个检查节点。",
+            "credit": "原创教学例句",
+            "url": "https://www.dictionary.com/browse/checkpoint"
+          }
+        ],
+        "note": "checkpoint可以是流程节点；按上下文区分实体地点与检查时点。",
+        "retrieved": "2026-11-16",
+        "retrieval": "versioned source cache",
+        "learningSource": "词义见各项来源；中文整理／例句来源分别标注"
+      },
+      "provenance": {
+        "sourceIds": [
+          "original-vocab",
+          "oewn-2025",
+          "dictionarycom-checkpoint"
+        ],
+        "selectionVersion": "1"
+      }
+    },
+    {
+      "entryId": "V20261012-040",
+      "contextId": "V20261012-040-context",
+      "inputHash": "1619d08ea534f5157fc67fe176019eb54e9175b06dc38ca55ecf78568be20bc1",
+      "status": "ready",
+      "data": {
+        "general": "事情最终产生的结果",
+        "senses": [
+          {
+            "title": "事情最终产生的结果",
+            "en": "something that results",
+            "meta": "n. · 精选学习义",
+            "example": "The outcome of the review was a revised plan.",
+            "zh": "评审的结果是一份修订计划。",
+            "credit": "原创教学例句",
+            "url": "https://en-word.net/"
+          }
+        ],
+        "note": "expected outcome与actual outcome区分预期和事实；outcome of说明哪项活动的结果。",
+        "retrieved": "2026-11-16",
+        "retrieval": "versioned source cache",
+        "learningSource": "词义见各项来源；中文整理／例句来源分别标注"
+      },
+      "provenance": {
+        "sourceIds": [
+          "original-vocab",
+          "oewn-2025"
+        ],
+        "selectionVersion": "1"
+      }
+    }
+  ],
+  "outputHash": "ec06cfc9fb8bf6201e8cebe853bf8ded9737f52a8c4e78a0422463346676041e"
+}

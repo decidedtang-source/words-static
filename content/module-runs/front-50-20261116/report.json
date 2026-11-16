@@ -1,0 +1,300 @@
+{
+  "systemVersion": "front-system-1.0.0",
+  "scope": {
+    "analysis": "pending_build",
+    "dictionary": "interface_only"
+  },
+  "selected": 50,
+  "structurePass": true,
+  "frontFlowComplete": true,
+  "fullSystemComplete": false,
+  "analysis": "pending_build",
+  "pending": [],
+  "contentQuality": "not_scored",
+  "published": false,
+  "pagePass": true,
+  "htmlSHA": "e2ade0857530c8e94fe6168305a7aac64ec626c2235e5c36117c7e9181c85ba8",
+  "checks": [
+    {
+      "entryId": "V20261012-002",
+      "pass": true,
+      "kind": "entry_layout"
+    },
+    {
+      "entryId": "V20261012-012",
+      "pass": true,
+      "kind": "entry_layout"
+    },
+    {
+      "entryId": "V20261012-022",
+      "pass": true,
+      "kind": "entry_layout"
+    },
+    {
+      "entryId": "V20261012-024",
+      "pass": true,
+      "kind": "entry_layout"
+    },
+    {
+      "entryId": "V20261012-053",
+      "pass": true,
+      "kind": "entry_layout"
+    },
+    {
+      "entryId": "V20261012-078",
+      "pass": true,
+      "kind": "entry_layout"
+    },
+    {
+      "entryId": "V20261012-076",
+      "pass": true,
+      "kind": "entry_layout"
+    },
+    {
+      "entryId": "V20261012-093",
+      "pass": true,
+      "kind": "entry_layout"
+    },
+    {
+      "entryId": "V20261012-100",
+      "pass": true,
+      "kind": "entry_layout"
+    },
+    {
+      "entryId": "V20261014-075",
+      "pass": true,
+      "kind": "entry_layout"
+    },
+    {
+      "entryId": "V20261014-076",
+      "pass": true,
+      "kind": "entry_layout"
+    },
+    {
+      "entryId": "V20261029-005",
+      "pass": true,
+      "kind": "entry_layout"
+    },
+    {
+      "entryId": "V20261014-003",
+      "pass": true,
+      "kind": "entry_layout"
+    },
+    {
+      "entryId": "V20261012-117",
+      "pass": true,
+      "kind": "entry_layout"
+    },
+    {
+      "entryId": "V20261018-106",
+      "pass": true,
+      "kind": "entry_layout"
+    },
+    {
+      "entryId": "V20261016-103",
+      "pass": true,
+      "kind": "entry_layout"
+    },
+    {
+      "entryId": "V20261016-119",
+      "pass": true,
+      "kind": "entry_layout"
+    },
+    {
+      "entryId": "V20261012-020",
+      "pass": true,
+      "kind": "entry_layout"
+    },
+    {
+      "entryId": "V20261012-019",
+      "pass": true,
+      "kind": "entry_layout"
+    },
+    {
+      "entryId": "V20261012-015",
+      "pass": true,
+      "kind": "entry_layout"
+    },
+    {
+      "entryId": "V20261012-018",
+      "pass": true,
+      "kind": "entry_layout"
+    },
+    {
+      "entryId": "V20261012-010",
+      "pass": true,
+      "kind": "entry_layout"
+    },
+    {
+      "entryId": "V20261012-006",
+      "pass": true,
+      "kind": "entry_layout"
+    },
+    {
+      "entryId": "V20261012-088",
+      "pass": true,
+      "kind": "entry_layout"
+    },
+    {
+      "entryId": "V20261012-004",
+      "pass": true,
+      "kind": "entry_layout"
+    },
+    {
+      "entryId": "V20261012-005",
+      "pass": true,
+      "kind": "entry_layout"
+    },
+    {
+      "entryId": "V20261012-007",
+      "pass": true,
+      "kind": "entry_layout"
+    },
+    {
+      "entryId": "V20261012-008",
+      "pass": true,
+      "kind": "entry_layout"
+    },
+    {
+      "entryId": "V20261012-009",
+      "pass": true,
+      "kind": "entry_layout"
+    },
+    {
+      "entryId": "V20261012-011",
+      "pass": true,
+      "kind": "entry_layout"
+    },
+    {
+      "entryId": "V20261012-013",
+      "pass": true,
+      "kind": "entry_layout"
+    },
+    {
+      "entryId": "V20261012-014",
+      "pass": true,
+      "kind": "entry_layout"
+    },
+    {
+      "entryId": "V20261012-016",
+      "pass": true,
+      "kind": "entry_layout"
+    },
+    {
+      "entryId": "V20261012-017",
+      "pass": true,
+      "kind": "entry_layout"
+    },
+    {
+      "entryId": "V20261012-021",
+      "pass": true,
+      "kind": "entry_layout"
+    },
+    {
+      "entryId": "V20261012-023",
+      "pass": true,
+      "kind": "entry_layout"
+    },
+    {
+      "entryId": "V20261012-025",
+      "pass": true,
+      "kind": "entry_layout"
+    },
+    {
+      "entryId": "V20261012-026",
+      "pass": true,
+      "kind": "entry_layout"
+    },
+    {
+      "entryId": "V20261012-028",
+      "pass": true,
+      "kind": "entry_layout"
+    },
+    {
+      "entryId": "V20261012-029",
+      "pass": true,
+      "kind": "entry_layout"
+    },
+    {
+      "entryId": "V20261012-030",
+      "pass": true,
+      "kind": "entry_layout"
+    },
+    {
+      "entryId": "V20261012-031",
+      "pass": true,
+      "kind": "entry_layout"
+    },
+    {
+      "entryId": "V20261012-032",
+      "pass": true,
+      "kind": "entry_layout"
+    },
+    {
+      "entryId": "V20261012-033",
+      "pass": true,
+      "kind": "entry_layout"
+    },
+    {
+      "entryId": "V20261012-034",
+      "pass": true,
+      "kind": "entry_layout"
+    },
+    {
+      "entryId": "V20261012-035",
+      "pass": true,
+      "kind": "entry_layout"
+    },
+    {
+      "entryId": "V20261012-036",
+      "pass": true,
+      "kind": "entry_layout"
+    },
+    {
+      "entryId": "V20261012-037",
+      "pass": true,
+      "kind": "entry_layout"
+    },
+    {
+      "entryId": "V20261012-038",
+      "pass": true,
+      "kind": "entry_layout"
+    },
+    {
+      "entryId": "V20261012-040",
+      "pass": true,
+      "kind": "entry_layout"
+    },
+    {
+      "kind": "viewport",
+      "width": 320,
+      "pass": true
+    },
+    {
+      "kind": "viewport",
+      "width": 390,
+      "pass": true
+    },
+    {
+      "kind": "viewport",
+      "width": 768,
+      "pass": true
+    },
+    {
+      "kind": "viewport",
+      "width": 1440,
+      "pass": true
+    },
+    {
+      "kind": "navigation",
+      "pass": true
+    },
+    {
+      "kind": "javascript_disabled",
+      "pass": true
+    }
+  ],
+  "errors": [],
+  "previewReady": true,
+  "frontProductionComplete": true
+}

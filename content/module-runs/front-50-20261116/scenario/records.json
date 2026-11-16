@@ -1,0 +1,1012 @@
+{
+  "moduleId": "scenario",
+  "version": "1.0.0",
+  "producerHash": "9c2923bd7344a3126a7748411541f6561c69e0ef68ce4f93c6207cd76705edae",
+  "contractHash": "60f2138c2d2ce3ed603ad78ae6777ee6e60b824ed201d9e5deb792fe0547488b",
+  "dependencies": {},
+  "entryIds": [
+    "V20261012-002",
+    "V20261012-012",
+    "V20261012-022",
+    "V20261012-024",
+    "V20261012-053",
+    "V20261012-078",
+    "V20261012-076",
+    "V20261012-093",
+    "V20261012-100",
+    "V20261014-075",
+    "V20261014-076",
+    "V20261029-005",
+    "V20261014-003",
+    "V20261012-117",
+    "V20261018-106",
+    "V20261016-103",
+    "V20261016-119",
+    "V20261012-020",
+    "V20261012-019",
+    "V20261012-015",
+    "V20261012-018",
+    "V20261012-010",
+    "V20261012-006",
+    "V20261012-088",
+    "V20261012-004",
+    "V20261012-005",
+    "V20261012-007",
+    "V20261012-008",
+    "V20261012-009",
+    "V20261012-011",
+    "V20261012-013",
+    "V20261012-014",
+    "V20261012-016",
+    "V20261012-017",
+    "V20261012-021",
+    "V20261012-023",
+    "V20261012-025",
+    "V20261012-026",
+    "V20261012-028",
+    "V20261012-029",
+    "V20261012-030",
+    "V20261012-031",
+    "V20261012-032",
+    "V20261012-033",
+    "V20261012-034",
+    "V20261012-035",
+    "V20261012-036",
+    "V20261012-037",
+    "V20261012-038",
+    "V20261012-040"
+  ],
+  "records": [
+    {
+      "entryId": "V20261012-002",
+      "contextId": "V20261012-002-context",
+      "inputHash": "875b1b37cc963964368d008a5c38209417f1e34dc6dc7a964e32c1fe2a0e488d",
+      "status": "ready",
+      "data": {
+        "meaning": "目标；想要达到的结果",
+        "sourceLabel": "原词库教学材料 · 2026-10-12",
+        "sourceUrl": null,
+        "sourceDate": null,
+        "quote": "Our objective is to reduce the time spent on approvals.",
+        "translation": "我们的目标是减少花在审批上的时间。",
+        "quoteType": "原词库教学例句／转述；未认定为外部作者逐字引文",
+        "context": "仅以保留的这条原句为分析范围；未知背景不补造。",
+        "highlightTerm": "目标；想要达到的结果",
+        "keyMeaning": "目标；想要达到的结果",
+        "sentenceExplanation": "希望达成的审批耗时缩短目标"
+      }
+    },
+    {
+      "entryId": "V20261012-012",
+      "contextId": "V20261012-012-context",
+      "inputHash": "9d0ec1c4b18dffd5fb1759bef5db0dedc907757ee88d59da9f7e4959148b1297",
+      "status": "ready",
+      "data": {
+        "meaning": "产能；可用资源所能支撑的工作量",
+        "sourceLabel": "原词库教学材料 · 2026-10-12",
+        "sourceUrl": null,
+        "sourceDate": null,
+        "quote": "We do not have enough capacity to start both projects.",
+        "translation": "我们没有足够的能力启动这两个项目。",
+        "quoteType": "原词库教学例句／转述；未认定为外部作者逐字引文",
+        "context": "仅以保留的这条原句为分析范围；未知背景不补造。",
+        "highlightTerm": "产能；可用资源所能支撑的工作量",
+        "keyMeaning": "产能；可用资源所能支撑的工作量",
+        "sentenceExplanation": "现有资源能力不足以启动这两个项目"
+      }
+    },
+    {
+      "entryId": "V20261012-022",
+      "contextId": "V20261012-022-context",
+      "inputHash": "16b464d1f47e82f833f5d263a8b18967da8edeaf0bdedf75378cd58e73fa33b3",
+      "status": "ready",
+      "data": {
+        "meaning": "暂定的；尚待确认的",
+        "sourceLabel": "原词库教学材料 · 2026-10-12",
+        "sourceUrl": null,
+        "sourceDate": null,
+        "quote": "Friday is a tentative date until the review is complete.",
+        "translation": "在评审完成之前，星期五只是暂定日期。",
+        "quoteType": "原词库教学例句／转述；未认定为外部作者逐字引文",
+        "context": "仅以保留的这条原句为分析范围；未知背景不补造。",
+        "highlightTerm": "暂定的；尚待确认的",
+        "keyMeaning": "暂定的；尚待确认的",
+        "sentenceExplanation": "星期五尚未成为最终确定的日期"
+      }
+    },
+    {
+      "entryId": "V20261012-024",
+      "contextId": "V20261012-024-context",
+      "inputHash": "86aca2a1db7b03b941e3617a23512e3c973731bd84d00fc0c4662730b17720a8",
+      "status": "ready",
+      "data": {
+        "meaning": "待定的；尚未处理完毕的",
+        "sourceLabel": "原词库教学材料 · 2026-10-12",
+        "sourceUrl": null,
+        "sourceDate": null,
+        "quote": "Approval is still pending, so we cannot proceed yet.",
+        "translation": "批准仍未确定，所以我们现在还不能继续。",
+        "quoteType": "原词库教学例句／转述；未认定为外部作者逐字引文",
+        "context": "仅以保留的这条原句为分析范围；未知背景不补造。",
+        "highlightTerm": "待定的；尚未处理完毕的",
+        "keyMeaning": "待定的；尚未处理完毕的",
+        "sentenceExplanation": "批准结果尚未作出或确认"
+      }
+    },
+    {
+      "entryId": "V20261012-053",
+      "contextId": "V20261012-053-context",
+      "inputHash": "1fc457527234978ee5750ee8fa2ac034464c9ca94b639d3715afaa1b6e47fa8c",
+      "status": "ready",
+      "data": {
+        "meaning": "保留意见；顾虑",
+        "sourceLabel": "原词库教学材料 · 2026-10-12",
+        "sourceUrl": null,
+        "sourceDate": null,
+        "quote": "I have reservations about committing before the review.",
+        "translation": "我对在评审前作出承诺有顾虑。",
+        "quoteType": "原词库教学例句／转述；未认定为外部作者逐字引文",
+        "context": "仅以保留的这条原句为分析范围；未知背景不补造。",
+        "highlightTerm": "保留意见；顾虑",
+        "keyMeaning": "保留意见；顾虑",
+        "sentenceExplanation": "对未经评审就承诺表示保留意见"
+      }
+    },
+    {
+      "entryId": "V20261012-078",
+      "contextId": "V20261012-078-context",
+      "inputHash": "bb26e7ca6d079da9030fc0d65b99fcbc723118251d14d92479b1844885c61ed7",
+      "status": "ready",
+      "data": {
+        "meaning": "给陈述加限定；附加条件",
+        "sourceLabel": "原词库教学材料 · 2026-10-12",
+        "sourceUrl": null,
+        "sourceDate": null,
+        "quote": "I should qualify that statement: the date depends on approval.",
+        "translation": "我应该给那句话加个限定：这个日期取决于批准。",
+        "quoteType": "原词库教学例句／转述；未认定为外部作者逐字引文",
+        "context": "仅以保留的这条原句为分析范围；未知背景不补造。",
+        "highlightTerm": "给陈述加限定；附加条件",
+        "keyMeaning": "给陈述加限定；附加条件",
+        "sentenceExplanation": "补充条件，限制原陈述的确定程度"
+      }
+    },
+    {
+      "entryId": "V20261012-076",
+      "contextId": "V20261012-076-context",
+      "inputHash": "e9636543f0c4874cfce38ac022ee821903634b4b3810230d32d716095e702eb5",
+      "status": "ready",
+      "data": {
+        "meaning": "推断；根据已有信息得出结论",
+        "sourceLabel": "原词库教学材料 · 2026-10-12",
+        "sourceUrl": null,
+        "sourceDate": null,
+        "quote": "We should not infer approval from the lack of a reply.",
+        "translation": "我们不应从没有回复就推断已经批准。",
+        "quoteType": "原词库教学例句／转述；未认定为外部作者逐字引文",
+        "context": "仅以保留的这条原句为分析范围；未知背景不补造。",
+        "highlightTerm": "推断；根据已有信息得出结论",
+        "keyMeaning": "推断；根据已有信息得出结论",
+        "sentenceExplanation": "根据未回复这一信息作出批准结论，但原句明确反对这样推断"
+      }
+    },
+    {
+      "entryId": "V20261012-093",
+      "contextId": "V20261012-093-context",
+      "inputHash": "8e51272ed72abdd3f5d57a3a68613ec0a17767a354c04281f6a71021c6ce4930",
+      "status": "ready",
+      "data": {
+        "meaning": "只要；以……为条件",
+        "sourceLabel": "原词库教学材料 · 2026-10-12",
+        "sourceUrl": null,
+        "sourceDate": null,
+        "quote": "We can proceed provided that the owner confirms the scope.",
+        "translation": "在负责人确认范围的条件下，我们可以继续。",
+        "quoteType": "原词库教学例句／转述；未认定为外部作者逐字引文",
+        "context": "仅以保留的这条原句为分析范围；未知背景不补造。",
+        "highlightTerm": "只要；以……为条件",
+        "keyMeaning": "只要；以……为条件",
+        "sentenceExplanation": "把负责人确认范围设为继续推进的条件"
+      }
+    },
+    {
+      "entryId": "V20261012-100",
+      "contextId": "V20261012-100-context",
+      "inputHash": "ef769603dcbbefb0cd96ca7f5f2eca9af388110a434898bbd007c5fbb4492179",
+      "status": "ready",
+      "data": {
+        "meaning": "不一定；未必",
+        "sourceLabel": "原词库教学材料 · 2026-10-12",
+        "sourceUrl": null,
+        "sourceDate": null,
+        "quote": "A completed task does not necessarily mean the issue is resolved.",
+        "translation": "一项任务完成，并不一定意味着问题已解决。",
+        "quoteType": "原词库教学例句／转述；未认定为外部作者逐字引文",
+        "context": "仅以保留的这条原句为分析范围；未知背景不补造。",
+        "highlightTerm": "不一定；未必",
+        "keyMeaning": "不一定；未必",
+        "sentenceExplanation": "否定任务完成与问题解决之间的必然关系"
+      }
+    },
+    {
+      "entryId": "V20261014-075",
+      "contextId": "V20261014-075-context",
+      "inputHash": "365604d08b0f697fb682369dbf68f238c43ec6e1e095315b7c27caf7dc7657e4",
+      "status": "ready",
+      "data": {
+        "meaning": "验证方法；检查是否符合规定要求的方法",
+        "sourceLabel": "原词库教学材料 · 2026-10-14",
+        "sourceUrl": null,
+        "sourceDate": null,
+        "quote": "Select a verification method for each requirement.",
+        "translation": "为每一项要求选择一种验证方法。",
+        "quoteType": "原词库教学例句／转述；未认定为外部作者逐字引文",
+        "context": "仅以保留的这条原句为分析范围；未知背景不补造。",
+        "highlightTerm": "验证方法；检查是否符合规定要求的方法",
+        "keyMeaning": "验证方法；检查是否符合规定要求的方法",
+        "sentenceExplanation": "选择怎样取得产品符合每项规定要求的证据"
+      }
+    },
+    {
+      "entryId": "V20261014-076",
+      "contextId": "V20261014-076-context",
+      "inputHash": "624738bf4364c723be5dc953f7a1151ac526e821b6eb4e22f59842986068ef05",
+      "status": "ready",
+      "data": {
+        "meaning": "确认方法；检查是否适合预定用途的方法",
+        "sourceLabel": "原词库教学材料 · 2026-10-14",
+        "sourceUrl": null,
+        "sourceDate": null,
+        "quote": "Choose a validation method that reflects actual use.",
+        "translation": "选择一种能反映实际使用情况的确认方法。",
+        "quoteType": "原词库教学例句／转述；未认定为外部作者逐字引文",
+        "context": "仅以保留的这条原句为分析范围；未知背景不补造。",
+        "highlightTerm": "确认方法；检查是否适合预定用途的方法",
+        "keyMeaning": "确认方法；检查是否适合预定用途的方法",
+        "sentenceExplanation": "用贴近实际使用的方式确认产品是否适合预定用途"
+      }
+    },
+    {
+      "entryId": "V20261029-005",
+      "contextId": "V20261029-005-context",
+      "inputHash": "a0a2d3487a539fd8fe906792b20b9fd0526b617a214321cd9ee9fa16f8bb3003",
+      "status": "ready",
+      "data": {
+        "meaning": "工作定义；暂供当前使用的定义",
+        "sourceLabel": "原词库教学材料 · 2026-10-29",
+        "sourceUrl": null,
+        "sourceDate": null,
+        "quote": "Let us agree on a working definition of a critical defect.",
+        "translation": "我们先就关键缺陷的工作定义达成一致。",
+        "quoteType": "原词库教学例句／转述；未认定为外部作者逐字引文",
+        "context": "仅以保留的这条原句为分析范围；未知背景不补造。",
+        "highlightTerm": "工作定义；暂供当前使用的定义",
+        "keyMeaning": "工作定义；暂供当前使用的定义",
+        "sentenceExplanation": "暂供当前讨论和判断使用的关键缺陷定义"
+      }
+    },
+    {
+      "entryId": "V20261014-003",
+      "contextId": "V20261014-003-context",
+      "inputHash": "d02443325e149f11306abc1757c3f427849fc4895a33face0806c6766e099d10",
+      "status": "ready",
+      "data": {
+        "meaning": "界定问题；组织问题的表述角度",
+        "sourceLabel": "原词库教学材料 · 2026-10-14",
+        "sourceUrl": null,
+        "sourceDate": null,
+        "quote": "Let's frame the issue around the missed inspection step.",
+        "translation": "我们围绕漏掉的检验步骤来界定这个问题吧。",
+        "quoteType": "原词库教学例句／转述；未认定为外部作者逐字引文",
+        "context": "仅以保留的这条原句为分析范围；未知背景不补造。",
+        "highlightTerm": "界定问题；组织问题的表述角度",
+        "keyMeaning": "界定问题；组织问题的表述角度",
+        "sentenceExplanation": "把问题的讨论重点组织在漏检步骤上"
+      }
+    },
+    {
+      "entryId": "V20261012-117",
+      "contextId": "V20261012-117-context",
+      "inputHash": "2f26369762b601995a762938c2d227251296e3d8582c04c303e7d56c26b8d839",
+      "status": "ready",
+      "data": {
+        "meaning": "占；构成总体的一部分",
+        "sourceLabel": "原词库教学材料 · 2026-10-12",
+        "sourceUrl": null,
+        "sourceDate": null,
+        "quote": "Review activities account for most of the remaining work.",
+        "translation": "评审活动占了大部分剩余工作。",
+        "quoteType": "原词库教学例句／转述；未认定为外部作者逐字引文",
+        "context": "仅以保留的这条原句为分析范围；未知背景不补造。",
+        "highlightTerm": "占；构成总体的一部分",
+        "keyMeaning": "占；构成总体的一部分",
+        "sentenceExplanation": "评审活动构成剩余工作的大部分"
+      }
+    },
+    {
+      "entryId": "V20261018-106",
+      "contextId": "V20261018-106-context",
+      "inputHash": "cb8d20d430fdafa20fad6c839d28e544e2f20baea35ba7d446a8745f588869c8",
+      "status": "ready",
+      "data": {
+        "meaning": "在民意调查中领先",
+        "sourceLabel": "原词库教学材料 · 2026-10-18",
+        "sourceUrl": null,
+        "sourceDate": null,
+        "quote": "The opposition candidate continued to lead in the polls.",
+        "translation": "反对党候选人在民调中继续领先。",
+        "quoteType": "原词库教学例句／转述；未认定为外部作者逐字引文",
+        "context": "原库保留的政治语境教学句，未提供可核验的特定选举出处。",
+        "highlightTerm": "在民意调查中领先",
+        "keyMeaning": "在民意调查中领先",
+        "sentenceExplanation": "在民调所反映的支持比较中保持领先"
+      }
+    },
+    {
+      "entryId": "V20261016-103",
+      "contextId": "V20261016-103-context",
+      "inputHash": "c5d77e09fb9f9721c3991f61f6acd78bf73900efd59d30caf9cf26cee1e0e6da",
+      "status": "ready",
+      "data": {
+        "meaning": "轻信的；容易相信他人的",
+        "sourceLabel": "原词库教学材料 · 2026-10-16",
+        "sourceUrl": null,
+        "sourceDate": null,
+        "quote": "The author uses credulous to criticize voters who accepted the promise.",
+        "translation": "作者使用credulous来批评那些相信了该承诺的选民。",
+        "quoteType": "原词库教学例句／转述；未认定为外部作者逐字引文",
+        "context": "原库对文章用词的教学转述；作者身份和文章出处未在本句中核实。",
+        "highlightTerm": "轻信的；容易相信他人的",
+        "keyMeaning": "轻信的；容易相信他人的",
+        "sentenceExplanation": "作者对选民轻易相信承诺所作的批评性描述"
+      }
+    },
+    {
+      "entryId": "V20261016-119",
+      "contextId": "V20261016-119-context",
+      "inputHash": "a493d21b83d031ba3652ffb95eec63dac12d14d35d6b2700a33d2ab27455c7e7",
+      "status": "ready",
+      "data": {
+        "meaning": "通胀冲击；物价上涨带来的冲击",
+        "sourceLabel": "原词库教学材料 · 2026-10-16",
+        "sourceUrl": null,
+        "sourceDate": null,
+        "quote": "Households may struggle to absorb another inflation shock.",
+        "translation": "家庭可能难以承受又一次通胀冲击。",
+        "quoteType": "原词库教学例句／转述；未认定为外部作者逐字引文",
+        "context": "仅以保留的这条原句为分析范围；未知背景不补造。",
+        "highlightTerm": "通胀冲击；物价上涨带来的冲击",
+        "keyMeaning": "通胀冲击；物价上涨带来的冲击",
+        "sentenceExplanation": "物价上涨给家庭购买力和支出安排带来的冲击"
+      }
+    },
+    {
+      "entryId": "V20261012-020",
+      "contextId": "V20261012-020-context",
+      "inputHash": "1e8a497d24a4a75225b576c640e69156b4c5ed4da8673eb9c5da317f4fc7d3fb",
+      "status": "ready",
+      "data": {
+        "meaning": "取舍；此消彼长的权衡",
+        "sourceLabel": "原词库教学材料 · 2026-10-12",
+        "sourceUrl": null,
+        "sourceDate": null,
+        "quote": "There is a trade-off between a faster delivery and a lower cost.",
+        "translation": "更快交付与更低成本之间存在权衡。",
+        "quoteType": "原词库教学例句／转述；未认定为外部作者逐字引文",
+        "context": "仅以保留的这条原句为分析范围；未知背景不补造。",
+        "highlightTerm": "取舍；此消彼长的权衡",
+        "keyMeaning": "取舍；此消彼长的权衡",
+        "sentenceExplanation": "交付速度与成本目标不能在当前设定中同时无限改善"
+      }
+    },
+    {
+      "entryId": "V20261012-019",
+      "contextId": "V20261012-019-context",
+      "inputHash": "faa751cf553102921318a6d1e1217d2ed87e728f8da0c50678bc69ab8bb5b741",
+      "status": "ready",
+      "data": {
+        "meaning": "可能出现的意外情况；应变事项",
+        "sourceLabel": "原词库教学材料 · 2026-10-12",
+        "sourceUrl": null,
+        "sourceDate": null,
+        "quote": "We need a contingency plan if the reviewer is unavailable.",
+        "translation": "如果评审人无法参加，我们需要一个应变方案。",
+        "quoteType": "原词库教学例句／转述；未认定为外部作者逐字引文",
+        "context": "仅以保留的这条原句为分析范围；未知背景不补造。",
+        "highlightTerm": "可能出现的意外情况；应变事项",
+        "keyMeaning": "可能出现的意外情况；应变事项",
+        "sentenceExplanation": "为评审人不可用这一可能情况准备的应变安排"
+      }
+    },
+    {
+      "entryId": "V20261012-015",
+      "contextId": "V20261012-015-context",
+      "inputHash": "6d431948dc06c66057dcbbba4fd99967b5d0da689497c7034b8a5211c9e1632a",
+      "status": "ready",
+      "data": {
+        "meaning": "承担责任；主动负责",
+        "sourceLabel": "原词库教学材料 · 2026-10-12",
+        "sourceUrl": null,
+        "sourceDate": null,
+        "quote": "Who will take ownership of this open item?",
+        "translation": "谁来负责跟进这个未结事项？",
+        "quoteType": "原词库教学例句／转述；未认定为外部作者逐字引文",
+        "context": "仅以保留的这条原句为分析范围；未知背景不补造。",
+        "highlightTerm": "承担责任；主动负责",
+        "keyMeaning": "承担责任；主动负责",
+        "sentenceExplanation": "承担这个未结事项的协调与跟进责任"
+      }
+    },
+    {
+      "entryId": "V20261012-018",
+      "contextId": "V20261012-018-context",
+      "inputHash": "e9d549231595ca355db0cdaeaa0ee30110601d4543aa8b2b019f802b5f759ec3",
+      "status": "ready",
+      "data": {
+        "meaning": "承诺；已答应承担的事项",
+        "sourceLabel": "原词库教学材料 · 2026-10-12",
+        "sourceUrl": null,
+        "sourceDate": null,
+        "quote": "Please confirm the conditions behind this commitment.",
+        "translation": "请确认这项承诺背后的条件。",
+        "quoteType": "原词库教学例句／转述；未认定为外部作者逐字引文",
+        "context": "仅以保留的这条原句为分析范围；未知背景不补造。",
+        "highlightTerm": "承诺；已答应承担的事项",
+        "keyMeaning": "承诺；已答应承担的事项",
+        "sentenceExplanation": "需要核对其成立条件的承诺"
+      }
+    },
+    {
+      "entryId": "V20261012-010",
+      "contextId": "V20261012-010-context",
+      "inputHash": "7e2c18eee032995d29f732d14d03accf28e6f6dcd164e3659d18b72f1ff41589",
+      "status": "ready",
+      "data": {
+        "meaning": "缓冲余量；预留的时间或资源",
+        "sourceLabel": "原词库教学材料 · 2026-10-12",
+        "sourceUrl": null,
+        "sourceDate": null,
+        "quote": "The plan includes a two-day buffer for review.",
+        "translation": "这个计划为评审预留了两天缓冲。",
+        "quoteType": "原词库教学例句／转述；未认定为外部作者逐字引文",
+        "context": "仅以保留的这条原句为分析范围；未知背景不补造。",
+        "highlightTerm": "缓冲余量；预留的时间或资源",
+        "keyMeaning": "缓冲余量；预留的时间或资源",
+        "sentenceExplanation": "为评审不确定性预留的两天时间余量"
+      }
+    },
+    {
+      "entryId": "V20261012-006",
+      "contextId": "V20261012-006-context",
+      "inputHash": "4aecefe2530120f99b9d25f40d23c4d7eb39a94985c5f74424b45ed20be3b1bd",
+      "status": "ready",
+      "data": {
+        "meaning": "约束；限制条件",
+        "sourceLabel": "原词库教学材料 · 2026-10-12",
+        "sourceUrl": null,
+        "sourceDate": null,
+        "quote": "The main constraint is the number of available reviewers.",
+        "translation": "主要限制是可用评审人的数量。",
+        "quoteType": "原词库教学例句／转述；未认定为外部作者逐字引文",
+        "context": "仅以保留的这条原句为分析范围；未知背景不补造。",
+        "highlightTerm": "约束；限制条件",
+        "keyMeaning": "约束；限制条件",
+        "sentenceExplanation": "评审人数量对安排工作形成的主要限制"
+      }
+    },
+    {
+      "entryId": "V20261012-088",
+      "contextId": "V20261012-088-context",
+      "inputHash": "4e640b4c42a30bca77f3a799a2639acf0fda8f2be025f125fdb87fc42eff752e",
+      "status": "ready",
+      "data": {
+        "meaning": "初步的；正式结果之前的",
+        "sourceLabel": "原词库教学材料 · 2026-10-12",
+        "sourceUrl": null,
+        "sourceDate": null,
+        "quote": "These are preliminary findings, not a final conclusion.",
+        "translation": "这些是初步发现，不是最终结论。",
+        "quoteType": "原词库教学例句／转述；未认定为外部作者逐字引文",
+        "context": "仅以保留的这条原句为分析范围；未知背景不补造。",
+        "highlightTerm": "初步的；正式结果之前的",
+        "keyMeaning": "初步的；正式结果之前的",
+        "sentenceExplanation": "当前仅属初步发现，不能当作最终结论"
+      }
+    },
+    {
+      "entryId": "V20261012-004",
+      "contextId": "V20261012-004-context",
+      "inputHash": "4289321df9898bffa858d1d15443ee7bb10f7ca4203f694c4a4e290d6bcb4c26",
+      "status": "ready",
+      "data": {
+        "meaning": "里程碑；重要阶段节点",
+        "sourceLabel": "原词库教学材料 · 2026-10-12",
+        "sourceUrl": null,
+        "sourceDate": null,
+        "quote": "We reached the first milestone after the review.",
+        "translation": "评审之后，我们达成了第一个里程碑。",
+        "quoteType": "原词库教学例句／转述；未认定为外部作者逐字引文",
+        "context": "仅以保留的这条原句为分析范围；未知背景不补造。",
+        "highlightTerm": "里程碑；重要阶段节点",
+        "keyMeaning": "里程碑；重要阶段节点",
+        "sentenceExplanation": "已经达到的第一个重要阶段节点"
+      }
+    },
+    {
+      "entryId": "V20261012-005",
+      "contextId": "V20261012-005-context",
+      "inputHash": "2d8dda172c5cc166b779570b7930eabd901177341eb98466d98550d9fd30e173",
+      "status": "ready",
+      "data": {
+        "meaning": "优先事项；优先顺序",
+        "sourceLabel": "原词库教学材料 · 2026-10-12",
+        "sourceUrl": null,
+        "sourceDate": null,
+        "quote": "We need to set priorities for the remaining work.",
+        "translation": "我们需要为剩余工作确定优先次序。",
+        "quoteType": "原词库教学例句／转述；未认定为外部作者逐字引文",
+        "context": "仅以保留的这条原句为分析范围；未知背景不补造。",
+        "highlightTerm": "优先事项；优先顺序",
+        "keyMeaning": "优先事项；优先顺序",
+        "sentenceExplanation": "对剩余事项安排先处理什么"
+      }
+    },
+    {
+      "entryId": "V20261012-007",
+      "contextId": "V20261012-007-context",
+      "inputHash": "e76fd8acc2e81aa493c430258efc43a00c3ee1c02ef8c632eb0b6224838c7a27",
+      "status": "ready",
+      "data": {
+        "meaning": "依赖关系；前置条件",
+        "sourceLabel": "原词库教学材料 · 2026-10-12",
+        "sourceUrl": null,
+        "sourceDate": null,
+        "quote": "Please identify dependencies before finalizing the schedule.",
+        "translation": "请在最终确定日程之前识别各项依赖关系。",
+        "quoteType": "原词库教学例句／转述；未认定为外部作者逐字引文",
+        "context": "仅以保留的这条原句为分析范围；未知背景不补造。",
+        "highlightTerm": "依赖关系；前置条件",
+        "keyMeaning": "依赖关系；前置条件",
+        "sentenceExplanation": "排期前需找出的前提或相互制约关系"
+      }
+    },
+    {
+      "entryId": "V20261012-008",
+      "contextId": "V20261012-008-context",
+      "inputHash": "b559f185d2024042b2724851113dad0848b384108df51b1193fa7d7c89349a0f",
+      "status": "ready",
+      "data": {
+        "meaning": "假设；暂作为成立的前提",
+        "sourceLabel": "原词库教学材料 · 2026-10-12",
+        "sourceUrl": null,
+        "sourceDate": null,
+        "quote": "This assumption needs to be checked with the supplier.",
+        "translation": "这个假设需要向供应商核实。",
+        "quoteType": "原词库教学例句／转述；未认定为外部作者逐字引文",
+        "context": "仅以保留的这条原句为分析范围；未知背景不补造。",
+        "highlightTerm": "假设；暂作为成立的前提",
+        "keyMeaning": "假设；暂作为成立的前提",
+        "sentenceExplanation": "尚需向供应商验证的前提"
+      }
+    },
+    {
+      "entryId": "V20261012-009",
+      "contextId": "V20261012-009-context",
+      "inputHash": "6f7e79bce63d1cf5d6c22f263a2f17e1d2c918574b232c049478c1373ff27855",
+      "status": "ready",
+      "data": {
+        "meaning": "基准；用于比较的起点",
+        "sourceLabel": "原词库教学材料 · 2026-10-12",
+        "sourceUrl": null,
+        "sourceDate": null,
+        "quote": "We need a baseline before measuring the improvement.",
+        "translation": "在衡量改善之前，我们需要一个基准。",
+        "quoteType": "原词库教学例句／转述；未认定为外部作者逐字引文",
+        "context": "仅以保留的这条原句为分析范围；未知背景不补造。",
+        "highlightTerm": "基准；用于比较的起点",
+        "keyMeaning": "基准；用于比较的起点",
+        "sentenceExplanation": "用于对照改善幅度的起始参照"
+      }
+    },
+    {
+      "entryId": "V20261012-011",
+      "contextId": "V20261012-011-context",
+      "inputHash": "122892c91ab21a397261e9b26218b45d2f6a81d76618751a381f57aa17176beb",
+      "status": "ready",
+      "data": {
+        "meaning": "顺序；先后次序",
+        "sourceLabel": "原词库教学材料 · 2026-10-12",
+        "sourceUrl": null,
+        "sourceDate": null,
+        "quote": "Let's agree on the sequence of the remaining activities.",
+        "translation": "我们来商定剩余活动的顺序吧。",
+        "quoteType": "原词库教学例句／转述；未认定为外部作者逐字引文",
+        "context": "仅以保留的这条原句为分析范围；未知背景不补造。",
+        "highlightTerm": "顺序；先后次序",
+        "keyMeaning": "顺序；先后次序",
+        "sentenceExplanation": "有待共同确定的执行先后"
+      }
+    },
+    {
+      "entryId": "V20261012-013",
+      "contextId": "V20261012-013-context",
+      "inputHash": "d33f31d2046ee59eeec33976acd879f83b49dc3162df3502724956e7d91955ff",
+      "status": "ready",
+      "data": {
+        "meaning": "分配；拨出供某用途使用",
+        "sourceLabel": "原词库教学材料 · 2026-10-12",
+        "sourceUrl": null,
+        "sourceDate": null,
+        "quote": "We should allocate more time to the initial review.",
+        "translation": "我们应该给初次评审分配更多时间。",
+        "quoteType": "原词库教学例句／转述；未认定为外部作者逐字引文",
+        "context": "仅以保留的这条原句为分析范围；未知背景不补造。",
+        "highlightTerm": "分配；拨出供某用途使用",
+        "keyMeaning": "分配；拨出供某用途使用",
+        "sentenceExplanation": "建议增加初次评审可使用的时间"
+      }
+    },
+    {
+      "entryId": "V20261012-014",
+      "contextId": "V20261012-014-context",
+      "inputHash": "c5bd45ef696d94fb1cfaffe089ac79dfa312d3c66804c3d9b88567b156b80251",
+      "status": "ready",
+      "data": {
+        "meaning": "委派；把任务交给他人处理",
+        "sourceLabel": "原词库教学材料 · 2026-10-12",
+        "sourceUrl": null,
+        "sourceDate": null,
+        "quote": "You can delegate the data collection to another team member.",
+        "translation": "你可以把数据收集交给另一位团队成员。",
+        "quoteType": "原词库教学例句／转述；未认定为外部作者逐字引文",
+        "context": "仅以保留的这条原句为分析范围；未知背景不补造。",
+        "highlightTerm": "委派；把任务交给他人处理",
+        "keyMeaning": "委派；把任务交给他人处理",
+        "sentenceExplanation": "允许或提出把数据收集任务委派给他人"
+      }
+    },
+    {
+      "entryId": "V20261012-016",
+      "contextId": "V20261012-016-context",
+      "inputHash": "c8a48d6df99c06c547a5972873d5ce4473f34531a10feb868480c46d49442ba8",
+      "status": "ready",
+      "data": {
+        "meaning": "负有责任的；须作出交代的",
+        "sourceLabel": "原词库教学材料 · 2026-10-12",
+        "sourceUrl": null,
+        "sourceDate": null,
+        "quote": "One person must be accountable for the final decision.",
+        "translation": "必须有一个人对最终决定负责。",
+        "quoteType": "原词库教学例句／转述；未认定为外部作者逐字引文",
+        "context": "仅以保留的这条原句为分析范围；未知背景不补造。",
+        "highlightTerm": "负有责任的；须作出交代的",
+        "keyMeaning": "负有责任的；须作出交代的",
+        "sentenceExplanation": "要求明确一名对最终决定承担问责责任的人"
+      }
+    },
+    {
+      "entryId": "V20261012-017",
+      "contextId": "V20261012-017-context",
+      "inputHash": "46f9c7227029b40c8a0948139f8da2cfb2b4a3bbc850f3460cfaf8b34da9b0e2",
+      "status": "ready",
+      "data": {
+        "meaning": "截止期限；最后完成时限",
+        "sourceLabel": "原词库教学材料 · 2026-10-12",
+        "sourceUrl": null,
+        "sourceDate": null,
+        "quote": "We need a decision today to meet the deadline.",
+        "translation": "为了赶上截止时间，我们今天需要作出决定。",
+        "quoteType": "原词库教学例句／转述；未认定为外部作者逐字引文",
+        "context": "仅以保留的这条原句为分析范围；未知背景不补造。",
+        "highlightTerm": "截止期限；最后完成时限",
+        "keyMeaning": "截止期限；最后完成时限",
+        "sentenceExplanation": "需要按时完成事项的最后期限"
+      }
+    },
+    {
+      "entryId": "V20261012-021",
+      "contextId": "V20261012-021-context",
+      "inputHash": "db8caa60735dc10fec8f16893c41d620a71e0310e55fd13cb845634867ce4afd",
+      "status": "ready",
+      "data": {
+        "meaning": "可行的；在现有条件下能够做到的",
+        "sourceLabel": "原词库教学材料 · 2026-10-12",
+        "sourceUrl": null,
+        "sourceDate": null,
+        "quote": "Is this option feasible with our current resources?",
+        "translation": "以我们目前的资源，这个选项可行吗？",
+        "quoteType": "原词库教学例句／转述；未认定为外部作者逐字引文",
+        "context": "仅以保留的这条原句为分析范围；未知背景不补造。",
+        "highlightTerm": "可行的；在现有条件下能够做到的",
+        "keyMeaning": "可行的；在现有条件下能够做到的",
+        "sentenceExplanation": "询问当前资源条件是否足以实施这个选项"
+      }
+    },
+    {
+      "entryId": "V20261012-023",
+      "contextId": "V20261012-023-context",
+      "inputHash": "8d565d1bc3abd13701cf67ee8456e46a53eb4ecedf61f2602074f11d274416e9",
+      "status": "ready",
+      "data": {
+        "meaning": "逾期的；超过应完成时间的",
+        "sourceLabel": "原词库教学材料 · 2026-10-12",
+        "sourceUrl": null,
+        "sourceDate": null,
+        "quote": "The action is overdue, so we need an updated completion time.",
+        "translation": "这项行动已经逾期，所以我们需要更新完成时间。",
+        "quoteType": "原词库教学例句／转述；未认定为外部作者逐字引文",
+        "context": "仅以保留的这条原句为分析范围；未知背景不补造。",
+        "highlightTerm": "逾期的；超过应完成时间的",
+        "keyMeaning": "逾期的；超过应完成时间的",
+        "sentenceExplanation": "行动超过原本应完成的时间而仍未完成"
+      }
+    },
+    {
+      "entryId": "V20261012-025",
+      "contextId": "V20261012-025-context",
+      "inputHash": "e11764ba1da34ae630caa388ef168cdef7cec5937c6b5b2a8bdcf8d9f7e552dd",
+      "status": "ready",
+      "data": {
+        "meaning": "积压工作；尚未处理的事项",
+        "sourceLabel": "原词库教学材料 · 2026-10-12",
+        "sourceUrl": null,
+        "sourceDate": null,
+        "quote": "We will clear the backlog before accepting more requests.",
+        "translation": "我们会先清理积压工作，再接受更多请求。",
+        "quoteType": "原词库教学例句／转述；未认定为外部作者逐字引文",
+        "context": "仅以保留的这条原句为分析范围；未知背景不补造。",
+        "highlightTerm": "积压工作；尚未处理的事项",
+        "keyMeaning": "积压工作；尚未处理的事项",
+        "sentenceExplanation": "尚未完成、需要先处理的积压事项"
+      }
+    },
+    {
+      "entryId": "V20261012-026",
+      "contextId": "V20261012-026-context",
+      "inputHash": "02e3d05a12a199a5295fca4e297df04bfc654682959a09a765c955c983f81397",
+      "status": "ready",
+      "data": {
+        "meaning": "瓶颈；限制整体进展的环节",
+        "sourceLabel": "原词库教学材料 · 2026-10-12",
+        "sourceUrl": null,
+        "sourceDate": null,
+        "quote": "The approval step has become a bottleneck.",
+        "translation": "审批环节已经成为瓶颈。",
+        "quoteType": "原词库教学例句／转述；未认定为外部作者逐字引文",
+        "context": "仅以保留的这条原句为分析范围；未知背景不补造。",
+        "highlightTerm": "瓶颈；限制整体进展的环节",
+        "keyMeaning": "瓶颈；限制整体进展的环节",
+        "sentenceExplanation": "审批步骤正在限制流程进展"
+      }
+    },
+    {
+      "entryId": "V20261012-028",
+      "contextId": "V20261012-028-context",
+      "inputHash": "a0dc0015726318f886a5df9e793e1b6c7722e4af3cbb171a57b570b3775f49f2",
+      "status": "ready",
+      "data": {
+        "meaning": "挫折；进展中的阻碍",
+        "sourceLabel": "原词库教学材料 · 2026-10-12",
+        "sourceUrl": null,
+        "sourceDate": null,
+        "quote": "The missing approval is a temporary setback, not a reason to stop the project.",
+        "translation": "缺少批准只是暂时的阻碍，并不是停止项目的理由。",
+        "quoteType": "原词库教学例句／转述；未认定为外部作者逐字引文",
+        "context": "仅以保留的这条原句为分析范围；未知背景不补造。",
+        "highlightTerm": "挫折；进展中的阻碍",
+        "keyMeaning": "挫折；进展中的阻碍",
+        "sentenceExplanation": "说话者把未获批准界定为暂时妨碍进展的情况"
+      }
+    },
+    {
+      "entryId": "V20261012-029",
+      "contextId": "V20261012-029-context",
+      "inputHash": "4947697db611ff3f9cf5cf34ea1705d7b84fb7e7e290f63f97166a3b1194ef94",
+      "status": "ready",
+      "data": {
+        "meaning": "升级处理；提交更高层协调",
+        "sourceLabel": "原词库教学材料 · 2026-10-12",
+        "sourceUrl": null,
+        "sourceDate": null,
+        "quote": "We should escalate the issue if the teams cannot agree.",
+        "translation": "如果各团队无法达成一致，我们应该把问题提交更高级别处理。",
+        "quoteType": "原词库教学例句／转述；未认定为外部作者逐字引文",
+        "context": "仅以保留的这条原句为分析范围；未知背景不补造。",
+        "highlightTerm": "升级处理；提交更高层协调",
+        "keyMeaning": "升级处理；提交更高层协调",
+        "sentenceExplanation": "在团队无法达成一致时建议向更高层寻求处理"
+      }
+    },
+    {
+      "entryId": "V20261012-030",
+      "contextId": "V20261012-030-context",
+      "inputHash": "b78248e20463a24ed68d383081b12cd757a7287f9767ef93980ac07b707e8e12",
+      "status": "ready",
+      "data": {
+        "meaning": "减轻；缓和不利影响",
+        "sourceLabel": "原词库教学材料 · 2026-10-12",
+        "sourceUrl": null,
+        "sourceDate": null,
+        "quote": "An earlier review would help mitigate the schedule risk.",
+        "translation": "更早开展评审将有助于降低进度风险。",
+        "quoteType": "原词库教学例句／转述；未认定为外部作者逐字引文",
+        "context": "仅以保留的这条原句为分析范围；未知背景不补造。",
+        "highlightTerm": "减轻；缓和不利影响",
+        "keyMeaning": "减轻；缓和不利影响",
+        "sentenceExplanation": "提议通过提前评审减轻日程风险"
+      }
+    },
+    {
+      "entryId": "V20261012-031",
+      "contextId": "V20261012-031-context",
+      "inputHash": "395c6db6afaa4e22ef89fbf0e5458f3ff7c1c0bb8b7f5e30fc2bde3231b46d13",
+      "status": "ready",
+      "data": {
+        "meaning": "持续监测；跟踪观察",
+        "sourceLabel": "原词库教学材料 · 2026-10-12",
+        "sourceUrl": null,
+        "sourceDate": null,
+        "quote": "We will monitor progress and report any significant change.",
+        "translation": "我们会监测进展，并报告任何显著变化。",
+        "quoteType": "原词库教学例句／转述；未认定为外部作者逐字引文",
+        "context": "仅以保留的这条原句为分析范围；未知背景不补造。",
+        "highlightTerm": "持续监测；跟踪观察",
+        "keyMeaning": "持续监测；跟踪观察",
+        "sentenceExplanation": "持续留意进度并在发生显著变化时报告"
+      }
+    },
+    {
+      "entryId": "V20261012-032",
+      "contextId": "V20261012-032-context",
+      "inputHash": "7a210d49d86a4d4d57516fb535d844dc82fd56052cd33b1c92e1c1cd19ff70c6",
+      "status": "ready",
+      "data": {
+        "meaning": "重新评估；再次判断",
+        "sourceLabel": "原词库教学材料 · 2026-10-12",
+        "sourceUrl": null,
+        "sourceDate": null,
+        "quote": "We need to reassess the plan after the scope change.",
+        "translation": "范围改变之后，我们需要重新评估计划。",
+        "quoteType": "原词库教学例句／转述；未认定为外部作者逐字引文",
+        "context": "仅以保留的这条原句为分析范围；未知背景不补造。",
+        "highlightTerm": "重新评估；再次判断",
+        "keyMeaning": "重新评估；再次判断",
+        "sentenceExplanation": "基于范围变化再检查原计划是否适用"
+      }
+    },
+    {
+      "entryId": "V20261012-033",
+      "contextId": "V20261012-033-context",
+      "inputHash": "7e0530d057b3c1692a701d61d2bd6ffaa7a7b02845e4202e0fee747857eabce5",
+      "status": "ready",
+      "data": {
+        "meaning": "推迟；留待以后处理",
+        "sourceLabel": "原词库教学材料 · 2026-10-12",
+        "sourceUrl": null,
+        "sourceDate": null,
+        "quote": "We can defer the decision until the missing data arrives.",
+        "translation": "我们可以把决定推迟到缺失的数据到齐时再作。",
+        "quoteType": "原词库教学例句／转述；未认定为外部作者逐字引文",
+        "context": "仅以保留的这条原句为分析范围；未知背景不补造。",
+        "highlightTerm": "推迟；留待以后处理",
+        "keyMeaning": "推迟；留待以后处理",
+        "sentenceExplanation": "提出等待必要数据后再决定的选项"
+      }
+    },
+    {
+      "entryId": "V20261012-034",
+      "contextId": "V20261012-034-context",
+      "inputHash": "05dd716fcdb91c5bec438b5dea766ac9e1d1a306a75812830f2f856589079e37",
+      "status": "ready",
+      "data": {
+        "meaning": "加快；促进更快完成",
+        "sourceLabel": "原词库教学材料 · 2026-10-12",
+        "sourceUrl": null,
+        "sourceDate": null,
+        "quote": "Could you help expedite the review without skipping any checks?",
+        "translation": "你能帮助加快评审，同时不跳过任何检查吗？",
+        "quoteType": "原词库教学例句／转述；未认定为外部作者逐字引文",
+        "context": "仅以保留的这条原句为分析范围；未知背景不补造。",
+        "highlightTerm": "加快；促进更快完成",
+        "keyMeaning": "加快；促进更快完成",
+        "sentenceExplanation": "请求在保留全部检查的条件下加快评审"
+      }
+    },
+    {
+      "entryId": "V20261012-035",
+      "contextId": "V20261012-035-context",
+      "inputHash": "386a72b1beae2978e08d27af07f46a49358de2c33b37cf6173818992e81ddf50",
+      "status": "ready",
+      "data": {
+        "meaning": "解决；使争议或问题得到处理",
+        "sourceLabel": "原词库教学材料 · 2026-10-12",
+        "sourceUrl": null,
+        "sourceDate": null,
+        "quote": "We need to resolve the scope issue before signing off.",
+        "translation": "我们需要在签字批准之前解决范围问题。",
+        "quoteType": "原词库教学例句／转述；未认定为外部作者逐字引文",
+        "context": "仅以保留的这条原句为分析范围；未知背景不补造。",
+        "highlightTerm": "解决；使争议或问题得到处理",
+        "keyMeaning": "解决；使争议或问题得到处理",
+        "sentenceExplanation": "把范围问题处理清楚作为批准前的条件"
+      }
+    },
+    {
+      "entryId": "V20261012-036",
+      "contextId": "V20261012-036-context",
+      "inputHash": "611ed77a89d814778bf20e3b9c819ac1ea83e96190534524ca67091fe4b2ae9c",
+      "status": "ready",
+      "data": {
+        "meaning": "交接；把工作移交给接手者",
+        "sourceLabel": "原词库教学材料 · 2026-10-12",
+        "sourceUrl": null,
+        "sourceDate": null,
+        "quote": "A clear handover will help the next team start smoothly.",
+        "translation": "清楚的交接将有助于下一个团队顺利启动。",
+        "quoteType": "原词库教学例句／转述；未认定为外部作者逐字引文",
+        "context": "仅以保留的这条原句为分析范围；未知背景不补造。",
+        "highlightTerm": "交接；把工作移交给接手者",
+        "keyMeaning": "交接；把工作移交给接手者",
+        "sentenceExplanation": "让接手团队了解并接续工作的交接"
+      }
+    },
+    {
+      "entryId": "V20261012-037",
+      "contextId": "V20261012-037-context",
+      "inputHash": "feafedcc5ab35e139ca840d5c6494176f05c57b0834205331434acf46accffdb",
+      "status": "ready",
+      "data": {
+        "meaning": "正式批准；签批",
+        "sourceLabel": "原词库教学材料 · 2026-10-12",
+        "sourceUrl": null,
+        "sourceDate": null,
+        "quote": "We need the project manager's sign-off before proceeding.",
+        "translation": "继续进行之前，我们需要项目经理的签字批准。",
+        "quoteType": "原词库教学例句／转述；未认定为外部作者逐字引文",
+        "context": "仅以保留的这条原句为分析范围；未知背景不补造。",
+        "highlightTerm": "正式批准；签批",
+        "keyMeaning": "正式批准；签批",
+        "sentenceExplanation": "本情境继续执行所需的项目经理正式批准"
+      }
+    },
+    {
+      "entryId": "V20261012-038",
+      "contextId": "V20261012-038-context",
+      "inputHash": "c0dc806a616082557eeaddce97f2391e25c3471713de05a06163f1bdc3d5232a",
+      "status": "ready",
+      "data": {
+        "meaning": "检查节点；阶段检查点",
+        "sourceLabel": "原词库教学材料 · 2026-10-12",
+        "sourceUrl": null,
+        "sourceDate": null,
+        "quote": "Let's set a checkpoint for Wednesday afternoon.",
+        "translation": "我们把一个检查节点安排在星期三下午吧。",
+        "quoteType": "原词库教学例句／转述；未认定为外部作者逐字引文",
+        "context": "仅以保留的这条原句为分析范围；未知背景不补造。",
+        "highlightTerm": "检查节点；阶段检查点",
+        "keyMeaning": "检查节点；阶段检查点",
+        "sentenceExplanation": "提议在星期三下午安排一次检查进展或状态的节点"
+      }
+    },
+    {
+      "entryId": "V20261012-040",
+      "contextId": "V20261012-040-context",
+      "inputHash": "f9410c5ca29bfaea2a3b11d64f191622d2bf56f0df8009ca0526f70d49d78de9",
+      "status": "ready",
+      "data": {
+        "meaning": "结果；活动产生的产出",
+        "sourceLabel": "原词库教学材料 · 2026-10-12",
+        "sourceUrl": null,
+        "sourceDate": null,
+        "quote": "The expected outcome is a decision, not another discussion.",
+        "translation": "预期结果是作出决定，而不是再进行一轮讨论。",
+        "quoteType": "原词库教学例句／转述；未认定为外部作者逐字引文",
+        "context": "仅以保留的这条原句为分析范围；未知背景不补造。",
+        "highlightTerm": "结果；活动产生的产出",
+        "keyMeaning": "结果；活动产生的产出",
+        "sentenceExplanation": "把作出决定设为此次活动希望得到的结果"
+      }
+    }
+  ],
+  "outputHash": "e1ec6d1300c8167493958c82071fff0dabd4a2ccbbc31ce262ff99d454f2edfe"
+}
