@@ -12,3 +12,7 @@ await cp('public/previews/word-layout-v7-20261116','dist/previews/word-layout-v7
 const {verifyGenerated}=await import('../word-page/manage.mjs');
 await cp('public/previews/word-layout-v8-20261116','dist/previews/word-layout-v8-20261116',{recursive:true});
 await cp(verifyGenerated(),'dist/previews/word-layout-v9-20261116',{recursive:true});
+
+// Owner-approved basic reading release; leave the existing learning application intact.
+const {verifyBasicRelease}=await import('./verify-basic-release.mjs');
+await cp(verifyBasicRelease(),'dist/releases/basic-v1-20261117',{recursive:true});
