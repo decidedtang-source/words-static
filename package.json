@@ -1,1 +1,22 @@
-{"name":"words-static","version":"1.0.0","private":true,"type":"module","scripts":{"test":"node --test tests/*.test.mjs","build":"node scripts/build.mjs","test:browser":"node --test tests/browser/*.test.mjs"},"dependencies":{"ts-fsrs":"6.0.0"},"devDependencies":{"esbuild":"0.25.12","@playwright/test":"1.56.1"}}
+{
+  "name": "words-static",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test tests/*.test.mjs",
+    "build": "node scripts/build.mjs",
+    "test:browser": "node --test tests/browser/*.test.mjs",
+    "qa:check": "node scripts/qa/cli.mjs check",
+    "qa:page": "node scripts/qa/cli.mjs page",
+    "qa:preview": "node scripts/qa/cli.mjs preview",
+    "qa:verify": "node scripts/qa/freeze.mjs verify"
+  },
+  "dependencies": {
+    "ts-fsrs": "6.0.0"
+  },
+  "devDependencies": {
+    "esbuild": "0.25.12",
+    "@playwright/test": "1.56.1"
+  }
+}
