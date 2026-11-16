@@ -1,0 +1,1191 @@
+{
+  "moduleId": "bridge",
+  "version": "1.0.0",
+  "producerHash": "8aa7728ad3f987b973eb63b4c33ac2f769633f12d3ebb6416fae342e62853ff8",
+  "dependencies": {
+    "learning": "bfca98c1e3610e8e635183474429c6805c9bc5f0cad4b4ae5c6ea4f433c76cdb",
+    "history": "a7b88a8d8511855838df68bc25d70aa687cfe2097e859a4a75dbdb1d279904e6",
+    "scenario": "e8cc80fe832c2193179ed1034756f9ac742f1550f89f8a53074e0911635f848f"
+  },
+  "records": [
+    {
+      "entryId": "V20261012-002",
+      "contextId": "V20261012-002-context",
+      "inputHash": "d95f331df6e48d2481bde2de61cc587eadbb03f49b7e388e097cda7405b32eb7",
+      "status": "ready",
+      "data": {
+        "bridge": "从常用的“目标”义进入：to reduce说明目标内容，即减少审批耗时。",
+        "bridgeHistory": "军事上的目标点把行动指向某个终点；本句则把想达到的终点写成“减少审批耗时”。",
+        "bridgeTarget": "sense-0"
+      },
+      "provenance": {
+        "historyRelation": "editorial_link_to_sourced_history",
+        "sourceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-o.json/objective/n / objective%1:09:00::",
+            "supportedClaim": "the goal intended to be attained (and which is believed to be attainable)",
+            "url": "https://en-word.net/"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-012",
+      "contextId": "V20261012-012-context",
+      "inputHash": "55133d10103ad124d665fab1d610b1d0c3493e184ca6f484689106d19609781d",
+      "status": "ready",
+      "data": {
+        "bridge": "这里用的是完成工作或生产的能力义，关注现有资源能承接多少工作。both projects给出要承接的工作量，not enough说明资源承载量不足。",
+        "bridgeHistory": "早期容纳能力与后来的工业生产能力，都围绕能承接多少。本句将这种量的视角用于可用工作资源。",
+        "bridgeTarget": "sense-1"
+      },
+      "provenance": {
+        "historyRelation": "editorial_link_to_sourced_history",
+        "sourceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-c.json/capacity/n / capacity%1:07:00::",
+            "supportedClaim": "capability to perform or produce",
+            "url": "https://en-word.net/"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-022",
+      "contextId": "V20261012-022-context",
+      "inputHash": "f7113e4133d0f14afd21b56030db8b4771b2c006c0610944c79988829926d06a",
+      "status": "ready",
+      "data": {
+        "bridge": "从“暂定”进入：日期已经提出，但还需要评审完成后确认。Friday是安排内容，tentative说明它的确定程度。",
+        "bridgeHistory": "试验、尝试的词史有助于理解先提出安排再确认。本句中的日期已经可供讨论，但尚未定案。",
+        "bridgeTarget": "sense-0"
+      },
+      "provenance": {
+        "historyRelation": "editorial_link_to_sourced_history",
+        "sourceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-t.json/tentative/a / tentative%5:00:00:conditional:00",
+            "supportedClaim": "under terms not final or fully worked out or agreed upon",
+            "url": "https://en-word.net/"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-024",
+      "contextId": "V20261012-024-context",
+      "inputHash": "1f914ae7edabe6b23005e4cbaef69f6472326634807ad969f44a68e292a16d7d",
+      "status": "ready",
+      "data": {
+        "bridge": "pending直接说明approval仍在等待结果。后半句把这个状态与暂不能继续联系起来。",
+        "bridgeHistory": "悬而未决的历史背景在这里仍清晰：批准决定还没有落定。",
+        "bridgeTarget": "sense-0"
+      },
+      "provenance": {
+        "historyRelation": "editorial_link_to_sourced_history",
+        "sourceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-p.json/pending/a / pending%5:00:00:unfinished:01",
+            "supportedClaim": "awaiting conclusion or confirmation",
+            "url": "https://en-word.net/"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-053",
+      "contextId": "V20261012-053-context",
+      "inputHash": "7bb57bbeb669cecfe30a396998b96e9a6ccec7b20bef0689e8a18c1084ef9ddf",
+      "status": "ready",
+      "data": {
+        "bridge": "这里选“顾虑、保留意见”义：说话者对评审前作出承诺有所顾虑，about后面说明顾虑对象。",
+        "bridgeHistory": "早期留存、保留与后来的意见保留可以这样联系：没有交出全部赞同，仍留下需要解决的顾虑。",
+        "bridgeTarget": "sense-1"
+      },
+      "provenance": {
+        "historyRelation": "editorial_link_to_sourced_history",
+        "sourceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-r.json/reservation/n / reservation%1:09:00::",
+            "supportedClaim": "an unstated doubt that prevents you from accepting something wholeheartedly",
+            "url": "https://en-word.net/"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-078",
+      "contextId": "V20261012-078-context",
+      "inputHash": "427868767a421863e037ca362a99b2a1d6e9ee22e1a40f897ee5ccaa41e7948e",
+      "status": "ready",
+      "data": {
+        "bridge": "前部资格义之外，这里采用“限定陈述”义。冒号后的depends on approval就是新加的条件，用它调整先前对日期的说法。",
+        "bridgeHistory": "附加限制的用法早在16世纪已有记录。本句延续这一分支：用批准条件收窄原陈述的适用范围。",
+        "bridgeTarget": "inventory-2"
+      },
+      "provenance": {
+        "historyRelation": "editorial_link_to_sourced_history",
+        "sourceRefs": [
+          {
+            "sourceId": "cambridge-qualify",
+            "sourceVersion": "2026-11-16",
+            "locator": "verb, limit a statement",
+            "supportedClaim": "qualify可给陈述加限定；与具备资格义区分。",
+            "url": "https://dictionary.cambridge.org/dictionary/english/qualify"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-076",
+      "contextId": "V20261012-076-context",
+      "inputHash": "9909e89bf88b156ef4d959c8cf2ae1af28eeaef88baabb2f184490bb62835375",
+      "status": "ready",
+      "data": {
+        "bridge": "从推断义进入：from引出依据，approval是可能推出的结论。not要求读者不要把未回复当作批准依据。",
+        "bridgeHistory": "词史中的带入结论已用于逻辑推理；本句关注的是推理从什么信息出发，以及这个结论能否成立。",
+        "bridgeTarget": "sense-0"
+      },
+      "provenance": {
+        "historyRelation": "editorial_link_to_sourced_history",
+        "sourceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-i.json/infer/v / infer%2:32:00::",
+            "supportedClaim": "conclude by reasoning; in logic",
+            "url": "https://en-word.net/"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-093",
+      "contextId": "V20261012-093-context",
+      "inputHash": "b7e08e477465a95ef9089059c59bfc924446a819d496ce851c69e6d928559596",
+      "status": "ready",
+      "data": {
+        "bridge": "这是整体使用的条件连接表达，把“可以继续”与“负责人确认范围”连接起来。后半句给出成立条件。",
+        "bridgeHistory": "provided作为条件连接词已有长期记录。本句直接使用这一条件分支，that引出条件内容。",
+        "bridgeTarget": "sense-0"
+      },
+      "provenance": {
+        "historyRelation": "editorial_link_to_sourced_history",
+        "sourceRefs": [
+          {
+            "sourceId": "cambridge-provided",
+            "sourceVersion": "2026-11-16",
+            "locator": "conjunction, also provided that",
+            "supportedClaim": "provided that引出条件；不能删除其条件从句。",
+            "url": "https://dictionary.cambridge.org/dictionary/english/provided"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-100",
+      "contextId": "V20261012-100-context",
+      "inputHash": "a813bbfc55f7d1e5e1411123b927662ccb99f136f39bfe589bd56616e6bfc398",
+      "status": "ready",
+      "data": {
+        "bridge": "它否定的是“任务完成就一定代表问题解决”这层必然联系。完成与解决可能同时发生，但前者不能保证后者。",
+        "bridgeHistory": "necessarily的必然结果义有历史记录；加上not后，当前表达取消必然性。这是现代组合解释，组成词的年代不代表整个短语的起源年代。",
+        "bridgeTarget": "sense-0"
+      },
+      "provenance": {
+        "historyRelation": "editorial_link_to_sourced_history",
+        "sourceRefs": [
+          {
+            "sourceId": "cambridge-necessarily",
+            "sourceVersion": "2026-11-16",
+            "locator": "not necessarily",
+            "supportedClaim": "not necessarily是否定必然性，不是断言相反命题。",
+            "url": "https://dictionary.cambridge.org/dictionary/learner-english/necessarily"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261014-075",
+      "contextId": "V20261014-075-context",
+      "inputHash": "a320f24ca30457a39449f83c97ad8f080ceb99bd9d08c600645ce9271679432c",
+      "status": "ready",
+      "data": {
+        "bridge": "verification提供核实的入口，工程语境再明确对照的是规定要求；method是取得相应证据的做法。",
+        "bridgeHistory": "verification提供确认真实性的历史背景，method提供有序方法的背景；工程中对照规定要求的具体含义来自现代专业用法。",
+        "bridgeTarget": "inventory-2"
+      },
+      "provenance": {
+        "historyRelation": "editorial_link_to_sourced_history",
+        "sourceRefs": [
+          {
+            "sourceId": "nasa-verification",
+            "sourceVersion": "2026-11-16",
+            "locator": "5.3 Product Verification; 5.4 Product Validation",
+            "supportedClaim": "Verification对照规定要求；validation关注预定使用环境和用户需求。检查、分析、演示、测试可作方法；具体选择依要求与场景，不能将NASA流程当成本公司制度。",
+            "url": "https://www.nasa.gov/reference/5-0-product-realization/"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261014-076",
+      "contextId": "V20261014-076-context",
+      "inputHash": "5df634ab671d97981fa3597093c9a579ce8e7ceaf902341200f4f6dfeadf07fd",
+      "status": "ready",
+      "data": {
+        "bridge": "这里用工程中的确认义，关注是否适合实际使用。that reflects actual use进一步要求所选方法贴近使用情境。",
+        "bridgeHistory": "validation的确认背景与method的方法背景可以分别阅读；这里把两者用于实际用途的确认，并非由词源推导工程判准。",
+        "bridgeTarget": "inventory-2"
+      },
+      "provenance": {
+        "historyRelation": "editorial_link_to_sourced_history",
+        "sourceRefs": [
+          {
+            "sourceId": "nasa-validation",
+            "sourceVersion": "2026-11-16",
+            "locator": "5.4 Product Validation; contrasted with 5.3",
+            "supportedClaim": "validation关注产品在预定环境中能否按预期使用；与verification对照规定要求的判准区分。",
+            "url": "https://www.nasa.gov/reference/5-0-product-realization/"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261029-005",
+      "contextId": "V20261029-005-context",
+      "inputHash": "c8aa750c8d0092e4687b3dcf49cd86e297ab1cb4435af2c5c5562b878d784d73",
+      "status": "ready",
+      "data": {
+        "bridge": "working限定definition：先采用一个足够支持当前讨论的定义，再依据需要修订。原句要共同约定的是critical defect的含义。",
+        "bridgeHistory": "working曾发展出提供工作基础的用法，definition与划定边界有关；两者合起来，是先为当前讨论划出可用边界。",
+        "bridgeTarget": "sense-0"
+      },
+      "provenance": {
+        "historyRelation": "editorial_link_to_sourced_history",
+        "sourceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-w.json/working/a / working%5:00:00:impermanent:00",
+            "supportedClaim": "adopted as a temporary basis for further work",
+            "url": "https://en-word.net/"
+          },
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-d.json/definition/n / definition%1:10:00::",
+            "supportedClaim": "a concise explanation of the meaning of a word or phrase or symbol",
+            "url": "https://en-word.net/"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261014-003",
+      "contextId": "V20261014-003-context",
+      "inputHash": "132a5b8901f5fff7541ed1bb74b8fda81ef097ce66bbf472a577eea3b3deaefc",
+      "status": "ready",
+      "data": {
+        "bridge": "选用frame的构思、组织表述义，around说明讨论围绕什么展开；本句把漏掉的检验步骤设为讨论中心。",
+        "bridgeHistory": "frame的组织、构思义与issue的待决定问题义各有历史。本句将两者组合成确定讨论角度的表达。",
+        "bridgeTarget": "sense-1"
+      },
+      "provenance": {
+        "historyRelation": "editorial_link_to_sourced_history",
+        "sourceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-f.json/frame/v / frame%2:32:00::",
+            "supportedClaim": "formulate in a particular style or language",
+            "url": "https://en-word.net/"
+          },
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-i.json/issue/n / issue%1:09:01::",
+            "supportedClaim": "an important question that is in dispute and must be settled",
+            "url": "https://en-word.net/"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-117",
+      "contextId": "V20261012-117-context",
+      "inputHash": "f6a923a649b2436abf64055c969b86e39d62488753a69422176634c9ac54eb49",
+      "status": "ready",
+      "data": {
+        "bridge": "这里使用“占比”义，most of给出所占份额。评审活动占剩余工作的大部分。",
+        "bridgeHistory": "account的计数、核算背景可帮助记住份额与总体的关系；本句的占比义仍按现代短语用法学习。",
+        "bridgeTarget": "inventory-1"
+      },
+      "provenance": {
+        "historyRelation": "editorial_link_to_sourced_history",
+        "sourceRefs": [
+          {
+            "sourceId": "cambridge-account-for",
+            "sourceVersion": "2026-11-16",
+            "locator": "Business English, part of a total",
+            "supportedClaim": "account for可表示占总体的一部分，不等于说明原因。",
+            "url": "https://dictionary.cambridge.org/dictionary/english/account-for?topic=existing-and-being"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261018-106",
+      "contextId": "V20261018-106-context",
+      "inputHash": "02d412c58ed8dfeaa28fac39f75b1e2a8636292393bfdd584c6ce2fff94d19cd",
+      "status": "ready",
+      "data": {
+        "bridge": "lead取处于前列的意思，in the polls限定比较范围为民调。continued说明这种领先状态仍在持续。",
+        "bridgeHistory": "lead的处于首位与poll的民意调查分支在这里结合起来：领先发生在支持度调查的比较中。",
+        "bridgeTarget": "sense-1"
+      },
+      "provenance": {
+        "historyRelation": "editorial_link_to_sourced_history",
+        "sourceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-l.json/lead/v / lead%2:42:01::",
+            "supportedClaim": "be ahead of others; be the first",
+            "url": "https://en-word.net/"
+          },
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-p.json/poll/n-1 / poll%1:09:00::",
+            "supportedClaim": "an inquiry into public opinion conducted by interviewing a random sample of people",
+            "url": "https://en-word.net/"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261016-103",
+      "contextId": "V20261016-103-context",
+      "inputHash": "0467e6f5bbe0fd5b121f81b34b7d35179a6bb3fb4241c3994dd7a191a103bc39",
+      "status": "ready",
+      "data": {
+        "bridge": "这里用轻信义描述接受承诺的选民，表达作者对其判断方式的批评。",
+        "bridgeHistory": "容易相信是这个词较早即有的意义。本句承接这一点，把它用于对选民接受承诺方式的评价。",
+        "bridgeTarget": "sense-0"
+      },
+      "provenance": {
+        "historyRelation": "editorial_link_to_sourced_history",
+        "sourceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-c.json/credulous/a / credulous%3:00:00::",
+            "supportedClaim": "disposed to believe on little evidence",
+            "url": "https://en-word.net/"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261016-119",
+      "contextId": "V20261016-119-context",
+      "inputHash": "d8116c664a7c9ddcc44b147fcd110b7918d7bf192cc02be3e0f2756c3ff07947",
+      "status": "ready",
+      "data": {
+        "bridge": "inflation说明冲击来自物价上涨，shock强调对既有生活安排的影响。原句说家庭可能难以承受又一次冲击。",
+        "bridgeHistory": "inflation有从膨胀到价格方面的历史发展，shock有从碰撞到强烈影响的发展。当前经济组合将价格变化及其冲击放在一起。",
+        "bridgeTarget": "sense-0"
+      },
+      "provenance": {
+        "historyRelation": "editorial_link_to_sourced_history",
+        "sourceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-i.json/inflation/n / inflation%1:22:00::",
+            "supportedClaim": "a general and progressive increase in prices",
+            "url": "https://en-word.net/"
+          },
+          {
+            "sourceId": "cambridge-shock",
+            "sourceVersion": "2026-11-16",
+            "locator": "noun SURPRISE",
+            "supportedClaim": "shock可指突然、意外且通常不愉快的事件及其反应；此处只作普通语义解释，不引入宏观模型。",
+            "url": "https://dictionary.cambridge.org/us/dictionary/english/shock"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-020",
+      "contextId": "V20261012-020-context",
+      "inputHash": "7147c1a22f10fefdf22df9bea9d527dbbd79ccd8c3524bc828450b72ae9b542d",
+      "status": "ready",
+      "data": {
+        "bridge": "前部权衡义直接适用，between列出两个目标：更快交付与更低成本。讨论的是改善一端需要付出什么代价。",
+        "bridgeHistory": "较早的交换表达与后来的利益取舍义相接；本句把要交换或牺牲的利益具体化为速度与成本。",
+        "bridgeTarget": "sense-0"
+      },
+      "provenance": {
+        "historyRelation": "editorial_link_to_sourced_history",
+        "sourceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-t.json/tradeoff/n / tradeoff%1:04:00::",
+            "supportedClaim": "an exchange that occurs as a compromise",
+            "url": "https://en-word.net/"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-019",
+      "contextId": "V20261012-019-context",
+      "inputHash": "cdbdb64728f87959d74a16e56bb32131a8250bd52d9471c2eda76a948f0bd712",
+      "status": "ready",
+      "data": {
+        "bridge": "contingency修饰plan，说明这是为可能出现的情况准备的计划；if给出的情况是评审人无法参与。",
+        "bridgeHistory": "词史中的可能发生也可能不发生，与本句if条件相呼应：计划提前准备，但触发情形未必出现。",
+        "bridgeTarget": "sense-0"
+      },
+      "provenance": {
+        "historyRelation": "editorial_link_to_sourced_history",
+        "sourceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-c.json/contingency/n / contingency%1:11:00::",
+            "supportedClaim": "a possible event or occurrence or result",
+            "url": "https://en-word.net/"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-015",
+      "contextId": "V20261012-015-context",
+      "inputHash": "f2cc64a4851a8b80da160ee7aafe1bc91b7334bac7efc8c1050763ff78dbba94",
+      "status": "ready",
+      "data": {
+        "bridge": "这里选工作中承担事项责任的用法。take ownership问的是谁来负责推进、协调和跟进未结事项。",
+        "bridgeHistory": "所有者身份提供了归属的历史背景；当前工作表达把归属落实为谁对这件事主动负责，是现代使用中的联系。",
+        "bridgeTarget": "inventory-2"
+      },
+      "provenance": {
+        "historyRelation": "editorial_link_to_sourced_history",
+        "sourceRefs": [
+          {
+            "sourceId": "cambridge-ownership",
+            "sourceVersion": "2026-11-16",
+            "locator": "Business English, responsibility for an idea or problem",
+            "supportedClaim": "ownership除财产所有权外，也指对想法或问题承担责任；不能据此推断批准权限。",
+            "url": "https://dictionary.cambridge.org/dictionary/english/ownership"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-018",
+      "contextId": "V20261012-018-context",
+      "inputHash": "d3792db89f4dd2605399bf0868bc7ed8af72980630e152360ce569f6f25df9e9",
+      "status": "ready",
+      "data": {
+        "bridge": "从承诺义进入，conditions behind要求说明承诺建立在哪些条件上。",
+        "bridgeHistory": "承诺与义务在词史中已有明确分支；本句讨论的是一项承诺及其成立条件。",
+        "bridgeTarget": "sense-0"
+      },
+      "provenance": {
+        "historyRelation": "editorial_link_to_sourced_history",
+        "sourceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-c.json/commitment/n / commitment%1:10:00::",
+            "supportedClaim": "a message that makes a pledge",
+            "url": "https://en-word.net/"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-010",
+      "contextId": "V20261012-010-context",
+      "inputHash": "6f8f78265f86ef0ea56f346ce13cb9566aaef4369cdc4d1d017482fcad46375a",
+      "status": "ready",
+      "data": {
+        "bridge": "保护、缓冲义在这里具体化为两天的时间余量，用于吸收评审过程中的变化。",
+        "bridgeHistory": "从吸收撞击的装置到缓和冲击的比喻，本句再把缓冲载体换成预留时间。",
+        "bridgeTarget": "sense-0"
+      },
+      "provenance": {
+        "historyRelation": "editorial_link_to_sourced_history",
+        "sourceRefs": [
+          {
+            "sourceId": "cambridge-buffer",
+            "sourceVersion": "2026-11-16",
+            "locator": "noun PROTECTION; buffer for unforeseen delays example",
+            "supportedClaim": "buffer可指应对风险的缓冲，来源有预留时间防意外延误的用例。",
+            "url": "https://dictionary.cambridge.org/dictionary/english/buffer?q=buffers"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-006",
+      "contextId": "V20261012-006-context",
+      "inputHash": "c2382443795beaf4c571e9cf7cdbf906a41cd2f85ddd630a7d64f1b75684d163",
+      "status": "ready",
+      "data": {
+        "bridge": "限制义直接落到可用评审人数上，人数影响工作能如何安排。",
+        "bridgeHistory": "绑紧、约束的历史背景可以帮助理解行动空间受限；本句中限制来自可用人数。",
+        "bridgeTarget": "sense-0"
+      },
+      "provenance": {
+        "historyRelation": "editorial_link_to_sourced_history",
+        "sourceRefs": [
+          {
+            "sourceId": "cambridge-constraint",
+            "sourceVersion": "2026-11-16",
+            "locator": "countable noun, limits",
+            "supportedClaim": "constraint可指限制行动的条件，不仅是物理束缚。",
+            "url": "https://dictionary.cambridge.org/dictionary/english/constraint"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-088",
+      "contextId": "V20261012-088-context",
+      "inputHash": "6f691e3ca028b0465cfaa15f1ca5c1de1fd08cf96dd4cc80903dd739eb4d9db1",
+      "status": "ready",
+      "data": {
+        "bridge": "preliminary说明发现仍处于初步阶段，not a final conclusion进一步限定了可以如何使用这些结果。",
+        "bridgeHistory": "在主要事项之前的历史用法，在这里对应初步发现与最终结论之间的先后阶段。",
+        "bridgeTarget": "sense-0"
+      },
+      "provenance": {
+        "historyRelation": "editorial_link_to_sourced_history",
+        "sourceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-p.json/preliminary/a / preliminary%5:00:00:exploratory:00",
+            "supportedClaim": "denoting an action or event preceding or in preparation for something more important",
+            "url": "https://en-word.net/"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-004",
+      "contextId": "V20261012-004-context",
+      "inputHash": "85132e1989eaa9b8bff7c7c758853ec46f873a4f6d87d7a77e68b038a3fcde22",
+      "status": "ready",
+      "data": {
+        "bridge": "项目中的重要节点义直接适用。reached说明该节点已经达到，after the review交代时间。",
+        "bridgeHistory": "道路上的里程标记可以帮助理解进度位置；本句把这种标记用于工作阶段，这是教学理解联系。",
+        "bridgeTarget": "sense-0"
+      },
+      "provenance": {
+        "historyRelation": "editorial_link_to_sourced_history",
+        "sourceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-m.json/milestone/n / milestone%1:11:00::",
+            "supportedClaim": "a significant event in your life (or in a project)",
+            "url": "https://en-word.net/"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-005",
+      "contextId": "V20261012-005-context",
+      "inputHash": "cd40a2d84e0d8e074d26ea836e357d80af24277326df461271326584608a5341",
+      "status": "ready",
+      "data": {
+        "bridge": "set priorities是在安排哪些事情更应先做，remaining work给出排序范围。",
+        "bridgeHistory": "词义从时间上的在先逐渐强调重要性；本句定优先级，正是在决定哪些工作应获得先处理的地位。",
+        "bridgeTarget": "sense-0"
+      },
+      "provenance": {
+        "historyRelation": "editorial_link_to_sourced_history",
+        "sourceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-p.json/priority/n / priority%1:26:00::",
+            "supportedClaim": "status established in order of importance or urgency",
+            "url": "https://en-word.net/"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-007",
+      "contextId": "V20261012-007-context",
+      "inputHash": "894749f4e085cee729c6cc6e80f8898e26a31c26cb1489ce4f801c19ba9b3842",
+      "status": "ready",
+      "data": {
+        "bridge": "一般依赖义在排期中具体化为任务之间或任务与输入之间的关系；先找出这些关系再定日程。",
+        "bridgeHistory": "依靠其他事物而成立的词史背景，与排期中必须先满足某项条件的关系相通。",
+        "bridgeTarget": "sense-0"
+      },
+      "provenance": {
+        "historyRelation": "editorial_link_to_sourced_history",
+        "sourceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-d.json/dependency/n / dependency%1:26:00::",
+            "supportedClaim": "the state of relying on or being controlled by someone or something else",
+            "url": "https://en-word.net/"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-008",
+      "contextId": "V20261012-008-context",
+      "inputHash": "26aa10e25decb3745651a05e715744e1b22ff53cebeca7046bd0b67c24445349",
+      "status": "ready",
+      "data": {
+        "bridge": "这里把某个判断先作为前提使用，但还需要向供应商核对。",
+        "bridgeHistory": "被当作当然成立之事这一历史分支直接相连；当前句子又要求对这个前提进行检查。",
+        "bridgeTarget": "sense-0"
+      },
+      "provenance": {
+        "historyRelation": "editorial_link_to_sourced_history",
+        "sourceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-a.json/assumption/n / assumption%1:10:00::",
+            "supportedClaim": "a statement that is assumed to be true and from which a conclusion can be drawn",
+            "url": "https://en-word.net/"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-009",
+      "contextId": "V20261012-009-context",
+      "inputHash": "994c509455766c6a4212ba1e85ec08976480171a462d2460dd31c07906df0f12",
+      "status": "ready",
+      "data": {
+        "bridge": "改善需要比较，因此先确定一个基准，后续变化才能有明确参照。",
+        "bridgeHistory": "测量中其他线所依赖的基线，提供了参照起点的历史背景；本句将其用于衡量改善。",
+        "bridgeTarget": "sense-0"
+      },
+      "provenance": {
+        "historyRelation": "editorial_link_to_sourced_history",
+        "sourceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-b.json/baseline/n / baseline%1:24:00::",
+            "supportedClaim": "an imaginary line or standard by which things are measured or compared",
+            "url": "https://en-word.net/"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-011",
+      "contextId": "V20261012-011-context",
+      "inputHash": "7903c5a5d63ef418e27ae37009531d7b14f39a9a7caef1f6cc4337f7367960c8",
+      "status": "ready",
+      "data": {
+        "bridge": "这里指剩余活动的执行次序，agree on要求共同确定这种先后安排。",
+        "bridgeHistory": "词史中按次序相继出现的一系列事物，与本句中的活动顺序直接相接。",
+        "bridgeTarget": "sense-0"
+      },
+      "provenance": {
+        "historyRelation": "editorial_link_to_sourced_history",
+        "sourceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-s.json/sequence/n / sequence%1:14:00::",
+            "supportedClaim": "serial arrangement in which things follow in logical order or a recurrent pattern",
+            "url": "https://en-word.net/"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-013",
+      "contextId": "V20261012-013-context",
+      "inputHash": "4a7d0657e2c70881753669017a8e1dad472cfff0ed4b09e8cc243464068f26b6",
+      "status": "ready",
+      "data": {
+        "bridge": "资源分配义直接适用：分配的是更多时间，接受这项资源的是初次评审。",
+        "bridgeHistory": "为特定目的拨出的历史用法，与本句给评审拨出时间的结构一致。",
+        "bridgeTarget": "sense-0"
+      },
+      "provenance": {
+        "historyRelation": "editorial_link_to_sourced_history",
+        "sourceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-a.json/allocate/v / allocate%2:40:00::",
+            "supportedClaim": "distribute according to a plan or set apart for a special purpose",
+            "url": "https://en-word.net/"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-014",
+      "contextId": "V20261012-014-context",
+      "inputHash": "b49e60faf79350ad58d4d4154788a346cbeb5588c35979bccfbf8ec3d088711c",
+      "status": "ready",
+      "data": {
+        "bridge": "宾语data collection说明交出去的是数据收集任务，to引出接受任务的人。",
+        "bridgeHistory": "派出代表处理事务的历史背景，可帮助理解把任务交给他人代表执行。",
+        "bridgeTarget": "sense-0"
+      },
+      "provenance": {
+        "historyRelation": "editorial_link_to_sourced_history",
+        "sourceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-d.json/delegate/v / delegate%2:41:00::",
+            "supportedClaim": "give an assignment to (a person) to a post, or assign a task to (a person)",
+            "url": "https://en-word.net/"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-016",
+      "contextId": "V20261012-016-context",
+      "inputHash": "65fbf3ce58b6bb2e11475594723c1173cd9ad03f01a8391724c5203c72c59908",
+      "status": "ready",
+      "data": {
+        "bridge": "这里要求有人对最终决定负责，for说明其需要交代的事项。",
+        "bridgeHistory": "被要求作出交代是词史中的核心；本句把交代对象限定为最终决定。",
+        "bridgeTarget": "sense-0"
+      },
+      "provenance": {
+        "historyRelation": "editorial_link_to_sourced_history",
+        "sourceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-a.json/accountable/a / accountable%5:00:00:responsible:00",
+            "supportedClaim": "liable to account for one's actions",
+            "url": "https://en-word.net/"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-017",
+      "contextId": "V20261012-017-context",
+      "inputHash": "cbb5ce8f07d075b2c96098515296bfc16757dd9f41e34657c439d5e73b3344f1",
+      "status": "ready",
+      "data": {
+        "bridge": "最后时限义直接适用，今天作决定是为了让后续工作赶上期限。",
+        "bridgeHistory": "报业中稿件送印的最后时刻提供清晰的旧使用场景；现代用法把同样的时间边界用于其他任务。",
+        "bridgeTarget": "sense-0"
+      },
+      "provenance": {
+        "historyRelation": "editorial_link_to_sourced_history",
+        "sourceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-d.json/deadline/n / deadline%1:28:00::",
+            "supportedClaim": "the point in time at which something must be completed",
+            "url": "https://en-word.net/"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-021",
+      "contextId": "V20261012-021-context",
+      "inputHash": "55c7c9bd32b3e5d40acb3800db86728d71a63cd515ef98fb5d43d5d61c936ba4",
+      "status": "ready",
+      "data": {
+        "bridge": "可实现义在这里接受资源条件的检验：用当前资源是否能执行这个选项。",
+        "bridgeHistory": "历史上能够做成的含义，在本句具体落到资源是否足够这一可行性条件。",
+        "bridgeTarget": "sense-0"
+      },
+      "provenance": {
+        "historyRelation": "editorial_link_to_sourced_history",
+        "sourceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-f.json/feasible/a / feasible%5:00:00:possible:00",
+            "supportedClaim": "capable of being done with means at hand and circumstances as they are",
+            "url": "https://en-word.net/"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-023",
+      "contextId": "V20261012-023-context",
+      "inputHash": "24db8ac0231b9d787f02d74131ec24d241b89e8f8a34c7e8a0eba233b406dfa5",
+      "status": "ready",
+      "data": {
+        "bridge": "这里描述行动已经超过原定时限，后半句要求更新完成时间。",
+        "bridgeHistory": "账单和图书的历史用例体现越过应到时间；当前句子将同样的状态用于工作事项。",
+        "bridgeTarget": "sense-0"
+      },
+      "provenance": {
+        "historyRelation": "editorial_link_to_sourced_history",
+        "sourceRefs": [
+          {
+            "sourceId": "cambridge-overdue",
+            "sourceVersion": "2026-11-16",
+            "locator": "Business English, event or action overdue",
+            "supportedClaim": "overdue不限于欠款，也可指本应已经完成的事项。",
+            "url": "https://dictionary.cambridge.org/us/dictionary/english/overdue"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-025",
+      "contextId": "V20261012-025-context",
+      "inputHash": "8668d343f355819609d352a3585768be59c9ad3b5a76ab36277b8b840e785ef7",
+      "status": "ready",
+      "data": {
+        "bridge": "这里指已积累但尚未完成的工作，先清理这些事项，再接收新请求。",
+        "bridgeHistory": "未完成订单的历史分支与当前积压工作接近；不需要从炉火木柴硬推出现代流程。",
+        "bridgeTarget": "sense-0"
+      },
+      "provenance": {
+        "historyRelation": "editorial_link_to_sourced_history",
+        "sourceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-b.json/backlog/n / backlog%1:14:00::",
+            "supportedClaim": "an accumulation of jobs not done or materials not processed that are yet to be dealt with (especially unfilled customer orders for products or services)",
+            "url": "https://en-word.net/"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-026",
+      "contextId": "V20261012-026-context",
+      "inputHash": "e71a79187fdd0fddf5748023cf0e44d06b7443a30f98c3e710c7145cd367a8ef",
+      "status": "ready",
+      "data": {
+        "bridge": "一般阻碍流动的意思在工作流程中具体化，approval step是限制整体推进的环节。",
+        "bridgeHistory": "从狭窄入口到阻碍流动，正好提供本句的理解联系：工作卡在审批环节，像流动受制于窄口。",
+        "bridgeTarget": "sense-0"
+      },
+      "provenance": {
+        "historyRelation": "editorial_link_to_sourced_history",
+        "sourceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-b.json/bottleneck/n / bottleneck%1:25:00::",
+            "supportedClaim": "a narrowing that reduces the flow through a channel",
+            "url": "https://en-word.net/"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-028",
+      "contextId": "V20261012-028-context",
+      "inputHash": "7e43ea04aa7f900fffebfb7d2e74832cf27895fd5761c0badec8f1a1fa57f625",
+      "status": "ready",
+      "data": {
+        "bridge": "setback说明进度受到影响，temporary又说明说话者把影响看作暂时的。",
+        "bridgeHistory": "进展受阻是较早已有的名词义；本句沿用这一分支，再用temporary限定持续性。",
+        "bridgeTarget": "sense-0"
+      },
+      "provenance": {
+        "historyRelation": "editorial_link_to_sourced_history",
+        "sourceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-s.json/setback/n / setback%1:11:01::",
+            "supportedClaim": "an unfortunate happening that hinders or impedes; something that is thwarting or frustrating",
+            "url": "https://en-word.net/"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-029",
+      "contextId": "V20261012-029-context",
+      "inputHash": "5e49506f19edde25ae7835f700f93169517f2b8feb9539392ca07878b5524f7c",
+      "status": "ready",
+      "data": {
+        "bridge": "这里采用把问题交给更高层处理的用法；团队无法达成一致是建议升级的条件。",
+        "bridgeHistory": "词史中的上升意象可帮助记忆，但这里上移的是处理层级。现代组织用法仍由具体语境说明。",
+        "bridgeTarget": "sense-1"
+      },
+      "provenance": {
+        "historyRelation": "editorial_link_to_sourced_history",
+        "sourceRefs": [
+          {
+            "sourceId": "cambridge-escalate",
+            "sourceVersion": "2026-11-16",
+            "locator": "transitive business specialized",
+            "supportedClaim": "escalate issue可指提交较高级别处理，不等于故意扩大冲突。",
+            "url": "https://dictionary.cambridge.org/dictionary/english/escalate"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-030",
+      "contextId": "V20261012-030-context",
+      "inputHash": "c032a6a9a3dafbd47027a0a4344af07ee3126c3f07180655910d15f5c68a9feb",
+      "status": "ready",
+      "data": {
+        "bridge": "减轻义作用于schedule risk，提前评审被提出作为降低风险的办法。",
+        "bridgeHistory": "使程度较轻、更可承受的历史意义，与本句减轻日程风险直接相接。",
+        "bridgeTarget": "sense-0"
+      },
+      "provenance": {
+        "historyRelation": "editorial_link_to_sourced_history",
+        "sourceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-m.json/mitigate/v / mitigate%2:32:00::",
+            "supportedClaim": "lessen or to try to lessen the seriousness or extent of",
+            "url": "https://en-word.net/"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-031",
+      "contextId": "V20261012-031-context",
+      "inputHash": "736b498dd0026ce25184bdc145056ddd4e9b6092041b236bde57b16cf9b061ce",
+      "status": "ready",
+      "data": {
+        "bridge": "这里是持续观察进度的动词义，显著变化出现时再报告。",
+        "bridgeHistory": "从质量检查到持续观察的动词发展，与当前跟踪进度的用法相连。",
+        "bridgeTarget": "sense-0"
+      },
+      "provenance": {
+        "historyRelation": "editorial_link_to_sourced_history",
+        "sourceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-m.json/monitor/v / monitor%2:39:00::",
+            "supportedClaim": "keep tabs on; keep an eye on; keep under surveillance",
+            "url": "https://en-word.net/"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-032",
+      "contextId": "V20261012-032-context",
+      "inputHash": "1d38609e8bc901b6fdfeca3fc05114eb483fdf227150b98a36219138b0d4b3e2",
+      "status": "ready",
+      "data": {
+        "bridge": "范围已经变化，因此需要再次评估计划；re-明确了重做一次判断的意思。",
+        "bridgeHistory": "再次评估就是这个词较早已有的构词意义，本句给出需要重新评估的原因。",
+        "bridgeTarget": "sense-0"
+      },
+      "provenance": {
+        "historyRelation": "editorial_link_to_sourced_history",
+        "sourceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-r.json/reassess/v / reassess%2:31:00::",
+            "supportedClaim": "revise or renew one's assessment",
+            "url": "https://en-word.net/"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-033",
+      "contextId": "V20261012-033-context",
+      "inputHash": "9e7c4d0146cc2e88be3c43ea73a04016f19e03da2e826324fc545fb74b124a4a",
+      "status": "ready",
+      "data": {
+        "bridge": "采用延后义，until给出延后的终点：缺失数据到达之后再作决定。",
+        "bridgeHistory": "推迟这一词源分支与本句直接对应；它和听从他人判断的另一个defer分支分开管理。",
+        "bridgeTarget": "sense-0"
+      },
+      "provenance": {
+        "historyRelation": "editorial_link_to_sourced_history",
+        "sourceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-d.json/defer/v / defer%2:42:00::",
+            "supportedClaim": "hold back to a later time",
+            "url": "https://en-word.net/"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-034",
+      "contextId": "V20261012-034-context",
+      "inputHash": "95a5c010a6421d3aef0fdb33289b7c170e623146909544a1d2f200f0a4e733f5",
+      "status": "ready",
+      "data": {
+        "bridge": "加快义直接作用于评审，without说明加快过程中仍要保留全部检查。",
+        "bridgeHistory": "解除进展阻碍的词史背景，有助于理解通过让流程更顺畅来加快评审。",
+        "bridgeTarget": "sense-0"
+      },
+      "provenance": {
+        "historyRelation": "editorial_link_to_sourced_history",
+        "sourceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-e.json/expedite/v / expedite%2:41:00::",
+            "supportedClaim": "speed up the progress of; facilitate",
+            "url": "https://en-word.net/"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-035",
+      "contextId": "V20261012-035-context",
+      "inputHash": "d919e92fb4bf597df8dc2470a682cfff6dcc5cfdbd11a3d4a6b1c2f10e192724",
+      "status": "ready",
+      "data": {
+        "bridge": "这里采用解决问题义，范围问题需要在签批前处理清楚。",
+        "bridgeHistory": "从解开、分析到裁定和解决争端的历史分支，可帮助理解把一个未决问题处理清楚。",
+        "bridgeTarget": "sense-0"
+      },
+      "provenance": {
+        "historyRelation": "editorial_link_to_sourced_history",
+        "sourceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-r.json/resolve/v / resolve%2:31:01::",
+            "supportedClaim": "bring to an end; settle conclusively",
+            "url": "https://en-word.net/"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-036",
+      "contextId": "V20261012-036-context",
+      "inputHash": "9d6adc2b7a97442ae73a32e44abda76caa28381beec62875bde0f92b6baa6b39",
+      "status": "ready",
+      "data": {
+        "bridge": "移交义落实为团队之间的工作接续，clear强调交接信息清楚可用。",
+        "bridgeHistory": "hand的传递、接管历史提供组成词背景；当前handover表达把工作交给下一团队，整体搭配词史仍可独立补充。",
+        "bridgeTarget": "sense-0"
+      },
+      "provenance": {
+        "historyRelation": "editorial_link_to_sourced_history",
+        "sourceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-h.json/handover/n / handover%1:04:00::",
+            "supportedClaim": "act of relinquishing property or authority etc",
+            "url": "https://en-word.net/"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-037",
+      "contextId": "V20261012-037-context",
+      "inputHash": "bddd0f44ab6b57c1a53f43dd622667a6c102b2860f5d136886c305db484dba88",
+      "status": "ready",
+      "data": {
+        "bridge": "这里是名词批准义，project manager明确批准者，before明确继续执行前需要先取得批准。",
+        "bridgeHistory": "旧条目中的结束活动和正式解除义务，与当前签批存在理解上的联系；此处是编辑联系，不宣称项目批准义由广播结束义直接演变。",
+        "bridgeTarget": "sense-0"
+      },
+      "provenance": {
+        "historyRelation": "editorial_link_to_sourced_history",
+        "sourceRefs": [
+          {
+            "sourceId": "oxford-sign-off",
+            "sourceVersion": "2026-11-16",
+            "locator": "noun, sense 2",
+            "supportedClaim": "sign-off名词可指签字给出的正式批准；此处不用动词停止广播义替代。",
+            "url": "https://www.oxfordlearnersdictionaries.com/definition/english/sign-off_2"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-038",
+      "contextId": "V20261012-038-context",
+      "inputHash": "6058e11ef3dec4bb0ac3a39ae7f2a24a8142445941f8e3c9a71a4d5fc9ee0075",
+      "status": "ready",
+      "data": {
+        "bridge": "从检查位置进入流程中的检查节点义，Wednesday afternoon给这个节点安排了时间。",
+        "bridgeHistory": "早期用已知参照核对飞行高度，后来又指实体检查点；本句把核对状态的位置安排为一个时间节点。",
+        "bridgeTarget": "sense-1"
+      },
+      "provenance": {
+        "historyRelation": "editorial_link_to_sourced_history",
+        "sourceRefs": [
+          {
+            "sourceId": "dictionarycom-checkpoint",
+            "sourceVersion": "2026-11-16",
+            "locator": "noun, sense 2",
+            "supportedClaim": "checkpoint也可指程序中用于记录、检查或确认的点，不只指实体检查站。",
+            "url": "https://www.dictionary.com/browse/checkpoint"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-040",
+      "contextId": "V20261012-040-context",
+      "inputHash": "3e1e3276a9d776a3bde15072698344bdb209ac61e81fca6b243fd6776437f581",
+      "status": "ready",
+      "data": {
+        "bridge": "expected说明这是期望结果：本次活动应当形成决定，而不只是继续讨论。",
+        "bridgeHistory": "由某件事产生的结果，是现代名词已有的历史分支；本句再说明希望得到哪一种结果。",
+        "bridgeTarget": "sense-0"
+      },
+      "provenance": {
+        "historyRelation": "editorial_link_to_sourced_history",
+        "sourceRefs": [
+          {
+            "sourceId": "oewn-2025",
+            "sourceVersion": "2025",
+            "locator": "entries-o.json/outcome/n / outcome%1:11:00::",
+            "supportedClaim": "something that results",
+            "url": "https://en-word.net/"
+          }
+        ]
+      }
+    }
+  ],
+  "outputHash": "e428b0d3d6034bea24da075daf1679f08348ee37ee33271a27ca145f21c56b97"
+}

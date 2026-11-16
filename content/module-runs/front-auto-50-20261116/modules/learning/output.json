@@ -1,0 +1,3127 @@
+{
+  "moduleId": "learning",
+  "version": "2.0.0",
+  "producerHash": "dda631fdb5e096c72a2654a1ceefa83e07000193d9abfd9331e4042f76809582",
+  "dependencies": {
+    "dictionary": "978e96daa3e2cf2d79e0ee9d4512d7f27285437f82a6071503afae5f8f72ffee"
+  },
+  "records": [
+    {
+      "entryId": "V20261012-002",
+      "contextId": "V20261012-002-context",
+      "inputHash": "be691b5d40d61dad0053ecc516681ae93b1a2329d4b1cc2eec9ea03017830e7d",
+      "status": "ready",
+      "data": {
+        "general": "目标；打算达成的结果；客观的；不受个人偏见左右",
+        "senses": [
+          {
+            "title": "目标；打算达成的结果",
+            "en": "the goal intended to be attained (and which is believed to be attainable)",
+            "meta": "n. · 精选学习义",
+            "example": "Her main objective now is simply to stay in power.",
+            "zh": "她现在的主要目标就是继续掌权。",
+            "credit": "Cambridge Dictionary · 来源用例",
+            "url": "https://en-word.net/",
+            "definitionSourceURL": "https://en-word.net/",
+            "exampleOrigin": "source_short_quote",
+            "exampleSourceURL": "https://dictionary.cambridge.org/dictionary/english/objective",
+            "exampleSourceId": "cambridge:164489822a36f248",
+            "translationOrigin": "AI中文整理"
+          },
+          {
+            "title": "客观的；不受个人偏见左右",
+            "en": "undistorted by emotion or personal bias; based on observable phenomena",
+            "meta": "adj. · 精选学习义",
+            "example": "an objective appraisal",
+            "zh": "客观的评价",
+            "credit": "Open English Wordnet 2025 · 来源用例",
+            "url": "https://en-word.net/",
+            "definitionSourceURL": "https://en-word.net/",
+            "exampleOrigin": "licensed_source",
+            "exampleSourceURL": "https://en-word.net/",
+            "exampleSourceId": "oewn:ee562e659204e5ac",
+            "translationOrigin": "AI中文整理"
+          }
+        ],
+        "note": "Our objective is to…说明目标；an objective assessment中的objective是形容词“客观的”。",
+        "retrieved": "2026-11-16",
+        "retrieval": "versioned source cache",
+        "learningSource": "词义见各项来源；中文整理／例句来源分别标注"
+      },
+      "provenance": {
+        "sourceIds": [
+          "original-vocab",
+          "oewn-2025",
+          "history-objective"
+        ],
+        "selectionVersion": "1",
+        "aiTaskHash": "d572cf0ea7d4f70b2ffd52317444e8ac29482b8b3ea68dafe0fcf8b434793f19",
+        "examples": [
+          {
+            "senseId": "objective%1:09:00::",
+            "candidateId": "cambridge:164489822a36f248",
+            "origin": "source_short_quote",
+            "url": "https://dictionary.cambridge.org/dictionary/english/objective",
+            "locator": "entry-0/sense-0/entry-0/sense-0/example-0",
+            "sourceHash": "59c8904e8f2673cecca41c78423a52c7606f766ef42a0407f318cc34fcf61a12"
+          },
+          {
+            "senseId": "objective%3:00:00::",
+            "candidateId": "oewn:ee562e659204e5ac",
+            "origin": "licensed_source",
+            "url": "https://en-word.net/",
+            "locator": "entries-o.json/objective/a/objective%3:00:00::",
+            "sourceHash": "a78e8615e519ed24c9af58482159230f49c558be89104d8d511f3c7939ec5eb0"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-012",
+      "contextId": "V20261012-012-context",
+      "inputHash": "7ebbc26c538beea601683960f2a30a8106762d339bafc75acfe1b2ef00ea8773",
+      "status": "ready",
+      "data": {
+        "general": "容量；能够容纳的量；完成工作或生产的能力；身份；职能",
+        "senses": [
+          {
+            "title": "容量；能够容纳的量",
+            "en": "the amount that can be contained",
+            "meta": "n. · 精选学习义",
+            "example": "the gas tank has a capacity of 12 gallons",
+            "zh": "这个油箱的容量为12加仑。",
+            "credit": "Open English Wordnet 2025 · 来源用例",
+            "url": "https://en-word.net/",
+            "definitionSourceURL": "https://en-word.net/",
+            "exampleOrigin": "licensed_source",
+            "exampleSourceURL": "https://en-word.net/",
+            "exampleSourceId": "oewn:3d68da76068d8f54",
+            "translationOrigin": "AI中文整理"
+          },
+          {
+            "title": "完成工作或生产的能力",
+            "en": "capability to perform or produce",
+            "meta": "n. · 精选学习义",
+            "example": "All our factories are working at full capacity (= are producing goods as fast as possible).",
+            "zh": "我们所有工厂都在满负荷运转（即尽可能快地生产商品）。",
+            "credit": "Cambridge Dictionary · 来源用例",
+            "url": "https://en-word.net/",
+            "definitionSourceURL": "https://en-word.net/",
+            "exampleOrigin": "source_short_quote",
+            "exampleSourceURL": "https://dictionary.cambridge.org/dictionary/english/capacity",
+            "exampleSourceId": "cambridge:57e9ef048bd87337",
+            "translationOrigin": "AI中文整理"
+          },
+          {
+            "title": "身份；职能",
+            "en": "a specified function",
+            "meta": "n. · 精选学习义",
+            "example": "he was employed in the capacity of director",
+            "zh": "他受聘担任主管。",
+            "credit": "Open English Wordnet 2025 · 来源用例",
+            "url": "https://en-word.net/",
+            "definitionSourceURL": "https://en-word.net/",
+            "exampleOrigin": "licensed_source",
+            "exampleSourceURL": "https://en-word.net/",
+            "exampleSourceId": "oewn:1a183c69a1379ecd",
+            "translationOrigin": "AI中文整理"
+          }
+        ],
+        "note": "have capacity to do说明能否承担工作；in one’s capacity as说明以何种身份。",
+        "retrieved": "2026-11-16",
+        "retrieval": "versioned source cache",
+        "learningSource": "词义见各项来源；中文整理／例句来源分别标注"
+      },
+      "provenance": {
+        "sourceIds": [
+          "original-vocab",
+          "oewn-2025",
+          "history-capacity"
+        ],
+        "selectionVersion": "1",
+        "aiTaskHash": "286b76397ce18a70fc771eeb9516d78a09841605fadf18ca10c0dd8c818fcefd",
+        "examples": [
+          {
+            "senseId": "capacity%1:23:00::",
+            "candidateId": "oewn:3d68da76068d8f54",
+            "origin": "licensed_source",
+            "url": "https://en-word.net/",
+            "locator": "entries-c.json/capacity/n/capacity%1:23:00::",
+            "sourceHash": "a78e8615e519ed24c9af58482159230f49c558be89104d8d511f3c7939ec5eb0"
+          },
+          {
+            "senseId": "capacity%1:07:00::",
+            "candidateId": "cambridge:57e9ef048bd87337",
+            "origin": "source_short_quote",
+            "url": "https://dictionary.cambridge.org/dictionary/english/capacity",
+            "locator": "entry-0/sense-0/entry-0/sense-0/example-1",
+            "sourceHash": "e740a2bc8389a5172e537f5d34a8c7eb80d049930d4ae255fc4118f2bb46fffb"
+          },
+          {
+            "senseId": "capacity%1:04:01::",
+            "candidateId": "oewn:1a183c69a1379ecd",
+            "origin": "licensed_source",
+            "url": "https://en-word.net/",
+            "locator": "entries-c.json/capacity/n/capacity%1:04:01::",
+            "sourceHash": "a78e8615e519ed24c9af58482159230f49c558be89104d8d511f3c7939ec5eb0"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-022",
+      "contextId": "V20261012-022-context",
+      "inputHash": "c56163de59679d80601bbede896cc921e5082256cdeb03fe3d2e3d4cd0887415",
+      "status": "ready",
+      "data": {
+        "general": "暂定的；尚未最终商定；试探性的；尚不确定的",
+        "senses": [
+          {
+            "title": "暂定的；尚未最终商定",
+            "en": "under terms not final or fully worked out or agreed upon",
+            "meta": "adj. · 精选学习义",
+            "example": "just a tentative schedule",
+            "zh": "只是暂定的日程。",
+            "credit": "Open English Wordnet 2025 · 来源用例",
+            "url": "https://en-word.net/",
+            "definitionSourceURL": "https://en-word.net/",
+            "exampleOrigin": "licensed_source",
+            "exampleSourceURL": "https://en-word.net/",
+            "exampleSourceId": "oewn:2ba2466ad9367b33",
+            "translationOrigin": "AI中文整理"
+          },
+          {
+            "title": "试探性的；尚不确定的",
+            "en": "unsettled in mind or opinion",
+            "meta": "adj. · 精选学习义",
+            "example": "drew a few tentative conclusions",
+            "zh": "得出了几个初步结论。",
+            "credit": "Open English Wordnet 2025 · 来源用例",
+            "url": "https://en-word.net/",
+            "definitionSourceURL": "https://en-word.net/",
+            "exampleOrigin": "licensed_source",
+            "exampleSourceURL": "https://en-word.net/",
+            "exampleSourceId": "oewn:807763f6e5fa83cd",
+            "translationOrigin": "AI中文整理"
+          }
+        ],
+        "note": "暂定日期要保留确认条件；不要把tentative与confirmed混用。",
+        "retrieved": "2026-11-16",
+        "retrieval": "versioned source cache",
+        "learningSource": "词义见各项来源；中文整理／例句来源分别标注"
+      },
+      "provenance": {
+        "sourceIds": [
+          "original-vocab",
+          "oewn-2025"
+        ],
+        "selectionVersion": "1",
+        "aiTaskHash": "6b680eb090919cd0624a77e1e4cefb4d6c4433e514e457453f4e917076c0813a",
+        "examples": [
+          {
+            "senseId": "tentative%5:00:00:conditional:00",
+            "candidateId": "oewn:2ba2466ad9367b33",
+            "origin": "licensed_source",
+            "url": "https://en-word.net/",
+            "locator": "entries-t.json/tentative/a/tentative%5:00:00:conditional:00",
+            "sourceHash": "a78e8615e519ed24c9af58482159230f49c558be89104d8d511f3c7939ec5eb0"
+          },
+          {
+            "senseId": "tentative%5:00:00:unsettled:02",
+            "candidateId": "oewn:807763f6e5fa83cd",
+            "origin": "licensed_source",
+            "url": "https://en-word.net/",
+            "locator": "entries-t.json/tentative/a/tentative%5:00:00:unsettled:02",
+            "sourceHash": "a78e8615e519ed24c9af58482159230f49c558be89104d8d511f3c7939ec5eb0"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-024",
+      "contextId": "V20261012-024-context",
+      "inputHash": "0b62d397c35be9a69c82bdfb23e05c13a57b50b45fc0c38c14c864d04bca8d8b",
+      "status": "ready",
+      "data": {
+        "general": "尚待处理或确认的",
+        "senses": [
+          {
+            "title": "尚待处理或确认的",
+            "en": "awaiting conclusion or confirmation",
+            "meta": "adj. · 精选学习义",
+            "example": "business still pending",
+            "zh": "尚待处理的事务。",
+            "credit": "Open English Wordnet 2025 · 来源用例",
+            "url": "https://en-word.net/",
+            "definitionSourceURL": "https://en-word.net/",
+            "exampleOrigin": "licensed_source",
+            "exampleSourceURL": "https://en-word.net/",
+            "exampleSourceId": "oewn:5d179af445f5a5aa",
+            "translationOrigin": "AI中文整理"
+          }
+        ],
+        "note": "pending描述未决状态；它既不是approved，也不是rejected。",
+        "retrieved": "2026-11-16",
+        "retrieval": "versioned source cache",
+        "learningSource": "词义见各项来源；中文整理／例句来源分别标注"
+      },
+      "provenance": {
+        "sourceIds": [
+          "original-vocab",
+          "oewn-2025"
+        ],
+        "selectionVersion": "1",
+        "aiTaskHash": "b1bf8dbdcef19775a872db261df7d2d9887b4e6b29b3c9625a9ce86888eaaf76",
+        "examples": [
+          {
+            "senseId": "pending%5:00:00:unfinished:01",
+            "candidateId": "oewn:5d179af445f5a5aa",
+            "origin": "licensed_source",
+            "url": "https://en-word.net/",
+            "locator": "entries-p.json/pending/a/pending%5:00:00:unfinished:01",
+            "sourceHash": "a78e8615e519ed24c9af58482159230f49c558be89104d8d511f3c7939ec5eb0"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-053",
+      "contextId": "V20261012-053-context",
+      "inputHash": "1495ff75cdf649d1aebeab4500fe2c27d544567ee8edef27c58c78ca63af8efb",
+      "status": "ready",
+      "data": {
+        "general": "预订；提前保留的位置；保留意见；顾虑",
+        "senses": [
+          {
+            "title": "预订；提前保留的位置",
+            "en": "something reserved in advance (as a hotel accommodation or a seat on a plane etc.)",
+            "meta": "n. · 精选学习义",
+            "example": "Do you have a reservation?",
+            "zh": "您有预订吗？",
+            "credit": "Cambridge Dictionary · 来源用例",
+            "url": "https://en-word.net/",
+            "definitionSourceURL": "https://en-word.net/",
+            "exampleOrigin": "source_short_quote",
+            "exampleSourceURL": "https://dictionary.cambridge.org/dictionary/english/reservation",
+            "exampleSourceId": "cambridge:d805fd646f1d62ac",
+            "translationOrigin": "AI中文整理"
+          },
+          {
+            "title": "保留意见；顾虑",
+            "en": "an unstated doubt that prevents you from accepting something wholeheartedly",
+            "meta": "n. · 精选学习义",
+            "example": "We have reservations about letting the children stay home alone.",
+            "zh": "我们对让孩子们独自在家有所顾虑。",
+            "credit": "Cambridge Dictionary · 来源用例",
+            "url": "https://en-word.net/",
+            "definitionSourceURL": "https://en-word.net/",
+            "exampleOrigin": "source_short_quote",
+            "exampleSourceURL": "https://dictionary.cambridge.org/dictionary/english/reservation",
+            "exampleSourceId": "cambridge:e5b293245cdd0fee",
+            "translationOrigin": "AI中文整理"
+          }
+        ],
+        "note": "复数reservations about常表示顾虑；a reservation for通常说明预订对象。",
+        "retrieved": "2026-11-16",
+        "retrieval": "versioned source cache",
+        "learningSource": "词义见各项来源；中文整理／例句来源分别标注"
+      },
+      "provenance": {
+        "sourceIds": [
+          "original-vocab",
+          "oewn-2025",
+          "history-reservation"
+        ],
+        "selectionVersion": "1",
+        "aiTaskHash": "3809845a85e70718800969a16519c0ff08d48fd3098f1f05163ed99d4c1450e2",
+        "examples": [
+          {
+            "senseId": "reservation%1:09:01::",
+            "candidateId": "cambridge:d805fd646f1d62ac",
+            "origin": "source_short_quote",
+            "url": "https://dictionary.cambridge.org/dictionary/english/reservation",
+            "locator": "entry-2/sense-0/entry-2/sense-0/example-0",
+            "sourceHash": "ec6c4118adc2ae58c572e08080b6f63a98bd3648e657a733b68d8bd9f740b10a"
+          },
+          {
+            "senseId": "reservation%1:09:00::",
+            "candidateId": "cambridge:e5b293245cdd0fee",
+            "origin": "source_short_quote",
+            "url": "https://dictionary.cambridge.org/dictionary/english/reservation",
+            "locator": "entry-1/sense-0/entry-1/sense-0/example-0",
+            "sourceHash": "ec6c4118adc2ae58c572e08080b6f63a98bd3648e657a733b68d8bd9f740b10a"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-078",
+      "contextId": "V20261012-078-context",
+      "inputHash": "e4a51c8503825bbe94d50db67b025becdcda5fef9d1d2a548462e385409667dc",
+      "status": "ready",
+      "data": {
+        "general": "符合条件；取得资格；使具备条件或能力",
+        "senses": [
+          {
+            "title": "符合条件；取得资格",
+            "en": "prove capable or fit; meet requirements",
+            "meta": "v. · 精选学习义",
+            "example": "She hopes to qualify (as a lawyer) at the end of the year.",
+            "zh": "她希望年底取得律师资格。",
+            "credit": "Cambridge Dictionary · 来源用例",
+            "url": "https://en-word.net/",
+            "definitionSourceURL": "https://en-word.net/",
+            "exampleOrigin": "source_short_quote",
+            "exampleSourceURL": "https://dictionary.cambridge.org/dictionary/english/qualify",
+            "exampleSourceId": "cambridge:fa917f8db1df8250",
+            "translationOrigin": "AI中文整理"
+          },
+          {
+            "title": "使具备条件或能力",
+            "en": "make fit or prepared",
+            "meta": "v. · 精选学习义",
+            "example": "Your education qualifies you for this job",
+            "zh": "你的教育背景使你具备从事这份工作的资格。",
+            "credit": "Open English Wordnet 2025 · 来源用例",
+            "url": "https://en-word.net/",
+            "definitionSourceURL": "https://en-word.net/",
+            "exampleOrigin": "licensed_source",
+            "exampleSourceURL": "https://en-word.net/",
+            "exampleSourceId": "oewn:fcfb0ab3bd814f90",
+            "translationOrigin": "AI中文整理"
+          }
+        ],
+        "note": "qualify for a role谈资格；qualify a statement谈给说法加限定。",
+        "retrieved": "2026-11-16",
+        "retrieval": "versioned source cache",
+        "learningSource": "词义见各项来源；中文整理／例句来源分别标注"
+      },
+      "provenance": {
+        "sourceIds": [
+          "original-vocab",
+          "oewn-2025",
+          "cambridge-qualify",
+          "history-qualify"
+        ],
+        "selectionVersion": "1",
+        "aiTaskHash": "33f551d5ab6d9de6f9b88dd592cd37c3cb61e4cfea27d5022dd03a112429ce3c",
+        "examples": [
+          {
+            "senseId": "qualify%2:42:00::",
+            "candidateId": "cambridge:fa917f8db1df8250",
+            "origin": "source_short_quote",
+            "url": "https://dictionary.cambridge.org/dictionary/english/qualify",
+            "locator": "entry-0/sense-0/entry-0/sense-0/example-0",
+            "sourceHash": "ad7c3fb412ffb7169c2e8250e3e11a1a61493f0af27f8874ae270e9826bde3bd"
+          },
+          {
+            "senseId": "qualify%2:30:00::",
+            "candidateId": "oewn:fcfb0ab3bd814f90",
+            "origin": "licensed_source",
+            "url": "https://en-word.net/",
+            "locator": "entries-q.json/qualify/v/qualify%2:30:00::",
+            "sourceHash": "a78e8615e519ed24c9af58482159230f49c558be89104d8d511f3c7939ec5eb0"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-076",
+      "contextId": "V20261012-076-context",
+      "inputHash": "5f92193bbc860c1f69c3d26020afc56d68cc740219da8783a4da9113e9d2fbd5",
+      "status": "ready",
+      "data": {
+        "general": "根据已有信息推断；猜中；凭猜测推知",
+        "senses": [
+          {
+            "title": "根据已有信息推断",
+            "en": "conclude by reasoning; in logic",
+            "meta": "v. · 精选学习义",
+            "example": "What do you infer from her refusal?",
+            "zh": "从她的拒绝中，你推断出什么？",
+            "credit": "Cambridge Dictionary · 来源用例",
+            "url": "https://en-word.net/",
+            "definitionSourceURL": "https://en-word.net/",
+            "exampleOrigin": "source_short_quote",
+            "exampleSourceURL": "https://dictionary.cambridge.org/dictionary/english/infer",
+            "exampleSourceId": "cambridge:bf85d90308ed53db",
+            "translationOrigin": "AI中文整理"
+          },
+          {
+            "title": "猜中；凭猜测推知",
+            "en": "guess correctly; solve by guessing",
+            "meta": "v. · 精选学习义",
+            "example": "She inferred the answer from a few clues.",
+            "zh": "她凭几个线索推知了答案。",
+            "credit": "原创教学补充",
+            "url": "https://en-word.net/",
+            "definitionSourceURL": "https://en-word.net/",
+            "exampleOrigin": "original",
+            "exampleSourceURL": null,
+            "exampleSourceId": "original:a3e712369c99e9e3",
+            "translationOrigin": "AI中文整理"
+          }
+        ],
+        "note": "infer a conclusion from evidence把结论与依据分开；缺回复不是批准证据。",
+        "retrieved": "2026-11-16",
+        "retrieval": "versioned source cache",
+        "learningSource": "词义见各项来源；中文整理／例句来源分别标注"
+      },
+      "provenance": {
+        "sourceIds": [
+          "original-vocab",
+          "oewn-2025"
+        ],
+        "selectionVersion": "1",
+        "aiTaskHash": "69ac818480b6d430473fb2f0b602fae3b5ca253b723591305ab46ceb12dc5cfa",
+        "examples": [
+          {
+            "senseId": "infer%2:32:00::",
+            "candidateId": "cambridge:bf85d90308ed53db",
+            "origin": "source_short_quote",
+            "url": "https://dictionary.cambridge.org/dictionary/english/infer",
+            "locator": "entry-0/sense-0/entry-0/sense-0/example-0",
+            "sourceHash": "d76f2c2f53907e84cd67df4b0ec87861fc9a3083e4428f5d8382ae3a3b93987e"
+          },
+          {
+            "senseId": "infer%2:31:02::",
+            "candidateId": "original:a3e712369c99e9e3",
+            "origin": "original",
+            "url": null,
+            "locator": null,
+            "sourceHash": null
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-093",
+      "contextId": "V20261012-093-context",
+      "inputHash": "9f5036abe025e8f07865e01c012f310b90342304ac2dbdeb7618c811fe175e93",
+      "status": "ready",
+      "data": {
+        "general": "只要；在……条件下",
+        "senses": [
+          {
+            "title": "只要；在……条件下",
+            "en": "if, or only if",
+            "meta": "conj. · 精选学习义",
+            "example": "He's welcome to come along, provided that he behaves himself.",
+            "zh": "只要他守规矩，我们欢迎他一起去。",
+            "credit": "Cambridge Dictionary · 来源用例",
+            "url": "https://dictionary.cambridge.org/dictionary/english/provided",
+            "definitionSourceURL": "https://dictionary.cambridge.org/dictionary/english/provided",
+            "exampleOrigin": "source_short_quote",
+            "exampleSourceURL": "https://dictionary.cambridge.org/dictionary/english/provided",
+            "exampleSourceId": "cambridge:93b2bebddf4301a4",
+            "translationOrigin": "AI中文整理"
+          }
+        ],
+        "note": "条件从句必须和主句一起转述；删掉provided that会改变承诺范围。",
+        "retrieved": "2026-11-16",
+        "retrieval": "versioned source cache",
+        "learningSource": "词义见各项来源；中文整理／例句来源分别标注"
+      },
+      "provenance": {
+        "sourceIds": [
+          "original-vocab",
+          "oewn-2025",
+          "cambridge-provided"
+        ],
+        "selectionVersion": "1",
+        "aiTaskHash": "d4b6381825f79655d09608ed6eb68cdac8de029c19687ac4f367768aa9f709f2",
+        "examples": [
+          {
+            "senseId": "web:cambridge-provided",
+            "candidateId": "cambridge:93b2bebddf4301a4",
+            "origin": "source_short_quote",
+            "url": "https://dictionary.cambridge.org/dictionary/english/provided",
+            "locator": "entry-1/sense-0/entry-1/sense-0/example-1",
+            "sourceHash": "1fd075221bfb712baf2bdfb9daebaefb856df0605fb1e3438c8d8adab0a52342"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-100",
+      "contextId": "V20261012-100-context",
+      "inputHash": "a25d23e22b5dcbb1d88c656bc2f4f62475098abf04a40742303f36f3aa119e84",
+      "status": "ready",
+      "data": {
+        "general": "不一定；并非必然",
+        "senses": [
+          {
+            "title": "不一定；并非必然",
+            "en": "not for certain",
+            "meta": "adv. · 精选学习义",
+            "example": "That's not necessarily true.",
+            "zh": "那不一定是真的。",
+            "credit": "Cambridge Dictionary · 来源用例",
+            "url": "https://dictionary.cambridge.org/dictionary/learner-english/necessarily",
+            "definitionSourceURL": "https://dictionary.cambridge.org/dictionary/learner-english/necessarily",
+            "exampleOrigin": "source_short_quote",
+            "exampleSourceURL": "https://dictionary.cambridge.org/dictionary/english/necessarily",
+            "exampleSourceId": "cambridge:0982eaeb0c9274e7",
+            "translationOrigin": "AI中文整理"
+          }
+        ],
+        "note": "not necessarily否定必然性；不是说相反情况必然成立。",
+        "retrieved": "2026-11-16",
+        "retrieval": "versioned source cache",
+        "learningSource": "词义见各项来源；中文整理／例句来源分别标注"
+      },
+      "provenance": {
+        "sourceIds": [
+          "original-vocab",
+          "oewn-2025",
+          "cambridge-necessarily"
+        ],
+        "selectionVersion": "1",
+        "aiTaskHash": "8269d746f2393382828ebfd49a3d564dda8f129de5a38a94bca213c5b9d9ba9e",
+        "examples": [
+          {
+            "senseId": "web:cambridge-necessarily",
+            "candidateId": "cambridge:0982eaeb0c9274e7",
+            "origin": "source_short_quote",
+            "url": "https://dictionary.cambridge.org/dictionary/english/necessarily",
+            "locator": "entry-0/sense-0/entry-0/sense-0/example-2",
+            "sourceHash": "57a789039be8d892b3505c1ca9a6eb663050c1603f02d24438f2680518b5d10e"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261014-075",
+      "contextId": "V20261014-075-context",
+      "inputHash": "f618eeafed8d57c1eb22065d746c37ca88e135bfd9814d563b7291811247f742",
+      "status": "ready",
+      "data": {
+        "general": "为规定要求取得符合性证据的方法",
+        "senses": [
+          {
+            "title": "verification（组成词／独立词目）：核实；用额外证据确认",
+            "en": "additional proof that something that was believed (some fact or hypothesis or theory) is correct",
+            "meta": "n. · 精选学习义",
+            "example": "The government has become stricter about income verification for those receiving benefits.",
+            "zh": "政府对福利领取者的收入核实变得更加严格。",
+            "credit": "Cambridge Dictionary · 来源用例",
+            "url": "https://en-word.net/",
+            "definitionSourceURL": "https://en-word.net/",
+            "exampleOrigin": "source_short_quote",
+            "exampleSourceURL": "https://dictionary.cambridge.org/dictionary/english/verification",
+            "exampleSourceId": "cambridge:90f0ec97bd3f1cf9",
+            "translationOrigin": "AI中文整理"
+          },
+          {
+            "title": "method（组成词／独立词目）：方法；有系统的做法",
+            "en": "a way of doing something, especially a systematic way; implies an orderly logical arrangement (usually in steps)",
+            "meta": "n. · 精选学习义",
+            "example": "The new teaching methods encourage children to think for themselves.",
+            "zh": "新的教学方法鼓励孩子独立思考。",
+            "credit": "Cambridge Dictionary · 来源用例",
+            "url": "https://en-word.net/",
+            "definitionSourceURL": "https://en-word.net/",
+            "exampleOrigin": "source_short_quote",
+            "exampleSourceURL": "https://dictionary.cambridge.org/dictionary/english/method",
+            "exampleSourceId": "cambridge:21619a5a7b60096a",
+            "translationOrigin": "AI中文整理"
+          }
+        ],
+        "note": "工程判准是规定要求；测试只是可能方法之一，不能把普通核实义当完整工程定义。",
+        "retrieved": "2026-11-16",
+        "retrieval": "versioned source cache",
+        "learningSource": "词义见各项来源；中文整理／例句来源分别标注"
+      },
+      "provenance": {
+        "sourceIds": [
+          "original-vocab",
+          "oewn-2025",
+          "nasa-verification"
+        ],
+        "selectionVersion": "1",
+        "aiTaskHash": "9b1116883a75118089848e7325a537c7824651c7c61966c6defd77bb17b45456",
+        "examples": [
+          {
+            "senseId": "verification%1:09:00::",
+            "candidateId": "cambridge:90f0ec97bd3f1cf9",
+            "origin": "source_short_quote",
+            "url": "https://dictionary.cambridge.org/dictionary/english/verification",
+            "locator": "entry-2/sense-0/entry-2/sense-0/example-1",
+            "sourceHash": "9aa5242f46f1d583622bd201756b19b0ec388426560929285d3d3c9e60fe2b45"
+          },
+          {
+            "senseId": "method%1:09:00::",
+            "candidateId": "cambridge:21619a5a7b60096a",
+            "origin": "source_short_quote",
+            "url": "https://dictionary.cambridge.org/dictionary/english/method",
+            "locator": "entry-0/sense-0/entry-0/sense-0/example-1",
+            "sourceHash": "f8d57b6833b7fe1735f138f2e505a553ec82b96fb43e717ba29f6fc483d777e3"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261014-076",
+      "contextId": "V20261014-076-context",
+      "inputHash": "005e5e05e473ab6e22eedde4c19fb58cbb859f2a8bd85ce2f1d023f43eb4965f",
+      "status": "ready",
+      "data": {
+        "general": "确认预定用途适用性的方法",
+        "senses": [
+          {
+            "title": "validation（组成词／独立词目）：确认有效性；检验是否成立",
+            "en": "the act of validating; finding or testing the truth of something",
+            "meta": "n. · 精选学习义",
+            "example": "He saw this result as validation of his theory.",
+            "zh": "他认为这一结果证实了自己的理论。",
+            "credit": "Cambridge Dictionary · 来源用例",
+            "url": "https://en-word.net/",
+            "definitionSourceURL": "https://en-word.net/",
+            "exampleOrigin": "source_short_quote",
+            "exampleSourceURL": "https://dictionary.cambridge.org/dictionary/english/validation",
+            "exampleSourceId": "cambridge:4d8de31dda55f198",
+            "translationOrigin": "AI中文整理"
+          },
+          {
+            "title": "method（组成词／独立词目）：方法；系统做法",
+            "en": "a way of doing something, especially a systematic way; implies an orderly logical arrangement (usually in steps)",
+            "meta": "n. · 精选学习义",
+            "example": "The new teaching methods encourage children to think for themselves.",
+            "zh": "新的教学方法鼓励孩子独立思考。",
+            "credit": "Cambridge Dictionary · 来源用例",
+            "url": "https://en-word.net/",
+            "definitionSourceURL": "https://en-word.net/",
+            "exampleOrigin": "source_short_quote",
+            "exampleSourceURL": "https://dictionary.cambridge.org/dictionary/english/method",
+            "exampleSourceId": "cambridge:21619a5a7b60096a",
+            "translationOrigin": "AI中文整理"
+          }
+        ],
+        "note": "工程判准是预定用途和使用环境；与逐项验证规定要求分开问。",
+        "retrieved": "2026-11-16",
+        "retrieval": "versioned source cache",
+        "learningSource": "词义见各项来源；中文整理／例句来源分别标注"
+      },
+      "provenance": {
+        "sourceIds": [
+          "original-vocab",
+          "oewn-2025",
+          "nasa-validation"
+        ],
+        "selectionVersion": "1",
+        "aiTaskHash": "22224e6c7aad30bdcbce2589e658479bfa592b44e7ebe5ea3e1d9a48a20032eb",
+        "examples": [
+          {
+            "senseId": "validation%1:04:00::",
+            "candidateId": "cambridge:4d8de31dda55f198",
+            "origin": "source_short_quote",
+            "url": "https://dictionary.cambridge.org/dictionary/english/validation",
+            "locator": "entry-0/sense-1/entry-0/sense-1/example-0",
+            "sourceHash": "cc5992f100f9dddcd2c5c4ca3a23b683d52bbd3c374a443ec0ccd3bd593ce592"
+          },
+          {
+            "senseId": "method%1:09:00::",
+            "candidateId": "cambridge:21619a5a7b60096a",
+            "origin": "source_short_quote",
+            "url": "https://dictionary.cambridge.org/dictionary/english/method",
+            "locator": "entry-0/sense-0/entry-0/sense-0/example-1",
+            "sourceHash": "f8d57b6833b7fe1735f138f2e505a553ec82b96fb43e717ba29f6fc483d777e3"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261029-005",
+      "contextId": "V20261029-005-context",
+      "inputHash": "2cc9e40cc4b9ee3b28a4e4d8049d515d50e4651194ccc474caab8c9ca70c6bb8",
+      "status": "ready",
+      "data": {
+        "general": "暂供当前讨论和判断使用的定义",
+        "senses": [
+          {
+            "title": "working（组成词／独立词目）：暂用作进一步工作的",
+            "en": "adopted as a temporary basis for further work",
+            "meta": "adj. · 精选学习义",
+            "example": "a working draft",
+            "zh": "暂供使用的草稿。",
+            "credit": "Open English Wordnet 2025 · 来源用例",
+            "url": "https://en-word.net/",
+            "definitionSourceURL": "https://en-word.net/",
+            "exampleOrigin": "licensed_source",
+            "exampleSourceURL": "https://en-word.net/",
+            "exampleSourceId": "oewn:469299e9b3fbcee7",
+            "translationOrigin": "AI中文整理"
+          },
+          {
+            "title": "definition（组成词／独立词目）：定义；对含义的简要说明",
+            "en": "a concise explanation of the meaning of a word or phrase or symbol",
+            "meta": "n. · 精选学习义",
+            "example": "What is the definition of \"mood\"?",
+            "zh": "“mood”的定义是什么？",
+            "credit": "Cambridge Dictionary · 来源用例",
+            "url": "https://en-word.net/",
+            "definitionSourceURL": "https://en-word.net/",
+            "exampleOrigin": "source_short_quote",
+            "exampleSourceURL": "https://dictionary.cambridge.org/dictionary/english/definition",
+            "exampleSourceId": "cambridge:6f4ea9ee04e314a4",
+            "translationOrigin": "AI中文整理"
+          }
+        ],
+        "note": "working在这个组合中表示暂供工作使用；不表示定义正在运转。",
+        "retrieved": "2026-11-16",
+        "retrieval": "versioned source cache",
+        "learningSource": "词义见各项来源；中文整理／例句来源分别标注"
+      },
+      "provenance": {
+        "sourceIds": [
+          "original-vocab",
+          "oewn-2025"
+        ],
+        "selectionVersion": "1",
+        "aiTaskHash": "9d9b5f35096b9e7bf4570ffbdfe319f3dcbf95e49dd8a94f425eac7c01458e64",
+        "examples": [
+          {
+            "senseId": "working%5:00:00:impermanent:00",
+            "candidateId": "oewn:469299e9b3fbcee7",
+            "origin": "licensed_source",
+            "url": "https://en-word.net/",
+            "locator": "entries-w.json/working/a/working%5:00:00:impermanent:00",
+            "sourceHash": "a78e8615e519ed24c9af58482159230f49c558be89104d8d511f3c7939ec5eb0"
+          },
+          {
+            "senseId": "definition%1:10:00::",
+            "candidateId": "cambridge:6f4ea9ee04e314a4",
+            "origin": "source_short_quote",
+            "url": "https://dictionary.cambridge.org/dictionary/english/definition",
+            "locator": "entry-0/sense-0/entry-0/sense-0/example-1",
+            "sourceHash": "b67cfc0814dd7108976adb6ff3f40ff866ef52e2a544d0865c6638623c748d6b"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261014-003",
+      "contextId": "V20261014-003-context",
+      "inputHash": "d1184e6e9ba348120b1b6be47d1f8b824a53e3d826b2490a0465277559e280c4",
+      "status": "ready",
+      "data": {
+        "general": "组织、界定问题的表述方式",
+        "senses": [
+          {
+            "title": "frame（组成词／独立词目）：画框；镜框",
+            "en": "a framework that supports and protects a picture or a mirror",
+            "meta": "n. · 精选学习义",
+            "example": "the frame was much more valuable than the mirror it held",
+            "zh": "镜框比它所装的镜子值钱得多。",
+            "credit": "Open English Wordnet 2025 · 来源用例",
+            "url": "https://en-word.net/",
+            "definitionSourceURL": "https://en-word.net/",
+            "exampleOrigin": "licensed_source",
+            "exampleSourceURL": "https://en-word.net/",
+            "exampleSourceId": "oewn:3c302291d7981709",
+            "translationOrigin": "AI中文整理"
+          },
+          {
+            "title": "frame（组成词／独立词目）：以特定方式组织或表述",
+            "en": "formulate in a particular style or language",
+            "meta": "v. · 精选学习义",
+            "example": "He suggested framing the issue positively.",
+            "zh": "他建议以积极的方式表述这个问题。",
+            "credit": "Cambridge Dictionary · 来源用例",
+            "url": "https://en-word.net/",
+            "definitionSourceURL": "https://en-word.net/",
+            "exampleOrigin": "source_short_quote",
+            "exampleSourceURL": "https://dictionary.cambridge.org/dictionary/english/frame",
+            "exampleSourceId": "cambridge:f1f8e326680ea6f4",
+            "translationOrigin": "AI中文整理"
+          }
+        ],
+        "note": "frame在这里是动词“组织表述”；界定问题还不是解决问题。",
+        "retrieved": "2026-11-16",
+        "retrieval": "versioned source cache",
+        "learningSource": "词义见各项来源；中文整理／例句来源分别标注"
+      },
+      "provenance": {
+        "sourceIds": [
+          "original-vocab",
+          "oewn-2025"
+        ],
+        "selectionVersion": "1",
+        "aiTaskHash": "e2d9b04f9a6bacd9f7c25f69103ab6663ef0f98e15110068e64cfb52012d69a9",
+        "examples": [
+          {
+            "senseId": "frame%1:06:00::",
+            "candidateId": "oewn:3c302291d7981709",
+            "origin": "licensed_source",
+            "url": "https://en-word.net/",
+            "locator": "entries-f.json/frame/n/frame%1:06:00::",
+            "sourceHash": "a78e8615e519ed24c9af58482159230f49c558be89104d8d511f3c7939ec5eb0"
+          },
+          {
+            "senseId": "frame%2:32:00::",
+            "candidateId": "cambridge:f1f8e326680ea6f4",
+            "origin": "source_short_quote",
+            "url": "https://dictionary.cambridge.org/dictionary/english/frame",
+            "locator": "entry-1/sense-3/entry-1/sense-3/example-2",
+            "sourceHash": "57a7d5a9fb70efb5a7413a876b8f7dcefcb3cb0e3e51e20a1fa33977f5d67792"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-117",
+      "contextId": "V20261012-117-context",
+      "inputHash": "d4a6b60777ec9dddfed2fb4e396cfe19d31625429c7f9bc3d52510ea894ded3e",
+      "status": "ready",
+      "data": {
+        "general": "解释；说明原因",
+        "senses": [
+          {
+            "title": "解释；说明原因",
+            "en": "give reasons for",
+            "meta": "v. · 精选学习义",
+            "example": "Can you account for all these absences?",
+            "zh": "你能解释这些缺勤的原因吗？",
+            "credit": "Open English Wordnet 2025 · 来源用例",
+            "url": "https://en-word.net/",
+            "definitionSourceURL": "https://en-word.net/",
+            "exampleOrigin": "licensed_source",
+            "exampleSourceURL": "https://en-word.net/",
+            "exampleSourceId": "oewn:bc62b890ecbda6c8",
+            "translationOrigin": "AI中文整理"
+          }
+        ],
+        "note": "本句的比例义与“解释原因”义分开；most of后的总体范围不能省略。",
+        "retrieved": "2026-11-16",
+        "retrieval": "versioned source cache",
+        "learningSource": "词义见各项来源；中文整理／例句来源分别标注"
+      },
+      "provenance": {
+        "sourceIds": [
+          "original-vocab",
+          "oewn-2025",
+          "cambridge-account-for"
+        ],
+        "selectionVersion": "1",
+        "aiTaskHash": "d156e3caacf53ef232ba015576e48ac993e2a0501d4a546aac86a37fffadf3d7",
+        "examples": [
+          {
+            "senseId": "account_for%2:32:00::",
+            "candidateId": "oewn:bc62b890ecbda6c8",
+            "origin": "licensed_source",
+            "url": "https://en-word.net/",
+            "locator": "entries-a.json/account%20for/v/account_for%2:32:00::",
+            "sourceHash": "a78e8615e519ed24c9af58482159230f49c558be89104d8d511f3c7939ec5eb0"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261018-106",
+      "contextId": "V20261018-106-context",
+      "inputHash": "456ff9f0b1ae52774d84dd6b446aa5893b37f101fafee7f8f7e64d558cbc6114",
+      "status": "ready",
+      "data": {
+        "general": "在民意调查中处于领先位置",
+        "senses": [
+          {
+            "title": "lead（组成词／独立词目）：带领；负责领导",
+            "en": "be in charge of",
+            "meta": "v. · 精选学习义",
+            "example": "I've asked Gemma to lead the discussion.",
+            "zh": "我已请杰玛主持讨论。",
+            "credit": "Cambridge Dictionary · 来源用例",
+            "url": "https://en-word.net/",
+            "definitionSourceURL": "https://en-word.net/",
+            "exampleOrigin": "source_short_quote",
+            "exampleSourceURL": "https://dictionary.cambridge.org/dictionary/english/lead",
+            "exampleSourceId": "cambridge:5104c9eb1a371432",
+            "translationOrigin": "AI中文整理"
+          },
+          {
+            "title": "lead（组成词／独立词目）：领先；处于前面",
+            "en": "be ahead of others; be the first",
+            "meta": "v. · 精选学习义",
+            "example": "The Lions are leading the Hawks 28–9.",
+            "zh": "狮队以28比9领先鹰队。",
+            "credit": "Cambridge Dictionary · 来源用例",
+            "url": "https://en-word.net/",
+            "definitionSourceURL": "https://en-word.net/",
+            "exampleOrigin": "source_short_quote",
+            "exampleSourceURL": "https://dictionary.cambridge.org/dictionary/english/lead",
+            "exampleSourceId": "cambridge:f2a3da726381ac66",
+            "translationOrigin": "AI中文整理"
+          }
+        ],
+        "note": "在民调中领先不等于赢得选举；lead在领导、领先两义中都读长元音。",
+        "retrieved": "2026-11-16",
+        "retrieval": "versioned source cache",
+        "learningSource": "词义见各项来源；中文整理／例句来源分别标注"
+      },
+      "provenance": {
+        "sourceIds": [
+          "original-vocab",
+          "oewn-2025"
+        ],
+        "selectionVersion": "1",
+        "aiTaskHash": "5f12d24a25e6cc5c5b752b24bec598b842377edf8818988ed8e49695a43ff3c1",
+        "examples": [
+          {
+            "senseId": "lead%2:41:00::",
+            "candidateId": "cambridge:5104c9eb1a371432",
+            "origin": "source_short_quote",
+            "url": "https://dictionary.cambridge.org/dictionary/english/lead",
+            "locator": "entry-0/sense-0/entry-0/sense-0/example-1",
+            "sourceHash": "4b546f6e97aa1a4daa8dbffd8328af52dd49abea83b6c9db327f3646fe0f10ce"
+          },
+          {
+            "senseId": "lead%2:42:01::",
+            "candidateId": "cambridge:f2a3da726381ac66",
+            "origin": "source_short_quote",
+            "url": "https://dictionary.cambridge.org/dictionary/english/lead",
+            "locator": "entry-0/sense-1/entry-0/sense-1/example-2",
+            "sourceHash": "4b546f6e97aa1a4daa8dbffd8328af52dd49abea83b6c9db327f3646fe0f10ce"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261016-103",
+      "contextId": "V20261016-103-context",
+      "inputHash": "2a1ca8155ea7532aa99ef5c614310f15e016ddf9cc128ce9a6b603697b7705d9",
+      "status": "ready",
+      "data": {
+        "general": "轻信的；缺少证据也容易相信",
+        "senses": [
+          {
+            "title": "轻信的；缺少证据也容易相信",
+            "en": "disposed to believe on little evidence",
+            "meta": "adj. · 精选学习义",
+            "example": "the gimmick would convince none but the most credulous",
+            "zh": "这个噱头只能骗过最轻信的人。",
+            "credit": "Open English Wordnet 2025 · 来源用例",
+            "url": "https://en-word.net/",
+            "definitionSourceURL": "https://en-word.net/",
+            "exampleOrigin": "licensed_source",
+            "exampleSourceURL": "https://en-word.net/",
+            "exampleSourceId": "oewn:6a9d391865418c0d",
+            "translationOrigin": "AI中文整理"
+          }
+        ],
+        "note": "credulous说人轻信；credible说内容或来源可信，评价方向不同。",
+        "retrieved": "2026-11-16",
+        "retrieval": "versioned source cache",
+        "learningSource": "词义见各项来源；中文整理／例句来源分别标注"
+      },
+      "provenance": {
+        "sourceIds": [
+          "original-vocab",
+          "oewn-2025"
+        ],
+        "selectionVersion": "1",
+        "aiTaskHash": "214dd236d799e1a0bd2eea7c479c7b0982b1ff476e2ee5f16483c172fcdfab30",
+        "examples": [
+          {
+            "senseId": "credulous%3:00:00::",
+            "candidateId": "oewn:6a9d391865418c0d",
+            "origin": "licensed_source",
+            "url": "https://en-word.net/",
+            "locator": "entries-c.json/credulous/a/credulous%3:00:00::",
+            "sourceHash": "a78e8615e519ed24c9af58482159230f49c558be89104d8d511f3c7939ec5eb0"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261016-119",
+      "contextId": "V20261016-119-context",
+      "inputHash": "0f4fda3d593138573ad4b06f1bf5fb499e728555729269ec6e2f64631c562408",
+      "status": "ready",
+      "data": {
+        "general": "通胀带来的突然冲击",
+        "senses": [
+          {
+            "title": "inflation（组成词／独立词目）：通货膨胀；总体价格上涨",
+            "en": "a general and progressive increase in prices",
+            "meta": "n. · 精选学习义",
+            "example": "in inflation everything gets more valuable except money",
+            "zh": "通货膨胀时，除了钱以外，一切都变得更值钱。",
+            "credit": "Open English Wordnet 2025 · 来源用例",
+            "url": "https://en-word.net/",
+            "definitionSourceURL": "https://en-word.net/",
+            "exampleOrigin": "licensed_source",
+            "exampleSourceURL": "https://en-word.net/",
+            "exampleSourceId": "oewn:5dad6d313bcb897e",
+            "translationOrigin": "AI中文整理"
+          },
+          {
+            "title": "shock（组成词／独立词目）：冲击；突然而强烈的打击",
+            "en": "a sudden, unexpected, and often unpleasant or offensive event",
+            "meta": "n. · 精选学习义",
+            "example": "Her mother's death came as a great shock - it was so unexpected.",
+            "zh": "她母亲的去世让她大受打击——这太突然了。",
+            "credit": "Cambridge Dictionary · 来源用例",
+            "url": "https://dictionary.cambridge.org/us/dictionary/english/shock",
+            "definitionSourceURL": "https://dictionary.cambridge.org/us/dictionary/english/shock",
+            "exampleOrigin": "source_short_quote",
+            "exampleSourceURL": "https://dictionary.cambridge.org/dictionary/english/shock",
+            "exampleSourceId": "cambridge:c42591c7d1504396",
+            "translationOrigin": "AI中文整理"
+          }
+        ],
+        "note": "按本句作普通组合解释；不把家庭承受压力改写为某个宏观经济模型的确定预测。",
+        "retrieved": "2026-11-16",
+        "retrieval": "versioned source cache",
+        "learningSource": "词义见各项来源；中文整理／例句来源分别标注"
+      },
+      "provenance": {
+        "sourceIds": [
+          "original-vocab",
+          "oewn-2025",
+          "cambridge-shock"
+        ],
+        "selectionVersion": "1",
+        "aiTaskHash": "588126e0f5aa769d1c33977a8559ca36b3858c4a64ebaa342587d2f7e5f8ba83",
+        "examples": [
+          {
+            "senseId": "inflation%1:22:00::",
+            "candidateId": "oewn:5dad6d313bcb897e",
+            "origin": "licensed_source",
+            "url": "https://en-word.net/",
+            "locator": "entries-i.json/inflation/n/inflation%1:22:00::",
+            "sourceHash": "a78e8615e519ed24c9af58482159230f49c558be89104d8d511f3c7939ec5eb0"
+          },
+          {
+            "senseId": "web:cambridge-shock",
+            "candidateId": "cambridge:c42591c7d1504396",
+            "origin": "source_short_quote",
+            "url": "https://dictionary.cambridge.org/dictionary/english/shock",
+            "locator": "entry-0/sense-0/entry-0/sense-0/example-0",
+            "sourceHash": "feafd6d10403319d2ae26f03cffd86145851959fd5ee9f71f1c7614887acbe88"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-020",
+      "contextId": "V20261012-020-context",
+      "inputHash": "cdcfc56eefbc95623ee31e1ae15cd6cf1d7ee44f32b34ea37a7952b3ba85749d",
+      "status": "ready",
+      "data": {
+        "general": "权衡；获得一方面而牺牲另一方面",
+        "senses": [
+          {
+            "title": "权衡；获得一方面而牺牲另一方面",
+            "en": "an exchange that occurs as a compromise",
+            "meta": "n. · 精选学习义",
+            "example": "I faced a tradeoff between eating and buying my medicine",
+            "zh": "我面临着吃饭与买药之间的两难取舍。",
+            "credit": "Open English Wordnet 2025 · 来源用例",
+            "url": "https://en-word.net/",
+            "definitionSourceURL": "https://en-word.net/",
+            "exampleOrigin": "licensed_source",
+            "exampleSourceURL": "https://en-word.net/",
+            "exampleSourceId": "oewn:99247dcc643d10b5",
+            "translationOrigin": "AI中文整理"
+          }
+        ],
+        "note": "between后说明取舍两端；有权衡不等于某个方案已被选定。",
+        "retrieved": "2026-11-16",
+        "retrieval": "versioned source cache",
+        "learningSource": "词义见各项来源；中文整理／例句来源分别标注"
+      },
+      "provenance": {
+        "sourceIds": [
+          "original-vocab",
+          "oewn-2025"
+        ],
+        "selectionVersion": "1",
+        "aiTaskHash": "f4cbf8c605aefe86c020947419098ff9176a3a0b3ce173f919de77cb31c6c747",
+        "examples": [
+          {
+            "senseId": "tradeoff%1:04:00::",
+            "candidateId": "oewn:99247dcc643d10b5",
+            "origin": "licensed_source",
+            "url": "https://en-word.net/",
+            "locator": "entries-t.json/tradeoff/n/tradeoff%1:04:00::",
+            "sourceHash": "a78e8615e519ed24c9af58482159230f49c558be89104d8d511f3c7939ec5eb0"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-019",
+      "contextId": "V20261012-019-context",
+      "inputHash": "17f6c9015be60f45f03620a38c8e307ff27943d1d9b4fae783c7c24bc73920dc",
+      "status": "ready",
+      "data": {
+        "general": "可能发生的意外情况",
+        "senses": [
+          {
+            "title": "可能发生的意外情况",
+            "en": "a possible event or occurrence or result",
+            "meta": "n. · 精选学习义",
+            "example": "You must be able to deal with all possible contingencies.",
+            "zh": "你必须能够应对各种可能出现的意外情况。",
+            "credit": "Cambridge Dictionary · 来源用例",
+            "url": "https://en-word.net/",
+            "definitionSourceURL": "https://en-word.net/",
+            "exampleOrigin": "source_short_quote",
+            "exampleSourceURL": "https://dictionary.cambridge.org/dictionary/english/contingency",
+            "exampleSourceId": "cambridge:31afa5b38b625dac",
+            "translationOrigin": "AI中文整理"
+          }
+        ],
+        "note": "contingency plan须说明针对什么可能情况；提出预案不表示触发条件已发生。",
+        "retrieved": "2026-11-16",
+        "retrieval": "versioned source cache",
+        "learningSource": "词义见各项来源；中文整理／例句来源分别标注"
+      },
+      "provenance": {
+        "sourceIds": [
+          "original-vocab",
+          "oewn-2025"
+        ],
+        "selectionVersion": "1",
+        "aiTaskHash": "d1ac617c652ec4c80c60e81bc59c3cb91e1719d7a81ee5c7a2dc4d52f522e577",
+        "examples": [
+          {
+            "senseId": "contingency%1:11:00::",
+            "candidateId": "cambridge:31afa5b38b625dac",
+            "origin": "source_short_quote",
+            "url": "https://dictionary.cambridge.org/dictionary/english/contingency",
+            "locator": "entry-0/sense-0/entry-0/sense-0/example-0",
+            "sourceHash": "2e646087e7b6037461fc63d50d0a61b768944cf4016db1dbdda9dba6c97d3b69"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-015",
+      "contextId": "V20261012-015-context",
+      "inputHash": "4b80555f57f16457fdb031eb49e3f135d896e0bd8fae4c1d5c189f423db4bd96",
+      "status": "ready",
+      "data": {
+        "general": "所有权；拥有的权利；拥有某物的状态",
+        "senses": [
+          {
+            "title": "所有权；拥有的权利",
+            "en": "the relation of an owner to the thing possessed; possession with the right to transfer possession to others",
+            "meta": "n. · 精选学习义",
+            "example": "Do you have any proof of ownership of this car?",
+            "zh": "你有这辆车所有权的证明吗？",
+            "credit": "Cambridge Dictionary · 来源用例",
+            "url": "https://en-word.net/",
+            "definitionSourceURL": "https://en-word.net/",
+            "exampleOrigin": "source_short_quote",
+            "exampleSourceURL": "https://dictionary.cambridge.org/dictionary/english/ownership",
+            "exampleSourceId": "cambridge:cd6b0f8947b84844",
+            "translationOrigin": "AI中文整理"
+          },
+          {
+            "title": "拥有某物的状态",
+            "en": "the state or fact of being an owner",
+            "meta": "n. · 精选学习义",
+            "example": "The business has been under the same ownership for 44 years.",
+            "zh": "这家企业44年来一直由同一所有者拥有。",
+            "credit": "Cambridge Dictionary · 来源用例",
+            "url": "https://en-word.net/",
+            "definitionSourceURL": "https://en-word.net/",
+            "exampleOrigin": "source_short_quote",
+            "exampleSourceURL": "https://dictionary.cambridge.org/dictionary/english/ownership",
+            "exampleSourceId": "cambridge:91a5f2fd9e90c3de",
+            "translationOrigin": "AI中文整理"
+          }
+        ],
+        "note": "take ownership of an issue是承担事项责任；不自动取得财产权或批准权。",
+        "retrieved": "2026-11-16",
+        "retrieval": "versioned source cache",
+        "learningSource": "词义见各项来源；中文整理／例句来源分别标注"
+      },
+      "provenance": {
+        "sourceIds": [
+          "original-vocab",
+          "oewn-2025",
+          "cambridge-ownership"
+        ],
+        "selectionVersion": "1",
+        "aiTaskHash": "e9a0cac970ab1615ecbe6dd913e80b91e9e84b0b46f43dc13dff22c5d5254356",
+        "examples": [
+          {
+            "senseId": "ownership%1:21:00::",
+            "candidateId": "cambridge:cd6b0f8947b84844",
+            "origin": "source_short_quote",
+            "url": "https://dictionary.cambridge.org/dictionary/english/ownership",
+            "locator": "entry-0/sense-0/entry-0/sense-0/example-0",
+            "sourceHash": "585b26283caa253621f3beb6bb4d53b80aac0a1fe34025ea5246bb82fb909324"
+          },
+          {
+            "senseId": "ownership%1:26:00::",
+            "candidateId": "cambridge:91a5f2fd9e90c3de",
+            "origin": "source_short_quote",
+            "url": "https://dictionary.cambridge.org/dictionary/english/ownership",
+            "locator": "entry-2/sense-0/entry-2/sense-0/example-0",
+            "sourceHash": "585b26283caa253621f3beb6bb4d53b80aac0a1fe34025ea5246bb82fb909324"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-018",
+      "contextId": "V20261012-018-context",
+      "inputHash": "2f66407dac1fd649ce39b5f16480764366276ef61676b62c84c2d93d54859655",
+      "status": "ready",
+      "data": {
+        "general": "承诺；表示会做某事；投入；坚定致力于某事",
+        "senses": [
+          {
+            "title": "承诺；表示会做某事",
+            "en": "a message that makes a pledge",
+            "meta": "n. · 精选学习义",
+            "example": "We made a commitment to respond by Friday.",
+            "zh": "我们承诺在星期五前回复。",
+            "credit": "原创教学补充",
+            "url": "https://en-word.net/",
+            "definitionSourceURL": "https://en-word.net/",
+            "exampleOrigin": "original",
+            "exampleSourceURL": null,
+            "exampleSourceId": "original:97bd7f78b2fb5ced",
+            "translationOrigin": "AI中文整理"
+          },
+          {
+            "title": "投入；坚定致力于某事",
+            "en": "the trait of sincere and steadfast fixity of purpose",
+            "meta": "n. · 精选学习义",
+            "example": "a man of energy and commitment",
+            "zh": "一个充满干劲和投入精神的人。",
+            "credit": "Open English Wordnet 2025 · 来源用例",
+            "url": "https://en-word.net/",
+            "definitionSourceURL": "https://en-word.net/",
+            "exampleOrigin": "licensed_source",
+            "exampleSourceURL": "https://en-word.net/",
+            "exampleSourceId": "oewn:7280f281193738b9",
+            "translationOrigin": "AI中文整理"
+          }
+        ],
+        "note": "承诺要连同条件一起理解；commitment to quality常表示持续投入。",
+        "retrieved": "2026-11-16",
+        "retrieval": "versioned source cache",
+        "learningSource": "词义见各项来源；中文整理／例句来源分别标注"
+      },
+      "provenance": {
+        "sourceIds": [
+          "original-vocab",
+          "oewn-2025"
+        ],
+        "selectionVersion": "1",
+        "aiTaskHash": "87a68e3046c933e866ed76f7e04b70c183ca2fbabdb3cdd7e17f20a85dc10581",
+        "examples": [
+          {
+            "senseId": "commitment%1:10:00::",
+            "candidateId": "original:97bd7f78b2fb5ced",
+            "origin": "original",
+            "url": null,
+            "locator": null,
+            "sourceHash": null
+          },
+          {
+            "senseId": "commitment%1:07:01::",
+            "candidateId": "oewn:7280f281193738b9",
+            "origin": "licensed_source",
+            "url": "https://en-word.net/",
+            "locator": "entries-c.json/commitment/n/commitment%1:07:01::",
+            "sourceHash": "a78e8615e519ed24c9af58482159230f49c558be89104d8d511f3c7939ec5eb0"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-010",
+      "contextId": "V20261012-010-context",
+      "inputHash": "34c0317f59e9d06caeef8cb54b7f32c3dd8bc0c272b9c757f439d01bee4ee14a",
+      "status": "ready",
+      "data": {
+        "general": "缓冲；减少风险或冲击的余量；缓冲装置；减少碰撞冲击的设备",
+        "senses": [
+          {
+            "title": "缓冲；减少风险或冲击的余量",
+            "en": "something or someone that helps protect from harm, risk, or problems",
+            "meta": "n. · 精选学习义",
+            "example": "Savings can be a buffer during times of financial hardship.",
+            "zh": "在经济困难时期，储蓄可以起到缓冲作用。",
+            "credit": "Cambridge Dictionary · 来源用例",
+            "url": "https://dictionary.cambridge.org/dictionary/english/buffer?q=buffers",
+            "definitionSourceURL": "https://dictionary.cambridge.org/dictionary/english/buffer?q=buffers",
+            "exampleOrigin": "source_short_quote",
+            "exampleSourceURL": "https://dictionary.cambridge.org/dictionary/english/buffer",
+            "exampleSourceId": "cambridge:4f4d0c41ac41e27a",
+            "translationOrigin": "AI中文整理"
+          },
+          {
+            "title": "缓冲装置；减少碰撞冲击的设备",
+            "en": "a cushion-like device that reduces shock due to an impact",
+            "meta": "n. · 精选学习义",
+            "example": "The buffer reduces the impact.",
+            "zh": "缓冲装置减轻冲击。",
+            "credit": "原创教学补充",
+            "url": "https://en-word.net/",
+            "definitionSourceURL": "https://en-word.net/",
+            "exampleOrigin": "original",
+            "exampleSourceURL": null,
+            "exampleSourceId": "original:94744503deed72a8",
+            "translationOrigin": "AI中文整理"
+          }
+        ],
+        "note": "时间buffer是余量；不是活动本身工期，也不是新的截止日期。",
+        "retrieved": "2026-11-16",
+        "retrieval": "versioned source cache",
+        "learningSource": "词义见各项来源；中文整理／例句来源分别标注"
+      },
+      "provenance": {
+        "sourceIds": [
+          "original-vocab",
+          "oewn-2025",
+          "cambridge-buffer"
+        ],
+        "selectionVersion": "1",
+        "aiTaskHash": "b5397c14e771ee48ff4ddc9e5abdc78d64792c5fa72e3ba648aa82059a418f6c",
+        "examples": [
+          {
+            "senseId": "web:cambridge-buffer",
+            "candidateId": "cambridge:4f4d0c41ac41e27a",
+            "origin": "source_short_quote",
+            "url": "https://dictionary.cambridge.org/dictionary/english/buffer",
+            "locator": "entry-3/sense-0/entry-3/sense-0/example-0",
+            "sourceHash": "08bc3785472a9847cb8b8db575574bc92c96ccb640078f44f7636a24c6e4d207"
+          },
+          {
+            "senseId": "buffer%1:06:00::",
+            "candidateId": "original:94744503deed72a8",
+            "origin": "original",
+            "url": null,
+            "locator": null,
+            "sourceHash": null
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-006",
+      "contextId": "V20261012-006-context",
+      "inputHash": "03b0ceb8846c6341ec86fbb265183f7b77c5c61d4b477ac544e2df85edc3ec79",
+      "status": "ready",
+      "data": {
+        "general": "约束；限制行动的条件；受约束的状态",
+        "senses": [
+          {
+            "title": "约束；限制行动的条件",
+            "en": "something that controls what you do by keeping you within particular limits",
+            "meta": "n. · 精选学习义",
+            "example": "The idea has been dropped due to financial constraints.",
+            "zh": "由于资金限制，这个想法已被放弃。",
+            "credit": "Cambridge Dictionary · 来源用例",
+            "url": "https://dictionary.cambridge.org/dictionary/english/constraint",
+            "definitionSourceURL": "https://dictionary.cambridge.org/dictionary/english/constraint",
+            "exampleOrigin": "source_short_quote",
+            "exampleSourceURL": "https://dictionary.cambridge.org/dictionary/english/constraint",
+            "exampleSourceId": "cambridge:f00eb998ce41baca",
+            "translationOrigin": "AI中文整理"
+          },
+          {
+            "title": "受约束的状态",
+            "en": "the state of being physically constrained",
+            "meta": "n. · 精选学习义",
+            "example": "The mechanism moves under constraint.",
+            "zh": "该机构在受约束状态下运动。",
+            "credit": "原创教学补充",
+            "url": "https://en-word.net/",
+            "definitionSourceURL": "https://en-word.net/",
+            "exampleOrigin": "original",
+            "exampleSourceURL": null,
+            "exampleSourceId": "original:e2319efb8247cd9d",
+            "translationOrigin": "AI中文整理"
+          }
+        ],
+        "note": "main constraint是主要限制，不是唯一限制；先辨别限制是已知还是未来风险。",
+        "retrieved": "2026-11-16",
+        "retrieval": "versioned source cache",
+        "learningSource": "词义见各项来源；中文整理／例句来源分别标注"
+      },
+      "provenance": {
+        "sourceIds": [
+          "original-vocab",
+          "oewn-2025",
+          "cambridge-constraint"
+        ],
+        "selectionVersion": "1",
+        "aiTaskHash": "ad897ee0363d38edc47fbb5be0a703362017d34d9bb268f36b5da01f52265754",
+        "examples": [
+          {
+            "senseId": "web:cambridge-constraint",
+            "candidateId": "cambridge:f00eb998ce41baca",
+            "origin": "source_short_quote",
+            "url": "https://dictionary.cambridge.org/dictionary/english/constraint",
+            "locator": "entry-0/sense-0/entry-0/sense-0/example-2",
+            "sourceHash": "3084fb047d80fbfe6a890ad1bb64a5b04234630babfcaa4ec03f2ee3f855e790"
+          },
+          {
+            "senseId": "constraint%1:26:00::",
+            "candidateId": "original:e2319efb8247cd9d",
+            "origin": "original",
+            "url": null,
+            "locator": null,
+            "sourceHash": null
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-088",
+      "contextId": "V20261012-088-context",
+      "inputHash": "eb65617e57625b89d2535425f0d5f539a1ef0813db31ab8f83d03857c5c3c344",
+      "status": "ready",
+      "data": {
+        "general": "初步的；为后续阶段作准备的",
+        "senses": [
+          {
+            "title": "初步的；为后续阶段作准备的",
+            "en": "denoting an action or event preceding or in preparation for something more important",
+            "meta": "adj. · 精选学习义",
+            "example": "a preliminary investigation",
+            "zh": "初步调查。",
+            "credit": "Open English Wordnet 2025 · 来源用例",
+            "url": "https://en-word.net/",
+            "definitionSourceURL": "https://en-word.net/",
+            "exampleOrigin": "licensed_source",
+            "exampleSourceURL": "https://en-word.net/",
+            "exampleSourceId": "oewn:a19cd44cad239780",
+            "translationOrigin": "AI中文整理"
+          }
+        ],
+        "note": "preliminary findings是初步发现；不要在汇报中省略原句的非最终结论限定。",
+        "retrieved": "2026-11-16",
+        "retrieval": "versioned source cache",
+        "learningSource": "词义见各项来源；中文整理／例句来源分别标注"
+      },
+      "provenance": {
+        "sourceIds": [
+          "original-vocab",
+          "oewn-2025"
+        ],
+        "selectionVersion": "1",
+        "aiTaskHash": "d1420fe7fb1e4d5158759dd6c2e10cf1ad20f4161da91e4a6236d2def7641849",
+        "examples": [
+          {
+            "senseId": "preliminary%5:00:00:exploratory:00",
+            "candidateId": "oewn:a19cd44cad239780",
+            "origin": "licensed_source",
+            "url": "https://en-word.net/",
+            "locator": "entries-p.json/preliminary/a/preliminary%5:00:00:exploratory:00",
+            "sourceHash": "a78e8615e519ed24c9af58482159230f49c558be89104d8d511f3c7939ec5eb0"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-004",
+      "contextId": "V20261012-004-context",
+      "inputHash": "7ac82bf8b5dc4af5c78f644b86e7f1f05360f6263e3c058e3c43d0ad735a48b4",
+      "status": "ready",
+      "data": {
+        "general": "重要阶段；里程碑事件；路旁标示距离的里程碑",
+        "senses": [
+          {
+            "title": "重要阶段；里程碑事件",
+            "en": "a significant event in your life (or in a project)",
+            "meta": "n. · 精选学习义",
+            "example": "Last week, we reached a milestone: we served our 1,000th customer.",
+            "zh": "上周，我们达到了一个里程碑：接待了第1000位顾客。",
+            "credit": "Cambridge Dictionary · 来源用例",
+            "url": "https://en-word.net/",
+            "definitionSourceURL": "https://en-word.net/",
+            "exampleOrigin": "source_short_quote",
+            "exampleSourceURL": "https://dictionary.cambridge.org/dictionary/english/milestone",
+            "exampleSourceId": "cambridge:04f58fa997964a4a",
+            "translationOrigin": "AI中文整理"
+          },
+          {
+            "title": "路旁标示距离的里程碑",
+            "en": "stone post at side of a road to show distances",
+            "meta": "n. · 精选学习义",
+            "example": "A roadside milestone said it was two miles to Broughton Street.",
+            "zh": "路旁的里程碑显示，距布劳顿街还有两英里。",
+            "credit": "Cambridge Dictionary · 来源用例",
+            "url": "https://en-word.net/",
+            "definitionSourceURL": "https://en-word.net/",
+            "exampleOrigin": "source_short_quote",
+            "exampleSourceURL": "https://dictionary.cambridge.org/dictionary/english/milestone",
+            "exampleSourceId": "cambridge:c776e0bc39c61413",
+            "translationOrigin": "AI中文整理"
+          }
+        ],
+        "note": "常说reach/achieve a milestone；不要把每一项小任务都自动译成里程碑。",
+        "retrieved": "2026-11-16",
+        "retrieval": "versioned source cache",
+        "learningSource": "词义见各项来源；中文整理／例句来源分别标注"
+      },
+      "provenance": {
+        "sourceIds": [
+          "original-vocab",
+          "oewn-2025"
+        ],
+        "selectionVersion": "1",
+        "aiTaskHash": "cfad19c78678ff2b2ef162f6d458b3344fc32c3577f0848522f78964c292e139",
+        "examples": [
+          {
+            "senseId": "milestone%1:11:00::",
+            "candidateId": "cambridge:04f58fa997964a4a",
+            "origin": "source_short_quote",
+            "url": "https://dictionary.cambridge.org/dictionary/english/milestone",
+            "locator": "entry-0/sense-0/entry-0/sense-0/example-2",
+            "sourceHash": "bb9d6311ab970d4cd4ce81ec90e3743d85643de353589f02b9b14fffd9523d49"
+          },
+          {
+            "senseId": "milestone%1:10:01::",
+            "candidateId": "cambridge:c776e0bc39c61413",
+            "origin": "source_short_quote",
+            "url": "https://dictionary.cambridge.org/dictionary/english/milestone",
+            "locator": "entry-0/sense-3/entry-0/sense-3/example-0",
+            "sourceHash": "bb9d6311ab970d4cd4ce81ec90e3743d85643de353589f02b9b14fffd9523d49"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-005",
+      "contextId": "V20261012-005-context",
+      "inputHash": "9b27fbf298957dcd79ad9f6664547497acab92b78f8e6cc39e4d638dba3d19f2",
+      "status": "ready",
+      "data": {
+        "general": "优先事项；重要或紧迫程度；时间上在先；先后地位",
+        "senses": [
+          {
+            "title": "优先事项；重要或紧迫程度",
+            "en": "status established in order of importance or urgency",
+            "meta": "n. · 精选学习义",
+            "example": "national independence takes priority over class struggle",
+            "zh": "民族独立优先于阶级斗争。",
+            "credit": "Open English Wordnet 2025 · 来源用例",
+            "url": "https://en-word.net/",
+            "definitionSourceURL": "https://en-word.net/",
+            "exampleOrigin": "licensed_source",
+            "exampleSourceURL": "https://en-word.net/",
+            "exampleSourceId": "oewn:408fbc9bcdd4a8de",
+            "translationOrigin": "AI中文整理"
+          },
+          {
+            "title": "时间上在先；先后地位",
+            "en": "preceding in time",
+            "meta": "n. · 精选学习义",
+            "example": "The earlier filing has priority in time.",
+            "zh": "较早的申请在时间上在先。",
+            "credit": "原创教学补充",
+            "url": "https://en-word.net/",
+            "definitionSourceURL": "https://en-word.net/",
+            "exampleOrigin": "original",
+            "exampleSourceURL": null,
+            "exampleSourceId": "original:87bedb4a4c2c607f",
+            "translationOrigin": "AI中文整理"
+          }
+        ],
+        "note": "priority可数；set priorities强调确定先后，give priority to强调优先照顾某项。",
+        "retrieved": "2026-11-16",
+        "retrieval": "versioned source cache",
+        "learningSource": "词义见各项来源；中文整理／例句来源分别标注"
+      },
+      "provenance": {
+        "sourceIds": [
+          "original-vocab",
+          "oewn-2025"
+        ],
+        "selectionVersion": "1",
+        "aiTaskHash": "817b0eb2c889ae42f3dfb38a484f87061ae6332a734d4844882546dedf2817e1",
+        "examples": [
+          {
+            "senseId": "priority%1:26:00::",
+            "candidateId": "oewn:408fbc9bcdd4a8de",
+            "origin": "licensed_source",
+            "url": "https://en-word.net/",
+            "locator": "entries-p.json/priority/n/priority%1:26:00::",
+            "sourceHash": "a78e8615e519ed24c9af58482159230f49c558be89104d8d511f3c7939ec5eb0"
+          },
+          {
+            "senseId": "priority%1:07:00::",
+            "candidateId": "original:87bedb4a4c2c607f",
+            "origin": "original",
+            "url": null,
+            "locator": null,
+            "sourceHash": null
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-007",
+      "contextId": "V20261012-007-context",
+      "inputHash": "b9c1b8fc24dce96a70a35b596be333b48c5a9a0c965ce0c29a2e1126cce1001e",
+      "status": "ready",
+      "data": {
+        "general": "依赖；受另一事物制约的状态；对成瘾物质的依赖",
+        "senses": [
+          {
+            "title": "依赖；受另一事物制约的状态",
+            "en": "the state of relying on or being controlled by someone or something else",
+            "meta": "n. · 精选学习义",
+            "example": "We need to reduce our dependency on fossil fuels.",
+            "zh": "我们需要减少对化石燃料的依赖。",
+            "credit": "Cambridge Dictionary · 来源用例",
+            "url": "https://en-word.net/",
+            "definitionSourceURL": "https://en-word.net/",
+            "exampleOrigin": "source_short_quote",
+            "exampleSourceURL": "https://dictionary.cambridge.org/dictionary/english/dependency",
+            "exampleSourceId": "cambridge:323c4be604816a46",
+            "translationOrigin": "AI中文整理"
+          },
+          {
+            "title": "对成瘾物质的依赖",
+            "en": "being abnormally tolerant to and dependent on something that is psychologically or physically habit-forming (especially alcohol or narcotic drugs)",
+            "meta": "n. · 精选学习义",
+            "example": "He wrote a memoir about his struggles with chemical dependency.",
+            "zh": "他写了一本回忆录，讲述自己与药物依赖作斗争的经历。",
+            "credit": "Cambridge Dictionary · 来源用例",
+            "url": "https://en-word.net/",
+            "definitionSourceURL": "https://en-word.net/",
+            "exampleOrigin": "source_short_quote",
+            "exampleSourceURL": "https://dictionary.cambridge.org/dictionary/english/dependency",
+            "exampleSourceId": "cambridge:2064e6c7fcdf7471",
+            "translationOrigin": "AI中文整理"
+          }
+        ],
+        "note": "dependency on说明依赖对象；项目里复数dependencies常指多项依赖关系。",
+        "retrieved": "2026-11-16",
+        "retrieval": "versioned source cache",
+        "learningSource": "词义见各项来源；中文整理／例句来源分别标注"
+      },
+      "provenance": {
+        "sourceIds": [
+          "original-vocab",
+          "oewn-2025"
+        ],
+        "selectionVersion": "1",
+        "aiTaskHash": "28325830aa4a1a3d738ad94a1992c9127b428a6c6629ef8bf255701497ad2b2d",
+        "examples": [
+          {
+            "senseId": "dependency%1:26:00::",
+            "candidateId": "cambridge:323c4be604816a46",
+            "origin": "source_short_quote",
+            "url": "https://dictionary.cambridge.org/dictionary/english/dependency",
+            "locator": "entry-0/sense-0/entry-0/sense-0/example-1",
+            "sourceHash": "e4715a206757ce082241044647a11625555ba85a200c832d83de8025935c1e59"
+          },
+          {
+            "senseId": "dependency%1:26:01::",
+            "candidateId": "cambridge:2064e6c7fcdf7471",
+            "origin": "source_short_quote",
+            "url": "https://dictionary.cambridge.org/dictionary/english/dependency",
+            "locator": "entry-0/sense-1/entry-0/sense-1/example-1",
+            "sourceHash": "e4715a206757ce082241044647a11625555ba85a200c832d83de8025935c1e59"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-008",
+      "contextId": "V20261012-008-context",
+      "inputHash": "bd89a9f4a7b59d77022c4ae7777982b77a5f151fee0a450323a58537003458c8",
+      "status": "ready",
+      "data": {
+        "general": "作为推理依据而暂时接受的假设；接任；取得权力或职责",
+        "senses": [
+          {
+            "title": "作为推理依据而暂时接受的假设",
+            "en": "a statement that is assumed to be true and from which a conclusion can be drawn",
+            "meta": "n. · 精选学习义",
+            "example": "on the assumption that he has been injured, we can infer that he will not play",
+            "zh": "假定他受伤了，我们可以推断他不会上场。",
+            "credit": "Open English Wordnet 2025 · 来源用例",
+            "url": "https://en-word.net/",
+            "definitionSourceURL": "https://en-word.net/",
+            "exampleOrigin": "licensed_source",
+            "exampleSourceURL": "https://en-word.net/",
+            "exampleSourceId": "oewn:95121105c83f08ff",
+            "translationOrigin": "AI中文整理"
+          },
+          {
+            "title": "接任；取得权力或职责",
+            "en": "the act of taking possession of or power over something",
+            "meta": "n. · 精选学习义",
+            "example": "his assumption of office coincided with the trouble in Cuba",
+            "zh": "他就职时，恰逢古巴发生动荡。",
+            "credit": "Open English Wordnet 2025 · 来源用例",
+            "url": "https://en-word.net/",
+            "definitionSourceURL": "https://en-word.net/",
+            "exampleOrigin": "licensed_source",
+            "exampleSourceURL": "https://en-word.net/",
+            "exampleSourceId": "oewn:eccd87f298c0a641",
+            "translationOrigin": "AI中文整理"
+          }
+        ],
+        "note": "make an assumption是作假设；check an assumption是核查，二者的证据状态不同。",
+        "retrieved": "2026-11-16",
+        "retrieval": "versioned source cache",
+        "learningSource": "词义见各项来源；中文整理／例句来源分别标注"
+      },
+      "provenance": {
+        "sourceIds": [
+          "original-vocab",
+          "oewn-2025"
+        ],
+        "selectionVersion": "1",
+        "aiTaskHash": "2bacf1c863684550e2dcaf749e655f11e0ab80dc43b418f2dee24e4fa26eabbc",
+        "examples": [
+          {
+            "senseId": "assumption%1:10:00::",
+            "candidateId": "oewn:95121105c83f08ff",
+            "origin": "licensed_source",
+            "url": "https://en-word.net/",
+            "locator": "entries-a.json/assumption/n/assumption%1:10:00::",
+            "sourceHash": "a78e8615e519ed24c9af58482159230f49c558be89104d8d511f3c7939ec5eb0"
+          },
+          {
+            "senseId": "assumption%1:04:00::",
+            "candidateId": "oewn:eccd87f298c0a641",
+            "origin": "licensed_source",
+            "url": "https://en-word.net/",
+            "locator": "entries-a.json/assumption/n/assumption%1:04:00::",
+            "sourceHash": "a78e8615e519ed24c9af58482159230f49c558be89104d8d511f3c7939ec5eb0"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-009",
+      "contextId": "V20261012-009-context",
+      "inputHash": "1fe6bcd06de8f55096043ee41cca94e76bb542c947f40fad8957baf84256c533",
+      "status": "ready",
+      "data": {
+        "general": "用于比较的基准；网球场底线",
+        "senses": [
+          {
+            "title": "用于比较的基准",
+            "en": "an imaginary line or standard by which things are measured or compared",
+            "meta": "n. · 精选学习义",
+            "example": "they established a baseline for the budget",
+            "zh": "他们为预算确立了一个基准。",
+            "credit": "Open English Wordnet 2025 · 来源用例",
+            "url": "https://en-word.net/",
+            "definitionSourceURL": "https://en-word.net/",
+            "exampleOrigin": "licensed_source",
+            "exampleSourceURL": "https://en-word.net/",
+            "exampleSourceId": "oewn:b7e446f02edff1d2",
+            "translationOrigin": "AI中文整理"
+          },
+          {
+            "title": "网球场底线",
+            "en": "the back line bounding each end of a tennis or handball court; when serving the server must not step over this line",
+            "meta": "n. · 精选学习义",
+            "example": "She delivered a final serve from the baseline to win the match.",
+            "zh": "她从底线发出最后一球，赢得了比赛。",
+            "credit": "Cambridge Dictionary · 来源用例",
+            "url": "https://en-word.net/",
+            "definitionSourceURL": "https://en-word.net/",
+            "exampleOrigin": "source_short_quote",
+            "exampleSourceURL": "https://dictionary.cambridge.org/dictionary/english/baseline",
+            "exampleSourceId": "cambridge:24ec3012f4d64c29",
+            "translationOrigin": "AI中文整理"
+          }
+        ],
+        "note": "baseline与target分开记：前者用于对照，后者用于追求。",
+        "retrieved": "2026-11-16",
+        "retrieval": "versioned source cache",
+        "learningSource": "词义见各项来源；中文整理／例句来源分别标注"
+      },
+      "provenance": {
+        "sourceIds": [
+          "original-vocab",
+          "oewn-2025"
+        ],
+        "selectionVersion": "1",
+        "aiTaskHash": "0a9820dc3140ed1d6ea9b8764d1d760ade0b3aa5845e736a0fc0f43c30682690",
+        "examples": [
+          {
+            "senseId": "baseline%1:24:00::",
+            "candidateId": "oewn:b7e446f02edff1d2",
+            "origin": "licensed_source",
+            "url": "https://en-word.net/",
+            "locator": "entries-b.json/baseline/n/baseline%1:24:00::",
+            "sourceHash": "a78e8615e519ed24c9af58482159230f49c558be89104d8d511f3c7939ec5eb0"
+          },
+          {
+            "senseId": "baseline%1:15:01::",
+            "candidateId": "cambridge:24ec3012f4d64c29",
+            "origin": "source_short_quote",
+            "url": "https://dictionary.cambridge.org/dictionary/english/baseline",
+            "locator": "entry-0/sense-0/entry-0/sense-0/example-0",
+            "sourceHash": "15e117bec0a75b294d148d4c5df805b9c6750863d8a83380c962f727ae17ba35"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-011",
+      "contextId": "V20261012-011-context",
+      "inputHash": "cdbfae7a0fa530d1952d86b13fd87493d2fb393033d26605d2caea3ef749bab2",
+      "status": "ready",
+      "data": {
+        "general": "按次序排列的一系列事物；按次序安排",
+        "senses": [
+          {
+            "title": "按次序排列的一系列事物",
+            "en": "serial arrangement in which things follow in logical order or a recurrent pattern",
+            "meta": "n. · 精选学习义",
+            "example": "the sequence of names was alphabetical",
+            "zh": "名单按字母顺序排列。",
+            "credit": "Open English Wordnet 2025 · 来源用例",
+            "url": "https://en-word.net/",
+            "definitionSourceURL": "https://en-word.net/",
+            "exampleOrigin": "licensed_source",
+            "exampleSourceURL": "https://en-word.net/",
+            "exampleSourceId": "oewn:2e98dccd4ba5aa98",
+            "translationOrigin": "AI中文整理"
+          },
+          {
+            "title": "按次序安排",
+            "en": "arrange in a sequence",
+            "meta": "v. · 精选学习义",
+            "example": "The reading books have been sequenced in order of difficulty.",
+            "zh": "这些读本已按难度排序。",
+            "credit": "Cambridge Dictionary · 来源用例",
+            "url": "https://en-word.net/",
+            "definitionSourceURL": "https://en-word.net/",
+            "exampleOrigin": "source_short_quote",
+            "exampleSourceURL": "https://dictionary.cambridge.org/dictionary/english/sequence",
+            "exampleSourceId": "cambridge:4dbf621274b92d40",
+            "translationOrigin": "AI中文整理"
+          }
+        ],
+        "note": "名词the sequence of…；动词sequence the activities。",
+        "retrieved": "2026-11-16",
+        "retrieval": "versioned source cache",
+        "learningSource": "词义见各项来源；中文整理／例句来源分别标注"
+      },
+      "provenance": {
+        "sourceIds": [
+          "original-vocab",
+          "oewn-2025"
+        ],
+        "selectionVersion": "1",
+        "aiTaskHash": "6c8f87daea456b927035475a401b00d620a9fcd9e0048d802870169f0d7a97bb",
+        "examples": [
+          {
+            "senseId": "sequence%1:14:00::",
+            "candidateId": "oewn:2e98dccd4ba5aa98",
+            "origin": "licensed_source",
+            "url": "https://en-word.net/",
+            "locator": "entries-s.json/sequence/n/sequence%1:14:00::",
+            "sourceHash": "a78e8615e519ed24c9af58482159230f49c558be89104d8d511f3c7939ec5eb0"
+          },
+          {
+            "senseId": "sequence%2:31:00::",
+            "candidateId": "cambridge:4dbf621274b92d40",
+            "origin": "source_short_quote",
+            "url": "https://dictionary.cambridge.org/dictionary/english/sequence",
+            "locator": "entry-1/sense-0/entry-1/sense-0/example-1",
+            "sourceHash": "8aa98b58d1ea94ea1ac02c6bf17629881d9915df09822f9957ddcc82359496aa"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-013",
+      "contextId": "V20261012-013-context",
+      "inputHash": "332b5dc2d8b526344961535dd04b9ab13b977c6681033d7bc8c53836960872a8",
+      "status": "ready",
+      "data": {
+        "general": "按计划分配资源或作专门用途",
+        "senses": [
+          {
+            "title": "按计划分配资源或作专门用途",
+            "en": "distribute according to a plan or set apart for a special purpose",
+            "meta": "v. · 精选学习义",
+            "example": "I am allocating a loaf of bread to everyone on a daily basis",
+            "zh": "我每天给每个人分配一条面包。",
+            "credit": "Open English Wordnet 2025 · 来源用例",
+            "url": "https://en-word.net/",
+            "definitionSourceURL": "https://en-word.net/",
+            "exampleOrigin": "licensed_source",
+            "exampleSourceURL": "https://en-word.net/",
+            "exampleSourceId": "oewn:7efd7af4b9b9011e",
+            "translationOrigin": "AI中文整理"
+          }
+        ],
+        "note": "allocate something to/for something；说清分配的资源与用途。",
+        "retrieved": "2026-11-16",
+        "retrieval": "versioned source cache",
+        "learningSource": "词义见各项来源；中文整理／例句来源分别标注"
+      },
+      "provenance": {
+        "sourceIds": [
+          "original-vocab",
+          "oewn-2025"
+        ],
+        "selectionVersion": "1",
+        "aiTaskHash": "2a66bd8cae1b83a7458e9f95ae9948b7024343f45a498cb532847d7f43cf6803",
+        "examples": [
+          {
+            "senseId": "allocate%2:40:00::",
+            "candidateId": "oewn:7efd7af4b9b9011e",
+            "origin": "licensed_source",
+            "url": "https://en-word.net/",
+            "locator": "entries-a.json/allocate/v/allocate%2:40:00::",
+            "sourceHash": "a78e8615e519ed24c9af58482159230f49c558be89104d8d511f3c7939ec5eb0"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-014",
+      "contextId": "V20261012-014-context",
+      "inputHash": "704b7a8a3a0a69ba9a3bcce70bd06898b4960a222a3affda1df14b16fbf94973",
+      "status": "ready",
+      "data": {
+        "general": "把任务交给别人执行；代表；被选派的人；授予或转交权力",
+        "senses": [
+          {
+            "title": "把任务交给别人执行",
+            "en": "give an assignment to (a person) to a post, or assign a task to (a person)",
+            "meta": "v. · 精选学习义",
+            "example": "Authority to make financial decisions has been delegated to a special committee.",
+            "zh": "财务决策权已被授予一个特别委员会。",
+            "credit": "Cambridge Dictionary · 来源用例",
+            "url": "https://en-word.net/",
+            "definitionSourceURL": "https://en-word.net/",
+            "exampleOrigin": "source_short_quote",
+            "exampleSourceURL": "https://dictionary.cambridge.org/dictionary/english/delegate",
+            "exampleSourceId": "cambridge:f34f667881e2c8d9",
+            "translationOrigin": "AI中文整理"
+          },
+          {
+            "title": "代表；被选派的人",
+            "en": "a person appointed or elected to represent others",
+            "meta": "n. · 精选学习义",
+            "example": "Delegates have voted in favour of the motion.",
+            "zh": "代表们投票赞成了这项动议。",
+            "credit": "Cambridge Dictionary · 来源用例",
+            "url": "https://en-word.net/",
+            "definitionSourceURL": "https://en-word.net/",
+            "exampleOrigin": "source_short_quote",
+            "exampleSourceURL": "https://dictionary.cambridge.org/dictionary/english/delegate",
+            "exampleSourceId": "cambridge:4b375b2f65b4aa8a",
+            "translationOrigin": "AI中文整理"
+          },
+          {
+            "title": "授予或转交权力",
+            "en": "transfer power to someone",
+            "meta": "v. · 精选学习义",
+            "example": "Authority to make financial decisions has been delegated to a special committee.",
+            "zh": "财务决策权已被授予一个特别委员会。",
+            "credit": "Cambridge Dictionary · 来源用例",
+            "url": "https://en-word.net/",
+            "definitionSourceURL": "https://en-word.net/",
+            "exampleOrigin": "source_short_quote",
+            "exampleSourceURL": "https://dictionary.cambridge.org/dictionary/english/delegate",
+            "exampleSourceId": "cambridge:f34f667881e2c8d9",
+            "translationOrigin": "AI中文整理"
+          }
+        ],
+        "note": "delegate a task to someone；注意名词delegate与动词形式相同。",
+        "retrieved": "2026-11-16",
+        "retrieval": "versioned source cache",
+        "learningSource": "词义见各项来源；中文整理／例句来源分别标注"
+      },
+      "provenance": {
+        "sourceIds": [
+          "original-vocab",
+          "oewn-2025"
+        ],
+        "selectionVersion": "1",
+        "aiTaskHash": "3fbb34abe5e3d8bba4fe5b8f2e2ddcca83543bd6cdc62172e9a84175f237d864",
+        "examples": [
+          {
+            "senseId": "delegate%2:41:00::",
+            "candidateId": "cambridge:f34f667881e2c8d9",
+            "origin": "source_short_quote",
+            "url": "https://dictionary.cambridge.org/dictionary/english/delegate",
+            "locator": "entry-1/sense-0/entry-1/sense-0/example-1",
+            "sourceHash": "4d466c52197bde9218291fd70d8c168aef1e71425516d23d7d5daeaaa420daea"
+          },
+          {
+            "senseId": "delegate%1:18:00::",
+            "candidateId": "cambridge:4b375b2f65b4aa8a",
+            "origin": "source_short_quote",
+            "url": "https://dictionary.cambridge.org/dictionary/english/delegate",
+            "locator": "entry-0/sense-0/entry-0/sense-0/example-1",
+            "sourceHash": "4d466c52197bde9218291fd70d8c168aef1e71425516d23d7d5daeaaa420daea"
+          },
+          {
+            "senseId": "delegate%2:41:01::",
+            "candidateId": "cambridge:f34f667881e2c8d9",
+            "origin": "source_short_quote",
+            "url": "https://dictionary.cambridge.org/dictionary/english/delegate",
+            "locator": "entry-1/sense-0/entry-1/sense-0/example-1",
+            "sourceHash": "4d466c52197bde9218291fd70d8c168aef1e71425516d23d7d5daeaaa420daea"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-016",
+      "contextId": "V20261012-016-context",
+      "inputHash": "4584b106319944f7797c4e1ebf80b3c840d11e123a7b5f8d59710c3084c1f47c",
+      "status": "ready",
+      "data": {
+        "general": "对行为或结果负有说明责任的",
+        "senses": [
+          {
+            "title": "对行为或结果负有说明责任的",
+            "en": "liable to account for one's actions",
+            "meta": "adj. · 精选学习义",
+            "example": "fully accountable for what they did",
+            "zh": "对自己所做的事负全部责任。",
+            "credit": "Open English Wordnet 2025 · 来源用例",
+            "url": "https://en-word.net/",
+            "definitionSourceURL": "https://en-word.net/",
+            "exampleOrigin": "licensed_source",
+            "exampleSourceURL": "https://en-word.net/",
+            "exampleSourceId": "oewn:56841069f3d5bad5",
+            "translationOrigin": "AI中文整理"
+          }
+        ],
+        "note": "accountable for something / to someone；学习责任范围与问责对象两个方向。",
+        "retrieved": "2026-11-16",
+        "retrieval": "versioned source cache",
+        "learningSource": "词义见各项来源；中文整理／例句来源分别标注"
+      },
+      "provenance": {
+        "sourceIds": [
+          "original-vocab",
+          "oewn-2025"
+        ],
+        "selectionVersion": "1",
+        "aiTaskHash": "cf8951296a33bb3e3ee38663e8eecbc5747931be816014aaa48d673eafe0c8d0",
+        "examples": [
+          {
+            "senseId": "accountable%5:00:00:responsible:00",
+            "candidateId": "oewn:56841069f3d5bad5",
+            "origin": "licensed_source",
+            "url": "https://en-word.net/",
+            "locator": "entries-a.json/accountable/a/accountable%5:00:00:responsible:00",
+            "sourceHash": "a78e8615e519ed24c9af58482159230f49c558be89104d8d511f3c7939ec5eb0"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-017",
+      "contextId": "V20261012-017-context",
+      "inputHash": "49a3f15ca7a3ccbaa3f75e050b9ceced6cdad4a266206e7fd424dd50d932091f",
+      "status": "ready",
+      "data": {
+        "general": "必须完成某事的最后时限",
+        "senses": [
+          {
+            "title": "必须完成某事的最后时限",
+            "en": "the point in time at which something must be completed",
+            "meta": "n. · 精选学习义",
+            "example": "The application deadline is February 16.",
+            "zh": "申请截止日期是2月16日。",
+            "credit": "Cambridge Dictionary · 来源用例",
+            "url": "https://en-word.net/",
+            "definitionSourceURL": "https://en-word.net/",
+            "exampleOrigin": "source_short_quote",
+            "exampleSourceURL": "https://dictionary.cambridge.org/dictionary/english/deadline",
+            "exampleSourceId": "cambridge:ad1b3c65be412806",
+            "translationOrigin": "AI中文整理"
+          }
+        ],
+        "note": "meet the deadline是按期完成，不是“开会讨论期限”。",
+        "retrieved": "2026-11-16",
+        "retrieval": "versioned source cache",
+        "learningSource": "词义见各项来源；中文整理／例句来源分别标注"
+      },
+      "provenance": {
+        "sourceIds": [
+          "original-vocab",
+          "oewn-2025"
+        ],
+        "selectionVersion": "1",
+        "aiTaskHash": "b04da7097cf59dca51ba847cedbd128a4769d6ec7447c3724d67aa6f2656eb2d",
+        "examples": [
+          {
+            "senseId": "deadline%1:28:00::",
+            "candidateId": "cambridge:ad1b3c65be412806",
+            "origin": "source_short_quote",
+            "url": "https://dictionary.cambridge.org/dictionary/english/deadline",
+            "locator": "entry-2/sense-0/entry-2/sense-0/example-0",
+            "sourceHash": "d25091fbc3d120dc3c8e373bfb1dcc4cb6815abaa9f6aea45529d863721ddfa9"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-021",
+      "contextId": "V20261012-021-context",
+      "inputHash": "6b845126e76e3feac28a72cd52bc4fdf31a6ec79c481ea1bbae07ef4cd9f3d6c",
+      "status": "ready",
+      "data": {
+        "general": "在现有条件和手段下可行的",
+        "senses": [
+          {
+            "title": "在现有条件和手段下可行的",
+            "en": "capable of being done with means at hand and circumstances as they are",
+            "meta": "adj. · 精选学习义",
+            "example": "With the extra resources, the project now seems feasible.",
+            "zh": "有了额外资源，这个项目现在看来可行了。",
+            "credit": "Cambridge Dictionary · 来源用例",
+            "url": "https://en-word.net/",
+            "definitionSourceURL": "https://en-word.net/",
+            "exampleOrigin": "source_short_quote",
+            "exampleSourceURL": "https://dictionary.cambridge.org/dictionary/english/feasible",
+            "exampleSourceId": "cambridge:ac1c7eefb34b20b7",
+            "translationOrigin": "AI中文整理"
+          }
+        ],
+        "note": "feasible with现有条件；不要将feasible与approved互换。",
+        "retrieved": "2026-11-16",
+        "retrieval": "versioned source cache",
+        "learningSource": "词义见各项来源；中文整理／例句来源分别标注"
+      },
+      "provenance": {
+        "sourceIds": [
+          "original-vocab",
+          "oewn-2025"
+        ],
+        "selectionVersion": "1",
+        "aiTaskHash": "783c2a4ca5efebc399cbe41ff0ca53c9d766f779f5e499f4d1980f8a81b842d0",
+        "examples": [
+          {
+            "senseId": "feasible%5:00:00:possible:00",
+            "candidateId": "cambridge:ac1c7eefb34b20b7",
+            "origin": "source_short_quote",
+            "url": "https://dictionary.cambridge.org/dictionary/english/feasible",
+            "locator": "entry-0/sense-0/entry-0/sense-0/example-0",
+            "sourceHash": "e68a1f5b089f5fb329cd49f0953515b79894db10beeca2bbb3eac3da366081fc"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-023",
+      "contextId": "V20261012-023-context",
+      "inputHash": "d234053a5e81aeac283b8b98c773ad34673a195da7c79d9ade6470b5e0f26818",
+      "status": "ready",
+      "data": {
+        "general": "早该完成而尚未完成的；到期未付的",
+        "senses": [
+          {
+            "title": "早该完成而尚未完成的",
+            "en": "it should have already happened or been done",
+            "meta": "adj. · 精选学习义",
+            "example": "Changes to the tax system are long overdue.",
+            "zh": "税制改革早就该进行了。",
+            "credit": "Cambridge Dictionary · 来源用例",
+            "url": "https://dictionary.cambridge.org/us/dictionary/english/overdue",
+            "definitionSourceURL": "https://dictionary.cambridge.org/us/dictionary/english/overdue",
+            "exampleOrigin": "source_short_quote",
+            "exampleSourceURL": "https://dictionary.cambridge.org/dictionary/english/overdue",
+            "exampleSourceId": "cambridge:aa4ec8dc8424ce0c",
+            "translationOrigin": "AI中文整理"
+          },
+          {
+            "title": "到期未付的",
+            "en": "past due; not paid at the scheduled time",
+            "meta": "adj. · 精选学习义",
+            "example": "an overdue installment",
+            "zh": "逾期未付的一期款项。",
+            "credit": "Open English Wordnet 2025 · 来源用例",
+            "url": "https://en-word.net/",
+            "definitionSourceURL": "https://en-word.net/",
+            "exampleOrigin": "licensed_source",
+            "exampleSourceURL": "https://en-word.net/",
+            "exampleSourceId": "oewn:97a257ce4c483e1d",
+            "translationOrigin": "AI中文整理"
+          }
+        ],
+        "note": "be overdue是状态；overdue payment与overdue action对象不同。",
+        "retrieved": "2026-11-16",
+        "retrieval": "versioned source cache",
+        "learningSource": "词义见各项来源；中文整理／例句来源分别标注"
+      },
+      "provenance": {
+        "sourceIds": [
+          "original-vocab",
+          "oewn-2025",
+          "cambridge-overdue"
+        ],
+        "selectionVersion": "1",
+        "aiTaskHash": "fddd7a80500e3ac92dc1ee01ff2ad29b2ff347384c49709cbea346ec95bfa84f",
+        "examples": [
+          {
+            "senseId": "web:cambridge-overdue",
+            "candidateId": "cambridge:aa4ec8dc8424ce0c",
+            "origin": "source_short_quote",
+            "url": "https://dictionary.cambridge.org/dictionary/english/overdue",
+            "locator": "entry-2/sense-1/entry-2/sense-1/example-0",
+            "sourceHash": "41b4ae2e28ee16d2eb00ba32693298d8b3b9ef2c278891a2682a3dc5fb86962d"
+          },
+          {
+            "senseId": "overdue%5:00:00:due:00",
+            "candidateId": "oewn:97a257ce4c483e1d",
+            "origin": "licensed_source",
+            "url": "https://en-word.net/",
+            "locator": "entries-o.json/overdue/a/overdue%5:00:00:due:00",
+            "sourceHash": "a78e8615e519ed24c9af58482159230f49c558be89104d8d511f3c7939ec5eb0"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-025",
+      "contextId": "V20261012-025-context",
+      "inputHash": "1a53f10243d7eb6e24b7f8d996c90aae5c1bfd70869e72bdc4c8cda0e566075b",
+      "status": "ready",
+      "data": {
+        "general": "积压的未完成工作",
+        "senses": [
+          {
+            "title": "积压的未完成工作",
+            "en": "an accumulation of jobs not done or materials not processed that are yet to be dealt with (especially unfilled customer orders for products or services)",
+            "meta": "n. · 精选学习义",
+            "example": "I've got a huge backlog of work to do.",
+            "zh": "我有大量积压工作要处理。",
+            "credit": "Cambridge Dictionary · 来源用例",
+            "url": "https://en-word.net/",
+            "definitionSourceURL": "https://en-word.net/",
+            "exampleOrigin": "source_short_quote",
+            "exampleSourceURL": "https://dictionary.cambridge.org/dictionary/english/backlog",
+            "exampleSourceId": "cambridge:45ab20e9c2a0d609",
+            "translationOrigin": "AI中文整理"
+          }
+        ],
+        "note": "a backlog of orders/requests；clear the backlog强调处理完积压事项。",
+        "retrieved": "2026-11-16",
+        "retrieval": "versioned source cache",
+        "learningSource": "词义见各项来源；中文整理／例句来源分别标注"
+      },
+      "provenance": {
+        "sourceIds": [
+          "original-vocab",
+          "oewn-2025"
+        ],
+        "selectionVersion": "1",
+        "aiTaskHash": "cf73dab64b3cb97efad23ab0b8de6856b162ef0c6b4db328f69150504340cd86",
+        "examples": [
+          {
+            "senseId": "backlog%1:14:00::",
+            "candidateId": "cambridge:45ab20e9c2a0d609",
+            "origin": "source_short_quote",
+            "url": "https://dictionary.cambridge.org/dictionary/english/backlog",
+            "locator": "entry-0/sense-0/entry-0/sense-0/example-0",
+            "sourceHash": "924f530d69d8c850f03e775d8d9b1368516c014fd7ed87fd9f6b4b55ae2e74fd"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-026",
+      "contextId": "V20261012-026-context",
+      "inputHash": "563ba996f2b217676bb6d4560f290e74bd5221398acac50d6a8d23d90c28248e",
+      "status": "ready",
+      "data": {
+        "general": "限制流动或进展的狭窄处；瓶颈；瓶颈；瓶子的狭窄颈部",
+        "senses": [
+          {
+            "title": "限制流动或进展的狭窄处；瓶颈",
+            "en": "a narrowing that reduces the flow through a channel",
+            "meta": "n. · 精选学习义",
+            "example": "Is there any way of getting around this bureaucratic bottleneck?",
+            "zh": "有办法绕过这个官僚程序造成的瓶颈吗？",
+            "credit": "Cambridge Dictionary · 来源用例",
+            "url": "https://en-word.net/",
+            "definitionSourceURL": "https://en-word.net/",
+            "exampleOrigin": "source_short_quote",
+            "exampleSourceURL": "https://dictionary.cambridge.org/dictionary/english/bottleneck",
+            "exampleSourceId": "cambridge:4c6a95d1a41165f3",
+            "translationOrigin": "AI中文整理"
+          },
+          {
+            "title": "瓶颈；瓶子的狭窄颈部",
+            "en": "the narrow part of a bottle near the top",
+            "meta": "n. · 精选学习义",
+            "example": "The brush would not fit through the bottleneck.",
+            "zh": "刷子穿不过瓶颈。",
+            "credit": "原创教学补充",
+            "url": "https://en-word.net/",
+            "definitionSourceURL": "https://en-word.net/",
+            "exampleOrigin": "original",
+            "exampleSourceURL": null,
+            "exampleSourceId": "original:e44f3b9771c7f184",
+            "translationOrigin": "AI中文整理"
+          }
+        ],
+        "note": "bottleneck常与process/production/approval搭配；先判断是否限制整体进展。",
+        "retrieved": "2026-11-16",
+        "retrieval": "versioned source cache",
+        "learningSource": "词义见各项来源；中文整理／例句来源分别标注"
+      },
+      "provenance": {
+        "sourceIds": [
+          "original-vocab",
+          "oewn-2025"
+        ],
+        "selectionVersion": "1",
+        "aiTaskHash": "56970e7699f436d1c4fe74b5409bfd1cb563a41bcdeb5a338a0dd437a771fd2e",
+        "examples": [
+          {
+            "senseId": "bottleneck%1:25:00::",
+            "candidateId": "cambridge:4c6a95d1a41165f3",
+            "origin": "source_short_quote",
+            "url": "https://dictionary.cambridge.org/dictionary/english/bottleneck",
+            "locator": "entry-0/sense-1/entry-0/sense-1/example-0",
+            "sourceHash": "14f2dbba8eed0810e2e7d428ad2912850778a4d583cda19fcf9f31c2edde63ec"
+          },
+          {
+            "senseId": "bottleneck%1:06:00::",
+            "candidateId": "original:e44f3b9771c7f184",
+            "origin": "original",
+            "url": null,
+            "locator": null,
+            "sourceHash": null
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-028",
+      "contextId": "V20261012-028-context",
+      "inputHash": "d65e17dff469f0c2bd65713cd6d1f395b99de58ea32257ed9bac366b9a13fe50",
+      "status": "ready",
+      "data": {
+        "general": "妨碍进展的不利事件；挫折",
+        "senses": [
+          {
+            "title": "妨碍进展的不利事件；挫折",
+            "en": "an unfortunate happening that hinders or impedes; something that is thwarting or frustrating",
+            "meta": "n. · 精选学习义",
+            "example": "There has been a slight/temporary setback in our plans.",
+            "zh": "我们的计划遇到了一点／暂时的挫折。",
+            "credit": "Cambridge Dictionary · 来源用例",
+            "url": "https://en-word.net/",
+            "definitionSourceURL": "https://en-word.net/",
+            "exampleOrigin": "source_short_quote",
+            "exampleSourceURL": "https://dictionary.cambridge.org/dictionary/english/setback",
+            "exampleSourceId": "cambridge:55c0564e9daa4a53",
+            "translationOrigin": "AI中文整理"
+          }
+        ],
+        "note": "a setback是一次受挫；temporary setback仍需要具体恢复行动。",
+        "retrieved": "2026-11-16",
+        "retrieval": "versioned source cache",
+        "learningSource": "词义见各项来源；中文整理／例句来源分别标注"
+      },
+      "provenance": {
+        "sourceIds": [
+          "original-vocab",
+          "oewn-2025"
+        ],
+        "selectionVersion": "1",
+        "aiTaskHash": "16cbb3ad51745b948c845aa9df5288705e1241602376c498a53e9eee87fe3ce4",
+        "examples": [
+          {
+            "senseId": "setback%1:11:01::",
+            "candidateId": "cambridge:55c0564e9daa4a53",
+            "origin": "source_short_quote",
+            "url": "https://dictionary.cambridge.org/dictionary/english/setback",
+            "locator": "entry-0/sense-0/entry-0/sense-0/example-1",
+            "sourceHash": "42ac064c29340d41c47b91b0befb3c98351eab92f2ea9e150524a749eb45fc53"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-029",
+      "contextId": "V20261012-029-context",
+      "inputHash": "f58ef362f84cef40398d72b4567d18286428586b41cfa2e8390eccb12e837435",
+      "status": "ready",
+      "data": {
+        "general": "加剧；上升；将问题提交更高级别处理",
+        "senses": [
+          {
+            "title": "加剧；上升",
+            "en": "increase in extent or intensity",
+            "meta": "v. · 精选学习义",
+            "example": "The Allies escalated the bombing",
+            "zh": "盟军加大了轰炸力度。",
+            "credit": "Open English Wordnet 2025 · 来源用例",
+            "url": "https://en-word.net/",
+            "definitionSourceURL": "https://en-word.net/",
+            "exampleOrigin": "licensed_source",
+            "exampleSourceURL": "https://en-word.net/",
+            "exampleSourceId": "oewn:103cf24b9b66d541",
+            "translationOrigin": "AI中文整理"
+          },
+          {
+            "title": "将问题提交更高级别处理",
+            "en": "to involve someone more important or higher in rank in a situation or problem",
+            "meta": "v. · 精选学习义",
+            "example": "You might need to escalate the issue to the next highest level management team.",
+            "zh": "你可能需要把问题提交给更高一级的管理团队处理。",
+            "credit": "Cambridge Dictionary · 来源用例",
+            "url": "https://dictionary.cambridge.org/dictionary/english/escalate",
+            "definitionSourceURL": "https://dictionary.cambridge.org/dictionary/english/escalate",
+            "exampleOrigin": "source_short_quote",
+            "exampleSourceURL": "https://dictionary.cambridge.org/dictionary/english/escalate",
+            "exampleSourceId": "cambridge:5ffe14ef320a342a",
+            "translationOrigin": "AI中文整理"
+          }
+        ],
+        "note": "业务语境注意escalate an issue to someone；别与escalating costs混淆。",
+        "retrieved": "2026-11-16",
+        "retrieval": "versioned source cache",
+        "learningSource": "词义见各项来源；中文整理／例句来源分别标注"
+      },
+      "provenance": {
+        "sourceIds": [
+          "original-vocab",
+          "oewn-2025",
+          "cambridge-escalate"
+        ],
+        "selectionVersion": "1",
+        "aiTaskHash": "9421f8642f44051fb0a444215b4fec944a16989d74d64935b5675b8150241577",
+        "examples": [
+          {
+            "senseId": "escalate%2:30:00::",
+            "candidateId": "oewn:103cf24b9b66d541",
+            "origin": "licensed_source",
+            "url": "https://en-word.net/",
+            "locator": "entries-e.json/escalate/v/escalate%2:30:00::",
+            "sourceHash": "a78e8615e519ed24c9af58482159230f49c558be89104d8d511f3c7939ec5eb0"
+          },
+          {
+            "senseId": "web:cambridge-escalate",
+            "candidateId": "cambridge:5ffe14ef320a342a",
+            "origin": "source_short_quote",
+            "url": "https://dictionary.cambridge.org/dictionary/english/escalate",
+            "locator": "entry-0/sense-1/entry-0/sense-1/example-0",
+            "sourceHash": "48d461b3df86aebdf94e6686f11868cc5d861d3d933b03f93fa243dab4bec4cd"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-030",
+      "contextId": "V20261012-030-context",
+      "inputHash": "4893318b653caff1a51542cfe2573641b4b4cc4b3213fd68a7b405d888c6c142",
+      "status": "ready",
+      "data": {
+        "general": "减轻严重性、程度或影响",
+        "senses": [
+          {
+            "title": "减轻严重性、程度或影响",
+            "en": "lessen or to try to lessen the seriousness or extent of",
+            "meta": "v. · 精选学习义",
+            "example": "It is unclear how to mitigate the effects of tourism on the island.",
+            "zh": "目前还不清楚如何减轻旅游业对该岛的影响。",
+            "credit": "Cambridge Dictionary · 来源用例",
+            "url": "https://en-word.net/",
+            "definitionSourceURL": "https://en-word.net/",
+            "exampleOrigin": "source_short_quote",
+            "exampleSourceURL": "https://dictionary.cambridge.org/dictionary/english/mitigate",
+            "exampleSourceId": "cambridge:66ed7e770225ce4f",
+            "translationOrigin": "AI中文整理"
+          }
+        ],
+        "note": "mitigate risk/impact；若要表达彻底消除，应另核实是否能用eliminate。",
+        "retrieved": "2026-11-16",
+        "retrieval": "versioned source cache",
+        "learningSource": "词义见各项来源；中文整理／例句来源分别标注"
+      },
+      "provenance": {
+        "sourceIds": [
+          "original-vocab",
+          "oewn-2025"
+        ],
+        "selectionVersion": "1",
+        "aiTaskHash": "f0a815100b3c38cfdad60d9909e4236a8757010d9ceed2a15d04a1468187bd28",
+        "examples": [
+          {
+            "senseId": "mitigate%2:32:00::",
+            "candidateId": "cambridge:66ed7e770225ce4f",
+            "origin": "source_short_quote",
+            "url": "https://dictionary.cambridge.org/dictionary/english/mitigate",
+            "locator": "entry-0/sense-0/entry-0/sense-0/example-0",
+            "sourceHash": "721cf76073af807835dff28688580a94005f9185e77c05285e7206be37e79f9f"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-031",
+      "contextId": "V20261012-031-context",
+      "inputHash": "ee8b85a7733276985d18d360347f9a8a79533925d5b31b1f7f5af77ebcee7117",
+      "status": "ready",
+      "data": {
+        "general": "持续观察；监测；显示器；监视屏幕",
+        "senses": [
+          {
+            "title": "持续观察；监测",
+            "en": "keep tabs on; keep an eye on; keep under surveillance",
+            "meta": "v. · 精选学习义",
+            "example": "we are monitoring the air quality",
+            "zh": "我们正在监测空气质量。",
+            "credit": "Open English Wordnet 2025 · 来源用例",
+            "url": "https://en-word.net/",
+            "definitionSourceURL": "https://en-word.net/",
+            "exampleOrigin": "licensed_source",
+            "exampleSourceURL": "https://en-word.net/",
+            "exampleSourceId": "oewn:e90e14be83cb6334",
+            "translationOrigin": "AI中文整理"
+          },
+          {
+            "title": "显示器；监视屏幕",
+            "en": "display produced by a device that takes signals and displays them on a television screen or a computer monitor",
+            "meta": "n. · 精选学习义",
+            "example": "a computer monitor",
+            "zh": "电脑显示器。",
+            "credit": "Cambridge Dictionary · 来源用例",
+            "url": "https://en-word.net/",
+            "definitionSourceURL": "https://en-word.net/",
+            "exampleOrigin": "source_short_quote",
+            "exampleSourceURL": "https://dictionary.cambridge.org/dictionary/english/monitor",
+            "exampleSourceId": "cambridge:90c392149747fd84",
+            "translationOrigin": "AI中文整理"
+          }
+        ],
+        "note": "monitor progress/performance；monitor本身不表示已经采取纠正措施。",
+        "retrieved": "2026-11-16",
+        "retrieval": "versioned source cache",
+        "learningSource": "词义见各项来源；中文整理／例句来源分别标注"
+      },
+      "provenance": {
+        "sourceIds": [
+          "original-vocab",
+          "oewn-2025"
+        ],
+        "selectionVersion": "1",
+        "aiTaskHash": "c1c3c606fe10ee217593404211f7c604220c759a787fbe097a0825d1269f5b3f",
+        "examples": [
+          {
+            "senseId": "monitor%2:39:00::",
+            "candidateId": "oewn:e90e14be83cb6334",
+            "origin": "licensed_source",
+            "url": "https://en-word.net/",
+            "locator": "entries-m.json/monitor/v/monitor%2:39:00::",
+            "sourceHash": "a78e8615e519ed24c9af58482159230f49c558be89104d8d511f3c7939ec5eb0"
+          },
+          {
+            "senseId": "monitor%1:06:02::",
+            "candidateId": "cambridge:90c392149747fd84",
+            "origin": "source_short_quote",
+            "url": "https://dictionary.cambridge.org/dictionary/english/monitor",
+            "locator": "entry-0/sense-2/entry-0/sense-2/example-0",
+            "sourceHash": "c7a92f6ad799b0f60c80b2da9842da8a25d967e4fd7c6b09cb7cf0963dc5e22c"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-032",
+      "contextId": "V20261012-032-context",
+      "inputHash": "1e356afd3e3003c5cdd59232a058f6e3ca72171836f80f080d20eb501f038bf8",
+      "status": "ready",
+      "data": {
+        "general": "重新评估",
+        "senses": [
+          {
+            "title": "重新评估",
+            "en": "revise or renew one's assessment",
+            "meta": "v. · 精选学习义",
+            "example": "We need to reassess our values as a nation.",
+            "zh": "我们需要重新审视作为一个国家所持的价值观。",
+            "credit": "Cambridge Dictionary · 来源用例",
+            "url": "https://en-word.net/",
+            "definitionSourceURL": "https://en-word.net/",
+            "exampleOrigin": "source_short_quote",
+            "exampleSourceURL": "https://dictionary.cambridge.org/dictionary/english/reassess",
+            "exampleSourceId": "cambridge:f04b4d25ff528c04",
+            "translationOrigin": "AI中文整理"
+          }
+        ],
+        "note": "reassess先重评，revise再修改；不要省略判断过程。",
+        "retrieved": "2026-11-16",
+        "retrieval": "versioned source cache",
+        "learningSource": "词义见各项来源；中文整理／例句来源分别标注"
+      },
+      "provenance": {
+        "sourceIds": [
+          "original-vocab",
+          "oewn-2025"
+        ],
+        "selectionVersion": "1",
+        "aiTaskHash": "a2581e93532f1afc3b6965852d34ab7957aecc31a78050fb24a0bf5921b1e15f",
+        "examples": [
+          {
+            "senseId": "reassess%2:31:00::",
+            "candidateId": "cambridge:f04b4d25ff528c04",
+            "origin": "source_short_quote",
+            "url": "https://dictionary.cambridge.org/dictionary/english/reassess",
+            "locator": "entry-0/sense-0/entry-0/sense-0/example-0",
+            "sourceHash": "2cd894142fe75365d473dd2922d564848818e817c7a7edfcc202eb8937463739"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-033",
+      "contextId": "V20261012-033-context",
+      "inputHash": "a9d7fab3f3720fac5c296764f46da5d2bc8bad946e2fb6e9d202904244c2654f",
+      "status": "ready",
+      "data": {
+        "general": "推迟；延后处理；遵从；听从他人的意见",
+        "senses": [
+          {
+            "title": "推迟；延后处理",
+            "en": "hold back to a later time",
+            "meta": "v. · 精选学习义",
+            "example": "Can we defer making a decision until next week?",
+            "zh": "我们可以推迟到下周再作决定吗？",
+            "credit": "Cambridge Dictionary · 来源用例",
+            "url": "https://en-word.net/",
+            "definitionSourceURL": "https://en-word.net/",
+            "exampleOrigin": "source_short_quote",
+            "exampleSourceURL": "https://dictionary.cambridge.org/dictionary/english/defer",
+            "exampleSourceId": "cambridge:89456b3dc3467047",
+            "translationOrigin": "AI中文整理"
+          },
+          {
+            "title": "遵从；听从他人的意见",
+            "en": "yield to another's wish or opinion",
+            "meta": "v. · 精选学习义",
+            "example": "I defer to your technical judgment.",
+            "zh": "我听从你的技术判断。",
+            "credit": "原创教学补充",
+            "url": "https://en-word.net/",
+            "definitionSourceURL": "https://en-word.net/",
+            "exampleOrigin": "original",
+            "exampleSourceURL": null,
+            "exampleSourceId": "original:4210de2e95a2abc3",
+            "translationOrigin": "AI中文整理"
+          }
+        ],
+        "note": "defer something与defer to someone要按结构区分。",
+        "retrieved": "2026-11-16",
+        "retrieval": "versioned source cache",
+        "learningSource": "词义见各项来源；中文整理／例句来源分别标注"
+      },
+      "provenance": {
+        "sourceIds": [
+          "original-vocab",
+          "oewn-2025"
+        ],
+        "selectionVersion": "1",
+        "aiTaskHash": "4515e5c0681402c303b63fd26fd4f07b5bf34b2244a08d26f6f1967f23b0d9dd",
+        "examples": [
+          {
+            "senseId": "defer%2:42:00::",
+            "candidateId": "cambridge:89456b3dc3467047",
+            "origin": "source_short_quote",
+            "url": "https://dictionary.cambridge.org/dictionary/english/defer",
+            "locator": "entry-0/sense-0/entry-0/sense-0/example-1",
+            "sourceHash": "781fca5263ddb52427e6ae540b81b606f5e2f837f5bd5213d9e074ca189d882e"
+          },
+          {
+            "senseId": "defer%2:32:00::",
+            "candidateId": "original:4210de2e95a2abc3",
+            "origin": "original",
+            "url": null,
+            "locator": null,
+            "sourceHash": null
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-034",
+      "contextId": "V20261012-034-context",
+      "inputHash": "bf24f7f77fe1cf6926bd38cb5c70dd6386e8b5a85d20242cebe56201525c28b2",
+      "status": "ready",
+      "data": {
+        "general": "促进；加快进展；高效地办理",
+        "senses": [
+          {
+            "title": "促进；加快进展",
+            "en": "speed up the progress of; facilitate",
+            "meta": "v. · 精选学习义",
+            "example": "This should expedite the process",
+            "zh": "这应该能加快流程。",
+            "credit": "Open English Wordnet 2025 · 来源用例",
+            "url": "https://en-word.net/",
+            "definitionSourceURL": "https://en-word.net/",
+            "exampleOrigin": "licensed_source",
+            "exampleSourceURL": "https://en-word.net/",
+            "exampleSourceId": "oewn:dd9936a467e12d75",
+            "translationOrigin": "AI中文整理"
+          },
+          {
+            "title": "高效地办理",
+            "en": "process fast and efficiently",
+            "meta": "v. · 精选学习义",
+            "example": "I will try to expedite the matter",
+            "zh": "我会尽力加快办理这件事。",
+            "credit": "Open English Wordnet 2025 · 来源用例",
+            "url": "https://en-word.net/",
+            "definitionSourceURL": "https://en-word.net/",
+            "exampleOrigin": "licensed_source",
+            "exampleSourceURL": "https://en-word.net/",
+            "exampleSourceId": "oewn:fbbbb99afdcbedf1",
+            "translationOrigin": "AI中文整理"
+          }
+        ],
+        "note": "expedite常接process/review/delivery；保留句中对提速方式的限制。",
+        "retrieved": "2026-11-16",
+        "retrieval": "versioned source cache",
+        "learningSource": "词义见各项来源；中文整理／例句来源分别标注"
+      },
+      "provenance": {
+        "sourceIds": [
+          "original-vocab",
+          "oewn-2025"
+        ],
+        "selectionVersion": "1",
+        "aiTaskHash": "05911ba68dcfa1ce07f3817b6f09557a3d319661a7e93f81f1e4b75c42a020a5",
+        "examples": [
+          {
+            "senseId": "expedite%2:41:00::",
+            "candidateId": "oewn:dd9936a467e12d75",
+            "origin": "licensed_source",
+            "url": "https://en-word.net/",
+            "locator": "entries-e.json/expedite/v/expedite%2:41:00::",
+            "sourceHash": "a78e8615e519ed24c9af58482159230f49c558be89104d8d511f3c7939ec5eb0"
+          },
+          {
+            "senseId": "expedite%2:41:01::",
+            "candidateId": "oewn:fbbbb99afdcbedf1",
+            "origin": "licensed_source",
+            "url": "https://en-word.net/",
+            "locator": "entries-e.json/expedite/v/expedite%2:41:01::",
+            "sourceHash": "a78e8615e519ed24c9af58482159230f49c558be89104d8d511f3c7939ec5eb0"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-035",
+      "contextId": "V20261012-035-context",
+      "inputHash": "902dfbc5c20bfe7877591dea14c167818ba094583dcee7dcff4c58b55b9002fe",
+      "status": "ready",
+      "data": {
+        "general": "解决；使问题得到确定处理；决意；决定要做；决心",
+        "senses": [
+          {
+            "title": "解决；使问题得到确定处理",
+            "en": "bring to an end; settle conclusively",
+            "meta": "v. · 精选学习义",
+            "example": "Have you resolved the problem of transport yet?",
+            "zh": "你解决交通安排的问题了吗？",
+            "credit": "Cambridge Dictionary · 来源用例",
+            "url": "https://en-word.net/",
+            "definitionSourceURL": "https://en-word.net/",
+            "exampleOrigin": "source_short_quote",
+            "exampleSourceURL": "https://dictionary.cambridge.org/dictionary/english/resolve",
+            "exampleSourceId": "cambridge:89508b3ca4202efc",
+            "translationOrigin": "AI中文整理"
+          },
+          {
+            "title": "决意；决定要做",
+            "en": "reach a decision",
+            "meta": "v. · 精选学习义",
+            "example": "he resolved never to drink again",
+            "zh": "他决心再也不喝酒。",
+            "credit": "Open English Wordnet 2025 · 来源用例",
+            "url": "https://en-word.net/",
+            "definitionSourceURL": "https://en-word.net/",
+            "exampleOrigin": "licensed_source",
+            "exampleSourceURL": "https://en-word.net/",
+            "exampleSourceId": "oewn:224cddc0ab496009",
+            "translationOrigin": "AI中文整理"
+          },
+          {
+            "title": "决心",
+            "en": "the trait of being resolute",
+            "meta": "n. · 精选学习义",
+            "example": "The experience increased her resolve to change careers.",
+            "zh": "这段经历坚定了她转行的决心。",
+            "credit": "Cambridge Dictionary · 来源用例",
+            "url": "https://en-word.net/",
+            "definitionSourceURL": "https://en-word.net/",
+            "exampleOrigin": "source_short_quote",
+            "exampleSourceURL": "https://dictionary.cambridge.org/dictionary/english/resolve",
+            "exampleSourceId": "cambridge:0f74a21e15ba4573",
+            "translationOrigin": "AI中文整理"
+          }
+        ],
+        "note": "resolve an issue/dispute；resolve to do something另表示决意。",
+        "retrieved": "2026-11-16",
+        "retrieval": "versioned source cache",
+        "learningSource": "词义见各项来源；中文整理／例句来源分别标注"
+      },
+      "provenance": {
+        "sourceIds": [
+          "original-vocab",
+          "oewn-2025"
+        ],
+        "selectionVersion": "1",
+        "aiTaskHash": "fe2ad40359344bf091ee9774e094f2b688894bc13b4a89cb4090276dd3ca551e",
+        "examples": [
+          {
+            "senseId": "resolve%2:31:01::",
+            "candidateId": "cambridge:89508b3ca4202efc",
+            "origin": "source_short_quote",
+            "url": "https://dictionary.cambridge.org/dictionary/english/resolve",
+            "locator": "entry-0/sense-0/entry-0/sense-0/example-0",
+            "sourceHash": "b4581fd195cf2e3565235fb1777b555286332ed29983ab7659d3577f7a7b2e82"
+          },
+          {
+            "senseId": "resolve%2:31:02::",
+            "candidateId": "oewn:224cddc0ab496009",
+            "origin": "licensed_source",
+            "url": "https://en-word.net/",
+            "locator": "entries-r.json/resolve/v/resolve%2:31:02::",
+            "sourceHash": "a78e8615e519ed24c9af58482159230f49c558be89104d8d511f3c7939ec5eb0"
+          },
+          {
+            "senseId": "resolve%1:07:00::",
+            "candidateId": "cambridge:0f74a21e15ba4573",
+            "origin": "source_short_quote",
+            "url": "https://dictionary.cambridge.org/dictionary/english/resolve",
+            "locator": "entry-3/sense-0/entry-3/sense-0/example-0",
+            "sourceHash": "b4581fd195cf2e3565235fb1777b555286332ed29983ab7659d3577f7a7b2e82"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-036",
+      "contextId": "V20261012-036-context",
+      "inputHash": "2e406e1e56f65270caca6d3e96376a5a996d7b5746b969c23571d9b5b5fba2bd",
+      "status": "ready",
+      "data": {
+        "general": "移交；交接责任、控制或事物",
+        "senses": [
+          {
+            "title": "移交；交接责任、控制或事物",
+            "en": "act of relinquishing property or authority etc",
+            "meta": "n. · 精选学习义",
+            "example": "After the election, there was a peaceful handover of power to the new government.",
+            "zh": "选举之后，权力和平移交给了新政府。",
+            "credit": "Cambridge Dictionary · 来源用例",
+            "url": "https://en-word.net/",
+            "definitionSourceURL": "https://en-word.net/",
+            "exampleOrigin": "source_short_quote",
+            "exampleSourceURL": "https://dictionary.cambridge.org/dictionary/english/handover",
+            "exampleSourceId": "cambridge:5c6ad88031d17213",
+            "translationOrigin": "AI中文整理"
+          }
+        ],
+        "note": "名词handover；动词常写hand over something to someone。",
+        "retrieved": "2026-11-16",
+        "retrieval": "versioned source cache",
+        "learningSource": "词义见各项来源；中文整理／例句来源分别标注"
+      },
+      "provenance": {
+        "sourceIds": [
+          "original-vocab",
+          "oewn-2025"
+        ],
+        "selectionVersion": "1",
+        "aiTaskHash": "8a782077f178f2592c9f8f4f96873ee5c923a7725c8bf8d3c8a0a60d5d0100e5",
+        "examples": [
+          {
+            "senseId": "handover%1:04:00::",
+            "candidateId": "cambridge:5c6ad88031d17213",
+            "origin": "source_short_quote",
+            "url": "https://dictionary.cambridge.org/dictionary/english/handover",
+            "locator": "entry-1/sense-0/entry-1/sense-0/example-0",
+            "sourceHash": "6e73addb07c92ed3089b9608f1a1dbdeb4cde06d46ba09249d75361b4ecbe505"
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-037",
+      "contextId": "V20261012-037-context",
+      "inputHash": "41d3a78545c7e094269cb886a9a382f845ece13772986f2af6ca2d671ec81c5d",
+      "status": "ready",
+      "data": {
+        "general": "签字给出的正式批准",
+        "senses": [
+          {
+            "title": "签字给出的正式批准",
+            "en": "formal approval that somebody has given to something by signing their name",
+            "meta": "n. · 精选学习义",
+            "example": "We need sign-off on the final report.",
+            "zh": "最终报告需要签字批准。",
+            "credit": "原创教学补充",
+            "url": "https://www.oxfordlearnersdictionaries.com/definition/english/sign-off_2",
+            "definitionSourceURL": "https://www.oxfordlearnersdictionaries.com/definition/english/sign-off_2",
+            "exampleOrigin": "original",
+            "exampleSourceURL": null,
+            "exampleSourceId": "original:744165e2007c4315",
+            "translationOrigin": "AI中文整理"
+          }
+        ],
+        "note": "名词sign-off；动词sign off/on分开写。区别签收、知悉和正式批准。",
+        "retrieved": "2026-11-16",
+        "retrieval": "versioned source cache",
+        "learningSource": "词义见各项来源；中文整理／例句来源分别标注"
+      },
+      "provenance": {
+        "sourceIds": [
+          "original-vocab",
+          "oewn-2025",
+          "oxford-sign-off"
+        ],
+        "selectionVersion": "1",
+        "aiTaskHash": "622aeee9d1503a243a7a9c456dacd77a03dc08f84b3cb081934c3a5461de5612",
+        "examples": [
+          {
+            "senseId": "web:oxford-sign-off",
+            "candidateId": "original:744165e2007c4315",
+            "origin": "original",
+            "url": null,
+            "locator": null,
+            "sourceHash": null
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-038",
+      "contextId": "V20261012-038-context",
+      "inputHash": "c6c3d3317da88e1bfd87e68dc8dcd8e4061461573a4cd59e3fe5310e2096d0be",
+      "status": "ready",
+      "data": {
+        "general": "检查站；接受检查的地点；程序中用于检查或确认的节点",
+        "senses": [
+          {
+            "title": "检查站；接受检查的地点",
+            "en": "a place (as at a frontier) where travellers are stopped for inspection and clearance",
+            "meta": "n. · 精选学习义",
+            "example": "Checkpoint Charlie was the most famous border crossing between East and West Berlin.",
+            "zh": "查理检查站曾是东西柏林之间最著名的边境通道。",
+            "credit": "Cambridge Dictionary · 来源用例",
+            "url": "https://en-word.net/",
+            "definitionSourceURL": "https://en-word.net/",
+            "exampleOrigin": "source_short_quote",
+            "exampleSourceURL": "https://dictionary.cambridge.org/dictionary/english/checkpoint",
+            "exampleSourceId": "cambridge:a3bebf90529f9272",
+            "translationOrigin": "AI中文整理"
+          },
+          {
+            "title": "程序中用于检查或确认的节点",
+            "en": "a point or item, especially in a procedure, for notation, inspection, or confirmation",
+            "meta": "n. · 精选学习义",
+            "example": "We added a checkpoint before the final review.",
+            "zh": "我们在最终评审前增加了一个检查节点。",
+            "credit": "原创教学补充",
+            "url": "https://www.dictionary.com/browse/checkpoint",
+            "definitionSourceURL": "https://www.dictionary.com/browse/checkpoint",
+            "exampleOrigin": "original",
+            "exampleSourceURL": null,
+            "exampleSourceId": "original:ee9e711e6740adc8",
+            "translationOrigin": "AI中文整理"
+          }
+        ],
+        "note": "checkpoint可以是流程节点；按上下文区分实体地点与检查时点。",
+        "retrieved": "2026-11-16",
+        "retrieval": "versioned source cache",
+        "learningSource": "词义见各项来源；中文整理／例句来源分别标注"
+      },
+      "provenance": {
+        "sourceIds": [
+          "original-vocab",
+          "oewn-2025",
+          "dictionarycom-checkpoint"
+        ],
+        "selectionVersion": "1",
+        "aiTaskHash": "727a395e82d34018abe8f72fef82e0fa8de08d567d2087ad72abd8930866ad74",
+        "examples": [
+          {
+            "senseId": "checkpoint%1:15:00::",
+            "candidateId": "cambridge:a3bebf90529f9272",
+            "origin": "source_short_quote",
+            "url": "https://dictionary.cambridge.org/dictionary/english/checkpoint",
+            "locator": "entry-0/sense-0/entry-0/sense-0/example-0",
+            "sourceHash": "a7613981c08486d86b0db782e6881c04ab00d98cdf76d4a253a6d2846afebdbf"
+          },
+          {
+            "senseId": "web:dictionarycom-checkpoint",
+            "candidateId": "original:ee9e711e6740adc8",
+            "origin": "original",
+            "url": null,
+            "locator": null,
+            "sourceHash": null
+          }
+        ]
+      }
+    },
+    {
+      "entryId": "V20261012-040",
+      "contextId": "V20261012-040-context",
+      "inputHash": "a8b90d1d1a9fe3ccf01922d5ca32bc42ba380a36f089a72bf67f87ac1edb3937",
+      "status": "ready",
+      "data": {
+        "general": "事情最终产生的结果",
+        "senses": [
+          {
+            "title": "事情最终产生的结果",
+            "en": "something that results",
+            "meta": "n. · 精选学习义",
+            "example": "It's too early to predict the outcome of the meeting.",
+            "zh": "现在预测会议结果还为时过早。",
+            "credit": "Cambridge Dictionary · 来源用例",
+            "url": "https://en-word.net/",
+            "definitionSourceURL": "https://en-word.net/",
+            "exampleOrigin": "source_short_quote",
+            "exampleSourceURL": "https://dictionary.cambridge.org/dictionary/english/outcome",
+            "exampleSourceId": "cambridge:991bad2d0128cf8d",
+            "translationOrigin": "AI中文整理"
+          }
+        ],
+        "note": "expected outcome与actual outcome区分预期和事实；outcome of说明哪项活动的结果。",
+        "retrieved": "2026-11-16",
+        "retrieval": "versioned source cache",
+        "learningSource": "词义见各项来源；中文整理／例句来源分别标注"
+      },
+      "provenance": {
+        "sourceIds": [
+          "original-vocab",
+          "oewn-2025"
+        ],
+        "selectionVersion": "1",
+        "aiTaskHash": "3a189e91ac00bdea257b3590cab779ff0ad7841d988f4b894389fd9bc85f6c44",
+        "examples": [
+          {
+            "senseId": "outcome%1:11:00::",
+            "candidateId": "cambridge:991bad2d0128cf8d",
+            "origin": "source_short_quote",
+            "url": "https://dictionary.cambridge.org/dictionary/english/outcome",
+            "locator": "entry-0/sense-0/entry-0/sense-0/example-0",
+            "sourceHash": "c973ec784683ea2e2c5d52cb47035cb0704731bb0fe469813e7a4f59de7e1ccc"
+          }
+        ]
+      }
+    }
+  ],
+  "outputHash": "bfca98c1e3610e8e635183474429c6805c9bc5f0cad4b4ae5c6ea4f433c76cdb"
+}

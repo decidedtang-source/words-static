@@ -1,0 +1,320 @@
+{
+  "version": "front-system-2.0.0",
+  "pass": true,
+  "coverage": {
+    "entries": 50,
+    "examples": 84,
+    "exampleOrigins": {
+      "source_short_quote": 47,
+      "licensed_source": 28,
+      "original": 9
+    },
+    "pronunciationProviders": {
+      "Cambridge Dictionary": 40,
+      "既有核实音标": 2,
+      "原词库音标": 8
+    },
+    "sourceAudio": 40,
+    "systemTTS": 10,
+    "cambridgeReady": 54,
+    "historyUnits": 55,
+    "historyRefreshAvailable": 0,
+    "scenarioURLs": 0
+  },
+  "dictionaryUnchanged": true,
+  "reproducible": true,
+  "freeze": {
+    "version": "front-system-2.0.0",
+    "files": 22,
+    "baseFiles": 111,
+    "lockHash": "699a4b11533a14e6a38f9a76abe91e9386bc1599e8b024e3aeae852c37e9076f"
+  },
+  "pagePass": true,
+  "htmlSHA": "3a3363fa599b6e533e0532eacd107fac3521a5d61f53cd64c56bcd6ee5cdb917",
+  "checks": [
+    {
+      "entryId": "V20261012-002",
+      "kind": "content_and_layout",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-012",
+      "kind": "content_and_layout",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-022",
+      "kind": "content_and_layout",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-024",
+      "kind": "content_and_layout",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-053",
+      "kind": "content_and_layout",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-078",
+      "kind": "content_and_layout",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-076",
+      "kind": "content_and_layout",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-093",
+      "kind": "content_and_layout",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-100",
+      "kind": "content_and_layout",
+      "pass": true
+    },
+    {
+      "entryId": "V20261014-075",
+      "kind": "content_and_layout",
+      "pass": true
+    },
+    {
+      "entryId": "V20261014-076",
+      "kind": "content_and_layout",
+      "pass": true
+    },
+    {
+      "entryId": "V20261029-005",
+      "kind": "content_and_layout",
+      "pass": true
+    },
+    {
+      "entryId": "V20261014-003",
+      "kind": "content_and_layout",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-117",
+      "kind": "content_and_layout",
+      "pass": true
+    },
+    {
+      "entryId": "V20261018-106",
+      "kind": "content_and_layout",
+      "pass": true
+    },
+    {
+      "entryId": "V20261016-103",
+      "kind": "content_and_layout",
+      "pass": true
+    },
+    {
+      "entryId": "V20261016-119",
+      "kind": "content_and_layout",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-020",
+      "kind": "content_and_layout",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-019",
+      "kind": "content_and_layout",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-015",
+      "kind": "content_and_layout",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-018",
+      "kind": "content_and_layout",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-010",
+      "kind": "content_and_layout",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-006",
+      "kind": "content_and_layout",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-088",
+      "kind": "content_and_layout",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-004",
+      "kind": "content_and_layout",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-005",
+      "kind": "content_and_layout",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-007",
+      "kind": "content_and_layout",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-008",
+      "kind": "content_and_layout",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-009",
+      "kind": "content_and_layout",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-011",
+      "kind": "content_and_layout",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-013",
+      "kind": "content_and_layout",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-014",
+      "kind": "content_and_layout",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-016",
+      "kind": "content_and_layout",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-017",
+      "kind": "content_and_layout",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-021",
+      "kind": "content_and_layout",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-023",
+      "kind": "content_and_layout",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-025",
+      "kind": "content_and_layout",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-026",
+      "kind": "content_and_layout",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-028",
+      "kind": "content_and_layout",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-029",
+      "kind": "content_and_layout",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-030",
+      "kind": "content_and_layout",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-031",
+      "kind": "content_and_layout",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-032",
+      "kind": "content_and_layout",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-033",
+      "kind": "content_and_layout",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-034",
+      "kind": "content_and_layout",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-035",
+      "kind": "content_and_layout",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-036",
+      "kind": "content_and_layout",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-037",
+      "kind": "content_and_layout",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-038",
+      "kind": "content_and_layout",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-040",
+      "kind": "content_and_layout",
+      "pass": true
+    },
+    {
+      "kind": "viewport",
+      "width": 320,
+      "pass": true
+    },
+    {
+      "kind": "viewport",
+      "width": 390,
+      "pass": true
+    },
+    {
+      "kind": "viewport",
+      "width": 768,
+      "pass": true
+    },
+    {
+      "kind": "viewport",
+      "width": 1440,
+      "pass": true
+    },
+    {
+      "kind": "navigation",
+      "pass": true
+    },
+    {
+      "kind": "source_audio_control_simulated",
+      "pass": true
+    },
+    {
+      "kind": "no_javascript_initial_content",
+      "pass": true
+    }
+  ],
+  "errors": [],
+  "audioValidation": "source file downloaded; control simulated; physical speaker not tested"
+}
