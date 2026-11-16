@@ -1,3 +1,4 @@
+import {checkContentAmount} from './content-amount.mjs';
 import fs from 'node:fs';import path from 'node:path';import crypto from 'node:crypto';import {fileURLToPath} from 'node:url';
 export const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'../..');
 const read=p=>JSON.parse(fs.readFileSync(p,'utf8').replace(/^\uFEFF/,''));
@@ -5,7 +6,7 @@ export const sha=b=>crypto.createHash('sha256').update(b).digest('hex');
 const canonical=v=>Array.isArray(v)?v.map(canonical):v&&typeof v==='object'?Object.fromEntries(Object.keys(v).sort().map(k=>[k,canonical(v[k])])):v;
 const fingerprint=v=>sha(JSON.stringify(canonical(v)));
 const text=v=>typeof v==='string'&&v.trim().length>0;
-export const policy=read(root+'/config/qa/structure-flow-v1.json');
+export const policy=read(path.join(root,read(root+'/config/qa/current.json').policy));
 function acquisitionTask(b,records,dir){
  const entryId=b.snapshot?.entryId,matches=records.filter(r=>r.entryId===entryId&&r.module==='history');
  const task={entryId,module:'history',status:'unrecorded',complete:false,detail:'缺少获取记录；不能从现有摘要倒填成功。'};
@@ -40,13 +41,13 @@ export function checkBundle(b,records=[],dir='.'){
 }
 export function checkRun(dir){
  dir=path.resolve(dir);const m=read(dir+'/manifest.json'),entries=[],checks=[],bundles=[];
- let records=[];if(fs.existsSync(dir+'/acquisition.json')){const a=read(dir+'/acquisition.json');if(!Array.isArray(a.records))throw Error('acquisition.records must be an array');records=a.records;}
+ const budgets=fs.existsSync(dir+'/content-budget.json')?read(dir+'/content-budget.json').entries||{}:{};let records=[];if(fs.existsSync(dir+'/acquisition.json')){const a=read(dir+'/acquisition.json');if(!Array.isArray(a.records))throw Error('acquisition.records must be an array');records=a.records;}
  const ids=m.entryIds||m.itemStates.map(i=>i.entryId);checks.push({id:'S01',pass:ids.length>0&&new Set(ids).size===ids.length&&m.itemStates.length===ids.length&&new Set(m.itemStates.map(i=>i.entryId)).size===ids.length&&m.itemStates.every(i=>ids.includes(i.entryId)),detail:'选中词与逐条记录对账'});
  for(const i of m.itemStates){try{
-  const b=read(path.resolve(dir,i.artifactPath)),input=read(path.resolve(dir,i.inputPath));bundles.push(b);const result=checkBundle(b,records,dir);
+  const b=read(path.resolve(dir,i.artifactPath)),input=read(path.resolve(dir,i.inputPath));bundles.push(b);const result=checkBundle(b,records,dir);result.contentAmount=checkContentAmount(b,budgets[i.entryId]);
   const bound=i.entryId===b.snapshot?.entryId&&i.artifactHash===fingerprint(b)&&i.inputHash===fingerprint(input)&&fingerprint(input.snapshot)===fingerprint(b.snapshot);
   result.checks.push({id:'P01',pass:bound,detail:'实际输入/稿件与登记版本一致；不读取语义审核证书'});result.structurePass=result.structurePass&&bound;entries.push(result);
  }catch(e){entries.push({entryId:i.entryId,structurePass:false,flowComplete:false,checks:[{id:'P01',pass:false,detail:e.message}],tasks:[]});}}
  const tasks=entries.flatMap(e=>e.tasks),structurePass=checks.every(c=>c.pass)&&entries.every(e=>e.structurePass),flowComplete=entries.every(e=>e.flowComplete);
- return {qaVersion:policy.version,structurePass,flowComplete,previewReady:false,productionComplete:false,pageStatus:'not_run',contentQuality:'not_scored',accepted:false,published:false,checks,entries,counts:{selected:ids.length,packages:bundles.length,structurePassed:entries.filter(e=>e.structurePass).length,historyReady:tasks.filter(t=>t.status==='ready'&&t.complete).length,historyNoEntry:tasks.filter(t=>t.status==='no_entry'&&t.complete).length,historyPending:entries.length-tasks.filter(t=>t.complete).length}};
+ return {qaVersion:policy.version,structurePass,flowComplete,contentAmountPass:entries.every(e=>e.contentAmount?.pass===true),previewReady:false,productionComplete:false,pageStatus:'not_run',contentQuality:'not_scored',accepted:false,published:false,checks,entries,counts:{selected:ids.length,contentAmountPassed:entries.filter(e=>e.contentAmount?.pass===true).length,contentAmountPending:entries.filter(e=>e.contentAmount?.pass!==true).length,packages:bundles.length,structurePassed:entries.filter(e=>e.structurePass).length,historyReady:tasks.filter(t=>t.status==='ready'&&t.complete).length,historyNoEntry:tasks.filter(t=>t.status==='no_entry'&&t.complete).length,historyPending:entries.length-tasks.filter(t=>t.complete).length}};
 }

@@ -6,8 +6,8 @@ export function verifyFreeze(base=root,file){let expectedVersion;if(!file){const
 function filesUnder(rel){return fs.readdirSync(path.join(root,rel),{withFileTypes:true}).flatMap(e=>e.isDirectory()?filesUnder(rel+'/'+e.name):[rel+'/'+e.name]);}
 if(process.argv[1]&&path.resolve(process.argv[1])===fileURLToPath(import.meta.url)){
  if(process.argv[2]==='create'){
-  const files=[...filesUnder('scripts/qa'),...filesUnder('word-page'),'scripts/word-content/reading-adapter.mjs','scripts/word-content/contracts.mjs','config/qa/current.json','config/qa/structure-flow-v1.json','package.json',...fs.readdirSync(root+'/tests').filter(n=>n.startsWith('qa-')&&n.endsWith('.mjs')).map(n=>'tests/'+n),'docs/roadmap/v10/QA_STRUCTURE_FLOW_V1_PLAN.md','docs/roadmap/v10/QA_CONTENT_QUALITY_CORRECTION_20261116.md','docs/roadmap/v10/QA_STRUCTURE_FLOW_V1_GUIDE.md'];
-  writeFreeze(root,files,root+'/config/qa/freezes/structure-flow-v1.json',{version:'structure-flow-v1',status:'frozen',authorization:'规划好之后更新并冻结新的qa系统',scope:'structure and workflow only; no semantic review gate; dictionary unchanged; no deployment',createdAt:new Date().toISOString()});
+  const files=[...filesUnder('scripts/qa'),...filesUnder('word-page'),'scripts/word-content/reading-adapter.mjs','scripts/word-content/contracts.mjs','config/qa/current.json','config/qa/structure-flow-v1.1.json','package.json',...fs.readdirSync(root+'/tests').filter(n=>n.startsWith('qa-')&&n.endsWith('.mjs')).map(n=>'tests/'+n),'docs/roadmap/v10/QA_STRUCTURE_FLOW_V1_PLAN.md','docs/roadmap/v10/QA_CONTENT_QUALITY_CORRECTION_20261116.md','docs/roadmap/v10/QA_STRUCTURE_FLOW_V1_GUIDE.md','docs/roadmap/v10/QA_CONTENT_AMOUNT_V1_1.md'];
+  writeFreeze(root,files,root+'/config/qa/freezes/structure-flow-v1.1.json',{version:'structure-flow-v1.1',status:'frozen',authorization:'规划好之后更新并冻结新的qa系统',scope:'structure/workflow and basic content amount; no semantic scoring; dictionary unchanged; no deployment',createdAt:new Date().toISOString()});
  }
  console.log(JSON.stringify(verifyFreeze()));
 }

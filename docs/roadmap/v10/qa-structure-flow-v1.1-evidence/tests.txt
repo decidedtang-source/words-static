@@ -1,0 +1,66 @@
+
+> words-static@1.0.0 test
+> node --test tests/*.test.mjs
+
+✔ all published entries provide short meanings and two bilingual examples without changing IDs (25.6892ms)
+✔ dictionary evidence separates Chinese senses, phrase context and old card identities (2.6338ms)
+✔ copy keeps exact target and separates generated context from quotations (0.6807ms)
+✔ bookmark namespaces cannot merge dictionary entries with source cards; invalid backups fail (0.7342ms)
+✔ stale tab undo cannot select another tab unseen answer (9.0853ms)
+✔ settings and unchecked marks transfer only by explicit import preference (0.8519ms)
+✔ long undo history and backup validation complete without recursive explosion (187.864ms)
+✔ ratings persist, retry idempotently, stale state rejected, undo preserves audit (43.4236ms)
+✔ backup validates, merges idempotently and refuses divergent card histories (4.8744ms)
+✔ analysis length uses Chinese characters and English words, not tokens or punctuation (1.3537ms)
+✔ long explanations are not penalized or truncated; profiles are fixed before writing (0.4536ms)
+✔ duplicate blocks, headings, dictionary text and workplace boilerplate cannot inflate analysis length (0.3018ms)
+✔ missing profile stays unconfigured; amount failure does not stop preview (0.2445ms)
+✔ a drafted package with no independent semantic review is eligible for structure QA (261.5795ms)
+✔ new QA route separates pending acquisition from page readiness and does not require content reviews (0.7637ms)
+✔ candidate output refuses existing directories and frozen run paths (4.0473ms)
+✔ frozen QA rules cannot be overwritten and changed code invalidates freeze; LF/CRLF preserve logic identity (18.1103ms)
+✔ new preview renders without obsolete semantic coverage/depth fields or example-count gates (2.8998ms)
+✔ all word module identities and source references stay bound (3.2687ms)
+✔ same-ID stale HTML projection cannot pass current-bundle QA (3.5243ms)
+✔ structure QA does not require semantic reviews or optional qualifier metadata and never rewrites prose (4.1195ms)
+✔ missing module and cross-entry mapping fail locally (5.0977ms)
+✔ history placeholder or declared success without saved evidence cannot complete acquisition (1.4594ms)
+✔ saved extracted source and transferred module complete the process; changed evidence invalidates it (25.4183ms)
+✔ confirmed absence is a counted exception, not a fabricated completed history (16.6347ms)
+✔ all50 existing packages remain readable; missing acquisition receipts stay pending and dictionary is excluded (194.7814ms)
+✔ network-labelled English voices require explicit compatibility opt-in (2.3711ms)
+✔ empty voice list can try browser default only after opt-in and late voices do not auto-play (0.5659ms)
+✔ unknown schema, fields and unresolved definitive meaning are rejected (1.9132ms)
+✔ context spans use codepoints and quote hash is immutable (1.3173ms)
+✔ analysis has all seven justified dimensions and two to five original uses (0.4624ms)
+✔ reference validation catches missing senses instead of silently rendering fallback (1.493ms)
+✔ source types and enums and dangling bridge/practice references are rejected (0.5944ms)
+✔ historical and contextual evidence cannot reference a nonexistent source (0.2941ms)
+✔ original three entries and all first eight views preserve baseline exactly (37.4677ms)
+✔ missing dependencies fail rather than fabricate generic meaning (2.5129ms)
+✔ partial same-revision files can finish, different content cannot overwrite (16.7867ms)
+✔ journal replays only exact prior manifest after interruption and clears dead-process lock (27.2726ms)
+✔ source and practice versions bind input; depth does not choose bridge strategy (2.8006ms)
+✔ quote modification and weak technical evidence block draft (1.4168ms)
+✔ direct caller cannot bypass actual prompt and generation-contract binding (0.3713ms)
+✔ 403 and indexed excerpt cannot supply full entry coverage (5.1478ms)
+✔ upstream source edits invalidate a formerly bound sense before rendering (0.5511ms)
+✔ source locator required and components do not prove technical whole expression (0.3719ms)
+✔ sync alone denied; current hold overrides authorization (1.2268ms)
+✔ canonical fingerprints preserve arrays and ignore only recorded timestamps (1.082ms)
+✔ review binds actual input and draft, requires independent full package scope (0.9214ms)
+✔ blocked resume remains blocked; third revision rejected; accepted cannot mutate (0.4288ms)
+✔ same input changed draft invalidates review; durable revisions never overwrite (12.3992ms)
+✔ candidate sealing rejects missing reviews and expansion before calibration (0.346ms)
+✔ one arbitrary checkbox cannot authorize a complete package (0.2368ms)
+✔ module contracts assemble all existing word fields and preserve source ownership (32.6043ms)
+✔ committed generated page matches the locked module assembly (45.4458ms)
+✔ locks detect a module edit and identify downstream review without changing unrelated modules (21.6551ms)
+ℹ tests 54
+ℹ suites 0
+ℹ pass 54
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 1387.8652

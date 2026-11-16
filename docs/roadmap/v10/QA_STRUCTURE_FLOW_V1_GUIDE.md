@@ -1,6 +1,6 @@
-# 新QA入口：结构与流程 V1
+# 新QA入口：结构、流程与基础内容量 V1.1
 
-QA只检查结构、数据传递、资料步骤、页面交互与版本一致性，不对内容打分，不要求独立语义审阅证书，不自动删改正文。
+QA检查结构、数据传递、资料步骤、页面交互、版本一致性，以及用户新增的基础内容量要求。不对内容做语义评分，不要求独立语义审阅证书，不自动删改正文。篇幅初值和计数规则见[内容量要求](QA_CONTENT_AMOUNT_V1_1.md)。
 
 ## 使用
 
@@ -25,7 +25,8 @@ npm run qa:preview -- content/enrichment/v10/runs/r2-50-20261116 local-evidence/
 | structurePass | 结构可读取、引用与身份对应、输入/稿件未损坏 |
 | flowComplete | 约定的资料步骤有实际执行和产物记录 |
 | previewReady | 结构和实际页面检查通过，适合打开试读 |
-| productionComplete | 结构/流程/本次页面检查全部完成；不代表教学质量获认可 |
+| contentAmountPass | 七步正文达到预设最低量，至少2条双语表达；不是语义评分 |
+| productionComplete | 结构/流程/基础内容量/本次页面检查全部完成；不代表教学质量获认可 |
 | contentQuality | 固定为not_scored，QA不评内容分数 |
 | accepted/published | 本工具不执行用户验收或发布，始终false |
 
@@ -45,6 +46,6 @@ run目录可提供`acquisition.json`：`{"records":[...]}`。每个词的history
 
 单词缺字段修该字段；抓取失败修该步骤；页面故障修组件。没有自动语义复审轮次，没有“为了通过QA而压缩正文”的规则。
 
-冻结文件为`config/qa/freezes/structure-flow-v1.json`。文本SHA按UTF-8/LF核对，避免Windows换行转换造成假失效。已有冻结文件不能覆盖；代码或规则变更应发布新的QA修订版本，保留旧文件。
+冻结文件为`config/qa/freezes/structure-flow-v1.1.json`。文本SHA按UTF-8/LF核对，避免Windows换行转换造成假失效。已有冻结文件不能覆盖；代码或规则变更应发布新的QA修订版本，保留旧文件。
 
 本版不会自动执行抓取、重写50词或发布网页。内容本身的完善在内容生产工作中处理。

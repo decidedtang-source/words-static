@@ -1,0 +1,3063 @@
+{
+  "qaVersion": "structure-flow-v1.1",
+  "structurePass": true,
+  "flowComplete": false,
+  "contentAmountPass": false,
+  "previewReady": true,
+  "productionComplete": false,
+  "pageStatus": "checked",
+  "contentQuality": "not_scored",
+  "accepted": false,
+  "published": false,
+  "checks": [
+    {
+      "id": "S01",
+      "pass": true,
+      "detail": "选中词与逐条记录对账"
+    }
+  ],
+  "entries": [
+    {
+      "entryId": "V20261012-002",
+      "structurePass": true,
+      "flowComplete": false,
+      "checks": [
+        {
+          "id": "S01",
+          "pass": true,
+          "detail": "词条/模块/上下文身份及原句对应"
+        },
+        {
+          "id": "S02",
+          "pass": true,
+          "detail": "九模块需要的显示数据存在；不评判篇幅、语气、论证或辅助qualifiers"
+        },
+        {
+          "id": "S03",
+          "pass": true,
+          "detail": "义项/来源/实践引用可解析"
+        },
+        {
+          "id": "P01",
+          "pass": true,
+          "detail": "实际输入/稿件与登记版本一致；不读取语义审核证书"
+        }
+      ],
+      "tasks": [
+        {
+          "entryId": "V20261012-002",
+          "module": "history",
+          "status": "unrecorded",
+          "complete": false,
+          "detail": "缺少获取记录；不能从现有摘要倒填成功。"
+        }
+      ],
+      "contentAmount": {
+        "entryId": "V20261012-002",
+        "profile": "standard",
+        "analysisUnits": 222,
+        "explanationUnits": 273,
+        "bilingualExamples": 2,
+        "unit": "Chinese characters + English/numeric words",
+        "semanticScore": null,
+        "minimum": 500,
+        "target": [
+          600,
+          900
+        ],
+        "minimumBilingualExamples": 2,
+        "pass": false,
+        "status": "needs_expansion",
+        "shortfall": 278,
+        "detail": "正文或双语表达数量不足，保留原稿并列入待补；不自动补写或截断。"
+      }
+    },
+    {
+      "entryId": "V20261012-012",
+      "structurePass": true,
+      "flowComplete": false,
+      "checks": [
+        {
+          "id": "S01",
+          "pass": true,
+          "detail": "词条/模块/上下文身份及原句对应"
+        },
+        {
+          "id": "S02",
+          "pass": true,
+          "detail": "九模块需要的显示数据存在；不评判篇幅、语气、论证或辅助qualifiers"
+        },
+        {
+          "id": "S03",
+          "pass": true,
+          "detail": "义项/来源/实践引用可解析"
+        },
+        {
+          "id": "P01",
+          "pass": true,
+          "detail": "实际输入/稿件与登记版本一致；不读取语义审核证书"
+        }
+      ],
+      "tasks": [
+        {
+          "entryId": "V20261012-012",
+          "module": "history",
+          "status": "unrecorded",
+          "complete": false,
+          "detail": "缺少获取记录；不能从现有摘要倒填成功。"
+        }
+      ],
+      "contentAmount": {
+        "entryId": "V20261012-012",
+        "profile": "standard",
+        "analysisUnits": 258,
+        "explanationUnits": 321,
+        "bilingualExamples": 2,
+        "unit": "Chinese characters + English/numeric words",
+        "semanticScore": null,
+        "minimum": 500,
+        "target": [
+          600,
+          900
+        ],
+        "minimumBilingualExamples": 2,
+        "pass": false,
+        "status": "needs_expansion",
+        "shortfall": 242,
+        "detail": "正文或双语表达数量不足，保留原稿并列入待补；不自动补写或截断。"
+      }
+    },
+    {
+      "entryId": "V20261012-022",
+      "structurePass": true,
+      "flowComplete": false,
+      "checks": [
+        {
+          "id": "S01",
+          "pass": true,
+          "detail": "词条/模块/上下文身份及原句对应"
+        },
+        {
+          "id": "S02",
+          "pass": true,
+          "detail": "九模块需要的显示数据存在；不评判篇幅、语气、论证或辅助qualifiers"
+        },
+        {
+          "id": "S03",
+          "pass": true,
+          "detail": "义项/来源/实践引用可解析"
+        },
+        {
+          "id": "P01",
+          "pass": true,
+          "detail": "实际输入/稿件与登记版本一致；不读取语义审核证书"
+        }
+      ],
+      "tasks": [
+        {
+          "entryId": "V20261012-022",
+          "module": "history",
+          "status": "unrecorded",
+          "complete": false,
+          "detail": "缺少获取记录；不能从现有摘要倒填成功。"
+        }
+      ],
+      "contentAmount": {
+        "entryId": "V20261012-022",
+        "profile": "standard",
+        "analysisUnits": 223,
+        "explanationUnits": 280,
+        "bilingualExamples": 2,
+        "unit": "Chinese characters + English/numeric words",
+        "semanticScore": null,
+        "minimum": 500,
+        "target": [
+          600,
+          900
+        ],
+        "minimumBilingualExamples": 2,
+        "pass": false,
+        "status": "needs_expansion",
+        "shortfall": 277,
+        "detail": "正文或双语表达数量不足，保留原稿并列入待补；不自动补写或截断。"
+      }
+    },
+    {
+      "entryId": "V20261012-024",
+      "structurePass": true,
+      "flowComplete": false,
+      "checks": [
+        {
+          "id": "S01",
+          "pass": true,
+          "detail": "词条/模块/上下文身份及原句对应"
+        },
+        {
+          "id": "S02",
+          "pass": true,
+          "detail": "九模块需要的显示数据存在；不评判篇幅、语气、论证或辅助qualifiers"
+        },
+        {
+          "id": "S03",
+          "pass": true,
+          "detail": "义项/来源/实践引用可解析"
+        },
+        {
+          "id": "P01",
+          "pass": true,
+          "detail": "实际输入/稿件与登记版本一致；不读取语义审核证书"
+        }
+      ],
+      "tasks": [
+        {
+          "entryId": "V20261012-024",
+          "module": "history",
+          "status": "unrecorded",
+          "complete": false,
+          "detail": "缺少获取记录；不能从现有摘要倒填成功。"
+        }
+      ],
+      "contentAmount": {
+        "entryId": "V20261012-024",
+        "profile": "concise",
+        "analysisUnits": 236,
+        "explanationUnits": 282,
+        "bilingualExamples": 2,
+        "unit": "Chinese characters + English/numeric words",
+        "semanticScore": null,
+        "minimum": 250,
+        "target": [
+          300,
+          500
+        ],
+        "minimumBilingualExamples": 2,
+        "pass": false,
+        "status": "needs_expansion",
+        "shortfall": 14,
+        "detail": "正文或双语表达数量不足，保留原稿并列入待补；不自动补写或截断。"
+      }
+    },
+    {
+      "entryId": "V20261012-053",
+      "structurePass": true,
+      "flowComplete": false,
+      "checks": [
+        {
+          "id": "S01",
+          "pass": true,
+          "detail": "词条/模块/上下文身份及原句对应"
+        },
+        {
+          "id": "S02",
+          "pass": true,
+          "detail": "九模块需要的显示数据存在；不评判篇幅、语气、论证或辅助qualifiers"
+        },
+        {
+          "id": "S03",
+          "pass": true,
+          "detail": "义项/来源/实践引用可解析"
+        },
+        {
+          "id": "P01",
+          "pass": true,
+          "detail": "实际输入/稿件与登记版本一致；不读取语义审核证书"
+        }
+      ],
+      "tasks": [
+        {
+          "entryId": "V20261012-053",
+          "module": "history",
+          "status": "unrecorded",
+          "complete": false,
+          "detail": "缺少获取记录；不能从现有摘要倒填成功。"
+        }
+      ],
+      "contentAmount": {
+        "entryId": "V20261012-053",
+        "profile": "standard",
+        "analysisUnits": 212,
+        "explanationUnits": 273,
+        "bilingualExamples": 2,
+        "unit": "Chinese characters + English/numeric words",
+        "semanticScore": null,
+        "minimum": 500,
+        "target": [
+          600,
+          900
+        ],
+        "minimumBilingualExamples": 2,
+        "pass": false,
+        "status": "needs_expansion",
+        "shortfall": 288,
+        "detail": "正文或双语表达数量不足，保留原稿并列入待补；不自动补写或截断。"
+      }
+    },
+    {
+      "entryId": "V20261012-078",
+      "structurePass": true,
+      "flowComplete": false,
+      "checks": [
+        {
+          "id": "S01",
+          "pass": true,
+          "detail": "词条/模块/上下文身份及原句对应"
+        },
+        {
+          "id": "S02",
+          "pass": true,
+          "detail": "九模块需要的显示数据存在；不评判篇幅、语气、论证或辅助qualifiers"
+        },
+        {
+          "id": "S03",
+          "pass": true,
+          "detail": "义项/来源/实践引用可解析"
+        },
+        {
+          "id": "P01",
+          "pass": true,
+          "detail": "实际输入/稿件与登记版本一致；不读取语义审核证书"
+        }
+      ],
+      "tasks": [
+        {
+          "entryId": "V20261012-078",
+          "module": "history",
+          "status": "unrecorded",
+          "complete": false,
+          "detail": "缺少获取记录；不能从现有摘要倒填成功。"
+        }
+      ],
+      "contentAmount": {
+        "entryId": "V20261012-078",
+        "profile": "standard",
+        "analysisUnits": 218,
+        "explanationUnits": 290,
+        "bilingualExamples": 2,
+        "unit": "Chinese characters + English/numeric words",
+        "semanticScore": null,
+        "minimum": 500,
+        "target": [
+          600,
+          900
+        ],
+        "minimumBilingualExamples": 2,
+        "pass": false,
+        "status": "needs_expansion",
+        "shortfall": 282,
+        "detail": "正文或双语表达数量不足，保留原稿并列入待补；不自动补写或截断。"
+      }
+    },
+    {
+      "entryId": "V20261012-076",
+      "structurePass": true,
+      "flowComplete": false,
+      "checks": [
+        {
+          "id": "S01",
+          "pass": true,
+          "detail": "词条/模块/上下文身份及原句对应"
+        },
+        {
+          "id": "S02",
+          "pass": true,
+          "detail": "九模块需要的显示数据存在；不评判篇幅、语气、论证或辅助qualifiers"
+        },
+        {
+          "id": "S03",
+          "pass": true,
+          "detail": "义项/来源/实践引用可解析"
+        },
+        {
+          "id": "P01",
+          "pass": true,
+          "detail": "实际输入/稿件与登记版本一致；不读取语义审核证书"
+        }
+      ],
+      "tasks": [
+        {
+          "entryId": "V20261012-076",
+          "module": "history",
+          "status": "unrecorded",
+          "complete": false,
+          "detail": "缺少获取记录；不能从现有摘要倒填成功。"
+        }
+      ],
+      "contentAmount": {
+        "entryId": "V20261012-076",
+        "profile": "standard",
+        "analysisUnits": 230,
+        "explanationUnits": 298,
+        "bilingualExamples": 2,
+        "unit": "Chinese characters + English/numeric words",
+        "semanticScore": null,
+        "minimum": 500,
+        "target": [
+          600,
+          900
+        ],
+        "minimumBilingualExamples": 2,
+        "pass": false,
+        "status": "needs_expansion",
+        "shortfall": 270,
+        "detail": "正文或双语表达数量不足，保留原稿并列入待补；不自动补写或截断。"
+      }
+    },
+    {
+      "entryId": "V20261012-093",
+      "structurePass": true,
+      "flowComplete": false,
+      "checks": [
+        {
+          "id": "S01",
+          "pass": true,
+          "detail": "词条/模块/上下文身份及原句对应"
+        },
+        {
+          "id": "S02",
+          "pass": true,
+          "detail": "九模块需要的显示数据存在；不评判篇幅、语气、论证或辅助qualifiers"
+        },
+        {
+          "id": "S03",
+          "pass": true,
+          "detail": "义项/来源/实践引用可解析"
+        },
+        {
+          "id": "P01",
+          "pass": true,
+          "detail": "实际输入/稿件与登记版本一致；不读取语义审核证书"
+        }
+      ],
+      "tasks": [
+        {
+          "entryId": "V20261012-093",
+          "module": "history",
+          "status": "unrecorded",
+          "complete": false,
+          "detail": "缺少获取记录；不能从现有摘要倒填成功。"
+        }
+      ],
+      "contentAmount": {
+        "entryId": "V20261012-093",
+        "profile": "deep",
+        "analysisUnits": 208,
+        "explanationUnits": 275,
+        "bilingualExamples": 2,
+        "unit": "Chinese characters + English/numeric words",
+        "semanticScore": null,
+        "minimum": 800,
+        "target": [
+          1000,
+          1600
+        ],
+        "minimumBilingualExamples": 2,
+        "pass": false,
+        "status": "needs_expansion",
+        "shortfall": 592,
+        "detail": "正文或双语表达数量不足，保留原稿并列入待补；不自动补写或截断。"
+      }
+    },
+    {
+      "entryId": "V20261012-100",
+      "structurePass": true,
+      "flowComplete": false,
+      "checks": [
+        {
+          "id": "S01",
+          "pass": true,
+          "detail": "词条/模块/上下文身份及原句对应"
+        },
+        {
+          "id": "S02",
+          "pass": true,
+          "detail": "九模块需要的显示数据存在；不评判篇幅、语气、论证或辅助qualifiers"
+        },
+        {
+          "id": "S03",
+          "pass": true,
+          "detail": "义项/来源/实践引用可解析"
+        },
+        {
+          "id": "P01",
+          "pass": true,
+          "detail": "实际输入/稿件与登记版本一致；不读取语义审核证书"
+        }
+      ],
+      "tasks": [
+        {
+          "entryId": "V20261012-100",
+          "module": "history",
+          "status": "unrecorded",
+          "complete": false,
+          "detail": "缺少获取记录；不能从现有摘要倒填成功。"
+        }
+      ],
+      "contentAmount": {
+        "entryId": "V20261012-100",
+        "profile": "deep",
+        "analysisUnits": 222,
+        "explanationUnits": 278,
+        "bilingualExamples": 2,
+        "unit": "Chinese characters + English/numeric words",
+        "semanticScore": null,
+        "minimum": 800,
+        "target": [
+          1000,
+          1600
+        ],
+        "minimumBilingualExamples": 2,
+        "pass": false,
+        "status": "needs_expansion",
+        "shortfall": 578,
+        "detail": "正文或双语表达数量不足，保留原稿并列入待补；不自动补写或截断。"
+      }
+    },
+    {
+      "entryId": "V20261014-075",
+      "structurePass": true,
+      "flowComplete": false,
+      "checks": [
+        {
+          "id": "S01",
+          "pass": true,
+          "detail": "词条/模块/上下文身份及原句对应"
+        },
+        {
+          "id": "S02",
+          "pass": true,
+          "detail": "九模块需要的显示数据存在；不评判篇幅、语气、论证或辅助qualifiers"
+        },
+        {
+          "id": "S03",
+          "pass": true,
+          "detail": "义项/来源/实践引用可解析"
+        },
+        {
+          "id": "P01",
+          "pass": true,
+          "detail": "实际输入/稿件与登记版本一致；不读取语义审核证书"
+        }
+      ],
+      "tasks": [
+        {
+          "entryId": "V20261014-075",
+          "module": "history",
+          "status": "unrecorded",
+          "complete": false,
+          "detail": "缺少获取记录；不能从现有摘要倒填成功。"
+        }
+      ],
+      "contentAmount": {
+        "entryId": "V20261014-075",
+        "profile": "deep",
+        "analysisUnits": 235,
+        "explanationUnits": 317,
+        "bilingualExamples": 2,
+        "unit": "Chinese characters + English/numeric words",
+        "semanticScore": null,
+        "minimum": 800,
+        "target": [
+          1000,
+          1600
+        ],
+        "minimumBilingualExamples": 2,
+        "pass": false,
+        "status": "needs_expansion",
+        "shortfall": 565,
+        "detail": "正文或双语表达数量不足，保留原稿并列入待补；不自动补写或截断。"
+      }
+    },
+    {
+      "entryId": "V20261014-076",
+      "structurePass": true,
+      "flowComplete": false,
+      "checks": [
+        {
+          "id": "S01",
+          "pass": true,
+          "detail": "词条/模块/上下文身份及原句对应"
+        },
+        {
+          "id": "S02",
+          "pass": true,
+          "detail": "九模块需要的显示数据存在；不评判篇幅、语气、论证或辅助qualifiers"
+        },
+        {
+          "id": "S03",
+          "pass": true,
+          "detail": "义项/来源/实践引用可解析"
+        },
+        {
+          "id": "P01",
+          "pass": true,
+          "detail": "实际输入/稿件与登记版本一致；不读取语义审核证书"
+        }
+      ],
+      "tasks": [
+        {
+          "entryId": "V20261014-076",
+          "module": "history",
+          "status": "unrecorded",
+          "complete": false,
+          "detail": "缺少获取记录；不能从现有摘要倒填成功。"
+        }
+      ],
+      "contentAmount": {
+        "entryId": "V20261014-076",
+        "profile": "deep",
+        "analysisUnits": 252,
+        "explanationUnits": 329,
+        "bilingualExamples": 2,
+        "unit": "Chinese characters + English/numeric words",
+        "semanticScore": null,
+        "minimum": 800,
+        "target": [
+          1000,
+          1600
+        ],
+        "minimumBilingualExamples": 2,
+        "pass": false,
+        "status": "needs_expansion",
+        "shortfall": 548,
+        "detail": "正文或双语表达数量不足，保留原稿并列入待补；不自动补写或截断。"
+      }
+    },
+    {
+      "entryId": "V20261029-005",
+      "structurePass": true,
+      "flowComplete": false,
+      "checks": [
+        {
+          "id": "S01",
+          "pass": true,
+          "detail": "词条/模块/上下文身份及原句对应"
+        },
+        {
+          "id": "S02",
+          "pass": true,
+          "detail": "九模块需要的显示数据存在；不评判篇幅、语气、论证或辅助qualifiers"
+        },
+        {
+          "id": "S03",
+          "pass": true,
+          "detail": "义项/来源/实践引用可解析"
+        },
+        {
+          "id": "P01",
+          "pass": true,
+          "detail": "实际输入/稿件与登记版本一致；不读取语义审核证书"
+        }
+      ],
+      "tasks": [
+        {
+          "entryId": "V20261029-005",
+          "module": "history",
+          "status": "unrecorded",
+          "complete": false,
+          "detail": "缺少获取记录；不能从现有摘要倒填成功。"
+        }
+      ],
+      "contentAmount": {
+        "entryId": "V20261029-005",
+        "profile": "standard",
+        "analysisUnits": 244,
+        "explanationUnits": 324,
+        "bilingualExamples": 2,
+        "unit": "Chinese characters + English/numeric words",
+        "semanticScore": null,
+        "minimum": 500,
+        "target": [
+          600,
+          900
+        ],
+        "minimumBilingualExamples": 2,
+        "pass": false,
+        "status": "needs_expansion",
+        "shortfall": 256,
+        "detail": "正文或双语表达数量不足，保留原稿并列入待补；不自动补写或截断。"
+      }
+    },
+    {
+      "entryId": "V20261014-003",
+      "structurePass": true,
+      "flowComplete": false,
+      "checks": [
+        {
+          "id": "S01",
+          "pass": true,
+          "detail": "词条/模块/上下文身份及原句对应"
+        },
+        {
+          "id": "S02",
+          "pass": true,
+          "detail": "九模块需要的显示数据存在；不评判篇幅、语气、论证或辅助qualifiers"
+        },
+        {
+          "id": "S03",
+          "pass": true,
+          "detail": "义项/来源/实践引用可解析"
+        },
+        {
+          "id": "P01",
+          "pass": true,
+          "detail": "实际输入/稿件与登记版本一致；不读取语义审核证书"
+        }
+      ],
+      "tasks": [
+        {
+          "entryId": "V20261014-003",
+          "module": "history",
+          "status": "unrecorded",
+          "complete": false,
+          "detail": "缺少获取记录；不能从现有摘要倒填成功。"
+        }
+      ],
+      "contentAmount": {
+        "entryId": "V20261014-003",
+        "profile": "standard",
+        "analysisUnits": 239,
+        "explanationUnits": 301,
+        "bilingualExamples": 2,
+        "unit": "Chinese characters + English/numeric words",
+        "semanticScore": null,
+        "minimum": 500,
+        "target": [
+          600,
+          900
+        ],
+        "minimumBilingualExamples": 2,
+        "pass": false,
+        "status": "needs_expansion",
+        "shortfall": 261,
+        "detail": "正文或双语表达数量不足，保留原稿并列入待补；不自动补写或截断。"
+      }
+    },
+    {
+      "entryId": "V20261012-117",
+      "structurePass": true,
+      "flowComplete": false,
+      "checks": [
+        {
+          "id": "S01",
+          "pass": true,
+          "detail": "词条/模块/上下文身份及原句对应"
+        },
+        {
+          "id": "S02",
+          "pass": true,
+          "detail": "九模块需要的显示数据存在；不评判篇幅、语气、论证或辅助qualifiers"
+        },
+        {
+          "id": "S03",
+          "pass": true,
+          "detail": "义项/来源/实践引用可解析"
+        },
+        {
+          "id": "P01",
+          "pass": true,
+          "detail": "实际输入/稿件与登记版本一致；不读取语义审核证书"
+        }
+      ],
+      "tasks": [
+        {
+          "entryId": "V20261012-117",
+          "module": "history",
+          "status": "unrecorded",
+          "complete": false,
+          "detail": "缺少获取记录；不能从现有摘要倒填成功。"
+        }
+      ],
+      "contentAmount": {
+        "entryId": "V20261012-117",
+        "profile": "standard",
+        "analysisUnits": 218,
+        "explanationUnits": 279,
+        "bilingualExamples": 2,
+        "unit": "Chinese characters + English/numeric words",
+        "semanticScore": null,
+        "minimum": 500,
+        "target": [
+          600,
+          900
+        ],
+        "minimumBilingualExamples": 2,
+        "pass": false,
+        "status": "needs_expansion",
+        "shortfall": 282,
+        "detail": "正文或双语表达数量不足，保留原稿并列入待补；不自动补写或截断。"
+      }
+    },
+    {
+      "entryId": "V20261018-106",
+      "structurePass": true,
+      "flowComplete": false,
+      "checks": [
+        {
+          "id": "S01",
+          "pass": true,
+          "detail": "词条/模块/上下文身份及原句对应"
+        },
+        {
+          "id": "S02",
+          "pass": true,
+          "detail": "九模块需要的显示数据存在；不评判篇幅、语气、论证或辅助qualifiers"
+        },
+        {
+          "id": "S03",
+          "pass": true,
+          "detail": "义项/来源/实践引用可解析"
+        },
+        {
+          "id": "P01",
+          "pass": true,
+          "detail": "实际输入/稿件与登记版本一致；不读取语义审核证书"
+        }
+      ],
+      "tasks": [
+        {
+          "entryId": "V20261018-106",
+          "module": "history",
+          "status": "unrecorded",
+          "complete": false,
+          "detail": "缺少获取记录；不能从现有摘要倒填成功。"
+        }
+      ],
+      "contentAmount": {
+        "entryId": "V20261018-106",
+        "profile": "standard",
+        "analysisUnits": 218,
+        "explanationUnits": 281,
+        "bilingualExamples": 2,
+        "unit": "Chinese characters + English/numeric words",
+        "semanticScore": null,
+        "minimum": 500,
+        "target": [
+          600,
+          900
+        ],
+        "minimumBilingualExamples": 2,
+        "pass": false,
+        "status": "needs_expansion",
+        "shortfall": 282,
+        "detail": "正文或双语表达数量不足，保留原稿并列入待补；不自动补写或截断。"
+      }
+    },
+    {
+      "entryId": "V20261016-103",
+      "structurePass": true,
+      "flowComplete": false,
+      "checks": [
+        {
+          "id": "S01",
+          "pass": true,
+          "detail": "词条/模块/上下文身份及原句对应"
+        },
+        {
+          "id": "S02",
+          "pass": true,
+          "detail": "九模块需要的显示数据存在；不评判篇幅、语气、论证或辅助qualifiers"
+        },
+        {
+          "id": "S03",
+          "pass": true,
+          "detail": "义项/来源/实践引用可解析"
+        },
+        {
+          "id": "P01",
+          "pass": true,
+          "detail": "实际输入/稿件与登记版本一致；不读取语义审核证书"
+        }
+      ],
+      "tasks": [
+        {
+          "entryId": "V20261016-103",
+          "module": "history",
+          "status": "unrecorded",
+          "complete": false,
+          "detail": "缺少获取记录；不能从现有摘要倒填成功。"
+        }
+      ],
+      "contentAmount": {
+        "entryId": "V20261016-103",
+        "profile": "standard",
+        "analysisUnits": 251,
+        "explanationUnits": 319,
+        "bilingualExamples": 2,
+        "unit": "Chinese characters + English/numeric words",
+        "semanticScore": null,
+        "minimum": 500,
+        "target": [
+          600,
+          900
+        ],
+        "minimumBilingualExamples": 2,
+        "pass": false,
+        "status": "needs_expansion",
+        "shortfall": 249,
+        "detail": "正文或双语表达数量不足，保留原稿并列入待补；不自动补写或截断。"
+      }
+    },
+    {
+      "entryId": "V20261016-119",
+      "structurePass": true,
+      "flowComplete": false,
+      "checks": [
+        {
+          "id": "S01",
+          "pass": true,
+          "detail": "词条/模块/上下文身份及原句对应"
+        },
+        {
+          "id": "S02",
+          "pass": true,
+          "detail": "九模块需要的显示数据存在；不评判篇幅、语气、论证或辅助qualifiers"
+        },
+        {
+          "id": "S03",
+          "pass": true,
+          "detail": "义项/来源/实践引用可解析"
+        },
+        {
+          "id": "P01",
+          "pass": true,
+          "detail": "实际输入/稿件与登记版本一致；不读取语义审核证书"
+        }
+      ],
+      "tasks": [
+        {
+          "entryId": "V20261016-119",
+          "module": "history",
+          "status": "unrecorded",
+          "complete": false,
+          "detail": "缺少获取记录；不能从现有摘要倒填成功。"
+        }
+      ],
+      "contentAmount": {
+        "entryId": "V20261016-119",
+        "profile": "deep",
+        "analysisUnits": 244,
+        "explanationUnits": 312,
+        "bilingualExamples": 2,
+        "unit": "Chinese characters + English/numeric words",
+        "semanticScore": null,
+        "minimum": 800,
+        "target": [
+          1000,
+          1600
+        ],
+        "minimumBilingualExamples": 2,
+        "pass": false,
+        "status": "needs_expansion",
+        "shortfall": 556,
+        "detail": "正文或双语表达数量不足，保留原稿并列入待补；不自动补写或截断。"
+      }
+    },
+    {
+      "entryId": "V20261012-020",
+      "structurePass": true,
+      "flowComplete": false,
+      "checks": [
+        {
+          "id": "S01",
+          "pass": true,
+          "detail": "词条/模块/上下文身份及原句对应"
+        },
+        {
+          "id": "S02",
+          "pass": true,
+          "detail": "九模块需要的显示数据存在；不评判篇幅、语气、论证或辅助qualifiers"
+        },
+        {
+          "id": "S03",
+          "pass": true,
+          "detail": "义项/来源/实践引用可解析"
+        },
+        {
+          "id": "P01",
+          "pass": true,
+          "detail": "实际输入/稿件与登记版本一致；不读取语义审核证书"
+        }
+      ],
+      "tasks": [
+        {
+          "entryId": "V20261012-020",
+          "module": "history",
+          "status": "unrecorded",
+          "complete": false,
+          "detail": "缺少获取记录；不能从现有摘要倒填成功。"
+        }
+      ],
+      "contentAmount": {
+        "entryId": "V20261012-020",
+        "profile": "standard",
+        "analysisUnits": 224,
+        "explanationUnits": 288,
+        "bilingualExamples": 2,
+        "unit": "Chinese characters + English/numeric words",
+        "semanticScore": null,
+        "minimum": 500,
+        "target": [
+          600,
+          900
+        ],
+        "minimumBilingualExamples": 2,
+        "pass": false,
+        "status": "needs_expansion",
+        "shortfall": 276,
+        "detail": "正文或双语表达数量不足，保留原稿并列入待补；不自动补写或截断。"
+      }
+    },
+    {
+      "entryId": "V20261012-019",
+      "structurePass": true,
+      "flowComplete": false,
+      "checks": [
+        {
+          "id": "S01",
+          "pass": true,
+          "detail": "词条/模块/上下文身份及原句对应"
+        },
+        {
+          "id": "S02",
+          "pass": true,
+          "detail": "九模块需要的显示数据存在；不评判篇幅、语气、论证或辅助qualifiers"
+        },
+        {
+          "id": "S03",
+          "pass": true,
+          "detail": "义项/来源/实践引用可解析"
+        },
+        {
+          "id": "P01",
+          "pass": true,
+          "detail": "实际输入/稿件与登记版本一致；不读取语义审核证书"
+        }
+      ],
+      "tasks": [
+        {
+          "entryId": "V20261012-019",
+          "module": "history",
+          "status": "unrecorded",
+          "complete": false,
+          "detail": "缺少获取记录；不能从现有摘要倒填成功。"
+        }
+      ],
+      "contentAmount": {
+        "entryId": "V20261012-019",
+        "profile": "standard",
+        "analysisUnits": 205,
+        "explanationUnits": 258,
+        "bilingualExamples": 2,
+        "unit": "Chinese characters + English/numeric words",
+        "semanticScore": null,
+        "minimum": 500,
+        "target": [
+          600,
+          900
+        ],
+        "minimumBilingualExamples": 2,
+        "pass": false,
+        "status": "needs_expansion",
+        "shortfall": 295,
+        "detail": "正文或双语表达数量不足，保留原稿并列入待补；不自动补写或截断。"
+      }
+    },
+    {
+      "entryId": "V20261012-015",
+      "structurePass": true,
+      "flowComplete": false,
+      "checks": [
+        {
+          "id": "S01",
+          "pass": true,
+          "detail": "词条/模块/上下文身份及原句对应"
+        },
+        {
+          "id": "S02",
+          "pass": true,
+          "detail": "九模块需要的显示数据存在；不评判篇幅、语气、论证或辅助qualifiers"
+        },
+        {
+          "id": "S03",
+          "pass": true,
+          "detail": "义项/来源/实践引用可解析"
+        },
+        {
+          "id": "P01",
+          "pass": true,
+          "detail": "实际输入/稿件与登记版本一致；不读取语义审核证书"
+        }
+      ],
+      "tasks": [
+        {
+          "entryId": "V20261012-015",
+          "module": "history",
+          "status": "unrecorded",
+          "complete": false,
+          "detail": "缺少获取记录；不能从现有摘要倒填成功。"
+        }
+      ],
+      "contentAmount": {
+        "entryId": "V20261012-015",
+        "profile": "standard",
+        "analysisUnits": 216,
+        "explanationUnits": 279,
+        "bilingualExamples": 2,
+        "unit": "Chinese characters + English/numeric words",
+        "semanticScore": null,
+        "minimum": 500,
+        "target": [
+          600,
+          900
+        ],
+        "minimumBilingualExamples": 2,
+        "pass": false,
+        "status": "needs_expansion",
+        "shortfall": 284,
+        "detail": "正文或双语表达数量不足，保留原稿并列入待补；不自动补写或截断。"
+      }
+    },
+    {
+      "entryId": "V20261012-018",
+      "structurePass": true,
+      "flowComplete": false,
+      "checks": [
+        {
+          "id": "S01",
+          "pass": true,
+          "detail": "词条/模块/上下文身份及原句对应"
+        },
+        {
+          "id": "S02",
+          "pass": true,
+          "detail": "九模块需要的显示数据存在；不评判篇幅、语气、论证或辅助qualifiers"
+        },
+        {
+          "id": "S03",
+          "pass": true,
+          "detail": "义项/来源/实践引用可解析"
+        },
+        {
+          "id": "P01",
+          "pass": true,
+          "detail": "实际输入/稿件与登记版本一致；不读取语义审核证书"
+        }
+      ],
+      "tasks": [
+        {
+          "entryId": "V20261012-018",
+          "module": "history",
+          "status": "unrecorded",
+          "complete": false,
+          "detail": "缺少获取记录；不能从现有摘要倒填成功。"
+        }
+      ],
+      "contentAmount": {
+        "entryId": "V20261012-018",
+        "profile": "standard",
+        "analysisUnits": 217,
+        "explanationUnits": 263,
+        "bilingualExamples": 2,
+        "unit": "Chinese characters + English/numeric words",
+        "semanticScore": null,
+        "minimum": 500,
+        "target": [
+          600,
+          900
+        ],
+        "minimumBilingualExamples": 2,
+        "pass": false,
+        "status": "needs_expansion",
+        "shortfall": 283,
+        "detail": "正文或双语表达数量不足，保留原稿并列入待补；不自动补写或截断。"
+      }
+    },
+    {
+      "entryId": "V20261012-010",
+      "structurePass": true,
+      "flowComplete": false,
+      "checks": [
+        {
+          "id": "S01",
+          "pass": true,
+          "detail": "词条/模块/上下文身份及原句对应"
+        },
+        {
+          "id": "S02",
+          "pass": true,
+          "detail": "九模块需要的显示数据存在；不评判篇幅、语气、论证或辅助qualifiers"
+        },
+        {
+          "id": "S03",
+          "pass": true,
+          "detail": "义项/来源/实践引用可解析"
+        },
+        {
+          "id": "P01",
+          "pass": true,
+          "detail": "实际输入/稿件与登记版本一致；不读取语义审核证书"
+        }
+      ],
+      "tasks": [
+        {
+          "entryId": "V20261012-010",
+          "module": "history",
+          "status": "unrecorded",
+          "complete": false,
+          "detail": "缺少获取记录；不能从现有摘要倒填成功。"
+        }
+      ],
+      "contentAmount": {
+        "entryId": "V20261012-010",
+        "profile": "standard",
+        "analysisUnits": 228,
+        "explanationUnits": 289,
+        "bilingualExamples": 2,
+        "unit": "Chinese characters + English/numeric words",
+        "semanticScore": null,
+        "minimum": 500,
+        "target": [
+          600,
+          900
+        ],
+        "minimumBilingualExamples": 2,
+        "pass": false,
+        "status": "needs_expansion",
+        "shortfall": 272,
+        "detail": "正文或双语表达数量不足，保留原稿并列入待补；不自动补写或截断。"
+      }
+    },
+    {
+      "entryId": "V20261012-006",
+      "structurePass": true,
+      "flowComplete": false,
+      "checks": [
+        {
+          "id": "S01",
+          "pass": true,
+          "detail": "词条/模块/上下文身份及原句对应"
+        },
+        {
+          "id": "S02",
+          "pass": true,
+          "detail": "九模块需要的显示数据存在；不评判篇幅、语气、论证或辅助qualifiers"
+        },
+        {
+          "id": "S03",
+          "pass": true,
+          "detail": "义项/来源/实践引用可解析"
+        },
+        {
+          "id": "P01",
+          "pass": true,
+          "detail": "实际输入/稿件与登记版本一致；不读取语义审核证书"
+        }
+      ],
+      "tasks": [
+        {
+          "entryId": "V20261012-006",
+          "module": "history",
+          "status": "unrecorded",
+          "complete": false,
+          "detail": "缺少获取记录；不能从现有摘要倒填成功。"
+        }
+      ],
+      "contentAmount": {
+        "entryId": "V20261012-006",
+        "profile": "standard",
+        "analysisUnits": 217,
+        "explanationUnits": 275,
+        "bilingualExamples": 2,
+        "unit": "Chinese characters + English/numeric words",
+        "semanticScore": null,
+        "minimum": 500,
+        "target": [
+          600,
+          900
+        ],
+        "minimumBilingualExamples": 2,
+        "pass": false,
+        "status": "needs_expansion",
+        "shortfall": 283,
+        "detail": "正文或双语表达数量不足，保留原稿并列入待补；不自动补写或截断。"
+      }
+    },
+    {
+      "entryId": "V20261012-088",
+      "structurePass": true,
+      "flowComplete": false,
+      "checks": [
+        {
+          "id": "S01",
+          "pass": true,
+          "detail": "词条/模块/上下文身份及原句对应"
+        },
+        {
+          "id": "S02",
+          "pass": true,
+          "detail": "九模块需要的显示数据存在；不评判篇幅、语气、论证或辅助qualifiers"
+        },
+        {
+          "id": "S03",
+          "pass": true,
+          "detail": "义项/来源/实践引用可解析"
+        },
+        {
+          "id": "P01",
+          "pass": true,
+          "detail": "实际输入/稿件与登记版本一致；不读取语义审核证书"
+        }
+      ],
+      "tasks": [
+        {
+          "entryId": "V20261012-088",
+          "module": "history",
+          "status": "unrecorded",
+          "complete": false,
+          "detail": "缺少获取记录；不能从现有摘要倒填成功。"
+        }
+      ],
+      "contentAmount": {
+        "entryId": "V20261012-088",
+        "profile": "concise",
+        "analysisUnits": 202,
+        "explanationUnits": 261,
+        "bilingualExamples": 2,
+        "unit": "Chinese characters + English/numeric words",
+        "semanticScore": null,
+        "minimum": 250,
+        "target": [
+          300,
+          500
+        ],
+        "minimumBilingualExamples": 2,
+        "pass": false,
+        "status": "needs_expansion",
+        "shortfall": 48,
+        "detail": "正文或双语表达数量不足，保留原稿并列入待补；不自动补写或截断。"
+      }
+    },
+    {
+      "entryId": "V20261012-004",
+      "structurePass": true,
+      "flowComplete": false,
+      "checks": [
+        {
+          "id": "S01",
+          "pass": true,
+          "detail": "词条/模块/上下文身份及原句对应"
+        },
+        {
+          "id": "S02",
+          "pass": true,
+          "detail": "九模块需要的显示数据存在；不评判篇幅、语气、论证或辅助qualifiers"
+        },
+        {
+          "id": "S03",
+          "pass": true,
+          "detail": "义项/来源/实践引用可解析"
+        },
+        {
+          "id": "P01",
+          "pass": true,
+          "detail": "实际输入/稿件与登记版本一致；不读取语义审核证书"
+        }
+      ],
+      "tasks": [
+        {
+          "entryId": "V20261012-004",
+          "module": "history",
+          "status": "unrecorded",
+          "complete": false,
+          "detail": "缺少获取记录；不能从现有摘要倒填成功。"
+        }
+      ],
+      "contentAmount": {
+        "entryId": "V20261012-004",
+        "profile": "standard",
+        "analysisUnits": 195,
+        "explanationUnits": 254,
+        "bilingualExamples": 2,
+        "unit": "Chinese characters + English/numeric words",
+        "semanticScore": null,
+        "minimum": 500,
+        "target": [
+          600,
+          900
+        ],
+        "minimumBilingualExamples": 2,
+        "pass": false,
+        "status": "needs_expansion",
+        "shortfall": 305,
+        "detail": "正文或双语表达数量不足，保留原稿并列入待补；不自动补写或截断。"
+      }
+    },
+    {
+      "entryId": "V20261012-005",
+      "structurePass": true,
+      "flowComplete": false,
+      "checks": [
+        {
+          "id": "S01",
+          "pass": true,
+          "detail": "词条/模块/上下文身份及原句对应"
+        },
+        {
+          "id": "S02",
+          "pass": true,
+          "detail": "九模块需要的显示数据存在；不评判篇幅、语气、论证或辅助qualifiers"
+        },
+        {
+          "id": "S03",
+          "pass": true,
+          "detail": "义项/来源/实践引用可解析"
+        },
+        {
+          "id": "P01",
+          "pass": true,
+          "detail": "实际输入/稿件与登记版本一致；不读取语义审核证书"
+        }
+      ],
+      "tasks": [
+        {
+          "entryId": "V20261012-005",
+          "module": "history",
+          "status": "unrecorded",
+          "complete": false,
+          "detail": "缺少获取记录；不能从现有摘要倒填成功。"
+        }
+      ],
+      "contentAmount": {
+        "entryId": "V20261012-005",
+        "profile": "standard",
+        "analysisUnits": 209,
+        "explanationUnits": 257,
+        "bilingualExamples": 2,
+        "unit": "Chinese characters + English/numeric words",
+        "semanticScore": null,
+        "minimum": 500,
+        "target": [
+          600,
+          900
+        ],
+        "minimumBilingualExamples": 2,
+        "pass": false,
+        "status": "needs_expansion",
+        "shortfall": 291,
+        "detail": "正文或双语表达数量不足，保留原稿并列入待补；不自动补写或截断。"
+      }
+    },
+    {
+      "entryId": "V20261012-007",
+      "structurePass": true,
+      "flowComplete": false,
+      "checks": [
+        {
+          "id": "S01",
+          "pass": true,
+          "detail": "词条/模块/上下文身份及原句对应"
+        },
+        {
+          "id": "S02",
+          "pass": true,
+          "detail": "九模块需要的显示数据存在；不评判篇幅、语气、论证或辅助qualifiers"
+        },
+        {
+          "id": "S03",
+          "pass": true,
+          "detail": "义项/来源/实践引用可解析"
+        },
+        {
+          "id": "P01",
+          "pass": true,
+          "detail": "实际输入/稿件与登记版本一致；不读取语义审核证书"
+        }
+      ],
+      "tasks": [
+        {
+          "entryId": "V20261012-007",
+          "module": "history",
+          "status": "unrecorded",
+          "complete": false,
+          "detail": "缺少获取记录；不能从现有摘要倒填成功。"
+        }
+      ],
+      "contentAmount": {
+        "entryId": "V20261012-007",
+        "profile": "standard",
+        "analysisUnits": 194,
+        "explanationUnits": 245,
+        "bilingualExamples": 2,
+        "unit": "Chinese characters + English/numeric words",
+        "semanticScore": null,
+        "minimum": 500,
+        "target": [
+          600,
+          900
+        ],
+        "minimumBilingualExamples": 2,
+        "pass": false,
+        "status": "needs_expansion",
+        "shortfall": 306,
+        "detail": "正文或双语表达数量不足，保留原稿并列入待补；不自动补写或截断。"
+      }
+    },
+    {
+      "entryId": "V20261012-008",
+      "structurePass": true,
+      "flowComplete": false,
+      "checks": [
+        {
+          "id": "S01",
+          "pass": true,
+          "detail": "词条/模块/上下文身份及原句对应"
+        },
+        {
+          "id": "S02",
+          "pass": true,
+          "detail": "九模块需要的显示数据存在；不评判篇幅、语气、论证或辅助qualifiers"
+        },
+        {
+          "id": "S03",
+          "pass": true,
+          "detail": "义项/来源/实践引用可解析"
+        },
+        {
+          "id": "P01",
+          "pass": true,
+          "detail": "实际输入/稿件与登记版本一致；不读取语义审核证书"
+        }
+      ],
+      "tasks": [
+        {
+          "entryId": "V20261012-008",
+          "module": "history",
+          "status": "unrecorded",
+          "complete": false,
+          "detail": "缺少获取记录；不能从现有摘要倒填成功。"
+        }
+      ],
+      "contentAmount": {
+        "entryId": "V20261012-008",
+        "profile": "standard",
+        "analysisUnits": 209,
+        "explanationUnits": 254,
+        "bilingualExamples": 2,
+        "unit": "Chinese characters + English/numeric words",
+        "semanticScore": null,
+        "minimum": 500,
+        "target": [
+          600,
+          900
+        ],
+        "minimumBilingualExamples": 2,
+        "pass": false,
+        "status": "needs_expansion",
+        "shortfall": 291,
+        "detail": "正文或双语表达数量不足，保留原稿并列入待补；不自动补写或截断。"
+      }
+    },
+    {
+      "entryId": "V20261012-009",
+      "structurePass": true,
+      "flowComplete": false,
+      "checks": [
+        {
+          "id": "S01",
+          "pass": true,
+          "detail": "词条/模块/上下文身份及原句对应"
+        },
+        {
+          "id": "S02",
+          "pass": true,
+          "detail": "九模块需要的显示数据存在；不评判篇幅、语气、论证或辅助qualifiers"
+        },
+        {
+          "id": "S03",
+          "pass": true,
+          "detail": "义项/来源/实践引用可解析"
+        },
+        {
+          "id": "P01",
+          "pass": true,
+          "detail": "实际输入/稿件与登记版本一致；不读取语义审核证书"
+        }
+      ],
+      "tasks": [
+        {
+          "entryId": "V20261012-009",
+          "module": "history",
+          "status": "unrecorded",
+          "complete": false,
+          "detail": "缺少获取记录；不能从现有摘要倒填成功。"
+        }
+      ],
+      "contentAmount": {
+        "entryId": "V20261012-009",
+        "profile": "standard",
+        "analysisUnits": 190,
+        "explanationUnits": 238,
+        "bilingualExamples": 2,
+        "unit": "Chinese characters + English/numeric words",
+        "semanticScore": null,
+        "minimum": 500,
+        "target": [
+          600,
+          900
+        ],
+        "minimumBilingualExamples": 2,
+        "pass": false,
+        "status": "needs_expansion",
+        "shortfall": 310,
+        "detail": "正文或双语表达数量不足，保留原稿并列入待补；不自动补写或截断。"
+      }
+    },
+    {
+      "entryId": "V20261012-011",
+      "structurePass": true,
+      "flowComplete": false,
+      "checks": [
+        {
+          "id": "S01",
+          "pass": true,
+          "detail": "词条/模块/上下文身份及原句对应"
+        },
+        {
+          "id": "S02",
+          "pass": true,
+          "detail": "九模块需要的显示数据存在；不评判篇幅、语气、论证或辅助qualifiers"
+        },
+        {
+          "id": "S03",
+          "pass": true,
+          "detail": "义项/来源/实践引用可解析"
+        },
+        {
+          "id": "P01",
+          "pass": true,
+          "detail": "实际输入/稿件与登记版本一致；不读取语义审核证书"
+        }
+      ],
+      "tasks": [
+        {
+          "entryId": "V20261012-011",
+          "module": "history",
+          "status": "unrecorded",
+          "complete": false,
+          "detail": "缺少获取记录；不能从现有摘要倒填成功。"
+        }
+      ],
+      "contentAmount": {
+        "entryId": "V20261012-011",
+        "profile": "standard",
+        "analysisUnits": 201,
+        "explanationUnits": 248,
+        "bilingualExamples": 2,
+        "unit": "Chinese characters + English/numeric words",
+        "semanticScore": null,
+        "minimum": 500,
+        "target": [
+          600,
+          900
+        ],
+        "minimumBilingualExamples": 2,
+        "pass": false,
+        "status": "needs_expansion",
+        "shortfall": 299,
+        "detail": "正文或双语表达数量不足，保留原稿并列入待补；不自动补写或截断。"
+      }
+    },
+    {
+      "entryId": "V20261012-013",
+      "structurePass": true,
+      "flowComplete": false,
+      "checks": [
+        {
+          "id": "S01",
+          "pass": true,
+          "detail": "词条/模块/上下文身份及原句对应"
+        },
+        {
+          "id": "S02",
+          "pass": true,
+          "detail": "九模块需要的显示数据存在；不评判篇幅、语气、论证或辅助qualifiers"
+        },
+        {
+          "id": "S03",
+          "pass": true,
+          "detail": "义项/来源/实践引用可解析"
+        },
+        {
+          "id": "P01",
+          "pass": true,
+          "detail": "实际输入/稿件与登记版本一致；不读取语义审核证书"
+        }
+      ],
+      "tasks": [
+        {
+          "entryId": "V20261012-013",
+          "module": "history",
+          "status": "unrecorded",
+          "complete": false,
+          "detail": "缺少获取记录；不能从现有摘要倒填成功。"
+        }
+      ],
+      "contentAmount": {
+        "entryId": "V20261012-013",
+        "profile": "standard",
+        "analysisUnits": 184,
+        "explanationUnits": 231,
+        "bilingualExamples": 2,
+        "unit": "Chinese characters + English/numeric words",
+        "semanticScore": null,
+        "minimum": 500,
+        "target": [
+          600,
+          900
+        ],
+        "minimumBilingualExamples": 2,
+        "pass": false,
+        "status": "needs_expansion",
+        "shortfall": 316,
+        "detail": "正文或双语表达数量不足，保留原稿并列入待补；不自动补写或截断。"
+      }
+    },
+    {
+      "entryId": "V20261012-014",
+      "structurePass": true,
+      "flowComplete": false,
+      "checks": [
+        {
+          "id": "S01",
+          "pass": true,
+          "detail": "词条/模块/上下文身份及原句对应"
+        },
+        {
+          "id": "S02",
+          "pass": true,
+          "detail": "九模块需要的显示数据存在；不评判篇幅、语气、论证或辅助qualifiers"
+        },
+        {
+          "id": "S03",
+          "pass": true,
+          "detail": "义项/来源/实践引用可解析"
+        },
+        {
+          "id": "P01",
+          "pass": true,
+          "detail": "实际输入/稿件与登记版本一致；不读取语义审核证书"
+        }
+      ],
+      "tasks": [
+        {
+          "entryId": "V20261012-014",
+          "module": "history",
+          "status": "unrecorded",
+          "complete": false,
+          "detail": "缺少获取记录；不能从现有摘要倒填成功。"
+        }
+      ],
+      "contentAmount": {
+        "entryId": "V20261012-014",
+        "profile": "standard",
+        "analysisUnits": 198,
+        "explanationUnits": 247,
+        "bilingualExamples": 2,
+        "unit": "Chinese characters + English/numeric words",
+        "semanticScore": null,
+        "minimum": 500,
+        "target": [
+          600,
+          900
+        ],
+        "minimumBilingualExamples": 2,
+        "pass": false,
+        "status": "needs_expansion",
+        "shortfall": 302,
+        "detail": "正文或双语表达数量不足，保留原稿并列入待补；不自动补写或截断。"
+      }
+    },
+    {
+      "entryId": "V20261012-016",
+      "structurePass": true,
+      "flowComplete": false,
+      "checks": [
+        {
+          "id": "S01",
+          "pass": true,
+          "detail": "词条/模块/上下文身份及原句对应"
+        },
+        {
+          "id": "S02",
+          "pass": true,
+          "detail": "九模块需要的显示数据存在；不评判篇幅、语气、论证或辅助qualifiers"
+        },
+        {
+          "id": "S03",
+          "pass": true,
+          "detail": "义项/来源/实践引用可解析"
+        },
+        {
+          "id": "P01",
+          "pass": true,
+          "detail": "实际输入/稿件与登记版本一致；不读取语义审核证书"
+        }
+      ],
+      "tasks": [
+        {
+          "entryId": "V20261012-016",
+          "module": "history",
+          "status": "unrecorded",
+          "complete": false,
+          "detail": "缺少获取记录；不能从现有摘要倒填成功。"
+        }
+      ],
+      "contentAmount": {
+        "entryId": "V20261012-016",
+        "profile": "standard",
+        "analysisUnits": 221,
+        "explanationUnits": 284,
+        "bilingualExamples": 2,
+        "unit": "Chinese characters + English/numeric words",
+        "semanticScore": null,
+        "minimum": 500,
+        "target": [
+          600,
+          900
+        ],
+        "minimumBilingualExamples": 2,
+        "pass": false,
+        "status": "needs_expansion",
+        "shortfall": 279,
+        "detail": "正文或双语表达数量不足，保留原稿并列入待补；不自动补写或截断。"
+      }
+    },
+    {
+      "entryId": "V20261012-017",
+      "structurePass": true,
+      "flowComplete": false,
+      "checks": [
+        {
+          "id": "S01",
+          "pass": true,
+          "detail": "词条/模块/上下文身份及原句对应"
+        },
+        {
+          "id": "S02",
+          "pass": true,
+          "detail": "九模块需要的显示数据存在；不评判篇幅、语气、论证或辅助qualifiers"
+        },
+        {
+          "id": "S03",
+          "pass": true,
+          "detail": "义项/来源/实践引用可解析"
+        },
+        {
+          "id": "P01",
+          "pass": true,
+          "detail": "实际输入/稿件与登记版本一致；不读取语义审核证书"
+        }
+      ],
+      "tasks": [
+        {
+          "entryId": "V20261012-017",
+          "module": "history",
+          "status": "unrecorded",
+          "complete": false,
+          "detail": "缺少获取记录；不能从现有摘要倒填成功。"
+        }
+      ],
+      "contentAmount": {
+        "entryId": "V20261012-017",
+        "profile": "standard",
+        "analysisUnits": 200,
+        "explanationUnits": 252,
+        "bilingualExamples": 2,
+        "unit": "Chinese characters + English/numeric words",
+        "semanticScore": null,
+        "minimum": 500,
+        "target": [
+          600,
+          900
+        ],
+        "minimumBilingualExamples": 2,
+        "pass": false,
+        "status": "needs_expansion",
+        "shortfall": 300,
+        "detail": "正文或双语表达数量不足，保留原稿并列入待补；不自动补写或截断。"
+      }
+    },
+    {
+      "entryId": "V20261012-021",
+      "structurePass": true,
+      "flowComplete": false,
+      "checks": [
+        {
+          "id": "S01",
+          "pass": true,
+          "detail": "词条/模块/上下文身份及原句对应"
+        },
+        {
+          "id": "S02",
+          "pass": true,
+          "detail": "九模块需要的显示数据存在；不评判篇幅、语气、论证或辅助qualifiers"
+        },
+        {
+          "id": "S03",
+          "pass": true,
+          "detail": "义项/来源/实践引用可解析"
+        },
+        {
+          "id": "P01",
+          "pass": true,
+          "detail": "实际输入/稿件与登记版本一致；不读取语义审核证书"
+        }
+      ],
+      "tasks": [
+        {
+          "entryId": "V20261012-021",
+          "module": "history",
+          "status": "unrecorded",
+          "complete": false,
+          "detail": "缺少获取记录；不能从现有摘要倒填成功。"
+        }
+      ],
+      "contentAmount": {
+        "entryId": "V20261012-021",
+        "profile": "standard",
+        "analysisUnits": 186,
+        "explanationUnits": 243,
+        "bilingualExamples": 2,
+        "unit": "Chinese characters + English/numeric words",
+        "semanticScore": null,
+        "minimum": 500,
+        "target": [
+          600,
+          900
+        ],
+        "minimumBilingualExamples": 2,
+        "pass": false,
+        "status": "needs_expansion",
+        "shortfall": 314,
+        "detail": "正文或双语表达数量不足，保留原稿并列入待补；不自动补写或截断。"
+      }
+    },
+    {
+      "entryId": "V20261012-023",
+      "structurePass": true,
+      "flowComplete": false,
+      "checks": [
+        {
+          "id": "S01",
+          "pass": true,
+          "detail": "词条/模块/上下文身份及原句对应"
+        },
+        {
+          "id": "S02",
+          "pass": true,
+          "detail": "九模块需要的显示数据存在；不评判篇幅、语气、论证或辅助qualifiers"
+        },
+        {
+          "id": "S03",
+          "pass": true,
+          "detail": "义项/来源/实践引用可解析"
+        },
+        {
+          "id": "P01",
+          "pass": true,
+          "detail": "实际输入/稿件与登记版本一致；不读取语义审核证书"
+        }
+      ],
+      "tasks": [
+        {
+          "entryId": "V20261012-023",
+          "module": "history",
+          "status": "unrecorded",
+          "complete": false,
+          "detail": "缺少获取记录；不能从现有摘要倒填成功。"
+        }
+      ],
+      "contentAmount": {
+        "entryId": "V20261012-023",
+        "profile": "standard",
+        "analysisUnits": 185,
+        "explanationUnits": 242,
+        "bilingualExamples": 2,
+        "unit": "Chinese characters + English/numeric words",
+        "semanticScore": null,
+        "minimum": 500,
+        "target": [
+          600,
+          900
+        ],
+        "minimumBilingualExamples": 2,
+        "pass": false,
+        "status": "needs_expansion",
+        "shortfall": 315,
+        "detail": "正文或双语表达数量不足，保留原稿并列入待补；不自动补写或截断。"
+      }
+    },
+    {
+      "entryId": "V20261012-025",
+      "structurePass": true,
+      "flowComplete": false,
+      "checks": [
+        {
+          "id": "S01",
+          "pass": true,
+          "detail": "词条/模块/上下文身份及原句对应"
+        },
+        {
+          "id": "S02",
+          "pass": true,
+          "detail": "九模块需要的显示数据存在；不评判篇幅、语气、论证或辅助qualifiers"
+        },
+        {
+          "id": "S03",
+          "pass": true,
+          "detail": "义项/来源/实践引用可解析"
+        },
+        {
+          "id": "P01",
+          "pass": true,
+          "detail": "实际输入/稿件与登记版本一致；不读取语义审核证书"
+        }
+      ],
+      "tasks": [
+        {
+          "entryId": "V20261012-025",
+          "module": "history",
+          "status": "unrecorded",
+          "complete": false,
+          "detail": "缺少获取记录；不能从现有摘要倒填成功。"
+        }
+      ],
+      "contentAmount": {
+        "entryId": "V20261012-025",
+        "profile": "standard",
+        "analysisUnits": 204,
+        "explanationUnits": 247,
+        "bilingualExamples": 2,
+        "unit": "Chinese characters + English/numeric words",
+        "semanticScore": null,
+        "minimum": 500,
+        "target": [
+          600,
+          900
+        ],
+        "minimumBilingualExamples": 2,
+        "pass": false,
+        "status": "needs_expansion",
+        "shortfall": 296,
+        "detail": "正文或双语表达数量不足，保留原稿并列入待补；不自动补写或截断。"
+      }
+    },
+    {
+      "entryId": "V20261012-026",
+      "structurePass": true,
+      "flowComplete": false,
+      "checks": [
+        {
+          "id": "S01",
+          "pass": true,
+          "detail": "词条/模块/上下文身份及原句对应"
+        },
+        {
+          "id": "S02",
+          "pass": true,
+          "detail": "九模块需要的显示数据存在；不评判篇幅、语气、论证或辅助qualifiers"
+        },
+        {
+          "id": "S03",
+          "pass": true,
+          "detail": "义项/来源/实践引用可解析"
+        },
+        {
+          "id": "P01",
+          "pass": true,
+          "detail": "实际输入/稿件与登记版本一致；不读取语义审核证书"
+        }
+      ],
+      "tasks": [
+        {
+          "entryId": "V20261012-026",
+          "module": "history",
+          "status": "unrecorded",
+          "complete": false,
+          "detail": "缺少获取记录；不能从现有摘要倒填成功。"
+        }
+      ],
+      "contentAmount": {
+        "entryId": "V20261012-026",
+        "profile": "standard",
+        "analysisUnits": 213,
+        "explanationUnits": 269,
+        "bilingualExamples": 2,
+        "unit": "Chinese characters + English/numeric words",
+        "semanticScore": null,
+        "minimum": 500,
+        "target": [
+          600,
+          900
+        ],
+        "minimumBilingualExamples": 2,
+        "pass": false,
+        "status": "needs_expansion",
+        "shortfall": 287,
+        "detail": "正文或双语表达数量不足，保留原稿并列入待补；不自动补写或截断。"
+      }
+    },
+    {
+      "entryId": "V20261012-028",
+      "structurePass": true,
+      "flowComplete": false,
+      "checks": [
+        {
+          "id": "S01",
+          "pass": true,
+          "detail": "词条/模块/上下文身份及原句对应"
+        },
+        {
+          "id": "S02",
+          "pass": true,
+          "detail": "九模块需要的显示数据存在；不评判篇幅、语气、论证或辅助qualifiers"
+        },
+        {
+          "id": "S03",
+          "pass": true,
+          "detail": "义项/来源/实践引用可解析"
+        },
+        {
+          "id": "P01",
+          "pass": true,
+          "detail": "实际输入/稿件与登记版本一致；不读取语义审核证书"
+        }
+      ],
+      "tasks": [
+        {
+          "entryId": "V20261012-028",
+          "module": "history",
+          "status": "unrecorded",
+          "complete": false,
+          "detail": "缺少获取记录；不能从现有摘要倒填成功。"
+        }
+      ],
+      "contentAmount": {
+        "entryId": "V20261012-028",
+        "profile": "standard",
+        "analysisUnits": 209,
+        "explanationUnits": 267,
+        "bilingualExamples": 2,
+        "unit": "Chinese characters + English/numeric words",
+        "semanticScore": null,
+        "minimum": 500,
+        "target": [
+          600,
+          900
+        ],
+        "minimumBilingualExamples": 2,
+        "pass": false,
+        "status": "needs_expansion",
+        "shortfall": 291,
+        "detail": "正文或双语表达数量不足，保留原稿并列入待补；不自动补写或截断。"
+      }
+    },
+    {
+      "entryId": "V20261012-029",
+      "structurePass": true,
+      "flowComplete": false,
+      "checks": [
+        {
+          "id": "S01",
+          "pass": true,
+          "detail": "词条/模块/上下文身份及原句对应"
+        },
+        {
+          "id": "S02",
+          "pass": true,
+          "detail": "九模块需要的显示数据存在；不评判篇幅、语气、论证或辅助qualifiers"
+        },
+        {
+          "id": "S03",
+          "pass": true,
+          "detail": "义项/来源/实践引用可解析"
+        },
+        {
+          "id": "P01",
+          "pass": true,
+          "detail": "实际输入/稿件与登记版本一致；不读取语义审核证书"
+        }
+      ],
+      "tasks": [
+        {
+          "entryId": "V20261012-029",
+          "module": "history",
+          "status": "unrecorded",
+          "complete": false,
+          "detail": "缺少获取记录；不能从现有摘要倒填成功。"
+        }
+      ],
+      "contentAmount": {
+        "entryId": "V20261012-029",
+        "profile": "standard",
+        "analysisUnits": 184,
+        "explanationUnits": 251,
+        "bilingualExamples": 2,
+        "unit": "Chinese characters + English/numeric words",
+        "semanticScore": null,
+        "minimum": 500,
+        "target": [
+          600,
+          900
+        ],
+        "minimumBilingualExamples": 2,
+        "pass": false,
+        "status": "needs_expansion",
+        "shortfall": 316,
+        "detail": "正文或双语表达数量不足，保留原稿并列入待补；不自动补写或截断。"
+      }
+    },
+    {
+      "entryId": "V20261012-030",
+      "structurePass": true,
+      "flowComplete": false,
+      "checks": [
+        {
+          "id": "S01",
+          "pass": true,
+          "detail": "词条/模块/上下文身份及原句对应"
+        },
+        {
+          "id": "S02",
+          "pass": true,
+          "detail": "九模块需要的显示数据存在；不评判篇幅、语气、论证或辅助qualifiers"
+        },
+        {
+          "id": "S03",
+          "pass": true,
+          "detail": "义项/来源/实践引用可解析"
+        },
+        {
+          "id": "P01",
+          "pass": true,
+          "detail": "实际输入/稿件与登记版本一致；不读取语义审核证书"
+        }
+      ],
+      "tasks": [
+        {
+          "entryId": "V20261012-030",
+          "module": "history",
+          "status": "unrecorded",
+          "complete": false,
+          "detail": "缺少获取记录；不能从现有摘要倒填成功。"
+        }
+      ],
+      "contentAmount": {
+        "entryId": "V20261012-030",
+        "profile": "standard",
+        "analysisUnits": 200,
+        "explanationUnits": 245,
+        "bilingualExamples": 2,
+        "unit": "Chinese characters + English/numeric words",
+        "semanticScore": null,
+        "minimum": 500,
+        "target": [
+          600,
+          900
+        ],
+        "minimumBilingualExamples": 2,
+        "pass": false,
+        "status": "needs_expansion",
+        "shortfall": 300,
+        "detail": "正文或双语表达数量不足，保留原稿并列入待补；不自动补写或截断。"
+      }
+    },
+    {
+      "entryId": "V20261012-031",
+      "structurePass": true,
+      "flowComplete": false,
+      "checks": [
+        {
+          "id": "S01",
+          "pass": true,
+          "detail": "词条/模块/上下文身份及原句对应"
+        },
+        {
+          "id": "S02",
+          "pass": true,
+          "detail": "九模块需要的显示数据存在；不评判篇幅、语气、论证或辅助qualifiers"
+        },
+        {
+          "id": "S03",
+          "pass": true,
+          "detail": "义项/来源/实践引用可解析"
+        },
+        {
+          "id": "P01",
+          "pass": true,
+          "detail": "实际输入/稿件与登记版本一致；不读取语义审核证书"
+        }
+      ],
+      "tasks": [
+        {
+          "entryId": "V20261012-031",
+          "module": "history",
+          "status": "unrecorded",
+          "complete": false,
+          "detail": "缺少获取记录；不能从现有摘要倒填成功。"
+        }
+      ],
+      "contentAmount": {
+        "entryId": "V20261012-031",
+        "profile": "standard",
+        "analysisUnits": 192,
+        "explanationUnits": 243,
+        "bilingualExamples": 2,
+        "unit": "Chinese characters + English/numeric words",
+        "semanticScore": null,
+        "minimum": 500,
+        "target": [
+          600,
+          900
+        ],
+        "minimumBilingualExamples": 2,
+        "pass": false,
+        "status": "needs_expansion",
+        "shortfall": 308,
+        "detail": "正文或双语表达数量不足，保留原稿并列入待补；不自动补写或截断。"
+      }
+    },
+    {
+      "entryId": "V20261012-032",
+      "structurePass": true,
+      "flowComplete": false,
+      "checks": [
+        {
+          "id": "S01",
+          "pass": true,
+          "detail": "词条/模块/上下文身份及原句对应"
+        },
+        {
+          "id": "S02",
+          "pass": true,
+          "detail": "九模块需要的显示数据存在；不评判篇幅、语气、论证或辅助qualifiers"
+        },
+        {
+          "id": "S03",
+          "pass": true,
+          "detail": "义项/来源/实践引用可解析"
+        },
+        {
+          "id": "P01",
+          "pass": true,
+          "detail": "实际输入/稿件与登记版本一致；不读取语义审核证书"
+        }
+      ],
+      "tasks": [
+        {
+          "entryId": "V20261012-032",
+          "module": "history",
+          "status": "unrecorded",
+          "complete": false,
+          "detail": "缺少获取记录；不能从现有摘要倒填成功。"
+        }
+      ],
+      "contentAmount": {
+        "entryId": "V20261012-032",
+        "profile": "standard",
+        "analysisUnits": 182,
+        "explanationUnits": 231,
+        "bilingualExamples": 2,
+        "unit": "Chinese characters + English/numeric words",
+        "semanticScore": null,
+        "minimum": 500,
+        "target": [
+          600,
+          900
+        ],
+        "minimumBilingualExamples": 2,
+        "pass": false,
+        "status": "needs_expansion",
+        "shortfall": 318,
+        "detail": "正文或双语表达数量不足，保留原稿并列入待补；不自动补写或截断。"
+      }
+    },
+    {
+      "entryId": "V20261012-033",
+      "structurePass": true,
+      "flowComplete": false,
+      "checks": [
+        {
+          "id": "S01",
+          "pass": true,
+          "detail": "词条/模块/上下文身份及原句对应"
+        },
+        {
+          "id": "S02",
+          "pass": true,
+          "detail": "九模块需要的显示数据存在；不评判篇幅、语气、论证或辅助qualifiers"
+        },
+        {
+          "id": "S03",
+          "pass": true,
+          "detail": "义项/来源/实践引用可解析"
+        },
+        {
+          "id": "P01",
+          "pass": true,
+          "detail": "实际输入/稿件与登记版本一致；不读取语义审核证书"
+        }
+      ],
+      "tasks": [
+        {
+          "entryId": "V20261012-033",
+          "module": "history",
+          "status": "unrecorded",
+          "complete": false,
+          "detail": "缺少获取记录；不能从现有摘要倒填成功。"
+        }
+      ],
+      "contentAmount": {
+        "entryId": "V20261012-033",
+        "profile": "standard",
+        "analysisUnits": 181,
+        "explanationUnits": 225,
+        "bilingualExamples": 2,
+        "unit": "Chinese characters + English/numeric words",
+        "semanticScore": null,
+        "minimum": 500,
+        "target": [
+          600,
+          900
+        ],
+        "minimumBilingualExamples": 2,
+        "pass": false,
+        "status": "needs_expansion",
+        "shortfall": 319,
+        "detail": "正文或双语表达数量不足，保留原稿并列入待补；不自动补写或截断。"
+      }
+    },
+    {
+      "entryId": "V20261012-034",
+      "structurePass": true,
+      "flowComplete": false,
+      "checks": [
+        {
+          "id": "S01",
+          "pass": true,
+          "detail": "词条/模块/上下文身份及原句对应"
+        },
+        {
+          "id": "S02",
+          "pass": true,
+          "detail": "九模块需要的显示数据存在；不评判篇幅、语气、论证或辅助qualifiers"
+        },
+        {
+          "id": "S03",
+          "pass": true,
+          "detail": "义项/来源/实践引用可解析"
+        },
+        {
+          "id": "P01",
+          "pass": true,
+          "detail": "实际输入/稿件与登记版本一致；不读取语义审核证书"
+        }
+      ],
+      "tasks": [
+        {
+          "entryId": "V20261012-034",
+          "module": "history",
+          "status": "unrecorded",
+          "complete": false,
+          "detail": "缺少获取记录；不能从现有摘要倒填成功。"
+        }
+      ],
+      "contentAmount": {
+        "entryId": "V20261012-034",
+        "profile": "standard",
+        "analysisUnits": 184,
+        "explanationUnits": 236,
+        "bilingualExamples": 2,
+        "unit": "Chinese characters + English/numeric words",
+        "semanticScore": null,
+        "minimum": 500,
+        "target": [
+          600,
+          900
+        ],
+        "minimumBilingualExamples": 2,
+        "pass": false,
+        "status": "needs_expansion",
+        "shortfall": 316,
+        "detail": "正文或双语表达数量不足，保留原稿并列入待补；不自动补写或截断。"
+      }
+    },
+    {
+      "entryId": "V20261012-035",
+      "structurePass": true,
+      "flowComplete": false,
+      "checks": [
+        {
+          "id": "S01",
+          "pass": true,
+          "detail": "词条/模块/上下文身份及原句对应"
+        },
+        {
+          "id": "S02",
+          "pass": true,
+          "detail": "九模块需要的显示数据存在；不评判篇幅、语气、论证或辅助qualifiers"
+        },
+        {
+          "id": "S03",
+          "pass": true,
+          "detail": "义项/来源/实践引用可解析"
+        },
+        {
+          "id": "P01",
+          "pass": true,
+          "detail": "实际输入/稿件与登记版本一致；不读取语义审核证书"
+        }
+      ],
+      "tasks": [
+        {
+          "entryId": "V20261012-035",
+          "module": "history",
+          "status": "unrecorded",
+          "complete": false,
+          "detail": "缺少获取记录；不能从现有摘要倒填成功。"
+        }
+      ],
+      "contentAmount": {
+        "entryId": "V20261012-035",
+        "profile": "standard",
+        "analysisUnits": 187,
+        "explanationUnits": 237,
+        "bilingualExamples": 2,
+        "unit": "Chinese characters + English/numeric words",
+        "semanticScore": null,
+        "minimum": 500,
+        "target": [
+          600,
+          900
+        ],
+        "minimumBilingualExamples": 2,
+        "pass": false,
+        "status": "needs_expansion",
+        "shortfall": 313,
+        "detail": "正文或双语表达数量不足，保留原稿并列入待补；不自动补写或截断。"
+      }
+    },
+    {
+      "entryId": "V20261012-036",
+      "structurePass": true,
+      "flowComplete": false,
+      "checks": [
+        {
+          "id": "S01",
+          "pass": true,
+          "detail": "词条/模块/上下文身份及原句对应"
+        },
+        {
+          "id": "S02",
+          "pass": true,
+          "detail": "九模块需要的显示数据存在；不评判篇幅、语气、论证或辅助qualifiers"
+        },
+        {
+          "id": "S03",
+          "pass": true,
+          "detail": "义项/来源/实践引用可解析"
+        },
+        {
+          "id": "P01",
+          "pass": true,
+          "detail": "实际输入/稿件与登记版本一致；不读取语义审核证书"
+        }
+      ],
+      "tasks": [
+        {
+          "entryId": "V20261012-036",
+          "module": "history",
+          "status": "unrecorded",
+          "complete": false,
+          "detail": "缺少获取记录；不能从现有摘要倒填成功。"
+        }
+      ],
+      "contentAmount": {
+        "entryId": "V20261012-036",
+        "profile": "standard",
+        "analysisUnits": 198,
+        "explanationUnits": 245,
+        "bilingualExamples": 2,
+        "unit": "Chinese characters + English/numeric words",
+        "semanticScore": null,
+        "minimum": 500,
+        "target": [
+          600,
+          900
+        ],
+        "minimumBilingualExamples": 2,
+        "pass": false,
+        "status": "needs_expansion",
+        "shortfall": 302,
+        "detail": "正文或双语表达数量不足，保留原稿并列入待补；不自动补写或截断。"
+      }
+    },
+    {
+      "entryId": "V20261012-037",
+      "structurePass": true,
+      "flowComplete": false,
+      "checks": [
+        {
+          "id": "S01",
+          "pass": true,
+          "detail": "词条/模块/上下文身份及原句对应"
+        },
+        {
+          "id": "S02",
+          "pass": true,
+          "detail": "九模块需要的显示数据存在；不评判篇幅、语气、论证或辅助qualifiers"
+        },
+        {
+          "id": "S03",
+          "pass": true,
+          "detail": "义项/来源/实践引用可解析"
+        },
+        {
+          "id": "P01",
+          "pass": true,
+          "detail": "实际输入/稿件与登记版本一致；不读取语义审核证书"
+        }
+      ],
+      "tasks": [
+        {
+          "entryId": "V20261012-037",
+          "module": "history",
+          "status": "unrecorded",
+          "complete": false,
+          "detail": "缺少获取记录；不能从现有摘要倒填成功。"
+        }
+      ],
+      "contentAmount": {
+        "entryId": "V20261012-037",
+        "profile": "standard",
+        "analysisUnits": 203,
+        "explanationUnits": 263,
+        "bilingualExamples": 2,
+        "unit": "Chinese characters + English/numeric words",
+        "semanticScore": null,
+        "minimum": 500,
+        "target": [
+          600,
+          900
+        ],
+        "minimumBilingualExamples": 2,
+        "pass": false,
+        "status": "needs_expansion",
+        "shortfall": 297,
+        "detail": "正文或双语表达数量不足，保留原稿并列入待补；不自动补写或截断。"
+      }
+    },
+    {
+      "entryId": "V20261012-038",
+      "structurePass": true,
+      "flowComplete": false,
+      "checks": [
+        {
+          "id": "S01",
+          "pass": true,
+          "detail": "词条/模块/上下文身份及原句对应"
+        },
+        {
+          "id": "S02",
+          "pass": true,
+          "detail": "九模块需要的显示数据存在；不评判篇幅、语气、论证或辅助qualifiers"
+        },
+        {
+          "id": "S03",
+          "pass": true,
+          "detail": "义项/来源/实践引用可解析"
+        },
+        {
+          "id": "P01",
+          "pass": true,
+          "detail": "实际输入/稿件与登记版本一致；不读取语义审核证书"
+        }
+      ],
+      "tasks": [
+        {
+          "entryId": "V20261012-038",
+          "module": "history",
+          "status": "unrecorded",
+          "complete": false,
+          "detail": "缺少获取记录；不能从现有摘要倒填成功。"
+        }
+      ],
+      "contentAmount": {
+        "entryId": "V20261012-038",
+        "profile": "standard",
+        "analysisUnits": 203,
+        "explanationUnits": 275,
+        "bilingualExamples": 2,
+        "unit": "Chinese characters + English/numeric words",
+        "semanticScore": null,
+        "minimum": 500,
+        "target": [
+          600,
+          900
+        ],
+        "minimumBilingualExamples": 2,
+        "pass": false,
+        "status": "needs_expansion",
+        "shortfall": 297,
+        "detail": "正文或双语表达数量不足，保留原稿并列入待补；不自动补写或截断。"
+      }
+    },
+    {
+      "entryId": "V20261012-040",
+      "structurePass": true,
+      "flowComplete": false,
+      "checks": [
+        {
+          "id": "S01",
+          "pass": true,
+          "detail": "词条/模块/上下文身份及原句对应"
+        },
+        {
+          "id": "S02",
+          "pass": true,
+          "detail": "九模块需要的显示数据存在；不评判篇幅、语气、论证或辅助qualifiers"
+        },
+        {
+          "id": "S03",
+          "pass": true,
+          "detail": "义项/来源/实践引用可解析"
+        },
+        {
+          "id": "P01",
+          "pass": true,
+          "detail": "实际输入/稿件与登记版本一致；不读取语义审核证书"
+        }
+      ],
+      "tasks": [
+        {
+          "entryId": "V20261012-040",
+          "module": "history",
+          "status": "unrecorded",
+          "complete": false,
+          "detail": "缺少获取记录；不能从现有摘要倒填成功。"
+        }
+      ],
+      "contentAmount": {
+        "entryId": "V20261012-040",
+        "profile": "standard",
+        "analysisUnits": 213,
+        "explanationUnits": 262,
+        "bilingualExamples": 2,
+        "unit": "Chinese characters + English/numeric words",
+        "semanticScore": null,
+        "minimum": 500,
+        "target": [
+          600,
+          900
+        ],
+        "minimumBilingualExamples": 2,
+        "pass": false,
+        "status": "needs_expansion",
+        "shortfall": 287,
+        "detail": "正文或双语表达数量不足，保留原稿并列入待补；不自动补写或截断。"
+      }
+    }
+  ],
+  "counts": {
+    "selected": 50,
+    "contentAmountPassed": 0,
+    "contentAmountPending": 50,
+    "packages": 50,
+    "structurePassed": 50,
+    "historyReady": 0,
+    "historyNoEntry": 0,
+    "historyPending": 50
+  },
+  "page": {
+    "pass": true,
+    "htmlSHA": "52d825dde26e40e8203a100233717c33259e47170f6647da8bafa64fb724a550",
+    "checks": [
+      {
+        "id": "L01/L02",
+        "entryId": "V20261012-002",
+        "pass": true
+      },
+      {
+        "id": "L01/L02",
+        "entryId": "V20261012-012",
+        "pass": true
+      },
+      {
+        "id": "L01/L02",
+        "entryId": "V20261012-022",
+        "pass": true
+      },
+      {
+        "id": "L01/L02",
+        "entryId": "V20261012-024",
+        "pass": true
+      },
+      {
+        "id": "L01/L02",
+        "entryId": "V20261012-053",
+        "pass": true
+      },
+      {
+        "id": "L01/L02",
+        "entryId": "V20261012-078",
+        "pass": true
+      },
+      {
+        "id": "L01/L02",
+        "entryId": "V20261012-076",
+        "pass": true
+      },
+      {
+        "id": "L01/L02",
+        "entryId": "V20261012-093",
+        "pass": true
+      },
+      {
+        "id": "L01/L02",
+        "entryId": "V20261012-100",
+        "pass": true
+      },
+      {
+        "id": "L01/L02",
+        "entryId": "V20261014-075",
+        "pass": true
+      },
+      {
+        "id": "L01/L02",
+        "entryId": "V20261014-076",
+        "pass": true
+      },
+      {
+        "id": "L01/L02",
+        "entryId": "V20261029-005",
+        "pass": true
+      },
+      {
+        "id": "L01/L02",
+        "entryId": "V20261014-003",
+        "pass": true
+      },
+      {
+        "id": "L01/L02",
+        "entryId": "V20261012-117",
+        "pass": true
+      },
+      {
+        "id": "L01/L02",
+        "entryId": "V20261018-106",
+        "pass": true
+      },
+      {
+        "id": "L01/L02",
+        "entryId": "V20261016-103",
+        "pass": true
+      },
+      {
+        "id": "L01/L02",
+        "entryId": "V20261016-119",
+        "pass": true
+      },
+      {
+        "id": "L01/L02",
+        "entryId": "V20261012-020",
+        "pass": true
+      },
+      {
+        "id": "L01/L02",
+        "entryId": "V20261012-019",
+        "pass": true
+      },
+      {
+        "id": "L01/L02",
+        "entryId": "V20261012-015",
+        "pass": true
+      },
+      {
+        "id": "L01/L02",
+        "entryId": "V20261012-018",
+        "pass": true
+      },
+      {
+        "id": "L01/L02",
+        "entryId": "V20261012-010",
+        "pass": true
+      },
+      {
+        "id": "L01/L02",
+        "entryId": "V20261012-006",
+        "pass": true
+      },
+      {
+        "id": "L01/L02",
+        "entryId": "V20261012-088",
+        "pass": true
+      },
+      {
+        "id": "L01/L02",
+        "entryId": "V20261012-004",
+        "pass": true
+      },
+      {
+        "id": "L01/L02",
+        "entryId": "V20261012-005",
+        "pass": true
+      },
+      {
+        "id": "L01/L02",
+        "entryId": "V20261012-007",
+        "pass": true
+      },
+      {
+        "id": "L01/L02",
+        "entryId": "V20261012-008",
+        "pass": true
+      },
+      {
+        "id": "L01/L02",
+        "entryId": "V20261012-009",
+        "pass": true
+      },
+      {
+        "id": "L01/L02",
+        "entryId": "V20261012-011",
+        "pass": true
+      },
+      {
+        "id": "L01/L02",
+        "entryId": "V20261012-013",
+        "pass": true
+      },
+      {
+        "id": "L01/L02",
+        "entryId": "V20261012-014",
+        "pass": true
+      },
+      {
+        "id": "L01/L02",
+        "entryId": "V20261012-016",
+        "pass": true
+      },
+      {
+        "id": "L01/L02",
+        "entryId": "V20261012-017",
+        "pass": true
+      },
+      {
+        "id": "L01/L02",
+        "entryId": "V20261012-021",
+        "pass": true
+      },
+      {
+        "id": "L01/L02",
+        "entryId": "V20261012-023",
+        "pass": true
+      },
+      {
+        "id": "L01/L02",
+        "entryId": "V20261012-025",
+        "pass": true
+      },
+      {
+        "id": "L01/L02",
+        "entryId": "V20261012-026",
+        "pass": true
+      },
+      {
+        "id": "L01/L02",
+        "entryId": "V20261012-028",
+        "pass": true
+      },
+      {
+        "id": "L01/L02",
+        "entryId": "V20261012-029",
+        "pass": true
+      },
+      {
+        "id": "L01/L02",
+        "entryId": "V20261012-030",
+        "pass": true
+      },
+      {
+        "id": "L01/L02",
+        "entryId": "V20261012-031",
+        "pass": true
+      },
+      {
+        "id": "L01/L02",
+        "entryId": "V20261012-032",
+        "pass": true
+      },
+      {
+        "id": "L01/L02",
+        "entryId": "V20261012-033",
+        "pass": true
+      },
+      {
+        "id": "L01/L02",
+        "entryId": "V20261012-034",
+        "pass": true
+      },
+      {
+        "id": "L01/L02",
+        "entryId": "V20261012-035",
+        "pass": true
+      },
+      {
+        "id": "L01/L02",
+        "entryId": "V20261012-036",
+        "pass": true
+      },
+      {
+        "id": "L01/L02",
+        "entryId": "V20261012-037",
+        "pass": true
+      },
+      {
+        "id": "L01/L02",
+        "entryId": "V20261012-038",
+        "pass": true
+      },
+      {
+        "id": "L01/L02",
+        "entryId": "V20261012-040",
+        "pass": true
+      },
+      {
+        "id": "L03",
+        "width": 320,
+        "entryId": "V20261012-018",
+        "pass": true
+      },
+      {
+        "id": "L03",
+        "width": 390,
+        "entryId": "V20261012-018",
+        "pass": true
+      },
+      {
+        "id": "L03",
+        "width": 768,
+        "entryId": "V20261012-018",
+        "pass": true
+      },
+      {
+        "id": "L03",
+        "width": 1440,
+        "entryId": "V20261012-018",
+        "pass": true
+      }
+    ],
+    "audio": "simulated control lifecycle; not listening quality",
+    "contentQuality": "not_scored"
+  }
+}

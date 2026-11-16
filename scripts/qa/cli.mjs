@@ -1,7 +1,7 @@
 import fs from 'node:fs';import path from 'node:path';import {fileURLToPath} from 'node:url';import {checkRun,root} from './structure-flow.mjs';import {verifyFreeze} from './freeze.mjs';import {checkPage} from './page.mjs';
 const read=p=>JSON.parse(fs.readFileSync(p,'utf8').replace(/^\uFEFF/,''));
 export function reserveOutput(output){const p=path.resolve(output);for(const folder of ['content','word-page','public','src','config','scripts']){const protectedPath=path.resolve(root,folder),rel=path.relative(protectedPath,p);if(rel===''||(!rel.startsWith('..'+path.sep)&&rel!=='..'&&!path.isAbsolute(rel)))throw Error('protected output path');}if(fs.existsSync(p))throw Error('output exists; choose a new revision directory');fs.mkdirSync(p,{recursive:true});return p;}
-export function combineResults(report,page){const previewReady=report.structurePass&&page?.pass===true;return {...report,page,pageStatus:page?'checked':'not_run',previewReady,productionComplete:previewReady&&report.flowComplete,accepted:false,published:false};}
+export function combineResults(report,page){const previewReady=report.structurePass&&page?.pass===true;return {...report,page,pageStatus:page?'checked':'not_run',previewReady,productionComplete:previewReady&&report.flowComplete&&report.contentAmountPass===true,accepted:false,published:false};}
 export async function execute(command,dir,argument){verifyFreeze();const r=checkRun(dir);if(command==='check')return r;const m=read(path.resolve(dir,'manifest.json')),bundles=m.itemStates.map(i=>read(path.resolve(dir,i.artifactPath)));
  if(command==='page'){if(!argument)throw Error('page requires HTML path');return combineResults(r,await checkPage(argument,bundles));}
  if(command==='preview'){
