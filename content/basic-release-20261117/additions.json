@@ -1,0 +1,2205 @@
+{
+  "version": "basic-inputs-1.0.0",
+  "entries": {
+    "V20261012-001": {
+      "sourceInputHash": "349061a57eb64c2cfdf45f6922a50959e9773eee5154300082ab4cd473a282d7",
+      "cambridge": {
+        "url": "https://dictionary.cambridge.org/dictionary/english/scope",
+        "sourceHash": "fe26c2acb1082b740f1093ca7791d853f7baf9861e8677140b6551e399d75edf",
+        "retrievedAt": "2026-11-16T17:41:50.677Z",
+        "candidateId": "entry-3/sense-0",
+        "definitionEn": "the range of matters considered or dealt with:"
+      },
+      "learning": [
+        {
+          "title": "涉及或处理的范围",
+          "en": "the range of matters considered or dealt with:",
+          "meta": "noun",
+          "example": "The scope excludes staff training.",
+          "zh": "范围不包括员工培训。",
+          "definitionSourceURL": "https://dictionary.cambridge.org/dictionary/english/scope",
+          "exampleSourceURL": null,
+          "credit": "原词库教学例句",
+          "exampleOrigin": "original",
+          "translationOrigin": "原词库中文解释"
+        }
+      ],
+      "history": [
+        {
+          "lemma": "scope",
+          "summary": "scope在16世纪已有行动余地、活动空间和目标等用法。它经意大利语进入英语，上溯表示目标、观察对象的希腊语；后来发展出思想所及范围和某种活动的领域等意义。",
+          "url": "https://www.etymonline.com/word/scope",
+          "scope": "whole_entry",
+          "artifactPath": "local-evidence/basic100/ety-1.txt",
+          "rawSHA": "5b1ee941dca39db5683f58bc83e12155c7b6ee62a82c118972433415eb83faf1",
+          "textSHA": "ba9bc42c9c0570ef91daffbb08c53a7f787906efa83e992979e3bc7102b18e26",
+          "retrievedAt": "2026-11-16T17:42:32.868Z",
+          "transport": "web_tool_snapshot",
+          "coverage": "entry_section"
+        }
+      ],
+      "meaning": "范围",
+      "editorial": {
+        "executor": "current_assistant",
+        "version": "basic-100-20261117",
+        "sourceEnglishUnchanged": true
+      }
+    },
+    "V20261012-003": {
+      "sourceInputHash": "1d17057c7f1ae9d432ba45b72f50770e6dcd277c1345952ea5c9f5ae68464234",
+      "cambridge": {
+        "url": "https://dictionary.cambridge.org/dictionary/english/deliverable",
+        "sourceHash": "dddedaeab373c367da559e2f398d1dce84078e0135e1eb4470e8d10351d8926f",
+        "retrievedAt": "2026-11-16T17:41:50.631Z",
+        "candidateId": "entry-2/sense-0",
+        "definitionEn": "something that must be completed or provided as part of a project:"
+      },
+      "learning": [
+        {
+          "title": "项目中必须完成或提供的成果",
+          "en": "something that must be completed or provided as part of a project:",
+          "meta": "noun",
+          "example": "The final deliverable is a test report.",
+          "zh": "最终交付成果是一份测试报告。",
+          "definitionSourceURL": "https://dictionary.cambridge.org/dictionary/english/deliverable",
+          "exampleSourceURL": null,
+          "credit": "原词库教学例句",
+          "exampleOrigin": "original",
+          "translationOrigin": "原词库中文解释"
+        }
+      ],
+      "history": [
+        {
+          "lemma": "deliverable",
+          "summary": "Etymonline记录的是deliverable的形容词历史：1727年已有“能够交付的”用法，由deliver加-able构成。这一记录说明其构词来源，并未在该条目中给出现代项目管理名词“交付成果”的首次使用年代。",
+          "url": "https://www.etymonline.com/word/deliverable",
+          "scope": "whole_entry",
+          "artifactPath": "local-evidence/basic100/ety-1.txt",
+          "rawSHA": "5b1ee941dca39db5683f58bc83e12155c7b6ee62a82c118972433415eb83faf1",
+          "textSHA": "6f6051768175967351590e0894c49df1e1adcbd68a9f74d9c6d0ca49b6325f37",
+          "retrievedAt": "2026-11-16T17:42:32.868Z",
+          "transport": "web_tool_snapshot",
+          "coverage": "entry_section"
+        }
+      ],
+      "meaning": "交付成果",
+      "editorial": {
+        "executor": "current_assistant",
+        "version": "basic-100-20261117",
+        "sourceEnglishUnchanged": true
+      }
+    },
+    "V20261012-027": {
+      "sourceInputHash": "dbe1b237a9ad3909bb24de42ba0b057d164c2a26fe5b1f0a05c04b6a3fd82167",
+      "cambridge": {
+        "url": "https://dictionary.cambridge.org/dictionary/english/slippage",
+        "sourceHash": "6ad9bde7f2f9f75e49782dced9b96a371f925da0c452c1de1ddfa57e26b7215b",
+        "retrievedAt": "2026-11-16T17:41:50.934Z",
+        "candidateId": "entry-0/sense-1",
+        "definitionEn": "a failure to happen or finish on time:"
+      },
+      "learning": [
+        {
+          "title": "未能按时发生或完成；延误",
+          "en": "a failure to happen or finish on time:",
+          "meta": "noun",
+          "example": "Weekly checks revealed further slippage.",
+          "zh": "每周检查发现进度进一步延误。",
+          "definitionSourceURL": "https://dictionary.cambridge.org/dictionary/english/slippage",
+          "exampleSourceURL": null,
+          "credit": "原词库教学例句",
+          "exampleOrigin": "original",
+          "translationOrigin": "原词库中文解释"
+        }
+      ],
+      "history": [
+        {
+          "lemma": "slippage",
+          "summary": "slippage由slip加-age构成，1850年已有表示滑动行为的记录。词条还记载到20世纪初机械领域表示滑动量的用法；当前的进度延误义与这份早期记录分开理解。",
+          "url": "https://www.etymonline.com/word/slippage",
+          "scope": "whole_entry",
+          "artifactPath": "local-evidence/basic100/ety-1.txt",
+          "rawSHA": "5b1ee941dca39db5683f58bc83e12155c7b6ee62a82c118972433415eb83faf1",
+          "textSHA": "d7e5bec09bac2914a2c605613c93187a391a6f04019869ac3ae0517b95ecfbc5",
+          "retrievedAt": "2026-11-16T17:42:32.868Z",
+          "transport": "web_tool_snapshot",
+          "coverage": "entry_section"
+        }
+      ],
+      "meaning": "进度延误",
+      "editorial": {
+        "executor": "current_assistant",
+        "version": "basic-100-20261117",
+        "sourceEnglishUnchanged": true
+      }
+    },
+    "V20261012-039": {
+      "sourceInputHash": "bda3b22874f85dcbaa5f0c25de185d1403c369d95abb96f94fd485251343855f",
+      "cambridge": {
+        "url": "https://dictionary.cambridge.org/dictionary/english/closure",
+        "sourceHash": "f1b73d0a5c5fcd9b72a1dedaaa7c0ef8ba96cc75f5f819bd1bec355b1cf91e4d",
+        "retrievedAt": "2026-11-16T17:41:51.074Z",
+        "candidateId": "entry-2/sense-1",
+        "definitionEn": "the act of ending something:"
+      },
+      "learning": [
+        {
+          "title": "结束；终结某项事务",
+          "en": "the act of ending something:",
+          "meta": "noun",
+          "example": "Closure requires evidence of completion.",
+          "zh": "结案需要完成证据。",
+          "definitionSourceURL": "https://dictionary.cambridge.org/dictionary/english/closure",
+          "exampleSourceURL": null,
+          "credit": "原词库教学例句",
+          "exampleOrigin": "original",
+          "translationOrigin": "原词库中文解释"
+        }
+      ],
+      "history": [
+        {
+          "lemma": "closure",
+          "summary": "closure在14世纪末可指屏障或围栏，经古法语上溯表示关闭的拉丁语词形。15世纪初已有关闭、使某事结束的意思，后来也用于议会终止辩论及心理学中形成完整整体的概念。",
+          "url": "https://www.etymonline.com/word/closure",
+          "scope": "whole_entry",
+          "artifactPath": "local-evidence/basic100/ety-1.txt",
+          "rawSHA": "5b1ee941dca39db5683f58bc83e12155c7b6ee62a82c118972433415eb83faf1",
+          "textSHA": "4b35b41f5f5d34446e052e04babb253408426eea207422b6f8f91f84c82797dc",
+          "retrievedAt": "2026-11-16T17:42:32.868Z",
+          "transport": "web_tool_snapshot",
+          "coverage": "entry_section"
+        }
+      ],
+      "meaning": "结案；正式结束",
+      "editorial": {
+        "executor": "current_assistant",
+        "version": "basic-100-20261117",
+        "sourceEnglishUnchanged": true
+      }
+    },
+    "V20261012-041": {
+      "sourceInputHash": "4d46d6fb3618ee33979e903002698d358128f5aaca1c5fc181517414d7d1eb9d",
+      "cambridge": {
+        "url": "https://dictionary.cambridge.org/dictionary/english/agenda",
+        "sourceHash": "c3e4aa236c4803b4b3b7a5c362a92d4c7b0cbd1fe6431e21520b9904a17ba2be",
+        "retrievedAt": "2026-11-16T17:41:51.177Z",
+        "candidateId": "entry-0/sense-0",
+        "definitionEn": "a list of matters to be discussed at a meeting:"
+      },
+      "learning": [
+        {
+          "title": "会议上待讨论的事项清单",
+          "en": "a list of matters to be discussed at a meeting:",
+          "meta": "noun · C1",
+          "example": "Add staffing to tomorrow's agenda.",
+          "zh": "把人员配置加入明天的议程。",
+          "definitionSourceURL": "https://dictionary.cambridge.org/dictionary/english/agenda",
+          "exampleSourceURL": null,
+          "credit": "原词库教学例句",
+          "exampleOrigin": "original",
+          "translationOrigin": "原词库中文解释"
+        }
+      ],
+      "history": [
+        {
+          "lemma": "agenda",
+          "summary": "agenda来自拉丁语表示待办之事的复数形式。17世纪中叶早期英语用例带有神学背景；Etymonline记录，表示会议上待处理事项的现代用法到1882年已出现。",
+          "url": "https://www.etymonline.com/word/agenda",
+          "scope": "whole_entry",
+          "artifactPath": "local-evidence/basic100/ety-1.txt",
+          "rawSHA": "5b1ee941dca39db5683f58bc83e12155c7b6ee62a82c118972433415eb83faf1",
+          "textSHA": "4c11de34685fec9282ec504fdff473e3fd910205ccb20688a3508fd7dc88da8b",
+          "retrievedAt": "2026-11-16T17:42:32.868Z",
+          "transport": "web_tool_snapshot",
+          "coverage": "entry_section"
+        }
+      ],
+      "meaning": "议程",
+      "editorial": {
+        "executor": "current_assistant",
+        "version": "basic-100-20261117",
+        "sourceEnglishUnchanged": true
+      }
+    },
+    "V20261012-042": {
+      "sourceInputHash": "beaf7626c7e1556a19012de579a9b12d6364c217b55341e99a061507134699a6",
+      "cambridge": {
+        "url": "https://dictionary.cambridge.org/dictionary/english/context",
+        "sourceHash": "71aa9bd3b32402a789e4fbf7c36d4643c2ae0de5dfb3b45277976e29eca42aa9",
+        "retrievedAt": "2026-11-16T17:41:51.474Z",
+        "candidateId": "entry-0/sense-0",
+        "definitionEn": "the situation within which something exists or happens, and that can help explain it:"
+      },
+      "learning": [
+        {
+          "title": "事情存在或发生的背景情况",
+          "en": "the situation within which something exists or happens, and that can help explain it:",
+          "meta": "noun · B2",
+          "example": "The chart needs more context.",
+          "zh": "这张图需要更多背景信息。",
+          "definitionSourceURL": "https://dictionary.cambridge.org/dictionary/english/context",
+          "exampleSourceURL": null,
+          "credit": "原词库教学例句",
+          "exampleOrigin": "original",
+          "translationOrigin": "原词库中文解释"
+        }
+      ],
+      "history": [
+        {
+          "lemma": "context",
+          "summary": "context在15世纪初可指一整篇文字或编纂文本。拉丁语来源含有连接、交织的意思；到16世纪，英语中发展出某段话前后相连的文字这一用法，也就是上下文。",
+          "url": "https://www.etymonline.com/word/context",
+          "scope": "whole_entry",
+          "artifactPath": "local-evidence/basic100/ety-2.txt",
+          "rawSHA": "44c5f10e5f48f6e95ad7a468d78d9b60cde46ca94b7f46328cf8ff09bf5e4904",
+          "textSHA": "40bd0b58ca50d0a66ddd36f383a64d3be117eda5bfba3e1d56194fa532b3fb8c",
+          "retrievedAt": "2026-11-16T17:43:01.826Z",
+          "transport": "web_tool_snapshot",
+          "coverage": "entry_section"
+        }
+      ],
+      "meaning": "背景",
+      "editorial": {
+        "executor": "current_assistant",
+        "version": "basic-100-20261117",
+        "sourceEnglishUnchanged": true
+      }
+    },
+    "V20261012-043": {
+      "sourceInputHash": "6bfd058142af378083a98f6903675393c3bb25012a9cf0c291c21e056369cd2c",
+      "cambridge": {
+        "url": "https://dictionary.cambridge.org/dictionary/english/clarify",
+        "sourceHash": "b566c8335df2d7b185d57b3f106dcd4f0e12e7e98e07e533d0d0b8ca9f9f5ab7",
+        "retrievedAt": "2026-11-16T17:41:51.509Z",
+        "candidateId": "entry-0/sense-0",
+        "definitionEn": "to make something clear or easier to understand by giving more details or a simpler explanation:"
+      },
+      "learning": [
+        {
+          "title": "通过细节或解释使事情更清楚",
+          "en": "to make something clear or easier to understand by giving more details or a simpler explanation:",
+          "meta": "verb · C1",
+          "example": "Please clarify the payment terms.",
+          "zh": "请澄清付款条件。",
+          "definitionSourceURL": "https://dictionary.cambridge.org/dictionary/english/clarify",
+          "exampleSourceURL": null,
+          "credit": "原词库教学例句",
+          "exampleOrigin": "original",
+          "translationOrigin": "原词库中文解释"
+        }
+      ],
+      "history": [
+        {
+          "lemma": "clarify",
+          "summary": "clarify来自法语及拉丁语中使之清楚、明亮的构词。英语早期也有彰显、使知晓等现已不用的意义，后来用于澄清液体；使表达容易理解的比喻义另有较晚记录。",
+          "url": "https://www.etymonline.com/word/clarify",
+          "scope": "whole_entry",
+          "artifactPath": "local-evidence/basic100/ety-2.txt",
+          "rawSHA": "44c5f10e5f48f6e95ad7a468d78d9b60cde46ca94b7f46328cf8ff09bf5e4904",
+          "textSHA": "01ff2807a034a0e2b6e4b5fd13d33fa6b19a23d8e9143b42aabb90855beda503",
+          "retrievedAt": "2026-11-16T17:43:01.826Z",
+          "transport": "web_tool_snapshot",
+          "coverage": "entry_section"
+        }
+      ],
+      "meaning": "澄清",
+      "editorial": {
+        "executor": "current_assistant",
+        "version": "basic-100-20261117",
+        "sourceEnglishUnchanged": true
+      }
+    },
+    "V20261012-044": {
+      "sourceInputHash": "216f253f8acb822c430d2510ade6d2748fa18b4be9b81998abf44505266c0ad0",
+      "cambridge": {
+        "url": "https://dictionary.cambridge.org/dictionary/english/confirm",
+        "sourceHash": "26d5bd6f250edf8adeba7d38d59cc59cec9a0ed05018c38be8d3fed2b4123fcc",
+        "retrievedAt": "2026-11-16T17:41:51.690Z",
+        "candidateId": "entry-1/sense-2",
+        "definitionEn": "to prove or state the truth of something that was previously not completely certain:"
+      },
+      "learning": [
+        {
+          "title": "证实；确认原先尚不确定的事情",
+          "en": "to prove or state the truth of something that was previously not completely certain:",
+          "meta": "verb",
+          "example": "Confirm the quantity before ordering.",
+          "zh": "下单前确认数量。",
+          "definitionSourceURL": "https://dictionary.cambridge.org/dictionary/english/confirm",
+          "exampleSourceURL": null,
+          "credit": "原词库教学例句",
+          "exampleOrigin": "original",
+          "translationOrigin": "原词库中文解释"
+        }
+      ],
+      "history": [
+        {
+          "lemma": "confirm",
+          "summary": "confirm在13世纪中叶已用于批准、使法律行为有效，拉丁语来源的核心是使牢固、加强。随后出现加强和使事情确定、核实真实性的用法，体现从牢固到确认的语义发展。",
+          "url": "https://www.etymonline.com/word/confirm",
+          "scope": "whole_entry",
+          "artifactPath": "local-evidence/basic100/ety-2.txt",
+          "rawSHA": "44c5f10e5f48f6e95ad7a468d78d9b60cde46ca94b7f46328cf8ff09bf5e4904",
+          "textSHA": "8cd753ff34f8ebf49a0c826e6c58a85b2f7a12f1b8ba044097ee52174a6ab445",
+          "retrievedAt": "2026-11-16T17:43:01.826Z",
+          "transport": "web_tool_snapshot",
+          "coverage": "entry_section"
+        }
+      ],
+      "meaning": "确认",
+      "editorial": {
+        "executor": "current_assistant",
+        "version": "basic-100-20261117",
+        "sourceEnglishUnchanged": true
+      }
+    },
+    "V20261012-045": {
+      "sourceInputHash": "5257e1e19aff65b92b0f5c781b743a39fe6c6cd1949fadb7827bfb5836336ea6",
+      "cambridge": {
+        "url": "https://dictionary.cambridge.org/dictionary/english/specify",
+        "sourceHash": "8fe1ef43253822deb0a9691f647f584be4ee3399bb2e93a666f4a10cccc19150",
+        "retrievedAt": "2026-11-16T17:41:51.931Z",
+        "candidateId": "entry-0/sense-0",
+        "definitionEn": "to explain or describe something clearly and exactly:"
+      },
+      "learning": [
+        {
+          "title": "清楚且准确地说明",
+          "en": "to explain or describe something clearly and exactly:",
+          "meta": "verb · B2",
+          "example": "The contract specifies delivery dates.",
+          "zh": "合同明确规定交货日期。",
+          "definitionSourceURL": "https://dictionary.cambridge.org/dictionary/english/specify",
+          "exampleSourceURL": null,
+          "credit": "原词库教学例句",
+          "exampleOrigin": "original",
+          "translationOrigin": "原词库中文解释"
+        }
+      ],
+      "history": [
+        {
+          "lemma": "specify",
+          "summary": "specify在14世纪初已有说清楚、表达的用法，随后用于明确点名某人或某物。它经法语和晚期拉丁语进入英语，与表示具体、特定的specific属于同一词族。",
+          "url": "https://www.etymonline.com/word/specify",
+          "scope": "whole_entry",
+          "artifactPath": "local-evidence/basic100/ety-2.txt",
+          "rawSHA": "44c5f10e5f48f6e95ad7a468d78d9b60cde46ca94b7f46328cf8ff09bf5e4904",
+          "textSHA": "ca569a82ae688de7550175d4a7879efae81b52d627846baa2bfff800417d9e0b",
+          "retrievedAt": "2026-11-16T17:43:01.826Z",
+          "transport": "web_tool_snapshot",
+          "coverage": "entry_section"
+        }
+      ],
+      "meaning": "明确说明",
+      "editorial": {
+        "executor": "current_assistant",
+        "version": "basic-100-20261117",
+        "sourceEnglishUnchanged": true
+      }
+    },
+    "V20261012-046": {
+      "sourceInputHash": "9f4f71ca53e761743300aaeea3c5ea9ff74efa16d02cd1177c40ee71be7f2f76",
+      "cambridge": {
+        "url": "https://dictionary.cambridge.org/dictionary/english/elaborate",
+        "sourceHash": "4041cd0333e1c2d58e0bccbfe54813512f1d17c0db80b7870abdcd6443c44f11",
+        "retrievedAt": "2026-11-16T17:41:52.043Z",
+        "candidateId": "entry-1/sense-0",
+        "definitionEn": "to add more information to or explain something that you have said:"
+      },
+      "learning": [
+        {
+          "title": "进一步补充信息或详细解释",
+          "en": "to add more information to or explain something that you have said:",
+          "meta": "verb",
+          "example": "Could you elaborate on that risk?",
+          "zh": "你能详细说明那项风险吗？",
+          "definitionSourceURL": "https://dictionary.cambridge.org/dictionary/english/elaborate",
+          "exampleSourceURL": null,
+          "credit": "原词库教学例句",
+          "exampleOrigin": "original",
+          "translationOrigin": "原词库中文解释"
+        }
+      ],
+      "history": [
+        {
+          "lemma": "elaborate",
+          "summary": "elaborate的形容词早期表示经过劳动精制，继而指制作细致、内容详尽。动词约1600年已有记录，17世纪初用于细致展开或加工；其拉丁语来源与付出努力、做出成果有关。",
+          "url": "https://www.etymonline.com/word/elaborate",
+          "scope": "whole_entry",
+          "artifactPath": "local-evidence/basic100/ety-2.txt",
+          "rawSHA": "44c5f10e5f48f6e95ad7a468d78d9b60cde46ca94b7f46328cf8ff09bf5e4904",
+          "textSHA": "90077531bb333ac27491493579aeb01b92294afe246c0be8a2e37da49e50f806",
+          "retrievedAt": "2026-11-16T17:43:01.826Z",
+          "transport": "web_tool_snapshot",
+          "coverage": "entry_section"
+        }
+      ],
+      "meaning": "详细说明",
+      "editorial": {
+        "executor": "current_assistant",
+        "version": "basic-100-20261117",
+        "sourceEnglishUnchanged": true
+      }
+    },
+    "V20261012-047": {
+      "sourceInputHash": "f5749e25742d0699dd0718c7cc5bfbcdd1b06385b95d7740c31c3760969a1c55",
+      "cambridge": {
+        "url": "https://dictionary.cambridge.org/dictionary/english/summarize",
+        "sourceHash": "112d7f2d7cc7cad028e41d1e2c399e63a4a945cfb24847254afc48d56d1cd9e2",
+        "retrievedAt": "2026-11-16T17:41:52.120Z",
+        "candidateId": "entry-1/sense-0",
+        "definitionEn": "to provide a clear statement of the important points:"
+      },
+      "learning": [
+        {
+          "title": "清楚概述主要要点",
+          "en": "to provide a clear statement of the important points:",
+          "meta": "verb",
+          "example": "Summarize the findings in one paragraph.",
+          "zh": "用一段话概括调查结果。",
+          "definitionSourceURL": "https://dictionary.cambridge.org/dictionary/english/summarize",
+          "exampleSourceURL": null,
+          "credit": "原词库教学例句",
+          "exampleOrigin": "original",
+          "translationOrigin": "原词库中文解释"
+        }
+      ],
+      "history": [
+        {
+          "lemma": "summarize",
+          "summary": "summarize由summary加动词后缀-ize构成。Etymonline将1837年的美式英语记录列为早期用例，意思是把内容作成概要、以简短形式陈述要点。",
+          "url": "https://www.etymonline.com/word/summarize",
+          "scope": "whole_entry",
+          "artifactPath": "local-evidence/basic100/ety-3.txt",
+          "rawSHA": "01b81e969e3900e5ede68e76e87c435084453f06f30ab3e3022845de25f6627f",
+          "textSHA": "c4ad5fcbc63c12545f0cf351a6688ab304d0e9a0100ee68204e0a1f34ebf9585",
+          "retrievedAt": "2026-11-16T17:43:01.805Z",
+          "transport": "web_tool_snapshot",
+          "coverage": "entry_section"
+        }
+      ],
+      "meaning": "概括",
+      "editorial": {
+        "executor": "current_assistant",
+        "version": "basic-100-20261117",
+        "sourceEnglishUnchanged": true
+      }
+    },
+    "V20261012-048": {
+      "sourceInputHash": "b104db1293c941b14521c7698c1256284e29abb0b45364d55107ae9805081bbd",
+      "cambridge": {
+        "url": "https://dictionary.cambridge.org/dictionary/english/recap",
+        "sourceHash": "36abfc82339655f0bd52caf98dda567b861a4c41b06c90bd34a3431ba3b04424",
+        "retrievedAt": "2026-11-16T17:41:52.377Z",
+        "candidateId": "entry-0/sense-0",
+        "definitionEn": "to repeat the main points of an explanation or a description:"
+      },
+      "learning": [
+        {
+          "title": "简要重复主要内容",
+          "en": "to repeat the main points of an explanation or a description:",
+          "meta": "verb",
+          "example": "Let's recap yesterday's decisions.",
+          "zh": "我们来简要回顾昨天的决定。",
+          "definitionSourceURL": "https://dictionary.cambridge.org/dictionary/english/recap",
+          "exampleSourceURL": null,
+          "credit": "原词库教学例句",
+          "exampleOrigin": "original",
+          "translationOrigin": "原词库中文解释"
+        }
+      ],
+      "history": [
+        {
+          "lemma": "recap",
+          "summary": "recap存在不同构词来源：重新加盖的意义由re-和cap组成，早期也用于给轮胎翻新。表示概括、回顾时则是recapitulate的缩略形式，词条记录这一缩略用法到1907年已出现。",
+          "url": "https://www.etymonline.com/word/recap",
+          "scope": "whole_entry",
+          "artifactPath": "local-evidence/basic100/ety-3.txt",
+          "rawSHA": "01b81e969e3900e5ede68e76e87c435084453f06f30ab3e3022845de25f6627f",
+          "textSHA": "055ea49c1cf48f672677356228952a59940562529e3352c8292fc0a9514513bc",
+          "retrievedAt": "2026-11-16T17:43:01.805Z",
+          "transport": "web_tool_snapshot",
+          "coverage": "entry_section"
+        }
+      ],
+      "meaning": "简要回顾",
+      "editorial": {
+        "executor": "current_assistant",
+        "version": "basic-100-20261117",
+        "sourceEnglishUnchanged": true
+      }
+    },
+    "V20261012-049": {
+      "sourceInputHash": "b16f8b37b308860fc5462f1591c243b344345df553aafe5c4011a3caee4c4859",
+      "cambridge": {
+        "url": "https://dictionary.cambridge.org/dictionary/english/align",
+        "sourceHash": "3c7c6d99399d92bbc4d188aaf018cc0173c49bb3988ad34027204cd8a66fceda",
+        "retrievedAt": "2026-11-16T17:41:52.556Z",
+        "candidateId": "entry-0/sense-1",
+        "definitionEn": "to be the same or similar, or to agree with each other; to make two things do this:"
+      },
+      "learning": [
+        {
+          "title": "彼此一致；使相互协调",
+          "en": "to be the same or similar, or to agree with each other; to make two things do this:",
+          "meta": "verb",
+          "example": "Align the forecast with actual orders.",
+          "zh": "使预测与实际订单相符。",
+          "definitionSourceURL": "https://dictionary.cambridge.org/dictionary/english/align",
+          "exampleSourceURL": null,
+          "credit": "原词库教学例句",
+          "exampleOrigin": "original",
+          "translationOrigin": "原词库中文解释"
+        }
+      ],
+      "history": [
+        {
+          "lemma": "align",
+          "summary": "align的法语来源原本表示把东西排成一条线，核心词根与line有关。英语后来用于归入同一阵线；国际政治中的结盟或立场一致用法，词条记录于20世纪。",
+          "url": "https://www.etymonline.com/word/align",
+          "scope": "whole_entry",
+          "artifactPath": "local-evidence/basic100/ety-3.txt",
+          "rawSHA": "01b81e969e3900e5ede68e76e87c435084453f06f30ab3e3022845de25f6627f",
+          "textSHA": "33efa4aeafb229c409f0153fdd4673d24c0ffc683c3cabf2a0b12ed853ec3da8",
+          "retrievedAt": "2026-11-16T17:43:01.805Z",
+          "transport": "web_tool_snapshot",
+          "coverage": "entry_section"
+        }
+      ],
+      "meaning": "使一致；协调",
+      "editorial": {
+        "executor": "current_assistant",
+        "version": "basic-100-20261117",
+        "sourceEnglishUnchanged": true
+      }
+    },
+    "V20261012-050": {
+      "sourceInputHash": "57e7ec10af68b396e9d6d4245974ec56ff6701175eb04cc2eddedddc36a61aeb",
+      "cambridge": {
+        "url": "https://dictionary.cambridge.org/dictionary/english/consensus",
+        "sourceHash": "b5a83413bb8cd77daa7888145351830561321c0412d43f6a75bf03f1f3882b7f",
+        "retrievedAt": "2026-11-16T17:41:52.634Z",
+        "candidateId": "entry-0/sense-0",
+        "definitionEn": "a generally accepted opinion or decision among a group of people:"
+      },
+      "learning": [
+        {
+          "title": "群体普遍接受的意见或决定",
+          "en": "a generally accepted opinion or decision among a group of people:",
+          "meta": "noun · C2",
+          "example": "There is no consensus on pricing.",
+          "zh": "定价问题尚无共识。",
+          "definitionSourceURL": "https://dictionary.cambridge.org/dictionary/english/consensus",
+          "exampleSourceURL": null,
+          "credit": "原词库教学例句",
+          "exampleOrigin": "original",
+          "translationOrigin": "原词库中文解释"
+        }
+      ],
+      "history": [
+        {
+          "lemma": "consensus",
+          "summary": "consensus来自拉丁语中共同感受、意见相合的表达。19世纪中叶的早期记录用于生理学，描述各部分协调；随后明确用于人们在意见上的普遍一致。",
+          "url": "https://www.etymonline.com/word/consensus",
+          "scope": "whole_entry",
+          "artifactPath": "local-evidence/basic100/ety-3.txt",
+          "rawSHA": "01b81e969e3900e5ede68e76e87c435084453f06f30ab3e3022845de25f6627f",
+          "textSHA": "29ccf4739bef8df84015254925bf7ade9a3fc521c7f1f6bc19af1a39ffad5f72",
+          "retrievedAt": "2026-11-16T17:43:01.805Z",
+          "transport": "web_tool_snapshot",
+          "coverage": "entry_section"
+        }
+      ],
+      "meaning": "共识",
+      "editorial": {
+        "executor": "current_assistant",
+        "version": "basic-100-20261117",
+        "sourceEnglishUnchanged": true
+      }
+    },
+    "V20261012-051": {
+      "sourceInputHash": "2ddc6d55a9c562524bfe255370380bd851d2e9f2d073a696d409bbc1ed1a12b9",
+      "cambridge": {
+        "url": "https://dictionary.cambridge.org/dictionary/english/concern",
+        "sourceHash": "7207b5c1d43781cfec2f37d60868409f5c52572b6fdc131dd1c237148c16fcd7",
+        "retrievedAt": "2026-11-16T17:41:52.855Z",
+        "candidateId": "entry-1/sense-0",
+        "definitionEn": "a worried or nervous feeling about something, or something that makes you feel worried:"
+      },
+      "learning": [
+        {
+          "title": "担忧；引起担忧的事情",
+          "en": "a worried or nervous feeling about something, or something that makes you feel worried:",
+          "meta": "noun · B2",
+          "example": "Her concern about safety was valid.",
+          "zh": "她对安全的担忧有道理。",
+          "definitionSourceURL": "https://dictionary.cambridge.org/dictionary/english/concern",
+          "exampleSourceURL": null,
+          "credit": "原词库教学例句",
+          "exampleOrigin": "original",
+          "translationOrigin": "原词库中文解释"
+        }
+      ],
+      "history": [
+        {
+          "lemma": "concern",
+          "summary": "concern的动词在15世纪已有涉及、关联的意思，后来发展出影响利益、使人忧虑的用法。名词形成较晚，可表示与某人相关的事、关切，也曾发展出商业机构这一不同用法。",
+          "url": "https://www.etymonline.com/word/concern",
+          "scope": "whole_entry",
+          "artifactPath": "local-evidence/basic100/ety-3.txt",
+          "rawSHA": "01b81e969e3900e5ede68e76e87c435084453f06f30ab3e3022845de25f6627f",
+          "textSHA": "73bc6130ddb4bf53f7f889f9a2e026657a3a3cc0170da92a4053e3141f745b37",
+          "retrievedAt": "2026-11-16T17:43:01.805Z",
+          "transport": "web_tool_snapshot",
+          "coverage": "entry_section"
+        }
+      ],
+      "meaning": "担忧；关注事项",
+      "editorial": {
+        "executor": "current_assistant",
+        "version": "basic-100-20261117",
+        "sourceEnglishUnchanged": true
+      }
+    },
+    "V20261012-052": {
+      "sourceInputHash": "3df6dc794ffdbf83b1a558c17d2fcbd8345669adaa02167bdec3a387a84f8a1a",
+      "cambridge": {
+        "url": "https://dictionary.cambridge.org/dictionary/english/objection",
+        "sourceHash": "7a9da321cbdc0ec1bd6603b3bffe809746a2931a72235f24af65df1c1fc2fadf",
+        "retrievedAt": "2026-11-16T17:41:53.020Z",
+        "candidateId": "entry-1/sense-0",
+        "definitionEn": "a feeling or expression of opposition, dislike, or disapproval:"
+      },
+      "learning": [
+        {
+          "title": "反对或不赞同的表达",
+          "en": "a feeling or expression of opposition, dislike, or disapproval:",
+          "meta": "noun",
+          "example": "The supplier raised an objection.",
+          "zh": "供应商提出了反对意见。",
+          "definitionSourceURL": "https://dictionary.cambridge.org/dictionary/english/objection",
+          "exampleSourceURL": null,
+          "credit": "原词库教学例句",
+          "exampleOrigin": "original",
+          "translationOrigin": "原词库中文解释"
+        }
+      ],
+      "history": [
+        {
+          "lemma": "objection",
+          "summary": "objection在14世纪末已有反驳某个命题或推理的意思。它经法语上溯拉丁语中提出、置于面前及反对的构词，因此早期就与论辩中的反对意见有关。",
+          "url": "https://www.etymonline.com/word/objection",
+          "scope": "whole_entry",
+          "artifactPath": "local-evidence/basic100/ety-4.txt",
+          "rawSHA": "39c6d7fdc08181f5d080e78687d92a044c35839ac33a6a27d50f7f54daf88b10",
+          "textSHA": "05d8e3e617576a5771aca1da35ba7d3eaaba251d9d414602f8cd5d21c8633a48",
+          "retrievedAt": "2026-11-16T17:43:02.427Z",
+          "transport": "web_tool_snapshot",
+          "coverage": "entry_section"
+        }
+      ],
+      "meaning": "反对意见",
+      "editorial": {
+        "executor": "current_assistant",
+        "version": "basic-100-20261117",
+        "sourceEnglishUnchanged": true
+      }
+    },
+    "V20261012-054": {
+      "sourceInputHash": "dfb572eedd913cac5962487257f6a2c4456625115cf2b3f9a70df78547dbdf8e",
+      "cambridge": {
+        "url": "https://dictionary.cambridge.org/dictionary/english/rationale",
+        "sourceHash": "4b334bdf4a6548e480e9e35cd92764702e5314223c9aaa37721e1061b4af3d63",
+        "retrievedAt": "2026-11-16T17:41:53.012Z",
+        "candidateId": "entry-0/sense-0",
+        "definitionEn": "the reasons or intentions that cause a particular set of beliefs or actions:"
+      },
+      "learning": [
+        {
+          "title": "某种信念或行动背后的理由",
+          "en": "the reasons or intentions that cause a particular set of beliefs or actions:",
+          "meta": "noun",
+          "example": "Record the rationale for each exception.",
+          "zh": "记录每项例外的理由。",
+          "definitionSourceURL": "https://dictionary.cambridge.org/dictionary/english/rationale",
+          "exampleSourceURL": null,
+          "credit": "原词库教学例句",
+          "exampleOrigin": "original",
+          "translationOrigin": "原词库中文解释"
+        }
+      ],
+      "history": [
+        {
+          "lemma": "rationale",
+          "summary": "rationale在17世纪中叶用于阐明原理，来自与理性、理由有关的拉丁语词形。随后扩展为某件事的根本理由、合理依据或动机。",
+          "url": "https://www.etymonline.com/word/rationale",
+          "scope": "whole_entry",
+          "artifactPath": "local-evidence/basic100/ety-4.txt",
+          "rawSHA": "39c6d7fdc08181f5d080e78687d92a044c35839ac33a6a27d50f7f54daf88b10",
+          "textSHA": "1afd8ffe2f2dbb54a12fc2d906dd9cb197e2bf95f4cf16f536118b361e6ea28b",
+          "retrievedAt": "2026-11-16T17:43:02.427Z",
+          "transport": "web_tool_snapshot",
+          "coverage": "entry_section"
+        }
+      ],
+      "meaning": "理由；依据",
+      "editorial": {
+        "executor": "current_assistant",
+        "version": "basic-100-20261117",
+        "sourceEnglishUnchanged": true
+      }
+    },
+    "V20261012-055": {
+      "sourceInputHash": "f5571bf5ced362a22b6663ddee64cd9f00b40f74d3f379504942fe5db69bc01e",
+      "cambridge": {
+        "url": "https://dictionary.cambridge.org/dictionary/english/proposal",
+        "sourceHash": "1752872304c66b0d329bd313f75c425cbb001b22afdf773d43050b173b4df942",
+        "retrievedAt": "2026-11-16T17:41:53.330Z",
+        "candidateId": "entry-0/sense-0",
+        "definitionEn": "a suggestion, sometimes a written one:"
+      },
+      "learning": [
+        {
+          "title": "提出供考虑的建议",
+          "en": "a suggestion, sometimes a written one:",
+          "meta": "noun · B2",
+          "example": "The proposal includes a training budget.",
+          "zh": "提案包含培训预算。",
+          "definitionSourceURL": "https://dictionary.cambridge.org/dictionary/english/proposal",
+          "exampleSourceURL": null,
+          "credit": "原词库教学例句",
+          "exampleOrigin": "original",
+          "translationOrigin": "原词库中文解释"
+        }
+      ],
+      "history": [
+        {
+          "lemma": "proposal",
+          "summary": "proposal由propose加名词后缀-al构成，17世纪中叶用于提出供接受的计划或方案。表示求婚提议的专门用法也有较晚的独立记录，不是这个词唯一的含义。",
+          "url": "https://www.etymonline.com/word/proposal",
+          "scope": "whole_entry",
+          "artifactPath": "local-evidence/basic100/ety-4.txt",
+          "rawSHA": "39c6d7fdc08181f5d080e78687d92a044c35839ac33a6a27d50f7f54daf88b10",
+          "textSHA": "df45768c12bb169c61e2b43d3c777147e0622f3c2d555495a85c57366eebf373",
+          "retrievedAt": "2026-11-16T17:43:02.427Z",
+          "transport": "web_tool_snapshot",
+          "coverage": "entry_section"
+        }
+      ],
+      "meaning": "提案；建议方案",
+      "editorial": {
+        "executor": "current_assistant",
+        "version": "basic-100-20261117",
+        "sourceEnglishUnchanged": true
+      }
+    },
+    "V20261012-056": {
+      "sourceInputHash": "9edc215e7a93651e5f4062463cdf5132ec3dd62d1cc36dda594d8f0944fc4e57",
+      "cambridge": {
+        "url": "https://dictionary.cambridge.org/dictionary/english/alternative",
+        "sourceHash": "32d76dfa7fbbe5e96ebd8bd11b906ea37113c798a5c5c8d8254804f593fa586d",
+        "retrievedAt": "2026-11-16T17:41:53.420Z",
+        "candidateId": "entry-2/sense-0",
+        "definitionEn": "something that is different, esp. from what is usual; a choice:"
+      },
+      "learning": [
+        {
+          "title": "另一种可选择的办法或事物",
+          "en": "something that is different, esp. from what is usual; a choice:",
+          "meta": "noun",
+          "example": "We need a cheaper alternative.",
+          "zh": "我们需要一个成本更低的替代方案。",
+          "definitionSourceURL": "https://dictionary.cambridge.org/dictionary/english/alternative",
+          "exampleSourceURL": null,
+          "credit": "原词库教学例句",
+          "exampleOrigin": "original",
+          "translationOrigin": "原词库中文解释"
+        }
+      ],
+      "history": [
+        {
+          "lemma": "alternative",
+          "summary": "alternative的来源与轮流、一个接一个的拉丁语词族有关。形容词在16世纪末可表示两者择一，名词随后用于相互排斥的命题；19世纪逐渐出现行动方案和可选对象等用法。",
+          "url": "https://www.etymonline.com/word/alternative",
+          "scope": "whole_entry",
+          "artifactPath": "local-evidence/basic100/ety-4.txt",
+          "rawSHA": "39c6d7fdc08181f5d080e78687d92a044c35839ac33a6a27d50f7f54daf88b10",
+          "textSHA": "809d1c9008008f33f472f651e390c7b4885de2dc622437c8080fc08ac67c26d4",
+          "retrievedAt": "2026-11-16T17:43:02.427Z",
+          "transport": "web_tool_snapshot",
+          "coverage": "entry_section"
+        }
+      ],
+      "meaning": "替代方案",
+      "editorial": {
+        "executor": "current_assistant",
+        "version": "basic-100-20261117",
+        "sourceEnglishUnchanged": true
+      }
+    },
+    "V20261012-057": {
+      "sourceInputHash": "6e9168caedca79fb8aaa74d10e8ae9af03bff19fb0995eadc70d69737325d76d",
+      "cambridge": {
+        "url": "https://dictionary.cambridge.org/dictionary/english/compromise",
+        "sourceHash": "e3c2c0d47ab185eed8d43251ace8a068c857e73d81cd3a7b9fcbb813b9a7f2e2",
+        "retrievedAt": "2026-11-16T17:41:53.575Z",
+        "candidateId": "entry-0/sense-0",
+        "definitionEn": "an agreement in an argument in which the people involved reduce their demands or change their opinion in order to agree:"
+      },
+      "learning": [
+        {
+          "title": "通过双方让步达成的协议",
+          "en": "an agreement in an argument in which the people involved reduce their demands or change their opinion in order to agree:",
+          "meta": "noun · B2",
+          "example": "The compromise satisfied both departments.",
+          "zh": "折中方案让两个部门都满意。",
+          "definitionSourceURL": "https://dictionary.cambridge.org/dictionary/english/compromise",
+          "exampleSourceURL": null,
+          "credit": "原词库教学例句",
+          "exampleOrigin": "original",
+          "translationOrigin": "原词库中文解释"
+        }
+      ],
+      "history": [
+        {
+          "lemma": "compromise",
+          "summary": "compromise在15世纪初原指双方共同承诺接受仲裁结果。随后意义扩展到以相互让步解决分歧，以及由此达成的协议；动词另有使声誉或安全受损的不同发展。",
+          "url": "https://www.etymonline.com/word/compromise",
+          "scope": "whole_entry",
+          "artifactPath": "local-evidence/basic100/ety-4.txt",
+          "rawSHA": "39c6d7fdc08181f5d080e78687d92a044c35839ac33a6a27d50f7f54daf88b10",
+          "textSHA": "d83394f8da7a9ad7588579c57864edd41818ffdc68b737eb8bfda9a74d7266b5",
+          "retrievedAt": "2026-11-16T17:43:02.427Z",
+          "transport": "web_tool_snapshot",
+          "coverage": "entry_section"
+        }
+      ],
+      "meaning": "妥协；折中方案",
+      "editorial": {
+        "executor": "current_assistant",
+        "version": "basic-100-20261117",
+        "sourceEnglishUnchanged": true
+      }
+    },
+    "V20261012-058": {
+      "sourceInputHash": "0d9d0a4aba192313579b3ace2f4a770097303f2323e697144cdda48eec5f9a76",
+      "cambridge": {
+        "url": "https://dictionary.cambridge.org/dictionary/english/negotiate",
+        "sourceHash": "98bb64b5b5122db0317f966ce00d9b4676f44b2cf68e31099b6c3691cd9b81e2",
+        "retrievedAt": "2026-11-16T17:41:53.839Z",
+        "candidateId": "entry-0/sense-0",
+        "definitionEn": "to have formal discussions with someone in order to reach an agreement with them:"
+      },
+      "learning": [
+        {
+          "title": "通过正式讨论寻求协议",
+          "en": "to have formal discussions with someone in order to reach an agreement with them:",
+          "meta": "verb · C1",
+          "example": "They negotiated a longer warranty.",
+          "zh": "他们谈妥了更长的保修期。",
+          "definitionSourceURL": "https://dictionary.cambridge.org/dictionary/english/negotiate",
+          "exampleSourceURL": null,
+          "credit": "原词库教学例句",
+          "exampleOrigin": "original",
+          "translationOrigin": "原词库中文解释"
+        }
+      ],
+      "history": [
+        {
+          "lemma": "negotiate",
+          "summary": "negotiate在16世纪末已用于为取得共同协议而沟通。其拉丁语来源与经商、处理事务有关；更晚出现成功应付困难或通过障碍等扩展用法。",
+          "url": "https://www.etymonline.com/word/negotiate",
+          "scope": "whole_entry",
+          "artifactPath": "local-evidence/basic100/ety-5.txt",
+          "rawSHA": "5c6b44c2e925654d03e7fb2eefefa3ad737398d30d09f14e683779aea6aa92d3",
+          "textSHA": "013594046ebb0e9db076c2ff42178af7d973419ae2eeaf1460a7280e5c7075a6",
+          "retrievedAt": "2026-11-16T17:43:18.836Z",
+          "transport": "web_tool_snapshot",
+          "coverage": "entry_section"
+        }
+      ],
+      "meaning": "协商；谈判",
+      "editorial": {
+        "executor": "current_assistant",
+        "version": "basic-100-20261117",
+        "sourceEnglishUnchanged": true
+      }
+    },
+    "V20261012-059": {
+      "sourceInputHash": "86f0502ee5f83e1f79a69c5592fbdaca8655d80d4fec7b4c2ee9d3fa642f0b6c",
+      "cambridge": {
+        "url": "https://dictionary.cambridge.org/dictionary/english/conclude",
+        "sourceHash": "9a6c09fb7326286a3dd2c9f316faf05576a792691ba56dd818a0a51cc9765d12",
+        "retrievedAt": "2026-11-16T17:41:53.886Z",
+        "candidateId": "entry-0/sense-0",
+        "definitionEn": "to end a speech, meeting, or piece of writing:"
+      },
+      "learning": [
+        {
+          "title": "结束讲话、会议或文字",
+          "en": "to end a speech, meeting, or piece of writing:",
+          "meta": "verb · C1",
+          "example": "We concluded that repairs were necessary.",
+          "zh": "我们得出结论，维修是必要的。",
+          "definitionSourceURL": "https://dictionary.cambridge.org/dictionary/english/conclude",
+          "exampleSourceURL": null,
+          "credit": "原词库教学例句",
+          "exampleOrigin": "original",
+          "translationOrigin": "原词库中文解释"
+        }
+      ],
+      "history": [
+        {
+          "lemma": "conclude",
+          "summary": "conclude的拉丁语来源含有关闭、围合的意思。英语中早期与结束争论有关，14世纪末已有推断、作出判断，以及使事情终结的用法，因而“得出结论”和“结束”都很早。",
+          "url": "https://www.etymonline.com/word/conclude",
+          "scope": "whole_entry",
+          "artifactPath": "local-evidence/basic100/ety-5.txt",
+          "rawSHA": "5c6b44c2e925654d03e7fb2eefefa3ad737398d30d09f14e683779aea6aa92d3",
+          "textSHA": "35ef6f8245dd18592b5bf5fac102cb6b00c7b2cb98cf0d1ae092e983f6eb6741",
+          "retrievedAt": "2026-11-16T17:43:18.836Z",
+          "transport": "web_tool_snapshot",
+          "coverage": "entry_section"
+        }
+      ],
+      "meaning": "结束；得出结论",
+      "editorial": {
+        "executor": "current_assistant",
+        "version": "basic-100-20261117",
+        "sourceEnglishUnchanged": true
+      }
+    },
+    "V20261012-060": {
+      "sourceInputHash": "54d4f2076268c6d5b74525d12d4b74dcd9155efca6a747ed2667c997696bcf06",
+      "cambridge": {
+        "url": "https://dictionary.cambridge.org/dictionary/english/document",
+        "sourceHash": "bf9b49d6f04d3401f5d5377605593492f8f2e932dffd2ac60cc226cc195760f0",
+        "retrievedAt": "2026-11-16T17:41:54.112Z",
+        "candidateId": "entry-1/sense-0",
+        "definitionEn": "to record the details of an event, a process, etc.:"
+      },
+      "learning": [
+        {
+          "title": "记录事件或过程的细节",
+          "en": "to record the details of an event, a process, etc.:",
+          "meta": "verb",
+          "example": "Document every approved design change.",
+          "zh": "记录每项获批的设计变更。",
+          "definitionSourceURL": "https://dictionary.cambridge.org/dictionary/english/document",
+          "exampleSourceURL": null,
+          "credit": "原词库教学例句",
+          "exampleOrigin": "original",
+          "translationOrigin": "原词库中文解释"
+        }
+      ],
+      "history": [
+        {
+          "lemma": "document",
+          "summary": "document的名词来源与教导、示例、证明有关，后来指能提供证据的书面文件。动词早期曾表示权威地教导，18世纪初已有用文件证据支持某事的意思。",
+          "url": "https://www.etymonline.com/word/document",
+          "scope": "whole_entry",
+          "artifactPath": "local-evidence/basic100/ety-5.txt",
+          "rawSHA": "5c6b44c2e925654d03e7fb2eefefa3ad737398d30d09f14e683779aea6aa92d3",
+          "textSHA": "4dcc6523a2f8f98479a27ba124a91afe0633deeef1858dabec32361e9969cebb",
+          "retrievedAt": "2026-11-16T17:43:18.836Z",
+          "transport": "web_tool_snapshot",
+          "coverage": "entry_section"
+        }
+      ],
+      "meaning": "记录",
+      "editorial": {
+        "executor": "current_assistant",
+        "version": "basic-100-20261117",
+        "sourceEnglishUnchanged": true
+      }
+    },
+    "V20261012-071": {
+      "sourceInputHash": "0805a46c5a3935c1e56fc4311573813ffc4e99d8dee90f4d1fe4a64069665b9a",
+      "cambridge": {
+        "url": "https://dictionary.cambridge.org/dictionary/english/distinguish",
+        "sourceHash": "21d428e5af44cae7a0e7da5a870fe0e1099fdc499ace5d23efd0596308f8bb36",
+        "retrievedAt": "2026-11-16T17:41:54.284Z",
+        "candidateId": "entry-0/sense-0",
+        "definitionEn": "to notice or understand the difference between two things, or to make one person or thing seem different from another:"
+      },
+      "learning": [
+        {
+          "title": "识别差别；使区别显明",
+          "en": "to notice or understand the difference between two things, or to make one person or thing seem different from another:",
+          "meta": "verb · B2",
+          "example": "Distinguish fixed costs from variable costs.",
+          "zh": "区分固定成本与变动成本。",
+          "definitionSourceURL": "https://dictionary.cambridge.org/dictionary/english/distinguish",
+          "exampleSourceURL": null,
+          "credit": "原词库教学例句",
+          "exampleOrigin": "original",
+          "translationOrigin": "原词库中文解释"
+        }
+      ],
+      "history": [
+        {
+          "lemma": "distinguish",
+          "summary": "distinguish经法语或拉丁语进入英语，16世纪已有识别差异的用法，其来源与分开、标明界限有关。词条对更早的字面构词解释保留学术分歧，不宜把某一种形象解释当成确定事实。",
+          "url": "https://www.etymonline.com/word/distinguish",
+          "scope": "whole_entry",
+          "artifactPath": "local-evidence/basic100/ety-5.txt",
+          "rawSHA": "5c6b44c2e925654d03e7fb2eefefa3ad737398d30d09f14e683779aea6aa92d3",
+          "textSHA": "150b893bbf21944b9ad376021c92499a0fe1835be78d1fb4bed17a77d0e2972b",
+          "retrievedAt": "2026-11-16T17:43:18.836Z",
+          "transport": "web_tool_snapshot",
+          "coverage": "entry_section"
+        }
+      ],
+      "meaning": "区分",
+      "editorial": {
+        "executor": "current_assistant",
+        "version": "basic-100-20261117",
+        "sourceEnglishUnchanged": true
+      }
+    },
+    "V20261012-072": {
+      "sourceInputHash": "2231f9c2fb4e8cb6cb08495848adb31a24127668e82af508e35aba97ef3307a4",
+      "cambridge": {
+        "url": "https://dictionary.cambridge.org/dictionary/english/attribute",
+        "sourceHash": "3c735d6a492c261393f18b9de9c03faaafdb6c9197ed1cdebb3c1237507275a3",
+        "retrievedAt": "2026-11-16T17:41:54.362Z",
+        "candidateId": "entry-3/sense-0",
+        "definitionEn": "to say or think that something is the result of a particular thing:"
+      },
+      "learning": [
+        {
+          "title": "将某事归因于特定因素",
+          "en": "to say or think that something is the result of a particular thing:",
+          "meta": "verb",
+          "example": "They attributed the savings to automation.",
+          "zh": "他们把节省归因于自动化。",
+          "definitionSourceURL": "https://dictionary.cambridge.org/dictionary/english/attribute",
+          "exampleSourceURL": null,
+          "credit": "原词库教学例句",
+          "exampleOrigin": "original",
+          "translationOrigin": "原词库中文解释"
+        }
+      ],
+      "history": [
+        {
+          "lemma": "attribute",
+          "summary": "attribute的动词在14世纪末有分配、赋予之义，来自拉丁语中分配给、托付给的表达，也包含归于或归因的比喻用法。名词指被赋予的性质，重音位置与动词不同。",
+          "url": "https://www.etymonline.com/word/attribute",
+          "scope": "whole_entry",
+          "artifactPath": "local-evidence/basic100/ety-5.txt",
+          "rawSHA": "5c6b44c2e925654d03e7fb2eefefa3ad737398d30d09f14e683779aea6aa92d3",
+          "textSHA": "00241e515cc3da0d4ead74bc6f5ce3e6e1136fb5947c0634107e52aee88ff058",
+          "retrievedAt": "2026-11-16T17:43:18.836Z",
+          "transport": "web_tool_snapshot",
+          "coverage": "entry_section"
+        }
+      ],
+      "meaning": "归因于",
+      "editorial": {
+        "executor": "current_assistant",
+        "version": "basic-100-20261117",
+        "sourceEnglishUnchanged": true
+      }
+    },
+    "V20261012-073": {
+      "sourceInputHash": "c5933ecff9f267cbde6cf19f76c03dea0120159fb5edd098e45aa81408bf6d29",
+      "cambridge": {
+        "url": "https://dictionary.cambridge.org/dictionary/english/contribute",
+        "sourceHash": "83d073b09a0246ba08985e21140e269ba1688abe00ac292666cbd8be3e726c9e",
+        "retrievedAt": "2026-11-16T17:41:54.600Z",
+        "candidateId": "entry-2/sense-0",
+        "definitionEn": "to be one of the reasons why something happens:"
+      },
+      "learning": [
+        {
+          "title": "成为某事发生的原因之一",
+          "en": "to be one of the reasons why something happens:",
+          "meta": "verb",
+          "example": "Better lighting contributes to safer work.",
+          "zh": "更好的照明有助于安全作业。",
+          "definitionSourceURL": "https://dictionary.cambridge.org/dictionary/english/contribute",
+          "exampleSourceURL": null,
+          "credit": "原词库教学例句",
+          "exampleOrigin": "original",
+          "translationOrigin": "原词库中文解释"
+        }
+      ],
+      "history": [
+        {
+          "lemma": "contribute",
+          "summary": "contribute在16世纪初表示与他人共同给予或提供，拉丁语来源包含集合、增加和分配的含义。17世纪已有比喻用法，逐渐可用于金钱以外的贡献或促成因素。",
+          "url": "https://www.etymonline.com/word/contribute",
+          "scope": "whole_entry",
+          "artifactPath": "local-evidence/basic100/ety-6.txt",
+          "rawSHA": "845d1285b18ffd718d5368060d4ab429cf24351a76e350b8dca154fc7a1324dd",
+          "textSHA": "15530dd680a9d356d87de71df181d76ec13f9edb327134ba1fbed09dd1e59572",
+          "retrievedAt": "2026-11-16T17:43:18.241Z",
+          "transport": "web_tool_snapshot",
+          "coverage": "entry_section"
+        }
+      ],
+      "meaning": "促成；导致",
+      "editorial": {
+        "executor": "current_assistant",
+        "version": "basic-100-20261117",
+        "sourceEnglishUnchanged": true
+      }
+    },
+    "V20261012-074": {
+      "sourceInputHash": "bdc9abe930e2ea09d28ffc826eed1d110734f8f61e6e51ad9ce396d334e98a9e",
+      "cambridge": {
+        "url": "https://dictionary.cambridge.org/dictionary/english/indicate",
+        "sourceHash": "07c54c3e0ffacd5e63d1075149cd110bfa51b4e5e20cb2a0ed1c87329dc4414d",
+        "retrievedAt": "2026-11-16T17:41:54.777Z",
+        "candidateId": "entry-0/sense-0",
+        "definitionEn": "to show, point, or make clear in another way:"
+      },
+      "learning": [
+        {
+          "title": "显示、指出或说明",
+          "en": "to show, point, or make clear in another way:",
+          "meta": "verb · B2",
+          "example": "The results indicate a quality problem.",
+          "zh": "结果显示存在质量问题。",
+          "definitionSourceURL": "https://dictionary.cambridge.org/dictionary/english/indicate",
+          "exampleSourceURL": null,
+          "credit": "原词库教学例句",
+          "exampleOrigin": "original",
+          "translationOrigin": "原词库中文解释"
+        }
+      ],
+      "history": [
+        {
+          "lemma": "indicate",
+          "summary": "indicate在17世纪中叶已有指出的用法，与拉丁语中指明、展示的词形相连。18世纪初已有提供暗示、构成推断依据的意义，区别于直接作出充分证明。",
+          "url": "https://www.etymonline.com/word/indicate",
+          "scope": "whole_entry",
+          "artifactPath": "local-evidence/basic100/ety-6.txt",
+          "rawSHA": "845d1285b18ffd718d5368060d4ab429cf24351a76e350b8dca154fc7a1324dd",
+          "textSHA": "e23935ff4c17f33963eb92eb6d520ea707205dc81ed229555e652836728d6c39",
+          "retrievedAt": "2026-11-16T17:43:18.241Z",
+          "transport": "web_tool_snapshot",
+          "coverage": "entry_section"
+        }
+      ],
+      "meaning": "显示；表明",
+      "editorial": {
+        "executor": "current_assistant",
+        "version": "basic-100-20261117",
+        "sourceEnglishUnchanged": true
+      }
+    },
+    "V20261012-075": {
+      "sourceInputHash": "0613ffea6f121332cdf3f3be9e0ea187ee19bd2203249b8240384a71418385a3",
+      "cambridge": {
+        "url": "https://dictionary.cambridge.org/dictionary/english/imply",
+        "sourceHash": "0f9b1fc607b68adb2aa9924f29ecfdb5d0fe4e66c9d8b6eda100bccaf4074ad7",
+        "retrievedAt": "2026-11-16T17:41:54.841Z",
+        "candidateId": "entry-0/sense-0",
+        "definitionEn": "to communicate an idea or feeling without saying it directly:"
+      },
+      "learning": [
+        {
+          "title": "不直接说出而传达某个意思",
+          "en": "to communicate an idea or feeling without saying it directly:",
+          "meta": "verb · C2",
+          "example": "Silence does not imply consent.",
+          "zh": "沉默不意味着同意。",
+          "definitionSourceURL": "https://dictionary.cambridge.org/dictionary/english/imply",
+          "exampleSourceURL": null,
+          "credit": "原词库教学例句",
+          "exampleOrigin": "original",
+          "translationOrigin": "原词库中文解释"
+        }
+      ],
+      "history": [
+        {
+          "lemma": "imply",
+          "summary": "imply在14世纪末可指包裹、缠绕，其拉丁语来源与折叠、卷入有关。约1400年已有包含未明说逻辑后果的意思，16世纪又出现暗示用法；与读者作推断的infer不同。",
+          "url": "https://www.etymonline.com/word/imply",
+          "scope": "whole_entry",
+          "artifactPath": "local-evidence/basic100/ety-6.txt",
+          "rawSHA": "845d1285b18ffd718d5368060d4ab429cf24351a76e350b8dca154fc7a1324dd",
+          "textSHA": "9648ce76c592da57d205b0339560e0084148c216ff74dea9d3748d7e013f1beb",
+          "retrievedAt": "2026-11-16T17:43:18.241Z",
+          "transport": "web_tool_snapshot",
+          "coverage": "entry_section"
+        }
+      ],
+      "meaning": "暗示；意味着",
+      "editorial": {
+        "executor": "current_assistant",
+        "version": "basic-100-20261117",
+        "sourceEnglishUnchanged": true
+      }
+    },
+    "V20261012-077": {
+      "sourceInputHash": "7da518dd92671d28429d497552c32b5486f744bdc83856f2d19267ebee9a4c83",
+      "cambridge": {
+        "url": "https://dictionary.cambridge.org/dictionary/english/justify",
+        "sourceHash": "d0a08b4c53355851bb123a97b30b9cddaa64ed6405f1ad17ac75c47eb1b6587b",
+        "retrievedAt": "2026-11-16T17:41:55.098Z",
+        "candidateId": "entry-0/sense-0",
+        "definitionEn": "to give or to be a good reason for:"
+      },
+      "learning": [
+        {
+          "title": "为某事提供充分或合理的理由",
+          "en": "to give or to be a good reason for:",
+          "meta": "verb · B2",
+          "example": "The savings justify the investment.",
+          "zh": "节省金额证明这项投资合理。",
+          "definitionSourceURL": "https://dictionary.cambridge.org/dictionary/english/justify",
+          "exampleSourceURL": null,
+          "credit": "原词库教学例句",
+          "exampleOrigin": "original",
+          "translationOrigin": "原词库中文解释"
+        }
+      ],
+      "history": [
+        {
+          "lemma": "justify",
+          "summary": "justify约1300年用于施行正义，14世纪末已有说明某事公正或正确的意思。其来源结合了公正与使成为的构词；后来还用于证明无罪及排版中把文字调整整齐。",
+          "url": "https://www.etymonline.com/word/justify",
+          "scope": "whole_entry",
+          "artifactPath": "local-evidence/basic100/ety-6.txt",
+          "rawSHA": "845d1285b18ffd718d5368060d4ab429cf24351a76e350b8dca154fc7a1324dd",
+          "textSHA": "8aff4c153f0fcc9013006c3b03019e865154c2fef1f92b851ea037de70928214",
+          "retrievedAt": "2026-11-16T17:43:18.241Z",
+          "transport": "web_tool_snapshot",
+          "coverage": "entry_section"
+        }
+      ],
+      "meaning": "证明合理",
+      "editorial": {
+        "executor": "current_assistant",
+        "version": "basic-100-20261117",
+        "sourceEnglishUnchanged": true
+      }
+    },
+    "V20261012-079": {
+      "sourceInputHash": "8418d6bed1b814fcf9d7f2702f8ce510811aadcea96300c57670aa5bf4286685",
+      "cambridge": {
+        "url": "https://dictionary.cambridge.org/dictionary/english/illustrate",
+        "sourceHash": "31a59d74dc0c44c9cb4350d657db22b8a7f8297fc0492a32104f3fc80b31db7a",
+        "retrievedAt": "2026-11-16T17:41:55.256Z",
+        "candidateId": "entry-0/sense-1",
+        "definitionEn": "to show the meaning or truth of something more clearly, especially by giving examples:"
+      },
+      "learning": [
+        {
+          "title": "通过例子更清楚地说明",
+          "en": "to show the meaning or truth of something more clearly, especially by giving examples:",
+          "meta": "verb · C1",
+          "example": "The diagram illustrates the approval flow.",
+          "zh": "示意图说明了审批流程。",
+          "definitionSourceURL": "https://dictionary.cambridge.org/dictionary/english/illustrate",
+          "exampleSourceURL": null,
+          "credit": "原词库教学例句",
+          "exampleOrigin": "original",
+          "translationOrigin": "原词库中文解释"
+        }
+      ],
+      "history": [
+        {
+          "lemma": "illustrate",
+          "summary": "illustrate在16世纪初有照亮的意思，17世纪初用于借例子讲解。随后也指提供图片以解释或装饰，因此举例说明和插图两种现代用法有各自的历史记录。",
+          "url": "https://www.etymonline.com/word/illustrate",
+          "scope": "whole_entry",
+          "artifactPath": "local-evidence/basic100/ety-6.txt",
+          "rawSHA": "845d1285b18ffd718d5368060d4ab429cf24351a76e350b8dca154fc7a1324dd",
+          "textSHA": "1bbea60a2d02241599539a60619e293e81f9c444caed8602f2ede1d3d89f490e",
+          "retrievedAt": "2026-11-16T17:43:18.241Z",
+          "transport": "web_tool_snapshot",
+          "coverage": "entry_section"
+        }
+      ],
+      "meaning": "举例说明",
+      "editorial": {
+        "executor": "current_assistant",
+        "version": "basic-100-20261117",
+        "sourceEnglishUnchanged": true
+      }
+    },
+    "V20261012-080": {
+      "sourceInputHash": "e7033d9dd97c847a782d61a57711594182fc674210b190c83e9f174d1ad7d620",
+      "cambridge": {
+        "url": "https://dictionary.cambridge.org/dictionary/english/interpret",
+        "sourceHash": "7471e9973b856129003fdf8582b423c818d6e9023bb6aec61dd360eda43e6474",
+        "retrievedAt": "2026-11-16T17:41:55.298Z",
+        "candidateId": "entry-0/sense-0",
+        "definitionEn": "to decide what the meaning of something is:"
+      },
+      "learning": [
+        {
+          "title": "判断或解释某事的含义",
+          "en": "to decide what the meaning of something is:",
+          "meta": "verb · C1",
+          "example": "Different teams interpret the rule differently.",
+          "zh": "不同团队对规则的解读不同。",
+          "definitionSourceURL": "https://dictionary.cambridge.org/dictionary/english/interpret",
+          "exampleSourceURL": null,
+          "credit": "原词库教学例句",
+          "exampleOrigin": "original",
+          "translationOrigin": "原词库中文解释"
+        }
+      ],
+      "history": [
+        {
+          "lemma": "interpret",
+          "summary": "interpret在14世纪末已用于阐明意义，使内容明确，经法语和拉丁语进入英语。拉丁语相关名词可指中间人或译者；词条对其第二部分更早词根的解释保留不同观点。",
+          "url": "https://www.etymonline.com/word/interpret",
+          "scope": "whole_entry",
+          "artifactPath": "local-evidence/basic100/ety-7.txt",
+          "rawSHA": "08d277bec41118302bc94eaf5e197a18a5d739993c22b73aba530feb282746fe",
+          "textSHA": "3a34cec8ca7c453cbe31fb15c2cc29a0013e80e5f22c5d361f56f84d04586a1e",
+          "retrievedAt": "2026-11-16T17:43:19.540Z",
+          "transport": "web_tool_snapshot",
+          "coverage": "entry_section"
+        }
+      ],
+      "meaning": "理解；解读",
+      "editorial": {
+        "executor": "current_assistant",
+        "version": "basic-100-20261117",
+        "sourceEnglishUnchanged": true
+      }
+    },
+    "V20261012-081": {
+      "sourceInputHash": "5ecd35b1a249c8bf7cb04d237e09e98b45e16603680a91d6e4019261b401ae74",
+      "cambridge": {
+        "url": "https://dictionary.cambridge.org/dictionary/english/evidence",
+        "sourceHash": "9c760188c6e173eb077bbc7847ed5862aaad6fe1e6921498341b70c3ac95895e",
+        "retrievedAt": "2026-11-16T17:41:55.637Z",
+        "candidateId": "entry-0/sense-0",
+        "definitionEn": "facts, information, documents, etc. that give reason to believe that something is true:"
+      },
+      "learning": [
+        {
+          "title": "支持某事属实的事实或资料",
+          "en": "facts, information, documents, etc. that give reason to believe that something is true:",
+          "meta": "noun · B2",
+          "example": "Keep evidence of the inspection.",
+          "zh": "保留检验的证据。",
+          "definitionSourceURL": "https://dictionary.cambridge.org/dictionary/english/evidence",
+          "exampleSourceURL": null,
+          "credit": "原词库教学例句",
+          "exampleOrigin": "original",
+          "translationOrigin": "原词库中文解释"
+        }
+      ],
+      "history": [
+        {
+          "lemma": "evidence",
+          "summary": "evidence约1300年用于可供推断的外在表现，来源与明显、清楚地呈现有关。随后发展为相信某事的依据；法律上的证据意义在约1500年前后有记录。",
+          "url": "https://www.etymonline.com/word/evidence",
+          "scope": "whole_entry",
+          "artifactPath": "local-evidence/basic100/ety-7.txt",
+          "rawSHA": "08d277bec41118302bc94eaf5e197a18a5d739993c22b73aba530feb282746fe",
+          "textSHA": "aea69e83e93bf56d9a50d3295f18e867d0be511ea16dbe0a4f5ec2eabe3476be",
+          "retrievedAt": "2026-11-16T17:43:19.540Z",
+          "transport": "web_tool_snapshot",
+          "coverage": "entry_section"
+        }
+      ],
+      "meaning": "证据",
+      "editorial": {
+        "executor": "current_assistant",
+        "version": "basic-100-20261117",
+        "sourceEnglishUnchanged": true
+      }
+    },
+    "V20261012-082": {
+      "sourceInputHash": "05fa52fd30c94bcd57cda2252ec64fb9ce26a2668911be93d236f42f83b8eaf9",
+      "cambridge": {
+        "url": "https://dictionary.cambridge.org/dictionary/english/implication",
+        "sourceHash": "9b2c5d36334517f0e0eec364a9baa217fc25ab84ec73ef8740f9894cb74418fe",
+        "retrievedAt": "2026-11-16T17:41:55.722Z",
+        "candidateId": "entry-0/sense-1",
+        "definitionEn": "the effect that an action or decision will have on something else in the future:"
+      },
+      "learning": [
+        {
+          "title": "某项行动或决定未来产生的影响",
+          "en": "the effect that an action or decision will have on something else in the future:",
+          "meta": "noun · C1",
+          "example": "Consider the financial implications first.",
+          "zh": "先考虑财务影响。",
+          "definitionSourceURL": "https://dictionary.cambridge.org/dictionary/english/implication",
+          "exampleSourceURL": null,
+          "credit": "原词库教学例句",
+          "exampleOrigin": "original",
+          "translationOrigin": "原词库中文解释"
+        }
+      ],
+      "history": [
+        {
+          "lemma": "implication",
+          "summary": "implication在15世纪初指缠结或相互交织的状态，与imply同属表示卷入、折叠的拉丁语词族。16世纪中叶已有未明说但可由观察推知之意；现代具体影响须结合用法理解。",
+          "url": "https://www.etymonline.com/word/implication",
+          "scope": "whole_entry",
+          "artifactPath": "local-evidence/basic100/ety-7.txt",
+          "rawSHA": "08d277bec41118302bc94eaf5e197a18a5d739993c22b73aba530feb282746fe",
+          "textSHA": "f5b0b86eb755ac88ea6b026d03887a301f4abbcc527c41395708999d547088ac",
+          "retrievedAt": "2026-11-16T17:43:19.540Z",
+          "transport": "web_tool_snapshot",
+          "coverage": "entry_section"
+        }
+      ],
+      "meaning": "影响；隐含意义",
+      "editorial": {
+        "executor": "current_assistant",
+        "version": "basic-100-20261117",
+        "sourceEnglishUnchanged": true
+      }
+    },
+    "V20261012-083": {
+      "sourceInputHash": "2fc61d556ac2881e0b4bff6d80f559ed4d810eb274f136756b29654216bb235f",
+      "cambridge": {
+        "url": "https://dictionary.cambridge.org/dictionary/english/factor",
+        "sourceHash": "2c6d5d50c15ac2bcc84339de16ed9a05129cdfa683af5cc9969d77b5e122c553",
+        "retrievedAt": "2026-11-16T17:41:55.819Z",
+        "candidateId": "entry-0/sense-0",
+        "definitionEn": "a fact or situation that influences the result of something:"
+      },
+      "learning": [
+        {
+          "title": "影响某个结果的因素",
+          "en": "a fact or situation that influences the result of something:",
+          "meta": "noun · B2",
+          "example": "Distance is another cost factor.",
+          "zh": "距离是另一个成本因素。",
+          "definitionSourceURL": "https://dictionary.cambridge.org/dictionary/english/factor",
+          "exampleSourceURL": null,
+          "credit": "原词库教学例句",
+          "exampleOrigin": "original",
+          "translationOrigin": "原词库中文解释"
+        }
+      ],
+      "history": [
+        {
+          "lemma": "factor",
+          "summary": "factor早期可指商业代理人，拉丁语来源是做事者、制作者。数学中相乘因子的意义在17世纪出现，后来由此发展出能造成某个结果的条件或因素。",
+          "url": "https://www.etymonline.com/word/factor",
+          "scope": "whole_entry",
+          "artifactPath": "local-evidence/basic100/ety-7.txt",
+          "rawSHA": "08d277bec41118302bc94eaf5e197a18a5d739993c22b73aba530feb282746fe",
+          "textSHA": "76d5e19e5e935b2fd6f7654e9dd8eac3c2c6bc0bfbc3a06646e7953fb6a55082",
+          "retrievedAt": "2026-11-16T17:43:19.540Z",
+          "transport": "web_tool_snapshot",
+          "coverage": "entry_section"
+        }
+      ],
+      "meaning": "因素",
+      "editorial": {
+        "executor": "current_assistant",
+        "version": "basic-100-20261117",
+        "sourceEnglishUnchanged": true
+      }
+    },
+    "V20261012-084": {
+      "sourceInputHash": "1a2d24bddb122391a1fbc5e9cd721b0f1d5bacc7e6365bcc4fc1d437b0c281e4",
+      "cambridge": {
+        "url": "https://dictionary.cambridge.org/dictionary/english/extent",
+        "sourceHash": "391d5420b65d6ef5d07f462f6cea2c49e25879fe497e7a267e3b74d5d98baf28",
+        "retrievedAt": "2026-11-16T17:41:56.106Z",
+        "candidateId": "entry-0/sense-1",
+        "definitionEn": "the degree to which something happens or is likely to happen:"
+      },
+      "learning": [
+        {
+          "title": "发生或影响所达到的程度",
+          "en": "the degree to which something happens or is likely to happen:",
+          "meta": "noun · C2",
+          "example": "We underestimated the extent of damage.",
+          "zh": "我们低估了损坏程度。",
+          "definitionSourceURL": "https://dictionary.cambridge.org/dictionary/english/extent",
+          "exampleSourceURL": null,
+          "credit": "原词库教学例句",
+          "exampleOrigin": "original",
+          "translationOrigin": "原词库中文解释"
+        }
+      ],
+      "history": [
+        {
+          "lemma": "extent",
+          "summary": "extent约1300年与财产估价、土地税额有关，经法语上溯表示展开、延伸的拉丁语动词。到16世纪末，已有某事延伸到何种程度这一较一般的用法。",
+          "url": "https://www.etymonline.com/word/extent",
+          "scope": "whole_entry",
+          "artifactPath": "local-evidence/basic100/ety-7.txt",
+          "rawSHA": "08d277bec41118302bc94eaf5e197a18a5d739993c22b73aba530feb282746fe",
+          "textSHA": "24ef8dd64dd434f6ca4220425f1fae38dcfa8057a1b59fd818ba58f056ba2d04",
+          "retrievedAt": "2026-11-16T17:43:19.540Z",
+          "transport": "web_tool_snapshot",
+          "coverage": "entry_section"
+        }
+      ],
+      "meaning": "程度；范围",
+      "editorial": {
+        "executor": "current_assistant",
+        "version": "basic-100-20261117",
+        "sourceEnglishUnchanged": true
+      }
+    },
+    "V20261012-085": {
+      "sourceInputHash": "64ba526a1e83c65aa64686175e82036f42a39536ef1f58772f2514c23431ade2",
+      "cambridge": {
+        "url": "https://dictionary.cambridge.org/dictionary/english/likelihood",
+        "sourceHash": "6f1c9c2146e1954300e49befd253e0abf0f63fc03c5cf15573d86a5f59f63bf0",
+        "retrievedAt": "2026-11-16T17:41:56.219Z",
+        "candidateId": "entry-0/sense-0",
+        "definitionEn": "the chance that something will happen:"
+      },
+      "learning": [
+        {
+          "title": "某事发生的可能性",
+          "en": "the chance that something will happen:",
+          "meta": "noun · C2",
+          "example": "The likelihood of delay remains high.",
+          "zh": "延误的可能性仍很高。",
+          "definitionSourceURL": "https://dictionary.cambridge.org/dictionary/english/likelihood",
+          "exampleSourceURL": null,
+          "credit": "原词库教学例句",
+          "exampleOrigin": "original",
+          "translationOrigin": "原词库中文解释"
+        }
+      ],
+      "history": [
+        {
+          "lemma": "likelihood",
+          "summary": "likelihood由likely加-hood构成。14世纪末早期可表示相似，15世纪中叶开始出现概率、可能状态的意义，不应把今天的概率义直接当成最初含义。",
+          "url": "https://www.etymonline.com/word/likelihood",
+          "scope": "whole_entry",
+          "artifactPath": "local-evidence/basic100/ety-8.txt",
+          "rawSHA": "c68db2d00f2cf1fb0ebab6ae4af5824adb5b1e9f3e3735d872ac90741bfd8dd3",
+          "textSHA": "7966432bb32057dfd8d090385af9681eec5a57fde1a07ba333b0c54c0638737f",
+          "retrievedAt": "2026-11-16T17:43:34.645Z",
+          "transport": "web_tool_snapshot",
+          "coverage": "entry_section"
+        }
+      ],
+      "meaning": "可能性",
+      "editorial": {
+        "executor": "current_assistant",
+        "version": "basic-100-20261117",
+        "sourceEnglishUnchanged": true
+      }
+    },
+    "V20261012-086": {
+      "sourceInputHash": "c9796b569f6a9bc23d5ec177ffcb50ba6dcf21c2f1c7eced6ec560ba90c51b0c",
+      "cambridge": {
+        "url": "https://dictionary.cambridge.org/dictionary/english/uncertainty",
+        "sourceHash": "503ded4821b8ad8dc6e7ca291c7ad9c4b2622b1873b5917068f375d26c0dcd37",
+        "retrievedAt": "2026-11-16T17:41:56.314Z",
+        "candidateId": "entry-0/sense-0",
+        "definitionEn": "a situation in which something is not known, or something that is not known or certain:"
+      },
+      "learning": [
+        {
+          "title": "未知或尚未确定的情况",
+          "en": "a situation in which something is not known, or something that is not known or certain:",
+          "meta": "noun · C1",
+          "example": "Uncertainty makes long-term planning difficult.",
+          "zh": "不确定性使长期规划困难。",
+          "definitionSourceURL": "https://dictionary.cambridge.org/dictionary/english/uncertainty",
+          "exampleSourceURL": null,
+          "credit": "原词库教学例句",
+          "exampleOrigin": "original",
+          "translationOrigin": "原词库中文解释"
+        }
+      ],
+      "history": [
+        {
+          "lemma": "uncertainty",
+          "summary": "uncertainty在14世纪末已有记录，由uncertain加名词后缀-ty构成。早期涵盖不确定、怀疑、不可靠以及尚未明确知道的状态，与现代核心用法相近。",
+          "url": "https://www.etymonline.com/word/uncertainty",
+          "scope": "whole_entry",
+          "artifactPath": "local-evidence/basic100/ety-8.txt",
+          "rawSHA": "c68db2d00f2cf1fb0ebab6ae4af5824adb5b1e9f3e3735d872ac90741bfd8dd3",
+          "textSHA": "cbc9440f0739ce1b770b8511fbdfd3a9ae61f8ece79c67186776d95ab9a1356d",
+          "retrievedAt": "2026-11-16T17:43:34.645Z",
+          "transport": "web_tool_snapshot",
+          "coverage": "entry_section"
+        }
+      ],
+      "meaning": "不确定性",
+      "editorial": {
+        "executor": "current_assistant",
+        "version": "basic-100-20261117",
+        "sourceEnglishUnchanged": true
+      }
+    },
+    "V20261012-087": {
+      "sourceInputHash": "1e3f08f37195caf8de4e015730fb226556e29b0537506577d6dc750598517c82",
+      "cambridge": {
+        "url": "https://dictionary.cambridge.org/dictionary/english/caveat",
+        "sourceHash": "8eedf5b7ac31916caf430c81488ba9e00cef2e790807d61eb7a4ec6052c02d9b",
+        "retrievedAt": "2026-11-16T17:41:56.536Z",
+        "candidateId": "entry-0/sense-0",
+        "definitionEn": "a warning to consider something before taking any more action, or a statement that limits a more general statement:"
+      },
+      "learning": [
+        {
+          "title": "需要留意的警告或限定说明",
+          "en": "a warning to consider something before taking any more action, or a statement that limits a more general statement:",
+          "meta": "noun",
+          "example": "Read the caveat below the chart.",
+          "zh": "阅读图表下方的注意事项。",
+          "definitionSourceURL": "https://dictionary.cambridge.org/dictionary/english/caveat",
+          "exampleSourceURL": null,
+          "credit": "原词库教学例句",
+          "exampleOrigin": "original",
+          "translationOrigin": "原词库中文解释"
+        }
+      ],
+      "history": [
+        {
+          "lemma": "caveat",
+          "summary": "caveat直接来自拉丁语中提醒对方当心的表达，16世纪中叶作为英语名词表示警告、注意提示。17世纪又出现法律上公开警告以阻止某种行动的专门含义。",
+          "url": "https://www.etymonline.com/word/caveat",
+          "scope": "whole_entry",
+          "artifactPath": "local-evidence/basic100/ety-8.txt",
+          "rawSHA": "c68db2d00f2cf1fb0ebab6ae4af5824adb5b1e9f3e3735d872ac90741bfd8dd3",
+          "textSHA": "91dd8fe55524b7bcda75a2f8286c6abb0358eb266c523b1f7f32518143cc46ab",
+          "retrievedAt": "2026-11-16T17:43:34.645Z",
+          "transport": "web_tool_snapshot",
+          "coverage": "entry_section"
+        }
+      ],
+      "meaning": "限定条件；注意事项",
+      "editorial": {
+        "executor": "current_assistant",
+        "version": "basic-100-20261117",
+        "sourceEnglishUnchanged": true
+      }
+    },
+    "V20261012-089": {
+      "sourceInputHash": "ba86fef93a4bd772b118d1b0b1111b69e31a8d9b79a3d3b904b06b700eede413",
+      "cambridge": {
+        "url": "https://dictionary.cambridge.org/dictionary/english/consistent",
+        "sourceHash": "93b6da7269121a3695a930aeac1e5c29167b5c02f8387843c8a170101c0acc0e",
+        "retrievedAt": "2026-11-16T17:41:56.704Z",
+        "candidateId": "entry-0/sense-1",
+        "definitionEn": "in agreement with other facts or with typical or previous behaviour, or having the same principles as something else:"
+      },
+      "learning": [
+        {
+          "title": "与事实、行为或原则相符",
+          "en": "in agreement with other facts or with typical or previous behaviour, or having the same principles as something else:",
+          "meta": "adjective · C2",
+          "example": "The readings are consistent across shifts.",
+          "zh": "各班次的读数一致。",
+          "definitionSourceURL": "https://dictionary.cambridge.org/dictionary/english/consistent",
+          "exampleSourceURL": null,
+          "credit": "原词库教学例句",
+          "exampleOrigin": "original",
+          "translationOrigin": "原词库中文解释"
+        }
+      ],
+      "history": [
+        {
+          "lemma": "consistent",
+          "summary": "consistent来源于拉丁语中站稳、保持位置的词形。17世纪出现与某事相合、一致的意义，18世纪进一步用于表现出持续一致性；词族也保留与实体稠度有关的用法。",
+          "url": "https://www.etymonline.com/word/consistent",
+          "scope": "whole_entry",
+          "artifactPath": "local-evidence/basic100/ety-8.txt",
+          "rawSHA": "c68db2d00f2cf1fb0ebab6ae4af5824adb5b1e9f3e3735d872ac90741bfd8dd3",
+          "textSHA": "aac85e0a28f08e84f96ef77efcffb065f8e06b70eed141a2d351648be1de1c6c",
+          "retrievedAt": "2026-11-16T17:43:34.645Z",
+          "transport": "web_tool_snapshot",
+          "coverage": "entry_section"
+        }
+      ],
+      "meaning": "一致的；相符的",
+      "editorial": {
+        "executor": "current_assistant",
+        "version": "basic-100-20261117",
+        "sourceEnglishUnchanged": true
+      }
+    },
+    "V20261012-090": {
+      "sourceInputHash": "6673cee868c200d6f066f4822fa5f60885348948439191a65e045f4690fd9653",
+      "cambridge": {
+        "url": "https://dictionary.cambridge.org/dictionary/english/discrepancy",
+        "sourceHash": "e4f6a97c69cc7d42e4c9f85b991f8f22654d768a18733a141e73bdfc85290835",
+        "retrievedAt": "2026-11-16T17:41:56.800Z",
+        "candidateId": "entry-0/sense-0",
+        "definitionEn": "a difference between two things that should be the same:"
+      },
+      "learning": [
+        {
+          "title": "本应相同的两者之间的不一致",
+          "en": "a difference between two things that should be the same:",
+          "meta": "noun",
+          "example": "Investigate the discrepancy in inventory records.",
+          "zh": "调查库存记录中的差异。",
+          "definitionSourceURL": "https://dictionary.cambridge.org/dictionary/english/discrepancy",
+          "exampleSourceURL": null,
+          "credit": "原词库教学例句",
+          "exampleOrigin": "original",
+          "translationOrigin": "原词库中文解释"
+        }
+      ],
+      "history": [
+        {
+          "lemma": "discrepancy",
+          "summary": "discrepancy在15世纪中叶已表示事实或意见上的差异，其拉丁语来源字面上与声音不一致有关。现代拼写形式到17世纪初出现，常用于本应相符的信息之间的出入。",
+          "url": "https://www.etymonline.com/word/discrepancy",
+          "scope": "whole_entry",
+          "artifactPath": "local-evidence/basic100/ety-8.txt",
+          "rawSHA": "c68db2d00f2cf1fb0ebab6ae4af5824adb5b1e9f3e3735d872ac90741bfd8dd3",
+          "textSHA": "c7a55de7102b889c4149f58835c34126bfd627f0e85a177e9dbee15b67b8fc00",
+          "retrievedAt": "2026-11-16T17:43:34.645Z",
+          "transport": "web_tool_snapshot",
+          "coverage": "entry_section"
+        }
+      ],
+      "meaning": "差异；不符之处",
+      "editorial": {
+        "executor": "current_assistant",
+        "version": "basic-100-20261117",
+        "sourceEnglishUnchanged": true
+      }
+    },
+    "V20261012-101": {
+      "sourceInputHash": "52a7ae17cd1d5bf131c09f68d26e0c5c6aaefd1d854d724fc7784b4000aae5bb",
+      "cambridge": {
+        "url": "https://dictionary.cambridge.org/dictionary/english/assertion",
+        "sourceHash": "7a85015947dcb6aa6123a83a76738f784e1717ed9d8b516795a56a388d720d30",
+        "retrievedAt": "2026-11-16T17:41:56.924Z",
+        "candidateId": "entry-0/sense-0",
+        "definitionEn": "a statement that you strongly believe is true:"
+      },
+      "learning": [
+        {
+          "title": "坚信为真的陈述或主张",
+          "en": "a statement that you strongly believe is true:",
+          "meta": "noun",
+          "example": "That assertion needs independent verification.",
+          "zh": "那项断言需要独立核实。",
+          "definitionSourceURL": "https://dictionary.cambridge.org/dictionary/english/assertion",
+          "exampleSourceURL": null,
+          "credit": "原词库教学例句",
+          "exampleOrigin": "original",
+          "translationOrigin": "原词库中文解释"
+        }
+      ],
+      "history": [
+        {
+          "lemma": "assertion",
+          "summary": "assertion在15世纪初可指声明、确认，经法语或拉丁语传入英语，其词族涉及宣称、认领。15世纪中叶也有缺少支持的陈述这一用法；提出主张并不自动等于已有证据。",
+          "url": "https://www.etymonline.com/word/assertion",
+          "scope": "whole_entry",
+          "artifactPath": "local-evidence/basic100/ety-9.txt",
+          "rawSHA": "e4ff3a496301836766c6286394248ff22dfeca5bf00b8deb04b180b2956721b2",
+          "textSHA": "265747ad4d118fe51191c762a697e4d1ad970c95d61cac1ae5e7f0e364258669",
+          "retrievedAt": "2026-11-16T17:43:34.668Z",
+          "transport": "web_tool_snapshot",
+          "coverage": "entry_section"
+        }
+      ],
+      "meaning": "断言；主张",
+      "editorial": {
+        "executor": "current_assistant",
+        "version": "basic-100-20261117",
+        "sourceEnglishUnchanged": true
+      }
+    },
+    "V20261012-102": {
+      "sourceInputHash": "9c07887f52e5d3e292b0cd40b717927aaecb0dbc4f5daa2436514af410cef8bf",
+      "cambridge": {
+        "url": "https://dictionary.cambridge.org/dictionary/english/implicitly",
+        "sourceHash": "ec293dff29bdb294ae5c1ad47fafaf12abf9fccfa6b7844a087dca2624a7a2e8",
+        "retrievedAt": "2026-11-16T17:41:57.228Z",
+        "candidateId": "entry-0/sense-0",
+        "definitionEn": "in a way that is suggested but not communicated directly:"
+      },
+      "learning": [
+        {
+          "title": "通过暗含而非明说的方式",
+          "en": "in a way that is suggested but not communicated directly:",
+          "meta": "adverb",
+          "example": "The estimate implicitly includes overtime.",
+          "zh": "估算隐含地计入了加班。",
+          "definitionSourceURL": "https://dictionary.cambridge.org/dictionary/english/implicitly",
+          "exampleSourceURL": null,
+          "credit": "原词库教学例句",
+          "exampleOrigin": "original",
+          "translationOrigin": "原词库中文解释"
+        }
+      ],
+      "history": [
+        {
+          "lemma": "implicitly",
+          "summary": "implicitly由implicit加副词后缀-ly构成，约1600年已有通过暗示表达的意思。17世纪中叶另有毫不怀疑、完全信任的用法，两种意义需分别辨认。",
+          "url": "https://www.etymonline.com/word/implicitly",
+          "scope": "whole_entry",
+          "artifactPath": "local-evidence/basic100/ety-9.txt",
+          "rawSHA": "e4ff3a496301836766c6286394248ff22dfeca5bf00b8deb04b180b2956721b2",
+          "textSHA": "7b5e5cea314c81ab4b27cde5b20c6fd507b11ee5d46f09cc917ce4de44ec3895",
+          "retrievedAt": "2026-11-16T17:43:34.668Z",
+          "transport": "web_tool_snapshot",
+          "coverage": "entry_section"
+        }
+      ],
+      "meaning": "隐含地",
+      "editorial": {
+        "executor": "current_assistant",
+        "version": "basic-100-20261117",
+        "sourceEnglishUnchanged": true
+      }
+    },
+    "V20261012-103": {
+      "sourceInputHash": "45757a6c46c746a3e6cc3328ad74dee50a32a8f4e74a51ac818c7bcbb399d9a6",
+      "cambridge": {
+        "url": "https://dictionary.cambridge.org/dictionary/english/conversely",
+        "sourceHash": "1013e1b56af27afca974aac619cf2deae896bb37e3dc60cd91bf6dbcebcd4162",
+        "retrievedAt": "2026-11-16T17:41:57.236Z",
+        "candidateId": "entry-0/sense-0",
+        "definitionEn": "in an opposite way:"
+      },
+      "learning": [
+        {
+          "title": "以相反的方式；反过来说",
+          "en": "in an opposite way:",
+          "meta": "adverb",
+          "example": "Higher prices reduce demand; conversely, discounts encourage purchases.",
+          "zh": "涨价压低需求；反之，折扣促进购买。",
+          "definitionSourceURL": "https://dictionary.cambridge.org/dictionary/english/conversely",
+          "exampleSourceURL": null,
+          "credit": "原词库教学例句",
+          "exampleOrigin": "original",
+          "translationOrigin": "原词库中文解释"
+        }
+      ],
+      "history": [
+        {
+          "lemma": "converse",
+          "summary": "这里引用组成词converse的形容词历史：16世纪已有反转、互换的数学用法，来源于表示转向的拉丁语词形，后来指方向相反。Etymonline将conversely列为相关派生形式；这不是独立副词条目的首见年代。",
+          "url": "https://www.etymonline.com/word/converse",
+          "scope": "component_history",
+          "artifactPath": "local-evidence/basic100/ety-11.txt",
+          "rawSHA": "398b1b4493197be3e21409dce88871efacc7510b0abff622145c9201d78ba8bc",
+          "textSHA": "3b5e14e968e306503e9491fcf8321cf701e2a2b73a46374fbfc7af6f577a6d0c",
+          "retrievedAt": "2026-11-16T17:43:47.059Z",
+          "transport": "web_tool_snapshot",
+          "coverage": "entry_section"
+        }
+      ],
+      "meaning": "反过来说",
+      "editorial": {
+        "executor": "current_assistant",
+        "version": "basic-100-20261117",
+        "sourceEnglishUnchanged": true
+      }
+    },
+    "V20261012-104": {
+      "sourceInputHash": "a7a7bf9e75e6b8f6272af5255640a3abe3e5780d371d3ed4ea0b7058d81040df",
+      "cambridge": {
+        "url": "https://dictionary.cambridge.org/dictionary/english/acknowledge",
+        "sourceHash": "915253a90ccd06e9f01dc47a9eec52bd374e9f81549d36b38c460babdb8ba6a8",
+        "retrievedAt": "2026-11-16T17:41:57.387Z",
+        "candidateId": "entry-0/sense-0",
+        "definitionEn": "to accept, admit, or recognize something, or the truth or existence of something:"
+      },
+      "learning": [
+        {
+          "title": "承认或认可某事的真实性或存在",
+          "en": "to accept, admit, or recognize something, or the truth or existence of something:",
+          "meta": "verb · C1",
+          "example": "Acknowledge the error in your report.",
+          "zh": "在报告中承认错误。",
+          "definitionSourceURL": "https://dictionary.cambridge.org/dictionary/english/acknowledge",
+          "exampleSourceURL": null,
+          "credit": "原词库教学例句",
+          "exampleOrigin": "original",
+          "translationOrigin": "原词库中文解释"
+        }
+      ],
+      "history": [
+        {
+          "lemma": "acknowledge",
+          "summary": "acknowledge形成于两个中古英语动词的合流，两者都涉及承认、表明知道。15世纪末已有现代词形的记录，16世纪逐渐取代旧形式；拼写中的c不是原来构词中的固定组成。",
+          "url": "https://www.etymonline.com/word/acknowledge",
+          "scope": "whole_entry",
+          "artifactPath": "local-evidence/basic100/ety-9.txt",
+          "rawSHA": "e4ff3a496301836766c6286394248ff22dfeca5bf00b8deb04b180b2956721b2",
+          "textSHA": "fad81a012e769f503d39cb2fd8101a7244325f9d150f8c9ca4c243d65dc30d79",
+          "retrievedAt": "2026-11-16T17:43:34.668Z",
+          "transport": "web_tool_snapshot",
+          "coverage": "entry_section"
+        }
+      ],
+      "meaning": "承认",
+      "editorial": {
+        "executor": "current_assistant",
+        "version": "basic-100-20261117",
+        "sourceEnglishUnchanged": true
+      }
+    },
+    "V20261012-105": {
+      "sourceInputHash": "2a9e31ff3fe0b9ca405ed007233641edd6b289edca5df26e15207d2230bd8204",
+      "cambridge": {
+        "url": "https://dictionary.cambridge.org/dictionary/english/persistent",
+        "sourceHash": "6bbc87367d606d876b1bac97298cf9ce4ce437d939abc5815f1852a149ce2489",
+        "retrievedAt": "2026-11-16T17:41:57.645Z",
+        "candidateId": "entry-0/sense-0",
+        "definitionEn": "lasting for a long time or difficult to get rid of:"
+      },
+      "learning": [
+        {
+          "title": "长期持续或难以消除的",
+          "en": "lasting for a long time or difficult to get rid of:",
+          "meta": "adjective",
+          "example": "Persistent shortages disrupted the schedule.",
+          "zh": "持续短缺打乱了日程。",
+          "definitionSourceURL": "https://dictionary.cambridge.org/dictionary/english/persistent",
+          "exampleSourceURL": null,
+          "credit": "原词库教学例句",
+          "exampleOrigin": "original",
+          "translationOrigin": "原词库中文解释"
+        }
+      ],
+      "history": [
+        {
+          "lemma": "persistent",
+          "summary": "persistent在18世纪初早期多见于植物学，表示保持、持续存在，与坚持的拉丁语词族相连。19世纪又明确用于面对反对或警告仍继续的行为。",
+          "url": "https://www.etymonline.com/word/persistent",
+          "scope": "whole_entry",
+          "artifactPath": "local-evidence/basic100/ety-9.txt",
+          "rawSHA": "e4ff3a496301836766c6286394248ff22dfeca5bf00b8deb04b180b2956721b2",
+          "textSHA": "04b2b342d602ff6e9b1d5f9f2d7746f6f4843301cd9bb846d25456937d257860",
+          "retrievedAt": "2026-11-16T17:43:34.668Z",
+          "transport": "web_tool_snapshot",
+          "coverage": "entry_section"
+        }
+      ],
+      "meaning": "持续存在的",
+      "editorial": {
+        "executor": "current_assistant",
+        "version": "basic-100-20261117",
+        "sourceEnglishUnchanged": true
+      }
+    },
+    "V20261012-106": {
+      "sourceInputHash": "fbf2161eae12cf9baae06b00eeab60d216fbb87b24b329bee01621ae5e1048c3",
+      "cambridge": {
+        "url": "https://dictionary.cambridge.org/dictionary/english/underlying",
+        "sourceHash": "04533acb82876e9dbbf2c3d8364122d002830fd2c12b9c5ecd89d580c4252da5",
+        "retrievedAt": "2026-11-16T17:41:57.748Z",
+        "candidateId": "entry-0/sense-0",
+        "definitionEn": "real but not immediately obvious:"
+      },
+      "learning": [
+        {
+          "title": "实际存在但不立即显明的",
+          "en": "real but not immediately obvious:",
+          "meta": "adjective · C2",
+          "example": "The underlying assumptions remain unchanged.",
+          "zh": "基本假设仍未改变。",
+          "definitionSourceURL": "https://dictionary.cambridge.org/dictionary/english/underlying",
+          "exampleSourceURL": null,
+          "credit": "原词库教学例句",
+          "exampleOrigin": "original",
+          "translationOrigin": "原词库中文解释"
+        }
+      ],
+      "history": [
+        {
+          "lemma": "underlying",
+          "summary": "underlying是underlie的现在分词形容词，17世纪初用于位于下方、起支撑作用。表示根本、基础性的比喻用法，词条记录到19世纪中叶已出现。",
+          "url": "https://www.etymonline.com/word/underlying",
+          "scope": "whole_entry",
+          "artifactPath": "local-evidence/basic100/ety-10.txt",
+          "rawSHA": "7f5a140ea13edb1aa8f90f87f09bf545f3e92894c76f3d0fa1550e41ac1d0c8f",
+          "textSHA": "b9f483ad286f39e45b8d47d9c535acc9865efd59a864b543c50af3500e84e62b",
+          "retrievedAt": "2026-11-16T17:43:34.691Z",
+          "transport": "web_tool_snapshot",
+          "coverage": "entry_section"
+        }
+      ],
+      "meaning": "根本的；潜在的",
+      "editorial": {
+        "executor": "current_assistant",
+        "version": "basic-100-20261117",
+        "sourceEnglishUnchanged": true
+      }
+    },
+    "V20261012-107": {
+      "sourceInputHash": "105bd70921f9b82ce70ff76e8e598c986c120945d9a1ee032781a1adf800f057",
+      "cambridge": {
+        "url": "https://dictionary.cambridge.org/dictionary/english/reliance",
+        "sourceHash": "a7a6f64f45dd3962e5755fa6a0557b5d6240ffc692d5798d9318a4992ab429fa",
+        "retrievedAt": "2026-11-16T17:41:57.803Z",
+        "candidateId": "entry-0/sense-0",
+        "definitionEn": "the state of depending on or trusting in something or someone:"
+      },
+      "learning": [
+        {
+          "title": "依靠或信赖某人某事的状态",
+          "en": "the state of depending on or trusting in something or someone:",
+          "meta": "noun · C2",
+          "example": "Reduce reliance on temporary staff.",
+          "zh": "减少对临时员工的依赖。",
+          "definitionSourceURL": "https://dictionary.cambridge.org/dictionary/english/reliance",
+          "exampleSourceURL": null,
+          "credit": "原词库教学例句",
+          "exampleOrigin": "original",
+          "translationOrigin": "原词库中文解释"
+        }
+      ],
+      "history": [
+        {
+          "lemma": "reliance",
+          "summary": "reliance约1600年已有记录，由rely加名词后缀-ance构成，表示依靠的行为或处于依赖状态。该词条本身是较短的构词说明，不额外提供某个现代行业用法的历史。",
+          "url": "https://www.etymonline.com/word/reliance",
+          "scope": "whole_entry",
+          "artifactPath": "local-evidence/basic100/ety-10.txt",
+          "rawSHA": "7f5a140ea13edb1aa8f90f87f09bf545f3e92894c76f3d0fa1550e41ac1d0c8f",
+          "textSHA": "52d55b0b264fcdcfd7f98381222f78857915d0d1bdc7aef56103fee0267742fd",
+          "retrievedAt": "2026-11-16T17:43:34.691Z",
+          "transport": "web_tool_snapshot",
+          "coverage": "entry_section"
+        }
+      ],
+      "meaning": "依赖",
+      "editorial": {
+        "executor": "current_assistant",
+        "version": "basic-100-20261117",
+        "sourceEnglishUnchanged": true
+      }
+    },
+    "V20261012-108": {
+      "sourceInputHash": "5f53c589ece676d21567ae8950cebc257a37cf938273bacea1f67a8c2c457ec6",
+      "cambridge": {
+        "url": "https://dictionary.cambridge.org/dictionary/english/perspective",
+        "sourceHash": "0028f59a70c4a447920508d8802bde5db4f7d9a3e1f235713fc97707d0cfe4d0",
+        "retrievedAt": "2026-11-16T17:41:58.170Z",
+        "candidateId": "entry-0/sense-0",
+        "definitionEn": "a particular way of considering something:"
+      },
+      "learning": [
+        {
+          "title": "看待某件事的角度或方式",
+          "en": "a particular way of considering something:",
+          "meta": "noun · C1",
+          "example": "Consider the issue from a customer perspective.",
+          "zh": "从客户角度考虑这个问题。",
+          "definitionSourceURL": "https://dictionary.cambridge.org/dictionary/english/perspective",
+          "exampleSourceURL": null,
+          "credit": "原词库教学例句",
+          "exampleOrigin": "original",
+          "translationOrigin": "原词库中文解释"
+        }
+      ],
+      "history": [
+        {
+          "lemma": "perspective",
+          "summary": "perspective在14世纪末与光学有关，来源与仔细观察、看穿的拉丁语词形相连。16世纪用于画面中表现距离和深度，随后发展出把各部分关系放在适当位置及思想视角的比喻义。",
+          "url": "https://www.etymonline.com/word/perspective",
+          "scope": "whole_entry",
+          "artifactPath": "local-evidence/basic100/ety-10.txt",
+          "rawSHA": "7f5a140ea13edb1aa8f90f87f09bf545f3e92894c76f3d0fa1550e41ac1d0c8f",
+          "textSHA": "cc292fee8f17058e3b4aeacbe1d07a5285038cef09b203a2dea757345c792108",
+          "retrievedAt": "2026-11-16T17:43:34.691Z",
+          "transport": "web_tool_snapshot",
+          "coverage": "entry_section"
+        }
+      ],
+      "meaning": "角度；视角",
+      "editorial": {
+        "executor": "current_assistant",
+        "version": "basic-100-20261117",
+        "sourceEnglishUnchanged": true
+      }
+    },
+    "V20261012-109": {
+      "sourceInputHash": "32b94ed664e1f6e1293135b2216bcb30d3b8230091c2de51a5867462abd1ad96",
+      "cambridge": {
+        "url": "https://dictionary.cambridge.org/dictionary/english/divisive",
+        "sourceHash": "08c3f6218b4af9b9b68cf5055784ccdd7068690cccc584badeb7d1695a2183e3",
+        "retrievedAt": "2026-11-16T17:41:58.202Z",
+        "candidateId": "entry-1/sense-0",
+        "definitionEn": "tending to cause disagreements that separate people into opposing groups:"
+      },
+      "learning": [
+        {
+          "title": "容易造成分歧并使人分成对立阵营的",
+          "en": "tending to cause disagreements that separate people into opposing groups:",
+          "meta": "adjective",
+          "example": "The divisive policy split the committee.",
+          "zh": "这项引发分歧的政策使委员会分裂。",
+          "definitionSourceURL": "https://dictionary.cambridge.org/dictionary/english/divisive",
+          "exampleSourceURL": null,
+          "credit": "原词库教学例句",
+          "exampleOrigin": "original",
+          "translationOrigin": "原词库中文解释"
+        }
+      ],
+      "history": [
+        {
+          "lemma": "divisive",
+          "summary": "divisive约1600年表示具有分开、划分的性质，由表示分割的拉丁语词干加-ive构成。17世纪中叶已有制造分裂、引起不和的意义。",
+          "url": "https://www.etymonline.com/word/divisive",
+          "scope": "whole_entry",
+          "artifactPath": "local-evidence/basic100/ety-10.txt",
+          "rawSHA": "7f5a140ea13edb1aa8f90f87f09bf545f3e92894c76f3d0fa1550e41ac1d0c8f",
+          "textSHA": "d933dbb6cef538902255ef411e0932d626d9e02f1b8cc93f4f7e0a048c7fb05c",
+          "retrievedAt": "2026-11-16T17:43:34.691Z",
+          "transport": "web_tool_snapshot",
+          "coverage": "entry_section"
+        }
+      ],
+      "meaning": "引发分歧的",
+      "editorial": {
+        "executor": "current_assistant",
+        "version": "basic-100-20261117",
+        "sourceEnglishUnchanged": true
+      }
+    },
+    "V20261012-110": {
+      "sourceInputHash": "e00b646a5928ff297fea689df284620ed29b5a92204ddebfb055205384aa77d6",
+      "cambridge": {
+        "url": "https://dictionary.cambridge.org/dictionary/english/bias",
+        "sourceHash": "651942df1e7a2d6fcdb8654b00ff82d1523781e9ca89b0043a15c4ac87d44847",
+        "retrievedAt": "2026-11-16T17:41:58.349Z",
+        "candidateId": "entry-2/sense-0",
+        "definitionEn": "an unfair personal opinion that influences your judgment:"
+      },
+      "learning": [
+        {
+          "title": "影响判断的不公正个人倾向",
+          "en": "an unfair personal opinion that influences your judgment:",
+          "meta": "noun",
+          "example": "Anonymous reviews can reduce personal bias.",
+          "zh": "匿名评审可减少个人偏见。",
+          "definitionSourceURL": "https://dictionary.cambridge.org/dictionary/english/bias",
+          "exampleSourceURL": null,
+          "credit": "原词库教学例句",
+          "exampleOrigin": "original",
+          "translationOrigin": "原词库中文解释"
+        }
+      ],
+      "history": [
+        {
+          "lemma": "bias",
+          "summary": "bias在16世纪初表示斜线或倾斜，来自法语，但更早来源并不完全确定。它曾用于滚木球运动中使球偏转的形状或重心，随后产生思想偏向一侧以及偏见的比喻义。",
+          "url": "https://www.etymonline.com/word/bias",
+          "scope": "whole_entry",
+          "artifactPath": "local-evidence/basic100/ety-10.txt",
+          "rawSHA": "7f5a140ea13edb1aa8f90f87f09bf545f3e92894c76f3d0fa1550e41ac1d0c8f",
+          "textSHA": "3f8b5ad0f18266166ba7d0ebcaa8600f0755846253ab3741bd8db19973126e31",
+          "retrievedAt": "2026-11-16T17:43:34.691Z",
+          "transport": "web_tool_snapshot",
+          "coverage": "entry_section"
+        }
+      ],
+      "meaning": "偏见；倾向",
+      "editorial": {
+        "executor": "current_assistant",
+        "version": "basic-100-20261117",
+        "sourceEnglishUnchanged": true
+      }
+    }
+  }
+}

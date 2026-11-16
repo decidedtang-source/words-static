@@ -1,0 +1,431 @@
+{
+  "version": "basic-release-1.0.1",
+  "acceptedBaseline": true,
+  "trialEntries": 100,
+  "qaVersion": "basic-release-structure-flow-1.0.0",
+  "pass": true,
+  "checks": [
+    {
+      "entryId": "V20261012-002",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-012",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-022",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-024",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-053",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-078",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-076",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-093",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-100",
+      "pass": true
+    },
+    {
+      "entryId": "V20261014-075",
+      "pass": true
+    },
+    {
+      "entryId": "V20261014-076",
+      "pass": true
+    },
+    {
+      "entryId": "V20261029-005",
+      "pass": true
+    },
+    {
+      "entryId": "V20261014-003",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-117",
+      "pass": true
+    },
+    {
+      "entryId": "V20261018-106",
+      "pass": true
+    },
+    {
+      "entryId": "V20261016-103",
+      "pass": true
+    },
+    {
+      "entryId": "V20261016-119",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-020",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-019",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-015",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-018",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-010",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-006",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-088",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-004",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-005",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-007",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-008",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-009",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-011",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-013",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-014",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-016",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-017",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-021",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-023",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-025",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-026",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-028",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-029",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-030",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-031",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-032",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-033",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-034",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-035",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-036",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-037",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-038",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-040",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-001",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-003",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-027",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-039",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-041",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-042",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-043",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-044",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-045",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-046",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-047",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-048",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-049",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-050",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-051",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-052",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-054",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-055",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-056",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-057",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-058",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-059",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-060",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-071",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-072",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-073",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-074",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-075",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-077",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-079",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-080",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-081",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-082",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-083",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-084",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-085",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-086",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-087",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-089",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-090",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-101",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-102",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-103",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-104",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-105",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-106",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-107",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-108",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-109",
+      "pass": true
+    },
+    {
+      "entryId": "V20261012-110",
+      "pass": true
+    },
+    {
+      "kind": "navigation",
+      "pass": true
+    }
+  ],
+  "errors": [],
+  "qa": {
+    "pass": true,
+    "errors": [],
+    "entries": 100
+  },
+  "viewportChecks": 400,
+  "contentHash": "fb9b6dbbf10f7001ad3b98a88d1c58cfa43a9a3e5c70ab1432dd832ddcfc1613",
+  "htmlSHA": "0b26ec0e1aabcf07dbb6d115ee198de99e71f44f7178adbc92a0e33f1f31a390",
+  "workflowLock": "effeaecd0f6fd776b4d85657d7b0bc9fc31f0acbe82c89029dd1930a087e0b2b",
+  "coverage": {
+    "retainedV2": 50,
+    "newEntries": 50,
+    "newCambridgeDefinitions": 50,
+    "historyReady": 100,
+    "sourceAudio": 40
+  },
+  "published": false
+}
