@@ -30,6 +30,11 @@ test('same input changed draft invalidates review; durable revisions never overw
  assert.deepEqual(revised.reviewRefs,[]);assert.equal(revised.revisionAttempts,1);
 });
 test('candidate sealing rejects missing reviews and expansion before calibration',()=>{
+ assert.throws(()=>sealCandidate({itemStates:[],phase:'calibration'}),/count/);
  assert.throws(()=>sealCandidate({itemStates:[{state:'drafted'}]}),/review/);
  assert.throws(()=>sealCandidate({itemStates:[{state:'reviewed',reviewRefs:['r']}],phase:'expansion',calibrationPassed:false}),/calibration/);
+});
+test('one arbitrary checkbox cannot authorize a complete package',()=>{
+ const i={state:'drafted',author:'a',inputHash:'i',artifactHash:'a'};
+ assert.throws(()=>transition(i,'reviewed',{reviewId:'r',reviewer:'b',scope:'full_package',inputHash:'i',artifactHash:'a',verdict:'pass',checks:[{qaId:'random',result:'pass'}]}),/QA coverage/);
 });

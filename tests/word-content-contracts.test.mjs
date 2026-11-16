@@ -16,3 +16,8 @@ test('analysis has all seven justified dimensions and two to five original uses'
 test('reference validation catches missing senses instead of silently rendering fallback',()=>{
  assert.deepEqual(validateReferences({senses:[],context:{senseRefs:['missing']},selection:{selectedSenseIds:[]}}).missingRefs,['missing']);
 });
+test('source types and enums and dangling bridge/practice references are rejected',()=>{
+ assert.equal(validateEntity('SourceRecord',{schemaVersion:1,sourceId:'s',version:'1',title:'x',url:'https://example.org',accessMode:'fake',retrievedAt:'yesterday',coverage:42,rights:'yes',limitations:[]}).valid,false);
+ const refs=validateReferences({senses:[],bridge:{anchorRefs:['missing-anchor'],targetRefs:['missing-target']},analysis:{practiceRefs:[{practiceId:'missing-practice',version:'1'}]},practices:[]});
+ assert.equal(refs.valid,false);assert.ok(refs.missingRefs.includes('missing-practice'));
+});
