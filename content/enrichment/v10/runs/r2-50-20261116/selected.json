@@ -1,0 +1,1357 @@
+{
+  "calibration": [
+    "V20261012-002",
+    "V20261012-012",
+    "V20261012-022",
+    "V20261012-024",
+    "V20261012-053",
+    "V20261012-078",
+    "V20261012-076",
+    "V20261012-093",
+    "V20261012-100",
+    "V20261014-075",
+    "V20261014-076",
+    "V20261029-005",
+    "V20261014-003",
+    "V20261012-117",
+    "V20261018-106",
+    "V20261016-103",
+    "V20261016-119",
+    "V20261012-020",
+    "V20261012-019",
+    "V20261012-015",
+    "V20261012-018",
+    "V20261012-010",
+    "V20261012-006",
+    "V20261012-088"
+  ],
+  "expansion": [
+    "V20261012-004",
+    "V20261012-005",
+    "V20261012-007",
+    "V20261012-008",
+    "V20261012-009",
+    "V20261012-011",
+    "V20261012-013",
+    "V20261012-014",
+    "V20261012-016",
+    "V20261012-017",
+    "V20261012-021",
+    "V20261012-023",
+    "V20261012-025",
+    "V20261012-026",
+    "V20261012-028",
+    "V20261012-029",
+    "V20261012-030",
+    "V20261012-031",
+    "V20261012-032",
+    "V20261012-033",
+    "V20261012-034",
+    "V20261012-035",
+    "V20261012-036",
+    "V20261012-037",
+    "V20261012-038",
+    "V20261012-040"
+  ],
+  "coverage": {
+    "ordinary_polysemy": [
+      "V20261012-012",
+      "V20261012-053",
+      "V20261012-010",
+      "V20261012-078"
+    ],
+    "outside_selection": [
+      "V20261012-078",
+      "V20261012-117"
+    ],
+    "whole_expression": [
+      "V20261012-117",
+      "V20261012-020"
+    ],
+    "free_composition": [
+      "V20261029-005",
+      "V20261014-003"
+    ],
+    "negation": [
+      "V20261012-076",
+      "V20261012-100",
+      "V20261012-012"
+    ],
+    "conditional": [
+      "V20261012-093",
+      "V20261012-022",
+      "V20261012-019"
+    ],
+    "responsibility_approval": [
+      "V20261012-015",
+      "V20261012-024",
+      "V20261012-018"
+    ],
+    "non_work": [
+      "V20261018-106",
+      "V20261016-103",
+      "V20261016-119"
+    ],
+    "technical_concept": [
+      "V20261014-075",
+      "V20261014-076"
+    ],
+    "history_optional": [
+      "V20261029-005",
+      "V20261014-003"
+    ]
+  },
+  "selectionReason": "新选样，覆盖R2校准类别；保留原ID和原句，不继承旧试样审核。非工作条目原库是教学转述，不标成作者逐字原话。",
+  "snapshots": [
+    {
+      "id": "V20261012-002",
+      "date": "2026-10-12",
+      "term": "objective",
+      "ipa": "əbˈdʒek.tɪv",
+      "pos": "n.",
+      "meaning": "希望达成的具体目标",
+      "chunk": "a clear objective",
+      "example": "Our objective is to reduce the time spent on approvals.",
+      "level": "核心",
+      "gloss": "目标",
+      "explanation": "希望达成的具体目标",
+      "examples": [
+        {
+          "en": "Our objective is to reduce the time spent on approvals.",
+          "zh": "我们的目标是减少审批所用的时间。"
+        },
+        {
+          "en": "Each phase has a measurable objective.",
+          "zh": "每个阶段都有可衡量的目标。"
+        }
+      ],
+      "originalFileSHA": "ec65d33d6da99ebad2577f6c9f9938499823d29d117f43532302cf964a4c60a3",
+      "quoteSHA": "45d0e2ff354b4c1bd3805389f8591e65a0ecaff05169b566aa59acda5f39ae8f"
+    },
+    {
+      "id": "V20261012-012",
+      "date": "2026-10-12",
+      "term": "capacity",
+      "ipa": "kəˈpæs.ə.t̬i",
+      "pos": "n.",
+      "meaning": "团队或系统能够承担工作的能力与数量",
+      "chunk": "available capacity",
+      "example": "We do not have enough capacity to start both projects.",
+      "level": "核心",
+      "gloss": "承载能力；产能",
+      "explanation": "团队或系统能够承担工作的能力与数量",
+      "examples": [
+        {
+          "en": "We do not have enough capacity to start both projects.",
+          "zh": "我们没有足够能力同时启动两个项目。"
+        },
+        {
+          "en": "The plant is operating at full capacity.",
+          "zh": "工厂正满负荷运转。"
+        }
+      ],
+      "originalFileSHA": "ec65d33d6da99ebad2577f6c9f9938499823d29d117f43532302cf964a4c60a3",
+      "quoteSHA": "c3e67ca92710652213d1ad65977970d8ce692981661c0e77f3b3a55f5dc946c3"
+    },
+    {
+      "id": "V20261012-022",
+      "date": "2026-10-12",
+      "term": "tentative",
+      "ipa": "ˈten.t̬ə.t̬ɪv",
+      "pos": "adj.",
+      "meaning": "尚未最终确定、可能调整的",
+      "chunk": "a tentative date",
+      "example": "Friday is a tentative date until the review is complete.",
+      "level": "提升",
+      "gloss": "暂定的",
+      "explanation": "尚未最终确定、可能调整的",
+      "examples": [
+        {
+          "en": "Friday is a tentative date until the review is complete.",
+          "zh": "评审结束前，周五只是暂定日期。"
+        },
+        {
+          "en": "We have a tentative agreement.",
+          "zh": "我们已达成暂定协议。"
+        }
+      ],
+      "originalFileSHA": "ec65d33d6da99ebad2577f6c9f9938499823d29d117f43532302cf964a4c60a3",
+      "quoteSHA": "5c56ffa0d2436b5fdf57fe20ecd32c9d5a43634f6d86d6cc353e8d42b498af88"
+    },
+    {
+      "id": "V20261012-024",
+      "date": "2026-10-12",
+      "term": "pending",
+      "ipa": "ˈpen.dɪŋ",
+      "pos": "adj.",
+      "meaning": "尚待决定或处理的",
+      "chunk": "approval is pending",
+      "example": "Approval is still pending, so we cannot proceed yet.",
+      "level": "核心",
+      "gloss": "待定的；待处理的",
+      "explanation": "尚待决定或处理的",
+      "examples": [
+        {
+          "en": "Approval is still pending, so we cannot proceed yet.",
+          "zh": "审批仍在等待中，因此我们还不能继续。"
+        },
+        {
+          "en": "Three requests remain pending.",
+          "zh": "三项申请仍待处理。"
+        }
+      ],
+      "originalFileSHA": "ec65d33d6da99ebad2577f6c9f9938499823d29d117f43532302cf964a4c60a3",
+      "quoteSHA": "76b82fa9180da9637fe8e5a59bdc51773b82fa61c8b1cd89fcbe091f7c6945e3"
+    },
+    {
+      "id": "V20261012-053",
+      "date": "2026-10-12",
+      "term": "reservation",
+      "ipa": "ˌrez.ɚˈveɪ.ʃən",
+      "pos": "n.",
+      "meaning": "尚未消除的保留意见或疑虑",
+      "chunk": "have reservations about",
+      "example": "I have reservations about committing before the review.",
+      "level": "提升",
+      "gloss": "保留意见；疑虑",
+      "explanation": "尚未消除的保留意见或疑虑",
+      "examples": [
+        {
+          "en": "I have reservations about committing before the review.",
+          "zh": "在评审前作出承诺，我有保留意见。"
+        },
+        {
+          "en": "She expressed reservations about the estimate.",
+          "zh": "她对估算表达了疑虑。"
+        }
+      ],
+      "originalFileSHA": "ec65d33d6da99ebad2577f6c9f9938499823d29d117f43532302cf964a4c60a3",
+      "quoteSHA": "a3f9f1d55bda91c6c9acb4942b49cbfee205caac0c51e92dd521d3b512498f02"
+    },
+    {
+      "id": "V20261012-078",
+      "date": "2026-10-12",
+      "term": "qualify",
+      "ipa": "ˈkwɑː.lə.faɪ",
+      "pos": "v.",
+      "meaning": "给一项陈述加上条件或限制，使其更准确",
+      "chunk": "qualify a statement",
+      "example": "I should qualify that statement: the date depends on approval.",
+      "level": "挑战",
+      "gloss": "为表述加上限定",
+      "explanation": "给一项陈述加上条件或限制，使其更准确",
+      "examples": [
+        {
+          "en": "I should qualify that statement: the date depends on approval.",
+          "zh": "我应限定一下这句话：日期取决于批准。"
+        },
+        {
+          "en": "She qualified her forecast with a caveat.",
+          "zh": "她为预测加上了一项限定条件。"
+        }
+      ],
+      "originalFileSHA": "ec65d33d6da99ebad2577f6c9f9938499823d29d117f43532302cf964a4c60a3",
+      "quoteSHA": "ca266abf7e6676a1d63c32325c05f845e4c182ac19da900263b6537c1175d636"
+    },
+    {
+      "id": "V20261012-076",
+      "date": "2026-10-12",
+      "term": "infer",
+      "ipa": "ɪnˈfɝː",
+      "pos": "v.",
+      "meaning": "根据已有信息推断",
+      "chunk": "infer from evidence",
+      "example": "We should not infer approval from the lack of a reply.",
+      "level": "挑战",
+      "gloss": "推断",
+      "explanation": "根据已有信息推断",
+      "examples": [
+        {
+          "en": "We should not infer approval from the lack of a reply.",
+          "zh": "我们不应从未获回复推断已获批准。"
+        },
+        {
+          "en": "What can we infer from this trend?",
+          "zh": "我们能从这一趋势推断什么？"
+        }
+      ],
+      "originalFileSHA": "ec65d33d6da99ebad2577f6c9f9938499823d29d117f43532302cf964a4c60a3",
+      "quoteSHA": "a57782355eb6fc2d600c907a8b04dbfc47dacc3908cc64d02a19e13419f7576d"
+    },
+    {
+      "id": "V20261012-093",
+      "date": "2026-10-12",
+      "term": "provided that",
+      "ipa": "prəˈvaɪ.dɪd ðæt",
+      "pos": "条件连接表达",
+      "meaning": "只要满足后面的条件",
+      "chunk": "proceed provided that",
+      "example": "We can proceed provided that the owner confirms the scope.",
+      "level": "提升",
+      "gloss": "只要；条件是",
+      "explanation": "只要满足后面的条件",
+      "examples": [
+        {
+          "en": "We can proceed provided that the owner confirms the scope.",
+          "zh": "只要负责人确认范围，我们就能继续。"
+        },
+        {
+          "en": "We can ship provided that payment arrives.",
+          "zh": "只要款项到账，我们就能发货。"
+        }
+      ],
+      "originalFileSHA": "ec65d33d6da99ebad2577f6c9f9938499823d29d117f43532302cf964a4c60a3",
+      "quoteSHA": "b9b94ba7b9372848745dbd97021d5bccb32b527a678968e9012f74818cbe2c53"
+    },
+    {
+      "id": "V20261012-100",
+      "date": "2026-10-12",
+      "term": "not necessarily",
+      "ipa": "nɑːt ˌnes.əˈser.əl.i",
+      "pos": "限定表达",
+      "meaning": "并不必然如此，不能直接推出",
+      "chunk": "does not necessarily mean",
+      "example": "A completed task does not necessarily mean the issue is resolved.",
+      "level": "提升",
+      "gloss": "不一定",
+      "explanation": "并不必然如此，不能直接推出",
+      "examples": [
+        {
+          "en": "A completed task does not necessarily mean the issue is resolved.",
+          "zh": "任务完成不一定意味着问题已解决。"
+        },
+        {
+          "en": "Higher output is not necessarily profitable.",
+          "zh": "更高的产出不一定带来利润。"
+        }
+      ],
+      "originalFileSHA": "ec65d33d6da99ebad2577f6c9f9938499823d29d117f43532302cf964a4c60a3",
+      "quoteSHA": "67caa9ce97f290b3f89ca9352a4e4089116e5b8b37725428d0510c8324a51e8e"
+    },
+    {
+      "id": "V20261014-075",
+      "date": "2026-10-14",
+      "term": "verification method",
+      "ipa": "ˌver.ə.fəˈkeɪ.ʃən ˈmeθ.əd",
+      "pos": "n. phrase",
+      "meaning": "用于确认输出是否满足已规定要求的方法",
+      "chunk": "select a verification method",
+      "example": "Select a verification method for each requirement.",
+      "level": "提升",
+      "gloss": "验证方法",
+      "explanation": "用于确认输出是否满足已规定要求的方法",
+      "examples": [
+        {
+          "en": "Select a verification method for each requirement.",
+          "zh": "为每项要求选择验证方法。"
+        },
+        {
+          "en": "The verification method uses dimensional checks.",
+          "zh": "该验证方法使用尺寸检查。"
+        }
+      ],
+      "originalFileSHA": "ec65d33d6da99ebad2577f6c9f9938499823d29d117f43532302cf964a4c60a3",
+      "quoteSHA": "954d46007be17876f9db12192a86d0be56cdeaa36002a241c52ab168b7c28585"
+    },
+    {
+      "id": "V20261014-076",
+      "date": "2026-10-14",
+      "term": "validation method",
+      "ipa": "ˌvæl.əˈdeɪ.ʃən ˈmeθ.əd",
+      "pos": "n. phrase",
+      "meaning": "用于确认方案是否适合真实预期用途的方法",
+      "chunk": "choose a validation method",
+      "example": "Choose a validation method that reflects actual use.",
+      "level": "提升",
+      "gloss": "使用有效性确认方法",
+      "explanation": "用于确认方案是否适合真实预期用途的方法",
+      "examples": [
+        {
+          "en": "Choose a validation method that reflects actual use.",
+          "zh": "选择能反映实际使用的有效性确认方法。"
+        },
+        {
+          "en": "Field trials are our validation method.",
+          "zh": "现场试验是我们的使用有效性确认方法。"
+        }
+      ],
+      "originalFileSHA": "ec65d33d6da99ebad2577f6c9f9938499823d29d117f43532302cf964a4c60a3",
+      "quoteSHA": "151069f6c79d08483b9d29e46fe9c645c96c0d03d51c30c3962e712e2b21eea2"
+    },
+    {
+      "id": "V20261029-005",
+      "date": "2026-10-29",
+      "term": "working definition",
+      "ipa": "ˈwɝː.kɪŋ ˌdef.ɪˈnɪʃ.ən",
+      "pos": "noun phrase",
+      "meaning": "供当前团队一致使用、以后仍可修订的定义",
+      "chunk": "agree on a working definition",
+      "example": "Let us agree on a working definition of a critical defect.",
+      "level": "核心",
+      "gloss": "暂定定义",
+      "explanation": "供当前团队一致使用、以后仍可修订的定义",
+      "examples": [
+        {
+          "en": "Let us agree on a working definition of a critical defect.",
+          "zh": "我们先就重大缺陷的暂定定义达成一致。"
+        },
+        {
+          "en": "Our working definition may change after the pilot.",
+          "zh": "我们的暂定定义可能在试点后改变。"
+        }
+      ],
+      "originalFileSHA": "ec65d33d6da99ebad2577f6c9f9938499823d29d117f43532302cf964a4c60a3",
+      "quoteSHA": "05d615212e0f55609b7c783999b28bcca38f47013dad404329ca9595a1031755"
+    },
+    {
+      "id": "V20261014-003",
+      "date": "2026-10-14",
+      "term": "frame the issue",
+      "ipa": "freɪm ði ˈɪʃ.uː",
+      "pos": "v. phrase",
+      "meaning": "选择合适边界和角度来表述需要讨论的事项",
+      "chunk": "frame the issue around customer impact",
+      "example": "Let's frame the issue around the missed inspection step.",
+      "level": "提升",
+      "gloss": "界定议题角度",
+      "explanation": "选择合适边界和角度来表述需要讨论的事项",
+      "examples": [
+        {
+          "en": "Let's frame the issue around the missed inspection step.",
+          "zh": "围绕遗漏的检查步骤来界定议题吧。"
+        },
+        {
+          "en": "Frame the issue as a coordination gap.",
+          "zh": "将议题界定为协调差距。"
+        }
+      ],
+      "originalFileSHA": "ec65d33d6da99ebad2577f6c9f9938499823d29d117f43532302cf964a4c60a3",
+      "quoteSHA": "8773cbb6b58533c633d71e6cd49d1142a8828199aaf3f543d164a6a8a830ef3c"
+    },
+    {
+      "id": "V20261012-117",
+      "date": "2026-10-12",
+      "term": "account for",
+      "ipa": "əˈkaʊnt fɔːr",
+      "pos": "短语动词",
+      "meaning": "占总量中的某一部分；本条取占比义",
+      "chunk": "account for most of the cost",
+      "example": "Review activities account for most of the remaining work.",
+      "level": "提升",
+      "gloss": "占比",
+      "explanation": "占总量中的某一部分；本条取占比义",
+      "examples": [
+        {
+          "en": "Review activities account for most of the remaining work.",
+          "zh": "评审活动占剩余工作的大部分。"
+        },
+        {
+          "en": "Exports account for half our revenue.",
+          "zh": "出口占我们收入的一半。"
+        }
+      ],
+      "originalFileSHA": "ec65d33d6da99ebad2577f6c9f9938499823d29d117f43532302cf964a4c60a3",
+      "quoteSHA": "f986043dff73e3b349c278d6bb3159c5ba9fcce2b63de9246557f6d6dc42c342"
+    },
+    {
+      "id": "V20261018-106",
+      "date": "2026-10-18",
+      "term": "lead in the polls",
+      "ipa": "liːd ɪn ðə poʊlz",
+      "pos": "verb phrase",
+      "meaning": "在民意调查中获得最高支持率",
+      "chunk": "lead in the polls",
+      "example": "The opposition candidate continued to lead in the polls.",
+      "level": "核心",
+      "gloss": "在民调中领先",
+      "explanation": "在民意调查中获得最高支持率",
+      "examples": [
+        {
+          "en": "The opposition candidate continued to lead in the polls.",
+          "zh": "反对党候选人继续在民调中领先。"
+        },
+        {
+          "en": "A candidate can lead in the polls and still lose.",
+          "zh": "候选人可能在民调中领先却仍然败选。"
+        }
+      ],
+      "originalFileSHA": "ec65d33d6da99ebad2577f6c9f9938499823d29d117f43532302cf964a4c60a3",
+      "quoteSHA": "be5cb9ff913e1e01712b937f8fa1a0bdc4528aa4fd2592870910e21bd1486556"
+    },
+    {
+      "id": "V20261016-103",
+      "date": "2026-10-16",
+      "term": "credulous",
+      "ipa": "ˈkredʒ.ə.ləs",
+      "pos": "adj.",
+      "meaning": "容易轻信、缺少必要怀疑；文中带有批评语气",
+      "chunk": "credulous voters",
+      "example": "The author uses credulous to criticize voters who accepted the promise.",
+      "level": "挑战",
+      "gloss": "轻信的",
+      "explanation": "容易轻信、缺少必要怀疑；文中带有批评语气",
+      "examples": [
+        {
+          "en": "The author uses credulous to criticize voters who accepted the promise.",
+          "zh": "作者用credulous批评接受承诺的选民。"
+        },
+        {
+          "en": "Credulous buyers may overlook hidden fees.",
+          "zh": "轻信的买家可能忽视隐藏费用。"
+        }
+      ],
+      "originalFileSHA": "ec65d33d6da99ebad2577f6c9f9938499823d29d117f43532302cf964a4c60a3",
+      "quoteSHA": "dab1b11c94b0a026cc24f01975d8c0dea23848d01b39ae61599d46537fedc310"
+    },
+    {
+      "id": "V20261016-119",
+      "date": "2026-10-16",
+      "term": "inflation shock",
+      "ipa": "ɪnˈfleɪ.ʃən ʃɑːk",
+      "pos": "n. phrase",
+      "meaning": "使总体价格水平突然上升的外部或政策冲击",
+      "chunk": "absorb an inflation shock",
+      "example": "Households may struggle to absorb another inflation shock.",
+      "level": "提升",
+      "gloss": "通胀冲击",
+      "explanation": "使总体价格水平突然上升的外部或政策冲击",
+      "examples": [
+        {
+          "en": "Households may struggle to absorb another inflation shock.",
+          "zh": "家庭可能难以承受又一次通胀冲击。"
+        },
+        {
+          "en": "An inflation shock can squeeze household budgets.",
+          "zh": "通胀冲击可能挤压家庭预算。"
+        }
+      ],
+      "originalFileSHA": "ec65d33d6da99ebad2577f6c9f9938499823d29d117f43532302cf964a4c60a3",
+      "quoteSHA": "f5256aea5ed52b59cd8467a25d1114c697b42c1d561af7a2bec1581da4af5324"
+    },
+    {
+      "id": "V20261012-020",
+      "date": "2026-10-12",
+      "term": "trade-off",
+      "ipa": "ˈtreɪd.ɑːf",
+      "pos": "n.",
+      "meaning": "获得一项优势时需要付出的另一项代价",
+      "chunk": "a trade-off between speed and cost",
+      "example": "There is a trade-off between a faster delivery and a lower cost.",
+      "level": "提升",
+      "gloss": "取舍；权衡",
+      "explanation": "获得一项优势时需要付出的另一项代价",
+      "examples": [
+        {
+          "en": "There is a trade-off between a faster delivery and a lower cost.",
+          "zh": "更快交付与更低成本之间存在取舍。"
+        },
+        {
+          "en": "Every design involves a trade-off.",
+          "zh": "每项设计都涉及取舍。"
+        }
+      ],
+      "originalFileSHA": "ec65d33d6da99ebad2577f6c9f9938499823d29d117f43532302cf964a4c60a3",
+      "quoteSHA": "5e464f40a51aea2090aa26175649d9b1cbe0da9b3cb6eb3c1d07c880607d1743"
+    },
+    {
+      "id": "V20261012-019",
+      "date": "2026-10-12",
+      "term": "contingency",
+      "ipa": "kənˈtɪn.dʒən.si",
+      "pos": "n.",
+      "meaning": "可能发生且需要预先准备的意外情况",
+      "chunk": "a contingency plan",
+      "example": "We need a contingency plan if the reviewer is unavailable.",
+      "level": "挑战",
+      "gloss": "意外情况",
+      "explanation": "可能发生且需要预先准备的意外情况",
+      "examples": [
+        {
+          "en": "We need a contingency plan if the reviewer is unavailable.",
+          "zh": "如果评审人员无法参与，我们需要应急计划。"
+        },
+        {
+          "en": "The budget covers this contingency.",
+          "zh": "预算涵盖了这项意外情况。"
+        }
+      ],
+      "originalFileSHA": "ec65d33d6da99ebad2577f6c9f9938499823d29d117f43532302cf964a4c60a3",
+      "quoteSHA": "0b7131ecf381b4f41f1ae0ee8d27c6a131cf33c2b82585964642e32eefdde78f"
+    },
+    {
+      "id": "V20261012-015",
+      "date": "2026-10-12",
+      "term": "ownership",
+      "ipa": "ˈoʊ.nɚ.ʃɪp",
+      "pos": "n.",
+      "meaning": "对事项负责并推动到结果的责任归属",
+      "chunk": "take ownership",
+      "example": "Who will take ownership of this open item?",
+      "level": "核心",
+      "gloss": "责任归属",
+      "explanation": "对事项负责并推动到结果的责任归属",
+      "examples": [
+        {
+          "en": "Who will take ownership of this open item?",
+          "zh": "谁来负责推进这项未结事项？"
+        },
+        {
+          "en": "Clear ownership prevents duplicated work.",
+          "zh": "明确责任归属可避免重复工作。"
+        }
+      ],
+      "originalFileSHA": "ec65d33d6da99ebad2577f6c9f9938499823d29d117f43532302cf964a4c60a3",
+      "quoteSHA": "40b88ef3f59adeb63f0298341fc9eb8c33cabdc4b6ff8b442ac43d24a1a9c6a3"
+    },
+    {
+      "id": "V20261012-018",
+      "date": "2026-10-12",
+      "term": "commitment",
+      "ipa": "kəˈmɪt.mənt",
+      "pos": "n.",
+      "meaning": "对具体行动或交付作出的明确承诺",
+      "chunk": "make a commitment",
+      "example": "Please confirm the conditions behind this commitment.",
+      "level": "核心",
+      "gloss": "承诺",
+      "explanation": "对具体行动或交付作出的明确承诺",
+      "examples": [
+        {
+          "en": "Please confirm the conditions behind this commitment.",
+          "zh": "请确认这项承诺所依据的条件。"
+        },
+        {
+          "en": "Do not make a commitment without approval.",
+          "zh": "未经批准不要作出承诺。"
+        }
+      ],
+      "originalFileSHA": "ec65d33d6da99ebad2577f6c9f9938499823d29d117f43532302cf964a4c60a3",
+      "quoteSHA": "79c6368037e84230f213ac171e8fae7d68f897a6022fc80b56ed5655a0d4ac69"
+    },
+    {
+      "id": "V20261012-010",
+      "date": "2026-10-12",
+      "term": "buffer",
+      "ipa": "ˈbʌf.ɚ",
+      "pos": "n.",
+      "meaning": "为应对不确定性预留的时间或资源",
+      "chunk": "a time buffer",
+      "example": "The plan includes a two-day buffer for review.",
+      "level": "提升",
+      "gloss": "缓冲时间或资源",
+      "explanation": "为应对不确定性预留的时间或资源",
+      "examples": [
+        {
+          "en": "The plan includes a two-day buffer for review.",
+          "zh": "计划为评审预留了两天缓冲时间。"
+        },
+        {
+          "en": "Keep a small buffer for unexpected costs.",
+          "zh": "为意外费用预留少量缓冲资金。"
+        }
+      ],
+      "originalFileSHA": "ec65d33d6da99ebad2577f6c9f9938499823d29d117f43532302cf964a4c60a3",
+      "quoteSHA": "6883cb2ebf494d53cfa18521eb85e7653a4b48e8f4d2406cbe63f2cab1470501"
+    },
+    {
+      "id": "V20261012-006",
+      "date": "2026-10-12",
+      "term": "constraint",
+      "ipa": "kənˈstreɪnt",
+      "pos": "n.",
+      "meaning": "限制可选方案的条件",
+      "chunk": "a resource constraint",
+      "example": "The main constraint is the number of available reviewers.",
+      "level": "提升",
+      "gloss": "限制条件",
+      "explanation": "限制可选方案的条件",
+      "examples": [
+        {
+          "en": "The main constraint is the number of available reviewers.",
+          "zh": "主要限制是可用评审人员的数量。"
+        },
+        {
+          "en": "Space is a serious constraint here.",
+          "zh": "这里的空间限制很大。"
+        }
+      ],
+      "originalFileSHA": "ec65d33d6da99ebad2577f6c9f9938499823d29d117f43532302cf964a4c60a3",
+      "quoteSHA": "d71685a9af8dc663db20ac057d2417437e3cbcbe076cfcb0bbb4905e949838f8"
+    },
+    {
+      "id": "V20261012-088",
+      "date": "2026-10-12",
+      "term": "preliminary",
+      "ipa": "prɪˈlɪm.ə.ner.i",
+      "pos": "adj.",
+      "meaning": "正式结论前的初步阶段或结果",
+      "chunk": "preliminary findings",
+      "example": "These are preliminary findings, not a final conclusion.",
+      "level": "提升",
+      "gloss": "初步的",
+      "explanation": "正式结论前的初步阶段或结果",
+      "examples": [
+        {
+          "en": "These are preliminary findings, not a final conclusion.",
+          "zh": "这些是初步发现，并非最终结论。"
+        },
+        {
+          "en": "The preliminary estimate excludes tax.",
+          "zh": "初步估算不含税。"
+        }
+      ],
+      "originalFileSHA": "ec65d33d6da99ebad2577f6c9f9938499823d29d117f43532302cf964a4c60a3",
+      "quoteSHA": "fe26c3f6955c69eeab7920f814ff780a582afdf1b3328eca40dfeccb54069854"
+    },
+    {
+      "id": "V20261012-004",
+      "date": "2026-10-12",
+      "term": "milestone",
+      "ipa": "ˈmaɪl.stoʊn",
+      "pos": "n.",
+      "meaning": "标志阶段成果达成的重要节点",
+      "chunk": "reach a milestone",
+      "example": "We reached the first milestone after the review.",
+      "level": "核心",
+      "gloss": "里程碑",
+      "explanation": "标志阶段成果达成的重要节点",
+      "examples": [
+        {
+          "en": "We reached the first milestone after the review.",
+          "zh": "评审后，我们达成了第一个里程碑。"
+        },
+        {
+          "en": "The pilot launch is our next milestone.",
+          "zh": "试点启动是我们的下一个里程碑。"
+        }
+      ],
+      "originalFileSHA": "ec65d33d6da99ebad2577f6c9f9938499823d29d117f43532302cf964a4c60a3",
+      "quoteSHA": "2f97c79d7641cac5a99d558f0ab7f2d8ce263afce9f01cc2ef9bb8dbb8ce44f8"
+    },
+    {
+      "id": "V20261012-005",
+      "date": "2026-10-12",
+      "term": "priority",
+      "ipa": "praɪˈɔːr.ə.t̬i",
+      "pos": "n.",
+      "meaning": "需要优先处理的事项或优先程度",
+      "chunk": "set priorities",
+      "example": "We need to set priorities for the remaining work.",
+      "level": "核心",
+      "gloss": "优先事项；优先级",
+      "explanation": "需要优先处理的事项或优先程度",
+      "examples": [
+        {
+          "en": "We need to set priorities for the remaining work.",
+          "zh": "我们需要为剩余工作设定优先级。"
+        },
+        {
+          "en": "Safety remains our top priority.",
+          "zh": "安全仍是我们的首要任务。"
+        }
+      ],
+      "originalFileSHA": "ec65d33d6da99ebad2577f6c9f9938499823d29d117f43532302cf964a4c60a3",
+      "quoteSHA": "32fc1173c370b0b8e8dd2855ac2b5eedc65484a143cecc121c8cd9edd3fe5f51"
+    },
+    {
+      "id": "V20261012-007",
+      "date": "2026-10-12",
+      "term": "dependency",
+      "ipa": "dɪˈpen.dən.si",
+      "pos": "n.",
+      "meaning": "一项工作对另一项工作或条件的依赖",
+      "chunk": "identify dependencies",
+      "example": "Please identify dependencies before finalizing the schedule.",
+      "level": "提升",
+      "gloss": "依赖关系",
+      "explanation": "一项工作对另一项工作或条件的依赖",
+      "examples": [
+        {
+          "en": "Please identify dependencies before finalizing the schedule.",
+          "zh": "确定日程前，请识别各项依赖关系。"
+        },
+        {
+          "en": "This dependency could delay testing.",
+          "zh": "这项依赖关系可能延误测试。"
+        }
+      ],
+      "originalFileSHA": "ec65d33d6da99ebad2577f6c9f9938499823d29d117f43532302cf964a4c60a3",
+      "quoteSHA": "d156d93f88c8c045c7286556c7c5397e9b134fdee50a56c0bf6f0d0e2ee6ca29"
+    },
+    {
+      "id": "V20261012-008",
+      "date": "2026-10-12",
+      "term": "assumption",
+      "ipa": "əˈsʌmp.ʃən",
+      "pos": "n.",
+      "meaning": "尚未证实但暂时作为规划基础的条件",
+      "chunk": "check an assumption",
+      "example": "This assumption needs to be checked with the supplier.",
+      "level": "核心",
+      "gloss": "假设",
+      "explanation": "尚未证实但暂时作为规划基础的条件",
+      "examples": [
+        {
+          "en": "This assumption needs to be checked with the supplier.",
+          "zh": "这项假设需要与供应商核实。"
+        },
+        {
+          "en": "Our estimate rests on that assumption.",
+          "zh": "我们的估算基于那项假设。"
+        }
+      ],
+      "originalFileSHA": "ec65d33d6da99ebad2577f6c9f9938499823d29d117f43532302cf964a4c60a3",
+      "quoteSHA": "75173a0defcf7a88a33a8fc56aca80276e6ffc1fb2bdfce7ad874cd9bbf9f02c"
+    },
+    {
+      "id": "V20261012-009",
+      "date": "2026-10-12",
+      "term": "baseline",
+      "ipa": "ˈbeɪs.laɪn",
+      "pos": "n.",
+      "meaning": "用于比较后续变化的基准",
+      "chunk": "establish a baseline",
+      "example": "We need a baseline before measuring the improvement.",
+      "level": "提升",
+      "gloss": "基准",
+      "explanation": "用于比较后续变化的基准",
+      "examples": [
+        {
+          "en": "We need a baseline before measuring the improvement.",
+          "zh": "衡量改进前，我们需要一个基准。"
+        },
+        {
+          "en": "Last month's output provides a baseline.",
+          "zh": "上个月的产量提供了一个基准。"
+        }
+      ],
+      "originalFileSHA": "ec65d33d6da99ebad2577f6c9f9938499823d29d117f43532302cf964a4c60a3",
+      "quoteSHA": "1ecae7508acda05741d8dd78974ae8543ede3cfd835e6d3484412d1c00e6f2bf"
+    },
+    {
+      "id": "V20261012-011",
+      "date": "2026-10-12",
+      "term": "sequence",
+      "ipa": "ˈsiː.kwəns",
+      "pos": "n.",
+      "meaning": "行动或步骤的先后顺序",
+      "chunk": "the correct sequence",
+      "example": "Let's agree on the sequence of the remaining activities.",
+      "level": "核心",
+      "gloss": "顺序",
+      "explanation": "行动或步骤的先后顺序",
+      "examples": [
+        {
+          "en": "Let's agree on the sequence of the remaining activities.",
+          "zh": "我们来商定剩余活动的先后顺序。"
+        },
+        {
+          "en": "The assembly sequence has changed.",
+          "zh": "装配顺序已经改变。"
+        }
+      ],
+      "originalFileSHA": "ec65d33d6da99ebad2577f6c9f9938499823d29d117f43532302cf964a4c60a3",
+      "quoteSHA": "f03812439e723845316df235afd0465af22611fad84a4e13fc7650afb04e60d5"
+    },
+    {
+      "id": "V20261012-013",
+      "date": "2026-10-12",
+      "term": "allocate",
+      "ipa": "ˈæl.ə.keɪt",
+      "pos": "v.",
+      "meaning": "把时间、人员或资源分配给某项工作",
+      "chunk": "allocate resources",
+      "example": "We should allocate more time to the initial review.",
+      "level": "提升",
+      "gloss": "分配",
+      "explanation": "把时间、人员或资源分配给某项工作",
+      "examples": [
+        {
+          "en": "We should allocate more time to the initial review.",
+          "zh": "我们应给初步评审分配更多时间。"
+        },
+        {
+          "en": "Allocate two engineers to the trial.",
+          "zh": "为试验分配两名工程师。"
+        }
+      ],
+      "originalFileSHA": "ec65d33d6da99ebad2577f6c9f9938499823d29d117f43532302cf964a4c60a3",
+      "quoteSHA": "678418ad6820e3371390b218fb3f8f9ea3d02223516a9819afb7212455414617"
+    },
+    {
+      "id": "V20261012-014",
+      "date": "2026-10-12",
+      "term": "delegate",
+      "ipa": "ˈdel.ə.ɡeɪt",
+      "pos": "v.",
+      "meaning": "把具体任务及适当权限交给别人",
+      "chunk": "delegate a task",
+      "example": "You can delegate the data collection to another team member.",
+      "level": "提升",
+      "gloss": "委派",
+      "explanation": "把具体任务及适当权限交给别人",
+      "examples": [
+        {
+          "en": "You can delegate the data collection to another team member.",
+          "zh": "你可以把数据收集委派给另一位团队成员。"
+        },
+        {
+          "en": "Managers should delegate routine approvals.",
+          "zh": "经理应委派常规审批工作。"
+        }
+      ],
+      "originalFileSHA": "ec65d33d6da99ebad2577f6c9f9938499823d29d117f43532302cf964a4c60a3",
+      "quoteSHA": "8b68bb07be019031e0b9f6b5d668ee8c0171e9fa8f4acf3069949287be58a7aa"
+    },
+    {
+      "id": "V20261012-016",
+      "date": "2026-10-12",
+      "term": "accountable",
+      "ipa": "əˈkaʊn.t̬ə.bəl",
+      "pos": "adj.",
+      "meaning": "需要对最终结果作出解释并承担责任的",
+      "chunk": "accountable for the outcome",
+      "example": "One person must be accountable for the final decision.",
+      "level": "提升",
+      "gloss": "须对结果负责的",
+      "explanation": "需要对最终结果作出解释并承担责任的",
+      "examples": [
+        {
+          "en": "One person must be accountable for the final decision.",
+          "zh": "必须有一个人对最终决定负责。"
+        },
+        {
+          "en": "The director is accountable for quality.",
+          "zh": "总监须对质量负责。"
+        }
+      ],
+      "originalFileSHA": "ec65d33d6da99ebad2577f6c9f9938499823d29d117f43532302cf964a4c60a3",
+      "quoteSHA": "162efdcaaa39ee372770cb7fbd7471bb4370341dea35e7a8727bae874d6018db"
+    },
+    {
+      "id": "V20261012-017",
+      "date": "2026-10-12",
+      "term": "deadline",
+      "ipa": "ˈded.laɪn",
+      "pos": "n.",
+      "meaning": "必须完成某事的最后期限",
+      "chunk": "meet a deadline",
+      "example": "We need a decision today to meet the deadline.",
+      "level": "核心",
+      "gloss": "截止期限",
+      "explanation": "必须完成某事的最后期限",
+      "examples": [
+        {
+          "en": "We need a decision today to meet the deadline.",
+          "zh": "为赶上截止期限，我们今天需要作出决定。"
+        },
+        {
+          "en": "The submission deadline is Monday.",
+          "zh": "提交截止日期是周一。"
+        }
+      ],
+      "originalFileSHA": "ec65d33d6da99ebad2577f6c9f9938499823d29d117f43532302cf964a4c60a3",
+      "quoteSHA": "fd573754b3bdd9c7fc69d9fb2344b3d3226cb2f463e1c35d326be78529a0d300"
+    },
+    {
+      "id": "V20261012-021",
+      "date": "2026-10-12",
+      "term": "feasible",
+      "ipa": "ˈfiː.zə.bəl",
+      "pos": "adj.",
+      "meaning": "在现有条件下做得到的",
+      "chunk": "a feasible option",
+      "example": "Is this option feasible with our current resources?",
+      "level": "提升",
+      "gloss": "可行的",
+      "explanation": "在现有条件下做得到的",
+      "examples": [
+        {
+          "en": "Is this option feasible with our current resources?",
+          "zh": "以我们现有资源，这个方案可行吗？"
+        },
+        {
+          "en": "A smaller trial seems feasible.",
+          "zh": "规模更小的试验似乎可行。"
+        }
+      ],
+      "originalFileSHA": "ec65d33d6da99ebad2577f6c9f9938499823d29d117f43532302cf964a4c60a3",
+      "quoteSHA": "3d3f1c28ffea383bfb742cf92baf996f65555c6eb9ae78e699f5a66c231b4828"
+    },
+    {
+      "id": "V20261012-023",
+      "date": "2026-10-12",
+      "term": "overdue",
+      "ipa": "ˌoʊ.vɚˈduː",
+      "pos": "adj.",
+      "meaning": "超过约定完成时间的",
+      "chunk": "an overdue action",
+      "example": "The action is overdue, so we need an updated completion time.",
+      "level": "核心",
+      "gloss": "逾期的",
+      "explanation": "超过约定完成时间的",
+      "examples": [
+        {
+          "en": "The action is overdue, so we need an updated completion time.",
+          "zh": "这项行动已逾期，因此需要更新完成时间。"
+        },
+        {
+          "en": "Two invoices are overdue.",
+          "zh": "两张发票已逾期未付。"
+        }
+      ],
+      "originalFileSHA": "ec65d33d6da99ebad2577f6c9f9938499823d29d117f43532302cf964a4c60a3",
+      "quoteSHA": "0184c0e9e9a9c9274d6c7f83a9c1a4176c445060acd0eb7349e89191922c6df5"
+    },
+    {
+      "id": "V20261012-025",
+      "date": "2026-10-12",
+      "term": "backlog",
+      "ipa": "ˈbæk.lɑːɡ",
+      "pos": "n.",
+      "meaning": "积累下来尚未完成的工作",
+      "chunk": "clear the backlog",
+      "example": "We will clear the backlog before accepting more requests.",
+      "level": "提升",
+      "gloss": "积压工作",
+      "explanation": "积累下来尚未完成的工作",
+      "examples": [
+        {
+          "en": "We will clear the backlog before accepting more requests.",
+          "zh": "接受更多请求前，我们将清理积压工作。"
+        },
+        {
+          "en": "The maintenance backlog keeps growing.",
+          "zh": "维修积压工作不断增加。"
+        }
+      ],
+      "originalFileSHA": "ec65d33d6da99ebad2577f6c9f9938499823d29d117f43532302cf964a4c60a3",
+      "quoteSHA": "752241623278fddefa1f2ac1f639623fbf0f7f1f8bd2ab378c514ec03536099e"
+    },
+    {
+      "id": "V20261012-026",
+      "date": "2026-10-12",
+      "term": "bottleneck",
+      "ipa": "ˈbɑː.t̬əl.nek",
+      "pos": "n.",
+      "meaning": "限制整体进度或产出的关键环节",
+      "chunk": "remove a bottleneck",
+      "example": "The approval step has become a bottleneck.",
+      "level": "提升",
+      "gloss": "瓶颈",
+      "explanation": "限制整体进度或产出的关键环节",
+      "examples": [
+        {
+          "en": "The approval step has become a bottleneck.",
+          "zh": "审批环节已成为瓶颈。"
+        },
+        {
+          "en": "Packaging is the main production bottleneck.",
+          "zh": "包装是主要生产瓶颈。"
+        }
+      ],
+      "originalFileSHA": "ec65d33d6da99ebad2577f6c9f9938499823d29d117f43532302cf964a4c60a3",
+      "quoteSHA": "226dbd8cbc6e8c2632a848111b268da5bf109b0a13840fa5a5b02d37617ec83e"
+    },
+    {
+      "id": "V20261012-028",
+      "date": "2026-10-12",
+      "term": "setback",
+      "ipa": "ˈset.bæk",
+      "pos": "n.",
+      "meaning": "使原定进展受到阻碍的挫折或延误",
+      "chunk": "a temporary setback",
+      "example": "The missing approval is a temporary setback, not a reason to stop the project.",
+      "level": "提升",
+      "gloss": "挫折；进展受阻",
+      "explanation": "使原定进展受到阻碍的挫折或延误",
+      "examples": [
+        {
+          "en": "The missing approval is a temporary setback, not a reason to stop the project.",
+          "zh": "缺少批准是暂时挫折，并非停止项目的理由。"
+        },
+        {
+          "en": "The failed trial was a setback.",
+          "zh": "试验失败是一次挫折。"
+        }
+      ],
+      "originalFileSHA": "ec65d33d6da99ebad2577f6c9f9938499823d29d117f43532302cf964a4c60a3",
+      "quoteSHA": "2177a070c3c24807a84a9ae38c19eab4e341e361a51f90339e22a1ce3ac1a4e2"
+    },
+    {
+      "id": "V20261012-029",
+      "date": "2026-10-12",
+      "term": "escalate",
+      "ipa": "ˈes.kə.leɪt",
+      "pos": "v.",
+      "meaning": "把超出当前处理权限的问题提交上级协调",
+      "chunk": "escalate an issue",
+      "example": "We should escalate the issue if the teams cannot agree.",
+      "level": "提升",
+      "gloss": "上报协调",
+      "explanation": "把超出当前处理权限的问题提交上级协调",
+      "examples": [
+        {
+          "en": "We should escalate the issue if the teams cannot agree.",
+          "zh": "如果各团队无法达成一致，我们应将问题上报。"
+        },
+        {
+          "en": "Escalate unresolved safety concerns immediately.",
+          "zh": "立即上报未解决的安全问题。"
+        }
+      ],
+      "originalFileSHA": "ec65d33d6da99ebad2577f6c9f9938499823d29d117f43532302cf964a4c60a3",
+      "quoteSHA": "5c272ebba2215b0b52cad3f8e90b5ea967db9570921a4d63d47fb5552c2e89db"
+    },
+    {
+      "id": "V20261012-030",
+      "date": "2026-10-12",
+      "term": "mitigate",
+      "ipa": "ˈmɪt̬.ə.ɡeɪt",
+      "pos": "v.",
+      "meaning": "降低风险发生的可能性或造成的影响",
+      "chunk": "mitigate a risk",
+      "example": "An earlier review would help mitigate the schedule risk.",
+      "level": "挑战",
+      "gloss": "减轻；缓解",
+      "explanation": "降低风险发生的可能性或造成的影响",
+      "examples": [
+        {
+          "en": "An earlier review would help mitigate the schedule risk.",
+          "zh": "提前评审有助于降低进度风险。"
+        },
+        {
+          "en": "Extra stock can mitigate supply risks.",
+          "zh": "增加库存可缓解供应风险。"
+        }
+      ],
+      "originalFileSHA": "ec65d33d6da99ebad2577f6c9f9938499823d29d117f43532302cf964a4c60a3",
+      "quoteSHA": "5ee1e8bb9a236712ce6f84321a5fd4916f4bde2eff4abcf656bc55a90bee95d7"
+    },
+    {
+      "id": "V20261012-031",
+      "date": "2026-10-12",
+      "term": "monitor",
+      "ipa": "ˈmɑː.nə.t̬ɚ",
+      "pos": "v.",
+      "meaning": "持续观察状态或变化",
+      "chunk": "monitor progress",
+      "example": "We will monitor progress and report any significant change.",
+      "level": "核心",
+      "gloss": "监测；持续关注",
+      "explanation": "持续观察状态或变化",
+      "examples": [
+        {
+          "en": "We will monitor progress and report any significant change.",
+          "zh": "我们将监测进度并报告任何重大变化。"
+        },
+        {
+          "en": "Monitor the temperature during transport.",
+          "zh": "运输期间监测温度。"
+        }
+      ],
+      "originalFileSHA": "ec65d33d6da99ebad2577f6c9f9938499823d29d117f43532302cf964a4c60a3",
+      "quoteSHA": "bdd7a8084fce073a2ec897fac0d172c4732e5bba01b2c97d186e7ee14594fd39"
+    },
+    {
+      "id": "V20261012-032",
+      "date": "2026-10-12",
+      "term": "reassess",
+      "ipa": "ˌriː.əˈses",
+      "pos": "v.",
+      "meaning": "根据信息变化重新评估",
+      "chunk": "reassess the plan",
+      "example": "We need to reassess the plan after the scope change.",
+      "level": "提升",
+      "gloss": "重新评估",
+      "explanation": "根据信息变化重新评估",
+      "examples": [
+        {
+          "en": "We need to reassess the plan after the scope change.",
+          "zh": "范围变化后，我们需要重新评估计划。"
+        },
+        {
+          "en": "Reassess demand after the holiday.",
+          "zh": "假期后重新评估需求。"
+        }
+      ],
+      "originalFileSHA": "ec65d33d6da99ebad2577f6c9f9938499823d29d117f43532302cf964a4c60a3",
+      "quoteSHA": "47195ea0d5e8f4014d648d32c78c4d70f1f74f67ba3fe0e7f1904590f1f22df1"
+    },
+    {
+      "id": "V20261012-033",
+      "date": "2026-10-12",
+      "term": "defer",
+      "ipa": "dɪˈfɝː",
+      "pos": "v.",
+      "meaning": "把决定或行动推迟到以后",
+      "chunk": "defer a decision",
+      "example": "We can defer the decision until the missing data arrives.",
+      "level": "提升",
+      "gloss": "推迟",
+      "explanation": "把决定或行动推迟到以后",
+      "examples": [
+        {
+          "en": "We can defer the decision until the missing data arrives.",
+          "zh": "我们可等缺失数据到齐后再作决定。"
+        },
+        {
+          "en": "We agreed to defer the launch.",
+          "zh": "我们同意推迟发布。"
+        }
+      ],
+      "originalFileSHA": "ec65d33d6da99ebad2577f6c9f9938499823d29d117f43532302cf964a4c60a3",
+      "quoteSHA": "3f9b7ba36866fc6d0d4c31531f18ca202499f457661972bbf87a0988c7222707"
+    },
+    {
+      "id": "V20261012-034",
+      "date": "2026-10-12",
+      "term": "expedite",
+      "ipa": "ˈek.spə.daɪt",
+      "pos": "v.",
+      "meaning": "采取措施加快事项处理",
+      "chunk": "expedite a review",
+      "example": "Could you help expedite the review without skipping any checks?",
+      "level": "挑战",
+      "gloss": "加快处理",
+      "explanation": "采取措施加快事项处理",
+      "examples": [
+        {
+          "en": "Could you help expedite the review without skipping any checks?",
+          "zh": "你能在不省略检查的前提下帮助加快评审吗？"
+        },
+        {
+          "en": "Please expedite the replacement shipment.",
+          "zh": "请加快替换品发货。"
+        }
+      ],
+      "originalFileSHA": "ec65d33d6da99ebad2577f6c9f9938499823d29d117f43532302cf964a4c60a3",
+      "quoteSHA": "3a37465b6dc75ce7ee72af025fbab5f02a7b1645dbc318b070c63b40348464bf"
+    },
+    {
+      "id": "V20261012-035",
+      "date": "2026-10-12",
+      "term": "resolve",
+      "ipa": "rɪˈzɑːlv",
+      "pos": "v.",
+      "meaning": "解决问题、分歧或不确定事项",
+      "chunk": "resolve an issue",
+      "example": "We need to resolve the scope issue before signing off.",
+      "level": "核心",
+      "gloss": "解决",
+      "explanation": "解决问题、分歧或不确定事项",
+      "examples": [
+        {
+          "en": "We need to resolve the scope issue before signing off.",
+          "zh": "签字批准前，我们需要解决范围问题。"
+        },
+        {
+          "en": "The teams resolved their pricing dispute.",
+          "zh": "两个团队解决了定价争议。"
+        }
+      ],
+      "originalFileSHA": "ec65d33d6da99ebad2577f6c9f9938499823d29d117f43532302cf964a4c60a3",
+      "quoteSHA": "011263f7a9e660c8cba0498f1bfab49ee8ea9870eb6c9e58b628f9244b20eaf8"
+    },
+    {
+      "id": "V20261012-036",
+      "date": "2026-10-12",
+      "term": "handover",
+      "ipa": "ˈhænd.oʊ.vɚ",
+      "pos": "n.",
+      "meaning": "工作、信息和责任的正式交接",
+      "chunk": "a clear handover",
+      "example": "A clear handover will help the next team start smoothly.",
+      "level": "提升",
+      "gloss": "交接",
+      "explanation": "工作、信息和责任的正式交接",
+      "examples": [
+        {
+          "en": "A clear handover will help the next team start smoothly.",
+          "zh": "清晰的交接将帮助下个团队顺利启动。"
+        },
+        {
+          "en": "The shift handover takes ten minutes.",
+          "zh": "交班需要十分钟。"
+        }
+      ],
+      "originalFileSHA": "ec65d33d6da99ebad2577f6c9f9938499823d29d117f43532302cf964a4c60a3",
+      "quoteSHA": "3886b46880af39f857e1f4f776670310957e90fedd505e96bf84ce7cf627abc4"
+    },
+    {
+      "id": "V20261012-037",
+      "date": "2026-10-12",
+      "term": "sign-off",
+      "ipa": "ˈsaɪnˌɑːf",
+      "pos": "n.",
+      "meaning": "经过审阅后的正式同意或放行",
+      "chunk": "obtain sign-off",
+      "example": "We need the project manager's sign-off before proceeding.",
+      "level": "提升",
+      "gloss": "正式批准",
+      "explanation": "经过审阅后的正式同意或放行",
+      "examples": [
+        {
+          "en": "We need the project manager's sign-off before proceeding.",
+          "zh": "继续推进前，我们需要项目经理正式批准。"
+        },
+        {
+          "en": "Finance sign-off is still required.",
+          "zh": "仍需财务部门正式批准。"
+        }
+      ],
+      "originalFileSHA": "ec65d33d6da99ebad2577f6c9f9938499823d29d117f43532302cf964a4c60a3",
+      "quoteSHA": "1f9a3a53dcf7c4059c5ee1163cf1f751a175524e429c2a49ad5995915d3441d5"
+    },
+    {
+      "id": "V20261012-038",
+      "date": "2026-10-12",
+      "term": "checkpoint",
+      "ipa": "ˈtʃek.pɔɪnt",
+      "pos": "n.",
+      "meaning": "预先约定的进展检查节点",
+      "chunk": "set a checkpoint",
+      "example": "Let's set a checkpoint for Wednesday afternoon.",
+      "level": "核心",
+      "gloss": "检查节点",
+      "explanation": "预先约定的进展检查节点",
+      "examples": [
+        {
+          "en": "Let's set a checkpoint for Wednesday afternoon.",
+          "zh": "我们将检查节点设在周三下午吧。"
+        },
+        {
+          "en": "The next checkpoint covers test results.",
+          "zh": "下个检查节点将审查测试结果。"
+        }
+      ],
+      "originalFileSHA": "ec65d33d6da99ebad2577f6c9f9938499823d29d117f43532302cf964a4c60a3",
+      "quoteSHA": "b1f73fef26f57f30c5e49fc603548364054003793c9fc7c58d2747a30956755f"
+    },
+    {
+      "id": "V20261012-040",
+      "date": "2026-10-12",
+      "term": "outcome",
+      "ipa": "ˈaʊt.kʌm",
+      "pos": "n.",
+      "meaning": "行动最终带来的结果",
+      "chunk": "the expected outcome",
+      "example": "The expected outcome is a decision, not another discussion.",
+      "level": "核心",
+      "gloss": "结果",
+      "explanation": "行动最终带来的结果",
+      "examples": [
+        {
+          "en": "The expected outcome is a decision, not another discussion.",
+          "zh": "预期结果是一项决定，而非另一轮讨论。"
+        },
+        {
+          "en": "The outcome exceeded our expectations.",
+          "zh": "结果超出了我们的预期。"
+        }
+      ],
+      "originalFileSHA": "ec65d33d6da99ebad2577f6c9f9938499823d29d117f43532302cf964a4c60a3",
+      "quoteSHA": "0aa2e4d90988cd4260c5c5c0414587ae194c80da6727e613a8e81f4f7a155134"
+    }
+  ]
+}
