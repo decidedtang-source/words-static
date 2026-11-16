@@ -15,7 +15,7 @@ const schemas={
  ReviewRecord:['reviewId','reviewer','role','scope','inputHash','artifactHash','checks','verdict','issues','time'],
  CandidateManifest:['batchId','planFreezeId','runAuthorizationRef','entryIds','itemStates','dependencies','moduleLocks','metrics']
 };
-const optional={EntrySnapshot:['originalIPA','originalMeaning'],SourceRecord:['claimScope','claims','sourceDate','evidencePath'],Sense:['sourceSenseId','usageLabels'],ContextUse:['senseRefs','targetSpans','expressionExplanation','context','sourceLabel','sourceURL','sourceDate'],BridgeRecord:['historyLink','historyClaimRefs','returnTargets']};
+const optional={EntrySnapshot:['originalIPA','originalMeaning','originalPOS'],SourceRecord:['claimScope','claims','sourceDate','evidencePath'],Sense:['sourceSenseId','usageLabels'],ContextUse:['senseRefs','targetSpans','expressionExplanation','context','sourceLabel','sourceURL','sourceDate'],BridgeRecord:['historyLink','historyClaimRefs','returnTargets']};
 const arrays=new Set(['expressionType','limitations','sourceRefs','sources','senseIds','inventoryRefs','selectedSenseIds','senses','claims','strategies','anchorRefs','targetRefs','evidenceRefs','roles','questions','responses','boundaries','blocks','workplaceUse','practiceRefs','edges','checks','issues','entryIds','itemStates']);
 const objects=new Set(['meaning','qualifiers','coverage','evidenceCriteria','dependencies','moduleLocks','metrics']);
 const hash=s=>createHash('sha256').update(s).digest('hex');

@@ -13,4 +13,5 @@ test('quote modification and weak technical evidence block draft',()=>{
 test('direct caller cannot bypass actual prompt and generation-contract binding',()=>{
  const errors=validateDraft({context:{quote:'x',entryId:'e'}},{snapshot:{entryId:'e',quote:'x'},promptHash:'fake'}).errors;
  assert.ok(errors.some(e=>e.includes('BoundInput')));
+ assert.ok(errors.some(e=>e.includes('snapshot binding')));
 });

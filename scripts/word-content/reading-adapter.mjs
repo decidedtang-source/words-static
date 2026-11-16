@@ -1,6 +1,7 @@
 import fs from 'node:fs';import {assemble,root} from '../../word-page/manage.mjs';import {assertEntity} from './contracts.mjs';
 export function toV10AnalysisProjection(a){assertEntity('AnalysisRecord',a);return {analysisBlocks:a.blocks.map(b=>({id:b.blockId,title:b.title||b.dimensions.join(' · '),text:b.text})),workplaceUse:a.workplaceUse};}
 export function toLegacyReadingProjection(entry,context,resources){
+ if(entry.schemaVersion===1){assertEntity('EntrySnapshot',entry);entry={...entry,id:entry.entryId,date:entry.batch,pos:entry.originalPOS};}
  const {selection,bridge,history,analysis,inventory,senses,practices=[]}=resources;
  if(!selection||!bridge||!history||!analysis||!inventory||!senses||!context.quote)throw Error('missing projection dependencies');
  const learn=selection.senses.map(s=>{const sense=senses.find(x=>x.senseId===s.senseId);if(!sense)throw Error('missing sense');const e=s.examples[0];if(!e)throw Error('missing learning example');return {title:s.title,en:s.explanationZh,meta:s.usageLabels.join(' · '),example:e.en,zh:e.zh,credit:e.credit||(e.origin==='original'?'原创教学例句':'来源例句'),url:s.evidenceRefs[0].url||'https://en-word.net/'};});

@@ -1,0 +1,24 @@
+{
+ "checkedAt":"2026-11-16",
+ "policy":"仅保存必要短引和主张定位；中文整理与原创例句不是官方译文；搜索索引读取不等于完整词典接入。",
+ "records":[
+  {"id":"cambridge-qualify","url":"https://dictionary.cambridge.org/dictionary/english/qualify","access":"indexed_excerpt","locator":"verb, limit a statement","quote":"to limit the strength or meaning of a statement","claim":"qualify可给陈述加限定；与具备资格义区分。"},
+  {"id":"cambridge-provided","url":"https://dictionary.cambridge.org/dictionary/english/provided","access":"indexed_excerpt","locator":"conjunction, also provided that","quote":"if, or only if","claim":"provided that引出条件；不能删除其条件从句。","ipa":"prəˈvaɪ.dɪd ðət"},
+  {"id":"cambridge-constraint","url":"https://dictionary.cambridge.org/dictionary/english/constraint","access":"indexed_excerpt","locator":"countable noun, limits","quote":"something that controls what you do by keeping you within particular limits","claim":"constraint可指限制行动的条件，不仅是物理束缚。","ipa":"kənˈstreɪnt"},
+  {"id":"cambridge-account-for","url":"https://dictionary.cambridge.org/dictionary/english/account-for?topic=existing-and-being","access":"indexed_excerpt","locator":"Business English, part of a total","quote":"to form part of a total","claim":"account for可表示占总体的一部分，不等于说明原因。"},
+  {"id":"cambridge-necessarily","url":"https://dictionary.cambridge.org/dictionary/learner-english/necessarily","access":"indexed_excerpt","locator":"not necessarily","quote":"not for certain","claim":"not necessarily是否定必然性，不是断言相反命题。"},
+  {"id":"cambridge-buffer","url":"https://dictionary.cambridge.org/dictionary/english/buffer?q=buffers","access":"indexed_excerpt","locator":"noun PROTECTION; buffer for unforeseen delays example","quote":"something or someone that helps protect from harm, risk, or problems","claim":"buffer可指应对风险的缓冲，来源有预留时间防意外延误的用例。","ipa":"ˈbʌf.ɚ"},
+  {"id":"cambridge-escalate","url":"https://dictionary.cambridge.org/dictionary/english/escalate","access":"indexed_excerpt","locator":"transitive business specialized","quote":"to involve someone more important or higher in rank in a situation or problem","claim":"escalate issue可指提交较高级别处理，不等于故意扩大冲突。","ipa":"ˈes.kə.leɪt"},
+  {"id":"cambridge-overdue","url":"https://dictionary.cambridge.org/us/dictionary/english/overdue","access":"indexed_excerpt","locator":"Business English, event or action overdue","quote":"it should have already happened or been done","claim":"overdue不限于欠款，也可指本应已经完成的事项。"},
+  {"id":"nasa-verification","url":"https://www.nasa.gov/reference/5-0-product-realization/","access":"page","locator":"5.3 Product Verification; 5.4 Product Validation","quote":"verification provides objective evidence","claim":"Verification对照规定要求；validation关注预定使用环境和用户需求。检查、分析、演示、测试可作方法；具体选择依要求与场景，不能将NASA流程当成本公司制度。"},
+  {"id":"history-objective","url":"https://www.etymonline.com/word/objective","access":"page","locator":"objective (n.), paragraph 1","quote":"Meaning \"goal, aim\" (1881)","claim":"词源条目将目标义记录于1881年，并联系1852年的军事用语objective point；这不是所有使用者开始使用的精确日期。"},
+  {"id":"history-capacity","url":"https://www.etymonline.com/word/capacity","access":"page","locator":"capacity (n.), paragraphs 1–2","quote":"the industrial sense of \"ability to produce\" is from 1931","claim":"词条记载15世纪初已有容纳能力及能力相关用法；工业生产能力义记录于1931年。不能据此推定某团队的具体产能。"},
+  {"id":"history-reservation","url":"https://www.etymonline.com/word/reservation","access":"page","locator":"reservation (n.), paragraphs 1–2","quote":"act of reserving or keeping back","claim":"词条记载14世纪末有保留／留下用法，约1600年见未明说的限制／保留意见义。"},
+  {"id":"history-qualify","url":"https://www.etymonline.com/word/qualify","access":"page","locator":"qualify (v.), paragraphs 1–2","quote":"to limit, modify by a limitation or reservation, restrict","claim":"词条将给予性质用法记于15世纪中叶，将限制／修正用法记于1530年代；具备资格和加限定是不同现代用法。"}
+ ],
+ "accessFailures":[
+  {"url":"https://dictionary.cambridge.org/dictionary/english/account-for-sth","result":"403","fallback":"official indexed excerpt cambridge-account-for"},
+  {"url":"https://dictionary.cambridge.org/dictionary/english/buffer","result":"403","fallback":"official indexed excerpt cambridge-buffer"},
+  {"url":"https://dictionary.cambridge.org/dictionary/english/necessarily","result":"403","fallback":"official indexed excerpt cambridge-necessarily"}
+ ]
+}
