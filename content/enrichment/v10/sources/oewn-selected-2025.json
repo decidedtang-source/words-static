@@ -1,0 +1,4323 @@
+{
+  "manifest": {
+    "schemaVersion": 1,
+    "snapshotId": "oewn:2025:094517cfd433d7f9",
+    "sourceId": "oewn",
+    "release": "2025",
+    "entries": 135969,
+    "sha256": "a78e8615e519ed24c9af58482159230f49c558be89104d8d511f3c7939ec5eb0",
+    "attribution": "Open English Wordnet 2025, Open English Wordnet team; derived from Princeton WordNet. CC BY 4.0 and retained Princeton notice. Converted to SQLite; source definitions unchanged.",
+    "rights": {
+      "lookup": true,
+      "display": true,
+      "export": true
+    },
+    "licenseEvidence": [
+      "LICENSE.md",
+      "WNDB_License.txt"
+    ]
+  },
+  "sourcePath": "verified local licensed snapshot",
+  "rows": [
+    {
+      "term": "objective",
+      "entries": [
+        {
+          "id": "444e4660436674bc78b8d2fedbedea335e8f2af1d9cdce5b87a9850c1349006c",
+          "sourceId": "oewn",
+          "release": "2025",
+          "sourceEntryId": "entries-o.json/objective/a",
+          "lemma": "objective",
+          "lexicalPos": "a",
+          "pronunciation": [
+            {
+              "value": "ɒbˈd͡ʒɛk.tɪv",
+              "variety": "GB"
+            },
+            {
+              "value": "əbˈd͡ʒɛk.tɪv",
+              "variety": "US"
+            }
+          ],
+          "senses": [
+            {
+              "sourceSenseId": "objective%3:00:00::",
+              "anchor": "entries-o.json/objective/a/sense/0",
+              "synset": "01619332-a",
+              "definitions": [
+                "undistorted by emotion or personal bias; based on observable phenomena"
+              ],
+              "examples": [
+                "an objective appraisal",
+                "objective evidence"
+              ]
+            },
+            {
+              "sourceSenseId": "objective%3:01:00::",
+              "anchor": "entries-o.json/objective/a/sense/1",
+              "synset": "02873086-a",
+              "definitions": [
+                "serving as or indicating the object of a verb or of certain prepositions and used for certain other purposes"
+              ],
+              "examples": [
+                "objective case",
+                "accusative endings"
+              ]
+            },
+            {
+              "sourceSenseId": "objective%5:00:00:real:00",
+              "anchor": "entries-o.json/objective/a/sense/2",
+              "synset": "01940682-s",
+              "definitions": [
+                "emphasizing or expressing things as perceived without distortion of personal feelings or interpretation"
+              ],
+              "examples": [
+                "objective art"
+              ]
+            },
+            {
+              "sourceSenseId": "objective%5:00:00:concrete:00",
+              "anchor": "entries-o.json/objective/a/sense/3",
+              "synset": "00013461-s",
+              "definitions": [
+                "belonging to immediate experience of actual things or events"
+              ],
+              "examples": [
+                "objective benefits",
+                "an objective example",
+                "there is no objective evidence of anything of the kind"
+              ]
+            }
+          ],
+          "attribution": "Open English Wordnet 2025, Open English Wordnet team; derived from Princeton WordNet. CC BY 4.0 and retained Princeton notice. Converted to SQLite; source definitions unchanged."
+        },
+        {
+          "id": "73e5a5fd5e2771a3235dc54eb943f5e0596a9eae01453dfb9d0eeba4555ce006",
+          "sourceId": "oewn",
+          "release": "2025",
+          "sourceEntryId": "entries-o.json/objective/n",
+          "lemma": "objective",
+          "lexicalPos": "n",
+          "pronunciation": [
+            {
+              "value": "ɒbˈd͡ʒɛk.tɪv",
+              "variety": "GB"
+            },
+            {
+              "value": "əbˈd͡ʒɛk.tɪv",
+              "variety": "US"
+            }
+          ],
+          "senses": [
+            {
+              "sourceSenseId": "objective%1:09:00::",
+              "anchor": "entries-o.json/objective/n/sense/0",
+              "synset": "05990115-n",
+              "definitions": [
+                "the goal intended to be attained (and which is believed to be attainable)"
+              ],
+              "examples": [
+                "the sole object of her trip was to see her children"
+              ]
+            },
+            {
+              "sourceSenseId": "objective%1:06:00::",
+              "anchor": "entries-o.json/objective/n/sense/1",
+              "synset": "03843818-n",
+              "definitions": [
+                "the lens or system of lenses in a telescope or microscope that is nearest the object being viewed"
+              ],
+              "examples": []
+            }
+          ],
+          "attribution": "Open English Wordnet 2025, Open English Wordnet team; derived from Princeton WordNet. CC BY 4.0 and retained Princeton notice. Converted to SQLite; source definitions unchanged."
+        }
+      ]
+    },
+    {
+      "term": "capacity",
+      "entries": [
+        {
+          "id": "b6f02502070bc59b76226f38f430e5d396753d28b137fc25102e926b478708b2",
+          "sourceId": "oewn",
+          "release": "2025",
+          "sourceEntryId": "entries-c.json/capacity/n",
+          "lemma": "capacity",
+          "lexicalPos": "n",
+          "pronunciation": [
+            {
+              "value": "kəˈpæsɪti"
+            }
+          ],
+          "senses": [
+            {
+              "sourceSenseId": "capacity%1:07:00::",
+              "anchor": "entries-c.json/capacity/n/sense/0",
+              "synset": "05210665-n",
+              "definitions": [
+                "capability to perform or produce"
+              ],
+              "examples": [
+                "among his gifts is his capacity for true altruism",
+                "limited runway capacity",
+                "a great capacity for growth"
+              ]
+            },
+            {
+              "sourceSenseId": "capacity%1:26:00::",
+              "anchor": "entries-c.json/capacity/n/sense/1",
+              "synset": "14554438-n",
+              "definitions": [
+                "the susceptibility of something to a particular treatment"
+              ],
+              "examples": [
+                "the capability of a metal to be fused"
+              ]
+            },
+            {
+              "sourceSenseId": "capacity%1:23:00::",
+              "anchor": "entries-c.json/capacity/n/sense/2",
+              "synset": "13801586-n",
+              "definitions": [
+                "the amount that can be contained"
+              ],
+              "examples": [
+                "the gas tank has a capacity of 12 gallons"
+              ]
+            },
+            {
+              "sourceSenseId": "capacity%1:04:00::",
+              "anchor": "entries-c.json/capacity/n/sense/3",
+              "synset": "00916626-n",
+              "definitions": [
+                "the maximum production possible"
+              ],
+              "examples": [
+                "the plant is working at 80 per cent capacity"
+              ]
+            },
+            {
+              "sourceSenseId": "capacity%1:04:01::",
+              "anchor": "entries-c.json/capacity/n/sense/4",
+              "synset": "00722203-n",
+              "definitions": [
+                "a specified function"
+              ],
+              "examples": [
+                "he was employed in the capacity of director",
+                "he should be retained in his present capacity at a higher salary"
+              ]
+            },
+            {
+              "sourceSenseId": "capacity%1:23:01::",
+              "anchor": "entries-c.json/capacity/n/sense/5",
+              "synset": "13777193-n",
+              "definitions": [
+                "(computer science) the amount of information (in bytes) that can be stored on a disk drive"
+              ],
+              "examples": [
+                "the capacity of a hard disk drive is usually expressed in megabytes"
+              ]
+            },
+            {
+              "sourceSenseId": "capacity%1:19:00::",
+              "anchor": "entries-c.json/capacity/n/sense/6",
+              "synset": "11453660-n",
+              "definitions": [
+                "an electrical phenomenon whereby an electric charge is stored"
+              ],
+              "examples": []
+            },
+            {
+              "sourceSenseId": "capacity%1:09:00::",
+              "anchor": "entries-c.json/capacity/n/sense/7",
+              "synset": "05630739-n",
+              "definitions": [
+                "the power to learn or retain knowledge; in law, the ability to understand the facts and significance of your behavior"
+              ],
+              "examples": []
+            },
+            {
+              "sourceSenseId": "capacity%1:07:01::",
+              "anchor": "entries-c.json/capacity/n/sense/8",
+              "synset": "05040724-n",
+              "definitions": [
+                "tolerance for alcohol"
+              ],
+              "examples": [
+                "he had drunk beyond his capacity"
+              ]
+            }
+          ],
+          "attribution": "Open English Wordnet 2025, Open English Wordnet team; derived from Princeton WordNet. CC BY 4.0 and retained Princeton notice. Converted to SQLite; source definitions unchanged."
+        }
+      ]
+    },
+    {
+      "term": "tentative",
+      "entries": [
+        {
+          "id": "cdc4a049839e131e7067f0944a678f76ef4150524388493f9f4c2c3c3ca90dc9",
+          "sourceId": "oewn",
+          "release": "2025",
+          "sourceEntryId": "entries-t.json/tentative/a",
+          "lemma": "tentative",
+          "lexicalPos": "a",
+          "pronunciation": [
+            {
+              "value": "ˈtɛntətɪv"
+            }
+          ],
+          "senses": [
+            {
+              "sourceSenseId": "tentative%5:00:00:conditional:00",
+              "anchor": "entries-t.json/tentative/a/sense/0",
+              "synset": "00558544-s",
+              "definitions": [
+                "under terms not final or fully worked out or agreed upon"
+              ],
+              "examples": [
+                "probationary employees",
+                "a provisional government",
+                "just a tentative schedule"
+              ]
+            },
+            {
+              "sourceSenseId": "tentative%5:00:00:unsettled:02",
+              "anchor": "entries-t.json/tentative/a/sense/1",
+              "synset": "02138052-s",
+              "definitions": [
+                "unsettled in mind or opinion"
+              ],
+              "examples": [
+                "drew a few tentative conclusions"
+              ]
+            }
+          ],
+          "attribution": "Open English Wordnet 2025, Open English Wordnet team; derived from Princeton WordNet. CC BY 4.0 and retained Princeton notice. Converted to SQLite; source definitions unchanged."
+        }
+      ]
+    },
+    {
+      "term": "pending",
+      "entries": [
+        {
+          "id": "cfe8bd9ec64747b4755b22be7d6dbae079589682b8f31af97ed0deef9052a7cb",
+          "sourceId": "oewn",
+          "release": "2025",
+          "sourceEntryId": "entries-p.json/pending/a",
+          "lemma": "pending",
+          "lexicalPos": "a",
+          "pronunciation": [
+            {
+              "value": "ˈpɛndɪŋ"
+            }
+          ],
+          "senses": [
+            {
+              "sourceSenseId": "pending%5:00:00:unfinished:01",
+              "anchor": "entries-p.json/pending/a/sense/0",
+              "synset": "01008292-s",
+              "definitions": [
+                "awaiting conclusion or confirmation"
+              ],
+              "examples": [
+                "business still pending"
+              ]
+            }
+          ],
+          "attribution": "Open English Wordnet 2025, Open English Wordnet team; derived from Princeton WordNet. CC BY 4.0 and retained Princeton notice. Converted to SQLite; source definitions unchanged."
+        }
+      ]
+    },
+    {
+      "term": "reservation",
+      "entries": [
+        {
+          "id": "832f0e71a06bc768bd01e0ced8499a66abd3c0992434cafd218cad3259280d08",
+          "sourceId": "oewn",
+          "release": "2025",
+          "sourceEntryId": "entries-r.json/reservation/n",
+          "lemma": "reservation",
+          "lexicalPos": "n",
+          "pronunciation": [
+            {
+              "value": "ˌɹɛzəˈveɪʃən",
+              "variety": "GB"
+            },
+            {
+              "value": "ˌɹɛzɚˈveɪʃən",
+              "variety": "US"
+            }
+          ],
+          "senses": [
+            {
+              "sourceSenseId": "reservation%1:15:00::",
+              "anchor": "entries-r.json/reservation/n/sense/0",
+              "synset": "08604729-n",
+              "definitions": [
+                "a district that is reserved for particular purpose"
+              ],
+              "examples": []
+            },
+            {
+              "sourceSenseId": "reservation%1:10:00::",
+              "anchor": "entries-r.json/reservation/n/sense/1",
+              "synset": "06775091-n",
+              "definitions": [
+                "a statement that limits or restricts some claim"
+              ],
+              "examples": [
+                "he recommended her without any reservations"
+              ]
+            },
+            {
+              "sourceSenseId": "reservation%1:09:00::",
+              "anchor": "entries-r.json/reservation/n/sense/2",
+              "synset": "05706585-n",
+              "definitions": [
+                "an unstated doubt that prevents you from accepting something wholeheartedly"
+              ],
+              "examples": []
+            },
+            {
+              "sourceSenseId": "reservation%1:04:01::",
+              "anchor": "entries-r.json/reservation/n/sense/3",
+              "synset": "01220817-n",
+              "definitions": [
+                "the act of reserving (a place or passage) or engaging the services of (a person or group)"
+              ],
+              "examples": [
+                "wondered who had made the booking"
+              ]
+            },
+            {
+              "sourceSenseId": "reservation%1:10:01::",
+              "anchor": "entries-r.json/reservation/n/sense/4",
+              "synset": "07192432-n",
+              "definitions": [
+                "the written record or promise of an arrangement by which accommodations are secured in advance"
+              ],
+              "examples": []
+            },
+            {
+              "sourceSenseId": "reservation%1:09:01::",
+              "anchor": "entries-r.json/reservation/n/sense/5",
+              "synset": "05803468-n",
+              "definitions": [
+                "something reserved in advance (as a hotel accommodation or a seat on a plane etc.)"
+              ],
+              "examples": []
+            },
+            {
+              "sourceSenseId": "reservation%1:04:00::",
+              "anchor": "entries-r.json/reservation/n/sense/6",
+              "synset": "00821752-n",
+              "definitions": [
+                "the act of keeping back or setting aside for some future occasion"
+              ],
+              "examples": []
+            }
+          ],
+          "attribution": "Open English Wordnet 2025, Open English Wordnet team; derived from Princeton WordNet. CC BY 4.0 and retained Princeton notice. Converted to SQLite; source definitions unchanged."
+        }
+      ]
+    },
+    {
+      "term": "qualify",
+      "entries": [
+        {
+          "id": "7c4a5cbf36f6cd085c8503d368e08ace4aee1426e7beb9cf8bacc0c8227617c2",
+          "sourceId": "oewn",
+          "release": "2025",
+          "sourceEntryId": "entries-q.json/qualify/v",
+          "lemma": "qualify",
+          "lexicalPos": "v",
+          "pronunciation": [
+            {
+              "value": "ˈkwɑl.ɪ.faɪ",
+              "variety": "US"
+            },
+            {
+              "value": "ˈkwɒl.ɪ.faɪ",
+              "variety": "GB"
+            }
+          ],
+          "senses": [
+            {
+              "sourceSenseId": "qualify%2:42:00::",
+              "anchor": "entries-q.json/qualify/v/sense/0",
+              "synset": "02684822-v",
+              "definitions": [
+                "prove capable or fit; meet requirements"
+              ],
+              "examples": []
+            },
+            {
+              "sourceSenseId": "qualify%2:32:02::",
+              "anchor": "entries-q.json/qualify/v/sense/1",
+              "synset": "00974223-v",
+              "definitions": [
+                "pronounce fit or able"
+              ],
+              "examples": [
+                "She was qualified to run the marathon",
+                "The nurses were qualified to administer the injections"
+              ]
+            },
+            {
+              "sourceSenseId": "qualify%2:30:02::",
+              "anchor": "entries-q.json/qualify/v/sense/2",
+              "synset": "00199684-v",
+              "definitions": [
+                "make more specific"
+              ],
+              "examples": [
+                "qualify these remarks"
+              ]
+            },
+            {
+              "sourceSenseId": "qualify%2:30:00::",
+              "anchor": "entries-q.json/qualify/v/sense/3",
+              "synset": "00301542-v",
+              "definitions": [
+                "make fit or prepared"
+              ],
+              "examples": [
+                "Your education qualifies you for this job"
+              ]
+            },
+            {
+              "sourceSenseId": "qualify%2:32:00::",
+              "anchor": "entries-q.json/qualify/v/sense/4",
+              "synset": "01020937-v",
+              "definitions": [
+                "specify as a condition or requirement in a contract or agreement; make an express demand or provision in an agreement"
+              ],
+              "examples": [
+                "The will stipulates that she can live in the house for the rest of her life",
+                "The contract stipulates the dates of the payments"
+              ]
+            },
+            {
+              "sourceSenseId": "qualify%2:32:01::",
+              "anchor": "entries-q.json/qualify/v/sense/5",
+              "synset": "00958719-v",
+              "definitions": [
+                "describe or portray the character or the qualities or peculiarities of"
+              ],
+              "examples": [
+                "You can characterize his behavior as that of an egotist",
+                "This poem can be characterized as a lament for a dead lover"
+              ]
+            },
+            {
+              "sourceSenseId": "qualify%2:30:01::",
+              "anchor": "entries-q.json/qualify/v/sense/6",
+              "synset": "00171140-v",
+              "definitions": [
+                "add a modifier to a constituent"
+              ],
+              "examples": []
+            }
+          ],
+          "attribution": "Open English Wordnet 2025, Open English Wordnet team; derived from Princeton WordNet. CC BY 4.0 and retained Princeton notice. Converted to SQLite; source definitions unchanged."
+        }
+      ]
+    },
+    {
+      "term": "infer",
+      "entries": [
+        {
+          "id": "ec4d9c067dd810cb4cb7a48da9102c74dbe7443ef93c54001661718f507668c9",
+          "sourceId": "oewn",
+          "release": "2025",
+          "sourceEntryId": "entries-i.json/infer/v",
+          "lemma": "infer",
+          "lexicalPos": "v",
+          "pronunciation": [
+            {
+              "value": "ɪnˈfɝ",
+              "variety": "US"
+            },
+            {
+              "value": "ɪnˈfɜː",
+              "variety": "GB"
+            }
+          ],
+          "senses": [
+            {
+              "sourceSenseId": "infer%2:31:00::",
+              "anchor": "entries-i.json/infer/v/sense/0",
+              "synset": "00638236-v",
+              "definitions": [
+                "reason by deduction; establish by deduction"
+              ],
+              "examples": []
+            },
+            {
+              "sourceSenseId": "infer%2:32:01::",
+              "anchor": "entries-i.json/infer/v/sense/1",
+              "synset": "01024429-v",
+              "definitions": [
+                "draw from specific cases for more general cases"
+              ],
+              "examples": []
+            },
+            {
+              "sourceSenseId": "infer%2:32:00::",
+              "anchor": "entries-i.json/infer/v/sense/2",
+              "synset": "00946956-v",
+              "definitions": [
+                "conclude by reasoning; in logic"
+              ],
+              "examples": []
+            },
+            {
+              "sourceSenseId": "infer%2:31:02::",
+              "anchor": "entries-i.json/infer/v/sense/3",
+              "synset": "00637723-v",
+              "definitions": [
+                "guess correctly; solve by guessing"
+              ],
+              "examples": [
+                "He guessed the right number of beans in the jar and won the prize"
+              ]
+            },
+            {
+              "sourceSenseId": "infer%2:31:01::",
+              "anchor": "entries-i.json/infer/v/sense/4",
+              "synset": "00594917-v",
+              "definitions": [
+                "believe to be the case"
+              ],
+              "examples": [
+                "I understand you have no previous experience?"
+              ]
+            }
+          ],
+          "attribution": "Open English Wordnet 2025, Open English Wordnet team; derived from Princeton WordNet. CC BY 4.0 and retained Princeton notice. Converted to SQLite; source definitions unchanged."
+        }
+      ]
+    },
+    {
+      "term": "provided that",
+      "entries": []
+    },
+    {
+      "term": "provided",
+      "entries": []
+    },
+    {
+      "term": "condition",
+      "entries": [
+        {
+          "id": "62abdf82e2303154b8f597bbda8226eb1182a93a3f3afd8f2fc760bc36665710",
+          "sourceId": "oewn",
+          "release": "2025",
+          "sourceEntryId": "entries-c.json/condition/n",
+          "lemma": "condition",
+          "lexicalPos": "n",
+          "pronunciation": [
+            {
+              "value": "kənˈdɪʃən"
+            }
+          ],
+          "senses": [
+            {
+              "sourceSenseId": "condition%1:26:00::",
+              "anchor": "entries-c.json/condition/n/sense/0",
+              "synset": "13943868-n",
+              "definitions": [
+                "a state at a particular time"
+              ],
+              "examples": [
+                "a condition (or state) of disrepair",
+                "the current status of the arms negotiations"
+              ]
+            },
+            {
+              "sourceSenseId": "condition%1:10:01::",
+              "anchor": "entries-c.json/condition/n/sense/1",
+              "synset": "06768279-n",
+              "definitions": [
+                "an assumption on which rests the validity or effect of something else"
+              ],
+              "examples": []
+            },
+            {
+              "sourceSenseId": "condition%1:26:01::",
+              "anchor": "entries-c.json/condition/n/sense/2",
+              "synset": "13943462-n",
+              "definitions": [
+                "a mode of being or form of existence of a person or thing"
+              ],
+              "examples": [
+                "the human condition"
+              ]
+            },
+            {
+              "sourceSenseId": "condition%1:09:00::",
+              "anchor": "entries-c.json/condition/n/sense/3",
+              "synset": "05831106-n",
+              "definitions": [
+                "information that should be kept in mind when making a decision"
+              ],
+              "examples": [
+                "another consideration is the time it would take"
+              ]
+            },
+            {
+              "sourceSenseId": "condition%1:26:02::",
+              "anchor": "entries-c.json/condition/n/sense/4",
+              "synset": "14569829-n",
+              "definitions": [
+                "the state of (good) health (especially in the phrases ‘in condition’ or ‘in shape’ or ‘out of condition’ or ‘out of shape’)"
+              ],
+              "examples": []
+            },
+            {
+              "sourceSenseId": "condition%1:26:05::",
+              "anchor": "entries-c.json/condition/n/sense/5",
+              "synset": "13946473-n",
+              "definitions": [
+                "an illness, disease, or other medical problem"
+              ],
+              "examples": [
+                "a heart condition",
+                "a skin condition"
+              ]
+            },
+            {
+              "sourceSenseId": "condition%1:10:02::",
+              "anchor": "entries-c.json/condition/n/sense/6",
+              "synset": "06783666-n",
+              "definitions": [
+                "(usually plural) a statement of what is required as part of an agreement"
+              ],
+              "examples": [
+                "the contract set out the conditions of the lease",
+                "the terms of the treaty were generous"
+              ]
+            },
+            {
+              "sourceSenseId": "condition%1:09:01::",
+              "anchor": "entries-c.json/condition/n/sense/7",
+              "synset": "05806871-n",
+              "definitions": [
+                "the procedure that is varied in order to estimate a variable's effect by comparison with a control condition"
+              ],
+              "examples": []
+            }
+          ],
+          "attribution": "Open English Wordnet 2025, Open English Wordnet team; derived from Princeton WordNet. CC BY 4.0 and retained Princeton notice. Converted to SQLite; source definitions unchanged."
+        },
+        {
+          "id": "8dee2a5445bd82b5fd18b91637c7b44d478a58958acd541a4a19d23070615840",
+          "sourceId": "oewn",
+          "release": "2025",
+          "sourceEntryId": "entries-c.json/condition/v",
+          "lemma": "condition",
+          "lexicalPos": "v",
+          "pronunciation": [
+            {
+              "value": "kənˈdɪʃən"
+            }
+          ],
+          "senses": [
+            {
+              "sourceSenseId": "condition%2:41:01::",
+              "anchor": "entries-c.json/condition/v/sense/0",
+              "synset": "02577683-v",
+              "definitions": [
+                "establish a conditioned response"
+              ],
+              "examples": []
+            },
+            {
+              "sourceSenseId": "condition%2:41:00::",
+              "anchor": "entries-c.json/condition/v/sense/1",
+              "synset": "02559394-v",
+              "definitions": [
+                "develop (a child's or animal's) behavior by instruction and practice; especially to teach self-control"
+              ],
+              "examples": [
+                "Parents must discipline their children",
+                "Is this dog trained?"
+              ]
+            },
+            {
+              "sourceSenseId": "condition%2:32:00::",
+              "anchor": "entries-c.json/condition/v/sense/2",
+              "synset": "01020937-v",
+              "definitions": [
+                "specify as a condition or requirement in a contract or agreement; make an express demand or provision in an agreement"
+              ],
+              "examples": [
+                "The will stipulates that she can live in the house for the rest of her life",
+                "The contract stipulates the dates of the payments"
+              ]
+            },
+            {
+              "sourceSenseId": "condition%2:30:00::",
+              "anchor": "entries-c.json/condition/v/sense/3",
+              "synset": "00207826-v",
+              "definitions": [
+                "put into a better state"
+              ],
+              "examples": [
+                "he conditions old cars"
+              ]
+            },
+            {
+              "sourceSenseId": "condition%2:29:00::",
+              "anchor": "entries-c.json/condition/v/sense/4",
+              "synset": "00041418-v",
+              "definitions": [
+                "apply conditioner to in order to make smooth and shiny"
+              ],
+              "examples": [
+                "I condition my hair after washing it"
+              ]
+            }
+          ],
+          "attribution": "Open English Wordnet 2025, Open English Wordnet team; derived from Princeton WordNet. CC BY 4.0 and retained Princeton notice. Converted to SQLite; source definitions unchanged."
+        }
+      ]
+    },
+    {
+      "term": "not necessarily",
+      "entries": []
+    },
+    {
+      "term": "necessarily",
+      "entries": [
+        {
+          "id": "018e9201e47c152b039e9526240d8b019af6c22e7c001ed55ace1cfc34b78b71",
+          "sourceId": "oewn",
+          "release": "2025",
+          "sourceEntryId": "entries-n.json/necessarily/r",
+          "lemma": "necessarily",
+          "lexicalPos": "r",
+          "pronunciation": [
+            {
+              "value": "ˌnɛsəˈsɛɹəli"
+            }
+          ],
+          "senses": [
+            {
+              "sourceSenseId": "necessarily%4:02:00::",
+              "anchor": "entries-n.json/necessarily/r/sense/0",
+              "synset": "00410115-r",
+              "definitions": [
+                "in an essential manner"
+              ],
+              "examples": [
+                "such expenses are necessarily incurred"
+              ]
+            },
+            {
+              "sourceSenseId": "necessarily%4:02:03::",
+              "anchor": "entries-n.json/necessarily/r/sense/1",
+              "synset": "00113314-r",
+              "definitions": [
+                "in such a manner as could not be otherwise"
+              ],
+              "examples": [
+                "it is necessarily so",
+                "we must needs be objective"
+              ]
+            },
+            {
+              "sourceSenseId": "necessarily%4:02:01::",
+              "anchor": "entries-n.json/necessarily/r/sense/2",
+              "synset": "00410285-r",
+              "definitions": [
+                "as a highly likely consequence"
+              ],
+              "examples": [
+                "we are necessarily bound for federalism in Europe"
+              ]
+            }
+          ],
+          "attribution": "Open English Wordnet 2025, Open English Wordnet team; derived from Princeton WordNet. CC BY 4.0 and retained Princeton notice. Converted to SQLite; source definitions unchanged."
+        }
+      ]
+    },
+    {
+      "term": "verification method",
+      "entries": []
+    },
+    {
+      "term": "verification",
+      "entries": [
+        {
+          "id": "3d2981a997cc140005a313578049dbb7629d8b5a6385ae89849f901e5f45d23d",
+          "sourceId": "oewn",
+          "release": "2025",
+          "sourceEntryId": "entries-v.json/verification/n",
+          "lemma": "verification",
+          "lexicalPos": "n",
+          "pronunciation": null,
+          "senses": [
+            {
+              "sourceSenseId": "verification%1:09:00::",
+              "anchor": "entries-v.json/verification/n/sense/0",
+              "synset": "05833569-n",
+              "definitions": [
+                "additional proof that something that was believed (some fact or hypothesis or theory) is correct"
+              ],
+              "examples": [
+                "fossils provided further confirmation of the evolutionary theory"
+              ]
+            },
+            {
+              "sourceSenseId": "verification%1:10:00::",
+              "anchor": "entries-v.json/verification/n/sense/1",
+              "synset": "06749518-n",
+              "definitions": [
+                "(law) an affidavit attached to a statement confirming the truth of that statement"
+              ],
+              "examples": []
+            }
+          ],
+          "attribution": "Open English Wordnet 2025, Open English Wordnet team; derived from Princeton WordNet. CC BY 4.0 and retained Princeton notice. Converted to SQLite; source definitions unchanged."
+        }
+      ]
+    },
+    {
+      "term": "method",
+      "entries": [
+        {
+          "id": "a729d497f83201b534ebacf9b506832503c3b8cdd83b9e8b37bbb4bb2d31f7b7",
+          "sourceId": "oewn",
+          "release": "2025",
+          "sourceEntryId": "entries-m.json/method/n",
+          "lemma": "method",
+          "lexicalPos": "n",
+          "pronunciation": null,
+          "senses": [
+            {
+              "sourceSenseId": "method%1:09:00::",
+              "anchor": "entries-m.json/method/n/sense/0",
+              "synset": "05668113-n",
+              "definitions": [
+                "a way of doing something, especially a systematic way; implies an orderly logical arrangement (usually in steps)"
+              ],
+              "examples": []
+            },
+            {
+              "sourceSenseId": "method%1:04:00::",
+              "anchor": "entries-m.json/method/n/sense/1",
+              "synset": "00550803-n",
+              "definitions": [
+                "an acting technique introduced by Stanislavsky in which the actor recalls emotions or reactions from his or her own life and uses them to identify with the character being portrayed"
+              ],
+              "examples": []
+            }
+          ],
+          "attribution": "Open English Wordnet 2025, Open English Wordnet team; derived from Princeton WordNet. CC BY 4.0 and retained Princeton notice. Converted to SQLite; source definitions unchanged."
+        }
+      ]
+    },
+    {
+      "term": "validation method",
+      "entries": []
+    },
+    {
+      "term": "validation",
+      "entries": [
+        {
+          "id": "83e8fa0f92c42a2ffd764f23dee09d8202e5a94af65667fc5168e991eeb6f48f",
+          "sourceId": "oewn",
+          "release": "2025",
+          "sourceEntryId": "entries-v.json/validation/n",
+          "lemma": "validation",
+          "lexicalPos": "n",
+          "pronunciation": [
+            {
+              "value": "ˌvæl.əˈdeɪ.ʃən"
+            }
+          ],
+          "senses": [
+            {
+              "sourceSenseId": "validation%1:04:00::",
+              "anchor": "entries-v.json/validation/n/sense/0",
+              "synset": "00154781-n",
+              "definitions": [
+                "the act of validating; finding or testing the truth of something"
+              ],
+              "examples": []
+            },
+            {
+              "sourceSenseId": "validation%1:09:00::",
+              "anchor": "entries-v.json/validation/n/sense/1",
+              "synset": "05834615-n",
+              "definitions": [
+                "the cognitive process of establishing a valid proof"
+              ],
+              "examples": []
+            }
+          ],
+          "attribution": "Open English Wordnet 2025, Open English Wordnet team; derived from Princeton WordNet. CC BY 4.0 and retained Princeton notice. Converted to SQLite; source definitions unchanged."
+        }
+      ]
+    },
+    {
+      "term": "working definition",
+      "entries": []
+    },
+    {
+      "term": "working",
+      "entries": [
+        {
+          "id": "b81aa348e22416a20b9978db1fa709bbdeee49a62e6dd3118fe79f5d48b0d076",
+          "sourceId": "oewn",
+          "release": "2025",
+          "sourceEntryId": "entries-w.json/working/a",
+          "lemma": "working",
+          "lexicalPos": "a",
+          "pronunciation": null,
+          "senses": [
+            {
+              "sourceSenseId": "working%5:00:00:employed:00",
+              "anchor": "entries-w.json/working/a/sense/0",
+              "synset": "00867648-s",
+              "definitions": [
+                "actively engaged in paid work"
+              ],
+              "examples": [
+                "the working population",
+                "the ratio of working men to unemployed",
+                "a working mother",
+                "robots can be on the job day and night"
+              ]
+            },
+            {
+              "sourceSenseId": "working%5:00:00:practical:00",
+              "anchor": "entries-w.json/working/a/sense/1",
+              "synset": "01841834-s",
+              "definitions": [
+                "adequate for practical use; especially sufficient in strength or numbers to accomplish something"
+              ],
+              "examples": [
+                "the party has a working majority in the House",
+                "a working knowledge of Spanish"
+              ]
+            },
+            {
+              "sourceSenseId": "working%5:00:00:impermanent:00",
+              "anchor": "entries-w.json/working/a/sense/2",
+              "synset": "01762706-s",
+              "definitions": [
+                "adopted as a temporary basis for further work"
+              ],
+              "examples": [
+                "a working draft",
+                "a working hypothesis"
+              ]
+            },
+            {
+              "sourceSenseId": "working%5:00:00:functioning:00",
+              "anchor": "entries-w.json/working/a/sense/3",
+              "synset": "01095421-s",
+              "definitions": [
+                "(of e.g. a machine) performing or capable of performing"
+              ],
+              "examples": [
+                "in running (or working) order",
+                "a functional set of brakes"
+              ]
+            },
+            {
+              "sourceSenseId": "working%5:00:02:operative:00",
+              "anchor": "entries-w.json/working/a/sense/4",
+              "synset": "00836873-s",
+              "definitions": [
+                "serving to permit or facilitate further work or activity"
+              ],
+              "examples": [
+                "discussed the working draft of a peace treaty",
+                "they need working agreements with their neighbor states on interstate projects"
+              ]
+            }
+          ],
+          "attribution": "Open English Wordnet 2025, Open English Wordnet team; derived from Princeton WordNet. CC BY 4.0 and retained Princeton notice. Converted to SQLite; source definitions unchanged."
+        },
+        {
+          "id": "7eaa64e978a1aaf74048f1ab545dea582036dca90ee034b31fdbc42251ba5520",
+          "sourceId": "oewn",
+          "release": "2025",
+          "sourceEntryId": "entries-w.json/working/n",
+          "lemma": "working",
+          "lexicalPos": "n",
+          "pronunciation": null,
+          "senses": [
+            {
+              "sourceSenseId": "working%1:06:00::",
+              "anchor": "entries-w.json/working/n/sense/0",
+              "synset": "04608831-n",
+              "definitions": [
+                "a mine or quarry that is being or has been worked"
+              ],
+              "examples": []
+            }
+          ],
+          "attribution": "Open English Wordnet 2025, Open English Wordnet team; derived from Princeton WordNet. CC BY 4.0 and retained Princeton notice. Converted to SQLite; source definitions unchanged."
+        }
+      ]
+    },
+    {
+      "term": "definition",
+      "entries": [
+        {
+          "id": "9fd40d3b3c8a2a28b1acbe3770accd14ba29dd0fb1c17f4b952bb3440946c5f7",
+          "sourceId": "oewn",
+          "release": "2025",
+          "sourceEntryId": "entries-d.json/definition/n",
+          "lemma": "definition",
+          "lexicalPos": "n",
+          "pronunciation": [
+            {
+              "value": "ˌdɛfɪˈnɪʃ(ə)n"
+            }
+          ],
+          "senses": [
+            {
+              "sourceSenseId": "definition%1:10:00::",
+              "anchor": "entries-d.json/definition/n/sense/0",
+              "synset": "06757091-n",
+              "definitions": [
+                "a concise explanation of the meaning of a word or phrase or symbol"
+              ],
+              "examples": []
+            },
+            {
+              "sourceSenseId": "definition%1:07:00::",
+              "anchor": "entries-d.json/definition/n/sense/1",
+              "synset": "04710305-n",
+              "definitions": [
+                "clarity of outline"
+              ],
+              "examples": [
+                "exercise had given his muscles superior definition"
+              ]
+            }
+          ],
+          "attribution": "Open English Wordnet 2025, Open English Wordnet team; derived from Princeton WordNet. CC BY 4.0 and retained Princeton notice. Converted to SQLite; source definitions unchanged."
+        }
+      ]
+    },
+    {
+      "term": "frame the issue",
+      "entries": []
+    },
+    {
+      "term": "frame",
+      "entries": [
+        {
+          "id": "2e8444cdf2c29dcdc710d010435b2d5bc060c809a65b31979baac8e34c143602",
+          "sourceId": "oewn",
+          "release": "2025",
+          "sourceEntryId": "entries-f.json/frame/n",
+          "lemma": "frame",
+          "lexicalPos": "n",
+          "pronunciation": [
+            {
+              "value": "fɹeɪm"
+            }
+          ],
+          "senses": [
+            {
+              "sourceSenseId": "frame%1:06:02::",
+              "anchor": "entries-f.json/frame/n/sense/0",
+              "synset": "03396147-n",
+              "definitions": [
+                "the framework for a pair of eyeglasses"
+              ],
+              "examples": []
+            },
+            {
+              "sourceSenseId": "frame%1:06:03::",
+              "anchor": "entries-f.json/frame/n/sense/1",
+              "synset": "03396310-n",
+              "definitions": [
+                "a single one of a series of still transparent pictures forming a cinema, television or video film"
+              ],
+              "examples": []
+            },
+            {
+              "sourceSenseId": "frame%1:08:01::",
+              "anchor": "entries-f.json/frame/n/sense/2",
+              "synset": "05224424-n",
+              "definitions": [
+                "alternative names for the body of a human being"
+              ],
+              "examples": [
+                "Leonardo studied the human body",
+                "he has a strong physique",
+                "the spirit is willing but the flesh is weak"
+              ]
+            },
+            {
+              "sourceSenseId": "frame%1:28:00::",
+              "anchor": "entries-f.json/frame/n/sense/3",
+              "synset": "15280615-n",
+              "definitions": [
+                "(baseball) one of nine divisions of play during which each team has a turn at bat"
+              ],
+              "examples": []
+            },
+            {
+              "sourceSenseId": "frame%1:10:00::",
+              "anchor": "entries-f.json/frame/n/sense/4",
+              "synset": "07016684-n",
+              "definitions": [
+                "a single drawing in a comic strip"
+              ],
+              "examples": []
+            },
+            {
+              "sourceSenseId": "frame%1:10:01::",
+              "anchor": "entries-f.json/frame/n/sense/5",
+              "synset": "06582981-n",
+              "definitions": [
+                "an application that divides the user's display into two or more windows that can be scrolled independently"
+              ],
+              "examples": []
+            },
+            {
+              "sourceSenseId": "frame%1:09:00::",
+              "anchor": "entries-f.json/frame/n/sense/6",
+              "synset": "05670948-n",
+              "definitions": [
+                "a system of assumptions and standards that sanction behavior and give it meaning"
+              ],
+              "examples": []
+            },
+            {
+              "sourceSenseId": "frame%1:08:00::",
+              "anchor": "entries-f.json/frame/n/sense/7",
+              "synset": "05593033-n",
+              "definitions": [
+                "the hard structure (bones and cartilages) that provides a frame for the body of an animal"
+              ],
+              "examples": []
+            },
+            {
+              "sourceSenseId": "frame%1:06:01::",
+              "anchor": "entries-f.json/frame/n/sense/8",
+              "synset": "04233599-n",
+              "definitions": [
+                "the internal supporting structure that gives an artifact its shape"
+              ],
+              "examples": [
+                "the building has a steel skeleton"
+              ]
+            },
+            {
+              "sourceSenseId": "frame%1:06:04::",
+              "anchor": "entries-f.json/frame/n/sense/9",
+              "synset": "03396616-n",
+              "definitions": [
+                "a structure supporting or containing something"
+              ],
+              "examples": []
+            },
+            {
+              "sourceSenseId": "frame%1:06:00::",
+              "anchor": "entries-f.json/frame/n/sense/10",
+              "synset": "03395829-n",
+              "definitions": [
+                "a framework that supports and protects a picture or a mirror"
+              ],
+              "examples": [
+                "the frame enhances but is not itself the subject of attention",
+                "the frame was much more valuable than the mirror it held"
+              ]
+            },
+            {
+              "sourceSenseId": "frame%1:04:01::",
+              "anchor": "entries-f.json/frame/n/sense/11",
+              "synset": "00463177-n",
+              "definitions": [
+                "one of the ten divisions into which bowling is divided"
+              ],
+              "examples": []
+            }
+          ],
+          "attribution": "Open English Wordnet 2025, Open English Wordnet team; derived from Princeton WordNet. CC BY 4.0 and retained Princeton notice. Converted to SQLite; source definitions unchanged."
+        },
+        {
+          "id": "93042d54aa456527b0958f4ada07717fb2b93231b37e23049f10bf1706e45379",
+          "sourceId": "oewn",
+          "release": "2025",
+          "sourceEntryId": "entries-f.json/frame/v",
+          "lemma": "frame",
+          "lexicalPos": "v",
+          "pronunciation": [
+            {
+              "value": "fɹeɪm"
+            }
+          ],
+          "senses": [
+            {
+              "sourceSenseId": "frame%2:35:00::",
+              "anchor": "entries-f.json/frame/v/sense/0",
+              "synset": "01589771-v",
+              "definitions": [
+                "enclose in or as if in a frame"
+              ],
+              "examples": [
+                "frame a picture"
+              ]
+            },
+            {
+              "sourceSenseId": "frame%2:42:00::",
+              "anchor": "entries-f.json/frame/v/sense/1",
+              "synset": "02717710-v",
+              "definitions": [
+                "enclose in a frame, as of a picture"
+              ],
+              "examples": []
+            },
+            {
+              "sourceSenseId": "frame%2:41:00::",
+              "anchor": "entries-f.json/frame/v/sense/2",
+              "synset": "02584093-v",
+              "definitions": [
+                "take or catch as if in a snare or trap"
+              ],
+              "examples": [
+                "I was set up!",
+                "The innocent man was framed by the police"
+              ]
+            },
+            {
+              "sourceSenseId": "frame%2:32:00::",
+              "anchor": "entries-f.json/frame/v/sense/3",
+              "synset": "00983308-v",
+              "definitions": [
+                "formulate in a particular style or language"
+              ],
+              "examples": [
+                "I wouldn't put it that way",
+                "She cast her request in very polite language"
+              ]
+            },
+            {
+              "sourceSenseId": "frame%2:31:00::",
+              "anchor": "entries-f.json/frame/v/sense/4",
+              "synset": "00708633-v",
+              "definitions": [
+                "make up plans or basic details for"
+              ],
+              "examples": [
+                "frame a policy"
+              ]
+            },
+            {
+              "sourceSenseId": "frame%2:36:00::",
+              "anchor": "entries-f.json/frame/v/sense/5",
+              "synset": "01659306-v",
+              "definitions": [
+                "construct by fitting or uniting parts together"
+              ],
+              "examples": []
+            }
+          ],
+          "attribution": "Open English Wordnet 2025, Open English Wordnet team; derived from Princeton WordNet. CC BY 4.0 and retained Princeton notice. Converted to SQLite; source definitions unchanged."
+        }
+      ]
+    },
+    {
+      "term": "issue",
+      "entries": [
+        {
+          "id": "e74ced61bbb2eabbdd43652a80f97f119a5eb8dc15571c5a51df1c9adefa8325",
+          "sourceId": "oewn",
+          "release": "2025",
+          "sourceEntryId": "entries-i.json/issue/n",
+          "lemma": "issue",
+          "lexicalPos": "n",
+          "pronunciation": [
+            {
+              "value": "ˈɪsjuː",
+              "variety": "GB"
+            },
+            {
+              "value": "ˈɪʃ(j)u",
+              "variety": "US"
+            }
+          ],
+          "senses": [
+            {
+              "sourceSenseId": "issue%1:09:01::",
+              "anchor": "entries-i.json/issue/n/sense/0",
+              "synset": "05822776-n",
+              "definitions": [
+                "an important question that is in dispute and must be settled"
+              ],
+              "examples": [
+                "the issue could be settled by requiring public education for everyone",
+                "politicians never discuss the real issues"
+              ]
+            },
+            {
+              "sourceSenseId": "issue%1:10:00::",
+              "anchor": "entries-i.json/issue/n/sense/1",
+              "synset": "06609182-n",
+              "definitions": [
+                "one of a series published periodically"
+              ],
+              "examples": [
+                "she found an old issue of the magazine in her dentist's waiting room"
+              ]
+            },
+            {
+              "sourceSenseId": "issue%1:09:00::",
+              "anchor": "entries-i.json/issue/n/sense/2",
+              "synset": "05822417-n",
+              "definitions": [
+                "some situation or event that is thought about"
+              ],
+              "examples": [
+                "he kept drifting off the topic",
+                "he had been thinking about the subject for several years",
+                "it is a matter for the police"
+              ]
+            },
+            {
+              "sourceSenseId": "issue%1:04:01::",
+              "anchor": "entries-i.json/issue/n/sense/3",
+              "synset": "01062158-n",
+              "definitions": [
+                "the act of providing an item for general use or for official purposes (usually in quantity)"
+              ],
+              "examples": [
+                "a new issue of stamps",
+                "the last issue of penicillin was over a month ago"
+              ]
+            },
+            {
+              "sourceSenseId": "issue%1:21:01::",
+              "anchor": "entries-i.json/issue/n/sense/4",
+              "synset": "13388766-n",
+              "definitions": [
+                "supplies (as food or clothing or ammunition) issued by the government"
+              ],
+              "examples": []
+            },
+            {
+              "sourceSenseId": "issue%1:21:00::",
+              "anchor": "entries-i.json/issue/n/sense/5",
+              "synset": "13281089-n",
+              "definitions": [
+                "the income or profit arising from such transactions as the sale of land or other property"
+              ],
+              "examples": [
+                "the average return was about 5%"
+              ]
+            },
+            {
+              "sourceSenseId": "issue%1:19:00::",
+              "anchor": "entries-i.json/issue/n/sense/6",
+              "synset": "11430739-n",
+              "definitions": [
+                "a phenomenon that follows and is caused by some previous phenomenon"
+              ],
+              "examples": [
+                "the magnetic effect was greater when the rod was lengthwise",
+                "his decision had depressing consequences for business",
+                "he acted very wise after the event"
+              ]
+            },
+            {
+              "sourceSenseId": "issue%1:18:00::",
+              "anchor": "entries-i.json/issue/n/sense/7",
+              "synset": "10393697-n",
+              "definitions": [
+                "the immediate descendants of a person"
+              ],
+              "examples": [
+                "she was the mother of many offspring",
+                "he died without issue"
+              ]
+            },
+            {
+              "sourceSenseId": "issue%1:11:00::",
+              "anchor": "entries-i.json/issue/n/sense/8",
+              "synset": "07334509-n",
+              "definitions": [
+                "the becoming visible"
+              ],
+              "examples": [
+                "not a day's difference between the emergence of the andrenas and the opening of the willow catkins"
+              ]
+            },
+            {
+              "sourceSenseId": "issue%1:06:00::",
+              "anchor": "entries-i.json/issue/n/sense/9",
+              "synset": "03308910-n",
+              "definitions": [
+                "an opening that permits escape or release"
+              ],
+              "examples": [
+                "he blocked the way out",
+                "the canyon had only one issue"
+              ]
+            },
+            {
+              "sourceSenseId": "issue%1:04:00::",
+              "anchor": "entries-i.json/issue/n/sense/10",
+              "synset": "01105519-n",
+              "definitions": [
+                "the act of issuing printed materials"
+              ],
+              "examples": []
+            }
+          ],
+          "attribution": "Open English Wordnet 2025, Open English Wordnet team; derived from Princeton WordNet. CC BY 4.0 and retained Princeton notice. Converted to SQLite; source definitions unchanged."
+        },
+        {
+          "id": "7e07c7e6a4d452e4376883d4026f97d625c584d561f85727a86d14a85faa177c",
+          "sourceId": "oewn",
+          "release": "2025",
+          "sourceEntryId": "entries-i.json/issue/v",
+          "lemma": "issue",
+          "lexicalPos": "v",
+          "pronunciation": [
+            {
+              "value": "ˈɪsjuː",
+              "variety": "GB"
+            },
+            {
+              "value": "ˈɪʃ(j)u",
+              "variety": "US"
+            }
+          ],
+          "senses": [
+            {
+              "sourceSenseId": "issue%2:32:00::",
+              "anchor": "entries-i.json/issue/v/sense/0",
+              "synset": "00969657-v",
+              "definitions": [
+                "prepare and issue for public distribution or sale"
+              ],
+              "examples": [
+                "publish a magazine or newspaper"
+              ]
+            },
+            {
+              "sourceSenseId": "issue%2:41:00::",
+              "anchor": "entries-i.json/issue/v/sense/1",
+              "synset": "02484912-v",
+              "definitions": [
+                "circulate or distribute or equip with"
+              ],
+              "examples": [
+                "issue a new uniform to the children",
+                "supply blankets for the beds"
+              ]
+            },
+            {
+              "sourceSenseId": "issue%2:32:01::",
+              "anchor": "entries-i.json/issue/v/sense/2",
+              "synset": "01065071-v",
+              "definitions": [
+                "bring out an official document (such as a warrant)"
+              ],
+              "examples": []
+            },
+            {
+              "sourceSenseId": "issue%2:30:00::",
+              "anchor": "entries-i.json/issue/v/sense/3",
+              "synset": "00530070-v",
+              "definitions": [
+                "come out of"
+              ],
+              "examples": [
+                "Water issued from the hole in the wall",
+                "The words seemed to come out by themselves"
+              ]
+            },
+            {
+              "sourceSenseId": "issue%2:32:02::",
+              "anchor": "entries-i.json/issue/v/sense/4",
+              "synset": "01066821-v",
+              "definitions": [
+                "make out and issue"
+              ],
+              "examples": [
+                "write out a check",
+                "cut a ticket",
+                "Please make the check out to me"
+              ]
+            }
+          ],
+          "attribution": "Open English Wordnet 2025, Open English Wordnet team; derived from Princeton WordNet. CC BY 4.0 and retained Princeton notice. Converted to SQLite; source definitions unchanged."
+        }
+      ]
+    },
+    {
+      "term": "account for",
+      "entries": [
+        {
+          "id": "9bfb4d398f5216ffca304679690947fc37b49641a64f35eb1ec70c7b63666960",
+          "sourceId": "oewn",
+          "release": "2025",
+          "sourceEntryId": "entries-a.json/account%20for/v",
+          "lemma": "account for",
+          "lexicalPos": "v",
+          "pronunciation": null,
+          "senses": [
+            {
+              "sourceSenseId": "account_for%2:42:00::",
+              "anchor": "entries-a.json/account%20for/v/sense/0",
+              "synset": "02641114-v",
+              "definitions": [
+                "be the reason or explanation for"
+              ],
+              "examples": [
+                "The recession accounts for the slow retail business"
+              ]
+            },
+            {
+              "sourceSenseId": "account_for%2:32:00::",
+              "anchor": "entries-a.json/account%20for/v/sense/1",
+              "synset": "00941652-v",
+              "definitions": [
+                "give reasons for"
+              ],
+              "examples": [
+                "Can you account for all these absences?"
+              ]
+            }
+          ],
+          "attribution": "Open English Wordnet 2025, Open English Wordnet team; derived from Princeton WordNet. CC BY 4.0 and retained Princeton notice. Converted to SQLite; source definitions unchanged."
+        }
+      ]
+    },
+    {
+      "term": "lead in the polls",
+      "entries": []
+    },
+    {
+      "term": "lead",
+      "entries": [
+        {
+          "id": "97e824ae8fcefe9bc5be3ae4e5499d71b5bd863e42a1f3eca34c9f63f3a98483",
+          "sourceId": "oewn",
+          "release": "2025",
+          "sourceEntryId": "entries-l.json/lead/n-1",
+          "lemma": "lead",
+          "lexicalPos": "n",
+          "pronunciation": [
+            {
+              "value": "liːd"
+            }
+          ],
+          "senses": [
+            {
+              "sourceSenseId": "lead%1:07:02::",
+              "anchor": "entries-l.json/lead/n-1/sense/0",
+              "synset": "05164526-n",
+              "definitions": [
+                "an advantage held by a competitor in a race"
+              ],
+              "examples": [
+                "he took the lead at the last turn"
+              ]
+            },
+            {
+              "sourceSenseId": "lead%1:09:00::",
+              "anchor": "entries-l.json/lead/n-1/sense/1",
+              "synset": "05835238-n",
+              "definitions": [
+                "evidence pointing to a possible solution"
+              ],
+              "examples": [
+                "the police are following a promising lead",
+                "the trail led straight to the perpetrator"
+              ]
+            },
+            {
+              "sourceSenseId": "lead%1:04:01::",
+              "anchor": "entries-l.json/lead/n-1/sense/2",
+              "synset": "01259362-n",
+              "definitions": [
+                "a position of being the initiator of something and an example that others will follow (especially in the phrase ‘take the lead’)"
+              ],
+              "examples": [
+                "he takes the lead in any group",
+                "we were just waiting for someone to take the lead",
+                "they didn't follow our lead"
+              ]
+            },
+            {
+              "sourceSenseId": "lead%1:25:00::",
+              "anchor": "entries-l.json/lead/n-1/sense/3",
+              "synset": "13915822-n",
+              "definitions": [
+                "the angle between the direction a gun is aimed and the position of a moving target (correcting for the flight time of the missile)"
+              ],
+              "examples": []
+            },
+            {
+              "sourceSenseId": "lead%1:10:01::",
+              "anchor": "entries-l.json/lead/n-1/sense/4",
+              "synset": "06281532-n",
+              "definitions": [
+                "the introductory section of a story"
+              ],
+              "examples": [
+                "it was an amusing lead-in to a very serious matter"
+              ]
+            },
+            {
+              "sourceSenseId": "lead%1:23:00::",
+              "anchor": "entries-l.json/lead/n-1/sense/5",
+              "synset": "13617665-n",
+              "definitions": [
+                "(sports) the score by which a team or individual is winning"
+              ],
+              "examples": []
+            },
+            {
+              "sourceSenseId": "lead%1:18:00::",
+              "anchor": "entries-l.json/lead/n-1/sense/6",
+              "synset": "10668135-n",
+              "definitions": [
+                "an actor who plays a principal role"
+              ],
+              "examples": []
+            },
+            {
+              "sourceSenseId": "lead%1:15:00::",
+              "anchor": "entries-l.json/lead/n-1/sense/7",
+              "synset": "08609721-n",
+              "definitions": [
+                "(baseball) the position taken by a base runner preparing to advance to the next base"
+              ],
+              "examples": [
+                "he took a long lead off first"
+              ]
+            },
+            {
+              "sourceSenseId": "lead%1:10:02::",
+              "anchor": "entries-l.json/lead/n-1/sense/8",
+              "synset": "06664322-n",
+              "definitions": [
+                "an indication of potential opportunity"
+              ],
+              "examples": [
+                "he got a tip on the stock market",
+                "a good lead for a job"
+              ]
+            },
+            {
+              "sourceSenseId": "lead%1:10:00::",
+              "anchor": "entries-l.json/lead/n-1/sense/9",
+              "synset": "06281845-n",
+              "definitions": [
+                "a news story of major importance"
+              ],
+              "examples": []
+            },
+            {
+              "sourceSenseId": "lead%1:07:01::",
+              "anchor": "entries-l.json/lead/n-1/sense/10",
+              "synset": "05058239-n",
+              "definitions": [
+                "the timing of ignition relative to the position of the piston in an internal-combustion engine"
+              ],
+              "examples": []
+            },
+            {
+              "sourceSenseId": "lead%1:06:03::",
+              "anchor": "entries-l.json/lead/n-1/sense/11",
+              "synset": "03658258-n",
+              "definitions": [
+                "restraint consisting of a rope (or light chain) used to restrain an animal"
+              ],
+              "examples": []
+            },
+            {
+              "sourceSenseId": "lead%1:06:02::",
+              "anchor": "entries-l.json/lead/n-1/sense/12",
+              "synset": "03656591-n",
+              "definitions": [
+                "thin strip of metal used to separate lines of type in printing"
+              ],
+              "examples": []
+            },
+            {
+              "sourceSenseId": "lead%1:06:01::",
+              "anchor": "entries-l.json/lead/n-1/sense/13",
+              "synset": "03610056-n",
+              "definitions": [
+                "a jumper that consists of a short piece of wire"
+              ],
+              "examples": [
+                "it was a tangle of jumper cables and clip leads"
+              ]
+            },
+            {
+              "sourceSenseId": "lead%1:04:00::",
+              "anchor": "entries-l.json/lead/n-1/sense/14",
+              "synset": "01258857-n",
+              "definitions": [
+                "the playing of a card to start a trick in bridge"
+              ],
+              "examples": [
+                "the lead was in the dummy"
+              ]
+            }
+          ],
+          "attribution": "Open English Wordnet 2025, Open English Wordnet team; derived from Princeton WordNet. CC BY 4.0 and retained Princeton notice. Converted to SQLite; source definitions unchanged."
+        },
+        {
+          "id": "cdda72bc62ad8cb13d160706e32da2eec833afbd3cacccf1d102674034ac4eb5",
+          "sourceId": "oewn",
+          "release": "2025",
+          "sourceEntryId": "entries-l.json/lead/n-2",
+          "lemma": "lead",
+          "lexicalPos": "n",
+          "pronunciation": [
+            {
+              "value": "lɛd"
+            }
+          ],
+          "senses": [
+            {
+              "sourceSenseId": "lead%1:27:00::",
+              "anchor": "entries-l.json/lead/n-2/sense/0",
+              "synset": "14667645-n",
+              "definitions": [
+                "a soft heavy toxic malleable metallic element; bluish white when freshly cut but tarnishes readily to dull grey"
+              ],
+              "examples": [
+                "the children were playing with lead soldiers"
+              ]
+            },
+            {
+              "sourceSenseId": "lead%1:06:00::",
+              "anchor": "entries-l.json/lead/n-2/sense/1",
+              "synset": "03656410-n",
+              "definitions": [
+                "mixture of graphite with clay in different degrees of hardness; the marking substance in a pencil"
+              ],
+              "examples": []
+            }
+          ],
+          "attribution": "Open English Wordnet 2025, Open English Wordnet team; derived from Princeton WordNet. CC BY 4.0 and retained Princeton notice. Converted to SQLite; source definitions unchanged."
+        },
+        {
+          "id": "591d131c091df185226e20e7069ef65f7ba30f063435b32866209293147ca44e",
+          "sourceId": "oewn",
+          "release": "2025",
+          "sourceEntryId": "entries-l.json/lead/v",
+          "lemma": "lead",
+          "lexicalPos": "v",
+          "pronunciation": [
+            {
+              "value": "liːd"
+            }
+          ],
+          "senses": [
+            {
+              "sourceSenseId": "lead%2:38:01::",
+              "anchor": "entries-l.json/lead/v/sense/0",
+              "synset": "02003830-v",
+              "definitions": [
+                "take somebody somewhere"
+              ],
+              "examples": [
+                "we led him to our chief",
+                "can you take me to the main entrance?",
+                "He conducted us to the palace"
+              ]
+            },
+            {
+              "sourceSenseId": "lead%2:42:04::",
+              "anchor": "entries-l.json/lead/v/sense/1",
+              "synset": "02641740-v",
+              "definitions": [
+                "produce as a result or residue"
+              ],
+              "examples": [
+                "The water left a mark on the silk dress",
+                "Her blood left a stain on the napkin"
+              ]
+            },
+            {
+              "sourceSenseId": "lead%2:42:12::",
+              "anchor": "entries-l.json/lead/v/sense/2",
+              "synset": "02642040-v",
+              "definitions": [
+                "tend to or result in"
+              ],
+              "examples": [
+                "This remark led to further arguments among the guests"
+              ]
+            },
+            {
+              "sourceSenseId": "lead%2:38:00::",
+              "anchor": "entries-l.json/lead/v/sense/3",
+              "synset": "02003455-v",
+              "definitions": [
+                "travel in front of; go in advance of others"
+              ],
+              "examples": [
+                "The procession was headed by John"
+              ]
+            },
+            {
+              "sourceSenseId": "lead%2:32:00::",
+              "anchor": "entries-l.json/lead/v/sense/4",
+              "synset": "00773677-v",
+              "definitions": [
+                "cause to undertake a certain action"
+              ],
+              "examples": [
+                "Her greed led her to forge the checks"
+              ]
+            },
+            {
+              "sourceSenseId": "lead%2:42:00::",
+              "anchor": "entries-l.json/lead/v/sense/5",
+              "synset": "02691775-v",
+              "definitions": [
+                "stretch out over a distance, space, time, or scope; run or extend between two points or beyond a certain point"
+              ],
+              "examples": [
+                "Service runs all the way to Cranbury",
+                "His knowledge doesn't go very far",
+                "My memory extends back to my fourth year of life",
+                "The facts extend beyond a consideration of her personal assets"
+              ]
+            },
+            {
+              "sourceSenseId": "lead%2:41:00::",
+              "anchor": "entries-l.json/lead/v/sense/6",
+              "synset": "02445109-v",
+              "definitions": [
+                "be in charge of"
+              ],
+              "examples": [
+                "Who is heading this project?"
+              ]
+            },
+            {
+              "sourceSenseId": "lead%2:42:01::",
+              "anchor": "entries-l.json/lead/v/sense/7",
+              "synset": "02693227-v",
+              "definitions": [
+                "be ahead of others; be the first"
+              ],
+              "examples": [
+                "she topped her class every year"
+              ]
+            },
+            {
+              "sourceSenseId": "lead%2:41:12::",
+              "anchor": "entries-l.json/lead/v/sense/8",
+              "synset": "02561616-v",
+              "definitions": [
+                "be conducive to"
+              ],
+              "examples": [
+                "The use of computers in the classroom led to better writing"
+              ]
+            },
+            {
+              "sourceSenseId": "lead%2:36:00::",
+              "anchor": "entries-l.json/lead/v/sense/9",
+              "synset": "01736802-v",
+              "definitions": [
+                "lead, as in the performance of a composition"
+              ],
+              "examples": [
+                "conduct an orchestra",
+                "Barenboim conducted the Chicago symphony for years"
+              ]
+            },
+            {
+              "sourceSenseId": "lead%2:42:03::",
+              "anchor": "entries-l.json/lead/v/sense/10",
+              "synset": "02692313-v",
+              "definitions": [
+                "lead, extend, or afford access"
+              ],
+              "examples": [
+                "This door goes to the basement",
+                "The road runs South"
+              ]
+            },
+            {
+              "sourceSenseId": "lead%2:38:02::",
+              "anchor": "entries-l.json/lead/v/sense/11",
+              "synset": "02003250-v",
+              "definitions": [
+                "move ahead (of others) in time or space"
+              ],
+              "examples": []
+            },
+            {
+              "sourceSenseId": "lead%2:42:02::",
+              "anchor": "entries-l.json/lead/v/sense/12",
+              "synset": "02692467-v",
+              "definitions": [
+                "cause something to pass or lead somewhere"
+              ],
+              "examples": [
+                "Run the wire behind the cabinet"
+              ]
+            },
+            {
+              "sourceSenseId": "lead%2:32:01::",
+              "anchor": "entries-l.json/lead/v/sense/13",
+              "synset": "00815452-v",
+              "definitions": [
+                "preside over"
+              ],
+              "examples": [
+                "John moderated the discussion"
+              ]
+            }
+          ],
+          "attribution": "Open English Wordnet 2025, Open English Wordnet team; derived from Princeton WordNet. CC BY 4.0 and retained Princeton notice. Converted to SQLite; source definitions unchanged."
+        }
+      ]
+    },
+    {
+      "term": "poll",
+      "entries": [
+        {
+          "id": "0b3638a1eb47c6bdaf1ee80fedb95d64e2b2419205401249ae159a36242918f3",
+          "sourceId": "oewn",
+          "release": "2025",
+          "sourceEntryId": "entries-p.json/poll/n-1",
+          "lemma": "poll",
+          "lexicalPos": "n",
+          "pronunciation": [
+            {
+              "value": "pɔl"
+            }
+          ],
+          "senses": [
+            {
+              "sourceSenseId": "poll%1:09:00::",
+              "anchor": "entries-p.json/poll/n-1/sense/0",
+              "synset": "05809006-n",
+              "definitions": [
+                "an inquiry into public opinion conducted by interviewing a random sample of people"
+              ],
+              "examples": []
+            },
+            {
+              "sourceSenseId": "poll%1:08:01::",
+              "anchor": "entries-p.json/poll/n-1/sense/1",
+              "synset": "05547228-n",
+              "definitions": [
+                "the top of the head"
+              ],
+              "examples": []
+            },
+            {
+              "sourceSenseId": "poll%1:08:02::",
+              "anchor": "entries-p.json/poll/n-1/sense/2",
+              "synset": "05546645-n",
+              "definitions": [
+                "the part of the head between the ears"
+              ],
+              "examples": []
+            },
+            {
+              "sourceSenseId": "poll%1:04:00::",
+              "anchor": "entries-p.json/poll/n-1/sense/3",
+              "synset": "00655054-n",
+              "definitions": [
+                "the counting of votes (as in an election)"
+              ],
+              "examples": []
+            }
+          ],
+          "attribution": "Open English Wordnet 2025, Open English Wordnet team; derived from Princeton WordNet. CC BY 4.0 and retained Princeton notice. Converted to SQLite; source definitions unchanged."
+        },
+        {
+          "id": "7c7949a41146668047db3879c11208d7987572a6dec03752e5032e28861ac62c",
+          "sourceId": "oewn",
+          "release": "2025",
+          "sourceEntryId": "entries-p.json/poll/n-2",
+          "lemma": "poll",
+          "lexicalPos": "n",
+          "pronunciation": [
+            {
+              "value": "pɒl"
+            }
+          ],
+          "senses": [
+            {
+              "sourceSenseId": "poll%1:05:00::",
+              "anchor": "entries-p.json/poll/n-2/sense/0",
+              "synset": "01819987-n",
+              "definitions": [
+                "a tame parrot"
+              ],
+              "examples": []
+            }
+          ],
+          "attribution": "Open English Wordnet 2025, Open English Wordnet team; derived from Princeton WordNet. CC BY 4.0 and retained Princeton notice. Converted to SQLite; source definitions unchanged."
+        },
+        {
+          "id": "81589fffbf0120919dfade77159351aef4a05ec1a62187cbb04b4800a2b6fd57",
+          "sourceId": "oewn",
+          "release": "2025",
+          "sourceEntryId": "entries-p.json/poll/v",
+          "lemma": "poll",
+          "lexicalPos": "v",
+          "pronunciation": [
+            {
+              "value": "pɔl",
+              "variety": "AU"
+            },
+            {
+              "value": "pəʊl",
+              "variety": "GB"
+            },
+            {
+              "value": "poʊl",
+              "variety": "US"
+            }
+          ],
+          "senses": [
+            {
+              "sourceSenseId": "poll%2:41:00::",
+              "anchor": "entries-p.json/poll/v/sense/0",
+              "synset": "02459761-v",
+              "definitions": [
+                "get the opinions (of people) by asking specific questions"
+              ],
+              "examples": []
+            },
+            {
+              "sourceSenseId": "poll%2:41:01::",
+              "anchor": "entries-p.json/poll/v/sense/1",
+              "synset": "02468721-v",
+              "definitions": [
+                "vote in an election at a polling station"
+              ],
+              "examples": []
+            },
+            {
+              "sourceSenseId": "poll%2:41:02::",
+              "anchor": "entries-p.json/poll/v/sense/2",
+              "synset": "02460257-v",
+              "definitions": [
+                "get the votes of"
+              ],
+              "examples": []
+            },
+            {
+              "sourceSenseId": "poll%2:35:00::",
+              "anchor": "entries-p.json/poll/v/sense/3",
+              "synset": "01323329-v",
+              "definitions": [
+                "convert into a pollard"
+              ],
+              "examples": [
+                "pollard trees"
+              ]
+            }
+          ],
+          "attribution": "Open English Wordnet 2025, Open English Wordnet team; derived from Princeton WordNet. CC BY 4.0 and retained Princeton notice. Converted to SQLite; source definitions unchanged."
+        }
+      ]
+    },
+    {
+      "term": "credulous",
+      "entries": [
+        {
+          "id": "d3c3e5485351194adbe8d91ac9bfec291633edd7ec87dfe7992bbdd20213c51f",
+          "sourceId": "oewn",
+          "release": "2025",
+          "sourceEntryId": "entries-c.json/credulous/a",
+          "lemma": "credulous",
+          "lexicalPos": "a",
+          "pronunciation": [
+            {
+              "value": "ˈkɹɛdʒələs"
+            }
+          ],
+          "senses": [
+            {
+              "sourceSenseId": "credulous%3:00:00::",
+              "anchor": "entries-c.json/credulous/a/sense/0",
+              "synset": "00649435-a",
+              "definitions": [
+                "disposed to believe on little evidence"
+              ],
+              "examples": [
+                "the gimmick would convince none but the most credulous"
+              ]
+            },
+            {
+              "sourceSenseId": "credulous%5:00:00:naive:00",
+              "anchor": "entries-c.json/credulous/a/sense/1",
+              "synset": "02280055-s",
+              "definitions": [
+                "showing a lack of judgment or experience"
+              ],
+              "examples": [
+                "so credulous he believes everything he reads"
+              ]
+            }
+          ],
+          "attribution": "Open English Wordnet 2025, Open English Wordnet team; derived from Princeton WordNet. CC BY 4.0 and retained Princeton notice. Converted to SQLite; source definitions unchanged."
+        }
+      ]
+    },
+    {
+      "term": "inflation shock",
+      "entries": []
+    },
+    {
+      "term": "inflation",
+      "entries": [
+        {
+          "id": "71640287a9672df7f7b5853f76b37d18d310e575da97c8ba5feaeef8a32e7196",
+          "sourceId": "oewn",
+          "release": "2025",
+          "sourceEntryId": "entries-i.json/inflation/n",
+          "lemma": "inflation",
+          "lexicalPos": "n",
+          "pronunciation": [
+            {
+              "value": "ɪnˈfleɪʃən"
+            }
+          ],
+          "senses": [
+            {
+              "sourceSenseId": "inflation%1:22:00::",
+              "anchor": "entries-i.json/inflation/n/sense/0",
+              "synset": "13520031-n",
+              "definitions": [
+                "a general and progressive increase in prices"
+              ],
+              "examples": [
+                "in inflation everything gets more valuable except money"
+              ]
+            },
+            {
+              "sourceSenseId": "inflation%1:11:00::",
+              "anchor": "entries-i.json/inflation/n/sense/1",
+              "synset": "07423855-n",
+              "definitions": [
+                "(cosmology) a brief exponential expansion of the universe (faster than the speed of light) postulated to have occurred shortly after the big bang"
+              ],
+              "examples": []
+            },
+            {
+              "sourceSenseId": "inflation%1:07:00::",
+              "anchor": "entries-i.json/inflation/n/sense/2",
+              "synset": "04825154-n",
+              "definitions": [
+                "lack of elegance as a consequence of being pompous and puffed up with vanity"
+              ],
+              "examples": []
+            },
+            {
+              "sourceSenseId": "inflation%1:04:00::",
+              "anchor": "entries-i.json/inflation/n/sense/3",
+              "synset": "00368106-n",
+              "definitions": [
+                "the act of filling something with air"
+              ],
+              "examples": []
+            }
+          ],
+          "attribution": "Open English Wordnet 2025, Open English Wordnet team; derived from Princeton WordNet. CC BY 4.0 and retained Princeton notice. Converted to SQLite; source definitions unchanged."
+        }
+      ]
+    },
+    {
+      "term": "shock",
+      "entries": [
+        {
+          "id": "f8ec778f9cde4df48b79f25fd06d554b1cce2bad5bfdd1c1b678c74824aa9679",
+          "sourceId": "oewn",
+          "release": "2025",
+          "sourceEntryId": "entries-s.json/shock/n",
+          "lemma": "shock",
+          "lexicalPos": "n",
+          "pronunciation": null,
+          "senses": [
+            {
+              "sourceSenseId": "shock%1:12:01::",
+              "anchor": "entries-s.json/shock/n/sense/0",
+              "synset": "07525864-n",
+              "definitions": [
+                "the feeling of distress and disbelief that you have when something bad happens accidentally"
+              ],
+              "examples": [
+                "his mother's death left him in a daze",
+                "he was numb with shock"
+              ]
+            },
+            {
+              "sourceSenseId": "shock%1:04:01::",
+              "anchor": "entries-s.json/shock/n/sense/1",
+              "synset": "01174742-n",
+              "definitions": [
+                "the violent interaction of individuals or groups entering into combat"
+              ],
+              "examples": [
+                "the armies met in the shock of battle"
+              ]
+            },
+            {
+              "sourceSenseId": "shock%1:04:00::",
+              "anchor": "entries-s.json/shock/n/sense/2",
+              "synset": "00840953-n",
+              "definitions": [
+                "a reflex response to the passage of electric current through the body"
+              ],
+              "examples": [
+                "subjects received a small electric shock when they made the wrong response",
+                "electricians get accustomed to occasional shocks"
+              ]
+            },
+            {
+              "sourceSenseId": "shock%1:26:00::",
+              "anchor": "entries-s.json/shock/n/sense/3",
+              "synset": "14090558-n",
+              "definitions": [
+                "(pathology) bodily collapse or near collapse caused by inadequate oxygen delivery to the cells; characterized by reduced cardiac output and rapid heartbeat and circulatory insufficiency and pallor"
+              ],
+              "examples": [
+                "loss of blood is an important cause of shock"
+              ]
+            },
+            {
+              "sourceSenseId": "shock%1:11:00::",
+              "anchor": "entries-s.json/shock/n/sense/4",
+              "synset": "07443876-n",
+              "definitions": [
+                "an instance of agitation of the earth's crust"
+              ],
+              "examples": [
+                "the first shock of the earthquake came shortly after noon while workers were at lunch"
+              ]
+            },
+            {
+              "sourceSenseId": "shock%1:11:01::",
+              "anchor": "entries-s.json/shock/n/sense/5",
+              "synset": "07313600-n",
+              "definitions": [
+                "an unpleasant or disappointing surprise"
+              ],
+              "examples": [
+                "it came as a shock to learn that he was injured"
+              ]
+            },
+            {
+              "sourceSenseId": "shock%1:14:00::",
+              "anchor": "entries-s.json/shock/n/sense/6",
+              "synset": "07979321-n",
+              "definitions": [
+                "a pile of sheaves of grain set on end in a field to dry; stalks of Indian corn set up in a field"
+              ],
+              "examples": [
+                "corn is bound in small sheaves and several sheaves are set up together in shocks",
+                "whole fields of wheat in shock"
+              ]
+            },
+            {
+              "sourceSenseId": "shock%1:14:01::",
+              "anchor": "entries-s.json/shock/n/sense/7",
+              "synset": "07979114-n",
+              "definitions": [
+                "a bushy thick mass (especially hair)"
+              ],
+              "examples": [
+                "he had an unruly shock of black hair"
+              ]
+            },
+            {
+              "sourceSenseId": "shock%1:11:02::",
+              "anchor": "entries-s.json/shock/n/sense/8",
+              "synset": "07353698-n",
+              "definitions": [
+                "a sudden jarring impact"
+              ],
+              "examples": [
+                "the door closed with a jolt",
+                "all the jars and jolts were smoothed out by the shock absorbers"
+              ]
+            },
+            {
+              "sourceSenseId": "shock%1:06:00::",
+              "anchor": "entries-s.json/shock/n/sense/9",
+              "synset": "04205840-n",
+              "definitions": [
+                "a mechanical damper; absorbs energy of sudden impulses"
+              ],
+              "examples": [
+                "the old car needed a new set of shocks"
+              ]
+            }
+          ],
+          "attribution": "Open English Wordnet 2025, Open English Wordnet team; derived from Princeton WordNet. CC BY 4.0 and retained Princeton notice. Converted to SQLite; source definitions unchanged."
+        },
+        {
+          "id": "c6b8293171efebb41b650333c9312dc12b15762c3f78fb443e3a57e09109aaf8",
+          "sourceId": "oewn",
+          "release": "2025",
+          "sourceEntryId": "entries-s.json/shock/v",
+          "lemma": "shock",
+          "lexicalPos": "v",
+          "pronunciation": null,
+          "senses": [
+            {
+              "sourceSenseId": "shock%2:37:01::",
+              "anchor": "entries-s.json/shock/v/sense/0",
+              "synset": "01813031-v",
+              "definitions": [
+                "surprise greatly; knock someone's socks off"
+              ],
+              "examples": [
+                "I was floored when I heard that I was promoted"
+              ]
+            },
+            {
+              "sourceSenseId": "shock%2:37:02::",
+              "anchor": "entries-s.json/shock/v/sense/1",
+              "synset": "01814414-v",
+              "definitions": [
+                "strike with disgust or revulsion"
+              ],
+              "examples": [
+                "The scandalous behavior of this married woman shocked her friends"
+              ]
+            },
+            {
+              "sourceSenseId": "shock%2:37:00::",
+              "anchor": "entries-s.json/shock/v/sense/2",
+              "synset": "01786841-v",
+              "definitions": [
+                "strike with horror or terror"
+              ],
+              "examples": [
+                "The news of the bombing shocked her"
+              ]
+            },
+            {
+              "sourceSenseId": "shock%2:35:01::",
+              "anchor": "entries-s.json/shock/v/sense/3",
+              "synset": "01564495-v",
+              "definitions": [
+                "collide violently"
+              ],
+              "examples": []
+            },
+            {
+              "sourceSenseId": "shock%2:35:00::",
+              "anchor": "entries-s.json/shock/v/sense/4",
+              "synset": "01388962-v",
+              "definitions": [
+                "collect or gather into shocks"
+              ],
+              "examples": [
+                "shock grain"
+              ]
+            },
+            {
+              "sourceSenseId": "shock%2:29:01::",
+              "anchor": "entries-s.json/shock/v/sense/5",
+              "synset": "00090138-v",
+              "definitions": [
+                "subject to electrical shocks"
+              ],
+              "examples": []
+            },
+            {
+              "sourceSenseId": "shock%2:29:00::",
+              "anchor": "entries-s.json/shock/v/sense/6",
+              "synset": "00089938-v",
+              "definitions": [
+                "inflict a trauma upon"
+              ],
+              "examples": []
+            }
+          ],
+          "attribution": "Open English Wordnet 2025, Open English Wordnet team; derived from Princeton WordNet. CC BY 4.0 and retained Princeton notice. Converted to SQLite; source definitions unchanged."
+        }
+      ]
+    },
+    {
+      "term": "trade-off",
+      "entries": [
+        {
+          "id": "31240031b3b196282d2c9d36a59f3bbfc62d0523c044d7a22d39a1078f0e278c",
+          "sourceId": "oewn",
+          "release": "2025",
+          "sourceEntryId": "entries-t.json/trade-off/n",
+          "lemma": "trade-off",
+          "lexicalPos": "n",
+          "pronunciation": null,
+          "senses": [
+            {
+              "sourceSenseId": "trade-off%1:04:00::",
+              "anchor": "entries-t.json/trade-off/n/sense/0",
+              "synset": "01169250-n",
+              "definitions": [
+                "an exchange that occurs as a compromise"
+              ],
+              "examples": [
+                "I faced a tradeoff between eating and buying my medicine"
+              ]
+            }
+          ],
+          "attribution": "Open English Wordnet 2025, Open English Wordnet team; derived from Princeton WordNet. CC BY 4.0 and retained Princeton notice. Converted to SQLite; source definitions unchanged."
+        }
+      ]
+    },
+    {
+      "term": "tradeoff",
+      "entries": [
+        {
+          "id": "fe8dd83967c37da3cd73097ce7744a4061c2ba06b81ca9907efd61f4ded776f6",
+          "sourceId": "oewn",
+          "release": "2025",
+          "sourceEntryId": "entries-t.json/tradeoff/n",
+          "lemma": "tradeoff",
+          "lexicalPos": "n",
+          "pronunciation": null,
+          "senses": [
+            {
+              "sourceSenseId": "tradeoff%1:04:00::",
+              "anchor": "entries-t.json/tradeoff/n/sense/0",
+              "synset": "01169250-n",
+              "definitions": [
+                "an exchange that occurs as a compromise"
+              ],
+              "examples": [
+                "I faced a tradeoff between eating and buying my medicine"
+              ]
+            }
+          ],
+          "attribution": "Open English Wordnet 2025, Open English Wordnet team; derived from Princeton WordNet. CC BY 4.0 and retained Princeton notice. Converted to SQLite; source definitions unchanged."
+        }
+      ]
+    },
+    {
+      "term": "contingency",
+      "entries": [
+        {
+          "id": "54d2da8f878afab5b8eb18b91f2ad8928cfc407099b135899d5b48f5f46e76e8",
+          "sourceId": "oewn",
+          "release": "2025",
+          "sourceEntryId": "entries-c.json/contingency/n",
+          "lemma": "contingency",
+          "lexicalPos": "n",
+          "pronunciation": [
+            {
+              "value": "kənˈtɪndʒənsi"
+            }
+          ],
+          "senses": [
+            {
+              "sourceSenseId": "contingency%1:11:00::",
+              "anchor": "entries-c.json/contingency/n/sense/0",
+              "synset": "07305484-n",
+              "definitions": [
+                "a possible event or occurrence or result"
+              ],
+              "examples": []
+            },
+            {
+              "sourceSenseId": "contingency%1:26:00::",
+              "anchor": "entries-c.json/contingency/n/sense/1",
+              "synset": "14025458-n",
+              "definitions": [
+                "the state of being contingent on something"
+              ],
+              "examples": []
+            }
+          ],
+          "attribution": "Open English Wordnet 2025, Open English Wordnet team; derived from Princeton WordNet. CC BY 4.0 and retained Princeton notice. Converted to SQLite; source definitions unchanged."
+        }
+      ]
+    },
+    {
+      "term": "ownership",
+      "entries": [
+        {
+          "id": "7e1cafef1ff07d9a3c4cf378e07dfa9a18f6f49189590cdfa643838a7571dcd1",
+          "sourceId": "oewn",
+          "release": "2025",
+          "sourceEntryId": "entries-o.json/ownership/n",
+          "lemma": "ownership",
+          "lexicalPos": "n",
+          "pronunciation": [
+            {
+              "value": "ˈoʊnɚʃɪp",
+              "variety": "US"
+            },
+            {
+              "value": "ˈəʊnəʃɪp",
+              "variety": "GB"
+            }
+          ],
+          "senses": [
+            {
+              "sourceSenseId": "ownership%1:21:00::",
+              "anchor": "entries-o.json/ownership/n/sense/0",
+              "synset": "13261412-n",
+              "definitions": [
+                "the relation of an owner to the thing possessed; possession with the right to transfer possession to others"
+              ],
+              "examples": []
+            },
+            {
+              "sourceSenseId": "ownership%1:04:00::",
+              "anchor": "entries-o.json/ownership/n/sense/1",
+              "synset": "00811126-n",
+              "definitions": [
+                "the act of having and controlling property"
+              ],
+              "examples": []
+            },
+            {
+              "sourceSenseId": "ownership%1:26:00::",
+              "anchor": "entries-o.json/ownership/n/sense/2",
+              "synset": "14503072-n",
+              "definitions": [
+                "the state or fact of being an owner"
+              ],
+              "examples": []
+            }
+          ],
+          "attribution": "Open English Wordnet 2025, Open English Wordnet team; derived from Princeton WordNet. CC BY 4.0 and retained Princeton notice. Converted to SQLite; source definitions unchanged."
+        }
+      ]
+    },
+    {
+      "term": "commitment",
+      "entries": [
+        {
+          "id": "33f4b88a5ce3e50dc4005acfbb8717346442a3a31eac505a647575bf3f76e249",
+          "sourceId": "oewn",
+          "release": "2025",
+          "sourceEntryId": "entries-c.json/commitment/n",
+          "lemma": "commitment",
+          "lexicalPos": "n",
+          "pronunciation": null,
+          "senses": [
+            {
+              "sourceSenseId": "commitment%1:07:01::",
+              "anchor": "entries-c.json/commitment/n/sense/0",
+              "synset": "04654347-n",
+              "definitions": [
+                "the trait of sincere and steadfast fixity of purpose"
+              ],
+              "examples": [
+                "a man of energy and commitment"
+              ]
+            },
+            {
+              "sourceSenseId": "commitment%1:04:00::",
+              "anchor": "entries-c.json/commitment/n/sense/1",
+              "synset": "01208643-n",
+              "definitions": [
+                "the act of binding yourself (intellectually or emotionally) to a course of action"
+              ],
+              "examples": [
+                "his long commitment to public service",
+                "they felt no loyalty to a losing team"
+              ]
+            },
+            {
+              "sourceSenseId": "commitment%1:04:02::",
+              "anchor": "entries-c.json/commitment/n/sense/2",
+              "synset": "01242433-n",
+              "definitions": [
+                "an engagement by contract involving financial obligation"
+              ],
+              "examples": [
+                "his business commitments took him to London"
+              ]
+            },
+            {
+              "sourceSenseId": "commitment%1:10:00::",
+              "anchor": "entries-c.json/commitment/n/sense/3",
+              "synset": "06697128-n",
+              "definitions": [
+                "a message that makes a pledge"
+              ],
+              "examples": []
+            },
+            {
+              "sourceSenseId": "commitment%1:04:01::",
+              "anchor": "entries-c.json/commitment/n/sense/4",
+              "synset": "01168182-n",
+              "definitions": [
+                "the official act of consigning a person to confinement (as in a prison or mental hospital)"
+              ],
+              "examples": []
+            }
+          ],
+          "attribution": "Open English Wordnet 2025, Open English Wordnet team; derived from Princeton WordNet. CC BY 4.0 and retained Princeton notice. Converted to SQLite; source definitions unchanged."
+        }
+      ]
+    },
+    {
+      "term": "buffer",
+      "entries": [
+        {
+          "id": "74da7b9da0fb524b42de2a2ac21ab3f7bf54cd5ee064b6655ec8ec508c656f99",
+          "sourceId": "oewn",
+          "release": "2025",
+          "sourceEntryId": "entries-b.json/buffer/n",
+          "lemma": "buffer",
+          "lexicalPos": "n",
+          "pronunciation": [
+            {
+              "value": "ˈbʌfə(ɹ)",
+              "variety": "GB"
+            },
+            {
+              "value": "ˈbʌfɚ",
+              "variety": "US"
+            },
+            {
+              "value": "ˈbafə(ɹ)",
+              "variety": "AU"
+            }
+          ],
+          "senses": [
+            {
+              "sourceSenseId": "buffer%1:27:00::",
+              "anchor": "entries-b.json/buffer/n/sense/0",
+              "synset": "14810100-n",
+              "definitions": [
+                "(chemistry) an ionic compound that resists changes in its pH"
+              ],
+              "examples": []
+            },
+            {
+              "sourceSenseId": "buffer%1:15:00::",
+              "anchor": "entries-b.json/buffer/n/sense/1",
+              "synset": "08706162-n",
+              "definitions": [
+                "a neutral zone between two rival powers that is created in order to diminish the danger of conflict"
+              ],
+              "examples": []
+            },
+            {
+              "sourceSenseId": "buffer%1:06:02::",
+              "anchor": "entries-b.json/buffer/n/sense/2",
+              "synset": "03333146-n",
+              "definitions": [
+                "an inclined metal frame at the front of a locomotive to clear the track"
+              ],
+              "examples": []
+            },
+            {
+              "sourceSenseId": "buffer%1:06:03::",
+              "anchor": "entries-b.json/buffer/n/sense/3",
+              "synset": "02914831-n",
+              "definitions": [
+                "(computer science) a part of RAM used for temporary storage of data that is waiting to be sent to a device; used to compensate for differences in the rate of flow of data between components of a computer system"
+              ],
+              "examples": []
+            },
+            {
+              "sourceSenseId": "buffer%1:06:01::",
+              "anchor": "entries-b.json/buffer/n/sense/4",
+              "synset": "02914678-n",
+              "definitions": [
+                "a power tool used to buff surfaces"
+              ],
+              "examples": []
+            },
+            {
+              "sourceSenseId": "buffer%1:06:00::",
+              "anchor": "entries-b.json/buffer/n/sense/5",
+              "synset": "02914504-n",
+              "definitions": [
+                "a cushion-like device that reduces shock due to an impact"
+              ],
+              "examples": []
+            },
+            {
+              "sourceSenseId": "buffer%1:06:04::",
+              "anchor": "entries-b.json/buffer/n/sense/6",
+              "synset": "02914310-n",
+              "definitions": [
+                "an implement consisting of soft material mounted on a block; used for polishing (as in manicuring)"
+              ],
+              "examples": []
+            }
+          ],
+          "attribution": "Open English Wordnet 2025, Open English Wordnet team; derived from Princeton WordNet. CC BY 4.0 and retained Princeton notice. Converted to SQLite; source definitions unchanged."
+        },
+        {
+          "id": "681a48292bfa21774a68abf8ef4a26c99493a6efa93ccf603e7b2af72677a94e",
+          "sourceId": "oewn",
+          "release": "2025",
+          "sourceEntryId": "entries-b.json/buffer/v",
+          "lemma": "buffer",
+          "lexicalPos": "v",
+          "pronunciation": [
+            {
+              "value": "ˈbʌfə(ɹ)",
+              "variety": "GB"
+            },
+            {
+              "value": "ˈbʌfɚ",
+              "variety": "US"
+            },
+            {
+              "value": "ˈbafə(ɹ)",
+              "variety": "AU"
+            }
+          ],
+          "senses": [
+            {
+              "sourceSenseId": "buffer%2:30:00::",
+              "anchor": "entries-b.json/buffer/v/sense/0",
+              "synset": "00514425-v",
+              "definitions": [
+                "add a buffer (a solution)"
+              ],
+              "examples": [
+                "buffered saline solution for the eyes"
+              ]
+            },
+            {
+              "sourceSenseId": "buffer%2:35:00::",
+              "anchor": "entries-b.json/buffer/v/sense/1",
+              "synset": "01579748-v",
+              "definitions": [
+                "protect from impact"
+              ],
+              "examples": [
+                "cushion the blow"
+              ]
+            }
+          ],
+          "attribution": "Open English Wordnet 2025, Open English Wordnet team; derived from Princeton WordNet. CC BY 4.0 and retained Princeton notice. Converted to SQLite; source definitions unchanged."
+        }
+      ]
+    },
+    {
+      "term": "constraint",
+      "entries": [
+        {
+          "id": "7b9524bb716ae03b7957e77b7efd46445f8e92133f37e1c484eec8b44d3f47b6",
+          "sourceId": "oewn",
+          "release": "2025",
+          "sourceEntryId": "entries-c.json/constraint/n",
+          "lemma": "constraint",
+          "lexicalPos": "n",
+          "pronunciation": [
+            {
+              "value": "kənˈstɹeɪnt"
+            }
+          ],
+          "senses": [
+            {
+              "sourceSenseId": "constraint%1:26:00::",
+              "anchor": "entries-c.json/constraint/n/sense/0",
+              "synset": "14022266-n",
+              "definitions": [
+                "the state of being physically constrained"
+              ],
+              "examples": [
+                "dogs should be kept under restraint"
+              ]
+            },
+            {
+              "sourceSenseId": "constraint%1:06:00::",
+              "anchor": "entries-c.json/constraint/n/sense/1",
+              "synset": "04088956-n",
+              "definitions": [
+                "a device that retards something's motion"
+              ],
+              "examples": [
+                "the car did not have proper restraints fitted"
+              ]
+            },
+            {
+              "sourceSenseId": "constraint%1:04:00::",
+              "anchor": "entries-c.json/constraint/n/sense/2",
+              "synset": "01152116-n",
+              "definitions": [
+                "the act of constraining; the threat or use of force to control the thoughts or behavior of others"
+              ],
+              "examples": []
+            }
+          ],
+          "attribution": "Open English Wordnet 2025, Open English Wordnet team; derived from Princeton WordNet. CC BY 4.0 and retained Princeton notice. Converted to SQLite; source definitions unchanged."
+        }
+      ]
+    },
+    {
+      "term": "preliminary",
+      "entries": [
+        {
+          "id": "491fa8fc71876d893c3eca1e5d388027297e2353f49553602861b4d1bed1f3f0",
+          "sourceId": "oewn",
+          "release": "2025",
+          "sourceEntryId": "entries-p.json/preliminary/a",
+          "lemma": "preliminary",
+          "lexicalPos": "a",
+          "pronunciation": [
+            {
+              "value": "pɹɪˈlɪmɪnɛɹi",
+              "variety": "US"
+            },
+            {
+              "value": "pɹɪˈlɪmɪnəɹi",
+              "variety": "GB"
+            }
+          ],
+          "senses": [
+            {
+              "sourceSenseId": "preliminary%5:00:00:exploratory:00",
+              "anchor": "entries-p.json/preliminary/a/sense/0",
+              "synset": "00881395-s",
+              "definitions": [
+                "denoting an action or event preceding or in preparation for something more important"
+              ],
+              "examples": [
+                "a preliminary investigation"
+              ]
+            }
+          ],
+          "attribution": "Open English Wordnet 2025, Open English Wordnet team; derived from Princeton WordNet. CC BY 4.0 and retained Princeton notice. Converted to SQLite; source definitions unchanged."
+        },
+        {
+          "id": "adac48880d12cb254725dc62966b850dba9f7dbc6a2c8b572a57086e7baaee04",
+          "sourceId": "oewn",
+          "release": "2025",
+          "sourceEntryId": "entries-p.json/preliminary/n",
+          "lemma": "preliminary",
+          "lexicalPos": "n",
+          "pronunciation": [
+            {
+              "value": "pɹɪˈlɪmɪnɛɹi",
+              "variety": "US"
+            },
+            {
+              "value": "pɹɪˈlɪmɪnəɹi",
+              "variety": "GB"
+            }
+          ],
+          "senses": [
+            {
+              "sourceSenseId": "preliminary%1:11:00::",
+              "anchor": "entries-p.json/preliminary/n/sense/0",
+              "synset": "07472390-n",
+              "definitions": [
+                "a minor match preceding the main event"
+              ],
+              "examples": []
+            },
+            {
+              "sourceSenseId": "preliminary%1:11:02::",
+              "anchor": "entries-p.json/preliminary/n/sense/1",
+              "synset": "07341613-n",
+              "definitions": [
+                "something that serves as a preceding event or introduces what follows"
+              ],
+              "examples": [
+                "training is a necessary preliminary to employment",
+                "drinks were the overture to dinner"
+              ]
+            }
+          ],
+          "attribution": "Open English Wordnet 2025, Open English Wordnet team; derived from Princeton WordNet. CC BY 4.0 and retained Princeton notice. Converted to SQLite; source definitions unchanged."
+        }
+      ]
+    },
+    {
+      "term": "milestone",
+      "entries": [
+        {
+          "id": "73e9fcb42fc2eed82b24b677e7924d571ae78aa735986f8e58169104b5d2f0e4",
+          "sourceId": "oewn",
+          "release": "2025",
+          "sourceEntryId": "entries-m.json/milestone/n",
+          "lemma": "milestone",
+          "lexicalPos": "n",
+          "pronunciation": null,
+          "senses": [
+            {
+              "sourceSenseId": "milestone%1:10:01::",
+              "anchor": "entries-m.json/milestone/n/sense/0",
+              "synset": "07285872-n",
+              "definitions": [
+                "stone post at side of a road to show distances"
+              ],
+              "examples": []
+            },
+            {
+              "sourceSenseId": "milestone%1:11:00::",
+              "anchor": "entries-m.json/milestone/n/sense/1",
+              "synset": "07433316-n",
+              "definitions": [
+                "a significant event in your life (or in a project)"
+              ],
+              "examples": []
+            }
+          ],
+          "attribution": "Open English Wordnet 2025, Open English Wordnet team; derived from Princeton WordNet. CC BY 4.0 and retained Princeton notice. Converted to SQLite; source definitions unchanged."
+        }
+      ]
+    },
+    {
+      "term": "priority",
+      "entries": [
+        {
+          "id": "846b2260e71a854d3ac0a51853eeee63d898c6bb87db9adb938f784cc872a19c",
+          "sourceId": "oewn",
+          "release": "2025",
+          "sourceEntryId": "entries-p.json/priority/n",
+          "lemma": "priority",
+          "lexicalPos": "n",
+          "pronunciation": [
+            {
+              "value": "pɹaɪˈɒɹɨti",
+              "variety": "GB"
+            },
+            {
+              "value": "pɹaɪˈɔɹɪ̈ti",
+              "variety": "US"
+            }
+          ],
+          "senses": [
+            {
+              "sourceSenseId": "priority%1:26:00::",
+              "anchor": "entries-p.json/priority/n/sense/0",
+              "synset": "13973020-n",
+              "definitions": [
+                "status established in order of importance or urgency"
+              ],
+              "examples": [
+                "… its precedence as the world's leading manufacturer of pharmaceuticals",
+                "national independence takes priority over class struggle"
+              ]
+            },
+            {
+              "sourceSenseId": "priority%1:07:00::",
+              "anchor": "entries-p.json/priority/n/sense/1",
+              "synset": "05054430-n",
+              "definitions": [
+                "preceding in time"
+              ],
+              "examples": []
+            }
+          ],
+          "attribution": "Open English Wordnet 2025, Open English Wordnet team; derived from Princeton WordNet. CC BY 4.0 and retained Princeton notice. Converted to SQLite; source definitions unchanged."
+        }
+      ]
+    },
+    {
+      "term": "dependency",
+      "entries": [
+        {
+          "id": "873bbe5e566165ba469ba2f28dd64a8a9889e12b403b023e1aa79deedaaf9630",
+          "sourceId": "oewn",
+          "release": "2025",
+          "sourceEntryId": "entries-d.json/dependency/n",
+          "lemma": "dependency",
+          "lexicalPos": "n",
+          "pronunciation": [
+            {
+              "value": "dɪˈpɛndənsi",
+              "variety": "GB"
+            }
+          ],
+          "senses": [
+            {
+              "sourceSenseId": "dependency%1:26:00::",
+              "anchor": "entries-d.json/dependency/n/sense/0",
+              "synset": "14024833-n",
+              "definitions": [
+                "the state of relying on or being controlled by someone or something else"
+              ],
+              "examples": []
+            },
+            {
+              "sourceSenseId": "dependency%1:26:01::",
+              "anchor": "entries-d.json/dependency/n/sense/1",
+              "synset": "14086207-n",
+              "definitions": [
+                "being abnormally tolerant to and dependent on something that is psychologically or physically habit-forming (especially alcohol or narcotic drugs)"
+              ],
+              "examples": []
+            },
+            {
+              "sourceSenseId": "dependency%1:15:00::",
+              "anchor": "entries-d.json/dependency/n/sense/2",
+              "synset": "08516868-n",
+              "definitions": [
+                "a geographical area politically controlled by a distant country"
+              ],
+              "examples": []
+            }
+          ],
+          "attribution": "Open English Wordnet 2025, Open English Wordnet team; derived from Princeton WordNet. CC BY 4.0 and retained Princeton notice. Converted to SQLite; source definitions unchanged."
+        }
+      ]
+    },
+    {
+      "term": "assumption",
+      "entries": [
+        {
+          "id": "73d389e3f32632142f8be822de553aa8c19eb5a68f32d08fa60e704008be3aec",
+          "sourceId": "oewn",
+          "release": "2025",
+          "sourceEntryId": "entries-a.json/Assumption/n",
+          "lemma": "Assumption",
+          "lexicalPos": "n",
+          "pronunciation": [
+            {
+              "value": "əˈsʌmp.ʃən"
+            }
+          ],
+          "senses": [
+            {
+              "sourceSenseId": "assumption%1:28:00::",
+              "anchor": "entries-a.json/Assumption/n/sense/0",
+              "synset": "15218743-n",
+              "definitions": [
+                "celebration in the Roman Catholic Church of the Virgin Mary's being taken up into heaven when her earthly life ended; corresponds to the Dormition in the Eastern Orthodox Church"
+              ],
+              "examples": []
+            },
+            {
+              "sourceSenseId": "assumption%1:11:00::",
+              "anchor": "entries-a.json/Assumption/n/sense/1",
+              "synset": "07372466-n",
+              "definitions": [
+                "(Christianity) the taking up of the body and soul of the Virgin Mary when her earthly life had ended"
+              ],
+              "examples": []
+            }
+          ],
+          "attribution": "Open English Wordnet 2025, Open English Wordnet team; derived from Princeton WordNet. CC BY 4.0 and retained Princeton notice. Converted to SQLite; source definitions unchanged."
+        },
+        {
+          "id": "916b64be2e53f14bf9904dec5b54bc75bce13ab1a5087a3d210eaa60aa8d5622",
+          "sourceId": "oewn",
+          "release": "2025",
+          "sourceEntryId": "entries-a.json/assumption/n",
+          "lemma": "assumption",
+          "lexicalPos": "n",
+          "pronunciation": [
+            {
+              "value": "əˈsʌmp.ʃən"
+            }
+          ],
+          "senses": [
+            {
+              "sourceSenseId": "assumption%1:10:00::",
+              "anchor": "entries-a.json/assumption/n/sense/0",
+              "synset": "06766514-n",
+              "definitions": [
+                "a statement that is assumed to be true and from which a conclusion can be drawn"
+              ],
+              "examples": [
+                "on the assumption that he has been injured, we can infer that he will not play"
+              ]
+            },
+            {
+              "sourceSenseId": "assumption%1:09:00::",
+              "anchor": "entries-a.json/assumption/n/sense/1",
+              "synset": "05900703-n",
+              "definitions": [
+                "a hypothesis that is taken for granted"
+              ],
+              "examples": [
+                "any society is built upon certain assumptions"
+              ]
+            },
+            {
+              "sourceSenseId": "assumption%1:04:00::",
+              "anchor": "entries-a.json/assumption/n/sense/2",
+              "synset": "00083690-n",
+              "definitions": [
+                "the act of taking possession of or power over something"
+              ],
+              "examples": [
+                "his assumption of office coincided with the trouble in Cuba",
+                "the Nazi assumption of power in 1934",
+                "he acquired all the company's assets for ten million dollars and the assumption of the company's debts"
+              ]
+            },
+            {
+              "sourceSenseId": "assumption%1:07:00::",
+              "anchor": "entries-a.json/assumption/n/sense/3",
+              "synset": "04845958-n",
+              "definitions": [
+                "audacious (even arrogant) behavior that you have no right to"
+              ],
+              "examples": [
+                "he despised them for their presumptuousness"
+              ]
+            },
+            {
+              "sourceSenseId": "assumption%1:04:01::",
+              "anchor": "entries-a.json/assumption/n/sense/4",
+              "synset": "00084080-n",
+              "definitions": [
+                "the act of assuming or taking for granted"
+              ],
+              "examples": [
+                "your assumption that I would agree was unwarranted"
+              ]
+            }
+          ],
+          "attribution": "Open English Wordnet 2025, Open English Wordnet team; derived from Princeton WordNet. CC BY 4.0 and retained Princeton notice. Converted to SQLite; source definitions unchanged."
+        }
+      ]
+    },
+    {
+      "term": "baseline",
+      "entries": [
+        {
+          "id": "8084a544e08bc1b1a1db7993b30c36d0acb50eb3fd3a13c45ec9d5f896a0b012",
+          "sourceId": "oewn",
+          "release": "2025",
+          "sourceEntryId": "entries-b.json/baseline/n",
+          "lemma": "baseline",
+          "lexicalPos": "n",
+          "pronunciation": [
+            {
+              "value": "ˈbeɪslaɪn"
+            }
+          ],
+          "senses": [
+            {
+              "sourceSenseId": "baseline%1:24:00::",
+              "anchor": "entries-b.json/baseline/n/sense/0",
+              "synset": "13876515-n",
+              "definitions": [
+                "an imaginary line or standard by which things are measured or compared"
+              ],
+              "examples": [
+                "they established a baseline for the budget"
+              ]
+            },
+            {
+              "sourceSenseId": "baseline%1:15:01::",
+              "anchor": "entries-b.json/baseline/n/sense/1",
+              "synset": "08668494-n",
+              "definitions": [
+                "the back line bounding each end of a tennis or handball court; when serving the server must not step over this line"
+              ],
+              "examples": []
+            },
+            {
+              "sourceSenseId": "baseline%1:15:00::",
+              "anchor": "entries-b.json/baseline/n/sense/2",
+              "synset": "08590687-n",
+              "definitions": [
+                "the lines a baseball player must follow while running the bases"
+              ],
+              "examples": []
+            }
+          ],
+          "attribution": "Open English Wordnet 2025, Open English Wordnet team; derived from Princeton WordNet. CC BY 4.0 and retained Princeton notice. Converted to SQLite; source definitions unchanged."
+        }
+      ]
+    },
+    {
+      "term": "sequence",
+      "entries": [
+        {
+          "id": "a0b076d3fe757ed4decfe59ab6d32fe034c4e611b90d20d0f73d0c84e2bf7d78",
+          "sourceId": "oewn",
+          "release": "2025",
+          "sourceEntryId": "entries-s.json/sequence/n",
+          "lemma": "sequence",
+          "lexicalPos": "n",
+          "pronunciation": [
+            {
+              "value": "ˈsiːkwəns"
+            }
+          ],
+          "senses": [
+            {
+              "sourceSenseId": "sequence%1:14:00::",
+              "anchor": "entries-s.json/sequence/n/sense/0",
+              "synset": "08476263-n",
+              "definitions": [
+                "serial arrangement in which things follow in logical order or a recurrent pattern"
+              ],
+              "examples": [
+                "the sequence of names was alphabetical",
+                "he invented a technique to determine the sequence of base pairs in DNA"
+              ]
+            },
+            {
+              "sourceSenseId": "sequence%1:07:00::",
+              "anchor": "entries-s.json/sequence/n/sense/1",
+              "synset": "05051973-n",
+              "definitions": [
+                "a following of one thing after another in time"
+              ],
+              "examples": [
+                "the doctor saw a sequence of patients"
+              ]
+            },
+            {
+              "sourceSenseId": "sequence%1:06:00::",
+              "anchor": "entries-s.json/sequence/n/sense/2",
+              "synset": "04180233-n",
+              "definitions": [
+                "film consisting of a succession of related shots that develop a given subject in a movie"
+              ],
+              "examples": []
+            },
+            {
+              "sourceSenseId": "sequence%1:04:00::",
+              "anchor": "entries-s.json/sequence/n/sense/3",
+              "synset": "01012400-n",
+              "definitions": [
+                "the action of following in order"
+              ],
+              "examples": [
+                "he played the trumps in sequence"
+              ]
+            },
+            {
+              "sourceSenseId": "sequence%1:11:00::",
+              "anchor": "entries-s.json/sequence/n/sense/4",
+              "synset": "07356983-n",
+              "definitions": [
+                "several repetitions of a melodic phrase in different keys"
+              ],
+              "examples": []
+            }
+          ],
+          "attribution": "Open English Wordnet 2025, Open English Wordnet team; derived from Princeton WordNet. CC BY 4.0 and retained Princeton notice. Converted to SQLite; source definitions unchanged."
+        },
+        {
+          "id": "daac18edfff927c9c37a71e2f16b3452336a83cd26e8b703234e2f152f97dc46",
+          "sourceId": "oewn",
+          "release": "2025",
+          "sourceEntryId": "entries-s.json/sequence/v",
+          "lemma": "sequence",
+          "lexicalPos": "v",
+          "pronunciation": [
+            {
+              "value": "ˈsiːkwəns"
+            }
+          ],
+          "senses": [
+            {
+              "sourceSenseId": "sequence%2:31:00::",
+              "anchor": "entries-s.json/sequence/v/sense/0",
+              "synset": "00662242-v",
+              "definitions": [
+                "arrange in a sequence"
+              ],
+              "examples": []
+            },
+            {
+              "sourceSenseId": "sequence%2:32:00::",
+              "anchor": "entries-s.json/sequence/v/sense/1",
+              "synset": "00922096-v",
+              "definitions": [
+                "determine the order of constituents in"
+              ],
+              "examples": [
+                "They sequenced the human genome"
+              ]
+            }
+          ],
+          "attribution": "Open English Wordnet 2025, Open English Wordnet team; derived from Princeton WordNet. CC BY 4.0 and retained Princeton notice. Converted to SQLite; source definitions unchanged."
+        }
+      ]
+    },
+    {
+      "term": "allocate",
+      "entries": [
+        {
+          "id": "a495b2e44adb91b9969d219d956b9d22639dbc5c0e0dfb79b333b37c0b46c010",
+          "sourceId": "oewn",
+          "release": "2025",
+          "sourceEntryId": "entries-a.json/allocate/v",
+          "lemma": "allocate",
+          "lexicalPos": "v",
+          "pronunciation": [
+            {
+              "value": "ˈæl.ə.keɪt"
+            }
+          ],
+          "senses": [
+            {
+              "sourceSenseId": "allocate%2:40:00::",
+              "anchor": "entries-a.json/allocate/v/sense/0",
+              "synset": "02238869-v",
+              "definitions": [
+                "distribute according to a plan or set apart for a special purpose"
+              ],
+              "examples": [
+                "I am allocating a loaf of bread to everyone on a daily basis",
+                "I'm allocating the rations for the camping trip"
+              ]
+            }
+          ],
+          "attribution": "Open English Wordnet 2025, Open English Wordnet team; derived from Princeton WordNet. CC BY 4.0 and retained Princeton notice. Converted to SQLite; source definitions unchanged."
+        }
+      ]
+    },
+    {
+      "term": "delegate",
+      "entries": [
+        {
+          "id": "b71641fe58ce4ce03f8c8fcb72d220894e7106f4d40d2abf804d252736beff87",
+          "sourceId": "oewn",
+          "release": "2025",
+          "sourceEntryId": "entries-d.json/delegate/n",
+          "lemma": "delegate",
+          "lexicalPos": "n",
+          "pronunciation": [
+            {
+              "value": "ˈdɛlɪɡət"
+            }
+          ],
+          "senses": [
+            {
+              "sourceSenseId": "delegate%1:18:00::",
+              "anchor": "entries-d.json/delegate/n/sense/0",
+              "synset": "10020380-n",
+              "definitions": [
+                "a person appointed or elected to represent others"
+              ],
+              "examples": []
+            }
+          ],
+          "attribution": "Open English Wordnet 2025, Open English Wordnet team; derived from Princeton WordNet. CC BY 4.0 and retained Princeton notice. Converted to SQLite; source definitions unchanged."
+        },
+        {
+          "id": "fc5d7eab40f8026255324c09a4f03f77964652d733510c3e735019ff8c0d5ad4",
+          "sourceId": "oewn",
+          "release": "2025",
+          "sourceEntryId": "entries-d.json/delegate/v",
+          "lemma": "delegate",
+          "lexicalPos": "v",
+          "pronunciation": [
+            {
+              "value": "ˈdɛlɪɡət"
+            }
+          ],
+          "senses": [
+            {
+              "sourceSenseId": "delegate%2:41:01::",
+              "anchor": "entries-d.json/delegate/v/sense/0",
+              "synset": "02400537-v",
+              "definitions": [
+                "transfer power to someone"
+              ],
+              "examples": []
+            },
+            {
+              "sourceSenseId": "delegate%2:41:00::",
+              "anchor": "entries-d.json/delegate/v/sense/1",
+              "synset": "02396945-v",
+              "definitions": [
+                "give an assignment to (a person) to a post, or assign a task to (a person)"
+              ],
+              "examples": []
+            }
+          ],
+          "attribution": "Open English Wordnet 2025, Open English Wordnet team; derived from Princeton WordNet. CC BY 4.0 and retained Princeton notice. Converted to SQLite; source definitions unchanged."
+        }
+      ]
+    },
+    {
+      "term": "accountable",
+      "entries": [
+        {
+          "id": "2a5a0e9ceb13c97fb80f3647e6ba9f578d00bd73b6843839687ba9da89b449f1",
+          "sourceId": "oewn",
+          "release": "2025",
+          "sourceEntryId": "entries-a.json/accountable/a",
+          "lemma": "accountable",
+          "lexicalPos": "a",
+          "pronunciation": [
+            {
+              "value": "əˈkaʊntəbl̩"
+            }
+          ],
+          "senses": [
+            {
+              "sourceSenseId": "accountable%5:00:00:responsible:00",
+              "anchor": "entries-a.json/accountable/a/sense/0",
+              "synset": "02003975-s",
+              "definitions": [
+                "liable to account for one's actions"
+              ],
+              "examples": [
+                "governments must be accountable to someone beside themselves",
+                "fully accountable for what they did",
+                "the court held the parents answerable for their minor child's acts of vandalism",
+                "he was answerable to no one"
+              ]
+            }
+          ],
+          "attribution": "Open English Wordnet 2025, Open English Wordnet team; derived from Princeton WordNet. CC BY 4.0 and retained Princeton notice. Converted to SQLite; source definitions unchanged."
+        }
+      ]
+    },
+    {
+      "term": "deadline",
+      "entries": [
+        {
+          "id": "394b44302c9c661e089c6c84491898973e475ce3b4289d1957c6fe46affc377c",
+          "sourceId": "oewn",
+          "release": "2025",
+          "sourceEntryId": "entries-d.json/deadline/n",
+          "lemma": "deadline",
+          "lexicalPos": "n",
+          "pronunciation": [
+            {
+              "value": "ˈdɛdˌlaɪn"
+            }
+          ],
+          "senses": [
+            {
+              "sourceSenseId": "deadline%1:28:00::",
+              "anchor": "entries-d.json/deadline/n/sense/0",
+              "synset": "15204935-n",
+              "definitions": [
+                "the point in time at which something must be completed"
+              ],
+              "examples": []
+            }
+          ],
+          "attribution": "Open English Wordnet 2025, Open English Wordnet team; derived from Princeton WordNet. CC BY 4.0 and retained Princeton notice. Converted to SQLite; source definitions unchanged."
+        }
+      ]
+    },
+    {
+      "term": "feasible",
+      "entries": [
+        {
+          "id": "8b7867c8d72a788b7ddb84ad8cf5cdef4f010504efcddcce5271f93b1c4c0a1d",
+          "sourceId": "oewn",
+          "release": "2025",
+          "sourceEntryId": "entries-f.json/feasible/a",
+          "lemma": "feasible",
+          "lexicalPos": "a",
+          "pronunciation": [
+            {
+              "value": "ˈfiːzəbəl"
+            }
+          ],
+          "senses": [
+            {
+              "sourceSenseId": "feasible%5:00:00:possible:00",
+              "anchor": "entries-f.json/feasible/a/sense/0",
+              "synset": "01828067-s",
+              "definitions": [
+                "capable of being done with means at hand and circumstances as they are"
+              ],
+              "examples": []
+            }
+          ],
+          "attribution": "Open English Wordnet 2025, Open English Wordnet team; derived from Princeton WordNet. CC BY 4.0 and retained Princeton notice. Converted to SQLite; source definitions unchanged."
+        }
+      ]
+    },
+    {
+      "term": "overdue",
+      "entries": [
+        {
+          "id": "d75f8798c8b5b465b2a0eadc7c66bffb7f7dd63050cfdb6636eff639d0fafe20",
+          "sourceId": "oewn",
+          "release": "2025",
+          "sourceEntryId": "entries-o.json/overdue/a",
+          "lemma": "overdue",
+          "lexicalPos": "a",
+          "pronunciation": [
+            {
+              "value": "ˌəʊ.vəˈdju",
+              "variety": "GB"
+            },
+            {
+              "value": "ˌoʊ.vəɹˈdu",
+              "variety": "US"
+            }
+          ],
+          "senses": [
+            {
+              "sourceSenseId": "overdue%5:00:00:due:00",
+              "anchor": "entries-o.json/overdue/a/sense/0",
+              "synset": "00138209-s",
+              "definitions": [
+                "past due; not paid at the scheduled time"
+              ],
+              "examples": [
+                "an overdue installment",
+                "a delinquent account"
+              ]
+            }
+          ],
+          "attribution": "Open English Wordnet 2025, Open English Wordnet team; derived from Princeton WordNet. CC BY 4.0 and retained Princeton notice. Converted to SQLite; source definitions unchanged."
+        }
+      ]
+    },
+    {
+      "term": "backlog",
+      "entries": [
+        {
+          "id": "6deb5fd86f6f41c09934a5f83b30c067aaf4dab288c065f23cc71b9011280f0b",
+          "sourceId": "oewn",
+          "release": "2025",
+          "sourceEntryId": "entries-b.json/backlog/n",
+          "lemma": "backlog",
+          "lexicalPos": "n",
+          "pronunciation": [
+            {
+              "value": "ˈbæk.lɒɡ"
+            }
+          ],
+          "senses": [
+            {
+              "sourceSenseId": "backlog%1:14:00::",
+              "anchor": "entries-b.json/backlog/n/sense/0",
+              "synset": "07970189-n",
+              "definitions": [
+                "an accumulation of jobs not done or materials not processed that are yet to be dealt with (especially unfilled customer orders for products or services)"
+              ],
+              "examples": []
+            },
+            {
+              "sourceSenseId": "backlog%1:27:00::",
+              "anchor": "entries-b.json/backlog/n/sense/1",
+              "synset": "15125512-n",
+              "definitions": [
+                "the large log at the back of a hearth fire"
+              ],
+              "examples": []
+            },
+            {
+              "sourceSenseId": "backlog%1:21:00::",
+              "anchor": "entries-b.json/backlog/n/sense/2",
+              "synset": "13389225-n",
+              "definitions": [
+                "something kept back or saved for future use or a special purpose"
+              ],
+              "examples": []
+            }
+          ],
+          "attribution": "Open English Wordnet 2025, Open English Wordnet team; derived from Princeton WordNet. CC BY 4.0 and retained Princeton notice. Converted to SQLite; source definitions unchanged."
+        },
+        {
+          "id": "2cf5ea6c17f15dbf050764290b5af2f3835e3f085a17e8de498ef26d9c62cdba",
+          "sourceId": "oewn",
+          "release": "2025",
+          "sourceEntryId": "entries-b.json/backlog/v",
+          "lemma": "backlog",
+          "lexicalPos": "v",
+          "pronunciation": [
+            {
+              "value": "ˈbæk.lɒɡ"
+            }
+          ],
+          "senses": [
+            {
+              "sourceSenseId": "backlog%2:30:00::",
+              "anchor": "entries-b.json/backlog/v/sense/0",
+              "synset": "00159044-v",
+              "definitions": [
+                "accumulate and create a backlog"
+              ],
+              "examples": []
+            }
+          ],
+          "attribution": "Open English Wordnet 2025, Open English Wordnet team; derived from Princeton WordNet. CC BY 4.0 and retained Princeton notice. Converted to SQLite; source definitions unchanged."
+        }
+      ]
+    },
+    {
+      "term": "bottleneck",
+      "entries": [
+        {
+          "id": "3b3ae8af80f461cc6563b2df2f8094a0d9d8080c9a99bef5d2fcaa53f52f1b41",
+          "sourceId": "oewn",
+          "release": "2025",
+          "sourceEntryId": "entries-b.json/bottleneck/n",
+          "lemma": "bottleneck",
+          "lexicalPos": "n",
+          "pronunciation": null,
+          "senses": [
+            {
+              "sourceSenseId": "bottleneck%1:25:00::",
+              "anchor": "entries-b.json/bottleneck/n/sense/0",
+              "synset": "13936007-n",
+              "definitions": [
+                "a narrowing that reduces the flow through a channel"
+              ],
+              "examples": []
+            },
+            {
+              "sourceSenseId": "bottleneck%1:06:00::",
+              "anchor": "entries-b.json/bottleneck/n/sense/1",
+              "synset": "02881107-n",
+              "definitions": [
+                "the narrow part of a bottle near the top"
+              ],
+              "examples": []
+            }
+          ],
+          "attribution": "Open English Wordnet 2025, Open English Wordnet team; derived from Princeton WordNet. CC BY 4.0 and retained Princeton notice. Converted to SQLite; source definitions unchanged."
+        },
+        {
+          "id": "522295cd3b31daa8c0822c797134aeecaf2e0d5a8615b300b9664a828bf75366",
+          "sourceId": "oewn",
+          "release": "2025",
+          "sourceEntryId": "entries-b.json/bottleneck/v",
+          "lemma": "bottleneck",
+          "lexicalPos": "v",
+          "pronunciation": null,
+          "senses": [
+            {
+              "sourceSenseId": "bottleneck%2:41:00::",
+              "anchor": "entries-b.json/bottleneck/v/sense/0",
+              "synset": "02563728-v",
+              "definitions": [
+                "slow down or impede by creating an obstruction"
+              ],
+              "examples": [
+                "His laziness has bottlenecked our efforts to reform the system"
+              ]
+            },
+            {
+              "sourceSenseId": "bottleneck%2:30:00::",
+              "anchor": "entries-b.json/bottleneck/v/sense/1",
+              "synset": "00305727-v",
+              "definitions": [
+                "become narrow, like a bottleneck"
+              ],
+              "examples": [
+                "Right by the bridge, the road bottlenecks"
+              ]
+            }
+          ],
+          "attribution": "Open English Wordnet 2025, Open English Wordnet team; derived from Princeton WordNet. CC BY 4.0 and retained Princeton notice. Converted to SQLite; source definitions unchanged."
+        }
+      ]
+    },
+    {
+      "term": "setback",
+      "entries": [
+        {
+          "id": "3553a13d8fc17223c0fcad2c062a0ed2b92c4fcac3f29fea5ccd5ce3cc36773c",
+          "sourceId": "oewn",
+          "release": "2025",
+          "sourceEntryId": "entries-s.json/setback/n",
+          "lemma": "setback",
+          "lexicalPos": "n",
+          "pronunciation": [
+            {
+              "value": "ˈsɛtbæk"
+            }
+          ],
+          "senses": [
+            {
+              "sourceSenseId": "setback%1:11:01::",
+              "anchor": "entries-s.json/setback/n/sense/0",
+              "synset": "07491010-n",
+              "definitions": [
+                "an unfortunate happening that hinders or impedes; something that is thwarting or frustrating"
+              ],
+              "examples": []
+            }
+          ],
+          "attribution": "Open English Wordnet 2025, Open English Wordnet team; derived from Princeton WordNet. CC BY 4.0 and retained Princeton notice. Converted to SQLite; source definitions unchanged."
+        }
+      ]
+    },
+    {
+      "term": "escalate",
+      "entries": [
+        {
+          "id": "269f3f0fe9eb021f854b3e480c8a5dd6abc28ec9b872285e0f1563b5f8b31c12",
+          "sourceId": "oewn",
+          "release": "2025",
+          "sourceEntryId": "entries-e.json/escalate/v",
+          "lemma": "escalate",
+          "lexicalPos": "v",
+          "pronunciation": [
+            {
+              "value": "ˈɛs.kə.leɪt"
+            }
+          ],
+          "senses": [
+            {
+              "sourceSenseId": "escalate%2:30:00::",
+              "anchor": "entries-e.json/escalate/v/sense/0",
+              "synset": "00291064-v",
+              "definitions": [
+                "increase in extent or intensity"
+              ],
+              "examples": [
+                "The Allies escalated the bombing"
+              ]
+            }
+          ],
+          "attribution": "Open English Wordnet 2025, Open English Wordnet team; derived from Princeton WordNet. CC BY 4.0 and retained Princeton notice. Converted to SQLite; source definitions unchanged."
+        }
+      ]
+    },
+    {
+      "term": "mitigate",
+      "entries": [
+        {
+          "id": "a25426cdc0c34d81ade6887d34c33ed8a46a6ea5e676fffa390688369a1065fa",
+          "sourceId": "oewn",
+          "release": "2025",
+          "sourceEntryId": "entries-m.json/mitigate/v",
+          "lemma": "mitigate",
+          "lexicalPos": "v",
+          "pronunciation": [
+            {
+              "value": "ˈmɪt.ɪ.ɡeɪt"
+            }
+          ],
+          "senses": [
+            {
+              "sourceSenseId": "mitigate%2:32:00::",
+              "anchor": "entries-m.json/mitigate/v/sense/0",
+              "synset": "00907990-v",
+              "definitions": [
+                "lessen or to try to lessen the seriousness or extent of"
+              ],
+              "examples": [
+                "The circumstances extenuate the crime"
+              ]
+            },
+            {
+              "sourceSenseId": "mitigate%2:30:04::",
+              "anchor": "entries-m.json/mitigate/v/sense/1",
+              "synset": "00199225-v",
+              "definitions": [
+                "to temper"
+              ],
+              "examples": [
+                "mitigating circumstances"
+              ]
+            }
+          ],
+          "attribution": "Open English Wordnet 2025, Open English Wordnet team; derived from Princeton WordNet. CC BY 4.0 and retained Princeton notice. Converted to SQLite; source definitions unchanged."
+        }
+      ]
+    },
+    {
+      "term": "monitor",
+      "entries": [
+        {
+          "id": "b6a8ae6491e6bb8880d499e18c7ae1f667bfbc89474e5b3addfc695aa95e6daf",
+          "sourceId": "oewn",
+          "release": "2025",
+          "sourceEntryId": "entries-m.json/monitor/n",
+          "lemma": "monitor",
+          "lexicalPos": "n",
+          "pronunciation": [
+            {
+              "value": "ˈmɒnɨtə",
+              "variety": "GB"
+            }
+          ],
+          "senses": [
+            {
+              "sourceSenseId": "monitor%1:18:01::",
+              "anchor": "entries-m.json/monitor/n/sense/0",
+              "synset": "10498545-n",
+              "definitions": [
+                "someone who supervises (an examination)"
+              ],
+              "examples": []
+            },
+            {
+              "sourceSenseId": "monitor%1:18:00::",
+              "anchor": "entries-m.json/monitor/n/sense/1",
+              "synset": "09791278-n",
+              "definitions": [
+                "someone who gives a warning so that a mistake can be avoided"
+              ],
+              "examples": []
+            },
+            {
+              "sourceSenseId": "monitor%1:06:02::",
+              "anchor": "entries-m.json/monitor/n/sense/2",
+              "synset": "03787723-n",
+              "definitions": [
+                "display produced by a device that takes signals and displays them on a television screen or a computer monitor"
+              ],
+              "examples": []
+            },
+            {
+              "sourceSenseId": "monitor%1:06:01::",
+              "anchor": "entries-m.json/monitor/n/sense/3",
+              "synset": "03787539-n",
+              "definitions": [
+                "electronic equipment that is used to check the quality or content of electronic transmissions"
+              ],
+              "examples": []
+            },
+            {
+              "sourceSenseId": "monitor%1:06:00::",
+              "anchor": "entries-m.json/monitor/n/sense/4",
+              "synset": "03787320-n",
+              "definitions": [
+                "a piece of electronic equipment that keeps track of the operation of a system continuously and warns of trouble"
+              ],
+              "examples": []
+            },
+            {
+              "sourceSenseId": "monitor%1:05:00::",
+              "anchor": "entries-m.json/monitor/n/sense/5",
+              "synset": "01697350-n",
+              "definitions": [
+                "any of various large tropical carnivorous lizards of Africa and Asia and Australia; fabled to warn of crocodiles"
+              ],
+              "examples": []
+            }
+          ],
+          "attribution": "Open English Wordnet 2025, Open English Wordnet team; derived from Princeton WordNet. CC BY 4.0 and retained Princeton notice. Converted to SQLite; source definitions unchanged."
+        },
+        {
+          "id": "e31b7ef40ffb0bd17e2ac23d42a24177affd633e83b7d004315c4a1dffb5b113",
+          "sourceId": "oewn",
+          "release": "2025",
+          "sourceEntryId": "entries-m.json/monitor/v",
+          "lemma": "monitor",
+          "lexicalPos": "v",
+          "pronunciation": [
+            {
+              "value": "ˈmɒnɨtə",
+              "variety": "GB"
+            }
+          ],
+          "senses": [
+            {
+              "sourceSenseId": "monitor%2:39:00::",
+              "anchor": "entries-m.json/monitor/v/sense/0",
+              "synset": "02167732-v",
+              "definitions": [
+                "keep tabs on; keep an eye on; keep under surveillance"
+              ],
+              "examples": [
+                "we are monitoring the air quality",
+                "the police monitor the suspect's moves"
+              ]
+            },
+            {
+              "sourceSenseId": "monitor%2:39:01::",
+              "anchor": "entries-m.json/monitor/v/sense/1",
+              "synset": "02168057-v",
+              "definitions": [
+                "check, track, or observe by means of a receiver"
+              ],
+              "examples": []
+            }
+          ],
+          "attribution": "Open English Wordnet 2025, Open English Wordnet team; derived from Princeton WordNet. CC BY 4.0 and retained Princeton notice. Converted to SQLite; source definitions unchanged."
+        }
+      ]
+    },
+    {
+      "term": "reassess",
+      "entries": [
+        {
+          "id": "63172b27e4b10edac92b32e7f6bc0d27cba60d6d148f0269b4a37d0463afb9bd",
+          "sourceId": "oewn",
+          "release": "2025",
+          "sourceEntryId": "entries-r.json/reassess/v",
+          "lemma": "reassess",
+          "lexicalPos": "v",
+          "pronunciation": null,
+          "senses": [
+            {
+              "sourceSenseId": "reassess%2:31:00::",
+              "anchor": "entries-r.json/reassess/v/sense/0",
+              "synset": "00684700-v",
+              "definitions": [
+                "revise or renew one's assessment"
+              ],
+              "examples": []
+            }
+          ],
+          "attribution": "Open English Wordnet 2025, Open English Wordnet team; derived from Princeton WordNet. CC BY 4.0 and retained Princeton notice. Converted to SQLite; source definitions unchanged."
+        }
+      ]
+    },
+    {
+      "term": "defer",
+      "entries": [
+        {
+          "id": "36704e2424fd6ae48b649057e65d4c2eca295a7f937318ea5fc87d03943387d9",
+          "sourceId": "oewn",
+          "release": "2025",
+          "sourceEntryId": "entries-d.json/defer/v",
+          "lemma": "defer",
+          "lexicalPos": "v",
+          "pronunciation": null,
+          "senses": [
+            {
+              "sourceSenseId": "defer%2:42:00::",
+              "anchor": "entries-d.json/defer/v/sense/0",
+              "synset": "02648898-v",
+              "definitions": [
+                "hold back to a later time"
+              ],
+              "examples": [
+                "let's postpone the exam"
+              ]
+            },
+            {
+              "sourceSenseId": "defer%2:32:00::",
+              "anchor": "entries-d.json/defer/v/sense/1",
+              "synset": "00879879-v",
+              "definitions": [
+                "yield to another's wish or opinion"
+              ],
+              "examples": [
+                "The government bowed to the military pressure"
+              ]
+            }
+          ],
+          "attribution": "Open English Wordnet 2025, Open English Wordnet team; derived from Princeton WordNet. CC BY 4.0 and retained Princeton notice. Converted to SQLite; source definitions unchanged."
+        }
+      ]
+    },
+    {
+      "term": "expedite",
+      "entries": [
+        {
+          "id": "deeb43de0ab305ef8e3e1acfe4acfe36cc27f0c1233583dc5c925134c3e93923",
+          "sourceId": "oewn",
+          "release": "2025",
+          "sourceEntryId": "entries-e.json/expedite/v",
+          "lemma": "expedite",
+          "lexicalPos": "v",
+          "pronunciation": [
+            {
+              "value": "ˈɛk.spəˌdaɪt",
+              "variety": "GB"
+            },
+            {
+              "value": "ˈɛk.spɪˌdaɪt",
+              "variety": "US"
+            }
+          ],
+          "senses": [
+            {
+              "sourceSenseId": "expedite%2:41:00::",
+              "anchor": "entries-e.json/expedite/v/sense/0",
+              "synset": "02554590-v",
+              "definitions": [
+                "speed up the progress of; facilitate"
+              ],
+              "examples": [
+                "This should expedite the process"
+              ]
+            },
+            {
+              "sourceSenseId": "expedite%2:41:01::",
+              "anchor": "entries-e.json/expedite/v/sense/1",
+              "synset": "02443595-v",
+              "definitions": [
+                "process fast and efficiently"
+              ],
+              "examples": [
+                "I will try to expedite the matter"
+              ]
+            }
+          ],
+          "attribution": "Open English Wordnet 2025, Open English Wordnet team; derived from Princeton WordNet. CC BY 4.0 and retained Princeton notice. Converted to SQLite; source definitions unchanged."
+        }
+      ]
+    },
+    {
+      "term": "resolve",
+      "entries": [
+        {
+          "id": "30509574b2e2dd540d3443161594224d7c983ffa12802863107ea6956f499b74",
+          "sourceId": "oewn",
+          "release": "2025",
+          "sourceEntryId": "entries-r.json/resolve/n",
+          "lemma": "resolve",
+          "lexicalPos": "n",
+          "pronunciation": [
+            {
+              "value": "ɹɪˈzɒlv",
+              "variety": "GB"
+            },
+            {
+              "value": "ɹɪˈzɑlv",
+              "variety": "US"
+            }
+          ],
+          "senses": [
+            {
+              "sourceSenseId": "resolve%1:07:00::",
+              "anchor": "entries-r.json/resolve/n/sense/0",
+              "synset": "04868717-n",
+              "definitions": [
+                "the trait of being resolute"
+              ],
+              "examples": [
+                "his resoluteness carried him through the battle",
+                "it was his unshakeable resolution to finish the work"
+              ]
+            },
+            {
+              "sourceSenseId": "resolve%1:10:00::",
+              "anchor": "entries-r.json/resolve/n/sense/1",
+              "synset": "06523865-n",
+              "definitions": [
+                "a formal expression by a meeting; agreed to by a vote"
+              ],
+              "examples": []
+            }
+          ],
+          "attribution": "Open English Wordnet 2025, Open English Wordnet team; derived from Princeton WordNet. CC BY 4.0 and retained Princeton notice. Converted to SQLite; source definitions unchanged."
+        },
+        {
+          "id": "1b9061f76de82cf2abc5c2ab55ba5b55258cd0a7876d2ea4ad7413025408eb56",
+          "sourceId": "oewn",
+          "release": "2025",
+          "sourceEntryId": "entries-r.json/resolve/v",
+          "lemma": "resolve",
+          "lexicalPos": "v",
+          "pronunciation": [
+            {
+              "value": "ɹɪˈzɒlv"
+            }
+          ],
+          "senses": [
+            {
+              "sourceSenseId": "resolve%2:31:01::",
+              "anchor": "entries-r.json/resolve/v/sense/0",
+              "synset": "00700621-v",
+              "definitions": [
+                "bring to an end; settle conclusively"
+              ],
+              "examples": [
+                "The case was decided",
+                "The judge decided the case in favor of the plaintiff",
+                "The father adjudicated when the sons were quarreling over their inheritance"
+              ]
+            },
+            {
+              "sourceSenseId": "resolve%2:32:00::",
+              "anchor": "entries-r.json/resolve/v/sense/1",
+              "synset": "01023429-v",
+              "definitions": [
+                "reach a conclusion after a discussion or deliberation"
+              ],
+              "examples": []
+            },
+            {
+              "sourceSenseId": "resolve%2:31:02::",
+              "anchor": "entries-r.json/resolve/v/sense/2",
+              "synset": "00701392-v",
+              "definitions": [
+                "reach a decision"
+              ],
+              "examples": [
+                "he resolved never to drink again"
+              ]
+            },
+            {
+              "sourceSenseId": "resolve%2:31:04::",
+              "anchor": "entries-r.json/resolve/v/sense/3",
+              "synset": "00637185-v",
+              "definitions": [
+                "understand the meaning of"
+              ],
+              "examples": [
+                "The question concerning the meaning of life cannot be answered"
+              ]
+            },
+            {
+              "sourceSenseId": "resolve%2:39:00::",
+              "anchor": "entries-r.json/resolve/v/sense/4",
+              "synset": "02198058-v",
+              "definitions": [
+                "make clearly visible"
+              ],
+              "examples": [
+                "can this image be resolved?"
+              ]
+            },
+            {
+              "sourceSenseId": "resolve%2:31:03::",
+              "anchor": "entries-r.json/resolve/v/sense/5",
+              "synset": "00735067-v",
+              "definitions": [
+                "find the solution"
+              ],
+              "examples": [
+                "solve an equation",
+                "solve for x"
+              ]
+            },
+            {
+              "sourceSenseId": "resolve%2:30:07::",
+              "anchor": "entries-r.json/resolve/v/sense/6",
+              "synset": "00448264-v",
+              "definitions": [
+                "cause to go into a solution"
+              ],
+              "examples": [
+                "The recipe says that we should dissolve a cup of sugar in two cups of water"
+              ]
+            }
+          ],
+          "attribution": "Open English Wordnet 2025, Open English Wordnet team; derived from Princeton WordNet. CC BY 4.0 and retained Princeton notice. Converted to SQLite; source definitions unchanged."
+        }
+      ]
+    },
+    {
+      "term": "handover",
+      "entries": [
+        {
+          "id": "914c073d5d8ed373664708c0d524314cc124667a123fce424d42f05d520421c9",
+          "sourceId": "oewn",
+          "release": "2025",
+          "sourceEntryId": "entries-h.json/handover/n",
+          "lemma": "handover",
+          "lexicalPos": "n",
+          "pronunciation": null,
+          "senses": [
+            {
+              "sourceSenseId": "handover%1:04:00::",
+              "anchor": "entries-h.json/handover/n/sense/0",
+              "synset": "00214035-n",
+              "definitions": [
+                "act of relinquishing property or authority etc"
+              ],
+              "examples": [
+                "the handover of occupied territory"
+              ]
+            }
+          ],
+          "attribution": "Open English Wordnet 2025, Open English Wordnet team; derived from Princeton WordNet. CC BY 4.0 and retained Princeton notice. Converted to SQLite; source definitions unchanged."
+        }
+      ]
+    },
+    {
+      "term": "sign-off",
+      "entries": []
+    },
+    {
+      "term": "sign off",
+      "entries": [
+        {
+          "id": "54c41f4063eabc12095b1bc0a6c77b6c89b4e9065d95dea16c58ab3d15c50df1",
+          "sourceId": "oewn",
+          "release": "2025",
+          "sourceEntryId": "entries-s.json/sign%20off/v",
+          "lemma": "sign off",
+          "lexicalPos": "v",
+          "pronunciation": null,
+          "senses": [
+            {
+              "sourceSenseId": "sign_off%2:32:00::",
+              "anchor": "entries-s.json/sign%20off/v/sense/0",
+              "synset": "00976063-v",
+              "definitions": [
+                "cease broadcasting; get off the air; as of radio stations"
+              ],
+              "examples": []
+            }
+          ],
+          "attribution": "Open English Wordnet 2025, Open English Wordnet team; derived from Princeton WordNet. CC BY 4.0 and retained Princeton notice. Converted to SQLite; source definitions unchanged."
+        }
+      ]
+    },
+    {
+      "term": "checkpoint",
+      "entries": [
+        {
+          "id": "5d3e7993b74fd21d8c28691a7ba02e255af134ed2deb8d20f35e209fed456703",
+          "sourceId": "oewn",
+          "release": "2025",
+          "sourceEntryId": "entries-c.json/checkpoint/n",
+          "lemma": "checkpoint",
+          "lexicalPos": "n",
+          "pronunciation": null,
+          "senses": [
+            {
+              "sourceSenseId": "checkpoint%1:15:00::",
+              "anchor": "entries-c.json/checkpoint/n/sense/0",
+              "synset": "08535103-n",
+              "definitions": [
+                "a place (as at a frontier) where travellers are stopped for inspection and clearance"
+              ],
+              "examples": []
+            }
+          ],
+          "attribution": "Open English Wordnet 2025, Open English Wordnet team; derived from Princeton WordNet. CC BY 4.0 and retained Princeton notice. Converted to SQLite; source definitions unchanged."
+        }
+      ]
+    },
+    {
+      "term": "outcome",
+      "entries": [
+        {
+          "id": "f2f6f733f036bb3b2d57c0b34299fa8e8cfdff48329f928b307555f6f6ef43cc",
+          "sourceId": "oewn",
+          "release": "2025",
+          "sourceEntryId": "entries-o.json/outcome/n",
+          "lemma": "outcome",
+          "lexicalPos": "n",
+          "pronunciation": [
+            {
+              "value": "ˈaʊtkʌm"
+            }
+          ],
+          "senses": [
+            {
+              "sourceSenseId": "outcome%1:11:00::",
+              "anchor": "entries-o.json/outcome/n/sense/0",
+              "synset": "07307418-n",
+              "definitions": [
+                "something that results"
+              ],
+              "examples": [
+                "he listened for the results on the radio"
+              ]
+            },
+            {
+              "sourceSenseId": "outcome%1:19:00::",
+              "anchor": "entries-o.json/outcome/n/sense/1",
+              "synset": "11430739-n",
+              "definitions": [
+                "a phenomenon that follows and is caused by some previous phenomenon"
+              ],
+              "examples": [
+                "the magnetic effect was greater when the rod was lengthwise",
+                "his decision had depressing consequences for business",
+                "he acted very wise after the event"
+              ]
+            }
+          ],
+          "attribution": "Open English Wordnet 2025, Open English Wordnet team; derived from Princeton WordNet. CC BY 4.0 and retained Princeton notice. Converted to SQLite; source definitions unchanged."
+        }
+      ]
+    }
+  ]
+}

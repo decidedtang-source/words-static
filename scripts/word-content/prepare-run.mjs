@@ -1,0 +1,6 @@
+import fs from 'node:fs';import {checkRunGate,fingerprintInput,writeRevision} from './workflow.mjs';
+export function prepareRun(dir){const f=JSON.parse(fs.readFileSync(dir+'/authorization.json')),s=JSON.parse(fs.readFileSync(dir+'/selected.json'));const ids=[...s.calibration,...s.expansion];const gate=checkRunGate(f,{freezeId:f.freezeId,entryIds:ids},f.hold);if(!gate.allow)throw Error(gate.reasons.join(';'));
+ if(ids.length!==50||new Set(ids).size!==50||s.calibration.length!==24)throw Error('sample mismatch');
+ const manifest={schemaVersion:1,batchId:'r2-50-20261116',planFreezeId:f.freezeId,runAuthorizationRef:'authorization.json',entryIds:ids,itemStates:ids.map(entryId=>({entryId,contextId:entryId+'-context',revision:0,state:'queued',inputHash:null,artifactHash:null,reviewRefs:[],blockers:[],revisionAttempts:0,author:'root assistant'})),dependencies:{selectionHash:fingerprintInput(s)},moduleLocks:{},metrics:{cost:null,costReason:'tool/model billing not available per entry'},phase:'calibration',calibrationPassed:false};
+ if(fs.existsSync(dir+'/manifest.json'))throw Error('run exists; resume explicitly');writeRevision(dir+'/manifest.json',manifest);return manifest;}
+if(process.argv[1]?.endsWith('prepare-run.mjs'))console.log(JSON.stringify(prepareRun(process.argv[2])));
