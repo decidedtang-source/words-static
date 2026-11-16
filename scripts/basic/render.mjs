@@ -1,7 +1,14 @@
 import fs from 'node:fs';
 import {makeV2HTML} from '../modules/automation/render.mjs';
 import {root} from '../modules/system.mjs';
+import {sha} from '../modules/system.mjs';
+import {parseSnapshot} from '../modules/history-source.mjs';
 const read=p=>fs.readFileSync(root+'/'+p,'utf8').replace(/\r\n/g,'\n');
+export function verifyHistoryEvidence(raw,receipt){
+ if(sha(raw)!==receipt.rawSHA)throw Error('History source hash mismatch');
+ const parsed=raw.split(/-{40,}/).flatMap(part=>{try{return [parseSnapshot(part,receipt.lemma)];}catch{return [];}});
+ if(!parsed.some(p=>sha(p.text)===receipt.textSHA))throw Error('History entry text missing or changed');
+}
 export function makeBasic(words){
  const remove=['bridge','bridgeHistory','bridgeTarget','analysisStatus','dictUrl','extra','inventorySenses','coverageLabel'];
  const clean=words.map(w=>Object.fromEntries(Object.entries(w).filter(([k])=>!remove.includes(k))));

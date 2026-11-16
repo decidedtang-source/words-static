@@ -1,0 +1,17 @@
+{
+  "version": "basic-release-1.0.1",
+  "supersedes": "basic-v1.lock.json",
+  "authorization": "Owner 2026-11-17: remove context disclosure; freeze as official release; trial 100 words",
+  "files": {
+    "config/qa/basic-release-v1.json": "8d02ef179470389abeb796c2e84a541f72e483941c13efa520508ea14a184db7",
+    "content/basic-release-20261117/roster.json": "06eb49a32b7e8bfd9c91f3a1532119a93cef1a26a8d98c76622e7810a028f6df",
+    "content/module-runs/front-auto-50-20261116/index.html": "3a3363fa599b6e533e0532eacd107fac3521a5d61f53cd64c56bcd6ee5cdb917",
+    "docs/roadmap/v10/BASIC_RELEASE_100_PLAN_20261117.md": "ab49db7ac78b44007d8d79b0765b36077cfeff87d5ba44d6cef8d849c185ea08",
+    "public/vocabulary.json": "ec65d33d6da99ebad2577f6c9f9938499823d29d117f43532302cf964a4c60a3",
+    "scripts/basic/build.mjs": "3416c02e3168111d04d6f95f33d44c31c47f2392252521ea7ad6fd3ea1375ece",
+    "scripts/basic/collect.mjs": "13ad21253a61a4430a04e8907f059c1453d676c42bcfed226a31548d606b7c23",
+    "scripts/basic/freeze.mjs": "700d544d83c60c964eaf0e1d4fb65d7244012d705a9b5fd899d8122ea8e66f45",
+    "scripts/basic/render.mjs": "78ff0a26784779fe0ae961309b8315a0638d8977c6db5be1895a1da2b7f2ad35",
+    "tests/basic-release.test.mjs": "7b70a474f220639efc332fa89b5abb86d3855b95523036700251ed51848844a0"
+  }
+}

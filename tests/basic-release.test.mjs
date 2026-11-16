@@ -1,6 +1,7 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import {makeBasic,verifyWords} from '../scripts/basic/render.mjs';
+import {makeBasic,verifyWords,verifyHistoryEvidence} from '../scripts/basic/render.mjs';
+import {sha} from '../scripts/modules/system.mjs';
 import {read} from '../scripts/modules/system.mjs';
 import fs from 'node:fs';
 const html=fs.readFileSync('content/module-runs/front-auto-50-20261116/index.html','utf8');
@@ -12,6 +13,10 @@ test('basic template preserves source/example fields and removes retired rendere
  for(const word of old.slice(0,2))assert.ok(result.includes(word.quote));
  const data=JSON.parse(result.match(/id="wl-data">([\s\S]*?)<\/script>/)[1]);
  assert.ok(!('bridge' in data[0]));assert.equal(data[0].senses.length,old[0].senses.length);
+});
+test('blocked history page cannot pass merely by including a matching URL',()=>{
+ const raw='https://www.etymonline.com/word/scope Access denied';
+ assert.throws(()=>verifyHistoryEvidence(raw,{lemma:'scope',rawSHA:sha(raw),textSHA:'fake'}),/entry text/);
 });
 test('basic QA requires exact roster, original quote and bilingual learning material',()=>{
  const words=old.slice(0,2),source=words.map(w=>({id:w.entryId,example:w.quote}));
