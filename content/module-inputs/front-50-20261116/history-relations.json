@@ -1,0 +1,515 @@
+{
+  "version": "1.0.0",
+  "entries": {
+    "V20261012-002": {
+      "term": "objective",
+      "kind": "word",
+      "components": [],
+      "whole": [
+        "objective"
+      ],
+      "wholeHistoryStatus": "sourced",
+      "coverage": "whole_entry"
+    },
+    "V20261012-012": {
+      "term": "capacity",
+      "kind": "word",
+      "components": [],
+      "whole": [
+        "capacity"
+      ],
+      "wholeHistoryStatus": "sourced",
+      "coverage": "whole_entry"
+    },
+    "V20261012-022": {
+      "term": "tentative",
+      "kind": "word",
+      "components": [],
+      "whole": [
+        "tentative"
+      ],
+      "wholeHistoryStatus": "sourced",
+      "coverage": "whole_entry"
+    },
+    "V20261012-024": {
+      "term": "pending",
+      "kind": "word",
+      "components": [],
+      "whole": [
+        "pending"
+      ],
+      "wholeHistoryStatus": "sourced",
+      "coverage": "whole_entry"
+    },
+    "V20261012-053": {
+      "term": "reservation",
+      "kind": "word",
+      "components": [],
+      "whole": [
+        "reservation"
+      ],
+      "wholeHistoryStatus": "sourced",
+      "coverage": "whole_entry"
+    },
+    "V20261012-078": {
+      "term": "qualify",
+      "kind": "word",
+      "components": [],
+      "whole": [
+        "qualify"
+      ],
+      "wholeHistoryStatus": "sourced",
+      "coverage": "whole_entry"
+    },
+    "V20261012-076": {
+      "term": "infer",
+      "kind": "word",
+      "components": [],
+      "whole": [
+        "infer"
+      ],
+      "wholeHistoryStatus": "sourced",
+      "coverage": "whole_entry"
+    },
+    "V20261012-093": {
+      "term": "provided that",
+      "kind": "fixed_expression",
+      "components": [
+        "provided"
+      ],
+      "whole": [],
+      "note": "条件连接表达；当前来源为核心连接词provided条目",
+      "wholeHistoryStatus": "not_acquired",
+      "coverage": "component_history"
+    },
+    "V20261012-100": {
+      "term": "not necessarily",
+      "kind": "fixed_expression",
+      "components": [
+        "necessarily"
+      ],
+      "whole": [],
+      "note": "固定否定表达；当前保存实义副词历史",
+      "wholeHistoryStatus": "not_acquired",
+      "coverage": "component_history"
+    },
+    "V20261014-075": {
+      "term": "verification method",
+      "kind": "phrase",
+      "components": [
+        "verification",
+        "method"
+      ],
+      "whole": [],
+      "wholeHistoryStatus": "not_acquired",
+      "coverage": "component_history"
+    },
+    "V20261014-076": {
+      "term": "validation method",
+      "kind": "phrase",
+      "components": [
+        "validation",
+        "method"
+      ],
+      "whole": [],
+      "wholeHistoryStatus": "not_acquired",
+      "coverage": "component_history"
+    },
+    "V20261029-005": {
+      "term": "working definition",
+      "kind": "collocation",
+      "components": [
+        "working",
+        "definition"
+      ],
+      "whole": [],
+      "wholeHistoryStatus": "not_acquired",
+      "coverage": "component_history"
+    },
+    "V20261014-003": {
+      "term": "frame the issue",
+      "kind": "construction",
+      "components": [
+        "frame",
+        "issue"
+      ],
+      "whole": [],
+      "wholeHistoryStatus": "not_acquired",
+      "coverage": "component_history"
+    },
+    "V20261012-117": {
+      "term": "account for",
+      "kind": "fixed_expression",
+      "components": [
+        "account"
+      ],
+      "whole": [],
+      "note": "整体短语义单独管理；当前词史依据account条目",
+      "wholeHistoryStatus": "not_acquired",
+      "coverage": "component_history"
+    },
+    "V20261018-106": {
+      "term": "lead in the polls",
+      "kind": "construction",
+      "components": [
+        "lead",
+        "poll"
+      ],
+      "whole": [],
+      "wholeHistoryStatus": "not_acquired",
+      "coverage": "component_history"
+    },
+    "V20261016-103": {
+      "term": "credulous",
+      "kind": "word",
+      "components": [],
+      "whole": [
+        "credulous"
+      ],
+      "wholeHistoryStatus": "sourced",
+      "coverage": "whole_entry"
+    },
+    "V20261016-119": {
+      "term": "inflation shock",
+      "kind": "collocation",
+      "components": [
+        "inflation",
+        "shock"
+      ],
+      "whole": [],
+      "wholeHistoryStatus": "not_acquired",
+      "coverage": "component_history"
+    },
+    "V20261012-020": {
+      "term": "trade-off",
+      "kind": "fixed_expression",
+      "components": [],
+      "whole": [
+        "trade-off"
+      ],
+      "wholeHistoryStatus": "sourced",
+      "coverage": "whole_entry"
+    },
+    "V20261012-019": {
+      "term": "contingency",
+      "kind": "word",
+      "components": [],
+      "whole": [
+        "contingency"
+      ],
+      "wholeHistoryStatus": "sourced",
+      "coverage": "whole_entry"
+    },
+    "V20261012-015": {
+      "term": "ownership",
+      "kind": "word",
+      "components": [],
+      "whole": [
+        "ownership"
+      ],
+      "wholeHistoryStatus": "sourced",
+      "coverage": "whole_entry"
+    },
+    "V20261012-018": {
+      "term": "commitment",
+      "kind": "word",
+      "components": [],
+      "whole": [
+        "commitment"
+      ],
+      "wholeHistoryStatus": "sourced",
+      "coverage": "whole_entry"
+    },
+    "V20261012-010": {
+      "term": "buffer",
+      "kind": "word",
+      "components": [],
+      "whole": [
+        "buffer"
+      ],
+      "wholeHistoryStatus": "sourced",
+      "coverage": "whole_entry"
+    },
+    "V20261012-006": {
+      "term": "constraint",
+      "kind": "word",
+      "components": [],
+      "whole": [
+        "constraint"
+      ],
+      "wholeHistoryStatus": "sourced",
+      "coverage": "whole_entry"
+    },
+    "V20261012-088": {
+      "term": "preliminary",
+      "kind": "word",
+      "components": [],
+      "whole": [
+        "preliminary"
+      ],
+      "wholeHistoryStatus": "sourced",
+      "coverage": "whole_entry"
+    },
+    "V20261012-004": {
+      "term": "milestone",
+      "kind": "word",
+      "components": [],
+      "whole": [
+        "milestone"
+      ],
+      "wholeHistoryStatus": "sourced",
+      "coverage": "whole_entry"
+    },
+    "V20261012-005": {
+      "term": "priority",
+      "kind": "word",
+      "components": [],
+      "whole": [
+        "priority"
+      ],
+      "wholeHistoryStatus": "sourced",
+      "coverage": "whole_entry"
+    },
+    "V20261012-007": {
+      "term": "dependency",
+      "kind": "word",
+      "components": [],
+      "whole": [
+        "dependency"
+      ],
+      "wholeHistoryStatus": "sourced",
+      "coverage": "whole_entry"
+    },
+    "V20261012-008": {
+      "term": "assumption",
+      "kind": "word",
+      "components": [],
+      "whole": [
+        "assumption"
+      ],
+      "wholeHistoryStatus": "sourced",
+      "coverage": "whole_entry"
+    },
+    "V20261012-009": {
+      "term": "baseline",
+      "kind": "word",
+      "components": [],
+      "whole": [
+        "baseline"
+      ],
+      "wholeHistoryStatus": "sourced",
+      "coverage": "whole_entry"
+    },
+    "V20261012-011": {
+      "term": "sequence",
+      "kind": "word",
+      "components": [],
+      "whole": [
+        "sequence"
+      ],
+      "wholeHistoryStatus": "sourced",
+      "coverage": "whole_entry"
+    },
+    "V20261012-013": {
+      "term": "allocate",
+      "kind": "word",
+      "components": [],
+      "whole": [
+        "allocate"
+      ],
+      "wholeHistoryStatus": "sourced",
+      "coverage": "whole_entry"
+    },
+    "V20261012-014": {
+      "term": "delegate",
+      "kind": "word",
+      "components": [],
+      "whole": [
+        "delegate"
+      ],
+      "wholeHistoryStatus": "sourced",
+      "coverage": "whole_entry"
+    },
+    "V20261012-016": {
+      "term": "accountable",
+      "kind": "word",
+      "components": [],
+      "whole": [
+        "accountable"
+      ],
+      "wholeHistoryStatus": "sourced",
+      "coverage": "whole_entry"
+    },
+    "V20261012-017": {
+      "term": "deadline",
+      "kind": "word",
+      "components": [],
+      "whole": [
+        "deadline"
+      ],
+      "wholeHistoryStatus": "sourced",
+      "coverage": "whole_entry"
+    },
+    "V20261012-021": {
+      "term": "feasible",
+      "kind": "word",
+      "components": [],
+      "whole": [
+        "feasible"
+      ],
+      "wholeHistoryStatus": "sourced",
+      "coverage": "whole_entry"
+    },
+    "V20261012-023": {
+      "term": "overdue",
+      "kind": "word",
+      "components": [],
+      "whole": [
+        "overdue"
+      ],
+      "wholeHistoryStatus": "sourced",
+      "coverage": "whole_entry"
+    },
+    "V20261012-025": {
+      "term": "backlog",
+      "kind": "word",
+      "components": [],
+      "whole": [
+        "backlog"
+      ],
+      "wholeHistoryStatus": "sourced",
+      "coverage": "whole_entry"
+    },
+    "V20261012-026": {
+      "term": "bottleneck",
+      "kind": "word",
+      "components": [],
+      "whole": [
+        "bottleneck"
+      ],
+      "wholeHistoryStatus": "sourced",
+      "coverage": "whole_entry"
+    },
+    "V20261012-028": {
+      "term": "setback",
+      "kind": "word",
+      "components": [],
+      "whole": [
+        "setback"
+      ],
+      "wholeHistoryStatus": "sourced",
+      "coverage": "whole_entry"
+    },
+    "V20261012-029": {
+      "term": "escalate",
+      "kind": "word",
+      "components": [],
+      "whole": [
+        "escalate"
+      ],
+      "wholeHistoryStatus": "sourced",
+      "coverage": "whole_entry"
+    },
+    "V20261012-030": {
+      "term": "mitigate",
+      "kind": "word",
+      "components": [],
+      "whole": [
+        "mitigate"
+      ],
+      "wholeHistoryStatus": "sourced",
+      "coverage": "whole_entry"
+    },
+    "V20261012-031": {
+      "term": "monitor",
+      "kind": "word",
+      "components": [],
+      "whole": [
+        "monitor"
+      ],
+      "wholeHistoryStatus": "sourced",
+      "coverage": "whole_entry"
+    },
+    "V20261012-032": {
+      "term": "reassess",
+      "kind": "word",
+      "components": [],
+      "whole": [
+        "reassess"
+      ],
+      "wholeHistoryStatus": "sourced",
+      "coverage": "whole_entry"
+    },
+    "V20261012-033": {
+      "term": "defer",
+      "kind": "word",
+      "components": [],
+      "whole": [
+        "defer"
+      ],
+      "wholeHistoryStatus": "sourced",
+      "coverage": "whole_entry"
+    },
+    "V20261012-034": {
+      "term": "expedite",
+      "kind": "word",
+      "components": [],
+      "whole": [
+        "expedite"
+      ],
+      "wholeHistoryStatus": "sourced",
+      "coverage": "whole_entry"
+    },
+    "V20261012-035": {
+      "term": "resolve",
+      "kind": "word",
+      "components": [],
+      "whole": [
+        "resolve"
+      ],
+      "wholeHistoryStatus": "sourced",
+      "coverage": "whole_entry"
+    },
+    "V20261012-036": {
+      "term": "handover",
+      "kind": "compound",
+      "components": [
+        "hand"
+      ],
+      "whole": [],
+      "note": "handover整词读取失败；当前引用hand资料",
+      "wholeHistoryStatus": "fetch_failed",
+      "coverage": "component_history"
+    },
+    "V20261012-037": {
+      "term": "sign-off",
+      "kind": "fixed_expression",
+      "components": [],
+      "whole": [
+        "sign-off"
+      ],
+      "wholeHistoryStatus": "sourced",
+      "coverage": "whole_entry"
+    },
+    "V20261012-038": {
+      "term": "checkpoint",
+      "kind": "word",
+      "components": [],
+      "whole": [
+        "checkpoint"
+      ],
+      "wholeHistoryStatus": "sourced",
+      "coverage": "whole_entry"
+    },
+    "V20261012-040": {
+      "term": "outcome",
+      "kind": "word",
+      "components": [],
+      "whole": [
+        "outcome"
+      ],
+      "wholeHistoryStatus": "sourced",
+      "coverage": "whole_entry"
+    }
+  }
+}

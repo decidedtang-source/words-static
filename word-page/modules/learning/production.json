@@ -1,0 +1,20 @@
+{
+  "id": "learning",
+  "version": "1.0.0",
+  "dependencies": [
+    "dictionary"
+  ],
+  "inputs": [
+    "selection",
+    "senses",
+    "sources"
+  ],
+  "fields": [
+    "general",
+    "senses",
+    "note",
+    "retrieved",
+    "retrieval",
+    "learningSource"
+  ]
+}

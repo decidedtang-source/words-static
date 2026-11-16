@@ -1,0 +1,2246 @@
+{
+  "V20261012-002": {
+    "scenario": {
+      "meaning": "目标；想要达到的结果"
+    },
+    "bridge": {
+      "modern": "从常用的“目标”义进入：to reduce说明目标内容，即减少审批耗时。",
+      "history": "军事上的目标点把行动指向某个终点；本句则把想达到的终点写成“减少审批耗时”。"
+    },
+    "history": {
+      "refs": [
+        {
+          "unitId": "etym:objective",
+          "version": "1.0.0",
+          "scope": "whole_entry"
+        }
+      ],
+      "cards": [
+        {
+          "lemma": "objective",
+          "scope": "whole_entry",
+          "unitId": "etym:objective",
+          "version": "1.0.0",
+          "summary": "名词“目标”义可追溯到19世纪军事用语 objective point，Etymonline分别列出1852年的军事表达和1881年的一般目标义。形容词的哲学用法更早，始见于17世纪初，与名词目标义应分开理解。",
+          "receipt": {
+            "url": "https://www.etymonline.com/word/objective",
+            "lemma": "objective",
+            "status": "ready",
+            "transport": "web_tool_snapshot",
+            "fetchedAt": "2026-11-16T03:41:59.325Z",
+            "artifactPath": "local-evidence/front-sources/web-batch-0.txt",
+            "rawSHA": "4aa7814a1ab7c46a1dabf1c71faa2239e0ba5d987faedce050e63231d2dd09ef",
+            "textSHA": "3efcc2b06e67d0208a4ceee9471df3672e86c71e1dbb178b1921bfe27674346d",
+            "coverage": "entry_section",
+            "parserVersion": "1.0.0"
+          }
+        }
+      ],
+      "scope": "whole_entry",
+      "kind": "word",
+      "wholeHistoryStatus": "sourced"
+    }
+  },
+  "V20261012-012": {
+    "scenario": {
+      "meaning": "产能；可用资源所能支撑的工作量"
+    },
+    "bridge": {
+      "modern": "这里用的是完成工作或生产的能力义，关注现有资源能承接多少工作。both projects给出要承接的工作量，not enough说明资源承载量不足。",
+      "history": "早期容纳能力与后来的工业生产能力，都围绕能承接多少。本句将这种量的视角用于可用工作资源。"
+    },
+    "history": {
+      "refs": [
+        {
+          "unitId": "etym:capacity",
+          "version": "1.0.0",
+          "scope": "whole_entry"
+        }
+      ],
+      "cards": [
+        {
+          "lemma": "capacity",
+          "scope": "whole_entry",
+          "unitId": "etym:capacity",
+          "version": "1.0.0",
+          "summary": "15世纪初已用于容纳能力，也用于法律、道德或智力方面的能力。它经法语进入英语，上溯拉丁语中能容纳、能承受的概念；词条另记录1931年的工业生产能力用法。",
+          "receipt": {
+            "url": "https://www.etymonline.com/word/capacity",
+            "lemma": "capacity",
+            "status": "ready",
+            "transport": "web_tool_snapshot",
+            "fetchedAt": "2026-11-16T03:41:59.325Z",
+            "artifactPath": "local-evidence/front-sources/web-batch-0.txt",
+            "rawSHA": "4aa7814a1ab7c46a1dabf1c71faa2239e0ba5d987faedce050e63231d2dd09ef",
+            "textSHA": "6158bbd95868bfec0077fe14cdf07e12e127f267d300bd89764d94e5554e1939",
+            "coverage": "entry_section",
+            "parserVersion": "1.0.0"
+          }
+        }
+      ],
+      "scope": "whole_entry",
+      "kind": "word",
+      "wholeHistoryStatus": "sourced"
+    }
+  },
+  "V20261012-022": {
+    "scenario": {
+      "meaning": "暂定的；尚待确认的"
+    },
+    "bridge": {
+      "modern": "从“暂定”进入：日期已经提出，但还需要评审完成后确认。Friday是安排内容，tentative说明它的确定程度。",
+      "history": "试验、尝试的词史有助于理解先提出安排再确认。本句中的日期已经可供讨论，但尚未定案。"
+    },
+    "history": {
+      "refs": [
+        {
+          "unitId": "etym:tentative",
+          "version": "1.0.0",
+          "scope": "whole_entry"
+        }
+      ],
+      "cards": [
+        {
+          "lemma": "tentative",
+          "scope": "whole_entry",
+          "unitId": "etym:tentative",
+          "version": "1.0.0",
+          "summary": "16世纪80年代已有基于尝试、带试验性质的用法。词形经中世纪拉丁语追溯到表示尝试、检验的动词，重点在先试行再确认。",
+          "receipt": {
+            "url": "https://www.etymonline.com/word/tentative",
+            "lemma": "tentative",
+            "status": "ready",
+            "transport": "web_tool_snapshot",
+            "fetchedAt": "2026-11-16T03:41:59.325Z",
+            "artifactPath": "local-evidence/front-sources/web-batch-0.txt",
+            "rawSHA": "4aa7814a1ab7c46a1dabf1c71faa2239e0ba5d987faedce050e63231d2dd09ef",
+            "textSHA": "a7d2f0ff6ea88ef167ca2625cf55087b6ff0443f97b0153978fc1107e6db5c52",
+            "coverage": "entry_section",
+            "parserVersion": "1.0.0"
+          }
+        }
+      ],
+      "scope": "whole_entry",
+      "kind": "word",
+      "wholeHistoryStatus": "sourced"
+    }
+  },
+  "V20261012-024": {
+    "scenario": {
+      "meaning": "待定的；尚未处理完毕的"
+    },
+    "bridge": {
+      "modern": "pending直接说明approval仍在等待结果。后半句把这个状态与暂不能继续联系起来。",
+      "history": "悬而未决的历史背景在这里仍清晰：批准决定还没有落定。"
+    },
+    "history": {
+      "refs": [
+        {
+          "unitId": "etym:pending",
+          "version": "1.0.0",
+          "scope": "whole_entry"
+        }
+      ],
+      "cards": [
+        {
+          "lemma": "pending",
+          "scope": "whole_entry",
+          "unitId": "etym:pending",
+          "version": "1.0.0",
+          "summary": "17世纪40年代的介词用法与法语及拉丁法律表达有关，背后有事情悬而未决的意象。形容词用法记录于1797年；法律表达中的案件未结是其重要历史背景。",
+          "receipt": {
+            "url": "https://www.etymonline.com/word/pending",
+            "lemma": "pending",
+            "status": "ready",
+            "transport": "web_tool_snapshot",
+            "fetchedAt": "2026-11-16T03:41:59.325Z",
+            "artifactPath": "local-evidence/front-sources/web-batch-0.txt",
+            "rawSHA": "4aa7814a1ab7c46a1dabf1c71faa2239e0ba5d987faedce050e63231d2dd09ef",
+            "textSHA": "d2200b77a09c5d26361a28cf9d7789c072500912c57ee5685a3c51199b22004f",
+            "coverage": "entry_section",
+            "parserVersion": "1.0.0"
+          }
+        }
+      ],
+      "scope": "whole_entry",
+      "kind": "word",
+      "wholeHistoryStatus": "sourced"
+    }
+  },
+  "V20261012-053": {
+    "scenario": {
+      "meaning": "保留意见；顾虑"
+    },
+    "bridge": {
+      "modern": "这里选“顾虑、保留意见”义：说话者对评审前作出承诺有所顾虑，about后面说明顾虑对象。",
+      "history": "早期留存、保留与后来的意见保留可以这样联系：没有交出全部赞同，仍留下需要解决的顾虑。"
+    },
+    "history": {
+      "refs": [
+        {
+          "unitId": "etym:reservation",
+          "version": "1.0.0",
+          "scope": "whole_entry"
+        }
+      ],
+      "cards": [
+        {
+          "lemma": "reservation",
+          "scope": "whole_entry",
+          "unitId": "etym:reservation",
+          "version": "1.0.0",
+          "summary": "14世纪末首先表示保留、留存的行为；约1600年出现未明说的限定或保留意见。房间、座位等预订义较晚，词条记录于1904年的美式英语。",
+          "receipt": {
+            "url": "https://www.etymonline.com/word/reservation",
+            "lemma": "reservation",
+            "status": "ready",
+            "transport": "web_tool_snapshot",
+            "fetchedAt": "2026-11-16T03:41:59.325Z",
+            "artifactPath": "local-evidence/front-sources/web-batch-0.txt",
+            "rawSHA": "4aa7814a1ab7c46a1dabf1c71faa2239e0ba5d987faedce050e63231d2dd09ef",
+            "textSHA": "9629fd5be1c740e7b537201424333ec38cd58a893253dc20e4f022ac3a05e8b9",
+            "coverage": "entry_section",
+            "parserVersion": "1.0.0"
+          }
+        }
+      ],
+      "scope": "whole_entry",
+      "kind": "word",
+      "wholeHistoryStatus": "sourced"
+    }
+  },
+  "V20261012-078": {
+    "scenario": {
+      "meaning": "给陈述加限定；附加条件"
+    },
+    "bridge": {
+      "modern": "前部资格义之外，这里采用“限定陈述”义。冒号后的depends on approval就是新加的条件，用它调整先前对日期的说法。",
+      "history": "附加限制的用法早在16世纪已有记录。本句延续这一分支：用批准条件收窄原陈述的适用范围。"
+    },
+    "history": {
+      "refs": [
+        {
+          "unitId": "etym:qualify",
+          "version": "1.0.0",
+          "scope": "whole_entry"
+        }
+      ],
+      "cards": [
+        {
+          "lemma": "qualify",
+          "scope": "whole_entry",
+          "unitId": "etym:qualify",
+          "version": "1.0.0",
+          "summary": "15世纪中期已有赋予某种性质的意思，词源中包含性质与使之成为的构词成分。16世纪30年代已见加以限制、附加保留条件的用法，同期也有使自己具备任职能力的用法。",
+          "receipt": {
+            "url": "https://www.etymonline.com/word/qualify",
+            "lemma": "qualify",
+            "status": "ready",
+            "transport": "web_tool_snapshot",
+            "fetchedAt": "2026-11-16T03:41:59.325Z",
+            "artifactPath": "local-evidence/front-sources/web-batch-0.txt",
+            "rawSHA": "4aa7814a1ab7c46a1dabf1c71faa2239e0ba5d987faedce050e63231d2dd09ef",
+            "textSHA": "80932bb73cec97eeda7c6dc8e1d43c9c2c7983c4421d92e935261e212a0f4ea8",
+            "coverage": "entry_section",
+            "parserVersion": "1.0.0"
+          }
+        }
+      ],
+      "scope": "whole_entry",
+      "kind": "word",
+      "wholeHistoryStatus": "sourced"
+    }
+  },
+  "V20261012-076": {
+    "scenario": {
+      "meaning": "推断；根据已有信息得出结论"
+    },
+    "bridge": {
+      "modern": "从推断义进入：from引出依据，approval是可能推出的结论。not要求读者不要把未回复当作批准依据。",
+      "history": "词史中的带入结论已用于逻辑推理；本句关注的是推理从什么信息出发，以及这个结论能否成立。"
+    },
+    "history": {
+      "refs": [
+        {
+          "unitId": "etym:infer",
+          "version": "1.0.0",
+          "scope": "whole_entry"
+        }
+      ],
+      "cards": [
+        {
+          "lemma": "infer",
+          "scope": "whole_entry",
+          "unitId": "etym:infer",
+          "version": "1.0.0",
+          "summary": "16世纪20年代已进入逻辑推理用语。其拉丁来源既有带入的动作意义，也有推出结论的意义；英文很早就用于从推理过程得到结论。",
+          "receipt": {
+            "url": "https://www.etymonline.com/word/infer",
+            "lemma": "infer",
+            "status": "ready",
+            "transport": "web_tool_snapshot",
+            "fetchedAt": "2026-11-16T03:41:59.325Z",
+            "artifactPath": "local-evidence/front-sources/web-batch-0.txt",
+            "rawSHA": "4aa7814a1ab7c46a1dabf1c71faa2239e0ba5d987faedce050e63231d2dd09ef",
+            "textSHA": "0a1b7e8d321d4e89452777926e9618d0b928e1eeaed12bd0c505190336098bee",
+            "coverage": "entry_section",
+            "parserVersion": "1.0.0"
+          }
+        }
+      ],
+      "scope": "whole_entry",
+      "kind": "word",
+      "wholeHistoryStatus": "sourced"
+    }
+  },
+  "V20261012-093": {
+    "scenario": {
+      "meaning": "只要；以……为条件"
+    },
+    "bridge": {
+      "modern": "这是整体使用的条件连接表达，把“可以继续”与“负责人确认范围”连接起来。后半句给出成立条件。",
+      "history": "provided作为条件连接词已有长期记录。本句直接使用这一条件分支，that引出条件内容。"
+    },
+    "history": {
+      "refs": [
+        {
+          "unitId": "etym:provided",
+          "version": "1.0.0",
+          "scope": "component_history"
+        }
+      ],
+      "cards": [
+        {
+          "lemma": "provided",
+          "scope": "component_history",
+          "unitId": "etym:provided",
+          "version": "1.0.0",
+          "summary": "作为条件连接词，provided在15世纪初已有记录，由provide的过去分词发展而来。这里关注的是条件已经约定或成立的连接用法。",
+          "receipt": {
+            "url": "https://www.etymonline.com/word/provided",
+            "lemma": "provided",
+            "status": "ready",
+            "transport": "web_tool_snapshot",
+            "fetchedAt": "2026-11-16T03:41:59.325Z",
+            "artifactPath": "local-evidence/front-sources/web-batch-0.txt",
+            "rawSHA": "4aa7814a1ab7c46a1dabf1c71faa2239e0ba5d987faedce050e63231d2dd09ef",
+            "textSHA": "27e0bc280761cf54148b997d9fee1d49e127d5277c65bef6e342b60494ae3024",
+            "coverage": "entry_section",
+            "parserVersion": "1.0.0"
+          }
+        }
+      ],
+      "scope": "component_history",
+      "kind": "fixed_expression",
+      "wholeHistoryStatus": "not_acquired"
+    }
+  },
+  "V20261012-100": {
+    "scenario": {
+      "meaning": "不一定；未必"
+    },
+    "bridge": {
+      "modern": "它否定的是“任务完成就一定代表问题解决”这层必然联系。完成与解决可能同时发生，但前者不能保证后者。",
+      "history": "necessarily的必然结果义有历史记录；加上not后，当前表达取消必然性。这是现代组合解释，组成词的年代不代表整个短语的起源年代。"
+    },
+    "history": {
+      "refs": [
+        {
+          "unitId": "etym:necessarily",
+          "version": "1.0.0",
+          "scope": "component_history"
+        }
+      ],
+      "cards": [
+        {
+          "lemma": "necessarily",
+          "scope": "component_history",
+          "unitId": "etym:necessarily",
+          "version": "1.0.0",
+          "summary": "14世纪末已有不可避免、必然如此的意思，构词为necessary加副词后缀。约1500年进一步记录了表示必然结果或后果的用法。",
+          "receipt": {
+            "url": "https://www.etymonline.com/word/necessarily",
+            "lemma": "necessarily",
+            "status": "ready",
+            "transport": "web_tool_snapshot",
+            "fetchedAt": "2026-11-16T03:41:59.325Z",
+            "artifactPath": "local-evidence/front-sources/web-batch-0.txt",
+            "rawSHA": "4aa7814a1ab7c46a1dabf1c71faa2239e0ba5d987faedce050e63231d2dd09ef",
+            "textSHA": "491f1966d61965bd6c8c30c66bb4a482a2fb312078bf60c6fa4d7616bdb72bbf",
+            "coverage": "entry_section",
+            "parserVersion": "1.0.0"
+          }
+        }
+      ],
+      "scope": "component_history",
+      "kind": "fixed_expression",
+      "wholeHistoryStatus": "not_acquired"
+    }
+  },
+  "V20261014-075": {
+    "scenario": {
+      "meaning": "验证方法；检查是否符合规定要求的方法"
+    },
+    "bridge": {
+      "modern": "verification提供核实的入口，工程语境再明确对照的是规定要求；method是取得相应证据的做法。",
+      "history": "verification提供确认真实性的历史背景，method提供有序方法的背景；工程中对照规定要求的具体含义来自现代专业用法。"
+    },
+    "history": {
+      "refs": [
+        {
+          "unitId": "etym:verification",
+          "version": "1.0.0",
+          "scope": "component_history"
+        },
+        {
+          "unitId": "etym:method",
+          "version": "1.0.0",
+          "scope": "component_history"
+        }
+      ],
+      "cards": [
+        {
+          "lemma": "verification",
+          "scope": "component_history",
+          "unitId": "etym:verification",
+          "version": "1.0.0",
+          "summary": "16世纪20年代用于确认真实性；约1600年记录了核实陈述、引文等是否正确的用法。词源追溯到中世纪拉丁语，核心是使真实性得到确认。",
+          "receipt": {
+            "url": "https://www.etymonline.com/word/verification",
+            "lemma": "verification",
+            "status": "ready",
+            "transport": "web_tool_snapshot",
+            "fetchedAt": "2026-11-16T03:41:59.325Z",
+            "artifactPath": "local-evidence/front-sources/web-batch-0.txt",
+            "rawSHA": "4aa7814a1ab7c46a1dabf1c71faa2239e0ba5d987faedce050e63231d2dd09ef",
+            "textSHA": "073b77b7a3238e93b3673fa947ea7a920ca9a575e0c40934fd9419fc1b222b16",
+            "coverage": "entry_section",
+            "parserVersion": "1.0.0"
+          }
+        },
+        {
+          "lemma": "method",
+          "scope": "component_history",
+          "unitId": "etym:method",
+          "version": "1.0.0",
+          "summary": "15世纪初用于有系统地治疗疾病，源自希腊语经拉丁语传入，背景包括探究和行进的方法。16世纪末扩展到为实现目的而有序做事的一般方法。",
+          "receipt": {
+            "url": "https://www.etymonline.com/word/method",
+            "lemma": "method",
+            "status": "ready",
+            "transport": "web_tool_snapshot",
+            "fetchedAt": "2026-11-16T03:45:52.185Z",
+            "artifactPath": "local-evidence/front-sources/web-components.txt",
+            "rawSHA": "c44888965362a645ffe4ca8055678d92aa4380fa120b6fac1cbb9048e2240048",
+            "textSHA": "9e5621041f57291f000c6c46f3a0df77eb3caca12e63bc654082050a728fd287",
+            "coverage": "entry_section",
+            "parserVersion": "1.0.0"
+          }
+        }
+      ],
+      "scope": "component_history",
+      "kind": "phrase",
+      "wholeHistoryStatus": "not_acquired"
+    }
+  },
+  "V20261014-076": {
+    "scenario": {
+      "meaning": "确认方法；检查是否适合预定用途的方法"
+    },
+    "bridge": {
+      "modern": "这里用工程中的确认义，关注是否适合实际使用。that reflects actual use进一步要求所选方法贴近使用情境。",
+      "history": "validation的确认背景与method的方法背景可以分别阅读；这里把两者用于实际用途的确认，并非由词源推导工程判准。"
+    },
+    "history": {
+      "refs": [
+        {
+          "unitId": "etym:validation",
+          "version": "1.0.0",
+          "scope": "component_history"
+        },
+        {
+          "unitId": "etym:method",
+          "version": "1.0.0",
+          "scope": "component_history"
+        }
+      ],
+      "cards": [
+        {
+          "lemma": "validation",
+          "scope": "component_history",
+          "unitId": "etym:validation",
+          "version": "1.0.0",
+          "summary": "17世纪50年代已有使之有效、加强或确认的名词用法，来自validate。此条提供普通词的历史背景；工程中的预定用途判准另由专业资料解释。",
+          "receipt": {
+            "url": "https://www.etymonline.com/word/validation",
+            "lemma": "validation",
+            "status": "ready",
+            "transport": "web_tool_snapshot",
+            "fetchedAt": "2026-11-16T03:41:59.349Z",
+            "artifactPath": "local-evidence/front-sources/web-batch-1.txt",
+            "rawSHA": "6ad341ff8f2ed72df39e13d5202c8a3ee1f4db690e8c25ddca431abef0e22699",
+            "textSHA": "03ce3bf58f223cd661c9285974028e6a3360f50afa53a7dcf1b6ac1ec1a0c658",
+            "coverage": "entry_section",
+            "parserVersion": "1.0.0"
+          }
+        },
+        {
+          "lemma": "method",
+          "scope": "component_history",
+          "unitId": "etym:method",
+          "version": "1.0.0",
+          "summary": "15世纪初用于有系统地治疗疾病，源自希腊语经拉丁语传入，背景包括探究和行进的方法。16世纪末扩展到为实现目的而有序做事的一般方法。",
+          "receipt": {
+            "url": "https://www.etymonline.com/word/method",
+            "lemma": "method",
+            "status": "ready",
+            "transport": "web_tool_snapshot",
+            "fetchedAt": "2026-11-16T03:45:52.185Z",
+            "artifactPath": "local-evidence/front-sources/web-components.txt",
+            "rawSHA": "c44888965362a645ffe4ca8055678d92aa4380fa120b6fac1cbb9048e2240048",
+            "textSHA": "9e5621041f57291f000c6c46f3a0df77eb3caca12e63bc654082050a728fd287",
+            "coverage": "entry_section",
+            "parserVersion": "1.0.0"
+          }
+        }
+      ],
+      "scope": "component_history",
+      "kind": "phrase",
+      "wholeHistoryStatus": "not_acquired"
+    }
+  },
+  "V20261029-005": {
+    "scenario": {
+      "meaning": "工作定义；暂供当前使用的定义"
+    },
+    "bridge": {
+      "modern": "working限定definition：先采用一个足够支持当前讨论的定义，再依据需要修订。原句要共同约定的是critical defect的含义。",
+      "history": "working曾发展出提供工作基础的用法，definition与划定边界有关；两者合起来，是先为当前讨论划出可用边界。"
+    },
+    "history": {
+      "refs": [
+        {
+          "unitId": "etym:working",
+          "version": "1.0.0",
+          "scope": "component_history"
+        },
+        {
+          "unitId": "etym:definition",
+          "version": "1.0.0",
+          "scope": "component_history"
+        }
+      ],
+      "cards": [
+        {
+          "lemma": "working",
+          "scope": "component_history",
+          "unitId": "etym:working",
+          "version": "1.0.0",
+          "summary": "形容词早期用于忙碌、从事劳动；到1849年，关于理论等事物已有提供工作基础的用法。这个历史分支与working definition中的供当前使用较为接近。",
+          "receipt": {
+            "url": "https://www.etymonline.com/word/working",
+            "lemma": "working",
+            "status": "ready",
+            "transport": "web_tool_snapshot",
+            "fetchedAt": "2026-11-16T03:45:52.185Z",
+            "artifactPath": "local-evidence/front-sources/web-components.txt",
+            "rawSHA": "c44888965362a645ffe4ca8055678d92aa4380fa120b6fac1cbb9048e2240048",
+            "textSHA": "fc1a2732bec58933e734370fd85b02690b2daa41c1e5e700c2e2a15caada14b6",
+            "coverage": "entry_section",
+            "parserVersion": "1.0.0"
+          }
+        },
+        {
+          "lemma": "definition",
+          "scope": "component_history",
+          "unitId": "etym:definition",
+          "version": "1.0.0",
+          "summary": "14世纪末已兼有划定界限、说明事物特征以及解释词语含义等用法。拉丁来源与边界和限定有关；17世纪又记录了逻辑领域说明意义的用法。",
+          "receipt": {
+            "url": "https://www.etymonline.com/word/definition",
+            "lemma": "definition",
+            "status": "ready",
+            "transport": "web_tool_snapshot",
+            "fetchedAt": "2026-11-16T03:41:59.349Z",
+            "artifactPath": "local-evidence/front-sources/web-batch-1.txt",
+            "rawSHA": "6ad341ff8f2ed72df39e13d5202c8a3ee1f4db690e8c25ddca431abef0e22699",
+            "textSHA": "3ac7cfaf1604cbe00d45986ac77d36bb8c1b97a04820dece0339b36f29f8e831",
+            "coverage": "entry_section",
+            "parserVersion": "1.0.0"
+          }
+        }
+      ],
+      "scope": "component_history",
+      "kind": "collocation",
+      "wholeHistoryStatus": "not_acquired"
+    }
+  },
+  "V20261014-003": {
+    "scenario": {
+      "meaning": "界定问题；组织问题的表述角度"
+    },
+    "bridge": {
+      "modern": "选用frame的构思、组织表述义，around说明讨论围绕什么展开；本句把漏掉的检验步骤设为讨论中心。",
+      "history": "frame的组织、构思义与issue的待决定问题义各有历史。本句将两者组合成确定讨论角度的表达。"
+    },
+    "history": {
+      "refs": [
+        {
+          "unitId": "etym:frame",
+          "version": "1.0.0",
+          "scope": "component_history"
+        },
+        {
+          "unitId": "etym:issue",
+          "version": "1.0.0",
+          "scope": "component_history"
+        }
+      ],
+      "cards": [
+        {
+          "lemma": "frame",
+          "scope": "component_history",
+          "unitId": "etym:frame",
+          "version": "1.0.0",
+          "summary": "动词的古英语背景与促进、完成有关，后来经历准备、加工建材等用法；16世纪40年代已有构思、组织的意思。名词的框架、边框义属于另一条可观察的意义发展。",
+          "receipt": {
+            "url": "https://www.etymonline.com/word/frame",
+            "lemma": "frame",
+            "status": "ready",
+            "transport": "web_tool_snapshot",
+            "fetchedAt": "2026-11-16T03:41:59.349Z",
+            "artifactPath": "local-evidence/front-sources/web-batch-1.txt",
+            "rawSHA": "6ad341ff8f2ed72df39e13d5202c8a3ee1f4db690e8c25ddca431abef0e22699",
+            "textSHA": "71531edb35bfe4573510d7e26ed06cfcbe52b66a535fc279e0877a7493eec4a4",
+            "coverage": "entry_section",
+            "parserVersion": "1.0.0"
+          }
+        },
+        {
+          "lemma": "issue",
+          "scope": "component_history",
+          "unitId": "etym:issue",
+          "version": "1.0.0",
+          "summary": "约1300年先有出口的意思，随后扩展到事物的结果。法律争议中待裁定的问题又形成一条发展路径，19世纪记录了需要作决定的重要问题义。",
+          "receipt": {
+            "url": "https://www.etymonline.com/word/issue",
+            "lemma": "issue",
+            "status": "ready",
+            "transport": "web_tool_snapshot",
+            "fetchedAt": "2026-11-16T03:45:52.185Z",
+            "artifactPath": "local-evidence/front-sources/web-components.txt",
+            "rawSHA": "c44888965362a645ffe4ca8055678d92aa4380fa120b6fac1cbb9048e2240048",
+            "textSHA": "2c29e21f0ebc832589b20aa6d4fcb8f1b7fbee845618af233e4612fbfa6e4c79",
+            "coverage": "entry_section",
+            "parserVersion": "1.0.0"
+          }
+        }
+      ],
+      "scope": "component_history",
+      "kind": "construction",
+      "wholeHistoryStatus": "not_acquired"
+    }
+  },
+  "V20261012-117": {
+    "scenario": {
+      "meaning": "占；构成总体的一部分"
+    },
+    "bridge": {
+      "modern": "这里使用“占比”义，most of给出所占份额。评审活动占剩余工作的大部分。",
+      "history": "account的计数、核算背景可帮助记住份额与总体的关系；本句的占比义仍按现代短语用法学习。"
+    },
+    "history": {
+      "refs": [
+        {
+          "unitId": "etym:account",
+          "version": "1.0.0",
+          "scope": "component_history"
+        }
+      ],
+      "cards": [
+        {
+          "lemma": "account",
+          "scope": "component_history",
+          "unitId": "etym:account",
+          "version": "1.0.0",
+          "summary": "约1300年已有计数、核算的用法，源自法语。交代所管理财物的明细，也为说明、解释的用法提供了背景；这里管理的是account自身的历史。",
+          "receipt": {
+            "url": "https://www.etymonline.com/word/account",
+            "lemma": "account",
+            "status": "ready",
+            "transport": "web_tool_snapshot",
+            "fetchedAt": "2026-11-16T03:42:13.638Z",
+            "artifactPath": "local-evidence/front-sources/web-extra.txt",
+            "rawSHA": "8b7cc65cd154bffda70f68cb5bc8219eebb339e8920ed2ba613450e29c67fb1c",
+            "textSHA": "00fb3e70acbe763da6e84279c64cd85920d93a73796dcb9ff24c90cccfe8358d",
+            "coverage": "entry_excerpt",
+            "parserVersion": "1.0.0"
+          }
+        }
+      ],
+      "scope": "component_history",
+      "kind": "fixed_expression",
+      "wholeHistoryStatus": "not_acquired"
+    }
+  },
+  "V20261018-106": {
+    "scenario": {
+      "meaning": "在民意调查中领先"
+    },
+    "bridge": {
+      "modern": "lead取处于前列的意思，in the polls限定比较范围为民调。continued说明这种领先状态仍在持续。",
+      "history": "lead的处于首位与poll的民意调查分支在这里结合起来：领先发生在支持度调查的比较中。"
+    },
+    "history": {
+      "refs": [
+        {
+          "unitId": "etym:lead",
+          "version": "1.0.0",
+          "scope": "component_history"
+        },
+        {
+          "unitId": "etym:poll",
+          "version": "1.0.0",
+          "scope": "component_history"
+        }
+      ],
+      "cards": [
+        {
+          "lemma": "lead",
+          "scope": "component_history",
+          "unitId": "etym:lead",
+          "version": "1.0.0",
+          "summary": "引导的动词来自古英语，原有带领、走在前面之义。14世纪末已有处于首位的用法；金属铅的同形词另有来源，不参与这里的词义联系。",
+          "receipt": {
+            "url": "https://www.etymonline.com/word/lead",
+            "lemma": "lead",
+            "status": "ready",
+            "transport": "web_tool_snapshot",
+            "fetchedAt": "2026-11-16T03:45:52.185Z",
+            "artifactPath": "local-evidence/front-sources/web-components.txt",
+            "rawSHA": "c44888965362a645ffe4ca8055678d92aa4380fa120b6fac1cbb9048e2240048",
+            "textSHA": "b5d2a59d0a526ef85eda07aa2b4d1d0ee57c0cee0670d2d8fec544546566078a",
+            "coverage": "entry_section",
+            "parserVersion": "1.0.0"
+          }
+        },
+        {
+          "lemma": "poll",
+          "scope": "component_history",
+          "unitId": "etym:poll",
+          "version": "1.0.0",
+          "summary": "早期指头部，14世纪又扩展到个人。计票义在17世纪20年代已有记录，其联系是按人头计数；现代民意调查义记录于1902年。",
+          "receipt": {
+            "url": "https://www.etymonline.com/word/poll",
+            "lemma": "poll",
+            "status": "ready",
+            "transport": "web_tool_snapshot",
+            "fetchedAt": "2026-11-16T03:45:11.908Z",
+            "artifactPath": "local-evidence/front-sources/web-poll-search.txt",
+            "rawSHA": "a8ee65750450d9ac6fde41a8cbe79a2a36dc181587dec32a20d32757693ec714",
+            "textSHA": "b75e8988de1b7d48427e5d72c1bc3031ebd696ddba9aeceb2b354c8827fe6819",
+            "coverage": "entry_section",
+            "parserVersion": "1.0.0"
+          }
+        }
+      ],
+      "scope": "component_history",
+      "kind": "construction",
+      "wholeHistoryStatus": "not_acquired"
+    }
+  },
+  "V20261016-103": {
+    "scenario": {
+      "meaning": "轻信的；容易相信他人的"
+    },
+    "bridge": {
+      "modern": "这里用轻信义描述接受承诺的选民，表达作者对其判断方式的批评。",
+      "history": "容易相信是这个词较早即有的意义。本句承接这一点，把它用于对选民接受承诺方式的评价。"
+    },
+    "history": {
+      "refs": [
+        {
+          "unitId": "etym:credulous",
+          "version": "1.0.0",
+          "scope": "whole_entry"
+        }
+      ],
+      "cards": [
+        {
+          "lemma": "credulous",
+          "scope": "whole_entry",
+          "unitId": "etym:credulous",
+          "version": "1.0.0",
+          "summary": "16世纪70年代已有容易相信、缺少批判性判断的形容词用法，来自拉丁语中容易相信的表达，其词根与相信有关。",
+          "receipt": {
+            "url": "https://www.etymonline.com/word/credulous",
+            "lemma": "credulous",
+            "status": "ready",
+            "transport": "web_tool_snapshot",
+            "fetchedAt": "2026-11-16T03:41:59.349Z",
+            "artifactPath": "local-evidence/front-sources/web-batch-1.txt",
+            "rawSHA": "6ad341ff8f2ed72df39e13d5202c8a3ee1f4db690e8c25ddca431abef0e22699",
+            "textSHA": "a7967d0e229405f6b87784e08cb71ab339ca30f1d433788a0c9265b31ec60312",
+            "coverage": "entry_section",
+            "parserVersion": "1.0.0"
+          }
+        }
+      ],
+      "scope": "whole_entry",
+      "kind": "word",
+      "wholeHistoryStatus": "sourced"
+    }
+  },
+  "V20261016-119": {
+    "scenario": {
+      "meaning": "通胀冲击；物价上涨带来的冲击"
+    },
+    "bridge": {
+      "modern": "inflation说明冲击来自物价上涨，shock强调对既有生活安排的影响。原句说家庭可能难以承受又一次冲击。",
+      "history": "inflation有从膨胀到价格方面的历史发展，shock有从碰撞到强烈影响的发展。当前经济组合将价格变化及其冲击放在一起。"
+    },
+    "history": {
+      "refs": [
+        {
+          "unitId": "etym:inflation",
+          "version": "1.0.0",
+          "scope": "component_history"
+        },
+        {
+          "unitId": "etym:shock",
+          "version": "1.0.0",
+          "scope": "component_history"
+        }
+      ],
+      "cards": [
+        {
+          "lemma": "inflation",
+          "scope": "component_history",
+          "unitId": "etym:inflation",
+          "version": "1.0.0",
+          "summary": "14世纪中期先见身体胀起等用法，也有自负膨胀的比喻。货币与价格方面的用法在19世纪出现，词条记录1838年的美式英语价格扩张义。",
+          "receipt": {
+            "url": "https://www.etymonline.com/word/inflation",
+            "lemma": "inflation",
+            "status": "ready",
+            "transport": "web_tool_snapshot",
+            "fetchedAt": "2026-11-16T03:41:59.349Z",
+            "artifactPath": "local-evidence/front-sources/web-batch-1.txt",
+            "rawSHA": "6ad341ff8f2ed72df39e13d5202c8a3ee1f4db690e8c25ddca431abef0e22699",
+            "textSHA": "174c2f9d786d2e11340b4f13630b9925f1c00eb9a6b35f03609b6898fe8a1ae0",
+            "coverage": "entry_section",
+            "parserVersion": "1.0.0"
+          }
+        },
+        {
+          "lemma": "shock",
+          "scope": "component_history",
+          "unitId": "etym:shock",
+          "version": "1.0.0",
+          "summary": "16世纪中期先用于武装力量的激烈相遇，后来扩展到突然撞击，再到心理上受到强烈影响。这里提供冲击一词的历史背景，不把它当成整个经济术语的起源。",
+          "receipt": {
+            "url": "https://www.etymonline.com/word/shock",
+            "lemma": "shock",
+            "status": "ready",
+            "transport": "web_tool_snapshot",
+            "fetchedAt": "2026-11-16T03:45:52.185Z",
+            "artifactPath": "local-evidence/front-sources/web-components.txt",
+            "rawSHA": "c44888965362a645ffe4ca8055678d92aa4380fa120b6fac1cbb9048e2240048",
+            "textSHA": "0824250fa1fc06fb93c9fa44bdd871d2fed5cc01ab31e4ae7362d8636ee5901f",
+            "coverage": "entry_section",
+            "parserVersion": "1.0.0"
+          }
+        }
+      ],
+      "scope": "component_history",
+      "kind": "collocation",
+      "wholeHistoryStatus": "not_acquired"
+    }
+  },
+  "V20261012-020": {
+    "scenario": {
+      "meaning": "取舍；此消彼长的权衡"
+    },
+    "bridge": {
+      "modern": "前部权衡义直接适用，between列出两个目标：更快交付与更低成本。讨论的是改善一端需要付出什么代价。",
+      "history": "较早的交换表达与后来的利益取舍义相接；本句把要交换或牺牲的利益具体化为速度与成本。"
+    },
+    "history": {
+      "refs": [
+        {
+          "unitId": "etym:trade-off",
+          "version": "1.0.0",
+          "scope": "whole_entry"
+        }
+      ],
+      "cards": [
+        {
+          "lemma": "trade-off",
+          "scope": "whole_entry",
+          "unitId": "etym:trade-off",
+          "version": "1.0.0",
+          "summary": "名词trade-off在1959年已有以一种好处换取另一种好处的用法。更早的动词短语trade off在1793年已用于以物交换，时间上早于现代权衡义。",
+          "receipt": {
+            "url": "https://www.etymonline.com/word/trade-off",
+            "lemma": "trade-off",
+            "status": "ready",
+            "transport": "web_tool_snapshot",
+            "fetchedAt": "2026-11-16T03:41:59.349Z",
+            "artifactPath": "local-evidence/front-sources/web-batch-1.txt",
+            "rawSHA": "6ad341ff8f2ed72df39e13d5202c8a3ee1f4db690e8c25ddca431abef0e22699",
+            "textSHA": "0c60f9c687009f759037e57c19a5743342a85fa7c02493edd1e83ab34bc1327e",
+            "coverage": "entry_section",
+            "parserVersion": "1.0.0"
+          }
+        }
+      ],
+      "scope": "whole_entry",
+      "kind": "fixed_expression",
+      "wholeHistoryStatus": "sourced"
+    }
+  },
+  "V20261012-019": {
+    "scenario": {
+      "meaning": "可能出现的意外情况；应变事项"
+    },
+    "bridge": {
+      "modern": "contingency修饰plan，说明这是为可能出现的情况准备的计划；if给出的情况是评审人无法参与。",
+      "history": "词史中的可能发生也可能不发生，与本句if条件相呼应：计划提前准备，但触发情形未必出现。"
+    },
+    "history": {
+      "refs": [
+        {
+          "unitId": "etym:contingency",
+          "version": "1.0.0",
+          "scope": "whole_entry"
+        }
+      ],
+      "cards": [
+        {
+          "lemma": "contingency",
+          "scope": "whole_entry",
+          "unitId": "etym:contingency",
+          "version": "1.0.0",
+          "summary": "16世纪60年代先用于事物并非必然如此、仍可能有其他结果的性质。17世纪初又记录了可能发生、也可能不发生的事件这一用法。",
+          "receipt": {
+            "url": "https://www.etymonline.com/word/contingency",
+            "lemma": "contingency",
+            "status": "ready",
+            "transport": "web_tool_snapshot",
+            "fetchedAt": "2026-11-16T03:41:59.349Z",
+            "artifactPath": "local-evidence/front-sources/web-batch-1.txt",
+            "rawSHA": "6ad341ff8f2ed72df39e13d5202c8a3ee1f4db690e8c25ddca431abef0e22699",
+            "textSHA": "d49327a0838c39aad472aca2ca24ddf929cbbf0ce24da407f4d05e1a158e44d7",
+            "coverage": "entry_section",
+            "parserVersion": "1.0.0"
+          }
+        }
+      ],
+      "scope": "whole_entry",
+      "kind": "word",
+      "wholeHistoryStatus": "sourced"
+    }
+  },
+  "V20261012-015": {
+    "scenario": {
+      "meaning": "承担责任；主动负责"
+    },
+    "bridge": {
+      "modern": "这里选工作中承担事项责任的用法。take ownership问的是谁来负责推进、协调和跟进未结事项。",
+      "history": "所有者身份提供了归属的历史背景；当前工作表达把归属落实为谁对这件事主动负责，是现代使用中的联系。"
+    },
+    "history": {
+      "refs": [
+        {
+          "unitId": "etym:ownership",
+          "version": "1.0.0",
+          "scope": "whole_entry"
+        }
+      ],
+      "cards": [
+        {
+          "lemma": "ownership",
+          "scope": "whole_entry",
+          "unitId": "etym:ownership",
+          "version": "1.0.0",
+          "summary": "16世纪80年代已有所有者身份及归属权利的名词用法，由owner与表示状态的后缀组成。现代工作沟通中的责任承担义需在现代语境中另作解释。",
+          "receipt": {
+            "url": "https://www.etymonline.com/word/ownership",
+            "lemma": "ownership",
+            "status": "ready",
+            "transport": "web_tool_snapshot",
+            "fetchedAt": "2026-11-16T03:41:59.349Z",
+            "artifactPath": "local-evidence/front-sources/web-batch-1.txt",
+            "rawSHA": "6ad341ff8f2ed72df39e13d5202c8a3ee1f4db690e8c25ddca431abef0e22699",
+            "textSHA": "451158d7277f55b0b3c3990f625fbd25297d300acd4b637a5ce41bd992fd7e56",
+            "coverage": "entry_section",
+            "parserVersion": "1.0.0"
+          }
+        }
+      ],
+      "scope": "whole_entry",
+      "kind": "word",
+      "wholeHistoryStatus": "sourced"
+    }
+  },
+  "V20261012-018": {
+    "scenario": {
+      "meaning": "承诺；已答应承担的事项"
+    },
+    "bridge": {
+      "modern": "从承诺义进入，conditions behind要求说明承诺建立在哪些条件上。",
+      "history": "承诺与义务在词史中已有明确分支；本句讨论的是一项承诺及其成立条件。"
+    },
+    "history": {
+      "refs": [
+        {
+          "unitId": "etym:commitment",
+          "version": "1.0.0",
+          "scope": "whole_entry"
+        }
+      ],
+      "cards": [
+        {
+          "lemma": "commitment",
+          "scope": "whole_entry",
+          "unitId": "etym:commitment",
+          "version": "1.0.0",
+          "summary": "17世纪初先有正式交付国家拘管的用法。词条把许诺、使自己承担承诺的用法记录在1793年，把义务或约定的用法记录在1864年。",
+          "receipt": {
+            "url": "https://www.etymonline.com/word/commitment",
+            "lemma": "commitment",
+            "status": "ready",
+            "transport": "web_tool_snapshot",
+            "fetchedAt": "2026-11-16T03:41:59.370Z",
+            "artifactPath": "local-evidence/front-sources/web-batch-2.txt",
+            "rawSHA": "08057a95907e9c0b2d572498eb4e4c948a8709d15ce0bcf4d3dfb645f96a24f1",
+            "textSHA": "152a3e8fafa4f97eaccb3d008bc48f02061f94f18f91a38491c6acc49bc273f9",
+            "coverage": "entry_section",
+            "parserVersion": "1.0.0"
+          }
+        }
+      ],
+      "scope": "whole_entry",
+      "kind": "word",
+      "wholeHistoryStatus": "sourced"
+    }
+  },
+  "V20261012-010": {
+    "scenario": {
+      "meaning": "缓冲余量；预留的时间或资源"
+    },
+    "bridge": {
+      "modern": "保护、缓冲义在这里具体化为两天的时间余量，用于吸收评审过程中的变化。",
+      "history": "从吸收撞击的装置到缓和冲击的比喻，本句再把缓冲载体换成预留时间。"
+    },
+    "history": {
+      "refs": [
+        {
+          "unitId": "etym:buffer",
+          "version": "1.0.0",
+          "scope": "whole_entry"
+        }
+      ],
+      "cards": [
+        {
+          "lemma": "buffer",
+          "scope": "whole_entry",
+          "unitId": "etym:buffer",
+          "version": "1.0.0",
+          "summary": "1835年记录了吸收撞击的装置义，1858年已有防止冲击、缓和对立力量的比喻用法。另一个表示抛光者或工具的同形名词不属于这里的缓冲义。",
+          "receipt": {
+            "url": "https://www.etymonline.com/word/buffer",
+            "lemma": "buffer",
+            "status": "ready",
+            "transport": "web_tool_snapshot",
+            "fetchedAt": "2026-11-16T03:41:59.370Z",
+            "artifactPath": "local-evidence/front-sources/web-batch-2.txt",
+            "rawSHA": "08057a95907e9c0b2d572498eb4e4c948a8709d15ce0bcf4d3dfb645f96a24f1",
+            "textSHA": "0dd3fe3c91b6087d7a8f1e5f09c85bdd7e1de80fad56a8483f615f83bf1942f0",
+            "coverage": "entry_section",
+            "parserVersion": "1.0.0"
+          }
+        }
+      ],
+      "scope": "whole_entry",
+      "kind": "word",
+      "wholeHistoryStatus": "sourced"
+    }
+  },
+  "V20261012-006": {
+    "scenario": {
+      "meaning": "约束；限制条件"
+    },
+    "bridge": {
+      "modern": "限制义直接落到可用评审人数上，人数影响工作能如何安排。",
+      "history": "绑紧、约束的历史背景可以帮助理解行动空间受限；本句中限制来自可用人数。"
+    },
+    "history": {
+      "refs": [
+        {
+          "unitId": "etym:constraint",
+          "version": "1.0.0",
+          "scope": "whole_entry"
+        }
+      ],
+      "cards": [
+        {
+          "lemma": "constraint",
+          "scope": "whole_entry",
+          "unitId": "etym:constraint",
+          "version": "1.0.0",
+          "summary": "14世纪末已有困迫、压迫的旧义，其法语及拉丁来源与绑紧、约束有关。16世纪30年代记录了限制或强迫行动的力量这一用法。",
+          "receipt": {
+            "url": "https://www.etymonline.com/word/constraint",
+            "lemma": "constraint",
+            "status": "ready",
+            "transport": "web_tool_snapshot",
+            "fetchedAt": "2026-11-16T03:41:59.370Z",
+            "artifactPath": "local-evidence/front-sources/web-batch-2.txt",
+            "rawSHA": "08057a95907e9c0b2d572498eb4e4c948a8709d15ce0bcf4d3dfb645f96a24f1",
+            "textSHA": "44afdd441f6eda5ba86e7d37c6db7007c71b9264447ceb1bc28bb5ff6cf46598",
+            "coverage": "entry_section",
+            "parserVersion": "1.0.0"
+          }
+        }
+      ],
+      "scope": "whole_entry",
+      "kind": "word",
+      "wholeHistoryStatus": "sourced"
+    }
+  },
+  "V20261012-088": {
+    "scenario": {
+      "meaning": "初步的；正式结果之前的"
+    },
+    "bridge": {
+      "modern": "preliminary说明发现仍处于初步阶段，not a final conclusion进一步限定了可以如何使用这些结果。",
+      "history": "在主要事项之前的历史用法，在这里对应初步发现与最终结论之间的先后阶段。"
+    },
+    "history": {
+      "refs": [
+        {
+          "unitId": "etym:preliminary",
+          "version": "1.0.0",
+          "scope": "whole_entry"
+        }
+      ],
+      "cards": [
+        {
+          "lemma": "preliminary",
+          "scope": "whole_entry",
+          "unitId": "etym:preliminary",
+          "version": "1.0.0",
+          "summary": "来自表示在门槛之前的拉丁构词，17世纪中叶先出现复数名词形式，随后记录了先于主要事项的形容词用法。当时外交谈判是词条提到的使用背景。",
+          "receipt": {
+            "url": "https://www.etymonline.com/word/preliminary",
+            "lemma": "preliminary",
+            "status": "ready",
+            "transport": "web_tool_snapshot",
+            "fetchedAt": "2026-11-16T03:41:59.370Z",
+            "artifactPath": "local-evidence/front-sources/web-batch-2.txt",
+            "rawSHA": "08057a95907e9c0b2d572498eb4e4c948a8709d15ce0bcf4d3dfb645f96a24f1",
+            "textSHA": "3cc4f1fa2960d8d7f9d9aa4be736735361d8622af0cc45f4246f0a914684c61d",
+            "coverage": "entry_section",
+            "parserVersion": "1.0.0"
+          }
+        }
+      ],
+      "scope": "whole_entry",
+      "kind": "word",
+      "wholeHistoryStatus": "sourced"
+    }
+  },
+  "V20261012-004": {
+    "scenario": {
+      "meaning": "里程碑；重要阶段节点"
+    },
+    "bridge": {
+      "modern": "项目中的重要节点义直接适用。reached说明该节点已经达到，after the review交代时间。",
+      "history": "道路上的里程标记可以帮助理解进度位置；本句把这种标记用于工作阶段，这是教学理解联系。"
+    },
+    "history": {
+      "refs": [
+        {
+          "unitId": "etym:milestone",
+          "version": "1.0.0",
+          "scope": "whole_entry"
+        }
+      ],
+      "cards": [
+        {
+          "lemma": "milestone",
+          "scope": "whole_entry",
+          "unitId": "etym:milestone",
+          "version": "1.0.0",
+          "summary": "1746年已有mile-stone，指沿道路设置、以英里标示距离的石碑或柱。此来源提供实体路标的记录；项目阶段节点的理解联系另列于Bridge。",
+          "receipt": {
+            "url": "https://www.etymonline.com/word/milestone",
+            "lemma": "milestone",
+            "status": "ready",
+            "transport": "web_tool_snapshot",
+            "fetchedAt": "2026-11-16T03:41:59.370Z",
+            "artifactPath": "local-evidence/front-sources/web-batch-2.txt",
+            "rawSHA": "08057a95907e9c0b2d572498eb4e4c948a8709d15ce0bcf4d3dfb645f96a24f1",
+            "textSHA": "e68f8df4f0f7d010e4a3dc88cf80a74a4c4a85879a553f448e844c52c39613db",
+            "coverage": "entry_section",
+            "parserVersion": "1.0.0"
+          }
+        }
+      ],
+      "scope": "whole_entry",
+      "kind": "word",
+      "wholeHistoryStatus": "sourced"
+    }
+  },
+  "V20261012-005": {
+    "scenario": {
+      "meaning": "优先事项；优先顺序"
+    },
+    "bridge": {
+      "modern": "set priorities是在安排哪些事情更应先做，remaining work给出排序范围。",
+      "history": "词义从时间上的在先逐渐强调重要性；本句定优先级，正是在决定哪些工作应获得先处理的地位。"
+    },
+    "history": {
+      "refs": [
+        {
+          "unitId": "etym:priority",
+          "version": "1.0.0",
+          "scope": "whole_entry"
+        }
+      ],
+      "cards": [
+        {
+          "lemma": "priority",
+          "scope": "whole_entry",
+          "unitId": "etym:priority",
+          "version": "1.0.0",
+          "summary": "14世纪末先强调时间上的在先，约1400年又见权利或地位上的优先。20世纪的重心逐渐转向重要性以及需要先处理的事项。",
+          "receipt": {
+            "url": "https://www.etymonline.com/word/priority",
+            "lemma": "priority",
+            "status": "ready",
+            "transport": "web_tool_snapshot",
+            "fetchedAt": "2026-11-16T03:41:59.370Z",
+            "artifactPath": "local-evidence/front-sources/web-batch-2.txt",
+            "rawSHA": "08057a95907e9c0b2d572498eb4e4c948a8709d15ce0bcf4d3dfb645f96a24f1",
+            "textSHA": "5895c1c228e8a225c33f53d67603a51db3d1e180132126bc0b749493d385c57d",
+            "coverage": "entry_section",
+            "parserVersion": "1.0.0"
+          }
+        }
+      ],
+      "scope": "whole_entry",
+      "kind": "word",
+      "wholeHistoryStatus": "sourced"
+    }
+  },
+  "V20261012-007": {
+    "scenario": {
+      "meaning": "依赖关系；前置条件"
+    },
+    "bridge": {
+      "modern": "一般依赖义在排期中具体化为任务之间或任务与输入之间的关系；先找出这些关系再定日程。",
+      "history": "依靠其他事物而成立的词史背景，与排期中必须先满足某项条件的关系相通。"
+    },
+    "history": {
+      "refs": [
+        {
+          "unitId": "etym:dependency",
+          "version": "1.0.0",
+          "scope": "whole_entry"
+        }
+      ],
+      "cards": [
+        {
+          "lemma": "dependency",
+          "scope": "whole_entry",
+          "unitId": "etym:dependency",
+          "version": "1.0.0",
+          "summary": "16世纪90年代已有逻辑上依赖以及受到支撑的关系义，17世纪初又可指依赖其他事物而存在的对象。后来还有从属领地义。",
+          "receipt": {
+            "url": "https://www.etymonline.com/word/dependency",
+            "lemma": "dependency",
+            "status": "ready",
+            "transport": "web_tool_snapshot",
+            "fetchedAt": "2026-11-16T03:41:59.370Z",
+            "artifactPath": "local-evidence/front-sources/web-batch-2.txt",
+            "rawSHA": "08057a95907e9c0b2d572498eb4e4c948a8709d15ce0bcf4d3dfb645f96a24f1",
+            "textSHA": "57cbe939baed1ceb741afb4713aa49d1abd2667499fe8b6ed3fdfd56b56a2702",
+            "coverage": "entry_section",
+            "parserVersion": "1.0.0"
+          }
+        }
+      ],
+      "scope": "whole_entry",
+      "kind": "word",
+      "wholeHistoryStatus": "sourced"
+    }
+  },
+  "V20261012-008": {
+    "scenario": {
+      "meaning": "假设；暂作为成立的前提"
+    },
+    "bridge": {
+      "modern": "这里把某个判断先作为前提使用，但还需要向供应商核对。",
+      "history": "被当作当然成立之事这一历史分支直接相连；当前句子又要求对这个前提进行检查。"
+    },
+    "history": {
+      "refs": [
+        {
+          "unitId": "etym:assumption",
+          "version": "1.0.0",
+          "scope": "whole_entry"
+        }
+      ],
+      "cards": [
+        {
+          "lemma": "assumption",
+          "scope": "whole_entry",
+          "unitId": "etym:assumption",
+          "version": "1.0.0",
+          "summary": "约1300年的英语记录涉及宗教中的升天用法；拉丁来源包含接纳、取用的概念。14世纪末已有逻辑小前提义，17世纪20年代记录了被当作当然成立之事。",
+          "receipt": {
+            "url": "https://www.etymonline.com/word/assumption",
+            "lemma": "assumption",
+            "status": "ready",
+            "transport": "web_tool_snapshot",
+            "fetchedAt": "2026-11-16T03:41:59.370Z",
+            "artifactPath": "local-evidence/front-sources/web-batch-2.txt",
+            "rawSHA": "08057a95907e9c0b2d572498eb4e4c948a8709d15ce0bcf4d3dfb645f96a24f1",
+            "textSHA": "e9ca68bb2e4fa0c1ed5f707d7384cdb5d3caebb6a7cb076e5633808d8d8f2c55",
+            "coverage": "entry_section",
+            "parserVersion": "1.0.0"
+          }
+        }
+      ],
+      "scope": "whole_entry",
+      "kind": "word",
+      "wholeHistoryStatus": "sourced"
+    }
+  },
+  "V20261012-009": {
+    "scenario": {
+      "meaning": "基准；用于比较的起点"
+    },
+    "bridge": {
+      "modern": "改善需要比较，因此先确定一个基准，后续变化才能有明确参照。",
+      "history": "测量中其他线所依赖的基线，提供了参照起点的历史背景；本句将其用于衡量改善。"
+    },
+    "history": {
+      "refs": [
+        {
+          "unitId": "etym:baseline",
+          "version": "1.0.0",
+          "scope": "whole_entry"
+        }
+      ],
+      "cards": [
+        {
+          "lemma": "baseline",
+          "scope": "whole_entry",
+          "unitId": "etym:baseline",
+          "version": "1.0.0",
+          "summary": "1750年首先见于测量，指其他测量所依赖的基线。后来进入网球、棒球等领域；词条也记录了20世纪的baseline estimate表达。",
+          "receipt": {
+            "url": "https://www.etymonline.com/word/baseline",
+            "lemma": "baseline",
+            "status": "ready",
+            "transport": "web_tool_snapshot",
+            "fetchedAt": "2026-11-16T03:41:59.370Z",
+            "artifactPath": "local-evidence/front-sources/web-batch-2.txt",
+            "rawSHA": "08057a95907e9c0b2d572498eb4e4c948a8709d15ce0bcf4d3dfb645f96a24f1",
+            "textSHA": "3b29693a4607f8c617cb438be4cc84bfdc8d6018ffc98e6b957efe8038a4816c",
+            "coverage": "entry_section",
+            "parserVersion": "1.0.0"
+          }
+        }
+      ],
+      "scope": "whole_entry",
+      "kind": "word",
+      "wholeHistoryStatus": "sourced"
+    }
+  },
+  "V20261012-011": {
+    "scenario": {
+      "meaning": "顺序；先后次序"
+    },
+    "bridge": {
+      "modern": "这里指剩余活动的执行次序，agree on要求共同确定这种先后安排。",
+      "history": "词史中按次序相继出现的一系列事物，与本句中的活动顺序直接相接。"
+    },
+    "history": {
+      "refs": [
+        {
+          "unitId": "etym:sequence",
+          "version": "1.0.0",
+          "scope": "whole_entry"
+        }
+      ],
+      "cards": [
+        {
+          "lemma": "sequence",
+          "scope": "whole_entry",
+          "unitId": "etym:sequence",
+          "version": "1.0.0",
+          "summary": "其拉丁背景与跟随有关。16世纪70年代已有按一定次序相继出现的一系列事物，随后记录了先后次序义；计算领域的排序动词用法则较晚。",
+          "receipt": {
+            "url": "https://www.etymonline.com/word/sequence",
+            "lemma": "sequence",
+            "status": "ready",
+            "transport": "web_tool_snapshot",
+            "fetchedAt": "2026-11-16T03:41:59.370Z",
+            "artifactPath": "local-evidence/front-sources/web-batch-2.txt",
+            "rawSHA": "08057a95907e9c0b2d572498eb4e4c948a8709d15ce0bcf4d3dfb645f96a24f1",
+            "textSHA": "cc88ddae0ff5f3a410f2d7d9849ce04b422fa6607b9b99c14a486937a7d29ae9",
+            "coverage": "entry_section",
+            "parserVersion": "1.0.0"
+          }
+        }
+      ],
+      "scope": "whole_entry",
+      "kind": "word",
+      "wholeHistoryStatus": "sourced"
+    }
+  },
+  "V20261012-013": {
+    "scenario": {
+      "meaning": "分配；拨出供某用途使用"
+    },
+    "bridge": {
+      "modern": "资源分配义直接适用：分配的是更多时间，接受这项资源的是初次评审。",
+      "history": "为特定目的拨出的历史用法，与本句给评审拨出时间的结构一致。"
+    },
+    "history": {
+      "refs": [
+        {
+          "unitId": "etym:allocate",
+          "version": "1.0.0",
+          "scope": "whole_entry"
+        }
+      ],
+      "cards": [
+        {
+          "lemma": "allocate",
+          "scope": "whole_entry",
+          "unitId": "etym:allocate",
+          "version": "1.0.0",
+          "summary": "17世纪30年代已有为特定目的拨出、分配的动词用法。来源涉及中世纪拉丁语的付款授权文书，其构词与把东西安置到某处有关。",
+          "receipt": {
+            "url": "https://www.etymonline.com/word/allocate",
+            "lemma": "allocate",
+            "status": "ready",
+            "transport": "web_tool_snapshot",
+            "fetchedAt": "2026-11-16T03:41:59.394Z",
+            "artifactPath": "local-evidence/front-sources/web-batch-3.txt",
+            "rawSHA": "0c84ba01d08e5e74e93844cb46d13dd553fbf3b4d979b911eb0489f79e17a3cd",
+            "textSHA": "ff566127dfe69f313af4840d6a7c7808637cd7c0e3c2e98ca98e7747048da9cb",
+            "coverage": "entry_section",
+            "parserVersion": "1.0.0"
+          }
+        }
+      ],
+      "scope": "whole_entry",
+      "kind": "word",
+      "wholeHistoryStatus": "sourced"
+    }
+  },
+  "V20261012-014": {
+    "scenario": {
+      "meaning": "委派；把任务交给他人处理"
+    },
+    "bridge": {
+      "modern": "宾语data collection说明交出去的是数据收集任务，to引出接受任务的人。",
+      "history": "派出代表处理事务的历史背景，可帮助理解把任务交给他人代表执行。"
+    },
+    "history": {
+      "refs": [
+        {
+          "unitId": "etym:delegate",
+          "version": "1.0.0",
+          "scope": "whole_entry"
+        }
+      ],
+      "cards": [
+        {
+          "lemma": "delegate",
+          "scope": "whole_entry",
+          "unitId": "etym:delegate",
+          "version": "1.0.0",
+          "summary": "动词在16世纪20年代已有派遣某人代表处理事务的用法，来自表示派出代表的拉丁语。名词的会议代表用法则可见于约1600年。",
+          "receipt": {
+            "url": "https://www.etymonline.com/word/delegate",
+            "lemma": "delegate",
+            "status": "ready",
+            "transport": "web_tool_snapshot",
+            "fetchedAt": "2026-11-16T03:41:59.394Z",
+            "artifactPath": "local-evidence/front-sources/web-batch-3.txt",
+            "rawSHA": "0c84ba01d08e5e74e93844cb46d13dd553fbf3b4d979b911eb0489f79e17a3cd",
+            "textSHA": "9e00598c696dcba98a239e895421963c704ee152d3315b153ec077fe172adc89",
+            "coverage": "entry_section",
+            "parserVersion": "1.0.0"
+          }
+        }
+      ],
+      "scope": "whole_entry",
+      "kind": "word",
+      "wholeHistoryStatus": "sourced"
+    }
+  },
+  "V20261012-016": {
+    "scenario": {
+      "meaning": "负有责任的；须作出交代的"
+    },
+    "bridge": {
+      "modern": "这里要求有人对最终决定负责，for说明其需要交代的事项。",
+      "history": "被要求作出交代是词史中的核心；本句把交代对象限定为最终决定。"
+    },
+    "history": {
+      "refs": [
+        {
+          "unitId": "etym:accountable",
+          "version": "1.0.0",
+          "scope": "whole_entry"
+        }
+      ],
+      "cards": [
+        {
+          "lemma": "accountable",
+          "scope": "whole_entry",
+          "unitId": "etym:accountable",
+          "version": "1.0.0",
+          "summary": "约1400年已有应当作出交代的形容词用法，经法语进入英语；构词联系account，强调可以被要求说明所做之事。",
+          "receipt": {
+            "url": "https://www.etymonline.com/word/accountable",
+            "lemma": "accountable",
+            "status": "ready",
+            "transport": "web_tool_snapshot",
+            "fetchedAt": "2026-11-16T03:41:59.394Z",
+            "artifactPath": "local-evidence/front-sources/web-batch-3.txt",
+            "rawSHA": "0c84ba01d08e5e74e93844cb46d13dd553fbf3b4d979b911eb0489f79e17a3cd",
+            "textSHA": "0d502a7e91ae1f11c3ca21955e168116ea63d43eeacaeaaaf8c908e0e7da311e",
+            "coverage": "entry_section",
+            "parserVersion": "1.0.0"
+          }
+        }
+      ],
+      "scope": "whole_entry",
+      "kind": "word",
+      "wholeHistoryStatus": "sourced"
+    }
+  },
+  "V20261012-017": {
+    "scenario": {
+      "meaning": "截止期限；最后完成时限"
+    },
+    "bridge": {
+      "modern": "最后时限义直接适用，今天作决定是为了让后续工作赶上期限。",
+      "history": "报业中稿件送印的最后时刻提供清晰的旧使用场景；现代用法把同样的时间边界用于其他任务。"
+    },
+    "history": {
+      "refs": [
+        {
+          "unitId": "etym:deadline",
+          "version": "1.0.0",
+          "scope": "whole_entry"
+        }
+      ],
+      "cards": [
+        {
+          "lemma": "deadline",
+          "scope": "whole_entry",
+          "unitId": "etym:deadline",
+          "version": "1.0.0",
+          "summary": "作为时间限制，至迟1919年已用于美国报业，指稿件能送去印刷的最后时刻。词条认为它可能受更早的禁越界线用法影响，未将二者关系说成确定事实。",
+          "receipt": {
+            "url": "https://www.etymonline.com/word/deadline",
+            "lemma": "deadline",
+            "status": "ready",
+            "transport": "web_tool_snapshot",
+            "fetchedAt": "2026-11-16T03:42:13.638Z",
+            "artifactPath": "local-evidence/front-sources/web-extra.txt",
+            "rawSHA": "8b7cc65cd154bffda70f68cb5bc8219eebb339e8920ed2ba613450e29c67fb1c",
+            "textSHA": "d971c3e17a5059d9ad25a5d6cae4fdb9c3a38b94e1be592a6db24efba7894817",
+            "coverage": "entry_section",
+            "parserVersion": "1.0.0"
+          }
+        }
+      ],
+      "scope": "whole_entry",
+      "kind": "word",
+      "wholeHistoryStatus": "sourced"
+    }
+  },
+  "V20261012-021": {
+    "scenario": {
+      "meaning": "可行的；在现有条件下能够做到的"
+    },
+    "bridge": {
+      "modern": "可实现义在这里接受资源条件的检验：用当前资源是否能执行这个选项。",
+      "history": "历史上能够做成的含义，在本句具体落到资源是否足够这一可行性条件。"
+    },
+    "history": {
+      "refs": [
+        {
+          "unitId": "etym:feasible",
+          "version": "1.0.0",
+          "scope": "whole_entry"
+        }
+      ],
+      "cards": [
+        {
+          "lemma": "feasible",
+          "scope": "whole_entry",
+          "unitId": "etym:feasible",
+          "version": "1.0.0",
+          "summary": "15世纪中期经法语进入英语，其法语词形与做、实施有关。早期意义即某件事能够做成或完成。",
+          "receipt": {
+            "url": "https://www.etymonline.com/word/feasible",
+            "lemma": "feasible",
+            "status": "ready",
+            "transport": "web_tool_snapshot",
+            "fetchedAt": "2026-11-16T03:41:59.394Z",
+            "artifactPath": "local-evidence/front-sources/web-batch-3.txt",
+            "rawSHA": "0c84ba01d08e5e74e93844cb46d13dd553fbf3b4d979b911eb0489f79e17a3cd",
+            "textSHA": "b003fffd25f27b885787ec366b3219586f11e64083eb46ec5e4b0c6e7b4358ff",
+            "coverage": "entry_section",
+            "parserVersion": "1.0.0"
+          }
+        }
+      ],
+      "scope": "whole_entry",
+      "kind": "word",
+      "wholeHistoryStatus": "sourced"
+    }
+  },
+  "V20261012-023": {
+    "scenario": {
+      "meaning": "逾期的；超过应完成时间的"
+    },
+    "bridge": {
+      "modern": "这里描述行动已经超过原定时限，后半句要求更新完成时间。",
+      "history": "账单和图书的历史用例体现越过应到时间；当前句子将同样的状态用于工作事项。"
+    },
+    "history": {
+      "refs": [
+        {
+          "unitId": "etym:overdue",
+          "version": "1.0.0",
+          "scope": "whole_entry"
+        }
+      ],
+      "cards": [
+        {
+          "lemma": "overdue",
+          "scope": "whole_entry",
+          "unitId": "etym:overdue",
+          "version": "1.0.0",
+          "summary": "词条记录1845年用于未付账单，1890年用于逾期未还的图书。构词把超过与应到期结合起来，表达已经越过应当完成的时间。",
+          "receipt": {
+            "url": "https://www.etymonline.com/word/overdue",
+            "lemma": "overdue",
+            "status": "ready",
+            "transport": "web_tool_snapshot",
+            "fetchedAt": "2026-11-16T03:41:59.394Z",
+            "artifactPath": "local-evidence/front-sources/web-batch-3.txt",
+            "rawSHA": "0c84ba01d08e5e74e93844cb46d13dd553fbf3b4d979b911eb0489f79e17a3cd",
+            "textSHA": "8906d0a719d698bbb37bc1206d58ce5da7276070833ea18c6058c1ab408cfdf0",
+            "coverage": "entry_section",
+            "parserVersion": "1.0.0"
+          }
+        }
+      ],
+      "scope": "whole_entry",
+      "kind": "word",
+      "wholeHistoryStatus": "sourced"
+    }
+  },
+  "V20261012-025": {
+    "scenario": {
+      "meaning": "积压工作；尚未处理的事项"
+    },
+    "bridge": {
+      "modern": "这里指已积累但尚未完成的工作，先清理这些事项，再接收新请求。",
+      "history": "未完成订单的历史分支与当前积压工作接近；不需要从炉火木柴硬推出现代流程。"
+    },
+    "history": {
+      "refs": [
+        {
+          "unitId": "etym:backlog",
+          "version": "1.0.0",
+          "scope": "whole_entry"
+        }
+      ],
+      "cards": [
+        {
+          "lemma": "backlog",
+          "scope": "whole_entry",
+          "unitId": "etym:backlog",
+          "version": "1.0.0",
+          "summary": "17世纪80年代指放在炉火后方的大木柴。19世纪末有储存待用事物的比喻，1932年记录了未完成订单的积压；后两义的来源联系在词条中保留不确定性。",
+          "receipt": {
+            "url": "https://www.etymonline.com/word/backlog",
+            "lemma": "backlog",
+            "status": "ready",
+            "transport": "web_tool_snapshot",
+            "fetchedAt": "2026-11-16T03:41:59.394Z",
+            "artifactPath": "local-evidence/front-sources/web-batch-3.txt",
+            "rawSHA": "0c84ba01d08e5e74e93844cb46d13dd553fbf3b4d979b911eb0489f79e17a3cd",
+            "textSHA": "16230260d3e745d4938e09d3995fc68479ec74f126f4c57042bceaf3142c2285",
+            "coverage": "entry_section",
+            "parserVersion": "1.0.0"
+          }
+        }
+      ],
+      "scope": "whole_entry",
+      "kind": "word",
+      "wholeHistoryStatus": "sourced"
+    }
+  },
+  "V20261012-026": {
+    "scenario": {
+      "meaning": "瓶颈；限制整体进展的环节"
+    },
+    "bridge": {
+      "modern": "一般阻碍流动的意思在工作流程中具体化，approval step是限制整体推进的环节。",
+      "history": "从狭窄入口到阻碍流动，正好提供本句的理解联系：工作卡在审批环节，像流动受制于窄口。"
+    },
+    "history": {
+      "refs": [
+        {
+          "unitId": "etym:bottleneck",
+          "version": "1.0.0",
+          "scope": "whole_entry"
+        }
+      ],
+      "cards": [
+        {
+          "lemma": "bottleneck",
+          "scope": "whole_entry",
+          "unitId": "etym:bottleneck",
+          "version": "1.0.0",
+          "summary": "19世纪末已有狭窄入口、交通拥堵处的用法，来自瓶子与颈部的组合。1922年记录了任何阻碍流动之物这一扩展义。",
+          "receipt": {
+            "url": "https://www.etymonline.com/word/bottleneck",
+            "lemma": "bottleneck",
+            "status": "ready",
+            "transport": "web_tool_snapshot",
+            "fetchedAt": "2026-11-16T03:41:59.394Z",
+            "artifactPath": "local-evidence/front-sources/web-batch-3.txt",
+            "rawSHA": "0c84ba01d08e5e74e93844cb46d13dd553fbf3b4d979b911eb0489f79e17a3cd",
+            "textSHA": "9ec9f7c916a06a5544c1a329d165b75e86fef1e5a66fbe3f63251ae279cc6d0d",
+            "coverage": "entry_section",
+            "parserVersion": "1.0.0"
+          }
+        }
+      ],
+      "scope": "whole_entry",
+      "kind": "word",
+      "wholeHistoryStatus": "sourced"
+    }
+  },
+  "V20261012-028": {
+    "scenario": {
+      "meaning": "挫折；进展中的阻碍"
+    },
+    "bridge": {
+      "modern": "setback说明进度受到影响，temporary又说明说话者把影响看作暂时的。",
+      "history": "进展受阻是较早已有的名词义；本句沿用这一分支，再用temporary限定持续性。"
+    },
+    "history": {
+      "refs": [
+        {
+          "unitId": "etym:setback",
+          "version": "1.0.0",
+          "scope": "whole_entry"
+        }
+      ],
+      "cards": [
+        {
+          "lemma": "setback",
+          "scope": "whole_entry",
+          "unitId": "etym:setback",
+          "version": "1.0.0",
+          "summary": "17世纪70年代已有进展受阻、倒退的名词用法，来自动词短语。建筑与道路边界的退距义较晚，属于不同使用领域。",
+          "receipt": {
+            "url": "https://www.etymonline.com/word/setback",
+            "lemma": "setback",
+            "status": "ready",
+            "transport": "web_tool_snapshot",
+            "fetchedAt": "2026-11-16T03:41:59.394Z",
+            "artifactPath": "local-evidence/front-sources/web-batch-3.txt",
+            "rawSHA": "0c84ba01d08e5e74e93844cb46d13dd553fbf3b4d979b911eb0489f79e17a3cd",
+            "textSHA": "5cca24225599c3abbcb3b6056dd0ae7ae85394f297b4cfbcd2c44f1612836c68",
+            "coverage": "entry_section",
+            "parserVersion": "1.0.0"
+          }
+        }
+      ],
+      "scope": "whole_entry",
+      "kind": "word",
+      "wholeHistoryStatus": "sourced"
+    }
+  },
+  "V20261012-029": {
+    "scenario": {
+      "meaning": "升级处理；提交更高层协调"
+    },
+    "bridge": {
+      "modern": "这里采用把问题交给更高层处理的用法；团队无法达成一致是建议升级的条件。",
+      "history": "词史中的上升意象可帮助记忆，但这里上移的是处理层级。现代组织用法仍由具体语境说明。"
+    },
+    "history": {
+      "refs": [
+        {
+          "unitId": "etym:escalate",
+          "version": "1.0.0",
+          "scope": "whole_entry"
+        }
+      ],
+      "cards": [
+        {
+          "lemma": "escalate",
+          "scope": "whole_entry",
+          "unitId": "etym:escalate",
+          "version": "1.0.0",
+          "summary": "1922年先记录了使用自动扶梯的用法，由escalator逆构而成。20世纪50年代末、60年代初出现更普遍的程度升高和使之升级的比喻用法。",
+          "receipt": {
+            "url": "https://www.etymonline.com/word/escalate",
+            "lemma": "escalate",
+            "status": "ready",
+            "transport": "web_tool_snapshot",
+            "fetchedAt": "2026-11-16T03:41:59.394Z",
+            "artifactPath": "local-evidence/front-sources/web-batch-3.txt",
+            "rawSHA": "0c84ba01d08e5e74e93844cb46d13dd553fbf3b4d979b911eb0489f79e17a3cd",
+            "textSHA": "9f66369f71c2e2df7c9875d05511dca25bd772c5b17fb65c9aa1f7bb70dc51e1",
+            "coverage": "entry_section",
+            "parserVersion": "1.0.0"
+          }
+        }
+      ],
+      "scope": "whole_entry",
+      "kind": "word",
+      "wholeHistoryStatus": "sourced"
+    }
+  },
+  "V20261012-030": {
+    "scenario": {
+      "meaning": "减轻；缓和不利影响"
+    },
+    "bridge": {
+      "modern": "减轻义作用于schedule risk，提前评审被提出作为降低风险的办法。",
+      "history": "使程度较轻、更可承受的历史意义，与本句减轻日程风险直接相接。"
+    },
+    "history": {
+      "refs": [
+        {
+          "unitId": "etym:mitigate",
+          "version": "1.0.0",
+          "scope": "whole_entry"
+        }
+      ],
+      "cards": [
+        {
+          "lemma": "mitigate",
+          "scope": "whole_entry",
+          "unitId": "etym:mitigate",
+          "version": "1.0.0",
+          "summary": "15世纪初已有缓解疼痛、使程度较轻或更可忍受的用法。拉丁来源涉及使柔和、使温和，延伸到减轻不利影响。",
+          "receipt": {
+            "url": "https://www.etymonline.com/word/mitigate",
+            "lemma": "mitigate",
+            "status": "ready",
+            "transport": "web_tool_snapshot",
+            "fetchedAt": "2026-11-16T03:41:59.413Z",
+            "artifactPath": "local-evidence/front-sources/web-batch-4.txt",
+            "rawSHA": "1d94f0f315341471c208f9d92db74146c3590c8dc186ffe78967698a9b57fe72",
+            "textSHA": "7fca33f82e0185dd7cb1d0ebfde2dcc872c3816e5b33c510fb7e2a2b04e201ec",
+            "coverage": "entry_section",
+            "parserVersion": "1.0.0"
+          }
+        }
+      ],
+      "scope": "whole_entry",
+      "kind": "word",
+      "wholeHistoryStatus": "sourced"
+    }
+  },
+  "V20261012-031": {
+    "scenario": {
+      "meaning": "持续监测；跟踪观察"
+    },
+    "bridge": {
+      "modern": "这里是持续观察进度的动词义，显著变化出现时再报告。",
+      "history": "从质量检查到持续观察的动词发展，与当前跟踪进度的用法相连。"
+    },
+    "history": {
+      "refs": [
+        {
+          "unitId": "etym:monitor",
+          "version": "1.0.0",
+          "scope": "whole_entry"
+        }
+      ],
+      "cards": [
+        {
+          "lemma": "monitor",
+          "scope": "whole_entry",
+          "unitId": "etym:monitor",
+          "version": "1.0.0",
+          "summary": "16世纪的名词可指学校中维持秩序的学生，其拉丁来源是提醒、告诫或监督者。20世纪先见检查无线电信号质量的动词用法，1944年又记录了持续观察、复查的概括用法。",
+          "receipt": {
+            "url": "https://www.etymonline.com/word/monitor",
+            "lemma": "monitor",
+            "status": "ready",
+            "transport": "web_tool_snapshot",
+            "fetchedAt": "2026-11-16T03:41:59.413Z",
+            "artifactPath": "local-evidence/front-sources/web-batch-4.txt",
+            "rawSHA": "1d94f0f315341471c208f9d92db74146c3590c8dc186ffe78967698a9b57fe72",
+            "textSHA": "bca060e75357c132f9445d01ce994abbc18176105dba46d082880460ff353596",
+            "coverage": "entry_excerpt",
+            "parserVersion": "1.0.0"
+          }
+        }
+      ],
+      "scope": "whole_entry",
+      "kind": "word",
+      "wholeHistoryStatus": "sourced"
+    }
+  },
+  "V20261012-032": {
+    "scenario": {
+      "meaning": "重新评估；再次判断"
+    },
+    "bridge": {
+      "modern": "范围已经变化，因此需要再次评估计划；re-明确了重做一次判断的意思。",
+      "history": "再次评估就是这个词较早已有的构词意义，本句给出需要重新评估的原因。"
+    },
+    "history": {
+      "refs": [
+        {
+          "unitId": "etym:reassess",
+          "version": "1.0.0",
+          "scope": "whole_entry"
+        }
+      ],
+      "cards": [
+        {
+          "lemma": "reassess",
+          "scope": "whole_entry",
+          "unitId": "etym:reassess",
+          "version": "1.0.0",
+          "summary": "1803年已有再次评估的用法，由表示再次的re-与assess组合而成。词条同时列出过去式和进行时等派生形式。",
+          "receipt": {
+            "url": "https://www.etymonline.com/word/reassess",
+            "lemma": "reassess",
+            "status": "ready",
+            "transport": "web_tool_snapshot",
+            "fetchedAt": "2026-11-16T03:41:59.413Z",
+            "artifactPath": "local-evidence/front-sources/web-batch-4.txt",
+            "rawSHA": "1d94f0f315341471c208f9d92db74146c3590c8dc186ffe78967698a9b57fe72",
+            "textSHA": "1253d50cca750e2349ca9377e1878d033e3dbccf5274ab0601edd6556e0b1a70",
+            "coverage": "entry_section",
+            "parserVersion": "1.0.0"
+          }
+        }
+      ],
+      "scope": "whole_entry",
+      "kind": "word",
+      "wholeHistoryStatus": "sourced"
+    }
+  },
+  "V20261012-033": {
+    "scenario": {
+      "meaning": "推迟；留待以后处理"
+    },
+    "bridge": {
+      "modern": "采用延后义，until给出延后的终点：缺失数据到达之后再作决定。",
+      "history": "推迟这一词源分支与本句直接对应；它和听从他人判断的另一个defer分支分开管理。"
+    },
+    "history": {
+      "refs": [
+        {
+          "unitId": "etym:defer",
+          "version": "1.0.0",
+          "scope": "whole_entry"
+        }
+      ],
+      "cards": [
+        {
+          "lemma": "defer",
+          "scope": "whole_entry",
+          "unitId": "etym:defer",
+          "version": "1.0.0",
+          "summary": "推迟义在14世纪末已有记录，来源与向外移开、延后有关，历史上与differ同源。另一个表示听从他人判断的defer来自不同拉丁前缀组合，需分开理解。",
+          "receipt": {
+            "url": "https://www.etymonline.com/word/defer",
+            "lemma": "defer",
+            "status": "ready",
+            "transport": "web_tool_snapshot",
+            "fetchedAt": "2026-11-16T03:41:59.413Z",
+            "artifactPath": "local-evidence/front-sources/web-batch-4.txt",
+            "rawSHA": "1d94f0f315341471c208f9d92db74146c3590c8dc186ffe78967698a9b57fe72",
+            "textSHA": "473f8a842c7e0501270ac77a67e82deb104bc6bdbbbbf40269298f3576cc172f",
+            "coverage": "entry_section",
+            "parserVersion": "1.0.0"
+          }
+        }
+      ],
+      "scope": "whole_entry",
+      "kind": "word",
+      "wholeHistoryStatus": "sourced"
+    }
+  },
+  "V20261012-034": {
+    "scenario": {
+      "meaning": "加快；促进更快完成"
+    },
+    "bridge": {
+      "modern": "加快义直接作用于评审，without说明加快过程中仍要保留全部检查。",
+      "history": "解除进展阻碍的词史背景，有助于理解通过让流程更顺畅来加快评审。"
+    },
+    "history": {
+      "refs": [
+        {
+          "unitId": "etym:expedite",
+          "version": "1.0.0",
+          "scope": "whole_entry"
+        }
+      ],
+      "cards": [
+        {
+          "lemma": "expedite",
+          "scope": "whole_entry",
+          "unitId": "etym:expedite",
+          "version": "1.0.0",
+          "summary": "17世纪初已有清除进展阻碍、加快推进的用法。拉丁来源包含解除束缚、准备妥当等意思，其字面构词意象是让双脚摆脱束缚。",
+          "receipt": {
+            "url": "https://www.etymonline.com/word/expedite",
+            "lemma": "expedite",
+            "status": "ready",
+            "transport": "web_tool_snapshot",
+            "fetchedAt": "2026-11-16T03:41:59.413Z",
+            "artifactPath": "local-evidence/front-sources/web-batch-4.txt",
+            "rawSHA": "1d94f0f315341471c208f9d92db74146c3590c8dc186ffe78967698a9b57fe72",
+            "textSHA": "fbce8f32695641567862ab0f9559d1067fae4de2aa9a64e2e0d9fb26c1919d20",
+            "coverage": "entry_section",
+            "parserVersion": "1.0.0"
+          }
+        }
+      ],
+      "scope": "whole_entry",
+      "kind": "word",
+      "wholeHistoryStatus": "sourced"
+    }
+  },
+  "V20261012-035": {
+    "scenario": {
+      "meaning": "解决；使争议或问题得到处理"
+    },
+    "bridge": {
+      "modern": "这里采用解决问题义，范围问题需要在签批前处理清楚。",
+      "history": "从解开、分析到裁定和解决争端的历史分支，可帮助理解把一个未决问题处理清楚。"
+    },
+    "history": {
+      "refs": [
+        {
+          "unitId": "etym:resolve",
+          "version": "1.0.0",
+          "scope": "whole_entry"
+        }
+      ],
+      "cards": [
+        {
+          "lemma": "resolve",
+          "scope": "whole_entry",
+          "unitId": "etym:resolve",
+          "version": "1.0.0",
+          "summary": "14世纪末先见融化、分解等用法，拉丁来源与松开、解开有关。由分析分解进一步发展出决定、裁定，17世纪初已有解决争端的用法。",
+          "receipt": {
+            "url": "https://www.etymonline.com/word/resolve",
+            "lemma": "resolve",
+            "status": "ready",
+            "transport": "web_tool_snapshot",
+            "fetchedAt": "2026-11-16T03:41:59.413Z",
+            "artifactPath": "local-evidence/front-sources/web-batch-4.txt",
+            "rawSHA": "1d94f0f315341471c208f9d92db74146c3590c8dc186ffe78967698a9b57fe72",
+            "textSHA": "3d43ef3ee322359116cffb88e20b92d9e8e5e613cbc825cf4a0409b34630c01e",
+            "coverage": "entry_section",
+            "parserVersion": "1.0.0"
+          }
+        }
+      ],
+      "scope": "whole_entry",
+      "kind": "word",
+      "wholeHistoryStatus": "sourced"
+    }
+  },
+  "V20261012-036": {
+    "scenario": {
+      "meaning": "交接；把工作移交给接手者"
+    },
+    "bridge": {
+      "modern": "移交义落实为团队之间的工作接续，clear强调交接信息清楚可用。",
+      "history": "hand的传递、接管历史提供组成词背景；当前handover表达把工作交给下一团队，整体搭配词史仍可独立补充。"
+    },
+    "history": {
+      "refs": [
+        {
+          "unitId": "etym:hand",
+          "version": "1.0.0",
+          "scope": "component_history"
+        }
+      ],
+      "cards": [
+        {
+          "lemma": "hand",
+          "scope": "component_history",
+          "unitId": "etym:hand",
+          "version": "1.0.0",
+          "summary": "古英语中hand既指手，也能涉及掌握、控制或占有。动词在约1400年已有接管之义，17世纪40年代记录了把东西递给某人的用法；这里是handover组成词的历史资料。",
+          "receipt": {
+            "url": "https://www.etymonline.com/word/hand",
+            "lemma": "hand",
+            "status": "ready",
+            "transport": "web_tool_snapshot",
+            "fetchedAt": "2026-11-16T03:42:13.638Z",
+            "artifactPath": "local-evidence/front-sources/web-extra.txt",
+            "rawSHA": "8b7cc65cd154bffda70f68cb5bc8219eebb339e8920ed2ba613450e29c67fb1c",
+            "textSHA": "3cf24126da090c6c7acfd59580ad8bc4ff1ea07d56c2166963084e4a13a4cf80",
+            "coverage": "entry_section",
+            "parserVersion": "1.0.0"
+          }
+        }
+      ],
+      "scope": "component_history",
+      "kind": "compound",
+      "wholeHistoryStatus": "fetch_failed"
+    }
+  },
+  "V20261012-037": {
+    "scenario": {
+      "meaning": "正式批准；签批"
+    },
+    "bridge": {
+      "modern": "这里是名词批准义，project manager明确批准者，before明确继续执行前需要先取得批准。",
+      "history": "旧条目中的结束活动和正式解除义务，与当前签批存在理解上的联系；此处是编辑联系，不宣称项目批准义由广播结束义直接演变。"
+    },
+    "history": {
+      "refs": [
+        {
+          "unitId": "etym:sign-off",
+          "version": "1.0.0",
+          "scope": "whole_entry"
+        }
+      ],
+      "cards": [
+        {
+          "lemma": "sign-off",
+          "scope": "whole_entry",
+          "unitId": "etym:sign-off",
+          "version": "1.0.0",
+          "summary": "词条记录1942年的结束广播名词用法，对应动词短语更早已有记录。它也提到停止做某事，以及通过正式协议解除债务责任的旧用法；现代项目批准义另按现代词典处理。",
+          "receipt": {
+            "url": "https://www.etymonline.com/word/sign-off",
+            "lemma": "sign-off",
+            "status": "ready",
+            "transport": "web_tool_snapshot",
+            "fetchedAt": "2026-11-16T03:41:59.413Z",
+            "artifactPath": "local-evidence/front-sources/web-batch-4.txt",
+            "rawSHA": "1d94f0f315341471c208f9d92db74146c3590c8dc186ffe78967698a9b57fe72",
+            "textSHA": "c8a23dcb61d28122a54051234aecb7097e21dfbb53c393031541b70b909926e4",
+            "coverage": "entry_section",
+            "parserVersion": "1.0.0"
+          }
+        }
+      ],
+      "scope": "whole_entry",
+      "kind": "fixed_expression",
+      "wholeHistoryStatus": "sourced"
+    }
+  },
+  "V20261012-038": {
+    "scenario": {
+      "meaning": "检查节点；阶段检查点"
+    },
+    "bridge": {
+      "modern": "从检查位置进入流程中的检查节点义，Wednesday afternoon给这个节点安排了时间。",
+      "history": "早期用已知参照核对飞行高度，后来又指实体检查点；本句把核对状态的位置安排为一个时间节点。"
+    },
+    "history": {
+      "refs": [
+        {
+          "unitId": "etym:checkpoint",
+          "version": "1.0.0",
+          "scope": "whole_entry"
+        }
+      ],
+      "cards": [
+        {
+          "lemma": "checkpoint",
+          "scope": "whole_entry",
+          "unitId": "etym:checkpoint",
+          "version": "1.0.0",
+          "summary": "1940年先见于航空，指可供核对飞行高度的已知地形或建筑。1950年记录了旅客接受安全检查的地点义。",
+          "receipt": {
+            "url": "https://www.etymonline.com/word/checkpoint",
+            "lemma": "checkpoint",
+            "status": "ready",
+            "transport": "web_tool_snapshot",
+            "fetchedAt": "2026-11-16T03:41:59.413Z",
+            "artifactPath": "local-evidence/front-sources/web-batch-4.txt",
+            "rawSHA": "1d94f0f315341471c208f9d92db74146c3590c8dc186ffe78967698a9b57fe72",
+            "textSHA": "04951508d44d9eeafa07fa6e57f4b78198d676813612157a9fce88f2385018ce",
+            "coverage": "entry_section",
+            "parserVersion": "1.0.0"
+          }
+        }
+      ],
+      "scope": "whole_entry",
+      "kind": "word",
+      "wholeHistoryStatus": "sourced"
+    }
+  },
+  "V20261012-040": {
+    "scenario": {
+      "meaning": "结果；活动产生的产出"
+    },
+    "bridge": {
+      "modern": "expected说明这是期望结果：本次活动应当形成决定，而不只是继续讨论。",
+      "history": "由某件事产生的结果，是现代名词已有的历史分支；本句再说明希望得到哪一种结果。"
+    },
+    "history": {
+      "refs": [
+        {
+          "unitId": "etym:outcome",
+          "version": "1.0.0",
+          "scope": "whole_entry"
+        }
+      ],
+      "cards": [
+        {
+          "lemma": "outcome",
+          "scope": "whole_entry",
+          "unitId": "etym:outcome",
+          "version": "1.0.0",
+          "summary": "现代结果义在1788年已有记录，起初见于苏格兰英语，19世纪经Carlyle等人的使用而普及。更早的中古英语也曾用它表示出来、出现。",
+          "receipt": {
+            "url": "https://www.etymonline.com/word/outcome",
+            "lemma": "outcome",
+            "status": "ready",
+            "transport": "web_tool_snapshot",
+            "fetchedAt": "2026-11-16T03:41:59.413Z",
+            "artifactPath": "local-evidence/front-sources/web-batch-4.txt",
+            "rawSHA": "1d94f0f315341471c208f9d92db74146c3590c8dc186ffe78967698a9b57fe72",
+            "textSHA": "9755b240e763bba73fe75f8ce32e8a57c9edfe7ccd0f9dc0cff4ce7e689555e9",
+            "coverage": "entry_section",
+            "parserVersion": "1.0.0"
+          }
+        }
+      ],
+      "scope": "whole_entry",
+      "kind": "word",
+      "wholeHistoryStatus": "sourced"
+    }
+  }
+}

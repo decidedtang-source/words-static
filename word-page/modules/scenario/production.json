@@ -1,0 +1,22 @@
+{
+  "id": "scenario",
+  "version": "1.0.0",
+  "dependencies": [],
+  "inputs": [
+    "snapshot",
+    "context"
+  ],
+  "fields": [
+    "meaning",
+    "sourceLabel",
+    "sourceUrl",
+    "sourceDate",
+    "quote",
+    "translation",
+    "quoteType",
+    "context",
+    "highlightTerm",
+    "keyMeaning",
+    "sentenceExplanation"
+  ]
+}

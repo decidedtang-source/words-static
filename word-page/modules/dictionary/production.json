@@ -1,0 +1,17 @@
+{
+  "id": "dictionary",
+  "version": "1.0.0",
+  "dependencies": [],
+  "inputs": [
+    "snapshot",
+    "inventory",
+    "senses",
+    "dictionaryURL"
+  ],
+  "fields": [
+    "dictUrl",
+    "extra",
+    "inventorySenses",
+    "coverageLabel"
+  ]
+}

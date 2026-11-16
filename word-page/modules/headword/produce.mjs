@@ -1,0 +1,1 @@
+export function produce({snapshot:s,verifiedIPA}){return {status:'ready',data:{word:s.term,ipa:verifiedIPA||s.originalIPA||'音标待补',pos:s.originalPOS},provenance:{ipa:verifiedIPA?'verified_source':'original_library'}};}

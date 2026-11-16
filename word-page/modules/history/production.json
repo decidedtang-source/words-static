@@ -1,0 +1,14 @@
+{
+  "id": "history",
+  "version": "1.0.0",
+  "dependencies": [],
+  "inputs": [
+    "snapshot"
+  ],
+  "fields": [
+    "history",
+    "historyUrl",
+    "historyScope",
+    "historyCards"
+  ]
+}

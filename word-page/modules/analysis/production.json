@@ -1,0 +1,11 @@
+{
+  "id": "analysis",
+  "version": "1.0.0",
+  "dependencies": [
+    "bridge"
+  ],
+  "inputs": [],
+  "fields": [
+    "analysisStatus"
+  ]
+}

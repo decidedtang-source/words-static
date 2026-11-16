@@ -1,0 +1,455 @@
+{
+  "version": "1.0.0",
+  "entries": {
+    "objective": {
+      "scenario": {
+        "meaning": "目标；想要达到的结果"
+      },
+      "bridge": {
+        "modern": "从常用的“目标”义进入：to reduce说明目标内容，即减少审批耗时。",
+        "history": "军事上的目标点把行动指向某个终点；本句则把想达到的终点写成“减少审批耗时”。"
+      }
+    },
+    "capacity": {
+      "scenario": {
+        "meaning": "产能；可用资源所能支撑的工作量"
+      },
+      "bridge": {
+        "modern": "这里用的是完成工作或生产的能力义，关注现有资源能承接多少工作。both projects给出要承接的工作量，not enough说明资源承载量不足。",
+        "history": "早期容纳能力与后来的工业生产能力，都围绕能承接多少。本句将这种量的视角用于可用工作资源。"
+      }
+    },
+    "tentative": {
+      "scenario": {
+        "meaning": "暂定的；尚待确认的"
+      },
+      "bridge": {
+        "modern": "从“暂定”进入：日期已经提出，但还需要评审完成后确认。Friday是安排内容，tentative说明它的确定程度。",
+        "history": "试验、尝试的词史有助于理解先提出安排再确认。本句中的日期已经可供讨论，但尚未定案。"
+      }
+    },
+    "pending": {
+      "scenario": {
+        "meaning": "待定的；尚未处理完毕的"
+      },
+      "bridge": {
+        "modern": "pending直接说明approval仍在等待结果。后半句把这个状态与暂不能继续联系起来。",
+        "history": "悬而未决的历史背景在这里仍清晰：批准决定还没有落定。"
+      }
+    },
+    "reservation": {
+      "scenario": {
+        "meaning": "保留意见；顾虑"
+      },
+      "bridge": {
+        "modern": "这里选“顾虑、保留意见”义：说话者对评审前作出承诺有所顾虑，about后面说明顾虑对象。",
+        "history": "早期留存、保留与后来的意见保留可以这样联系：没有交出全部赞同，仍留下需要解决的顾虑。"
+      }
+    },
+    "qualify": {
+      "scenario": {
+        "meaning": "给陈述加限定；附加条件"
+      },
+      "bridge": {
+        "modern": "前部资格义之外，这里采用“限定陈述”义。冒号后的depends on approval就是新加的条件，用它调整先前对日期的说法。",
+        "history": "附加限制的用法早在16世纪已有记录。本句延续这一分支：用批准条件收窄原陈述的适用范围。"
+      }
+    },
+    "infer": {
+      "scenario": {
+        "meaning": "推断；根据已有信息得出结论"
+      },
+      "bridge": {
+        "modern": "从推断义进入：from引出依据，approval是可能推出的结论。not要求读者不要把未回复当作批准依据。",
+        "history": "词史中的带入结论已用于逻辑推理；本句关注的是推理从什么信息出发，以及这个结论能否成立。"
+      }
+    },
+    "provided that": {
+      "scenario": {
+        "meaning": "只要；以……为条件"
+      },
+      "bridge": {
+        "modern": "这是整体使用的条件连接表达，把“可以继续”与“负责人确认范围”连接起来。后半句给出成立条件。",
+        "history": "provided作为条件连接词已有长期记录。本句直接使用这一条件分支，that引出条件内容。"
+      }
+    },
+    "not necessarily": {
+      "scenario": {
+        "meaning": "不一定；未必"
+      },
+      "bridge": {
+        "modern": "它否定的是“任务完成就一定代表问题解决”这层必然联系。完成与解决可能同时发生，但前者不能保证后者。",
+        "history": "necessarily的必然结果义有历史记录；加上not后，当前表达取消必然性。这是现代组合解释，组成词的年代不代表整个短语的起源年代。"
+      }
+    },
+    "verification method": {
+      "scenario": {
+        "meaning": "验证方法；检查是否符合规定要求的方法"
+      },
+      "bridge": {
+        "modern": "verification提供核实的入口，工程语境再明确对照的是规定要求；method是取得相应证据的做法。",
+        "history": "verification提供确认真实性的历史背景，method提供有序方法的背景；工程中对照规定要求的具体含义来自现代专业用法。"
+      }
+    },
+    "validation method": {
+      "scenario": {
+        "meaning": "确认方法；检查是否适合预定用途的方法"
+      },
+      "bridge": {
+        "modern": "这里用工程中的确认义，关注是否适合实际使用。that reflects actual use进一步要求所选方法贴近使用情境。",
+        "history": "validation的确认背景与method的方法背景可以分别阅读；这里把两者用于实际用途的确认，并非由词源推导工程判准。"
+      }
+    },
+    "working definition": {
+      "scenario": {
+        "meaning": "工作定义；暂供当前使用的定义"
+      },
+      "bridge": {
+        "modern": "working限定definition：先采用一个足够支持当前讨论的定义，再依据需要修订。原句要共同约定的是critical defect的含义。",
+        "history": "working曾发展出提供工作基础的用法，definition与划定边界有关；两者合起来，是先为当前讨论划出可用边界。"
+      }
+    },
+    "frame the issue": {
+      "scenario": {
+        "meaning": "界定问题；组织问题的表述角度"
+      },
+      "bridge": {
+        "modern": "选用frame的构思、组织表述义，around说明讨论围绕什么展开；本句把漏掉的检验步骤设为讨论中心。",
+        "history": "frame的组织、构思义与issue的待决定问题义各有历史。本句将两者组合成确定讨论角度的表达。"
+      }
+    },
+    "account for": {
+      "scenario": {
+        "meaning": "占；构成总体的一部分"
+      },
+      "bridge": {
+        "modern": "这里使用“占比”义，most of给出所占份额。评审活动占剩余工作的大部分。",
+        "history": "account的计数、核算背景可帮助记住份额与总体的关系；本句的占比义仍按现代短语用法学习。"
+      }
+    },
+    "lead in the polls": {
+      "scenario": {
+        "meaning": "在民意调查中领先"
+      },
+      "bridge": {
+        "modern": "lead取处于前列的意思，in the polls限定比较范围为民调。continued说明这种领先状态仍在持续。",
+        "history": "lead的处于首位与poll的民意调查分支在这里结合起来：领先发生在支持度调查的比较中。"
+      }
+    },
+    "credulous": {
+      "scenario": {
+        "meaning": "轻信的；容易相信他人的"
+      },
+      "bridge": {
+        "modern": "这里用轻信义描述接受承诺的选民，表达作者对其判断方式的批评。",
+        "history": "容易相信是这个词较早即有的意义。本句承接这一点，把它用于对选民接受承诺方式的评价。"
+      }
+    },
+    "inflation shock": {
+      "scenario": {
+        "meaning": "通胀冲击；物价上涨带来的冲击"
+      },
+      "bridge": {
+        "modern": "inflation说明冲击来自物价上涨，shock强调对既有生活安排的影响。原句说家庭可能难以承受又一次冲击。",
+        "history": "inflation有从膨胀到价格方面的历史发展，shock有从碰撞到强烈影响的发展。当前经济组合将价格变化及其冲击放在一起。"
+      }
+    },
+    "trade-off": {
+      "scenario": {
+        "meaning": "取舍；此消彼长的权衡"
+      },
+      "bridge": {
+        "modern": "前部权衡义直接适用，between列出两个目标：更快交付与更低成本。讨论的是改善一端需要付出什么代价。",
+        "history": "较早的交换表达与后来的利益取舍义相接；本句把要交换或牺牲的利益具体化为速度与成本。"
+      }
+    },
+    "contingency": {
+      "scenario": {
+        "meaning": "可能出现的意外情况；应变事项"
+      },
+      "bridge": {
+        "modern": "contingency修饰plan，说明这是为可能出现的情况准备的计划；if给出的情况是评审人无法参与。",
+        "history": "词史中的可能发生也可能不发生，与本句if条件相呼应：计划提前准备，但触发情形未必出现。"
+      }
+    },
+    "ownership": {
+      "scenario": {
+        "meaning": "承担责任；主动负责"
+      },
+      "bridge": {
+        "modern": "这里选工作中承担事项责任的用法。take ownership问的是谁来负责推进、协调和跟进未结事项。",
+        "history": "所有者身份提供了归属的历史背景；当前工作表达把归属落实为谁对这件事主动负责，是现代使用中的联系。"
+      }
+    },
+    "commitment": {
+      "scenario": {
+        "meaning": "承诺；已答应承担的事项"
+      },
+      "bridge": {
+        "modern": "从承诺义进入，conditions behind要求说明承诺建立在哪些条件上。",
+        "history": "承诺与义务在词史中已有明确分支；本句讨论的是一项承诺及其成立条件。"
+      }
+    },
+    "buffer": {
+      "scenario": {
+        "meaning": "缓冲余量；预留的时间或资源"
+      },
+      "bridge": {
+        "modern": "保护、缓冲义在这里具体化为两天的时间余量，用于吸收评审过程中的变化。",
+        "history": "从吸收撞击的装置到缓和冲击的比喻，本句再把缓冲载体换成预留时间。"
+      }
+    },
+    "constraint": {
+      "scenario": {
+        "meaning": "约束；限制条件"
+      },
+      "bridge": {
+        "modern": "限制义直接落到可用评审人数上，人数影响工作能如何安排。",
+        "history": "绑紧、约束的历史背景可以帮助理解行动空间受限；本句中限制来自可用人数。"
+      }
+    },
+    "preliminary": {
+      "scenario": {
+        "meaning": "初步的；正式结果之前的"
+      },
+      "bridge": {
+        "modern": "preliminary说明发现仍处于初步阶段，not a final conclusion进一步限定了可以如何使用这些结果。",
+        "history": "在主要事项之前的历史用法，在这里对应初步发现与最终结论之间的先后阶段。"
+      }
+    },
+    "milestone": {
+      "scenario": {
+        "meaning": "里程碑；重要阶段节点"
+      },
+      "bridge": {
+        "modern": "项目中的重要节点义直接适用。reached说明该节点已经达到，after the review交代时间。",
+        "history": "道路上的里程标记可以帮助理解进度位置；本句把这种标记用于工作阶段，这是教学理解联系。"
+      }
+    },
+    "priority": {
+      "scenario": {
+        "meaning": "优先事项；优先顺序"
+      },
+      "bridge": {
+        "modern": "set priorities是在安排哪些事情更应先做，remaining work给出排序范围。",
+        "history": "词义从时间上的在先逐渐强调重要性；本句定优先级，正是在决定哪些工作应获得先处理的地位。"
+      }
+    },
+    "dependency": {
+      "scenario": {
+        "meaning": "依赖关系；前置条件"
+      },
+      "bridge": {
+        "modern": "一般依赖义在排期中具体化为任务之间或任务与输入之间的关系；先找出这些关系再定日程。",
+        "history": "依靠其他事物而成立的词史背景，与排期中必须先满足某项条件的关系相通。"
+      }
+    },
+    "assumption": {
+      "scenario": {
+        "meaning": "假设；暂作为成立的前提"
+      },
+      "bridge": {
+        "modern": "这里把某个判断先作为前提使用，但还需要向供应商核对。",
+        "history": "被当作当然成立之事这一历史分支直接相连；当前句子又要求对这个前提进行检查。"
+      }
+    },
+    "baseline": {
+      "scenario": {
+        "meaning": "基准；用于比较的起点"
+      },
+      "bridge": {
+        "modern": "改善需要比较，因此先确定一个基准，后续变化才能有明确参照。",
+        "history": "测量中其他线所依赖的基线，提供了参照起点的历史背景；本句将其用于衡量改善。"
+      }
+    },
+    "sequence": {
+      "scenario": {
+        "meaning": "顺序；先后次序"
+      },
+      "bridge": {
+        "modern": "这里指剩余活动的执行次序，agree on要求共同确定这种先后安排。",
+        "history": "词史中按次序相继出现的一系列事物，与本句中的活动顺序直接相接。"
+      }
+    },
+    "allocate": {
+      "scenario": {
+        "meaning": "分配；拨出供某用途使用"
+      },
+      "bridge": {
+        "modern": "资源分配义直接适用：分配的是更多时间，接受这项资源的是初次评审。",
+        "history": "为特定目的拨出的历史用法，与本句给评审拨出时间的结构一致。"
+      }
+    },
+    "delegate": {
+      "scenario": {
+        "meaning": "委派；把任务交给他人处理"
+      },
+      "bridge": {
+        "modern": "宾语data collection说明交出去的是数据收集任务，to引出接受任务的人。",
+        "history": "派出代表处理事务的历史背景，可帮助理解把任务交给他人代表执行。"
+      }
+    },
+    "accountable": {
+      "scenario": {
+        "meaning": "负有责任的；须作出交代的"
+      },
+      "bridge": {
+        "modern": "这里要求有人对最终决定负责，for说明其需要交代的事项。",
+        "history": "被要求作出交代是词史中的核心；本句把交代对象限定为最终决定。"
+      }
+    },
+    "deadline": {
+      "scenario": {
+        "meaning": "截止期限；最后完成时限"
+      },
+      "bridge": {
+        "modern": "最后时限义直接适用，今天作决定是为了让后续工作赶上期限。",
+        "history": "报业中稿件送印的最后时刻提供清晰的旧使用场景；现代用法把同样的时间边界用于其他任务。"
+      }
+    },
+    "feasible": {
+      "scenario": {
+        "meaning": "可行的；在现有条件下能够做到的"
+      },
+      "bridge": {
+        "modern": "可实现义在这里接受资源条件的检验：用当前资源是否能执行这个选项。",
+        "history": "历史上能够做成的含义，在本句具体落到资源是否足够这一可行性条件。"
+      }
+    },
+    "overdue": {
+      "scenario": {
+        "meaning": "逾期的；超过应完成时间的"
+      },
+      "bridge": {
+        "modern": "这里描述行动已经超过原定时限，后半句要求更新完成时间。",
+        "history": "账单和图书的历史用例体现越过应到时间；当前句子将同样的状态用于工作事项。"
+      }
+    },
+    "backlog": {
+      "scenario": {
+        "meaning": "积压工作；尚未处理的事项"
+      },
+      "bridge": {
+        "modern": "这里指已积累但尚未完成的工作，先清理这些事项，再接收新请求。",
+        "history": "未完成订单的历史分支与当前积压工作接近；不需要从炉火木柴硬推出现代流程。"
+      }
+    },
+    "bottleneck": {
+      "scenario": {
+        "meaning": "瓶颈；限制整体进展的环节"
+      },
+      "bridge": {
+        "modern": "一般阻碍流动的意思在工作流程中具体化，approval step是限制整体推进的环节。",
+        "history": "从狭窄入口到阻碍流动，正好提供本句的理解联系：工作卡在审批环节，像流动受制于窄口。"
+      }
+    },
+    "setback": {
+      "scenario": {
+        "meaning": "挫折；进展中的阻碍"
+      },
+      "bridge": {
+        "modern": "setback说明进度受到影响，temporary又说明说话者把影响看作暂时的。",
+        "history": "进展受阻是较早已有的名词义；本句沿用这一分支，再用temporary限定持续性。"
+      }
+    },
+    "escalate": {
+      "scenario": {
+        "meaning": "升级处理；提交更高层协调"
+      },
+      "bridge": {
+        "modern": "这里采用把问题交给更高层处理的用法；团队无法达成一致是建议升级的条件。",
+        "history": "词史中的上升意象可帮助记忆，但这里上移的是处理层级。现代组织用法仍由具体语境说明。"
+      }
+    },
+    "mitigate": {
+      "scenario": {
+        "meaning": "减轻；缓和不利影响"
+      },
+      "bridge": {
+        "modern": "减轻义作用于schedule risk，提前评审被提出作为降低风险的办法。",
+        "history": "使程度较轻、更可承受的历史意义，与本句减轻日程风险直接相接。"
+      }
+    },
+    "monitor": {
+      "scenario": {
+        "meaning": "持续监测；跟踪观察"
+      },
+      "bridge": {
+        "modern": "这里是持续观察进度的动词义，显著变化出现时再报告。",
+        "history": "从质量检查到持续观察的动词发展，与当前跟踪进度的用法相连。"
+      }
+    },
+    "reassess": {
+      "scenario": {
+        "meaning": "重新评估；再次判断"
+      },
+      "bridge": {
+        "modern": "范围已经变化，因此需要再次评估计划；re-明确了重做一次判断的意思。",
+        "history": "再次评估就是这个词较早已有的构词意义，本句给出需要重新评估的原因。"
+      }
+    },
+    "defer": {
+      "scenario": {
+        "meaning": "推迟；留待以后处理"
+      },
+      "bridge": {
+        "modern": "采用延后义，until给出延后的终点：缺失数据到达之后再作决定。",
+        "history": "推迟这一词源分支与本句直接对应；它和听从他人判断的另一个defer分支分开管理。"
+      }
+    },
+    "expedite": {
+      "scenario": {
+        "meaning": "加快；促进更快完成"
+      },
+      "bridge": {
+        "modern": "加快义直接作用于评审，without说明加快过程中仍要保留全部检查。",
+        "history": "解除进展阻碍的词史背景，有助于理解通过让流程更顺畅来加快评审。"
+      }
+    },
+    "resolve": {
+      "scenario": {
+        "meaning": "解决；使争议或问题得到处理"
+      },
+      "bridge": {
+        "modern": "这里采用解决问题义，范围问题需要在签批前处理清楚。",
+        "history": "从解开、分析到裁定和解决争端的历史分支，可帮助理解把一个未决问题处理清楚。"
+      }
+    },
+    "handover": {
+      "scenario": {
+        "meaning": "交接；把工作移交给接手者"
+      },
+      "bridge": {
+        "modern": "移交义落实为团队之间的工作接续，clear强调交接信息清楚可用。",
+        "history": "hand的传递、接管历史提供组成词背景；当前handover表达把工作交给下一团队，整体搭配词史仍可独立补充。"
+      }
+    },
+    "sign-off": {
+      "scenario": {
+        "meaning": "正式批准；签批"
+      },
+      "bridge": {
+        "modern": "这里是名词批准义，project manager明确批准者，before明确继续执行前需要先取得批准。",
+        "history": "旧条目中的结束活动和正式解除义务，与当前签批存在理解上的联系；此处是编辑联系，不宣称项目批准义由广播结束义直接演变。"
+      }
+    },
+    "checkpoint": {
+      "scenario": {
+        "meaning": "检查节点；阶段检查点"
+      },
+      "bridge": {
+        "modern": "从检查位置进入流程中的检查节点义，Wednesday afternoon给这个节点安排了时间。",
+        "history": "早期用已知参照核对飞行高度，后来又指实体检查点；本句把核对状态的位置安排为一个时间节点。"
+      }
+    },
+    "outcome": {
+      "scenario": {
+        "meaning": "结果；活动产生的产出"
+      },
+      "bridge": {
+        "modern": "expected说明这是期望结果：本次活动应当形成决定，而不只是继续讨论。",
+        "history": "由某件事产生的结果，是现代名词已有的历史分支；本句再说明希望得到哪一种结果。"
+      }
+    }
+  }
+}

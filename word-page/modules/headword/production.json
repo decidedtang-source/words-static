@@ -1,0 +1,14 @@
+{
+  "id": "headword",
+  "version": "1.0.0",
+  "dependencies": [],
+  "inputs": [
+    "snapshot",
+    "verifiedIPA"
+  ],
+  "fields": [
+    "word",
+    "ipa",
+    "pos"
+  ]
+}
