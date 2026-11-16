@@ -21,3 +21,6 @@ test('source types and enums and dangling bridge/practice references are rejecte
  const refs=validateReferences({senses:[],bridge:{anchorRefs:['missing-anchor'],targetRefs:['missing-target']},analysis:{practiceRefs:[{practiceId:'missing-practice',version:'1'}]},practices:[]});
  assert.equal(refs.valid,false);assert.ok(refs.missingRefs.includes('missing-practice'));
 });
+test('historical and contextual evidence cannot reference a nonexistent source',()=>{
+ assert.equal(validateReferences({sources:[{sourceId:'existing',version:'1'}],history:{sourceRefs:[{sourceId:'missing',sourceVersion:'1',locator:'entry',supportedClaim:'date'}]}}).valid,false);
+});

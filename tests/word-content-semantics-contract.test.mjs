@@ -10,3 +10,7 @@ test('quote modification and weak technical evidence block draft',()=>{
  const input={snapshot:{example:'Original.',id:'e'},promptHash:'p'};
  const errors=validateDraft({context:{quote:'Changed.'}},input).errors;assert.ok(errors.some(e=>e.includes('original quote')));
 });
+test('direct caller cannot bypass actual prompt and generation-contract binding',()=>{
+ const errors=validateDraft({context:{quote:'x',entryId:'e'}},{snapshot:{entryId:'e',quote:'x'},promptHash:'fake'}).errors;
+ assert.ok(errors.some(e=>e.includes('BoundInput')));
+});

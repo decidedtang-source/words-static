@@ -70,6 +70,9 @@ export function validateReferences(b){
  for(const ref of b.selection?.inventoryRefs||[])if((typeof ref==='string'?ref:ref.inventoryId)!==b.inventory?.inventoryId)missing.push(typeof ref==='string'?ref:ref.inventoryId);
  for(const ref of b.analysis?.practiceRefs||[])if(!b.practices?.some(p=>p.practiceId===ref.practiceId&&p.version===ref.version))missing.push(ref.practiceId);
  const claims=new Set((b.history?.claims||[]).map(c=>c.claimId));for(const id of [...(b.bridge?.historyClaimRefs||[]),...(b.bridge?.historyLink?.claimRefs||[])])if(!claims.has(id))missing.push(id);
- if(b.sources){for(const ref of [...(b.senses||[]).flatMap(s=>s.sourceRefs||[]),...(b.bridge?.evidenceRefs||[]),...(b.selection?.senses||[]).flatMap(s=>s.evidenceRefs||[]),...(b.analysis?.blocks||[]).flatMap(s=>s.sourceRefs||[])])if(!b.sources.some(s=>s.sourceId===ref.sourceId&&s.version===ref.sourceVersion))missing.push(ref.sourceId);}
+ if(b.sources){const all=[...(b.senses||[]).flatMap(s=>s.sourceRefs||[]),...(b.bridge?.evidenceRefs||[]),...(b.history?.sourceRefs||[]),...(b.history?.claims||[]).flatMap(c=>c.sourceRefs||[]),...(b.selection?.senses||[]).flatMap(s=>[...(s.evidenceRefs||[]),...(s.examples||[]).map(e=>e.sourceRef).filter(Boolean)]),...(b.analysis?.blocks||[]).flatMap(s=>s.sourceRefs||[]),...(b.practices||[]).flatMap(p=>p.sourceRefs||[])];for(const ref of all)if(!b.sources.some(s=>s.sourceId===ref.sourceId&&s.version===ref.sourceVersion))missing.push(ref.sourceId);
+  for(const id of [...(b.inventory?.sources||[]),...(b.context?.sourceRef?[b.context.sourceRef]:[])])if(!b.sources.some(s=>s.sourceId===(typeof id==='string'?id:id.sourceId)))missing.push(typeof id==='string'?id:id.sourceId);
+ }
+ for(const e of b.analysis?.edges||[])if(!b.senses?.some(s=>s.senseId===e.targetId&&s.version===e.targetVersion)&&!b.practices?.some(p=>p.practiceId===e.targetId&&p.version===e.targetVersion))missing.push(e.targetId);
  const missingRefs=[...new Set(missing)];return {valid:!missingRefs.length,missingRefs};}
 export function assertEntity(kind,v){const r=validateEntity(kind,v);if(!r.valid)throw Error(kind+': '+r.errors.join('; '));return v;}
