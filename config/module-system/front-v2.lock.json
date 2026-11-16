@@ -1,0 +1,33 @@
+{
+  "version": "front-system-2.0.0",
+  "base": "front-system-1.0.0",
+  "scope": {
+    "dictionary": "unchanged",
+    "analysis": "pending_build"
+  },
+  "inputPath": "content/module-inputs/front-auto-50-20261116/inputs.json",
+  "files": {
+    "config/module-system/front-v1.lock.json": "eb3b1e51ff93047b8747d6c7957520b1df82454f61fbeb9de77bd663c0663468",
+    "content/module-inputs/front-auto-50-20261116/inputs.json": "783e0f1390dcf167cab6db8ebef070e8a15b5dead2d428452b100f0a22bbb42c",
+    "docs/roadmap/v10/FRONT_AUTOMATION_V2_GUIDE.md": "118ccd4b712ba78ea5c9d9be574ae10c47366e3b1413d88bffaeb49cf9427ba0",
+    "scripts/modules/automation/assemble.mjs": "f4688ce5712612522c86fd203fca2f000fcefef06cece7bae43197006bdb0607",
+    "scripts/modules/automation/build.mjs": "d8c30d8fe22f4c78be25d3864b85aac972032a4c542f6f4e6069295089939a4b",
+    "scripts/modules/automation/collect.mjs": "ac37d8575e5e971b04559c6f8bd2518db9e7abc1525828fdcaeeea19b5b92ed2",
+    "scripts/modules/automation/core.mjs": "2b29961800b53232a3d42ff57c68d80df58badc786cbd29727b3c6f85e225ba1",
+    "scripts/modules/automation/freeze.mjs": "053c1ee26609c100bd35e292ab6e3c4f38665d8bfd2e552d6f9fed58e5a7cdfd",
+    "scripts/modules/automation/html.mjs": "a9187535e64267880f1e08e21653a4146e700538ba0378ed336c9f36455a2b99",
+    "scripts/modules/automation/render.mjs": "0b4ceef72c37f1071a463770d2c27b1edd036d9a6076c7191e07646e258f5761",
+    "scripts/modules/automation/tasks.mjs": "e0ba4a42a6f5e0347b75f487adb9409afa5009c0143a93f3cbd1a1f384cc34bb",
+    "tests/module-automation.test.mjs": "ac511db34acb138462d4a7fe7b8a0d33602ac4c528929830586cb074c7b8d0be",
+    "word-page/modules/analysis/view-v2.html": "763fb450196ef96c38455edef5ebce56b89b8b030a3b1b34bd12a0ccf2a54321",
+    "word-page/modules/headword/PRODUCTION-v2.md": "653235e11e500b49155a55be4695ea0a14aa8004a3dc69b7cc634de912822399",
+    "word-page/modules/headword/behavior-v2.js": "de8ea2fcba787de602efb2c6c3b603ed6f994f161af3eb8bd401a24431129f4a",
+    "word-page/modules/headword/produce-v2.mjs": "7e88ba1c99fab7e87f2d6f306e42757cde2da5d6e8e2d2edc4ced4a32d6b22bf",
+    "word-page/modules/headword/production-v2.json": "c08856cbc2f55797bd9a3e554d80ca17b52b0a290a79ada04cf12b079b74ceea",
+    "word-page/modules/learning/PRODUCTION-v2.md": "413dd0f87a741be1f5dd47987aa3da30eb74cf0e0e95c5225520895d3f7a4584",
+    "word-page/modules/learning/produce-v2.mjs": "dda631fdb5e096c72a2654a1ceefa83e07000193d9abfd9331e4042f76809582",
+    "word-page/modules/learning/production-v2.json": "1c2b10b498ca5fb8843ad3f184ed0516aab672de2ac9f689d02093a0640902e2",
+    "word-page/modules/learning/view-v2-auto.html": "0c2579de641a81389ffe895feb9fdd3ddab9d55464bddbeffe87e0cf4306c5fa",
+    "word-page/system.registry.v2.json": "394ed5b78e7516730cdce1c0b025ae2079ee44667f0c00dea60fba3bccb4911f"
+  }
+}

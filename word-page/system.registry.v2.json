@@ -1,0 +1,158 @@
+{
+  "version": "front-system-2.0.0",
+  "scope": {
+    "analysis": "pending_build",
+    "dictionary": "interface_only"
+  },
+  "modules": [
+    {
+      "id": "headword",
+      "version": "2.0.0",
+      "dependencies": [],
+      "inputs": [
+        "snapshot",
+        "verifiedIPA"
+      ],
+      "fields": [
+        "word",
+        "ipa",
+        "pos",
+        "ipaSource",
+        "pronunciationLang",
+        "audioData",
+        "audioSourceURL"
+      ],
+      "producer": "word-page/modules/headword/produce-v2.mjs"
+    },
+    {
+      "id": "dictionary",
+      "version": "1.0.0",
+      "dependencies": [],
+      "inputs": [
+        "snapshot",
+        "inventory",
+        "senses",
+        "dictionaryURL"
+      ],
+      "fields": [
+        "dictUrl",
+        "extra",
+        "inventorySenses",
+        "coverageLabel"
+      ],
+      "producer": "word-page/modules/dictionary/produce.mjs"
+    },
+    {
+      "id": "learning",
+      "version": "2.0.0",
+      "dependencies": [
+        "dictionary"
+      ],
+      "inputs": [
+        "selection",
+        "senses",
+        "sources"
+      ],
+      "fields": [
+        "general",
+        "senses",
+        "note",
+        "retrieved",
+        "retrieval",
+        "learningSource"
+      ],
+      "producer": "word-page/modules/learning/produce-v2.mjs"
+    },
+    {
+      "id": "history",
+      "version": "1.0.0",
+      "dependencies": [],
+      "inputs": [
+        "snapshot"
+      ],
+      "fields": [
+        "history",
+        "historyUrl",
+        "historyScope",
+        "historyCards"
+      ],
+      "producer": "word-page/modules/history/produce.mjs"
+    },
+    {
+      "id": "scenario",
+      "version": "1.0.0",
+      "dependencies": [],
+      "inputs": [
+        "snapshot",
+        "context"
+      ],
+      "fields": [
+        "meaning",
+        "sourceLabel",
+        "sourceUrl",
+        "sourceDate",
+        "quote",
+        "translation",
+        "quoteType",
+        "context",
+        "highlightTerm",
+        "keyMeaning",
+        "sentenceExplanation"
+      ],
+      "producer": "word-page/modules/scenario/produce.mjs"
+    },
+    {
+      "id": "source-preview",
+      "version": "1.0.0",
+      "dependencies": [
+        "scenario"
+      ],
+      "inputs": [],
+      "fields": [],
+      "producer": "word-page/modules/source-preview/produce.mjs"
+    },
+    {
+      "id": "navigation",
+      "version": "1.0.0",
+      "dependencies": [
+        "learning",
+        "scenario"
+      ],
+      "inputs": [],
+      "fields": [],
+      "producer": "word-page/modules/navigation/produce.mjs"
+    },
+    {
+      "id": "bridge",
+      "version": "1.0.0",
+      "dependencies": [
+        "learning",
+        "history",
+        "scenario"
+      ],
+      "inputs": [
+        "selection",
+        "senses",
+        "bridge"
+      ],
+      "fields": [
+        "bridge",
+        "bridgeHistory",
+        "bridgeTarget"
+      ],
+      "producer": "word-page/modules/bridge/produce.mjs"
+    },
+    {
+      "id": "analysis",
+      "version": "1.0.0",
+      "dependencies": [
+        "bridge"
+      ],
+      "inputs": [],
+      "fields": [
+        "analysisStatus"
+      ],
+      "producer": "word-page/modules/analysis/produce.mjs"
+    }
+  ]
+}

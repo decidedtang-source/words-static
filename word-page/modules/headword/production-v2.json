@@ -1,0 +1,18 @@
+{
+  "id": "headword",
+  "version": "2.0.0",
+  "dependencies": [],
+  "inputs": [
+    "snapshot",
+    "verifiedIPA"
+  ],
+  "fields": [
+    "word",
+    "ipa",
+    "pos",
+    "ipaSource",
+    "pronunciationLang",
+    "audioData",
+    "audioSourceURL"
+  ]
+}
