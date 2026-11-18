@@ -1,0 +1,24 @@
+{
+  "base": "8e93f3e",
+  "cards": 1875,
+  "batches": 15,
+  "identityDifferences": [],
+  "correctedMeanings": [
+    "V20261012-119",
+    "V20261027-116"
+  ],
+  "primaryExampleChanges": 171,
+  "collocationChanges": 41,
+  "workplace": 1500,
+  "reading": 375,
+  "sourceCount": 16,
+  "rollback": "published-before-source-contexts-20261118",
+  "validation": {
+    "unitTestsPassed": 41,
+    "browserTestsPassed": 14,
+    "build": "passed",
+    "mobileScreenshot": "inspected at390px",
+    "independentReview": "findings corrected with regression coverage"
+  },
+  "status": "validated-for-release"
+}

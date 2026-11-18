@@ -4,1624 +4,2775 @@
     "examples": [
       {
         "zh": "为下次评审保留决策轨迹。",
-        "en": "Preserve the decision trail for the next review."
+        "en": "Preserve the decision trail for the next review.",
+        "origin": "workplace-original"
       },
       {
         "zh": "决策轨迹解释了拒绝外包的原因。",
-        "en": "The decision trail explains why we rejected outsourcing."
+        "en": "The decision trail explains why we rejected outsourcing.",
+        "origin": "workplace-original"
       }
-    ]
+    ],
+    "originalExample": "Preserve the decision trail for the next review.",
+    "context": {
+      "kind": "workplace",
+      "scene": "决定依据、异议与授权边界",
+      "sourceId": null
+    },
+    "explanation": "在决定依据、异议与授权边界的工作场景中，能够还原决定形成过程的记录链。"
   },
   "V20261027-002": {
     "gloss": "理由记录",
     "examples": [
       {
         "zh": "关闭事项前完成理由记录。",
-        "en": "Complete the rationale capture before closing the item."
+        "en": "Complete the rationale capture before closing the item.",
+        "origin": "workplace-original"
       },
       {
         "zh": "记录理由只需一小段文字。",
-        "en": "Rationale capture takes only a short paragraph."
+        "en": "Rationale capture takes only a short paragraph.",
+        "origin": "workplace-original"
       }
-    ]
+    ],
+    "originalExample": "Complete the rationale capture before closing the item.",
+    "context": {
+      "kind": "workplace",
+      "scene": "决定依据、异议与授权边界",
+      "sourceId": null
+    },
+    "explanation": "在决定依据、异议与授权边界的工作场景中，把决定背后的理由及时记录下来。"
   },
   "V20261027-003": {
     "gloss": "异议记录",
     "examples": [
       {
         "zh": "意见仍有分歧时保留异议记录。",
-        "en": "Maintain a dissent record when views remain divided."
+        "en": "Maintain a dissent record when views remain divided.",
+        "origin": "workplace-original"
       },
       {
         "zh": "异议记录包含工程师的安全疑虑。",
-        "en": "The dissent record includes the engineer's safety concern."
+        "en": "The dissent record includes the engineer's safety concern.",
+        "origin": "workplace-original"
       }
-    ]
+    ],
+    "originalExample": "Maintain a dissent record when views remain divided.",
+    "context": {
+      "kind": "workplace",
+      "scene": "决定依据、异议与授权边界",
+      "sourceId": null
+    },
+    "explanation": "在决定依据、异议与授权边界的工作场景中，记录未采纳意见及其理由的正式条目。"
   },
   "V20261027-004": {
     "gloss": "假设登记表",
     "examples": [
       {
         "zh": "研讨会后更新假设登记表。",
-        "en": "Update the assumption register after the workshop."
+        "en": "Update the assumption register after the workshop.",
+        "origin": "workplace-original"
       },
       {
         "zh": "假设登记表标记了未经核实的需求数据。",
-        "en": "The assumption register flags unverified demand figures."
+        "en": "The assumption register flags unverified demand figures.",
+        "origin": "workplace-original"
       }
-    ]
+    ],
+    "originalExample": "Update the assumption register after the workshop.",
+    "context": {
+      "kind": "workplace",
+      "scene": "决定依据、异议与授权边界",
+      "sourceId": null
+    },
+    "explanation": "在决定依据、异议与授权边界的工作场景中，集中记录关键假设及其状态的清单。"
   },
   "V20261027-005": {
     "gloss": "决策到期点",
     "examples": [
       {
         "zh": "为临时规则设定决策到期点。",
-        "en": "Set a decision expiry for the temporary rule."
+        "en": "Set a decision expiry for the temporary rule.",
+        "origin": "workplace-original"
       },
       {
         "zh": "决策到期点会触发重新评审。",
-        "en": "The decision expiry prompts a fresh review."
+        "en": "The decision expiry prompts a fresh review.",
+        "origin": "workplace-original"
       }
-    ]
+    ],
+    "originalExample": "Set a decision expiry for the temporary rule.",
+    "context": {
+      "kind": "workplace",
+      "scene": "决定依据、异议与授权边界",
+      "sourceId": null
+    },
+    "explanation": "在决定依据、异议与授权边界的工作场景中，某项决定需要重新评估的失效时间点。"
   },
   "V20261027-006": {
     "gloss": "可逆选择",
     "examples": [
       {
         "zh": "证据有限时作出可逆选择。",
-        "en": "Make a reversible choice while evidence is limited."
+        "en": "Make a reversible choice while evidence is limited.",
+        "origin": "workplace-original"
       },
       {
         "zh": "租赁设备是可逆选择。",
-        "en": "Renting equipment is a reversible choice."
+        "en": "Renting equipment is a reversible choice.",
+        "origin": "workplace-original"
       }
-    ]
+    ],
+    "originalExample": "Make a reversible choice while evidence is limited.",
+    "context": {
+      "kind": "workplace",
+      "scene": "决定依据、异议与授权边界",
+      "sourceId": null
+    },
+    "explanation": "在决定依据、异议与授权边界的工作场景中，可以较低成本撤回或调整的选择。"
   },
   "V20261027-007": {
     "gloss": "不可逆选择",
     "examples": [
       {
         "zh": "将每个不可逆选择标记给高层审查。",
-        "en": "Flag every irreversible choice for senior review."
+        "en": "Flag every irreversible choice for senior review.",
+        "origin": "workplace-original"
       },
       {
         "zh": "拆除仓库是不可逆选择。",
-        "en": "Demolishing the warehouse is an irreversible choice."
+        "en": "Demolishing the warehouse is an irreversible choice.",
+        "origin": "workplace-original"
       }
-    ]
+    ],
+    "originalExample": "Flag every irreversible choice for senior review.",
+    "context": {
+      "kind": "workplace",
+      "scene": "决定依据、异议与授权边界",
+      "sourceId": null
+    },
+    "explanation": "在决定依据、异议与授权边界的工作场景中，一旦执行便难以撤销的选择。"
   },
   "V20261027-008": {
     "gloss": "决策窗口",
     "examples": [
       {
         "zh": "尽早分享数据以保住决策窗口。",
-        "en": "Protect the decision window by sharing the data early."
+        "en": "Protect the decision window by sharing the data early.",
+        "origin": "workplace-original"
       },
       {
         "zh": "我们的决策窗口在供应商停工前结束。",
-        "en": "Our decision window closes before the supplier's shutdown."
+        "en": "Our decision window closes before the supplier's shutdown.",
+        "origin": "workplace-original"
       }
-    ]
+    ],
+    "originalExample": "Protect the decision window by sharing the data early.",
+    "context": {
+      "kind": "workplace",
+      "scene": "决定依据、异议与授权边界",
+      "sourceId": null
+    },
+    "explanation": "在决定依据、异议与授权边界的工作场景中，可在不造成额外损失前作出决定的时间范围。"
   },
   "V20261027-009": {
     "gloss": "权限边界",
     "examples": [
       {
         "zh": "升级处理时尊重权限边界。",
-        "en": "Respect the authority boundary during the escalation."
+        "en": "Respect the authority boundary during the escalation.",
+        "origin": "workplace-original"
       },
       {
         "zh": "权限边界不包含招聘决定。",
-        "en": "The authority boundary excludes hiring decisions."
+        "en": "The authority boundary excludes hiring decisions.",
+        "origin": "workplace-original"
       }
-    ]
+    ],
+    "originalExample": "Respect the authority boundary during the escalation.",
+    "context": {
+      "kind": "workplace",
+      "scene": "决定依据、异议与授权边界",
+      "sourceId": null
+    },
+    "explanation": "在决定依据、异议与授权边界的工作场景中，某角色可自行决定事项的明确边界。"
   },
   "V20261027-010": {
     "gloss": "同意门槛",
     "examples": [
       {
         "zh": "改变政策前达到同意门槛。",
-        "en": "Meet the consent threshold before changing the policy."
+        "en": "Meet the consent threshold before changing the policy.",
+        "origin": "workplace-original"
       },
       {
         "zh": "同意门槛要求四份书面批准。",
-        "en": "The consent threshold requires four written approvals."
+        "en": "The consent threshold requires four written approvals.",
+        "origin": "workplace-original"
       }
-    ]
+    ],
+    "originalExample": "Meet the consent threshold before changing the policy.",
+    "context": {
+      "kind": "workplace",
+      "scene": "决定依据、异议与授权边界",
+      "sourceId": null
+    },
+    "explanation": "在决定依据、异议与授权边界的工作场景中，获得足够同意后才能推进的最低标准。"
   },
   "V20261027-011": {
     "gloss": "议程纪律",
     "examples": [
       {
         "zh": "出现新问题时维持议程纪律。",
-        "en": "Maintain agenda discipline when new issues emerge."
+        "en": "Maintain agenda discipline when new issues emerge.",
+        "origin": "workplace-original"
       },
       {
         "zh": "议程纪律使评审控制在一小时内。",
-        "en": "Agenda discipline kept the review under an hour."
+        "en": "Agenda discipline kept the review under an hour.",
+        "origin": "workplace-original"
       }
-    ]
+    ],
+    "originalExample": "Maintain agenda discipline when new issues emerge.",
+    "context": {
+      "kind": "workplace",
+      "scene": "会议节奏、发言与会后追踪",
+      "sourceId": null
+    },
+    "explanation": "在会议节奏、发言与会后追踪的工作场景中，围绕既定议题和目标控制会议的做法。"
   },
   "V20261027-012": {
     "gloss": "发言顺序",
     "examples": [
       {
         "zh": "开始时确认发言顺序。",
-        "en": "Confirm the speaking order at the start."
+        "en": "Confirm the speaking order at the start.",
+        "origin": "workplace-original"
       },
       {
         "zh": "发言顺序安排操作员先于经理发言。",
-        "en": "The speaking order puts operators before managers."
+        "en": "The speaking order puts operators before managers.",
+        "origin": "workplace-original"
       }
-    ]
+    ],
+    "originalExample": "Confirm the speaking order at the start.",
+    "context": {
+      "kind": "workplace",
+      "scene": "会议节奏、发言与会后追踪",
+      "sourceId": null
+    },
+    "explanation": "在会议节奏、发言与会后追踪的工作场景中，会议中发言先后及轮次安排。"
   },
   "V20261027-013": {
     "gloss": "超出限定时长",
     "examples": [
       {
         "zh": "暂存次要细节以防讨论超时。",
-        "en": "Prevent a timebox overrun by parking minor details."
+        "en": "Prevent a timebox overrun by parking minor details.",
+        "origin": "workplace-original"
       },
       {
         "zh": "未解争议导致限时超时。",
-        "en": "The unresolved dispute caused a timebox overrun."
+        "en": "The unresolved dispute caused a timebox overrun.",
+        "origin": "workplace-original"
       }
-    ]
+    ],
+    "originalExample": "Prevent a timebox overrun by parking minor details.",
+    "context": {
+      "kind": "workplace",
+      "scene": "会议节奏、发言与会后追踪",
+      "sourceId": null
+    },
+    "explanation": "在会议节奏、发言与会后追踪的工作场景中，讨论超过预先分配时间的情况。"
   },
   "V20261027-014": {
     "gloss": "未解决异议",
     "examples": [
       {
         "zh": "投票前提出任何未解决异议。",
-        "en": "Surface any unresolved objection before the vote."
+        "en": "Surface any unresolved objection before the vote.",
+        "origin": "workplace-original"
       },
       {
         "zh": "有一项未解决异议涉及紧急通道。",
-        "en": "One unresolved objection concerns emergency access."
+        "en": "One unresolved objection concerns emergency access.",
+        "origin": "workplace-original"
       }
-    ]
+    ],
+    "originalExample": "Surface any unresolved objection before the vote.",
+    "context": {
+      "kind": "workplace",
+      "scene": "会议节奏、发言与会后追踪",
+      "sourceId": null
+    },
+    "explanation": "在会议节奏、发言与会后追踪的工作场景中，尚未得到回应或处理的反对意见。"
   },
   "V20261027-015": {
     "gloss": "讨论支线",
     "examples": [
       {
         "zh": "将讨论支线与今天的决策分开。",
-        "en": "Separate the discussion fork from today's decision."
+        "en": "Separate the discussion fork from today's decision.",
+        "origin": "workplace-original"
       },
       {
         "zh": "培训成本成为单独的讨论支线。",
-        "en": "Training costs became a separate discussion fork."
+        "en": "Training costs became a separate discussion fork.",
+        "origin": "workplace-original"
       }
-    ]
+    ],
+    "originalExample": "Separate the discussion fork from today's decision.",
+    "context": {
+      "kind": "workplace",
+      "scene": "会议节奏、发言与会后追踪",
+      "sourceId": null
+    },
+    "explanation": "在会议节奏、发言与会后追踪的工作场景中，讨论从主线分出、需要另行处理的支线。"
   },
   "V20261027-016": {
     "gloss": "总结确认节点",
     "examples": [
       {
         "zh": "每三十分钟设置一次总结确认节点。",
-        "en": "Use a summary checkpoint every thirty minutes."
+        "en": "Use a summary checkpoint every thirty minutes.",
+        "origin": "workplace-original"
       },
       {
         "zh": "总结确认节点揭示了相互冲突的假设。",
-        "en": "A summary checkpoint revealed conflicting assumptions."
+        "en": "A summary checkpoint revealed conflicting assumptions.",
+        "origin": "workplace-original"
       }
-    ]
+    ],
+    "originalExample": "Use a summary checkpoint every thirty minutes.",
+    "context": {
+      "kind": "workplace",
+      "scene": "会议节奏、发言与会后追踪",
+      "sourceId": null
+    },
+    "explanation": "在会议节奏、发言与会后追踪的工作场景中，中途复述共识和未决项的确认节点。"
   },
   "V20261027-017": {
     "gloss": "默示同意",
     "examples": [
       {
         "zh": "高风险变更不要依靠默示同意。",
-        "en": "Avoid silent agreement on high-risk changes."
+        "en": "Avoid silent agreement on high-risk changes.",
+        "origin": "workplace-original"
       },
       {
         "zh": "在这里不应把沉默算作默示同意。",
-        "en": "Silence should not count as silent agreement here."
+        "en": "Silence should not count as silent agreement here.",
+        "origin": "workplace-original"
       }
-    ]
+    ],
+    "originalExample": "Avoid silent agreement on high-risk changes.",
+    "context": {
+      "kind": "workplace",
+      "scene": "会议节奏、发言与会后追踪",
+      "sourceId": null
+    },
+    "explanation": "在会议节奏、发言与会后追踪的工作场景中，没有明确表态、仅由沉默推定的同意。"
   },
   "V20261027-018": {
     "gloss": "明确赞同",
     "examples": [
       {
         "zh": "要求每位批准人明确表达赞同。",
-        "en": "Request explicit concurrence from every approver."
+        "en": "Request explicit concurrence from every approver.",
+        "origin": "workplace-original"
       },
       {
         "zh": "我们需要安全负责人明确赞同。",
-        "en": "We need explicit concurrence from the safety lead."
+        "en": "We need explicit concurrence from the safety lead.",
+        "origin": "workplace-original"
       }
-    ]
+    ],
+    "originalExample": "Request explicit concurrence from every approver.",
+    "context": {
+      "kind": "workplace",
+      "scene": "会议节奏、发言与会后追踪",
+      "sourceId": null
+    },
+    "explanation": "在会议节奏、发言与会后追踪的工作场景中，相关方清楚表达的一致同意。"
   },
   "V20261027-019": {
     "gloss": "跟进节奏",
     "examples": [
       {
         "zh": "为未完成行动设定跟进节奏。",
-        "en": "Set a follow-up cadence for open actions."
+        "en": "Set a follow-up cadence for open actions.",
+        "origin": "workplace-original"
       },
       {
         "zh": "我们的跟进频率为每周两次。",
-        "en": "Our follow-up cadence is twice a week."
+        "en": "Our follow-up cadence is twice a week.",
+        "origin": "workplace-original"
       }
-    ]
+    ],
+    "originalExample": "Set a follow-up cadence for open actions.",
+    "context": {
+      "kind": "workplace",
+      "scene": "会议节奏、发言与会后追踪",
+      "sourceId": null
+    },
+    "explanation": "在会议节奏、发言与会后追踪的工作场景中，会后追踪事项的固定频率。"
   },
   "V20261027-020": {
     "gloss": "延后议题",
     "examples": [
       {
         "zh": "只允许将有明确负责人的议题延后。",
-        "en": "Limit postponed agenda items to those with named owners."
+        "en": "Limit postponed agenda items to those with named owners.",
+        "origin": "workplace-original"
       },
       {
         "zh": "延后议题周四重新讨论。",
-        "en": "The postponed agenda item returns on Thursday."
+        "en": "The postponed agenda item returns on Thursday.",
+        "origin": "workplace-original"
       }
-    ]
+    ],
+    "originalExample": "Limit postponed agenda items to those with named owners.",
+    "context": {
+      "kind": "workplace",
+      "scene": "会议节奏、发言与会后追踪",
+      "sourceId": null
+    },
+    "explanation": "在会议节奏、发言与会后追踪的工作场景中，未完成并明确转入后续会议处理的议题。"
   },
   "V20261027-021": {
     "gloss": "产能边界",
     "examples": [
       {
         "zh": "接收需求前定义产能边界。",
-        "en": "Define the capacity envelope before accepting demand."
+        "en": "Define the capacity envelope before accepting demand.",
+        "origin": "workplace-original"
       },
       {
         "zh": "产能边界不包含周末生产。",
-        "en": "The capacity envelope excludes weekend production."
+        "en": "The capacity envelope excludes weekend production.",
+        "origin": "workplace-original"
       }
-    ]
+    ],
+    "originalExample": "Define the capacity envelope before accepting demand.",
+    "context": {
+      "kind": "workplace",
+      "scene": "产能、需求与资源取舍",
+      "sourceId": null
+    },
+    "explanation": "在产能、需求与资源取舍的工作场景中，在约束条件下可承载工作的总体范围。"
   },
   "V20261027-022": {
     "gloss": "需求平滑",
     "examples": [
       {
         "zh": "在未来三周实施需求平滑。",
-        "en": "Apply demand smoothing across the next three weeks."
+        "en": "Apply demand smoothing across the next three weeks.",
+        "origin": "workplace-original"
       },
       {
         "zh": "较小的每周订单有助于需求平滑。",
-        "en": "Smaller weekly orders support demand smoothing."
+        "en": "Smaller weekly orders support demand smoothing.",
+        "origin": "workplace-original"
       }
-    ]
+    ],
+    "originalExample": "Apply demand smoothing across the next three weeks.",
+    "context": {
+      "kind": "workplace",
+      "scene": "产能、需求与资源取舍",
+      "sourceId": null
+    },
+    "explanation": "在产能、需求与资源取舍的工作场景中，通过调整时间或批量减少需求波动。"
   },
   "V20261027-023": {
     "gloss": "资源冲突",
     "examples": [
       {
         "zh": "冻结计划前解决资源冲突。",
-        "en": "Resolve the resource collision before freezing the plan."
+        "en": "Resolve the resource collision before freezing the plan.",
+        "origin": "workplace-original"
       },
       {
         "zh": "两项审核造成了资源冲突。",
-        "en": "Two audits created a resource collision."
+        "en": "Two audits created a resource collision.",
+        "origin": "workplace-original"
       }
-    ]
+    ],
+    "originalExample": "Resolve the resource collision before freezing the plan.",
+    "context": {
+      "kind": "workplace",
+      "scene": "产能、需求与资源取舍",
+      "sourceId": null
+    },
+    "explanation": "在产能、需求与资源取舍的工作场景中，多个任务在同一时间争用同一资源。"
   },
   "V20261027-024": {
     "gloss": "技能瓶颈",
     "examples": [
       {
         "zh": "交叉培训可以消除技能瓶颈。",
-        "en": "Cross-training can remove the skills bottleneck."
+        "en": "Cross-training can remove the skills bottleneck.",
+        "origin": "workplace-original"
       },
       {
         "zh": "焊工短缺造成了技能瓶颈。",
-        "en": "A shortage of welders created a skills bottleneck."
+        "en": "A shortage of welders created a skills bottleneck.",
+        "origin": "workplace-original"
       }
-    ]
+    ],
+    "originalExample": "Cross-training can remove the skills bottleneck.",
+    "context": {
+      "kind": "workplace",
+      "scene": "产能、需求与资源取舍",
+      "sourceId": null
+    },
+    "explanation": "在产能、需求与资源取舍的工作场景中，因关键技能稀缺而形成的进度限制。"
   },
   "V20261027-025": {
     "gloss": "工作负荷上限",
     "examples": [
       {
         "zh": "为上线期设定工作负荷上限。",
-        "en": "Set a workload ceiling for the launch period."
+        "en": "Set a workload ceiling for the launch period.",
+        "origin": "workplace-original"
       },
       {
         "zh": "工作负荷上限保障了维护时间。",
-        "en": "The workload ceiling protects time for maintenance."
+        "en": "The workload ceiling protects time for maintenance.",
+        "origin": "workplace-original"
       }
-    ]
+    ],
+    "originalExample": "Set a workload ceiling for the launch period.",
+    "context": {
+      "kind": "workplace",
+      "scene": "产能、需求与资源取舍",
+      "sourceId": null
+    },
+    "explanation": "在产能、需求与资源取舍的工作场景中，团队在可持续条件下能承担的工作上限。"
   },
   "V20261027-026": {
     "gloss": "加班风险敞口",
     "examples": [
       {
         "zh": "恢复计划中限制加班风险敞口。",
-        "en": "Limit overtime exposure in the recovery plan."
+        "en": "Limit overtime exposure in the recovery plan.",
+        "origin": "workplace-original"
       },
       {
         "zh": "反复安排周末班增加了加班风险敞口。",
-        "en": "Repeated weekend shifts increased overtime exposure."
+        "en": "Repeated weekend shifts increased overtime exposure.",
+        "origin": "workplace-original"
       }
-    ]
+    ],
+    "originalExample": "Limit overtime exposure in the recovery plan.",
+    "context": {
+      "kind": "workplace",
+      "scene": "产能、需求与资源取舍",
+      "sourceId": null
+    },
+    "explanation": "在产能、需求与资源取舍的工作场景中，计划因长期依赖加班而面临的人员和质量风险。"
   },
   "V20261027-027": {
     "gloss": "备用产能",
     "examples": [
       {
         "zh": "保留备用产能用于紧急检验。",
-        "en": "Hold reserve capacity for urgent inspections."
+        "en": "Hold reserve capacity for urgent inspections.",
+        "origin": "workplace-original"
       },
       {
         "zh": "备用产能承接了紧急订单。",
-        "en": "Reserve capacity absorbed the rush order."
+        "en": "Reserve capacity absorbed the rush order.",
+        "origin": "workplace-original"
       }
-    ]
+    ],
+    "originalExample": "Hold reserve capacity for urgent inspections.",
+    "context": {
+      "kind": "workplace",
+      "scene": "产能、需求与资源取舍",
+      "sourceId": null
+    },
+    "explanation": "在产能、需求与资源取舍的工作场景中，为波动或突发任务保留的能力。"
   },
   "V20261027-028": {
     "gloss": "顺序约束",
     "examples": [
       {
         "zh": "制造计划中遵守顺序约束。",
-        "en": "Honor the sequence constraint in the build plan."
+        "en": "Honor the sequence constraint in the build plan.",
+        "origin": "workplace-original"
       },
       {
         "zh": "先固化后测试是一项顺序约束。",
-        "en": "Curing before testing is a sequence constraint."
+        "en": "Curing before testing is a sequence constraint.",
+        "origin": "workplace-original"
       }
-    ]
+    ],
+    "originalExample": "Honor the sequence constraint in the build plan.",
+    "context": {
+      "kind": "workplace",
+      "scene": "产能、需求与资源取舍",
+      "sourceId": null
+    },
+    "explanation": "在产能、需求与资源取舍的工作场景中，要求活动按特定先后顺序进行的限制。"
   },
   "V20261027-029": {
     "gloss": "人员应急安排",
     "examples": [
       {
         "zh": "为假期那周准备人员应急安排。",
-        "en": "Prepare a staffing contingency for the holiday week."
+        "en": "Prepare a staffing contingency for the holiday week.",
+        "origin": "workplace-original"
       },
       {
         "zh": "我们的人员应急安排采用受训替班操作员。",
-        "en": "Our staffing contingency uses trained relief operators."
+        "en": "Our staffing contingency uses trained relief operators.",
+        "origin": "workplace-original"
       }
-    ]
+    ],
+    "originalExample": "Prepare a staffing contingency for the holiday week.",
+    "context": {
+      "kind": "workplace",
+      "scene": "产能、需求与资源取舍",
+      "sourceId": null
+    },
+    "explanation": "在产能、需求与资源取舍的工作场景中，人员不足时可启动的替代安排。"
   },
   "V20261027-030": {
     "gloss": "分配取舍",
     "examples": [
       {
         "zh": "向两个团队解释资源分配取舍。",
-        "en": "Explain the allocation trade-off to both teams."
+        "en": "Explain the allocation trade-off to both teams.",
+        "origin": "workplace-original"
       },
       {
         "zh": "这项分配取舍会推迟较小项目。",
-        "en": "The allocation trade-off delays the smaller project."
+        "en": "The allocation trade-off delays the smaller project.",
+        "origin": "workplace-original"
       }
-    ]
+    ],
+    "originalExample": "Explain the allocation trade-off to both teams.",
+    "context": {
+      "kind": "workplace",
+      "scene": "产能、需求与资源取舍",
+      "sourceId": null
+    },
+    "explanation": "在产能、需求与资源取舍的工作场景中，资源分配给一处就会减少另一处可用量的取舍。"
   },
   "V20261027-031": {
     "gloss": "报价到期",
     "examples": [
       {
         "zh": "批准前检查报价到期情况。",
-        "en": "Check quote expiration before approval."
+        "en": "Check quote expiration before approval.",
+        "origin": "workplace-original"
       },
       {
         "zh": "报价到期后我们需要重新询价。",
-        "en": "Quote expiration requires us to request updated prices."
+        "en": "Quote expiration requires us to request updated prices.",
+        "origin": "workplace-original"
       }
-    ]
+    ],
+    "originalExample": "Check quote expiration before approval.",
+    "context": {
+      "kind": "workplace",
+      "scene": "报价、付款与采购决策",
+      "sourceId": null
+    },
+    "explanation": "在报价、付款与采购决策的工作场景中，供应商报价停止有效的日期或条件。"
   },
   "V20261027-032": {
     "gloss": "价格折扣门槛",
     "examples": [
       {
         "zh": "检查需求是否达到价格折扣门槛。",
-        "en": "Check whether demand reaches the price-break threshold."
+        "en": "Check whether demand reaches the price-break threshold.",
+        "origin": "workplace-original"
       },
       {
         "zh": "价格折扣门槛为五百件。",
-        "en": "The price-break threshold is five hundred units."
+        "en": "The price-break threshold is five hundred units.",
+        "origin": "workplace-original"
       }
-    ]
+    ],
+    "originalExample": "Check whether demand reaches the price-break threshold.",
+    "context": {
+      "kind": "workplace",
+      "scene": "报价、付款与采购决策",
+      "sourceId": null
+    },
+    "explanation": "在报价、付款与采购决策的工作场景中，采购量达到后单价发生变化的数量门槛。"
   },
   "V20261027-033": {
     "gloss": "商务风险敞口",
     "examples": [
       {
         "zh": "签署前限制商务风险敞口。",
-        "en": "Limit commercial exposure before signing."
+        "en": "Limit commercial exposure before signing.",
+        "origin": "workplace-original"
       },
       {
         "zh": "无上限罚款增加了我们的商务风险敞口。",
-        "en": "Uncapped penalties increase our commercial exposure."
+        "en": "Uncapped penalties increase our commercial exposure.",
+        "origin": "workplace-original"
       }
-    ]
+    ],
+    "originalExample": "Limit commercial exposure before signing.",
+    "context": {
+      "kind": "workplace",
+      "scene": "报价、付款与采购决策",
+      "sourceId": null
+    },
+    "explanation": "在报价、付款与采购决策的工作场景中，合同或交易条件可能造成的财务风险范围。"
   },
   "V20261027-034": {
     "gloss": "最低订购量负担",
     "examples": [
       {
         "zh": "在提案中量化最低订购量负担。",
-        "en": "Quantify the minimum-order burden in the proposal."
+        "en": "Quantify the minimum-order burden in the proposal.",
+        "origin": "workplace-original"
       },
       {
         "zh": "合并订单可降低最低订购量负担。",
-        "en": "Shared orders reduce the minimum-order burden."
+        "en": "Shared orders reduce the minimum-order burden.",
+        "origin": "workplace-original"
       }
-    ]
+    ],
+    "originalExample": "Quantify the minimum-order burden in the proposal.",
+    "context": {
+      "kind": "workplace",
+      "scene": "报价、付款与采购决策",
+      "sourceId": null
+    },
+    "explanation": "在报价、付款与采购决策的工作场景中，最低订购量带来的库存或现金压力。"
   },
   "V20261027-035": {
     "gloss": "工装摊销",
     "examples": [
       {
         "zh": "按预测数量审查工装摊销。",
-        "en": "Review tooling amortization across the forecast volume."
+        "en": "Review tooling amortization across the forecast volume.",
+        "origin": "workplace-original"
       },
       {
         "zh": "工装摊销使每件成本增加两美元。",
-        "en": "Tooling amortization adds two dollars per unit."
+        "en": "Tooling amortization adds two dollars per unit.",
+        "origin": "workplace-original"
       }
-    ]
+    ],
+    "originalExample": "Review tooling amortization across the forecast volume.",
+    "context": {
+      "kind": "workplace",
+      "scene": "报价、付款与采购决策",
+      "sourceId": null
+    },
+    "explanation": "在报价、付款与采购决策的工作场景中，将工装成本分摊到一定产量或期间的做法。"
   },
   "V20261027-036": {
     "gloss": "阶段付款触发条件",
     "examples": [
       {
         "zh": "开票前验证阶段付款触发条件。",
-        "en": "Verify the staged-payment trigger before invoicing."
+        "en": "Verify the staged-payment trigger before invoicing.",
+        "origin": "workplace-original"
       },
       {
         "zh": "安装签核是阶段付款触发条件。",
-        "en": "Installation sign-off is the staged-payment trigger."
+        "en": "Installation sign-off is the staged-payment trigger.",
+        "origin": "workplace-original"
       }
-    ]
+    ],
+    "originalExample": "Verify the staged-payment trigger before invoicing.",
+    "context": {
+      "kind": "workplace",
+      "scene": "报价、付款与采购决策",
+      "sourceId": null
+    },
+    "explanation": "在报价、付款与采购决策的工作场景中，达到特定成果后启动分阶段付款的条件。"
   },
   "V20261027-037": {
     "gloss": "运费假设",
     "examples": [
       {
         "zh": "在报价中说明运费假设。",
-        "en": "State the freight assumption in the quotation."
+        "en": "State the freight assumption in the quotation.",
+        "origin": "workplace-original"
       },
       {
         "zh": "运费假设采用标准海运。",
-        "en": "The freight assumption uses standard sea shipping."
+        "en": "The freight assumption uses standard sea shipping.",
+        "origin": "workplace-original"
       }
-    ]
+    ],
+    "originalExample": "State the freight assumption in the quotation.",
+    "context": {
+      "kind": "workplace",
+      "scene": "报价、付款与采购决策",
+      "sourceId": null
+    },
+    "explanation": "在报价、付款与采购决策的工作场景中，成本或计划中对运输方式和费用的预设。"
   },
   "V20261027-038": {
     "gloss": "交期溢价",
     "examples": [
       {
         "zh": "仅在收益明确时批准交期溢价。",
-        "en": "Approve a lead-time premium only with clear benefit."
+        "en": "Approve a lead-time premium only with clear benefit.",
+        "origin": "workplace-original"
       },
       {
         "zh": "交期溢价超过了预期节省额。",
-        "en": "The lead-time premium exceeds the expected savings."
+        "en": "The lead-time premium exceeds the expected savings.",
+        "origin": "workplace-original"
       }
-    ]
+    ],
+    "originalExample": "Approve a lead-time premium only with clear benefit.",
+    "context": {
+      "kind": "workplace",
+      "scene": "报价、付款与采购决策",
+      "sourceId": null
+    },
+    "explanation": "在报价、付款与采购决策的工作场景中，为缩短交期而额外支付的费用。"
   },
   "V20261027-039": {
     "gloss": "供应商议价力",
     "examples": [
       {
         "zh": "重新谈判前评估供应商议价力。",
-        "en": "Assess supplier leverage before renegotiation."
+        "en": "Assess supplier leverage before renegotiation.",
+        "origin": "workplace-original"
       },
       {
         "zh": "第二供应来源削弱了供应商议价力。",
-        "en": "A second source weakens supplier leverage."
+        "en": "A second source weakens supplier leverage.",
+        "origin": "workplace-original"
       }
-    ]
+    ],
+    "originalExample": "Assess supplier leverage before renegotiation.",
+    "context": {
+      "kind": "workplace",
+      "scene": "报价、付款与采购决策",
+      "sourceId": null
+    },
+    "explanation": "在报价、付款与采购决策的工作场景中，供应商在谈判或供给中的相对影响力。"
   },
   "V20261027-040": {
     "gloss": "自制外购评估",
     "examples": [
       {
         "zh": "为新零件开展自制外购评估。",
-        "en": "Conduct a make-or-buy review for the new part."
+        "en": "Conduct a make-or-buy review for the new part.",
+        "origin": "workplace-original"
       },
       {
         "zh": "自制外购评估包含维护成本。",
-        "en": "The make-or-buy review includes maintenance costs."
+        "en": "The make-or-buy review includes maintenance costs.",
+        "origin": "workplace-original"
       }
-    ]
+    ],
+    "originalExample": "Conduct a make-or-buy review for the new part.",
+    "context": {
+      "kind": "workplace",
+      "scene": "报价、付款与采购决策",
+      "sourceId": null
+    },
+    "explanation": "在报价、付款与采购决策的工作场景中，比较内部制造与外部采购的系统评估。"
   },
   "V20261027-041": {
     "gloss": "测量偏倚",
     "examples": [
       {
         "zh": "比较产线前检查测量偏倚。",
-        "en": "Detect measurement bias before comparing lines."
+        "en": "Detect measurement bias before comparing lines.",
+        "origin": "workplace-original"
       },
       {
         "zh": "磨损的量具引入了测量偏倚。",
-        "en": "The worn gauge introduced measurement bias."
+        "en": "The worn gauge introduced measurement bias.",
+        "origin": "workplace-original"
       }
-    ]
+    ],
+    "originalExample": "Detect measurement bias before comparing lines.",
+    "context": {
+      "kind": "workplace",
+      "scene": "测量系统、样本与检验能力",
+      "sourceId": null
+    },
+    "explanation": "在测量系统、样本与检验能力的工作场景中，测量方法持续偏向某一方向的系统误差。"
   },
   "V20261027-042": {
     "gloss": "量测一致性",
     "examples": [
       {
         "zh": "用相同样本验证量测一致性。",
-        "en": "Verify gauge agreement with shared samples."
+        "en": "Verify gauge agreement with shared samples.",
+        "origin": "workplace-original"
       },
       {
         "zh": "校准后量测一致性得到提高。",
-        "en": "Gauge agreement improved after calibration."
+        "en": "Gauge agreement improved after calibration.",
+        "origin": "workplace-original"
       }
-    ]
+    ],
+    "originalExample": "Verify gauge agreement with shared samples.",
+    "context": {
+      "kind": "workplace",
+      "scene": "测量系统、样本与检验能力",
+      "sourceId": null
+    },
+    "explanation": "在测量系统、样本与检验能力的工作场景中，不同量具或检验人员对同一样本结果的一致程度。"
   },
   "V20261027-043": {
     "gloss": "比较基准",
     "examples": [
       {
         "zh": "为相关性研究采用比较基准。",
-        "en": "Use a comparison benchmark for the correlation study."
+        "en": "Use a comparison benchmark for the correlation study.",
+        "origin": "workplace-original"
       },
       {
         "zh": "比较基准来自认证样本。",
-        "en": "The comparison benchmark comes from certified samples."
+        "en": "The comparison benchmark comes from certified samples.",
+        "origin": "workplace-original"
       }
-    ]
+    ],
+    "originalExample": "Use a comparison benchmark for the correlation study.",
+    "context": {
+      "kind": "workplace",
+      "scene": "测量系统、样本与检验能力",
+      "sourceId": null
+    },
+    "explanation": "在测量系统、样本与检验能力的工作场景中，用于比较测量结果或方法表现的可信基准。"
   },
   "V20261027-044": {
     "gloss": "样本溯源记录",
     "examples": [
       {
         "zh": "整个调查期间保留样本溯源记录。",
-        "en": "Preserve sample lineage through the investigation."
+        "en": "Preserve sample lineage through the investigation.",
+        "origin": "workplace-original"
       },
       {
         "zh": "样本溯源记录将试管与生产批次关联。",
-        "en": "Sample lineage links the vial to its production lot."
+        "en": "Sample lineage links the vial to its production lot.",
+        "origin": "workplace-original"
       }
-    ]
+    ],
+    "originalExample": "Preserve sample lineage through the investigation.",
+    "context": {
+      "kind": "workplace",
+      "scene": "测量系统、样本与检验能力",
+      "sourceId": null
+    },
+    "explanation": "在测量系统、样本与检验能力的工作场景中，样本从来源到处理和检测的完整来路记录。"
   },
   "V20261027-045": {
     "gloss": "缺陷流出路径",
     "examples": [
       {
         "zh": "增加检验前绘制缺陷流出路径。",
-        "en": "Map the defect escape path before adding inspection."
+        "en": "Map the defect escape path before adding inspection.",
+        "origin": "workplace-original"
       },
       {
         "zh": "缺陷流出路径绕过了最后一道摄像检测。",
-        "en": "The defect escape path bypassed the final camera."
+        "en": "The defect escape path bypassed the final camera.",
+        "origin": "workplace-original"
       }
-    ]
+    ],
+    "originalExample": "Map the defect escape path before adding inspection.",
+    "context": {
+      "kind": "workplace",
+      "scene": "测量系统、样本与检验能力",
+      "sourceId": null
+    },
+    "explanation": "在测量系统、样本与检验能力的工作场景中，缺陷绕过现有控制流向下游的途径。"
   },
   "V20261027-046": {
     "gloss": "检验灵敏度",
     "examples": [
       {
         "zh": "提高对浅划痕的检验灵敏度。",
-        "en": "Improve inspection sensitivity for shallow scratches."
+        "en": "Improve inspection sensitivity for shallow scratches.",
+        "origin": "workplace-original"
       },
       {
         "zh": "改善照明提高了检验灵敏度。",
-        "en": "Better lighting increased inspection sensitivity."
+        "en": "Better lighting increased inspection sensitivity.",
+        "origin": "workplace-original"
       }
-    ]
+    ],
+    "originalExample": "Improve inspection sensitivity for shallow scratches.",
+    "context": {
+      "kind": "workplace",
+      "scene": "测量系统、样本与检验能力",
+      "sourceId": null
+    },
+    "explanation": "在测量系统、样本与检验能力的工作场景中，检验方法发现目标缺陷的能力程度。"
   },
   "V20261027-047": {
     "gloss": "误接收风险",
     "examples": [
       {
         "zh": "降低误接收风险时不要拖慢每个批次。",
-        "en": "Reduce false-accept risk without slowing every lot."
+        "en": "Reduce false-accept risk without slowing every lot.",
+        "origin": "workplace-original"
       },
       {
         "zh": "收紧阈值可降低误接收风险。",
-        "en": "A tighter threshold lowers false-accept risk."
+        "en": "A tighter threshold lowers false-accept risk.",
+        "origin": "workplace-original"
       }
-    ]
+    ],
+    "originalExample": "Reduce false-accept risk without slowing every lot.",
+    "context": {
+      "kind": "workplace",
+      "scene": "测量系统、样本与检验能力",
+      "sourceId": null
+    },
+    "explanation": "在测量系统、样本与检验能力的工作场景中，不合格项被错误判定为合格的风险。"
   },
   "V20261027-048": {
     "gloss": "误拒收风险",
     "examples": [
       {
         "zh": "平衡误拒收风险与客户保护。",
-        "en": "Balance false-reject risk against customer protection."
+        "en": "Balance false-reject risk against customer protection.",
+        "origin": "workplace-original"
       },
       {
         "zh": "传感器脏污提高了误拒收风险。",
-        "en": "Dirty sensors raised the false-reject risk."
+        "en": "Dirty sensors raised the false-reject risk.",
+        "origin": "workplace-original"
       }
-    ]
+    ],
+    "originalExample": "Balance false-reject risk against customer protection.",
+    "context": {
+      "kind": "workplace",
+      "scene": "测量系统、样本与检验能力",
+      "sourceId": null
+    },
+    "explanation": "在测量系统、样本与检验能力的工作场景中，合格项被错误判定为不合格的风险。"
   },
   "V20261027-049": {
     "gloss": "证据权重",
     "examples": [
       {
         "zh": "权衡相互冲突报告的证据价值。",
-        "en": "Weigh evidentiary value across conflicting reports."
+        "en": "Weigh evidentiary value across conflicting reports.",
+        "origin": "workplace-original"
       },
       {
         "zh": "直接观察具有更高证据权重。",
-        "en": "Direct observations carry greater evidentiary weight."
+        "en": "Direct observations carry greater evidentiary weight.",
+        "origin": "workplace-original"
       }
-    ]
+    ],
+    "originalExample": "Weigh evidentiary value across conflicting reports.",
+    "context": {
+      "kind": "workplace",
+      "scene": "测量系统、样本与检验能力",
+      "sourceId": null
+    },
+    "explanation": "在测量系统、样本与检验能力的工作场景中，一项证据在支持结论时应被赋予的相对分量。"
   },
   "V20261027-050": {
     "gloss": "信噪比",
     "examples": [
       {
         "zh": "提高看板的信噪比。",
-        "en": "Raise the signal-to-noise ratio in the dashboard."
+        "en": "Raise the signal-to-noise ratio in the dashboard.",
+        "origin": "workplace-original"
       },
       {
         "zh": "去除重复警报提高了信噪比。",
-        "en": "Removing duplicate alerts improved the signal-to-noise ratio."
+        "en": "Removing duplicate alerts improved the signal-to-noise ratio.",
+        "origin": "workplace-original"
       }
-    ]
+    ],
+    "originalExample": "Raise the signal-to-noise ratio in the dashboard.",
+    "context": {
+      "kind": "workplace",
+      "scene": "测量系统、样本与检验能力",
+      "sourceId": null
+    },
+    "explanation": "在测量系统、样本与检验能力的工作场景中，有用信息相对于干扰信息的比例。"
   },
   "V20261027-051": {
     "gloss": "基线偏离",
     "examples": [
       {
         "zh": "执行前记录基线偏离。",
-        "en": "Document the baseline deviation before execution."
+        "en": "Document the baseline deviation before execution.",
+        "origin": "workplace-original"
       },
       {
         "zh": "基线偏离需要书面批准。",
-        "en": "The baseline deviation needs written approval."
+        "en": "The baseline deviation needs written approval.",
+        "origin": "workplace-original"
       }
-    ]
+    ],
+    "originalExample": "Document the baseline deviation before execution.",
+    "context": {
+      "kind": "workplace",
+      "scene": "基线、变更与切换控制",
+      "sourceId": null
+    },
+    "explanation": "在基线、变更与切换控制的工作场景中，当前状态相对批准基线发生的偏离。"
   },
   "V20261027-052": {
     "gloss": "范围替换",
     "examples": [
       {
         "zh": "交付时拒绝未经说明的范围替换。",
-        "en": "Reject silent scope substitution during delivery."
+        "en": "Reject silent scope substitution during delivery.",
+        "origin": "workplace-original"
       },
       {
         "zh": "范围替换导致所需报告未完成。",
-        "en": "Scope substitution left the requested report unfinished."
+        "en": "Scope substitution left the requested report unfinished.",
+        "origin": "workplace-original"
       }
-    ]
+    ],
+    "originalExample": "Reject silent scope substitution during delivery.",
+    "context": {
+      "kind": "workplace",
+      "scene": "基线、变更与切换控制",
+      "sourceId": null
+    },
+    "explanation": "在基线、变更与切换控制的工作场景中，用未经同意的交付内容替换原定范围。"
   },
   "V20261027-053": {
     "gloss": "需求漂移",
     "examples": [
       {
         "zh": "通过版本比较检测需求漂移。",
-        "en": "Detect requirement drift through version comparison."
+        "en": "Detect requirement drift through version comparison.",
+        "origin": "workplace-original"
       },
       {
         "zh": "每周审查发现了逐步发生的需求漂移。",
-        "en": "Weekly reviews exposed gradual requirement drift."
+        "en": "Weekly reviews exposed gradual requirement drift.",
+        "origin": "workplace-original"
       }
-    ]
+    ],
+    "originalExample": "Detect requirement drift through version comparison.",
+    "context": {
+      "kind": "workplace",
+      "scene": "基线、变更与切换控制",
+      "sourceId": null
+    },
+    "explanation": "在基线、变更与切换控制的工作场景中，需求在缺少明确批准时逐渐发生变化。"
   },
   "V20261027-054": {
     "gloss": "接口失效",
     "examples": [
       {
         "zh": "切换期间防止接口失效。",
-        "en": "Prevent an interface break during the cutover."
+        "en": "Prevent an interface break during the cutover.",
+        "origin": "workplace-original"
       },
       {
         "zh": "字段改名导致接口失效。",
-        "en": "A renamed field caused an interface break."
+        "en": "A renamed field caused an interface break.",
+        "origin": "workplace-original"
       }
-    ]
+    ],
+    "originalExample": "Prevent an interface break during the cutover.",
+    "context": {
+      "kind": "workplace",
+      "scene": "基线、变更与切换控制",
+      "sourceId": null
+    },
+    "explanation": "在基线、变更与切换控制的工作场景中，组件或团队之间既定交接方式失效。"
   },
   "V20261027-055": {
     "gloss": "次生连锁影响",
     "examples": [
       {
         "zh": "改变文件格式前评估次生影响。",
-        "en": "Assess the secondary ripple before changing the file format."
+        "en": "Assess the secondary ripple before changing the file format.",
+        "origin": "workplace-original"
       },
       {
         "zh": "次生连锁影响波及了开票流程。",
-        "en": "The secondary ripple affected the billing process."
+        "en": "The secondary ripple affected the billing process.",
+        "origin": "workplace-original"
       }
-    ]
+    ],
+    "originalExample": "Assess the secondary ripple before changing the file format.",
+    "context": {
+      "kind": "workplace",
+      "scene": "基线、变更与切换控制",
+      "sourceId": null
+    },
+    "explanation": "在基线、变更与切换控制的工作场景中，某项变化在后续环节引发的间接连锁影响。"
   },
   "V20261027-056": {
     "gloss": "审批延迟",
     "examples": [
       {
         "zh": "按决策类型衡量审批延迟。",
-        "en": "Measure approval latency by decision type."
+        "en": "Measure approval latency by decision type.",
+        "origin": "workplace-original"
       },
       {
         "zh": "缺少签名增加了审批延迟。",
-        "en": "Missing signatures increased approval latency."
+        "en": "Missing signatures increased approval latency.",
+        "origin": "workplace-original"
       }
-    ]
+    ],
+    "originalExample": "Measure approval latency by decision type.",
+    "context": {
+      "kind": "workplace",
+      "scene": "基线、变更与切换控制",
+      "sourceId": null
+    },
+    "explanation": "在基线、变更与切换控制的工作场景中，从提交申请到获得批准所经历的延迟。"
   },
   "V20261027-057": {
     "gloss": "变更过载",
     "examples": [
       {
         "zh": "监控整个项目群的变更过载情况。",
-        "en": "Monitor change overload across the program."
+        "en": "Monitor change overload across the program.",
+        "origin": "workplace-original"
       },
       {
         "zh": "三项同时推行的变更造成变更过载。",
-        "en": "Three simultaneous rollouts caused change overload."
+        "en": "Three simultaneous rollouts caused change overload.",
+        "origin": "workplace-original"
       }
-    ]
+    ],
+    "originalExample": "Monitor change overload across the program.",
+    "context": {
+      "kind": "workplace",
+      "scene": "基线、变更与切换控制",
+      "sourceId": null
+    },
+    "explanation": "在基线、变更与切换控制的工作场景中，组织同时面对过多变更而无法有效吸收的状态。"
   },
   "V20261027-058": {
     "gloss": "回退阈值",
     "examples": [
       {
         "zh": "部署前定义回退阈值。",
-        "en": "Define a reversion threshold before deployment."
+        "en": "Define a reversion threshold before deployment.",
+        "origin": "workplace-original"
       },
       {
         "zh": "十笔交易失败就达到回退阈值。",
-        "en": "Ten failed transactions reach the reversion threshold."
+        "en": "Ten failed transactions reach the reversion threshold.",
+        "origin": "workplace-original"
       }
-    ]
+    ],
+    "originalExample": "Define a reversion threshold before deployment.",
+    "context": {
+      "kind": "workplace",
+      "scene": "基线、变更与切换控制",
+      "sourceId": null
+    },
+    "explanation": "在基线、变更与切换控制的工作场景中，风险或性能达到后必须恢复旧状态的门槛。"
   },
   "V20261027-059": {
     "gloss": "切换窗口",
     "examples": [
       {
         "zh": "防止无关变更影响切换窗口。",
-        "en": "Protect the transition window from unrelated changes."
+        "en": "Protect the transition window from unrelated changes.",
+        "origin": "workplace-original"
       },
       {
         "zh": "我们的切换窗口持续四十分钟。",
-        "en": "Our transition window lasts forty minutes."
+        "en": "Our transition window lasts forty minutes.",
+        "origin": "workplace-original"
       }
-    ]
+    ],
+    "originalExample": "Protect the transition window from unrelated changes.",
+    "context": {
+      "kind": "workplace",
+      "scene": "基线、变更与切换控制",
+      "sourceId": null
+    },
+    "explanation": "在基线、变更与切换控制的工作场景中，从旧方式切换到新方式的限定时间段。"
   },
   "V20261027-060": {
     "gloss": "迁移债务",
     "examples": [
       {
         "zh": "将迁移债务作为明确工作追踪，不要隐藏工作量。",
-        "en": "Track migration debt as named work, not hidden effort."
+        "en": "Track migration debt as named work, not hidden effort.",
+        "origin": "workplace-original"
       },
       {
         "zh": "清理旧账户仍是一项迁移债务。",
-        "en": "Old account cleanup remains migration debt."
+        "en": "Old account cleanup remains migration debt.",
+        "origin": "workplace-original"
       }
-    ]
+    ],
+    "originalExample": "Track migration debt as named work, not hidden effort.",
+    "context": {
+      "kind": "workplace",
+      "scene": "基线、变更与切换控制",
+      "sourceId": null
+    },
+    "explanation": "在基线、变更与切换控制的工作场景中，切换过程中暂时留下、之后必须偿还的清理工作。"
   },
   "V20261027-061": {
     "gloss": "恢复目标",
     "examples": [
       {
         "zh": "为每项关键服务设定恢复目标。",
-        "en": "Set a restoration target for each critical service."
+        "en": "Set a restoration target for each critical service.",
+        "origin": "workplace-original"
       },
       {
         "zh": "恢复目标是在中午前恢复全部服务。",
-        "en": "The restoration target is full service by noon."
+        "en": "The restoration target is full service by noon.",
+        "origin": "workplace-original"
       }
-    ]
+    ],
+    "originalExample": "Set a restoration target for each critical service.",
+    "context": {
+      "kind": "workplace",
+      "scene": "故障限制、恢复与剩余风险",
+      "sourceId": null
+    },
+    "explanation": "在故障限制、恢复与剩余风险的工作场景中，恢复行动要达到的明确状态和时间目标。"
   },
   "V20261027-062": {
     "gloss": "服务降级",
     "examples": [
       {
         "zh": "完全失效前报告服务降级。",
-        "en": "Report service degradation before complete failure."
+        "en": "Report service degradation before complete failure.",
+        "origin": "workplace-original"
       },
       {
         "zh": "搜索缓慢表明服务降级。",
-        "en": "Slow searches indicate service degradation."
+        "en": "Slow searches indicate service degradation.",
+        "origin": "workplace-original"
       }
-    ]
+    ],
+    "originalExample": "Report service degradation before complete failure.",
+    "context": {
+      "kind": "workplace",
+      "scene": "故障限制、恢复与剩余风险",
+      "sourceId": null
+    },
+    "explanation": "在故障限制、恢复与剩余风险的工作场景中，服务仍可用但性能或质量下降的状态。"
   },
   "V20261027-063": {
     "gloss": "故障遏制",
     "examples": [
       {
         "zh": "围绕受影响单元建立故障遏制措施。",
-        "en": "Establish failure containment around the affected cell."
+        "en": "Establish failure containment around the affected cell.",
+        "origin": "workplace-original"
       },
       {
         "zh": "独立电路可改善故障遏制。",
-        "en": "Separate power circuits improve failure containment."
+        "en": "Separate power circuits improve failure containment.",
+        "origin": "workplace-original"
       }
-    ]
+    ],
+    "originalExample": "Establish failure containment around the affected cell.",
+    "context": {
+      "kind": "workplace",
+      "scene": "故障限制、恢复与剩余风险",
+      "sourceId": null
+    },
+    "explanation": "在故障限制、恢复与剩余风险的工作场景中，限制故障影响范围并阻止扩散的措施。"
   },
   "V20261027-064": {
     "gloss": "恢复顺序",
     "examples": [
       {
         "zh": "恢复供电后遵循恢复顺序。",
-        "en": "Follow the restoration sequence after power returns."
+        "en": "Follow the restoration sequence after power returns.",
+        "origin": "workplace-original"
       },
       {
         "zh": "恢复顺序以数据库检查开始。",
-        "en": "The restoration sequence starts with database checks."
+        "en": "The restoration sequence starts with database checks.",
+        "origin": "workplace-original"
       }
-    ]
+    ],
+    "originalExample": "Follow the restoration sequence after power returns.",
+    "context": {
+      "kind": "workplace",
+      "scene": "故障限制、恢复与剩余风险",
+      "sourceId": null
+    },
+    "explanation": "在故障限制、恢复与剩余风险的工作场景中，恢复系统或流程时必须遵循的先后步骤。"
   },
   "V20261027-065": {
     "gloss": "依赖服务中断",
     "examples": [
       {
         "zh": "在周末测试中考虑依赖服务中断。",
-        "en": "Plan for a dependency outage in the weekend test."
+        "en": "Plan for a dependency outage in the weekend test.",
+        "origin": "workplace-original"
       },
       {
         "zh": "依赖服务中断阻止了订单确认。",
-        "en": "A dependency outage blocked order confirmation."
+        "en": "A dependency outage blocked order confirmation.",
+        "origin": "workplace-original"
       }
-    ]
+    ],
+    "originalExample": "Plan for a dependency outage in the weekend test.",
+    "context": {
+      "kind": "workplace",
+      "scene": "故障限制、恢复与剩余风险",
+      "sourceId": null
+    },
+    "explanation": "在故障限制、恢复与剩余风险的工作场景中，外部或上游依赖不可用造成的中断。"
   },
   "V20261027-066": {
     "gloss": "备用方案就绪度",
     "examples": [
       {
         "zh": "迁移前验证备用方案就绪度。",
-        "en": "Verify fallback readiness before the migration."
+        "en": "Verify fallback readiness before the migration.",
+        "origin": "workplace-original"
       },
       {
         "zh": "演练确认了备用方案已就绪。",
-        "en": "The drill confirmed fallback readiness."
+        "en": "The drill confirmed fallback readiness.",
+        "origin": "workplace-original"
       }
-    ]
+    ],
+    "originalExample": "Verify fallback readiness before the migration.",
+    "context": {
+      "kind": "workplace",
+      "scene": "故障限制、恢复与剩余风险",
+      "sourceId": null
+    },
+    "explanation": "在故障限制、恢复与剩余风险的工作场景中，备用方案能够立即启动的准备程度。"
   },
   "V20261027-067": {
     "gloss": "积压消减",
     "examples": [
       {
         "zh": "加快积压消减时不要降低质量。",
-        "en": "Accelerate backlog burn-down without lowering quality."
+        "en": "Accelerate backlog burn-down without lowering quality.",
+        "origin": "workplace-original"
       },
       {
         "zh": "人员培训期间积压消减放慢了。",
-        "en": "Backlog burn-down slowed during staff training."
+        "en": "Backlog burn-down slowed during staff training.",
+        "origin": "workplace-original"
       }
-    ]
+    ],
+    "originalExample": "Accelerate backlog burn-down without lowering quality.",
+    "context": {
+      "kind": "workplace",
+      "scene": "故障限制、恢复与剩余风险",
+      "sourceId": null
+    },
+    "explanation": "在故障限制、恢复与剩余风险的工作场景中，按时间减少积压工作的过程或趋势。"
   },
   "V20261027-068": {
     "gloss": "激增待办队列",
     "examples": [
       {
         "zh": "按明确优先级管理激增队列。",
-        "en": "Manage the surge queue with clear priorities."
+        "en": "Manage the surge queue with clear priorities.",
+        "origin": "workplace-original"
       },
       {
         "zh": "激增待办队列包含紧急维修请求。",
-        "en": "The surge queue contains urgent repair requests."
+        "en": "The surge queue contains urgent repair requests.",
+        "origin": "workplace-original"
       }
-    ]
+    ],
+    "originalExample": "Manage the surge queue with clear priorities.",
+    "context": {
+      "kind": "workplace",
+      "scene": "故障限制、恢复与剩余风险",
+      "sourceId": null
+    },
+    "explanation": "在故障限制、恢复与剩余风险的工作场景中，需求突然增加时形成的临时排队任务。"
   },
   "V20261027-069": {
     "gloss": "残余风险敞口",
     "examples": [
       {
         "zh": "在恢复评审中披露残余风险敞口。",
-        "en": "Disclose residual exposure at the recovery review."
+        "en": "Disclose residual exposure at the recovery review.",
+        "origin": "workplace-original"
       },
       {
         "zh": "夜班的残余风险敞口仍然很高。",
-        "en": "Residual exposure remains high during night shifts."
+        "en": "Residual exposure remains high during night shifts.",
+        "origin": "workplace-original"
       }
-    ]
+    ],
+    "originalExample": "Disclose residual exposure at the recovery review.",
+    "context": {
+      "kind": "workplace",
+      "scene": "故障限制、恢复与剩余风险",
+      "sourceId": null
+    },
+    "explanation": "在故障限制、恢复与剩余风险的工作场景中，采取控制后仍然存在的剩余风险范围。"
   },
   "V20261027-070": {
     "gloss": "防复发措施",
     "examples": [
       {
         "zh": "关闭前设置防复发措施。",
-        "en": "Install a recurrence guard before closure."
+        "en": "Install a recurrence guard before closure.",
+        "origin": "workplace-original"
       },
       {
         "zh": "防复发措施会阻止重复订单号。",
-        "en": "The recurrence guard blocks duplicate order numbers."
+        "en": "The recurrence guard blocks duplicate order numbers.",
+        "origin": "workplace-original"
       }
-    ]
+    ],
+    "originalExample": "Install a recurrence guard before closure.",
+    "context": {
+      "kind": "workplace",
+      "scene": "故障限制、恢复与剩余风险",
+      "sourceId": null
+    },
+    "explanation": "在故障限制、恢复与剩余风险的工作场景中，防止同类问题再次发生的持续控制。"
   },
   "V20261027-071": {
     "gloss": "主张确定程度",
     "examples": [
       {
         "zh": "根据现有证据调整主张确定程度。",
-        "en": "Calibrate claim strength to the available evidence."
+        "en": "Calibrate claim strength to the available evidence.",
+        "origin": "workplace-original"
       },
       {
         "zh": "样本较小限制了主张的确定程度。",
-        "en": "A small sample limits claim strength."
+        "en": "A small sample limits claim strength.",
+        "origin": "workplace-original"
       }
-    ]
+    ],
+    "originalExample": "Calibrate claim strength to the available evidence.",
+    "context": {
+      "kind": "workplace",
+      "scene": "主张强度、推理与证据边界",
+      "sourceId": null
+    },
+    "explanation": "在主张强度、推理与证据边界的工作场景中，结论措辞所表达的确定程度。"
   },
   "V20261027-072": {
     "gloss": "推理缺口",
     "examples": [
       {
         "zh": "用直接测试填补推理缺口。",
-        "en": "Close the inference gap with a direct test."
+        "en": "Close the inference gap with a direct test.",
+        "origin": "workplace-original"
       },
       {
         "zh": "推理缺口在于相关性与因果性之间。",
-        "en": "The inference gap lies between correlation and causation."
+        "en": "The inference gap lies between correlation and causation.",
+        "origin": "workplace-original"
       }
-    ]
+    ],
+    "originalExample": "Close the inference gap with a direct test.",
+    "context": {
+      "kind": "workplace",
+      "scene": "主张强度、推理与证据边界",
+      "sourceId": null
+    },
+    "explanation": "在主张强度、推理与证据边界的工作场景中，证据与结论之间尚未被证明的推理跳跃。"
   },
   "V20261027-073": {
     "gloss": "机制链",
     "examples": [
       {
         "zh": "归责前追溯机制链。",
-        "en": "Trace the mechanism chain before assigning blame."
+        "en": "Trace the mechanism chain before assigning blame.",
+        "origin": "workplace-original"
       },
       {
         "zh": "机制链将湿气与腐蚀联系起来。",
-        "en": "The mechanism chain connects moisture to corrosion."
+        "en": "The mechanism chain connects moisture to corrosion.",
+        "origin": "workplace-original"
       }
-    ]
+    ],
+    "originalExample": "Trace the mechanism chain before assigning blame.",
+    "context": {
+      "kind": "workplace",
+      "scene": "主张强度、推理与证据边界",
+      "sourceId": null
+    },
+    "explanation": "在主张强度、推理与证据边界的工作场景中，一个原因通过连续机制产生结果的过程链。"
   },
   "V20261027-074": {
     "gloss": "替代解释",
     "examples": [
       {
         "zh": "用数据检验替代解释。",
-        "en": "Test an alternative explanation against the data."
+        "en": "Test an alternative explanation against the data.",
+        "origin": "workplace-original"
       },
       {
         "zh": "季节性需求提供了一种替代解释。",
-        "en": "Seasonal demand offers an alternative explanation."
+        "en": "Seasonal demand offers an alternative explanation.",
+        "origin": "workplace-original"
       }
-    ]
+    ],
+    "originalExample": "Test an alternative explanation against the data.",
+    "context": {
+      "kind": "workplace",
+      "scene": "主张强度、推理与证据边界",
+      "sourceId": null
+    },
+    "explanation": "在主张强度、推理与证据边界的工作场景中，同一现象可能成立的另一种解释。"
   },
   "V20261027-075": {
     "gloss": "反事实基准",
     "examples": [
       {
         "zh": "声称有效果前建立反事实基准。",
-        "en": "Build a what-if baseline before claiming impact."
+        "en": "Build a what-if baseline before claiming impact.",
+        "origin": "workplace-original"
       },
       {
         "zh": "反事实基准假设没有加班。",
-        "en": "The what-if baseline assumes no overtime."
+        "en": "The what-if baseline assumes no overtime.",
+        "origin": "workplace-original"
       }
-    ]
+    ],
+    "originalExample": "Build a what-if baseline before claiming impact.",
+    "context": {
+      "kind": "workplace",
+      "scene": "主张强度、推理与证据边界",
+      "sourceId": null
+    },
+    "explanation": "在主张强度、推理与证据边界的工作场景中，用于比较若关键因素不存在时结果会怎样的基准。"
   },
   "V20261027-076": {
     "gloss": "置信度陈述",
     "examples": [
       {
         "zh": "为预测添加置信度陈述。",
-        "en": "Add a confidence statement to the forecast."
+        "en": "Add a confidence statement to the forecast.",
+        "origin": "workplace-original"
       },
       {
         "zh": "置信度陈述指出历史数据有限。",
-        "en": "The confidence statement notes limited historical data."
+        "en": "The confidence statement notes limited historical data.",
+        "origin": "workplace-original"
       }
-    ]
+    ],
+    "originalExample": "Add a confidence statement to the forecast.",
+    "context": {
+      "kind": "workplace",
+      "scene": "主张强度、推理与证据边界",
+      "sourceId": null
+    },
+    "explanation": "在主张强度、推理与证据边界的工作场景中，明确说明判断可信程度和依据的陈述。"
   },
   "V20261027-077": {
     "gloss": "缺失证明点",
     "examples": [
       {
         "zh": "指出缺失证明点，不要隐藏它。",
-        "en": "Name the missing proof point instead of hiding it."
+        "en": "Name the missing proof point instead of hiding it.",
+        "origin": "workplace-original"
       },
       {
         "zh": "重复试验是缺失的证明点。",
-        "en": "A repeat trial is the missing proof point."
+        "en": "A repeat trial is the missing proof point.",
+        "origin": "workplace-original"
       }
-    ]
+    ],
+    "originalExample": "Name the missing proof point instead of hiding it.",
+    "context": {
+      "kind": "workplace",
+      "scene": "主张强度、推理与证据边界",
+      "sourceId": null
+    },
+    "explanation": "在主张强度、推理与证据边界的工作场景中，做出可靠判断仍缺少的一项关键证据。"
   },
   "V20261027-078": {
     "gloss": "来源可信度",
     "examples": [
       {
         "zh": "升级处理前评估来源可信度。",
-        "en": "Assess source credibility before escalation."
+        "en": "Assess source credibility before escalation.",
+        "origin": "workplace-original"
       },
       {
         "zh": "来源可信度取决于能否获取原始记录。",
-        "en": "Source credibility depends on access to original records."
+        "en": "Source credibility depends on access to original records.",
+        "origin": "workplace-original"
       }
-    ]
+    ],
+    "originalExample": "Assess source credibility before escalation.",
+    "context": {
+      "kind": "workplace",
+      "scene": "主张强度、推理与证据边界",
+      "sourceId": null
+    },
+    "explanation": "在主张强度、推理与证据边界的工作场景中，信息来源值得信任的程度。"
   },
   "V20261027-079": {
     "gloss": "框架效应",
     "examples": [
       {
         "zh": "展示两个选项以减少框架效应。",
-        "en": "Show both options to reduce the framing effect."
+        "en": "Show both options to reduce the framing effect.",
+        "origin": "workplace-original"
       },
       {
         "zh": "不同措辞产生了框架效应。",
-        "en": "Different wording produced a framing effect."
+        "en": "Different wording produced a framing effect.",
+        "origin": "workplace-original"
       }
-    ]
+    ],
+    "originalExample": "Show both options to reduce the framing effect.",
+    "context": {
+      "kind": "workplace",
+      "scene": "主张强度、推理与证据边界",
+      "sourceId": null
+    },
+    "explanation": "在主张强度、推理与证据边界的工作场景中，信息呈现方式对理解或选择造成的影响。"
   },
   "V20261027-080": {
     "gloss": "叙述连贯性",
     "examples": [
       {
         "zh": "改善叙述连贯性时不要删除限定条件。",
-        "en": "Improve narrative coherence without removing caveats."
+        "en": "Improve narrative coherence without removing caveats.",
+        "origin": "workplace-original"
       },
       {
         "zh": "清晰的时间线改善了叙述连贯性。",
-        "en": "A clear timeline improved narrative coherence."
+        "en": "A clear timeline improved narrative coherence.",
+        "origin": "workplace-original"
       }
-    ]
+    ],
+    "originalExample": "Improve narrative coherence without removing caveats.",
+    "context": {
+      "kind": "workplace",
+      "scene": "主张强度、推理与证据边界",
+      "sourceId": null
+    },
+    "explanation": "在主张强度、推理与证据边界的工作场景中，说明中的事实、原因和结论彼此一致的程度。"
   },
   "V20261027-081": {
     "gloss": "利益相关方授权",
     "examples": [
       {
         "zh": "谈判前明确利益相关方授权。",
-        "en": "Clarify the stakeholder mandate before negotiation."
+        "en": "Clarify the stakeholder mandate before negotiation.",
+        "origin": "workplace-original"
       },
       {
         "zh": "利益相关方授权允许开展有限试点。",
-        "en": "The stakeholder mandate permits a limited pilot."
+        "en": "The stakeholder mandate permits a limited pilot.",
+        "origin": "workplace-original"
       }
-    ]
+    ],
+    "originalExample": "Clarify the stakeholder mandate before negotiation.",
+    "context": {
+      "kind": "workplace",
+      "scene": "发起人、治理与责任移交",
+      "sourceId": null
+    },
+    "explanation": "在发起人、治理与责任移交的工作场景中，相关方正式赋予某角色的职责和权限。"
   },
   "V20261027-082": {
     "gloss": "发起人关注",
     "examples": [
       {
         "zh": "争取发起人关注受阻的决策。",
-        "en": "Secure sponsor attention for the blocked decision."
+        "en": "Secure sponsor attention for the blocked decision.",
+        "origin": "workplace-original"
       },
       {
         "zh": "发起人的关注帮助解决了资金争议。",
-        "en": "Sponsor attention helped resolve the funding dispute."
+        "en": "Sponsor attention helped resolve the funding dispute.",
+        "origin": "workplace-original"
       }
-    ]
+    ],
+    "originalExample": "Secure sponsor attention for the blocked decision.",
+    "context": {
+      "kind": "workplace",
+      "scene": "发起人、治理与责任移交",
+      "sourceId": null
+    },
+    "explanation": "在发起人、治理与责任移交的工作场景中，项目发起人当前可投入的关注和决策精力。"
   },
   "V20261027-083": {
     "gloss": "治理缺口",
     "examples": [
       {
         "zh": "扩大试点前填补治理缺口。",
-        "en": "Close the governance gap before scaling the pilot."
+        "en": "Close the governance gap before scaling the pilot.",
+        "origin": "workplace-original"
       },
       {
         "zh": "审批权限不清造成了治理缺口。",
-        "en": "Unclear approval rights created a governance gap."
+        "en": "Unclear approval rights created a governance gap.",
+        "origin": "workplace-original"
       }
-    ]
+    ],
+    "originalExample": "Close the governance gap before scaling the pilot.",
+    "context": {
+      "kind": "workplace",
+      "scene": "发起人、治理与责任移交",
+      "sourceId": null
+    },
+    "explanation": "在发起人、治理与责任移交的工作场景中，规则、职责或监督机制中的缺口。"
   },
   "V20261027-084": {
     "gloss": "升级路径",
     "examples": [
       {
         "zh": "为夜班公布升级路径。",
-        "en": "Publish the escalation route for night shifts."
+        "en": "Publish the escalation route for night shifts.",
+        "origin": "workplace-original"
       },
       {
         "zh": "升级路径包含紧急联系电话。",
-        "en": "The escalation route includes an emergency number."
+        "en": "The escalation route includes an emergency number.",
+        "origin": "workplace-original"
       }
-    ]
+    ],
+    "originalExample": "Publish the escalation route for night shifts.",
+    "context": {
+      "kind": "workplace",
+      "scene": "发起人、治理与责任移交",
+      "sourceId": null
+    },
+    "explanation": "在发起人、治理与责任移交的工作场景中，问题升级时应遵循的明确路径。"
   },
   "V20261027-085": {
     "gloss": "责任移交",
     "examples": [
       {
         "zh": "以证据和日期完成责任移交。",
-        "en": "Complete ownership transfer with evidence and dates."
+        "en": "Complete ownership transfer with evidence and dates.",
+        "origin": "workplace-original"
       },
       {
         "zh": "责任移交于签核后生效。",
-        "en": "Ownership transfer takes effect after sign-off."
+        "en": "Ownership transfer takes effect after sign-off.",
+        "origin": "workplace-original"
       }
-    ]
+    ],
+    "originalExample": "Complete ownership transfer with evidence and dates.",
+    "context": {
+      "kind": "workplace",
+      "scene": "发起人、治理与责任移交",
+      "sourceId": null
+    },
+    "explanation": "在发起人、治理与责任移交的工作场景中，责任从一个人或团队正式移交给另一个主体。"
   },
   "V20261027-086": {
     "gloss": "问责闭环",
     "examples": [
       {
         "zh": "加强逾期行动的问责闭环。",
-        "en": "Strengthen the accountability loop for overdue actions."
+        "en": "Strengthen the accountability loop for overdue actions.",
+        "origin": "workplace-original"
       },
       {
         "zh": "每周检查保持问责闭环运作。",
-        "en": "Weekly checks keep the accountability loop active."
+        "en": "Weekly checks keep the accountability loop active.",
+        "origin": "workplace-original"
       }
-    ]
+    ],
+    "originalExample": "Strengthen the accountability loop for overdue actions.",
+    "context": {
+      "kind": "workplace",
+      "scene": "发起人、治理与责任移交",
+      "sourceId": null
+    },
+    "explanation": "在发起人、治理与责任移交的工作场景中，从承诺、检查到反馈和纠偏的闭环。"
   },
   "V20261027-087": {
     "gloss": "跨部门依赖",
     "examples": [
       {
         "zh": "在上线计划中绘制跨部门依赖。",
-        "en": "Map the cross-functional dependency in the launch plan."
+        "en": "Map the cross-functional dependency in the launch plan.",
+        "origin": "workplace-original"
       },
       {
         "zh": "这项跨部门依赖需要共同排程。",
-        "en": "This cross-functional dependency requires shared scheduling."
+        "en": "This cross-functional dependency requires shared scheduling.",
+        "origin": "workplace-original"
       }
-    ]
+    ],
+    "originalExample": "Map the cross-functional dependency in the launch plan.",
+    "context": {
+      "kind": "workplace",
+      "scene": "发起人、治理与责任移交",
+      "sourceId": null
+    },
+    "explanation": "在发起人、治理与责任移交的工作场景中，跨部门任务之间的相互依赖关系。"
   },
   "V20261027-088": {
     "gloss": "决策透明度",
     "examples": [
       {
         "zh": "通过共享记录提高决策透明度。",
-        "en": "Increase decision transparency through a shared log."
+        "en": "Increase decision transparency through a shared log.",
+        "origin": "workplace-original"
       },
       {
         "zh": "公布理由提高了决策透明度。",
-        "en": "Published reasons improved decision transparency."
+        "en": "Published reasons improved decision transparency.",
+        "origin": "workplace-original"
       }
-    ]
+    ],
+    "originalExample": "Increase decision transparency through a shared log.",
+    "context": {
+      "kind": "workplace",
+      "scene": "发起人、治理与责任移交",
+      "sourceId": null
+    },
+    "explanation": "在发起人、治理与责任移交的工作场景中，让相关方能理解决定、依据和责任人的程度。"
   },
   "V20261027-089": {
     "gloss": "偏差批准权",
     "examples": [
       {
         "zh": "申请例外前确认偏差批准权。",
-        "en": "Identify the variance approval right before requesting an exception."
+        "en": "Identify the variance approval right before requesting an exception.",
+        "origin": "workplace-original"
       },
       {
         "zh": "质量主管拥有偏差批准权。",
-        "en": "The quality director holds the variance approval right."
+        "en": "The quality director holds the variance approval right.",
+        "origin": "workplace-original"
       }
-    ]
+    ],
+    "originalExample": "Identify the variance approval right before requesting an exception.",
+    "context": {
+      "kind": "workplace",
+      "scene": "发起人、治理与责任移交",
+      "sourceId": null
+    },
+    "explanation": "在发起人、治理与责任移交的工作场景中，正式批准偏离常规要求或标准的权限。"
   },
   "V20261027-090": {
     "gloss": "监督节奏",
     "examples": [
       {
         "zh": "为恢复项目群商定监督节奏。",
-        "en": "Agree an oversight cadence for the recovery program."
+        "en": "Agree an oversight cadence for the recovery program.",
+        "origin": "workplace-original"
       },
       {
         "zh": "调试期间监督频率会提高。",
-        "en": "The oversight cadence increases during commissioning."
+        "en": "The oversight cadence increases during commissioning.",
+        "origin": "workplace-original"
       }
-    ]
+    ],
+    "originalExample": "Agree an oversight cadence for the recovery program.",
+    "context": {
+      "kind": "workplace",
+      "scene": "发起人、治理与责任移交",
+      "sourceId": null
+    },
+    "explanation": "在发起人、治理与责任移交的工作场景中，管理层或治理机构进行检查的固定频率。"
   },
   "V20261027-091": {
     "gloss": "行动项完整度",
     "examples": [
       {
         "zh": "结束会议前检查行动项完整度。",
-        "en": "Check action completeness before ending the meeting."
+        "en": "Check action completeness before ending the meeting.",
+        "origin": "workplace-original"
       },
       {
         "zh": "缺少期限降低了行动项完整度。",
-        "en": "Missing deadlines reduced action completeness."
+        "en": "Missing deadlines reduced action completeness.",
+        "origin": "workplace-original"
       }
-    ]
+    ],
+    "originalExample": "Check action completeness before ending the meeting.",
+    "context": {
+      "kind": "workplace",
+      "scene": "执行质量、反馈与组织学习",
+      "sourceId": null
+    },
+    "explanation": "在执行质量、反馈与组织学习的工作场景中，行动项具备责任人、期限、结果和证据的完整程度。"
   },
   "V20261027-092": {
     "gloss": "交接质量",
     "examples": [
       {
         "zh": "在每个阶段边界衡量交接质量。",
-        "en": "Measure handoff quality at each phase boundary."
+        "en": "Measure handoff quality at each phase boundary.",
+        "origin": "workplace-original"
       },
       {
         "zh": "共同走查提高了交接质量。",
-        "en": "A joint walkthrough improved handoff quality."
+        "en": "A joint walkthrough improved handoff quality.",
+        "origin": "workplace-original"
       }
-    ]
+    ],
+    "originalExample": "Measure handoff quality at each phase boundary.",
+    "context": {
+      "kind": "workplace",
+      "scene": "执行质量、反馈与组织学习",
+      "sourceId": null
+    },
+    "explanation": "在执行质量、反馈与组织学习的工作场景中，工作移交时信息、责任和可执行性的质量。"
   },
   "V20261027-093": {
     "gloss": "返工动因",
     "examples": [
       {
         "zh": "消除返工动因，而不是增加检验。",
-        "en": "Remove the rework driver instead of adding inspection."
+        "en": "Remove the rework driver instead of adding inspection.",
+        "origin": "workplace-original"
       },
       {
         "zh": "过时图纸是主要返工动因。",
-        "en": "Outdated drawings were the main rework driver."
+        "en": "Outdated drawings were the main rework driver.",
+        "origin": "workplace-original"
       }
-    ]
+    ],
+    "originalExample": "Remove the rework driver instead of adding inspection.",
+    "context": {
+      "kind": "workplace",
+      "scene": "执行质量、反馈与组织学习",
+      "sourceId": null
+    },
+    "explanation": "在执行质量、反馈与组织学习的工作场景中，导致返工反复发生的主要因素。"
   },
   "V20261027-094": {
     "gloss": "经验待办清单",
     "examples": [
       {
         "zh": "上线后确定经验待办清单的优先级。",
-        "en": "Prioritize the learning backlog after the launch."
+        "en": "Prioritize the learning backlog after the launch.",
+        "origin": "workplace-original"
       },
       {
         "zh": "经验待办清单包含两项未解决的培训缺口。",
-        "en": "The learning backlog includes two unresolved training gaps."
+        "en": "The learning backlog includes two unresolved training gaps.",
+        "origin": "workplace-original"
       }
-    ]
+    ],
+    "originalExample": "Prioritize the learning backlog after the launch.",
+    "context": {
+      "kind": "workplace",
+      "scene": "执行质量、反馈与组织学习",
+      "sourceId": null
+    },
+    "explanation": "在执行质量、反馈与组织学习的工作场景中，已识别但尚未完成吸收和应用的经验事项。"
   },
   "V20261027-095": {
     "gloss": "流程阻力",
     "examples": [
       {
         "zh": "减少审批流程中的阻力。",
-        "en": "Reduce process friction in the approval flow."
+        "en": "Reduce process friction in the approval flow.",
+        "origin": "workplace-original"
       },
       {
         "zh": "重复录入数据造成流程阻力。",
-        "en": "Repeated data entry creates process friction."
+        "en": "Repeated data entry creates process friction.",
+        "origin": "workplace-original"
       }
-    ]
+    ],
+    "originalExample": "Reduce process friction in the approval flow.",
+    "context": {
+      "kind": "workplace",
+      "scene": "执行质量、反馈与组织学习",
+      "sourceId": null
+    },
+    "explanation": "在执行质量、反馈与组织学习的工作场景中，流程中增加时间或精力但不创造价值的阻力。"
   },
   "V20261027-096": {
     "gloss": "防护措施表现",
     "examples": [
       {
         "zh": "用结果数据衡量防护措施表现。",
-        "en": "Measure safeguard performance with result data."
+        "en": "Measure safeguard performance with result data.",
+        "origin": "workplace-original"
       },
       {
         "zh": "传感器受损后防护措施表现下降。",
-        "en": "Safeguard performance declined after sensor damage."
+        "en": "Safeguard performance declined after sensor damage.",
+        "origin": "workplace-original"
       }
-    ]
+    ],
+    "originalExample": "Measure safeguard performance with result data.",
+    "context": {
+      "kind": "workplace",
+      "scene": "执行质量、反馈与组织学习",
+      "sourceId": null
+    },
+    "explanation": "在执行质量、反馈与组织学习的工作场景中，防护措施实际降低风险或缺陷的表现。"
   },
   "V20261027-097": {
     "gloss": "行为指标",
     "examples": [
       {
         "zh": "在结果之外同步追踪行为指标。",
-        "en": "Track a behavior indicator alongside the result."
+        "en": "Track a behavior indicator alongside the result.",
+        "origin": "workplace-original"
       },
       {
         "zh": "清单完成率是一项行为指标。",
-        "en": "Checklist completion is a behavior indicator."
+        "en": "Checklist completion is a behavior indicator.",
+        "origin": "workplace-original"
       }
-    ]
+    ],
+    "originalExample": "Track a behavior indicator alongside the result.",
+    "context": {
+      "kind": "workplace",
+      "scene": "执行质量、反馈与组织学习",
+      "sourceId": null
+    },
+    "explanation": "在执行质量、反馈与组织学习的工作场景中，反映团队是否采取预期行为的指标。"
   },
   "V20261027-098": {
     "gloss": "最终结果指标",
     "examples": [
       {
         "zh": "为每项干预选择最终结果指标。",
-        "en": "Select an end-result measure for each intervention."
+        "en": "Select an end-result measure for each intervention.",
+        "origin": "workplace-original"
       },
       {
         "zh": "最终结果指标追踪客户退货。",
-        "en": "The end-result measure tracks customer returns."
+        "en": "The end-result measure tracks customer returns.",
+        "origin": "workplace-original"
       }
-    ]
+    ],
+    "originalExample": "Select an end-result measure for each intervention.",
+    "context": {
+      "kind": "workplace",
+      "scene": "执行质量、反馈与组织学习",
+      "sourceId": null
+    },
+    "explanation": "在执行质量、反馈与组织学习的工作场景中，反映最终结果是否改善的量化指标。"
   },
   "V20261027-099": {
     "gloss": "反馈延迟",
     "examples": [
       {
         "zh": "试点期间缩短反馈延迟。",
-        "en": "Shorten feedback latency during the pilot."
+        "en": "Shorten feedback latency during the pilot.",
+        "origin": "workplace-original"
       },
       {
         "zh": "每日评审减少了反馈延迟。",
-        "en": "Daily reviews reduced feedback latency."
+        "en": "Daily reviews reduced feedback latency.",
+        "origin": "workplace-original"
       }
-    ]
+    ],
+    "originalExample": "Shorten feedback latency during the pilot.",
+    "context": {
+      "kind": "workplace",
+      "scene": "执行质量、反馈与组织学习",
+      "sourceId": null
+    },
+    "explanation": "在执行质量、反馈与组织学习的工作场景中，行动发生到收到有效反馈之间的延迟。"
   },
   "V20261027-100": {
     "gloss": "适应循环",
     "examples": [
       {
         "zh": "扩大推广前完成一个适应循环。",
-        "en": "Complete an adaptation cycle before wider rollout."
+        "en": "Complete an adaptation cycle before wider rollout.",
+        "origin": "workplace-original"
       },
       {
         "zh": "每个适应循环以重新测试结束。",
-        "en": "Each adaptation cycle ends with fresh testing."
+        "en": "Each adaptation cycle ends with fresh testing.",
+        "origin": "workplace-original"
       }
-    ]
+    ],
+    "originalExample": "Complete an adaptation cycle before wider rollout.",
+    "context": {
+      "kind": "workplace",
+      "scene": "执行质量、反馈与组织学习",
+      "sourceId": null
+    },
+    "explanation": "在执行质量、反馈与组织学习的工作场景中，根据反馈调整做法并再次验证的循环。"
   },
   "V20261027-101": {
     "gloss": "人口众多的",
     "examples": [
       {
-        "zh": "人口众多的地区需要稳健的服务计划。",
-        "en": "A populous region needs a robust service plan."
+        "en": "An election in a populous country can have effects far beyond its borders.",
+        "zh": "人口大国的选举可能产生远超国界的影响。",
+        "origin": "reading-original"
       },
       {
         "zh": "该诊所服务一个人口众多的地区。",
-        "en": "The clinic serves a populous district."
+        "en": "The clinic serves a populous district.",
+        "origin": "transfer-original"
       }
-    ]
+    ],
+    "originalExample": "A populous region needs a robust service plan.",
+    "context": {
+      "kind": "reading",
+      "scene": "Krugman阅读一｜选举规模与结果",
+      "sourceId": "the-oligarchs-lose-a-big-one",
+      "focus": "巴西人口规模"
+    },
+    "explanation": "这里讨论巴西人口规模；人口众多的。"
   },
   "V20261027-102": {
     "gloss": "意义重大的",
     "examples": [
       {
-        "zh": "董事会本周面临一项重大决定。",
-        "en": "The board faces a momentous decision this week."
+        "en": "A presidential election can be a momentous event for regional politics.",
+        "zh": "总统选举可能是地区政治中的重大事件。",
+        "origin": "reading-original"
       },
       {
         "zh": "签署条约是意义重大的时刻。",
-        "en": "Signing the treaty was a momentous occasion."
+        "en": "Signing the treaty was a momentous occasion.",
+        "origin": "transfer-original"
       }
-    ]
+    ],
+    "originalExample": "The board faces a momentous decision this week.",
+    "context": {
+      "kind": "reading",
+      "scene": "Krugman阅读一｜选举规模与结果",
+      "sourceId": "the-oligarchs-lose-a-big-one",
+      "focus": "巴西总统选举的重要性"
+    },
+    "explanation": "这里讨论巴西总统选举的重要性；意义重大并可能带来长期影响的。"
   },
   "V20261027-103": {
     "gloss": "十足的；巨大的",
     "examples": [
       {
-        "zh": "变更规模之大要求分阶段实施。",
-        "en": "The sheer scale of the change requires staging."
+        "en": "The sheer size of an electorate makes access to polling places important.",
+        "zh": "选民规模庞大，使投票地点的可达性尤为重要。",
+        "origin": "reading-original"
       },
       {
         "zh": "请求数量之大令我们惊讶。",
-        "en": "The sheer volume of requests surprised us."
+        "en": "The sheer volume of requests surprised us.",
+        "origin": "transfer-original"
       }
-    ]
+    ],
+    "originalExample": "The sheer scale of the change requires staging.",
+    "context": {
+      "kind": "reading",
+      "scene": "Krugman阅读一｜选举规模与结果",
+      "sourceId": "the-oligarchs-lose-a-big-one",
+      "focus": "国家人口规模的强调"
+    },
+    "explanation": "这里讨论国家人口规模的强调；用于强调数量、规模或程度之大。"
   },
   "V20261027-104": {
     "gloss": "总统的",
     "examples": [
       {
         "zh": "文章讨论了一场总统选举。",
-        "en": "The article discusses a presidential election."
+        "en": "The article discusses a presidential election.",
+        "origin": "reading-original"
       },
       {
         "zh": "档案馆保存着总统演讲稿。",
-        "en": "The archive holds presidential speeches."
+        "en": "The archive holds presidential speeches.",
+        "origin": "transfer-original"
       }
-    ]
+    ],
+    "originalExample": "The article discusses a presidential election.",
+    "context": {
+      "kind": "reading",
+      "scene": "Krugman阅读一｜选举规模与结果",
+      "sourceId": "the-oligarchs-lose-a-big-one",
+      "focus": "总统选举的性质"
+    },
+    "explanation": "这里讨论总统选举的性质；与总统或总统职务有关的。"
   },
   "V20261027-105": {
     "gloss": "现任的；现任者",
     "examples": [
       {
         "zh": "现任领导人为当前政策辩护。",
-        "en": "The incumbent leader defended the current policy."
+        "en": "The incumbent leader defended the current policy.",
+        "origin": "reading-original"
       },
       {
         "zh": "现任市长参加了辩论。",
-        "en": "The incumbent mayor attended the debate."
+        "en": "The incumbent mayor attended the debate.",
+        "origin": "transfer-original"
       }
-    ]
+    ],
+    "originalExample": "The incumbent leader defended the current policy.",
+    "context": {
+      "kind": "reading",
+      "scene": "Krugman阅读一｜选举规模与结果",
+      "sourceId": "the-oligarchs-lose-a-big-one",
+      "focus": "寻求连任的总统"
+    },
+    "explanation": "这里讨论寻求连任的总统；现任的；现任职务者。"
   },
   "V20261027-106": {
     "gloss": "挑战者",
     "examples": [
       {
-        "zh": "领先的挑战者质疑最终计票结果。",
-        "en": "The leading challenger disputed the final count."
+        "en": "A challenger may lead in forecasts yet lose the final vote.",
+        "zh": "挑战者可能在预测中领先，却在最终投票中落败。",
+        "origin": "reading-original"
       },
       {
         "zh": "挑战者提出了不同策略。",
-        "en": "The challenger proposed a different strategy."
+        "en": "The challenger proposed a different strategy.",
+        "origin": "transfer-original"
       }
-    ]
+    ],
+    "originalExample": "The leading challenger disputed the final count.",
+    "context": {
+      "kind": "reading",
+      "scene": "Krugman阅读一｜选举规模与结果",
+      "sourceId": "the-oligarchs-lose-a-big-one",
+      "focus": "挑战现任者的候选人"
+    },
+    "explanation": "这里讨论挑战现任者的候选人；挑战现任者或既有地位的竞争者。"
   },
   "V20261027-107": {
     "gloss": "推翻",
     "examples": [
       {
         "zh": "新证据可能推翻之前的结果。",
-        "en": "New evidence could overturn the earlier result."
+        "en": "New evidence could overturn the earlier result.",
+        "origin": "reading-original"
       },
       {
         "zh": "上诉可能推翻该裁决。",
-        "en": "The appeal could overturn the ruling."
+        "en": "The appeal could overturn the ruling.",
+        "origin": "transfer-original"
       }
-    ]
+    ],
+    "originalExample": "New evidence could overturn the earlier result.",
+    "context": {
+      "kind": "reading",
+      "scene": "Krugman阅读一｜选举规模与结果",
+      "sourceId": "the-oligarchs-lose-a-big-one",
+      "focus": "推翻此前选举结果"
+    },
+    "explanation": "这里讨论推翻此前选举结果；推翻既有决定、结果或裁决。"
   },
   "V20261027-108": {
     "gloss": "预测",
     "examples": [
       {
-        "zh": "将市场预测视为不确定的证据。",
-        "en": "Treat a market prediction as uncertain evidence."
+        "en": "A market prediction is not a substitute for counted votes.",
+        "zh": "市场预测不能代替实际计票结果。",
+        "origin": "reading-original"
       },
       {
         "zh": "她的预测被证明过于乐观。",
-        "en": "Her prediction proved too optimistic."
+        "en": "Her prediction proved too optimistic.",
+        "origin": "transfer-original"
       }
-    ]
+    ],
+    "originalExample": "Treat a market prediction as uncertain evidence.",
+    "context": {
+      "kind": "reading",
+      "scene": "Krugman阅读一｜选举规模与结果",
+      "sourceId": "the-oligarchs-lose-a-big-one",
+      "focus": "预测市场对选举的判断"
+    },
+    "explanation": "这里讨论预测市场对选举的判断；关于未来可能发生什么的判断。"
   },
   "V20261027-109": {
     "gloss": "被操纵而自我怀疑",
     "examples": [
       {
         "zh": "反复否认可能让读者觉得受到心理操纵。",
-        "en": "Readers may feel gaslighted by repeated denials."
+        "en": "Readers may feel gaslighted by repeated denials.",
+        "origin": "reading-original"
       },
       {
         "zh": "自己的记录被否认时，他觉得受到心理操纵。",
-        "en": "He felt gaslighted when his records were dismissed."
+        "en": "He felt gaslighted when his records were dismissed.",
+        "origin": "transfer-original"
       }
-    ]
+    ],
+    "originalExample": "Readers may feel gaslighted by repeated denials.",
+    "context": {
+      "kind": "reading",
+      "scene": "Krugman阅读一｜选举规模与结果",
+      "sourceId": "the-oligarchs-lose-a-big-one",
+      "focus": "舆论操纵使人怀疑自身判断"
+    },
+    "explanation": "这里讨论舆论操纵使人怀疑自身判断；受到持续操纵而开始怀疑自身判断的。"
   },
   "V20261027-110": {
     "gloss": "新闻标题",
     "examples": [
       {
         "zh": "判断报道前仔细读标题。",
-        "en": "Read the headline carefully before judging the report."
+        "en": "Read the headline carefully before judging the report.",
+        "origin": "reading-original"
       },
       {
         "zh": "新闻标题漏掉了一项重要条件。",
-        "en": "The headline left out an important condition."
+        "en": "The headline left out an important condition.",
+        "origin": "transfer-original"
       }
-    ]
+    ],
+    "originalExample": "Read the headline carefully before judging the report.",
+    "context": {
+      "kind": "reading",
+      "scene": "Krugman阅读一｜选举规模与结果",
+      "sourceId": "the-oligarchs-lose-a-big-one",
+      "focus": "媒体对选举结果的概括"
+    },
+    "explanation": "这里讨论媒体对选举结果的概括；用于概括新闻或文章主要内容的标题。"
   },
   "V20261027-111": {
     "gloss": "势均力敌的",
     "examples": [
       {
-        "zh": "势均力敌的竞争可能因微小变化而改变。",
-        "en": "A knife-edge contest can change with a small shift."
+        "en": "The author disputes the headline's description of the election as a knife-edge contest.",
+        "zh": "作者质疑标题把这次选举形容为差距极小的竞争。",
+        "origin": "reading-original"
       },
       {
         "zh": "投票成了一场势均力敌的较量。",
-        "en": "The vote became a knife-edge contest."
+        "en": "The vote became a knife-edge contest.",
+        "origin": "transfer-original"
       }
-    ]
+    ],
+    "originalExample": "A knife-edge contest can change with a small shift.",
+    "context": {
+      "kind": "reading",
+      "scene": "Krugman阅读二｜干扰、限制与受众影响",
+      "sourceId": "the-oligarchs-lose-a-big-one",
+      "focus": "对选举极其接近的描述"
+    },
+    "explanation": "knife-edge 指差距极小、胜负难分；作者在这里质疑媒体用这个词描述选举，不能把被他反驳的标题当成他的结论。"
   },
   "V20261027-112": {
     "gloss": "差距",
     "examples": [
       {
-        "zh": "提案以微弱优势通过。",
-        "en": "The proposal passed by a narrow margin."
+        "en": "The margin between two candidates matters when assessing a headline's accuracy.",
+        "zh": "判断新闻标题是否准确时，两名候选人的得票差距很重要。",
+        "origin": "reading-original"
       },
       {
         "zh": "获胜差距仅为两票。",
-        "en": "The winning margin was just two votes."
+        "en": "The winning margin was just two votes.",
+        "origin": "transfer-original"
       }
-    ]
+    ],
+    "originalExample": "The proposal passed by a narrow margin.",
+    "context": {
+      "kind": "reading",
+      "scene": "Krugman阅读二｜干扰、限制与受众影响",
+      "sourceId": "the-oligarchs-lose-a-big-one",
+      "focus": "候选人得票差距"
+    },
+    "explanation": "这里讨论候选人得票差距；两方结果之间的差距。"
   },
   "V20261027-113": {
     "gloss": "中断事件",
     "examples": [
       {
-        "zh": "为大范围中断准备替代路线。",
-        "en": "Prepare alternate routes for widespread disruptions."
+        "en": "Transport disruptions can prevent voters from reaching polling places.",
+        "zh": "交通中断可能阻碍选民到达投票地点。",
+        "origin": "reading-original"
       },
       {
         "zh": "暴风雨造成的中断延误了早间配送。",
-        "en": "Storm disruptions delayed the morning deliveries."
+        "en": "Storm disruptions delayed the morning deliveries.",
+        "origin": "transfer-original"
       }
-    ]
+    ],
+    "originalExample": "Prepare alternate routes for widespread disruptions.",
+    "context": {
+      "kind": "reading",
+      "scene": "Krugman阅读二｜干扰、限制与受众影响",
+      "sourceId": "the-oligarchs-lose-a-big-one",
+      "focus": "公共交通中断影响投票"
+    },
+    "explanation": "这里讨论公共交通中断影响投票；打断正常运作的事件或干扰。"
   },
   "V20261027-114": {
     "gloss": "被指称的",
     "examples": [
       {
-        "zh": "区分被指称的违规与已证实的违规。",
-        "en": "Separate an alleged violation from a proven one."
+        "en": "Investigators must distinguish alleged interference from established facts.",
+        "zh": "调查者必须区分被指控的干预与已经证实的事实。",
+        "origin": "reading-original"
       },
       {
         "zh": "报告描述了一起被指称的违规行为。",
-        "en": "The report describes an alleged breach."
+        "en": "The report describes an alleged breach.",
+        "origin": "transfer-original"
       }
-    ]
+    ],
+    "originalExample": "Separate an alleged violation from a proven one.",
+    "context": {
+      "kind": "reading",
+      "scene": "Krugman阅读二｜干扰、限制与受众影响",
+      "sourceId": "the-oligarchs-lose-a-big-one",
+      "focus": "尚需核实的选举干预指控"
+    },
+    "explanation": "这里讨论尚需核实的选举干预指控；被声称发生但尚未最终证实的。"
   },
   "V20261027-115": {
     "gloss": "人为策划的",
     "examples": [
       {
-        "zh": "调查人员检验延误是否人为造成。",
-        "en": "Investigators tested whether the delay was engineered."
+        "en": "An inquiry may ask whether transport delays were deliberately engineered.",
+        "zh": "调查可能追问交通延误是否被人为策划。",
+        "origin": "reading-original"
       },
       {
         "zh": "这次突然退出经过精心策划。",
-        "en": "The surprise exit was carefully engineered."
+        "en": "The surprise exit was carefully engineered.",
+        "origin": "transfer-original"
       }
-    ]
+    ],
+    "originalExample": "Investigators tested whether the delay was engineered.",
+    "context": {
+      "kind": "reading",
+      "scene": "Krugman阅读二｜干扰、限制与受众影响",
+      "sourceId": "the-oligarchs-lose-a-big-one",
+      "focus": "交通中断是否被故意安排"
+    },
+    "explanation": "这里讨论交通中断是否被故意安排；被有意设计、安排或造成的。"
   },
   "V20261027-116": {
     "gloss": "承认了",
     "examples": [
       {
-        "zh": "平台以书面形式承认了该限制。",
-        "en": "The platform acknowledged the restriction in writing."
+        "en": "Internal messages acknowledged restrictions on a candidate's account.",
+        "zh": "内部信息承认曾对一名候选人的账号实施限制。",
+        "origin": "reading-original"
       },
       {
         "zh": "她立即承认了错误。",
-        "en": "She acknowledged the error immediately."
+        "en": "She acknowledged the error immediately.",
+        "origin": "transfer-original"
       }
-    ]
+    ],
+    "originalExample": "The platform acknowledged the restriction in writing.",
+    "context": {
+      "kind": "reading",
+      "scene": "Krugman阅读二｜干扰、限制与受众影响",
+      "sourceId": "the-oligarchs-lose-a-big-one",
+      "focus": "平台员工在内部沟通中承认曾限制候选人账号"
+    },
+    "explanation": "这里指平台员工在内部沟通中承认账号受限；acknowledged 只表示承认，不表示公开发布声明。",
+    "meaning": "承认某事实或情况存在；不必是在公开场合承认"
   },
   "V20261027-117": {
     "gloss": "受阻的",
     "examples": [
       {
-        "zh": "审查因访问限制而受阻。",
-        "en": "The review was hindered by access restrictions."
+        "en": "A candidate's campaign can be hindered by limits on online distribution.",
+        "zh": "线上传播限制可能阻碍候选人的竞选活动。",
+        "origin": "reading-original"
       },
       {
         "zh": "大雨阻碍了维修工作。",
-        "en": "Heavy rain hindered the repair work."
+        "en": "Heavy rain hindered the repair work.",
+        "origin": "transfer-original"
       }
-    ]
+    ],
+    "originalExample": "The review was hindered by access restrictions.",
+    "context": {
+      "kind": "reading",
+      "scene": "Krugman阅读二｜干扰、限制与受众影响",
+      "sourceId": "the-oligarchs-lose-a-big-one",
+      "focus": "候选人账号传播受阻"
+    },
+    "explanation": "这里讨论候选人账号传播受阻；受到阻碍而难以顺利进行的。"
   },
   "V20261027-118": {
     "gloss": "限制条件",
     "examples": [
       {
-        "zh": "审核前记录所有访问限制。",
-        "en": "Document all access restrictions before the audit."
+        "en": "Platform restrictions can affect how voters encounter political messages.",
+        "zh": "平台限制可能影响选民接触政治信息的方式。",
+        "origin": "reading-original"
       },
       {
         "zh": "这些限制仅在午夜后适用。",
-        "en": "The restrictions apply only after midnight."
+        "en": "The restrictions apply only after midnight.",
+        "origin": "transfer-original"
       }
-    ]
+    ],
+    "originalExample": "Document all access restrictions before the audit.",
+    "context": {
+      "kind": "reading",
+      "scene": "Krugman阅读二｜干扰、限制与受众影响",
+      "sourceId": "the-oligarchs-lose-a-big-one",
+      "focus": "社交平台对账号的限制"
+    },
+    "explanation": "这里讨论社交平台对账号的限制；限制行动、访问或使用的规则和条件。"
   },
   "V20261027-119": {
     "gloss": "参与互动程度",
     "examples": [
       {
         "zh": "比较两个渠道的受众参与度。",
-        "en": "Compare audience engagement across the two channels."
+        "en": "Compare audience engagement across the two channels.",
+        "origin": "reading-original"
       },
       {
         "zh": "研讨会鼓励积极参与互动。",
-        "en": "The workshop encouraged active engagement."
+        "en": "The workshop encouraged active engagement.",
+        "origin": "transfer-original"
       }
-    ]
+    ],
+    "originalExample": "Compare audience engagement across the two channels.",
+    "context": {
+      "kind": "reading",
+      "scene": "Krugman阅读二｜干扰、限制与受众影响",
+      "sourceId": "the-oligarchs-lose-a-big-one",
+      "focus": "政治账号与受众的互动"
+    },
+    "explanation": "这里讨论政治账号与受众的互动；受众参与、回应或互动的程度。"
   },
   "V20261027-120": {
     "gloss": "有利的",
     "examples": [
       {
-        "zh": "总结对其中一个选项作了有利描述。",
-        "en": "The summary gave one option a favorable portrayal."
+        "en": "A recommendation system can give one candidate favorable exposure.",
+        "zh": "推荐系统可能让某位候选人获得有利的曝光。",
+        "origin": "reading-original"
       },
       {
         "zh": "我们收到了对原型的正面反馈。",
-        "en": "We received favorable feedback on the prototype."
+        "en": "We received favorable feedback on the prototype.",
+        "origin": "transfer-original"
       }
-    ]
+    ],
+    "originalExample": "The summary gave one option a favorable portrayal.",
+    "context": {
+      "kind": "reading",
+      "scene": "Krugman阅读二｜干扰、限制与受众影响",
+      "sourceId": "the-oligarchs-lose-a-big-one",
+      "focus": "平台对候选人的倾向性推荐"
+    },
+    "explanation": "这里讨论平台对候选人的倾向性推荐；有利的；倾向支持某一方的。"
   },
   "V20261027-121": {
     "gloss": "巧合",
     "examples": [
       {
         "zh": "检验这种模式是否并非仅仅巧合。",
-        "en": "Test whether the pattern is more than a mere coincidence."
+        "en": "Test whether the pattern is more than a mere coincidence.",
+        "origin": "reading-original"
       },
       {
         "zh": "他们日期相同只是巧合。",
-        "en": "Their matching dates were a coincidence."
+        "en": "Their matching dates were a coincidence.",
+        "origin": "transfer-original"
       }
-    ]
+    ],
+    "originalExample": "Test whether the pattern is more than a mere coincidence.",
+    "context": {
+      "kind": "reading",
+      "scene": "Krugman阅读三｜巧合、推定与可信度",
+      "sourceId": "the-oligarchs-lose-a-big-one",
+      "focus": "类似技术问题是否纯属巧合"
+    },
+    "explanation": "这里讨论类似技术问题是否纯属巧合；同时发生但未必存在因果关系的巧合。"
   },
   "V20261027-122": {
     "gloss": "推定",
     "examples": [
       {
-        "zh": "正式审判适用无罪推定。",
-        "en": "A presumption of innocence applies in a formal trial."
+        "en": "The author rejects a presumption of good intentions when evaluating powerful platform owners.",
+        "zh": "作者在评价有权势的平台所有者时，不接受预先假定其动机良善。",
+        "origin": "reading-original"
       },
       {
         "zh": "这项推定需要更强支持。",
-        "en": "This presumption needs stronger support."
+        "en": "This presumption needs stronger support.",
+        "origin": "transfer-original"
       }
-    ]
+    ],
+    "originalExample": "A presumption of innocence applies in a formal trial.",
+    "context": {
+      "kind": "reading",
+      "scene": "Krugman阅读三｜巧合、推定与可信度",
+      "sourceId": "the-oligarchs-lose-a-big-one",
+      "focus": "作者反对把政治评判等同于法庭审判"
+    },
+    "explanation": "作者认为评判有权势的平台所有者时，不必像法庭审判那样预先推定其无辜或动机良善；presumption 是在证据未充分讨论前采用的推定。"
   },
   "V20261027-123": {
     "gloss": "可信性",
     "examples": [
       {
-        "zh": "没有记录，这种否认可能缺乏可信性。",
-        "en": "The denial may lack plausibility without records."
+        "en": "An explanation loses plausibility when similar errors always benefit the same side.",
+        "zh": "如果类似错误总有利于同一方，一种解释就会失去可信度。",
+        "origin": "reading-original"
       },
       {
         "zh": "时间线使她的解释具有可信性。",
-        "en": "The timeline gives her explanation plausibility."
+        "en": "The timeline gives her explanation plausibility.",
+        "origin": "transfer-original"
       }
-    ]
+    ],
+    "originalExample": "The denial may lack plausibility without records.",
+    "context": {
+      "kind": "reading",
+      "scene": "Krugman阅读三｜巧合、推定与可信度",
+      "sourceId": "the-oligarchs-lose-a-big-one",
+      "focus": "平台解释是否合理可信"
+    },
+    "explanation": "这里讨论平台解释是否合理可信；某种解释合理可信的程度。"
   },
   "V20261027-124": {
     "gloss": "介入了",
     "examples": [
       {
-        "zh": "发起人直接介入以打破僵局。",
-        "en": "The sponsor intervened directly to break the deadlock."
+        "en": "The article says Musk intervened on Russia's side in the war.",
+        "zh": "文章称，马斯克在战争中介入并支持俄方。",
+        "origin": "reading-original"
       },
       {
         "zh": "调解人在谈判破裂前介入。",
-        "en": "A mediator intervened before talks collapsed."
+        "en": "A mediator intervened before talks collapsed.",
+        "origin": "transfer-original"
       }
-    ]
+    ],
+    "originalExample": "The sponsor intervened directly to break the deadlock.",
+    "context": {
+      "kind": "reading",
+      "scene": "Krugman阅读三｜巧合、推定与可信度",
+      "sourceId": "the-oligarchs-lose-a-big-one",
+      "focus": "作者对马斯克介入俄乌战争的判断"
+    },
+    "explanation": "据作者在文中的判断，intervened 指马斯克介入俄乌战争并支持俄方；这一处不是指巴西选举中的平台限制。"
   },
   "V20261027-125": {
     "gloss": "头脑清醒的",
     "examples": [
       {
-        "zh": "清醒评估剩余风险。",
-        "en": "Give a clear-sighted assessment of the remaining risk."
+        "en": "Clear-sighted voters distinguish evidence from campaign manipulation.",
+        "zh": "判断清醒的选民会区分证据与竞选操纵。",
+        "origin": "reading-original"
       },
       {
         "zh": "她清醒的建议改变了我们的计划。",
-        "en": "Her clear-sighted advice changed our plan."
+        "en": "Her clear-sighted advice changed our plan.",
+        "origin": "transfer-original"
       }
-    ]
+    ],
+    "originalExample": "Give a clear-sighted assessment of the remaining risk.",
+    "context": {
+      "kind": "reading",
+      "scene": "Krugman阅读三｜巧合、推定与可信度",
+      "sourceId": "the-oligarchs-lose-a-big-one",
+      "focus": "选民清醒辨别权力影响"
+    },
+    "explanation": "这里讨论选民清醒辨别权力影响；判断清醒、能准确看清形势的。"
   }
 }

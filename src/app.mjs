@@ -1,3 +1,4 @@
+import {contextSourceMarkup,exampleOriginMarkup} from './source-context.mjs';
 import {reviewSettingsMarkup,bindReviewSettings,syncReviewForm,reviewFeedback} from './review-settings.mjs';
 import {createFaceSizer} from './equal-faces.mjs';
 import {capturePosition,restorePosition} from './reading-position.mjs';
@@ -56,10 +57,10 @@ function termMarkup(w,audio=''){return `<div data-reading-module="term">${sectio
 function contentMarkup(w,only=null){
  const examples=w.examples||[{en:w.example,zh:''}],explanation=w.explanation||w.meaning;
  const blocks={
- meaning:section('meaning','中文词义',`<div class="definition">${learningText(cardLexical(w)?.gloss||w.gloss||w.meaning,'zh','','meaning')}</div>`,'meaning-block'),
+ meaning:section('meaning','中文词义',`<div class="definition">${learningText((w.context?.kind==='reading'?w.gloss:cardLexical(w)?.gloss)||w.gloss||w.meaning,'zh','','meaning')}</div>`,'meaning-block'),
  foundation:foundations(w).length?section('foundation','基础词义',foundations(w).map(f=>`<p><button class="textbutton" data-foundation="${esc(f.word)}">${esc(f.word)}</button> <small>${learningText(f.pos,'pos','','pos')}</small> · ${learningText(f.gloss,'zh','','foundation')}${f.related?`<small>${learningText('（相关基形动词，非本词组的句法词性）','zh','','foundation')}</small>`:''}</p>`).join(''),'foundation'):'',
- context:section('context','语境解释',`<p>${learningText(explanation,'zh','','context')}</p><p class="muted">常用搭配：${esc(w.chunk||'—')}</p>`,'context-detail'),
- examples:section('examples',`例句（${examples.length}）`,`${w.editorialNote?`<p class="hint editorial-note">原例提示：${learningText(w.editorialNote,'zh','','context')}</p>`:''}${examples.map((e,i)=>`<article class="example"><p class="example-english">${learningText(e.en,'en',w.term,'example')}</p>${e.zh?`<p class="example-translation">${learningText(e.zh,'zh','','translation')}</p>`:''}<button class="textbutton" data-example-card="${esc(w.id)}" data-example-index="${i}" aria-label="播放例句${i+1}">🔊 播放例句</button></article>`).join('')}`,'examples-detail')};
+ context:section('context','语境解释',`${contextSourceMarkup(w)}<p>${learningText(explanation,'zh','','context')}</p><p class="muted">常用搭配：${esc(w.chunk||'—')}</p>`,'context-detail'),
+ examples:section('examples',`例句（${examples.length}）`,`${w.editorialNote?`<p class="hint editorial-note">原例提示：${learningText(w.editorialNote,'zh','','context')}</p>`:''}${examples.map((e,i)=>`<article class="example">${exampleOriginMarkup(e)}<p class="example-english">${learningText(e.en,'en',w.term,'example')}</p>${e.zh?`<p class="example-translation">${learningText(e.zh,'zh','','translation')}</p>`:''}<button class="textbutton" data-example-card="${esc(w.id)}" data-example-index="${i}" aria-label="播放例句${i+1}">🔊 播放例句</button></article>`).join('')}`,'examples-detail')};
  if(only)return blocks[only]||'<p class="muted">本词卡暂无基础词义，点击“显示释义”查看其他内容。</p>';
  return Object.values(blocks).join('')+`<div data-lexical-tools="${esc(w.id)}"></div>`;
 }

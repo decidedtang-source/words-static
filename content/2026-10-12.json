@@ -3,1625 +3,2787 @@
     "examples": [
       {
         "zh": "估算成本前，我们需要界定范围。",
-        "en": "We need to define the scope before estimating the cost."
+        "en": "We need to define the scope before estimating the cost.",
+        "origin": "workplace-original"
       },
       {
         "zh": "范围不包括员工培训。",
-        "en": "The scope excludes staff training."
+        "en": "The scope excludes staff training.",
+        "origin": "workplace-original"
       }
     ],
-    "gloss": "范围"
+    "gloss": "范围",
+    "originalExample": "We need to define the scope before estimating the cost.",
+    "context": {
+      "kind": "workplace",
+      "scene": "项目范围与规划",
+      "sourceId": null
+    },
+    "explanation": "在项目范围与规划的工作场景中，项目包含和不包含的工作范围。"
   },
   "V20261012-002": {
     "examples": [
       {
         "zh": "我们的目标是减少审批所用的时间。",
-        "en": "Our objective is to reduce the time spent on approvals."
+        "en": "Our objective is to reduce the time spent on approvals.",
+        "origin": "workplace-original"
       },
       {
         "zh": "每个阶段都有可衡量的目标。",
-        "en": "Each phase has a measurable objective."
+        "en": "Each phase has a measurable objective.",
+        "origin": "workplace-original"
       }
     ],
-    "gloss": "目标"
+    "gloss": "目标",
+    "originalExample": "Our objective is to reduce the time spent on approvals.",
+    "context": {
+      "kind": "workplace",
+      "scene": "项目范围与规划",
+      "sourceId": null
+    },
+    "explanation": "在项目范围与规划中，希望达成的审批耗时缩短目标。目标表达不能证明现状、权限或改善已经实现。"
   },
   "V20261012-003": {
     "examples": [
       {
         "zh": "请列出第一阶段的交付成果。",
-        "en": "Please list the deliverables for the first phase."
+        "en": "Please list the deliverables for the first phase.",
+        "origin": "workplace-original"
       },
       {
         "zh": "最终交付成果是一份测试报告。",
-        "en": "The final deliverable is a test report."
+        "en": "The final deliverable is a test report.",
+        "origin": "workplace-original"
       }
     ],
-    "gloss": "交付成果"
+    "gloss": "交付成果",
+    "originalExample": "Please list the deliverables for the first phase.",
+    "context": {
+      "kind": "workplace",
+      "scene": "项目范围与规划",
+      "sourceId": null
+    },
+    "explanation": "在项目范围与规划的工作场景中，项目需要交付的成果或文件。"
   },
   "V20261012-004": {
     "examples": [
       {
         "zh": "评审后，我们达成了第一个里程碑。",
-        "en": "We reached the first milestone after the review."
+        "en": "We reached the first milestone after the review.",
+        "origin": "workplace-original"
       },
       {
         "zh": "试点启动是我们的下一个里程碑。",
-        "en": "The pilot launch is our next milestone."
+        "en": "The pilot launch is our next milestone.",
+        "origin": "workplace-original"
       }
     ],
-    "gloss": "里程碑"
+    "gloss": "里程碑",
+    "originalExample": "We reached the first milestone after the review.",
+    "context": {
+      "kind": "workplace",
+      "scene": "项目范围与规划",
+      "sourceId": null
+    },
+    "explanation": "在项目范围与规划中，已经达到的第一个重要阶段节点。after表达先后，不能直接推成因果或全部验收通过。"
   },
   "V20261012-005": {
     "examples": [
       {
         "zh": "我们需要为剩余工作设定优先级。",
-        "en": "We need to set priorities for the remaining work."
+        "en": "We need to set priorities for the remaining work.",
+        "origin": "workplace-original"
       },
       {
         "zh": "安全仍是我们的首要任务。",
-        "en": "Safety remains our top priority."
+        "en": "Safety remains our top priority.",
+        "origin": "workplace-original"
       }
     ],
-    "gloss": "优先事项；优先级"
+    "gloss": "优先事项；优先级",
+    "originalExample": "We need to set priorities for the remaining work.",
+    "context": {
+      "kind": "workplace",
+      "scene": "项目范围与规划",
+      "sourceId": null
+    },
+    "explanation": "在项目范围与规划中，对剩余事项安排先处理什么。不能从need to set补出已获批准的任务顺序。"
   },
   "V20261012-006": {
     "examples": [
       {
         "zh": "主要限制是可用评审人员的数量。",
-        "en": "The main constraint is the number of available reviewers."
+        "en": "The main constraint is the number of available reviewers.",
+        "origin": "workplace-original"
       },
       {
         "zh": "这里的空间限制很大。",
-        "en": "Space is a serious constraint here."
+        "en": "Space is a serious constraint here.",
+        "origin": "workplace-original"
       }
     ],
-    "gloss": "限制条件"
+    "gloss": "限制条件",
+    "originalExample": "The main constraint is the number of available reviewers.",
+    "context": {
+      "kind": "workplace",
+      "scene": "项目范围与规划",
+      "sourceId": null
+    },
+    "explanation": "在项目范围与规划中，评审人数量对安排工作形成的主要限制。不能把main误译成唯一限制，也不能推断评审人数已经获准增加。"
   },
   "V20261012-007": {
     "examples": [
       {
         "zh": "确定日程前，请识别各项依赖关系。",
-        "en": "Please identify dependencies before finalizing the schedule."
+        "en": "Please identify dependencies before finalizing the schedule.",
+        "origin": "workplace-original"
       },
       {
         "zh": "这项依赖关系可能延误测试。",
-        "en": "This dependency could delay testing."
+        "en": "This dependency could delay testing.",
+        "origin": "workplace-original"
       }
     ],
-    "gloss": "依赖关系"
+    "gloss": "依赖关系",
+    "originalExample": "Please identify dependencies before finalizing the schedule.",
+    "context": {
+      "kind": "workplace",
+      "scene": "项目范围与规划",
+      "sourceId": null
+    },
+    "explanation": "在项目范围与规划中，排期前需找出的前提或相互制约关系。识别依赖不等于把它们都解决，也不说明供应商一定会延误。"
   },
   "V20261012-008": {
     "examples": [
       {
         "zh": "这项假设需要与供应商核实。",
-        "en": "This assumption needs to be checked with the supplier."
+        "en": "This assumption needs to be checked with the supplier.",
+        "origin": "workplace-original"
       },
       {
         "zh": "我们的估算基于那项假设。",
-        "en": "Our estimate rests on that assumption."
+        "en": "Our estimate rests on that assumption.",
+        "origin": "workplace-original"
       }
     ],
-    "gloss": "假设"
+    "gloss": "假设",
+    "originalExample": "This assumption needs to be checked with the supplier.",
+    "context": {
+      "kind": "workplace",
+      "scene": "项目范围与规划",
+      "sourceId": null
+    },
+    "explanation": "在项目范围与规划中，尚需向供应商验证的前提。不能把“需要核实”译成“供应商已经保证”。"
   },
   "V20261012-009": {
     "examples": [
       {
         "zh": "衡量改进前，我们需要一个基准。",
-        "en": "We need a baseline before measuring the improvement."
+        "en": "We need a baseline before measuring the improvement.",
+        "origin": "workplace-original"
       },
       {
         "zh": "上个月的产量提供了一个基准。",
-        "en": "Last month's output provides a baseline."
+        "en": "Last month's output provides a baseline.",
+        "origin": "workplace-original"
       }
     ],
-    "gloss": "基准"
+    "gloss": "基准",
+    "originalExample": "We need a baseline before measuring the improvement.",
+    "context": {
+      "kind": "workplace",
+      "scene": "项目范围与规划",
+      "sourceId": null
+    },
+    "explanation": "在项目范围与规划中，用于对照改善幅度的起始参照。有了基准不等于改善发生，也未指定冻结配置或正式批准程序。"
   },
   "V20261012-010": {
     "examples": [
       {
         "zh": "计划为评审预留了两天缓冲时间。",
-        "en": "The plan includes a two-day buffer for review."
+        "en": "The plan includes a two-day buffer for review.",
+        "origin": "workplace-original"
       },
       {
         "zh": "为意外费用预留少量缓冲资金。",
-        "en": "Keep a small buffer for unexpected costs."
+        "en": "Keep a small buffer for unexpected costs.",
+        "origin": "workplace-original"
       }
     ],
-    "gloss": "缓冲时间或资源"
+    "gloss": "缓冲时间或资源",
+    "originalExample": "The plan includes a two-day buffer for review.",
+    "context": {
+      "kind": "workplace",
+      "scene": "项目范围与规划",
+      "sourceId": null
+    },
+    "explanation": "在项目范围与规划中，为评审不确定性预留的两天时间余量。两天缓冲不等于两天评审工期，也不意味着所有延误均可接受。"
   },
   "V20261012-011": {
     "examples": [
       {
         "zh": "我们来商定剩余活动的先后顺序。",
-        "en": "Let's agree on the sequence of the remaining activities."
+        "en": "Let's agree on the sequence of the remaining activities.",
+        "origin": "workplace-original"
       },
       {
         "zh": "装配顺序已经改变。",
-        "en": "The assembly sequence has changed."
+        "en": "The assembly sequence has changed.",
+        "origin": "workplace-original"
       }
     ],
-    "gloss": "顺序"
+    "gloss": "顺序",
+    "originalExample": "Let's agree on the sequence of the remaining activities.",
+    "context": {
+      "kind": "workplace",
+      "scene": "资源、责任与承诺",
+      "sourceId": null
+    },
+    "explanation": "在资源、责任与承诺中，有待共同确定的执行先后。不能把建议达成一致写成一致已经形成。"
   },
   "V20261012-012": {
     "examples": [
       {
         "zh": "我们没有足够能力同时启动两个项目。",
-        "en": "We do not have enough capacity to start both projects."
+        "en": "We do not have enough capacity to start both projects.",
+        "origin": "workplace-original"
       },
       {
         "zh": "工厂正满负荷运转。",
-        "en": "The plant is operating at full capacity."
+        "en": "The plant is operating at full capacity.",
+        "origin": "workplace-original"
       }
     ],
-    "gloss": "承载能力；产能"
+    "gloss": "承载能力；产能",
+    "originalExample": "We do not have enough capacity to start both projects.",
+    "context": {
+      "kind": "workplace",
+      "scene": "资源、责任与承诺",
+      "sourceId": null
+    },
+    "explanation": "在资源、责任与承诺中，现有资源能力不足以启动这两个项目。这不是罐体容量的字面用法，也未证明任何成员缺乏技能。"
   },
   "V20261012-013": {
     "examples": [
       {
         "zh": "我们应给初步评审分配更多时间。",
-        "en": "We should allocate more time to the initial review."
+        "en": "We should allocate more time to the initial review.",
+        "origin": "workplace-original"
       },
       {
         "zh": "为试验分配两名工程师。",
-        "en": "Allocate two engineers to the trial."
+        "en": "Allocate two engineers to the trial.",
+        "origin": "workplace-original"
       }
     ],
-    "gloss": "分配"
+    "gloss": "分配",
+    "originalExample": "We should allocate more time to the initial review.",
+    "context": {
+      "kind": "workplace",
+      "scene": "资源、责任与承诺",
+      "sourceId": null
+    },
+    "explanation": "在资源、责任与承诺中，建议增加初次评审可使用的时间。should不是已批准；more不是无限增加，也没有指定从哪项任务挪时间。"
   },
   "V20261012-014": {
     "examples": [
       {
         "zh": "你可以把数据收集委派给另一位团队成员。",
-        "en": "You can delegate the data collection to another team member."
+        "en": "You can delegate the data collection to another team member.",
+        "origin": "workplace-original"
       },
       {
         "zh": "经理应委派常规审批工作。",
-        "en": "Managers should delegate routine approvals."
+        "en": "Managers should delegate routine approvals.",
+        "origin": "workplace-original"
       }
     ],
-    "gloss": "委派"
+    "gloss": "委派",
+    "originalExample": "You can delegate the data collection to another team member.",
+    "context": {
+      "kind": "workplace",
+      "scene": "资源、责任与承诺",
+      "sourceId": null
+    },
+    "explanation": "在资源、责任与承诺中，允许或提出把数据收集任务委派给他人。can并未宣布已经委派，也不证明接手者获得批准权限。"
   },
   "V20261012-015": {
     "examples": [
       {
         "zh": "谁来负责推进这项未结事项？",
-        "en": "Who will take ownership of this open item?"
+        "en": "Who will take ownership of this open item?",
+        "origin": "workplace-original"
       },
       {
         "zh": "明确责任归属可避免重复工作。",
-        "en": "Clear ownership prevents duplicated work."
+        "en": "Clear ownership prevents duplicated work.",
+        "origin": "workplace-original"
       }
     ],
-    "gloss": "责任归属"
+    "gloss": "责任归属",
+    "originalExample": "Who will take ownership of this open item?",
+    "context": {
+      "kind": "workplace",
+      "scene": "资源、责任与承诺",
+      "sourceId": null
+    },
+    "explanation": "在资源、责任与承诺中，承担这个未结事项的协调与跟进责任。承担事项不自动取得支出、批准或人员管理权限。"
   },
   "V20261012-016": {
     "examples": [
       {
         "zh": "必须有一个人对最终决定负责。",
-        "en": "One person must be accountable for the final decision."
+        "en": "One person must be accountable for the final decision.",
+        "origin": "workplace-original"
       },
       {
         "zh": "总监须对质量负责。",
-        "en": "The director is accountable for quality."
+        "en": "The director is accountable for quality.",
+        "origin": "workplace-original"
       }
     ],
-    "gloss": "须对结果负责的"
+    "gloss": "须对结果负责的",
+    "originalExample": "One person must be accountable for the final decision.",
+    "context": {
+      "kind": "workplace",
+      "scene": "资源、责任与承诺",
+      "sourceId": null
+    },
+    "explanation": "在资源、责任与承诺中，要求明确一名对最终决定承担问责责任的人。must是要求而非任命完成；原句没有指定此人是谁或其全部权限。"
   },
   "V20261012-017": {
     "examples": [
       {
         "zh": "为赶上截止期限，我们今天需要作出决定。",
-        "en": "We need a decision today to meet the deadline."
+        "en": "We need a decision today to meet the deadline.",
+        "origin": "workplace-original"
       },
       {
         "zh": "提交截止日期是周一。",
-        "en": "The submission deadline is Monday."
+        "en": "The submission deadline is Monday.",
+        "origin": "workplace-original"
       }
     ],
-    "gloss": "截止期限"
+    "gloss": "截止期限",
+    "originalExample": "We need a decision today to meet the deadline.",
+    "context": {
+      "kind": "workplace",
+      "scene": "资源、责任与承诺",
+      "sourceId": null
+    },
+    "explanation": "在资源、责任与承诺中，需要按时完成事项的最后期限。不能将today误读为明示的最终截止日，也不能推出决定已经作出。"
   },
   "V20261012-018": {
     "examples": [
       {
         "zh": "请确认这项承诺所依据的条件。",
-        "en": "Please confirm the conditions behind this commitment."
+        "en": "Please confirm the conditions behind this commitment.",
+        "origin": "workplace-original"
       },
       {
         "zh": "未经批准不要作出承诺。",
-        "en": "Do not make a commitment without approval."
+        "en": "Do not make a commitment without approval.",
+        "origin": "workplace-original"
       }
     ],
-    "gloss": "承诺"
+    "gloss": "承诺",
+    "originalExample": "Please confirm the conditions behind this commitment.",
+    "context": {
+      "kind": "workplace",
+      "scene": "资源、责任与承诺",
+      "sourceId": null
+    },
+    "explanation": "在资源、责任与承诺中，需要核对其成立条件的承诺。不能从一个commitment推断合同法律效力、具体批准人或无条件保证。"
   },
   "V20261012-019": {
     "examples": [
       {
         "zh": "如果评审人员无法参与，我们需要应急计划。",
-        "en": "We need a contingency plan if the reviewer is unavailable."
+        "en": "We need a contingency plan if the reviewer is unavailable.",
+        "origin": "workplace-original"
       },
       {
         "zh": "预算涵盖了这项意外情况。",
-        "en": "The budget covers this contingency."
+        "en": "The budget covers this contingency.",
+        "origin": "workplace-original"
       }
     ],
-    "gloss": "意外情况"
+    "gloss": "意外情况",
+    "originalExample": "We need a contingency plan if the reviewer is unavailable.",
+    "context": {
+      "kind": "workplace",
+      "scene": "资源、责任与承诺",
+      "sourceId": null
+    },
+    "explanation": "在资源、责任与承诺中，为评审人不可用这一可能情况准备的应变安排。没有说评审人一定缺席，也没有允许跳过必要评审。"
   },
   "V20261012-020": {
     "examples": [
       {
         "zh": "更快交付与更低成本之间存在取舍。",
-        "en": "There is a trade-off between a faster delivery and a lower cost."
+        "en": "There is a trade-off between a faster delivery and a lower cost.",
+        "origin": "workplace-original"
       },
       {
         "zh": "每项设计都涉及取舍。",
-        "en": "Every design involves a trade-off."
+        "en": "Every design involves a trade-off.",
+        "origin": "workplace-original"
       }
     ],
-    "gloss": "取舍；权衡"
+    "gloss": "取舍；权衡",
+    "originalExample": "There is a trade-off between a faster delivery and a lower cost.",
+    "context": {
+      "kind": "workplace",
+      "scene": "资源、责任与承诺",
+      "sourceId": null
+    },
+    "explanation": "在资源、责任与承诺中，交付速度与成本目标不能在当前设定中同时无限改善。不能自动推出必须接受高成本，或速度和成本在任何条件下都必然冲突。"
   },
   "V20261012-021": {
     "examples": [
       {
         "zh": "以我们现有资源，这个方案可行吗？",
-        "en": "Is this option feasible with our current resources?"
+        "en": "Is this option feasible with our current resources?",
+        "origin": "workplace-original"
       },
       {
         "zh": "规模更小的试验似乎可行。",
-        "en": "A smaller trial seems feasible."
+        "en": "A smaller trial seems feasible.",
+        "origin": "workplace-original"
       }
     ],
-    "gloss": "可行的"
+    "gloss": "可行的",
+    "originalExample": "Is this option feasible with our current resources?",
+    "context": {
+      "kind": "workplace",
+      "scene": "计划调整与进度风险",
+      "sourceId": null
+    },
+    "explanation": "在计划调整与进度风险中，询问当前资源条件是否足以实施这个选项。问句不代表已经可行，资源可行也不自动代表安全、合规或获批。"
   },
   "V20261012-022": {
     "examples": [
       {
         "zh": "评审结束前，周五只是暂定日期。",
-        "en": "Friday is a tentative date until the review is complete."
+        "en": "Friday is a tentative date until the review is complete.",
+        "origin": "workplace-original"
       },
       {
         "zh": "我们已达成暂定协议。",
-        "en": "We have a tentative agreement."
+        "en": "We have a tentative agreement.",
+        "origin": "workplace-original"
       }
     ],
-    "gloss": "暂定的"
+    "gloss": "暂定的",
+    "originalExample": "Friday is a tentative date until the review is complete.",
+    "context": {
+      "kind": "workplace",
+      "scene": "计划调整与进度风险",
+      "sourceId": null
+    },
+    "explanation": "在计划调整与进度风险中，星期五尚未成为最终确定的日期。不能将until从句改译成“评审通过后一定星期五交付”。"
   },
   "V20261012-023": {
     "examples": [
       {
         "zh": "这项行动已逾期，因此需要更新完成时间。",
-        "en": "The action is overdue, so we need an updated completion time."
+        "en": "The action is overdue, so we need an updated completion time.",
+        "origin": "workplace-original"
       },
       {
         "zh": "两张发票已逾期未付。",
-        "en": "Two invoices are overdue."
+        "en": "Two invoices are overdue.",
+        "origin": "workplace-original"
       }
     ],
-    "gloss": "逾期的"
+    "gloss": "逾期的",
+    "originalExample": "The action is overdue, so we need an updated completion time.",
+    "context": {
+      "kind": "workplace",
+      "scene": "计划调整与进度风险",
+      "sourceId": null
+    },
+    "explanation": "在计划调整与进度风险中，行动超过原本应完成的时间而仍未完成。逾期不等于取消或证明个人失职；更新日期也不等于工作已完成。"
   },
   "V20261012-024": {
     "examples": [
       {
         "zh": "审批仍在等待中，因此我们还不能继续。",
-        "en": "Approval is still pending, so we cannot proceed yet."
+        "en": "Approval is still pending, so we cannot proceed yet.",
+        "origin": "workplace-original"
       },
       {
         "zh": "三项申请仍待处理。",
-        "en": "Three requests remain pending."
+        "en": "Three requests remain pending.",
+        "origin": "workplace-original"
       }
     ],
-    "gloss": "待定的；待处理的"
+    "gloss": "待定的；待处理的",
+    "originalExample": "Approval is still pending, so we cannot proceed yet.",
+    "context": {
+      "kind": "workplace",
+      "scene": "计划调整与进度风险",
+      "sourceId": null
+    },
+    "explanation": "在计划调整与进度风险中，批准结果尚未作出或确认。原句允许得出的只有当前不能继续，不能补出批准人或预计批准时间。"
   },
   "V20261012-025": {
     "examples": [
       {
         "zh": "接受更多请求前，我们将清理积压工作。",
-        "en": "We will clear the backlog before accepting more requests."
+        "en": "We will clear the backlog before accepting more requests.",
+        "origin": "workplace-original"
       },
       {
         "zh": "维修积压工作不断增加。",
-        "en": "The maintenance backlog keeps growing."
+        "en": "The maintenance backlog keeps growing.",
+        "origin": "workplace-original"
       }
     ],
-    "gloss": "积压工作"
+    "gloss": "积压工作",
+    "originalExample": "We will clear the backlog before accepting more requests.",
+    "context": {
+      "kind": "workplace",
+      "scene": "计划调整与进度风险",
+      "sourceId": null
+    },
+    "explanation": "在计划调整与进度风险中，尚未完成、需要先处理的积压事项。will不是已清空；句子没有提供紧急请求的例外规则。"
   },
   "V20261012-026": {
     "examples": [
       {
         "zh": "审批环节已成为瓶颈。",
-        "en": "The approval step has become a bottleneck."
+        "en": "The approval step has become a bottleneck.",
+        "origin": "workplace-original"
       },
       {
         "zh": "包装是主要生产瓶颈。",
-        "en": "Packaging is the main production bottleneck."
+        "en": "Packaging is the main production bottleneck.",
+        "origin": "workplace-original"
       }
     ],
-    "gloss": "瓶颈"
+    "gloss": "瓶颈",
+    "originalExample": "The approval step has become a bottleneck.",
+    "context": {
+      "kind": "workplace",
+      "scene": "计划调整与进度风险",
+      "sourceId": null
+    },
+    "explanation": "在计划调整与进度风险中，审批步骤正在限制流程进展。不能直接归咎于审批人，也不能由此推断可以取消审批。"
   },
   "V20261012-027": {
     "examples": [
       {
         "zh": "进度延误影响下个团队前，我们应及时报告。",
-        "en": "We should report schedule slippage before it affects the next team."
+        "en": "We should report schedule slippage before it affects the next team.",
+        "origin": "workplace-original"
       },
       {
         "zh": "每周检查发现进度进一步延误。",
-        "en": "Weekly checks revealed further slippage."
+        "en": "Weekly checks revealed further slippage.",
+        "origin": "workplace-original"
       }
     ],
-    "gloss": "进度延误"
+    "gloss": "进度延误",
+    "originalExample": "We should report schedule slippage before it affects the next team.",
+    "context": {
+      "kind": "workplace",
+      "scene": "计划调整与进度风险",
+      "sourceId": null
+    },
+    "explanation": "在计划调整与进度风险的工作场景中，相对原计划发生的延误或偏移。"
   },
   "V20261012-028": {
     "examples": [
       {
         "zh": "缺少批准是暂时挫折，并非停止项目的理由。",
-        "en": "The missing approval is a temporary setback, not a reason to stop the project."
+        "en": "The missing approval is a temporary setback, not a reason to stop the project.",
+        "origin": "workplace-original"
       },
       {
         "zh": "试验失败是一次挫折。",
-        "en": "The failed trial was a setback."
+        "en": "The failed trial was a setback.",
+        "origin": "workplace-original"
       }
     ],
-    "gloss": "挫折；进展受阻"
+    "gloss": "挫折；进展受阻",
+    "originalExample": "The missing approval is a temporary setback, not a reason to stop the project.",
+    "context": {
+      "kind": "workplace",
+      "scene": "计划调整与进度风险",
+      "sourceId": null
+    },
+    "explanation": "在计划调整与进度风险中，说话者把未获批准界定为暂时妨碍进展的情况。原句不授权绕过审批；暂时是说话者判断而非已验证恢复期限。"
   },
   "V20261012-029": {
     "examples": [
       {
         "zh": "如果各团队无法达成一致，我们应将问题上报。",
-        "en": "We should escalate the issue if the teams cannot agree."
+        "en": "We should escalate the issue if the teams cannot agree.",
+        "origin": "workplace-original"
       },
       {
         "zh": "立即上报未解决的安全问题。",
-        "en": "Escalate unresolved safety concerns immediately."
+        "en": "Escalate unresolved safety concerns immediately.",
+        "origin": "workplace-original"
       }
     ],
-    "gloss": "上报协调"
+    "gloss": "上报协调",
+    "originalExample": "We should escalate the issue if the teams cannot agree.",
+    "context": {
+      "kind": "workplace",
+      "scene": "计划调整与进度风险",
+      "sourceId": null
+    },
+    "explanation": "在计划调整与进度风险中，在团队无法达成一致时建议向更高层寻求处理。不能删除if，也不能把升级处理翻成故意扩大冲突。"
   },
   "V20261012-030": {
     "examples": [
       {
         "zh": "提前评审有助于降低进度风险。",
-        "en": "An earlier review would help mitigate the schedule risk."
+        "en": "An earlier review would help mitigate the schedule risk.",
+        "origin": "workplace-original"
       },
       {
         "zh": "增加库存可缓解供应风险。",
-        "en": "Extra stock can mitigate supply risks."
+        "en": "Extra stock can mitigate supply risks.",
+        "origin": "workplace-original"
       }
     ],
-    "gloss": "减轻；缓解"
+    "gloss": "减轻；缓解",
+    "originalExample": "An earlier review would help mitigate the schedule risk.",
+    "context": {
+      "kind": "workplace",
+      "scene": "计划调整与进度风险",
+      "sourceId": null
+    },
+    "explanation": "在计划调整与进度风险中，提议通过提前评审减轻日程风险。降低不等于归零；提议也不等于措施已执行。"
   },
   "V20261012-031": {
     "examples": [
       {
         "zh": "我们将监测进度并报告任何重大变化。",
-        "en": "We will monitor progress and report any significant change."
+        "en": "We will monitor progress and report any significant change.",
+        "origin": "workplace-original"
       },
       {
         "zh": "运输期间监测温度。",
-        "en": "Monitor the temperature during transport."
+        "en": "Monitor the temperature during transport.",
+        "origin": "workplace-original"
       }
     ],
-    "gloss": "监测；持续关注"
+    "gloss": "监测；持续关注",
+    "originalExample": "We will monitor progress and report any significant change.",
+    "context": {
+      "kind": "workplace",
+      "scene": "推动行动与确认结果",
+      "sourceId": null
+    },
+    "explanation": "在推动行动与确认结果中，持续留意进度并在发生显著变化时报告。未给出的频率和报告渠道不能当作已有制度。"
   },
   "V20261012-032": {
     "examples": [
       {
         "zh": "范围变化后，我们需要重新评估计划。",
-        "en": "We need to reassess the plan after the scope change."
+        "en": "We need to reassess the plan after the scope change.",
+        "origin": "workplace-original"
       },
       {
         "zh": "假期后重新评估需求。",
-        "en": "Reassess demand after the holiday."
+        "en": "Reassess demand after the holiday.",
+        "origin": "workplace-original"
       }
     ],
-    "gloss": "重新评估"
+    "gloss": "重新评估",
+    "originalExample": "We need to reassess the plan after the scope change.",
+    "context": {
+      "kind": "workplace",
+      "scene": "推动行动与确认结果",
+      "sourceId": null
+    },
+    "explanation": "在推动行动与确认结果中，基于范围变化再检查原计划是否适用。需要重评不代表已经重评，也不自动批准计划修改。"
   },
   "V20261012-033": {
     "examples": [
       {
         "zh": "我们可等缺失数据到齐后再作决定。",
-        "en": "We can defer the decision until the missing data arrives."
+        "en": "We can defer the decision until the missing data arrives.",
+        "origin": "workplace-original"
       },
       {
         "zh": "我们同意推迟发布。",
-        "en": "We agreed to defer the launch."
+        "en": "We agreed to defer the launch.",
+        "origin": "workplace-original"
       }
     ],
-    "gloss": "推迟"
+    "gloss": "推迟",
+    "originalExample": "We can defer the decision until the missing data arrives.",
+    "context": {
+      "kind": "workplace",
+      "scene": "推动行动与确认结果",
+      "sourceId": null
+    },
+    "explanation": "在推动行动与确认结果中，提出等待必要数据后再决定的选项。can不是实际已延期；数据到达不自动保证某个决定获批。"
   },
   "V20261012-034": {
     "examples": [
       {
         "zh": "你能在不省略检查的前提下帮助加快评审吗？",
-        "en": "Could you help expedite the review without skipping any checks?"
+        "en": "Could you help expedite the review without skipping any checks?",
+        "origin": "workplace-original"
       },
       {
         "zh": "请加快替换品发货。",
-        "en": "Please expedite the replacement shipment."
+        "en": "Please expedite the replacement shipment.",
+        "origin": "workplace-original"
       }
     ],
-    "gloss": "加快处理"
+    "gloss": "加快处理",
+    "originalExample": "Could you help expedite the review without skipping any checks?",
+    "context": {
+      "kind": "workplace",
+      "scene": "推动行动与确认结果",
+      "sourceId": null
+    },
+    "explanation": "在推动行动与确认结果中，请求在保留全部检查的条件下加快评审。请求尚未被接受，也没有授予跳过检查的权力。"
   },
   "V20261012-035": {
     "examples": [
       {
         "zh": "签字批准前，我们需要解决范围问题。",
-        "en": "We need to resolve the scope issue before signing off."
+        "en": "We need to resolve the scope issue before signing off.",
+        "origin": "workplace-original"
       },
       {
         "zh": "两个团队解决了定价争议。",
-        "en": "The teams resolved their pricing dispute."
+        "en": "The teams resolved their pricing dispute.",
+        "origin": "workplace-original"
       }
     ],
-    "gloss": "解决"
+    "gloss": "解决",
+    "originalExample": "We need to resolve the scope issue before signing off.",
+    "context": {
+      "kind": "workplace",
+      "scene": "推动行动与确认结果",
+      "sourceId": null
+    },
+    "explanation": "在推动行动与确认结果中，把范围问题处理清楚作为批准前的条件。原句没有宣布问题已解决或签字已完成。"
   },
   "V20261012-036": {
     "examples": [
       {
         "zh": "清晰的交接将帮助下个团队顺利启动。",
-        "en": "A clear handover will help the next team start smoothly."
+        "en": "A clear handover will help the next team start smoothly.",
+        "origin": "workplace-original"
       },
       {
         "zh": "交班需要十分钟。",
-        "en": "The shift handover takes ten minutes."
+        "en": "The shift handover takes ten minutes.",
+        "origin": "workplace-original"
       }
     ],
-    "gloss": "交接"
+    "gloss": "交接",
+    "originalExample": "A clear handover will help the next team start smoothly.",
+    "context": {
+      "kind": "workplace",
+      "scene": "推动行动与确认结果",
+      "sourceId": null
+    },
+    "explanation": "在推动行动与确认结果中，让接手团队了解并接续工作的交接。will help表示有帮助，不是保证顺利；未说明交接已经完成。"
   },
   "V20261012-037": {
     "examples": [
       {
         "zh": "继续推进前，我们需要项目经理正式批准。",
-        "en": "We need the project manager's sign-off before proceeding."
+        "en": "We need the project manager's sign-off before proceeding.",
+        "origin": "workplace-original"
       },
       {
         "zh": "仍需财务部门正式批准。",
-        "en": "Finance sign-off is still required."
+        "en": "Finance sign-off is still required.",
+        "origin": "workplace-original"
       }
     ],
-    "gloss": "正式批准"
+    "gloss": "正式批准",
+    "originalExample": "We need the project manager's sign-off before proceeding.",
+    "context": {
+      "kind": "workplace",
+      "scene": "推动行动与确认结果",
+      "sourceId": null
+    },
+    "explanation": "在推动行动与确认结果中，本情境继续执行所需的项目经理正式批准。需要批准不等于已批准，也不能把本句推广成任何组织都由项目经理批准所有事项。"
   },
   "V20261012-038": {
     "examples": [
       {
         "zh": "我们将检查节点设在周三下午吧。",
-        "en": "Let's set a checkpoint for Wednesday afternoon."
+        "en": "Let's set a checkpoint for Wednesday afternoon.",
+        "origin": "workplace-original"
       },
       {
         "zh": "下个检查节点将审查测试结果。",
-        "en": "The next checkpoint covers test results."
+        "en": "The next checkpoint covers test results.",
+        "origin": "workplace-original"
       }
     ],
-    "gloss": "检查节点"
+    "gloss": "检查节点",
+    "originalExample": "Let's set a checkpoint for Wednesday afternoon.",
+    "context": {
+      "kind": "workplace",
+      "scene": "推动行动与确认结果",
+      "sourceId": null
+    },
+    "explanation": "在推动行动与确认结果中，提议在星期三下午安排一次检查进展或状态的节点。建议不是已确认日程，也未说明该节点有正式放行权。"
   },
   "V20261012-039": {
     "examples": [
       {
         "zh": "检查最终结果后，请确认结案。",
-        "en": "Please confirm closure after checking the final result."
+        "en": "Please confirm closure after checking the final result.",
+        "origin": "workplace-original"
       },
       {
         "zh": "结案需要完成证据。",
-        "en": "Closure requires evidence of completion."
+        "en": "Closure requires evidence of completion.",
+        "origin": "workplace-original"
       }
     ],
-    "gloss": "结案；正式结束"
+    "gloss": "结案；正式结束",
+    "originalExample": "Please confirm closure after checking the final result.",
+    "context": {
+      "kind": "workplace",
+      "scene": "推动行动与确认结果",
+      "sourceId": null
+    },
+    "explanation": "在推动行动与确认结果的工作场景中，在结果得到确认后结束事项的状态或过程。"
   },
   "V20261012-040": {
     "examples": [
       {
         "zh": "预期结果是一项决定，而非另一轮讨论。",
-        "en": "The expected outcome is a decision, not another discussion."
+        "en": "The expected outcome is a decision, not another discussion.",
+        "origin": "workplace-original"
       },
       {
         "zh": "结果超出了我们的预期。",
-        "en": "The outcome exceeded our expectations."
+        "en": "The outcome exceeded our expectations.",
+        "origin": "workplace-original"
       }
     ],
-    "gloss": "结果"
+    "gloss": "结果",
+    "originalExample": "The expected outcome is a decision, not another discussion.",
+    "context": {
+      "kind": "workplace",
+      "scene": "推动行动与确认结果",
+      "sourceId": null
+    },
+    "explanation": "在推动行动与确认结果中，把作出决定设为此次活动希望得到的结果。不能将预期决定当成已批准结论，也未否认必要讨论的价值。"
   },
   "V20261012-041": {
     "examples": [
       {
         "zh": "请在会议前发送议程。",
-        "en": "Please send the agenda before the meeting."
+        "en": "Please send the agenda before the meeting.",
+        "origin": "workplace-original"
       },
       {
         "zh": "把人员配置加入明天的议程。",
-        "en": "Add staffing to tomorrow's agenda."
+        "en": "Add staffing to tomorrow's agenda.",
+        "origin": "workplace-original"
       }
     ],
-    "gloss": "议程"
+    "gloss": "议程",
+    "originalExample": "Please send the agenda before the meeting.",
+    "context": {
+      "kind": "workplace",
+      "scene": "组织打合与对齐理解",
+      "sourceId": null
+    },
+    "explanation": "在组织打合与对齐理解的工作场景中，会议准备讨论的事项清单。"
   },
   "V20261012-042": {
     "examples": [
       {
         "zh": "讨论选项前，让我先提供一些背景。",
-        "en": "Let me provide some context before we discuss the options."
+        "en": "Let me provide some context before we discuss the options.",
+        "origin": "workplace-original"
       },
       {
         "zh": "这张图需要更多背景信息。",
-        "en": "The chart needs more context."
+        "en": "The chart needs more context.",
+        "origin": "workplace-original"
       }
     ],
-    "gloss": "背景"
+    "gloss": "背景",
+    "originalExample": "Let me provide some context before we discuss the options.",
+    "context": {
+      "kind": "workplace",
+      "scene": "组织打合与对齐理解",
+      "sourceId": null
+    },
+    "explanation": "在组织打合与对齐理解的工作场景中，理解当前事项所需的背景。"
   },
   "V20261012-043": {
     "examples": [
       {
         "zh": "你能澄清这项请求包含什么吗？",
-        "en": "Could you clarify what is included in this request?"
+        "en": "Could you clarify what is included in this request?",
+        "origin": "workplace-original"
       },
       {
         "zh": "请澄清付款条件。",
-        "en": "Please clarify the payment terms."
+        "en": "Please clarify the payment terms.",
+        "origin": "workplace-original"
       }
     ],
-    "gloss": "澄清"
+    "gloss": "澄清",
+    "originalExample": "Could you clarify what is included in this request?",
+    "context": {
+      "kind": "workplace",
+      "scene": "组织打合与对齐理解",
+      "sourceId": null
+    },
+    "explanation": "在组织打合与对齐理解的工作场景中，把含糊的意思、范围或要求讲清楚。"
   },
   "V20261012-044": {
     "examples": [
       {
         "zh": "请确认谁将负责下一项行动。",
-        "en": "Please confirm who will own the next action."
+        "en": "Please confirm who will own the next action.",
+        "origin": "workplace-original"
       },
       {
         "zh": "下单前确认数量。",
-        "en": "Confirm the quantity before ordering."
+        "en": "Confirm the quantity before ordering.",
+        "origin": "workplace-original"
       }
     ],
-    "gloss": "确认"
+    "gloss": "确认",
+    "originalExample": "Please confirm who will own the next action.",
+    "context": {
+      "kind": "workplace",
+      "scene": "组织打合与对齐理解",
+      "sourceId": null
+    },
+    "explanation": "在组织打合与对齐理解的工作场景中，确认信息、安排或双方理解是否成立。"
   },
   "V20261012-045": {
     "examples": [
       {
         "zh": "请明确说明接受此提案的条件。",
-        "en": "Please specify the conditions for accepting this proposal."
+        "en": "Please specify the conditions for accepting this proposal.",
+        "origin": "workplace-original"
       },
       {
         "zh": "合同明确规定交货日期。",
-        "en": "The contract specifies delivery dates."
+        "en": "The contract specifies delivery dates.",
+        "origin": "workplace-original"
       }
     ],
-    "gloss": "明确说明"
+    "gloss": "明确说明",
+    "originalExample": "Please specify the conditions for accepting this proposal.",
+    "context": {
+      "kind": "workplace",
+      "scene": "组织打合与对齐理解",
+      "sourceId": null
+    },
+    "explanation": "在组织打合与对齐理解的工作场景中，明确写出或说出具体要求。"
   },
   "V20261012-046": {
     "examples": [
       {
         "zh": "你能详细说明对时间安排的担忧吗？",
-        "en": "Could you elaborate on the concern about timing?"
+        "en": "Could you elaborate on the concern about timing?",
+        "origin": "workplace-original"
       },
       {
         "zh": "你能详细说明那项风险吗？",
-        "en": "Could you elaborate on that risk?"
+        "en": "Could you elaborate on that risk?",
+        "origin": "workplace-original"
       }
     ],
-    "gloss": "详细说明"
+    "gloss": "详细说明",
+    "originalExample": "Could you elaborate on the concern about timing?",
+    "context": {
+      "kind": "workplace",
+      "scene": "组织打合与对齐理解",
+      "sourceId": null
+    },
+    "explanation": "在组织打合与对齐理解的工作场景中，对已经说出的观点进一步详细说明。"
   },
   "V20261012-047": {
     "examples": [
       {
         "zh": "让我概括各项决定和剩余问题。",
-        "en": "Let me summarize the decisions and remaining questions."
+        "en": "Let me summarize the decisions and remaining questions.",
+        "origin": "workplace-original"
       },
       {
         "zh": "用一段话概括调查结果。",
-        "en": "Summarize the findings in one paragraph."
+        "en": "Summarize the findings in one paragraph.",
+        "origin": "workplace-original"
       }
     ],
-    "gloss": "概括"
+    "gloss": "概括",
+    "originalExample": "Let me summarize the decisions and remaining questions.",
+    "context": {
+      "kind": "workplace",
+      "scene": "组织打合与对齐理解",
+      "sourceId": null
+    },
+    "explanation": "在组织打合与对齐理解的工作场景中，概括重点而不是重复全部细节。"
   },
   "V20261012-048": {
     "examples": [
       {
         "zh": "你能为新成员简要回顾要点吗？",
-        "en": "Could you recap the main points for the new team member?"
+        "en": "Could you recap the main points for the new team member?",
+        "origin": "workplace-original"
       },
       {
         "zh": "我们来简要回顾昨天的决定。",
-        "en": "Let's recap yesterday's decisions."
+        "en": "Let's recap yesterday's decisions.",
+        "origin": "workplace-original"
       }
     ],
-    "gloss": "简要回顾"
+    "gloss": "简要回顾",
+    "originalExample": "Could you recap the main points for the new team member?",
+    "context": {
+      "kind": "workplace",
+      "scene": "组织打合与对齐理解",
+      "sourceId": null
+    },
+    "explanation": "在组织打合与对齐理解的工作场景中，简短回顾已经讨论或发生的内容。"
   },
   "V20261012-049": {
     "examples": [
       {
         "zh": "分配工作前，我们需要就优先级达成一致。",
-        "en": "We need to align on priorities before assigning the work."
+        "en": "We need to align on priorities before assigning the work.",
+        "origin": "workplace-original"
       },
       {
         "zh": "使预测与实际订单相符。",
-        "en": "Align the forecast with actual orders."
+        "en": "Align the forecast with actual orders.",
+        "origin": "workplace-original"
       }
     ],
-    "gloss": "使一致；协调"
+    "gloss": "使一致；协调",
+    "originalExample": "We need to align on priorities before assigning the work.",
+    "context": {
+      "kind": "workplace",
+      "scene": "组织打合与对齐理解",
+      "sourceId": null
+    },
+    "explanation": "在组织打合与对齐理解的工作场景中，使目标、理解或安排彼此一致。"
   },
   "V20261012-050": {
     "examples": [
       {
         "zh": "我们就主要目标达成了共识。",
-        "en": "We reached a consensus on the main objective."
+        "en": "We reached a consensus on the main objective.",
+        "origin": "workplace-original"
       },
       {
         "zh": "定价问题尚无共识。",
-        "en": "There is no consensus on pricing."
+        "en": "There is no consensus on pricing.",
+        "origin": "workplace-original"
       }
     ],
-    "gloss": "共识"
+    "gloss": "共识",
+    "originalExample": "We reached a consensus on the main objective.",
+    "context": {
+      "kind": "workplace",
+      "scene": "组织打合与对齐理解",
+      "sourceId": null
+    },
+    "explanation": "在组织打合与对齐理解的工作场景中，团队对某个方向形成的普遍共识。"
   },
   "V20261012-051": {
     "examples": [
       {
         "zh": "我主要担心可供评审的时间。",
-        "en": "My main concern is the time available for review."
+        "en": "My main concern is the time available for review.",
+        "origin": "workplace-original"
       },
       {
         "zh": "她对安全的担忧有道理。",
-        "en": "Her concern about safety was valid."
+        "en": "Her concern about safety was valid.",
+        "origin": "workplace-original"
       }
     ],
-    "gloss": "担忧；关注事项"
+    "gloss": "担忧；关注事项",
+    "originalExample": "My main concern is the time available for review.",
+    "context": {
+      "kind": "workplace",
+      "scene": "讨论意见与达成决定",
+      "sourceId": null
+    },
+    "explanation": "在讨论意见与达成决定的工作场景中，值得注意或让人担心的事项。"
   },
   "V20261012-052": {
     "examples": [
       {
         "zh": "有人反对调整后的顺序吗？",
-        "en": "Does anyone have an objection to the revised sequence?"
+        "en": "Does anyone have an objection to the revised sequence?",
+        "origin": "workplace-original"
       },
       {
         "zh": "供应商提出了反对意见。",
-        "en": "The supplier raised an objection."
+        "en": "The supplier raised an objection.",
+        "origin": "workplace-original"
       }
     ],
-    "gloss": "反对意见"
+    "gloss": "反对意见",
+    "originalExample": "Does anyone have an objection to the revised sequence?",
+    "context": {
+      "kind": "workplace",
+      "scene": "讨论意见与达成决定",
+      "sourceId": null
+    },
+    "explanation": "在讨论意见与达成决定的工作场景中，对提议明确表示反对的理由或意见。"
   },
   "V20261012-053": {
     "examples": [
       {
         "zh": "在评审前作出承诺，我有保留意见。",
-        "en": "I have reservations about committing before the review."
+        "en": "I have reservations about committing before the review.",
+        "origin": "workplace-original"
       },
       {
         "zh": "她对估算表达了疑虑。",
-        "en": "She expressed reservations about the estimate."
+        "en": "She expressed reservations about the estimate.",
+        "origin": "workplace-original"
       }
     ],
-    "gloss": "保留意见；疑虑"
+    "gloss": "保留意见；疑虑",
+    "originalExample": "I have reservations about committing before the review.",
+    "context": {
+      "kind": "workplace",
+      "scene": "讨论意见与达成决定",
+      "sourceId": null
+    },
+    "explanation": "在讨论意见与达成决定中，对未经评审就承诺表示保留意见。这个记忆联系不证明具体历史演变，也不等于发言者拥有否决权。"
   },
   "V20261012-054": {
     "examples": [
       {
         "zh": "你能解释改变优先级的理由吗？",
-        "en": "Could you explain the rationale for changing the priority?"
+        "en": "Could you explain the rationale for changing the priority?",
+        "origin": "workplace-original"
       },
       {
         "zh": "记录每项例外的理由。",
-        "en": "Record the rationale for each exception."
+        "en": "Record the rationale for each exception.",
+        "origin": "workplace-original"
       }
     ],
-    "gloss": "理由；依据"
+    "gloss": "理由；依据",
+    "originalExample": "Could you explain the rationale for changing the priority?",
+    "context": {
+      "kind": "workplace",
+      "scene": "讨论意见与达成决定",
+      "sourceId": null
+    },
+    "explanation": "在讨论意见与达成决定的工作场景中，某项决定或方案背后的理由。"
   },
   "V20261012-055": {
     "examples": [
       {
         "zh": "请在明天讨论前审阅提案。",
-        "en": "Please review the proposal before tomorrow's discussion."
+        "en": "Please review the proposal before tomorrow's discussion.",
+        "origin": "workplace-original"
       },
       {
         "zh": "提案包含培训预算。",
-        "en": "The proposal includes a training budget."
+        "en": "The proposal includes a training budget.",
+        "origin": "workplace-original"
       }
     ],
-    "gloss": "提案；建议方案"
+    "gloss": "提案；建议方案",
+    "originalExample": "Please review the proposal before tomorrow's discussion.",
+    "context": {
+      "kind": "workplace",
+      "scene": "讨论意见与达成决定",
+      "sourceId": null
+    },
+    "explanation": "在讨论意见与达成决定的工作场景中，供他人讨论或批准的建议方案。"
   },
   "V20261012-056": {
     "examples": [
       {
         "zh": "如果日期过紧，我们应考虑替代方案。",
-        "en": "We should consider an alternative if the date is too tight."
+        "en": "We should consider an alternative if the date is too tight.",
+        "origin": "workplace-original"
       },
       {
         "zh": "我们需要一个成本更低的替代方案。",
-        "en": "We need a cheaper alternative."
+        "en": "We need a cheaper alternative.",
+        "origin": "workplace-original"
       }
     ],
-    "gloss": "替代方案"
+    "gloss": "替代方案",
+    "originalExample": "We should consider an alternative if the date is too tight.",
+    "context": {
+      "kind": "workplace",
+      "scene": "讨论意见与达成决定",
+      "sourceId": null
+    },
+    "explanation": "在讨论意见与达成决定的工作场景中，可替代当前方案的另一种选择。"
   },
   "V20261012-057": {
     "examples": [
       {
         "zh": "我们就评审时间表达成了折中方案。",
-        "en": "We reached a compromise on the review schedule."
+        "en": "We reached a compromise on the review schedule.",
+        "origin": "workplace-original"
       },
       {
         "zh": "折中方案让两个部门都满意。",
-        "en": "The compromise satisfied both departments."
+        "en": "The compromise satisfied both departments.",
+        "origin": "workplace-original"
       }
     ],
-    "gloss": "妥协；折中方案"
+    "gloss": "妥协；折中方案",
+    "originalExample": "We reached a compromise on the review schedule.",
+    "context": {
+      "kind": "workplace",
+      "scene": "讨论意见与达成决定",
+      "sourceId": null
+    },
+    "explanation": "在讨论意见与达成决定的工作场景中，双方各作一些让步后达成的安排。"
   },
   "V20261012-058": {
     "examples": [
       {
         "zh": "我们可能需要协商更实际的截止期限。",
-        "en": "We may need to negotiate a more realistic deadline."
+        "en": "We may need to negotiate a more realistic deadline.",
+        "origin": "workplace-original"
       },
       {
         "zh": "他们谈妥了更长的保修期。",
-        "en": "They negotiated a longer warranty."
+        "en": "They negotiated a longer warranty.",
+        "origin": "workplace-original"
       }
     ],
-    "gloss": "协商；谈判"
+    "gloss": "协商；谈判",
+    "originalExample": "We may need to negotiate a more realistic deadline.",
+    "context": {
+      "kind": "workplace",
+      "scene": "讨论意见与达成决定",
+      "sourceId": null
+    },
+    "explanation": "在讨论意见与达成决定的工作场景中，通过讨论争取双方可接受的条件。"
   },
   "V20261012-059": {
     "examples": [
       {
         "zh": "我们以确认后续步骤来结束会议吧。",
-        "en": "Let's conclude the meeting by confirming the next steps."
+        "en": "Let's conclude the meeting by confirming the next steps.",
+        "origin": "workplace-original"
       },
       {
         "zh": "我们得出结论，维修是必要的。",
-        "en": "We concluded that repairs were necessary."
+        "en": "We concluded that repairs were necessary.",
+        "origin": "workplace-original"
       }
     ],
-    "gloss": "结束；得出结论"
+    "gloss": "结束；得出结论",
+    "originalExample": "Let's conclude the meeting by confirming the next steps.",
+    "context": {
+      "kind": "workplace",
+      "scene": "讨论意见与达成决定",
+      "sourceId": null
+    },
+    "explanation": "在讨论意见与达成决定的工作场景中，结束讨论或从讨论中得出结论。"
   },
   "V20261012-060": {
     "examples": [
       {
         "zh": "请记录决定及其背后的理由。",
-        "en": "Please document the decision and the reason behind it."
+        "en": "Please document the decision and the reason behind it.",
+        "origin": "workplace-original"
       },
       {
         "zh": "记录每项获批的设计变更。",
-        "en": "Document every approved design change."
+        "en": "Document every approved design change.",
+        "origin": "workplace-original"
       }
     ],
-    "gloss": "记录"
+    "gloss": "记录",
+    "originalExample": "Please document the decision and the reason behind it.",
+    "context": {
+      "kind": "workplace",
+      "scene": "讨论意见与达成决定",
+      "sourceId": null
+    },
+    "explanation": "在讨论意见与达成决定的工作场景中，把决定、事实或过程正式记录下来。"
   },
   "V20261012-061": {
     "examples": [
       {
         "zh": "我明天会跟进这项未结行动。",
-        "en": "I'll follow up on the open action tomorrow."
+        "en": "I'll follow up on the open action tomorrow.",
+        "origin": "workplace-original"
       },
       {
         "zh": "请向检查员跟进。",
-        "en": "Please follow up with the inspector."
+        "en": "Please follow up with the inspector.",
+        "origin": "workplace-original"
       }
     ],
-    "gloss": "跟进"
+    "gloss": "跟进",
+    "originalExample": "I'll follow up on the open action tomorrow.",
+    "context": {
+      "kind": "workplace",
+      "scene": "打合中的常用动作",
+      "sourceId": null
+    },
+    "explanation": "在打合中的常用动作的工作场景中，在初次沟通后继续跟进。"
   },
   "V20261012-062": {
     "examples": [
       {
         "zh": "结束前，我想提出一个问题。",
-        "en": "I'd like to bring up one issue before we finish."
+        "en": "I'd like to bring up one issue before we finish.",
+        "origin": "workplace-original"
       },
       {
         "zh": "她提出了人员短缺问题。",
-        "en": "She brought up the staffing shortage."
+        "en": "She brought up the staffing shortage.",
+        "origin": "workplace-original"
       }
     ],
-    "gloss": "提出话题"
+    "gloss": "提出话题",
+    "originalExample": "I'd like to bring up one issue before we finish.",
+    "context": {
+      "kind": "workplace",
+      "scene": "打合中的常用动作",
+      "sourceId": null
+    },
+    "explanation": "在打合中的常用动作的工作场景中，在讨论中提出一个话题。"
   },
   "V20261012-063": {
     "examples": [
       {
         "zh": "你能逐步向我们讲解修订计划吗？",
-        "en": "Could you walk us through the revised plan?"
+        "en": "Could you walk us through the revised plan?",
+        "origin": "workplace-original"
       },
       {
         "zh": "请逐步向我讲解检验流程。",
-        "en": "Walk me through the inspection process."
+        "en": "Walk me through the inspection process.",
+        "origin": "workplace-original"
       }
     ],
-    "gloss": "逐步讲解"
+    "gloss": "逐步讲解",
+    "originalExample": "Could you walk us through the revised plan?",
+    "context": {
+      "kind": "workplace",
+      "scene": "打合中的常用动作",
+      "sourceId": null
+    },
+    "explanation": "在打合中的常用动作的工作场景中，按步骤向别人解释某个过程或方案。"
   },
   "V20261012-064": {
     "examples": [
       {
         "zh": "让我指出两个方案间的一处差异。",
-        "en": "Let me point out one difference between the two options."
+        "en": "Let me point out one difference between the two options.",
+        "origin": "workplace-original"
       },
       {
         "zh": "他指出少了一个签名。",
-        "en": "He pointed out a missing signature."
+        "en": "He pointed out a missing signature.",
+        "origin": "workplace-original"
       }
     ],
-    "gloss": "指出"
+    "gloss": "指出",
+    "originalExample": "Let me point out one difference between the two options.",
+    "context": {
+      "kind": "workplace",
+      "scene": "打合中的常用动作",
+      "sourceId": null
+    },
+    "explanation": "在打合中的常用动作的工作场景中，指出容易被忽略的事实或问题。"
   },
   "V20261012-065": {
     "examples": [
       {
         "zh": "现阶段，我们无法排除延误的可能。",
-        "en": "We cannot rule out a delay at this stage."
+        "en": "We cannot rule out a delay at this stage.",
+        "origin": "workplace-original"
       },
       {
         "zh": "测试排除了材料损坏的可能。",
-        "en": "The tests ruled out material damage."
+        "en": "The tests ruled out material damage.",
+        "origin": "workplace-original"
       }
     ],
-    "gloss": "排除"
+    "gloss": "排除",
+    "originalExample": "We cannot rule out a delay at this stage.",
+    "context": {
+      "kind": "workplace",
+      "scene": "打合中的常用动作",
+      "sourceId": null
+    },
+    "explanation": "在打合中的常用动作的工作场景中，排除某个可能原因或方案。"
   },
   "V20261012-066": {
     "examples": [
       {
         "zh": "等拿到结果后，我们再作决定吧。",
-        "en": "Let's hold off on the decision until we have the results."
+        "en": "Let's hold off on the decision until we have the results.",
+        "origin": "workplace-original"
       },
       {
         "zh": "把招聘暂缓到六月。",
-        "en": "Hold off on hiring until June."
+        "en": "Hold off on hiring until June.",
+        "origin": "workplace-original"
       }
     ],
-    "gloss": "暂缓"
+    "gloss": "暂缓",
+    "originalExample": "Let's hold off on the decision until we have the results.",
+    "context": {
+      "kind": "workplace",
+      "scene": "打合中的常用动作",
+      "sourceId": null
+    },
+    "explanation": "在打合中的常用动作的工作场景中，暂缓行动，等待更合适的条件。"
   },
   "V20261012-067": {
     "examples": [
       {
         "zh": "我们能在不改范围的情况下应对这项限制吗？",
-        "en": "Can we work around this constraint without changing the scope?"
+        "en": "Can we work around this constraint without changing the scope?",
+        "origin": "workplace-original"
       },
       {
         "zh": "我们设法克服了存储限制。",
-        "en": "We worked around the storage limitation."
+        "en": "We worked around the storage limitation.",
+        "origin": "workplace-original"
       }
     ],
-    "gloss": "设法绕过障碍"
+    "gloss": "设法绕过障碍",
+    "originalExample": "Can we work around this constraint without changing the scope?",
+    "context": {
+      "kind": "workplace",
+      "scene": "打合中的常用动作",
+      "sourceId": null
+    },
+    "explanation": "在打合中的常用动作的工作场景中，在限制仍存在时找到可行做法。"
   },
   "V20261012-068": {
     "examples": [
       {
         "zh": "我们团队本周无法再承担任务。",
-        "en": "Our team cannot take on another task this week."
+        "en": "Our team cannot take on another task this week.",
+        "origin": "workplace-original"
       },
       {
         "zh": "她将承担审计职责。",
-        "en": "She will take on the audit role."
+        "en": "She will take on the audit role.",
+        "origin": "workplace-original"
       }
     ],
-    "gloss": "承担"
+    "gloss": "承担",
+    "originalExample": "Our team cannot take on another task this week.",
+    "context": {
+      "kind": "workplace",
+      "scene": "打合中的常用动作",
+      "sourceId": null
+    },
+    "explanation": "在打合中的常用动作的工作场景中，接受并承担新的任务或责任。"
   },
   "V20261012-069": {
     "examples": [
       {
         "zh": "选择供应商前，我们需要权衡各个选项。",
-        "en": "We need to weigh up the options before choosing a supplier."
+        "en": "We need to weigh up the options before choosing a supplier.",
+        "origin": "workplace-original"
       },
       {
         "zh": "权衡收益与风险。",
-        "en": "Weigh up the benefits and risks."
+        "en": "Weigh up the benefits and risks.",
+        "origin": "workplace-original"
       }
     ],
-    "gloss": "权衡"
+    "gloss": "权衡",
+    "originalExample": "We need to weigh up the options before choosing a supplier.",
+    "context": {
+      "kind": "workplace",
+      "scene": "打合中的常用动作",
+      "sourceId": null
+    },
+    "explanation": "在打合中的常用动作的工作场景中，仔细比较不同选项或利弊后作判断。"
   },
   "V20261012-070": {
     "examples": [
       {
         "zh": "我们以确认负责人和截止日期来收尾吧。",
-        "en": "Let's wrap up by confirming the owner and due date."
+        "en": "Let's wrap up by confirming the owner and due date.",
+        "origin": "workplace-original"
       },
       {
         "zh": "午饭前结束评审。",
-        "en": "Wrap up the review before lunch."
+        "en": "Wrap up the review before lunch.",
+        "origin": "workplace-original"
       }
     ],
-    "gloss": "收尾"
+    "gloss": "收尾",
+    "originalExample": "Let's wrap up by confirming the owner and due date.",
+    "context": {
+      "kind": "workplace",
+      "scene": "打合中的常用动作",
+      "sourceId": null
+    },
+    "explanation": "在打合中的常用动作的工作场景中，把讨论或工作收尾结束。"
   },
   "V20261012-071": {
     "examples": [
       {
         "zh": "我们应区分目标与承诺。",
-        "en": "We should distinguish between a target and a commitment."
+        "en": "We should distinguish between a target and a commitment.",
+        "origin": "workplace-original"
       },
       {
         "zh": "区分固定成本与变动成本。",
-        "en": "Distinguish fixed costs from variable costs."
+        "en": "Distinguish fixed costs from variable costs.",
+        "origin": "workplace-original"
       }
     ],
-    "gloss": "区分"
+    "gloss": "区分",
+    "originalExample": "We should distinguish between a target and a commitment.",
+    "context": {
+      "kind": "workplace",
+      "scene": "解释原因与限定判断",
+      "sourceId": null
+    },
+    "explanation": "在解释原因与限定判断的工作场景中，识别并说明两个事物的区别。"
   },
   "V20261012-072": {
     "examples": [
       {
         "zh": "我们不能把延误仅归因于一个因素。",
-        "en": "We cannot attribute the delay to one factor alone."
+        "en": "We cannot attribute the delay to one factor alone.",
+        "origin": "workplace-original"
       },
       {
         "zh": "他们把节省归因于自动化。",
-        "en": "They attributed the savings to automation."
+        "en": "They attributed the savings to automation.",
+        "origin": "workplace-original"
       }
     ],
-    "gloss": "归因于"
+    "gloss": "归因于",
+    "originalExample": "We cannot attribute the delay to one factor alone.",
+    "context": {
+      "kind": "workplace",
+      "scene": "解释原因与限定判断",
+      "sourceId": null
+    },
+    "explanation": "在解释原因与限定判断的工作场景中，把某个结果归因于某个原因。"
   },
   "V20261012-073": {
     "examples": [
       {
         "zh": "要求不明确可能导致返工。",
-        "en": "Unclear requirements can contribute to rework."
+        "en": "Unclear requirements can contribute to rework.",
+        "origin": "workplace-original"
       },
       {
         "zh": "更好的照明有助于安全作业。",
-        "en": "Better lighting contributes to safer work."
+        "en": "Better lighting contributes to safer work.",
+        "origin": "workplace-original"
       }
     ],
-    "gloss": "促成；导致"
+    "gloss": "促成；导致",
+    "originalExample": "Unclear requirements can contribute to rework.",
+    "context": {
+      "kind": "workplace",
+      "scene": "解释原因与限定判断",
+      "sourceId": null
+    },
+    "explanation": "在解释原因与限定判断的工作场景中，作为因素之一促成某个结果。"
   },
   "V20261012-074": {
     "examples": [
       {
         "zh": "最新数据表明需求发生变化。",
-        "en": "The latest figures indicate a change in demand."
+        "en": "The latest figures indicate a change in demand.",
+        "origin": "workplace-original"
       },
       {
         "zh": "结果显示存在质量问题。",
-        "en": "The results indicate a quality problem."
+        "en": "The results indicate a quality problem.",
+        "origin": "workplace-original"
       }
     ],
-    "gloss": "显示；表明"
+    "gloss": "显示；表明",
+    "originalExample": "The latest figures indicate a change in demand.",
+    "context": {
+      "kind": "workplace",
+      "scene": "解释原因与限定判断",
+      "sourceId": null
+    },
+    "explanation": "在解释原因与限定判断的工作场景中，作为迹象显示某种情况。"
   },
   "V20261012-075": {
     "examples": [
       {
         "zh": "成本更低不意味着整体结果更好。",
-        "en": "A lower cost does not imply a better overall result."
+        "en": "A lower cost does not imply a better overall result.",
+        "origin": "workplace-original"
       },
       {
         "zh": "沉默不意味着同意。",
-        "en": "Silence does not imply consent."
+        "en": "Silence does not imply consent.",
+        "origin": "workplace-original"
       }
     ],
-    "gloss": "暗示；意味着"
+    "gloss": "暗示；意味着",
+    "originalExample": "A lower cost does not imply a better overall result.",
+    "context": {
+      "kind": "workplace",
+      "scene": "解释原因与限定判断",
+      "sourceId": null
+    },
+    "explanation": "在解释原因与限定判断的工作场景中，间接意味着或在逻辑上提示。"
   },
   "V20261012-076": {
     "examples": [
       {
         "zh": "我们不应从未获回复推断已获批准。",
-        "en": "We should not infer approval from the lack of a reply."
+        "en": "We should not infer approval from the lack of a reply.",
+        "origin": "workplace-original"
       },
       {
         "zh": "我们能从这一趋势推断什么？",
-        "en": "What can we infer from this trend?"
+        "en": "What can we infer from this trend?",
+        "origin": "workplace-original"
       }
     ],
-    "gloss": "推断"
+    "gloss": "推断",
+    "originalExample": "We should not infer approval from the lack of a reply.",
+    "context": {
+      "kind": "workplace",
+      "scene": "解释原因与限定判断",
+      "sourceId": null
+    },
+    "explanation": "在解释原因与限定判断中，根据未回复这一信息作出批准结论，但原句明确反对这样推断。不能反过来推断对方已经拒绝，也不能把should not删掉。"
   },
   "V20261012-077": {
     "examples": [
       {
         "zh": "预期收益不足以证明额外工作合理。",
-        "en": "The expected benefit does not justify the extra work."
+        "en": "The expected benefit does not justify the extra work.",
+        "origin": "workplace-original"
       },
       {
         "zh": "节省金额证明这项投资合理。",
-        "en": "The savings justify the investment."
+        "en": "The savings justify the investment.",
+        "origin": "workplace-original"
       }
     ],
-    "gloss": "证明合理"
+    "gloss": "证明合理",
+    "originalExample": "The expected benefit does not justify the extra work.",
+    "context": {
+      "kind": "workplace",
+      "scene": "解释原因与限定判断",
+      "sourceId": null
+    },
+    "explanation": "在解释原因与限定判断的工作场景中，提供足够理由说明某事合理或必要。"
   },
   "V20261012-078": {
     "examples": [
       {
         "zh": "我应限定一下这句话：日期取决于批准。",
-        "en": "I should qualify that statement: the date depends on approval."
+        "en": "I should qualify that statement: the date depends on approval.",
+        "origin": "workplace-original"
       },
       {
         "zh": "她为预测加上了一项限定条件。",
-        "en": "She qualified her forecast with a caveat."
+        "en": "She qualified her forecast with a caveat.",
+        "origin": "workplace-original"
       }
     ],
-    "gloss": "为表述加上限定"
+    "gloss": "为表述加上限定",
+    "originalExample": "I should qualify that statement: the date depends on approval.",
+    "context": {
+      "kind": "workplace",
+      "scene": "解释原因与限定判断",
+      "sourceId": null
+    },
+    "explanation": "在解释原因与限定判断中，补充条件，限制原陈述的确定程度。加限定不是批准日期，也不必然表示原陈述全部错误。"
   },
   "V20261012-079": {
     "examples": [
       {
         "zh": "这个例子说明清晰交接为何重要。",
-        "en": "This example illustrates why a clear handover matters."
+        "en": "This example illustrates why a clear handover matters.",
+        "origin": "workplace-original"
       },
       {
         "zh": "示意图说明了审批流程。",
-        "en": "The diagram illustrates the approval flow."
+        "en": "The diagram illustrates the approval flow.",
+        "origin": "workplace-original"
       }
     ],
-    "gloss": "举例说明"
+    "gloss": "举例说明",
+    "originalExample": "This example illustrates why a clear handover matters.",
+    "context": {
+      "kind": "workplace",
+      "scene": "解释原因与限定判断",
+      "sourceId": null
+    },
+    "explanation": "在解释原因与限定判断的工作场景中，用例子说明一个观点。"
   },
   "V20261012-080": {
     "examples": [
       {
         "zh": "我们该如何解读这些结果间的差异？",
-        "en": "How should we interpret the difference between these results?"
+        "en": "How should we interpret the difference between these results?",
+        "origin": "workplace-original"
       },
       {
         "zh": "不同团队对规则的解读不同。",
-        "en": "Different teams interpret the rule differently."
+        "en": "Different teams interpret the rule differently.",
+        "origin": "workplace-original"
       }
     ],
-    "gloss": "理解；解读"
+    "gloss": "理解；解读",
+    "originalExample": "How should we interpret the difference between these results?",
+    "context": {
+      "kind": "workplace",
+      "scene": "解释原因与限定判断",
+      "sourceId": null
+    },
+    "explanation": "在解释原因与限定判断的工作场景中，理解并解释信息所代表的含义。"
   },
   "V20261012-081": {
     "examples": [
       {
         "zh": "更改计划前，我们需要支持证据。",
-        "en": "We need supporting evidence before changing the plan."
+        "en": "We need supporting evidence before changing the plan.",
+        "origin": "workplace-original"
       },
       {
         "zh": "保留检验的证据。",
-        "en": "Keep evidence of the inspection."
+        "en": "Keep evidence of the inspection.",
+        "origin": "workplace-original"
       }
     ],
-    "gloss": "证据"
+    "gloss": "证据",
+    "originalExample": "We need supporting evidence before changing the plan.",
+    "context": {
+      "kind": "workplace",
+      "scene": "证据、程度与不确定性",
+      "sourceId": null
+    },
+    "explanation": "在证据、程度与不确定性的工作场景中，支持判断或说法的信息与事实。"
   },
   "V20261012-082": {
     "examples": [
       {
         "zh": "我们需要了解这项变更的影响。",
-        "en": "We need to understand the implications of this change."
+        "en": "We need to understand the implications of this change.",
+        "origin": "workplace-original"
       },
       {
         "zh": "先考虑财务影响。",
-        "en": "Consider the financial implications first."
+        "en": "Consider the financial implications first.",
+        "origin": "workplace-original"
       }
     ],
-    "gloss": "影响；隐含意义"
+    "gloss": "影响；隐含意义",
+    "originalExample": "We need to understand the implications of this change.",
+    "context": {
+      "kind": "workplace",
+      "scene": "证据、程度与不确定性",
+      "sourceId": null
+    },
+    "explanation": "在证据、程度与不确定性的工作场景中，某事可能带来的影响或由其引出的含义。"
   },
   "V20261012-083": {
     "examples": [
       {
         "zh": "可用性是一个因素，但不是唯一因素。",
-        "en": "Availability is one factor, but it is not the only one."
+        "en": "Availability is one factor, but it is not the only one.",
+        "origin": "workplace-original"
       },
       {
         "zh": "距离是另一个成本因素。",
-        "en": "Distance is another cost factor."
+        "en": "Distance is another cost factor.",
+        "origin": "workplace-original"
       }
     ],
-    "gloss": "因素"
+    "gloss": "因素",
+    "originalExample": "Availability is one factor, but it is not the only one.",
+    "context": {
+      "kind": "workplace",
+      "scene": "证据、程度与不确定性",
+      "sourceId": null
+    },
+    "explanation": "在证据、程度与不确定性的工作场景中，影响结果的一个因素。"
   },
   "V20261012-084": {
     "examples": [
       {
         "zh": "额外评审在一定程度上有帮助。",
-        "en": "The extra review helped to some extent."
+        "en": "The extra review helped to some extent.",
+        "origin": "workplace-original"
       },
       {
         "zh": "我们低估了损坏程度。",
-        "en": "We underestimated the extent of damage."
+        "en": "We underestimated the extent of damage.",
+        "origin": "workplace-original"
       }
     ],
-    "gloss": "程度；范围"
+    "gloss": "程度；范围",
+    "originalExample": "The extra review helped to some extent.",
+    "context": {
+      "kind": "workplace",
+      "scene": "证据、程度与不确定性",
+      "sourceId": null
+    },
+    "explanation": "在证据、程度与不确定性的工作场景中，某种情况达到的程度或范围。"
   },
   "V20261012-085": {
     "examples": [
       {
         "zh": "提前检查可降低返工的可能性。",
-        "en": "An early check can reduce the likelihood of rework."
+        "en": "An early check can reduce the likelihood of rework.",
+        "origin": "workplace-original"
       },
       {
         "zh": "延误的可能性仍很高。",
-        "en": "The likelihood of delay remains high."
+        "en": "The likelihood of delay remains high.",
+        "origin": "workplace-original"
       }
     ],
-    "gloss": "可能性"
+    "gloss": "可能性",
+    "originalExample": "An early check can reduce the likelihood of rework.",
+    "context": {
+      "kind": "workplace",
+      "scene": "证据、程度与不确定性",
+      "sourceId": null
+    },
+    "explanation": "在证据、程度与不确定性的工作场景中，某事发生的可能性。"
   },
   "V20261012-086": {
     "examples": [
       {
         "zh": "我们需要更多信息以减少不确定性。",
-        "en": "We need more information to reduce uncertainty."
+        "en": "We need more information to reduce uncertainty.",
+        "origin": "workplace-original"
       },
       {
         "zh": "不确定性使长期规划困难。",
-        "en": "Uncertainty makes long-term planning difficult."
+        "en": "Uncertainty makes long-term planning difficult.",
+        "origin": "workplace-original"
       }
     ],
-    "gloss": "不确定性"
+    "gloss": "不确定性",
+    "originalExample": "We need more information to reduce uncertainty.",
+    "context": {
+      "kind": "workplace",
+      "scene": "证据、程度与不确定性",
+      "sourceId": null
+    },
+    "explanation": "在证据、程度与不确定性的工作场景中，信息或结果尚不确定的状态。"
   },
   "V20261012-087": {
     "examples": [
       {
         "zh": "有一项重要限定：这些数据只是初步数据。",
-        "en": "There is one important caveat: the figures are preliminary."
+        "en": "There is one important caveat: the figures are preliminary.",
+        "origin": "workplace-original"
       },
       {
         "zh": "阅读图表下方的注意事项。",
-        "en": "Read the caveat below the chart."
+        "en": "Read the caveat below the chart.",
+        "origin": "workplace-original"
       }
     ],
-    "gloss": "限定条件；注意事项"
+    "gloss": "限定条件；注意事项",
+    "originalExample": "There is one important caveat: the figures are preliminary.",
+    "context": {
+      "kind": "workplace",
+      "scene": "证据、程度与不确定性",
+      "sourceId": null
+    },
+    "explanation": "在证据、程度与不确定性的工作场景中，理解结论时必须注意的限制或保留条件。"
   },
   "V20261012-088": {
     "examples": [
       {
         "zh": "这些是初步发现，并非最终结论。",
-        "en": "These are preliminary findings, not a final conclusion."
+        "en": "These are preliminary findings, not a final conclusion.",
+        "origin": "workplace-original"
       },
       {
         "zh": "初步估算不含税。",
-        "en": "The preliminary estimate excludes tax."
+        "en": "The preliminary estimate excludes tax.",
+        "origin": "workplace-original"
       }
     ],
-    "gloss": "初步的"
+    "gloss": "初步的",
+    "originalExample": "These are preliminary findings, not a final conclusion.",
+    "context": {
+      "kind": "workplace",
+      "scene": "证据、程度与不确定性",
+      "sourceId": null
+    },
+    "explanation": "在证据、程度与不确定性中，当前仅属初步发现，不能当作最终结论。初步不等于错误，也不等于最终结论已经获得支持。"
   },
   "V20261012-089": {
     "examples": [
       {
         "zh": "这个解释与现有证据相符。",
-        "en": "This explanation is consistent with the available evidence."
+        "en": "This explanation is consistent with the available evidence.",
+        "origin": "workplace-original"
       },
       {
         "zh": "各班次的读数一致。",
-        "en": "The readings are consistent across shifts."
+        "en": "The readings are consistent across shifts.",
+        "origin": "workplace-original"
       }
     ],
-    "gloss": "一致的；相符的"
+    "gloss": "一致的；相符的",
+    "originalExample": "This explanation is consistent with the available evidence.",
+    "context": {
+      "kind": "workplace",
+      "scene": "证据、程度与不确定性",
+      "sourceId": null
+    },
+    "explanation": "在证据、程度与不确定性的工作场景中，前后一致或与某项信息相符的。"
   },
   "V20261012-090": {
     "examples": [
       {
         "zh": "两份报告之间存在差异。",
-        "en": "There is a discrepancy between the two reports."
+        "en": "There is a discrepancy between the two reports.",
+        "origin": "workplace-original"
       },
       {
         "zh": "调查库存记录中的差异。",
-        "en": "Investigate the discrepancy in inventory records."
+        "en": "Investigate the discrepancy in inventory records.",
+        "origin": "workplace-original"
       }
     ],
-    "gloss": "差异；不符之处"
+    "gloss": "差异；不符之处",
+    "originalExample": "There is a discrepancy between the two reports.",
+    "context": {
+      "kind": "workplace",
+      "scene": "证据、程度与不确定性",
+      "sourceId": null
+    },
+    "explanation": "在证据、程度与不确定性的工作场景中，按理应一致的信息之间存在的差异。"
   },
   "V20261012-091": {
     "examples": [
       {
         "zh": "我们原则上同意，但时间仍未确定。",
-        "en": "We agree in principle, but the timing is still open."
+        "en": "We agree in principle, but the timing is still open.",
+        "origin": "workplace-original"
       },
       {
         "zh": "合并已获原则性批准。",
-        "en": "The merger is approved in principle."
+        "en": "The merger is approved in principle.",
+        "origin": "workplace-original"
       }
     ],
-    "gloss": "原则上"
+    "gloss": "原则上",
+    "originalExample": "We agree in principle, but the timing is still open.",
+    "context": {
+      "kind": "workplace",
+      "scene": "连接观点与说明条件",
+      "sourceId": null
+    },
+    "explanation": "在连接观点与说明条件的工作场景中，原则上同意或成立，但细节条件尚未落实。"
   },
   "V20261012-092": {
     "examples": [
       {
         "zh": "方法看似简单，但实际如何运作？",
-        "en": "The approach looks simple, but how will it work in practice?"
+        "en": "The approach looks simple, but how will it work in practice?",
+        "origin": "workplace-original"
       },
       {
         "zh": "在实践中，检查耗时更长。",
-        "en": "In practice, inspections take longer."
+        "en": "In practice, inspections take longer.",
+        "origin": "workplace-original"
       }
     ],
-    "gloss": "在实践中"
+    "gloss": "在实践中",
+    "originalExample": "The approach looks simple, but how will it work in practice?",
+    "context": {
+      "kind": "workplace",
+      "scene": "连接观点与说明条件",
+      "sourceId": null
+    },
+    "explanation": "在连接观点与说明条件的工作场景中，在实际执行或现实情况下。"
   },
   "V20261012-093": {
     "examples": [
       {
         "zh": "只要负责人确认范围，我们就能继续。",
-        "en": "We can proceed provided that the owner confirms the scope."
+        "en": "We can proceed provided that the owner confirms the scope.",
+        "origin": "workplace-original"
       },
       {
         "zh": "只要款项到账，我们就能发货。",
-        "en": "We can ship provided that payment arrives."
+        "en": "We can ship provided that payment arrives.",
+        "origin": "workplace-original"
       }
     ],
-    "gloss": "只要；条件是"
+    "gloss": "只要；条件是",
+    "originalExample": "We can proceed provided that the owner confirms the scope.",
+    "context": {
+      "kind": "workplace",
+      "scene": "连接观点与说明条件",
+      "sourceId": null
+    },
+    "explanation": "在连接观点与说明条件中，把负责人确认范围设为继续推进的条件。不认定条件已经满足，也不把这句话推广为所有项目的唯一开工规则。"
   },
   "V20261012-094": {
     "examples": [
       {
         "zh": "我们应澄清要求，而不是自行假设。",
-        "en": "We should clarify the requirement rather than assume it."
+        "en": "We should clarify the requirement rather than assume it.",
+        "origin": "workplace-original"
       },
       {
         "zh": "维修这台设备，而不是更换它。",
-        "en": "Repair the unit rather than replace it."
+        "en": "Repair the unit rather than replace it.",
+        "origin": "workplace-original"
       }
     ],
-    "gloss": "而不是"
+    "gloss": "而不是",
+    "originalExample": "We should clarify the requirement rather than assume it.",
+    "context": {
+      "kind": "workplace",
+      "scene": "连接观点与说明条件",
+      "sourceId": null
+    },
+    "explanation": "在连接观点与说明条件的工作场景中，选择或强调前者而非后者。"
   },
   "V20261012-095": {
     "examples": [
       {
         "zh": "无论结果如何，请记录决定。",
-        "en": "Please record the decision regardless of the outcome."
+        "en": "Please record the decision regardless of the outcome.",
+        "origin": "workplace-original"
       },
       {
         "zh": "无论职级高低都适用此规则。",
-        "en": "Apply the rule regardless of rank."
+        "en": "Apply the rule regardless of rank.",
+        "origin": "workplace-original"
       }
     ],
-    "gloss": "无论；不受影响"
+    "gloss": "无论；不受影响",
+    "originalExample": "Please record the decision regardless of the outcome.",
+    "context": {
+      "kind": "workplace",
+      "scene": "连接观点与说明条件",
+      "sourceId": null
+    },
+    "explanation": "在连接观点与说明条件的工作场景中，不受所述因素影响，无论如何。"
   },
   "V20261012-096": {
     "examples": [
       {
         "zh": "范围改变了，因此我们修订了估算。",
-        "en": "The scope changed; as a result, we revised the estimate."
+        "en": "The scope changed; as a result, we revised the estimate.",
+        "origin": "workplace-original"
       },
       {
         "zh": "需求下降，因此产出放缓。",
-        "en": "Demand fell; as a result, output slowed."
+        "en": "Demand fell; as a result, output slowed.",
+        "origin": "workplace-original"
       }
     ],
-    "gloss": "因此"
+    "gloss": "因此",
+    "originalExample": "The scope changed; as a result, we revised the estimate.",
+    "context": {
+      "kind": "workplace",
+      "scene": "连接观点与说明条件",
+      "sourceId": null
+    },
+    "explanation": "在连接观点与说明条件的工作场景中，因此，作为前述事项的结果。"
   },
   "V20261012-097": {
     "examples": [
       {
         "zh": "我们暂时维持现有计划。",
-        "en": "We will keep the current plan for the time being."
+        "en": "We will keep the current plan for the time being.",
+        "origin": "workplace-original"
       },
       {
         "zh": "暂时使用纸质表格。",
-        "en": "For the time being, use paper forms."
+        "en": "For the time being, use paper forms.",
+        "origin": "workplace-original"
       }
     ],
-    "gloss": "暂时"
+    "gloss": "暂时",
+    "originalExample": "We will keep the current plan for the time being.",
+    "context": {
+      "kind": "workplace",
+      "scene": "连接观点与说明条件",
+      "sourceId": null
+    },
+    "explanation": "在连接观点与说明条件的工作场景中，暂时如此，之后可能改变。"
   },
   "V20261012-098": {
     "examples": [
       {
         "zh": "换句话说，获得批准后我们才能启动。",
-        "en": "In other words, we need approval before we can start."
+        "en": "In other words, we need approval before we can start.",
+        "origin": "workplace-original"
       },
       {
         "zh": "换句话说，报价不含运费。",
-        "en": "In other words, the quote excludes freight."
+        "en": "In other words, the quote excludes freight.",
+        "origin": "workplace-original"
       }
     ],
-    "gloss": "换句话说"
+    "gloss": "换句话说",
+    "originalExample": "In other words, we need approval before we can start.",
+    "context": {
+      "kind": "workplace",
+      "scene": "连接观点与说明条件",
+      "sourceId": null
+    },
+    "explanation": "在连接观点与说明条件的工作场景中，换一种更清楚的说法。"
   },
   "V20261012-099": {
     "examples": [
       {
         "zh": "综合权衡后，第二个选项让我们更灵活。",
-        "en": "On balance, the second option gives us more flexibility."
+        "en": "On balance, the second option gives us more flexibility.",
+        "origin": "workplace-original"
       },
       {
         "zh": "综合权衡后，试验是成功的。",
-        "en": "On balance, the trial was successful."
+        "en": "On balance, the trial was successful.",
+        "origin": "workplace-original"
       }
     ],
-    "gloss": "综合权衡后"
+    "gloss": "综合权衡后",
+    "originalExample": "On balance, the second option gives us more flexibility.",
+    "context": {
+      "kind": "workplace",
+      "scene": "连接观点与说明条件",
+      "sourceId": null
+    },
+    "explanation": "在连接观点与说明条件的工作场景中，综合考虑不同利弊之后。"
   },
   "V20261012-100": {
     "examples": [
       {
         "zh": "任务完成不一定意味着问题已解决。",
-        "en": "A completed task does not necessarily mean the issue is resolved."
+        "en": "A completed task does not necessarily mean the issue is resolved.",
+        "origin": "workplace-original"
       },
       {
         "zh": "更高的产出不一定带来利润。",
-        "en": "Higher output is not necessarily profitable."
+        "en": "Higher output is not necessarily profitable.",
+        "origin": "workplace-original"
       }
     ],
-    "gloss": "不一定"
+    "gloss": "不一定",
+    "originalExample": "A completed task does not necessarily mean the issue is resolved.",
+    "context": {
+      "kind": "workplace",
+      "scene": "连接观点与说明条件",
+      "sourceId": null
+    },
+    "explanation": "在连接观点与说明条件中，否定任务完成与问题解决之间的必然关系。不能译成“任务完成就说明问题没有解决”。"
   },
   "V20261012-101": {
     "examples": [
       {
-        "zh": "报告提出了一项缺乏数据支持的断言。",
-        "en": "The report makes an assertion without supporting data."
+        "en": "An assertion about a country's debt needs evidence.",
+        "zh": "对一国债务状况的断言需要证据。",
+        "origin": "reading-original"
       },
       {
         "zh": "那项断言需要独立核实。",
-        "en": "That assertion needs independent verification."
+        "en": "That assertion needs independent verification.",
+        "origin": "transfer-original"
       }
     ],
-    "gloss": "断言；主张"
+    "gloss": "断言；主张",
+    "originalExample": "The report makes an assertion without supporting data.",
+    "context": {
+      "kind": "reading",
+      "scene": "Krugman｜观察角度与判断（10月8日）",
+      "sourceId": "whats-the-matter-with-france",
+      "focus": "对法国经济的断言是否有证据"
+    },
+    "explanation": "这里讨论对法国经济的断言是否有证据；被明确提出的说法，未必已有充分证据。"
   },
   "V20261012-102": {
     "examples": [
       {
-        "zh": "时间表隐含假设无需任何修订。",
-        "en": "The schedule implicitly assumes that no revisions will be needed."
+        "en": "The commentary implicitly treats lower taxes as the only solution.",
+        "zh": "这篇评论暗含着只有减税才能解决问题的看法。",
+        "origin": "reading-original"
       },
       {
         "zh": "估算隐含地计入了加班。",
-        "en": "The estimate implicitly includes overtime."
+        "en": "The estimate implicitly includes overtime.",
+        "origin": "transfer-original"
       }
     ],
-    "gloss": "隐含地"
+    "gloss": "隐含地",
+    "originalExample": "The schedule implicitly assumes that no revisions will be needed.",
+    "context": {
+      "kind": "reading",
+      "scene": "Krugman｜观察角度与判断（10月8日）",
+      "sourceId": "whats-the-matter-with-france",
+      "focus": "评论者未明说的意识形态愿望"
+    },
+    "explanation": "这里讨论评论者未明说的意识形态愿望；未直接说出，但通过态度或行为暗含地。"
   },
   "V20261012-103": {
     "examples": [
       {
-        "zh": "提早决定增加灵活性；反之，延误会减少灵活性。",
-        "en": "An early decision creates flexibility; conversely, a delay reduces it."
+        "en": "Higher yields can signal risk; conversely, falling yields may signal relief.",
+        "zh": "收益率上升可能意味着风险；反过来，下降可能意味着压力缓解。",
+        "origin": "reading-original"
       },
       {
         "zh": "涨价压低需求；反之，折扣促进购买。",
-        "en": "Higher prices reduce demand; conversely, discounts encourage purchases."
+        "en": "Higher prices reduce demand; conversely, discounts encourage purchases.",
+        "origin": "transfer-original"
       }
     ],
-    "gloss": "反过来说"
+    "gloss": "反过来说",
+    "originalExample": "An early decision creates flexibility; conversely, a delay reduces it.",
+    "context": {
+      "kind": "reading",
+      "scene": "Krugman｜观察角度与判断（10月8日）",
+      "sourceId": "whats-the-matter-with-france",
+      "focus": "对法国问题的相反立场"
+    },
+    "explanation": "这里讨论对法国问题的相反立场；从相反方向或相反关系来看。",
+    "chunk": "conversely, an opposing view"
   },
   "V20261012-104": {
     "examples": [
       {
-        "zh": "展示结果前，我们应承认局限。",
-        "en": "We should acknowledge the limitation before presenting the result."
+        "en": "We can acknowledge fiscal risks without endorsing every proposed cut.",
+        "zh": "我们可以承认财政风险，而不必赞同每一项削减建议。",
+        "origin": "reading-original"
       },
       {
         "zh": "在报告中承认错误。",
-        "en": "Acknowledge the error in your report."
+        "en": "Acknowledge the error in your report.",
+        "origin": "transfer-original"
       }
     ],
-    "gloss": "承认"
+    "gloss": "承认",
+    "originalExample": "We should acknowledge the limitation before presenting the result.",
+    "context": {
+      "kind": "reading",
+      "scene": "Krugman｜观察角度与判断（10月8日）",
+      "sourceId": "whats-the-matter-with-france",
+      "focus": "承认法国确有财政问题"
+    },
+    "explanation": "这里讨论承认法国确有财政问题；承认事实、问题或他人的观点存在。",
+    "chunk": "acknowledge fiscal risks"
   },
   "V20261012-105": {
     "examples": [
       {
-        "zh": "持续存在的问题需要的不只是临时修复。",
-        "en": "A persistent problem needs more than a temporary fix."
+        "en": "Persistent deficits make debt harder to stabilize.",
+        "zh": "持续的赤字让债务更难稳定。",
+        "origin": "reading-original"
       },
       {
         "zh": "持续短缺打乱了日程。",
-        "en": "Persistent shortages disrupted the schedule."
+        "en": "Persistent shortages disrupted the schedule.",
+        "origin": "transfer-original"
       }
     ],
-    "gloss": "持续存在的"
+    "gloss": "持续存在的",
+    "originalExample": "A persistent problem needs more than a temporary fix.",
+    "context": {
+      "kind": "reading",
+      "scene": "Krugman｜观察角度与判断（10月8日）",
+      "sourceId": "whats-the-matter-with-france",
+      "focus": "退休改革长期难以推进"
+    },
+    "explanation": "这里讨论退休改革长期难以推进；持续存在或反复发生的。",
+    "chunk": "persistent budget deficits"
   },
   "V20261012-106": {
     "examples": [
       {
-        "zh": "我们需要了解延误的根本原因。",
-        "en": "We need to understand the underlying cause of the delays."
+        "en": "A bond sell-off may expose an underlying fiscal weakness.",
+        "zh": "债券抛售可能暴露深层的财政弱点。",
+        "origin": "reading-original"
       },
       {
         "zh": "基本假设仍未改变。",
-        "en": "The underlying assumptions remain unchanged."
+        "en": "The underlying assumptions remain unchanged.",
+        "origin": "transfer-original"
       }
     ],
-    "gloss": "根本的；潜在的"
+    "gloss": "根本的；潜在的",
+    "originalExample": "We need to understand the underlying cause of the delays.",
+    "context": {
+      "kind": "reading",
+      "scene": "Krugman｜观察角度与判断（10月8日）",
+      "sourceId": "whats-the-matter-with-france",
+      "focus": "财政危机背后的制度问题"
+    },
+    "explanation": "这里讨论财政危机背后的制度问题；位于表面现象背后、起基础作用的。"
   },
   "V20261012-107": {
     "examples": [
       {
-        "zh": "依赖一名评审人员带来了排期风险。",
-        "en": "Our reliance on one reviewer creates a scheduling risk."
+        "en": "A country's reliance on a shared currency can limit its response to a debt crisis.",
+        "zh": "一个国家对共同货币的依赖可能限制它应对债务危机的能力。",
+        "origin": "reading-original"
       },
       {
         "zh": "减少对临时员工的依赖。",
-        "en": "Reduce reliance on temporary staff."
+        "en": "Reduce reliance on temporary staff.",
+        "origin": "transfer-original"
       }
     ],
-    "gloss": "依赖"
+    "gloss": "依赖",
+    "originalExample": "Our reliance on one reviewer creates a scheduling risk.",
+    "context": {
+      "kind": "reading",
+      "scene": "Krugman｜观察角度与判断（10月8日）",
+      "sourceId": "whats-the-matter-with-france",
+      "focus": "法国对欧元区制度的依赖"
+    },
+    "explanation": "这里讨论法国对欧元区制度的依赖；对某个资源、条件或对象的依赖。",
+    "chunk": "reliance on the euro"
   },
   "V20261012-108": {
     "examples": [
       {
-        "zh": "从项目角度看，缺失的决定是主要风险。",
-        "en": "From a project perspective, the missing decision is the main risk."
+        "en": "From a European perspective, a national debt crisis can become a shared problem.",
+        "zh": "从欧洲的角度看，一国的债务危机可能变成共同问题。",
+        "origin": "reading-original"
       },
       {
         "zh": "从客户角度考虑这个问题。",
-        "en": "Consider the issue from a customer perspective."
+        "en": "Consider the issue from a customer perspective.",
+        "origin": "transfer-original"
       }
     ],
-    "gloss": "角度；视角"
+    "gloss": "角度；视角",
+    "originalExample": "From a project perspective, the missing decision is the main risk.",
+    "context": {
+      "kind": "reading",
+      "scene": "Krugman｜观察角度与判断（10月8日）",
+      "sourceId": "whats-the-matter-with-france",
+      "focus": "观察法国的分析角度"
+    },
+    "explanation": "这里讨论观察法国的分析角度；观察和理解问题的角度。",
+    "chunk": "from a European perspective"
   },
   "V20261012-109": {
     "examples": [
       {
-        "zh": "提案因成本不明而引发明显分歧。",
-        "en": "The proposal has become divisive because its costs are unclear."
+        "en": "The conditions attached to a bailout can be divisive.",
+        "zh": "救助所附带的条件可能引发严重分歧。",
+        "origin": "reading-original"
       },
       {
         "zh": "这项引发分歧的政策使委员会分裂。",
-        "en": "The divisive policy split the committee."
+        "en": "The divisive policy split the committee.",
+        "origin": "transfer-original"
       }
     ],
-    "gloss": "引发分歧的"
+    "gloss": "引发分歧的",
+    "originalExample": "The proposal has become divisive because its costs are unclear.",
+    "context": {
+      "kind": "reading",
+      "scene": "Krugman｜观察角度与判断（10月8日）",
+      "sourceId": "whats-the-matter-with-france",
+      "focus": "救助法国引起的欧洲分歧"
+    },
+    "explanation": "这里讨论救助法国引起的欧洲分歧；容易使人产生明显分歧的。"
   },
   "V20261012-110": {
     "examples": [
       {
-        "zh": "我们应检查偏见是否影响解读。",
-        "en": "We should check whether bias is affecting our interpretation."
+        "en": "Political bias can shape how people interpret the same debt figures.",
+        "zh": "政治偏见会影响人们如何解读同一组债务数字。",
+        "origin": "reading-original"
       },
       {
         "zh": "匿名评审可减少个人偏见。",
-        "en": "Anonymous reviews can reduce personal bias."
+        "en": "Anonymous reviews can reduce personal bias.",
+        "origin": "transfer-original"
       }
     ],
-    "gloss": "偏见；倾向"
+    "gloss": "偏见；倾向",
+    "originalExample": "We should check whether bias is affecting our interpretation.",
+    "context": {
+      "kind": "reading",
+      "scene": "Krugman｜观察角度与判断（10月8日）",
+      "sourceId": "whats-the-matter-with-france",
+      "focus": "评论法国时的意识形态偏见"
+    },
+    "explanation": "这里讨论评论法国时的意识形态偏见；影响判断的倾向或偏见。"
   },
   "V20261012-111": {
     "examples": [
       {
-        "zh": "团队希望提高生产率，同时不增加错误。",
-        "en": "The team wants to improve productivity without increasing errors."
+        "en": "A new machine may raise productivity without increasing working hours.",
+        "zh": "新机器可能在不延长工时的情况下提高生产率。",
+        "origin": "reading-original"
       },
       {
         "zh": "培训后生产率提高了。",
-        "en": "Productivity improved after the training."
+        "en": "Productivity improved after the training.",
+        "origin": "transfer-original"
       }
     ],
-    "gloss": "生产率"
+    "gloss": "生产率",
+    "originalExample": "The team wants to improve productivity without increasing errors.",
+    "context": {
+      "kind": "reading",
+      "scene": "Krugman｜数据与合理性（10月9日）",
+      "sourceId": "buongiorno",
+      "focus": "意大利每单位劳动的产出"
+    },
+    "explanation": "这里讨论意大利每单位劳动的产出；投入与产出关系所体现的生产效率。"
   },
   "V20261012-112": {
     "examples": [
       {
-        "zh": "相对于原始估算，成本较低。",
-        "en": "The cost is lower relative to the original estimate."
+        "en": "Productivity should be compared relative to a clearly defined benchmark.",
+        "zh": "比较生产率时，应明确所采用的基准。",
+        "origin": "reading-original"
       },
       {
         "zh": "销售额相对上一季度上升了。",
-        "en": "Sales rose relative to last quarter."
+        "en": "Sales rose relative to last quarter.",
+        "origin": "transfer-original"
       }
     ],
-    "gloss": "相对于"
+    "gloss": "相对于",
+    "originalExample": "The cost is lower relative to the original estimate.",
+    "context": {
+      "kind": "reading",
+      "scene": "Krugman｜数据与合理性（10月9日）",
+      "sourceId": "buongiorno",
+      "focus": "意大利与美国生产率的比较"
+    },
+    "explanation": "这里讨论意大利与美国生产率的比较；与某个基准相比。"
   },
   "V20261012-113": {
     "examples": [
       {
-        "zh": "这项变更需要两个团队付出相当大的努力。",
-        "en": "The change would require considerable effort from both teams."
+        "en": "Modern economies make considerable use of digital services.",
+        "zh": "现代经济体大量使用数字服务。",
+        "origin": "reading-original"
       },
       {
         "zh": "维修造成了相当大的干扰。",
-        "en": "The repair caused considerable disruption."
+        "en": "The repair caused considerable disruption.",
+        "origin": "transfer-original"
       }
     ],
-    "gloss": "相当大的"
+    "gloss": "相当大的",
+    "originalExample": "The change would require considerable effort from both teams.",
+    "context": {
+      "kind": "reading",
+      "scene": "Krugman｜数据与合理性（10月9日）",
+      "sourceId": "buongiorno",
+      "focus": "现代技术在意大利的使用程度"
+    },
+    "explanation": "这里讨论现代技术在意大利的使用程度；数量、程度或影响相当大的。",
+    "chunk": "considerable use of technology"
   },
   "V20261012-114": {
     "examples": [
       {
-        "zh": "解释看似合理，但我们需要验证。",
-        "en": "That is a plausible explanation, but we need to test it."
+        "en": "The author argues that almost no productivity growth is not plausible given the use of modern technology.",
+        "zh": "作者认为，考虑到现代技术的使用，生产率几乎毫无增长的说法并不可信。",
+        "origin": "reading-original"
       },
       {
         "zh": "她对延误的解释听来合理。",
-        "en": "Her account of the delay sounds plausible."
+        "en": "Her account of the delay sounds plausible.",
+        "origin": "transfer-original"
       }
     ],
-    "gloss": "看似合理的"
+    "gloss": "看似合理的",
+    "originalExample": "That is a plausible explanation, but we need to test it.",
+    "context": {
+      "kind": "reading",
+      "scene": "Krugman｜数据与合理性（10月9日）",
+      "sourceId": "buongiorno",
+      "focus": "低增长数字是否合理"
+    },
+    "explanation": "作者认为广泛使用现代技术的意大利，生产率几乎零增长的测算结果不可信；plausible 指合理可信，这里受到否定。"
   },
   "V20261012-115": {
     "examples": [
       {
-        "zh": "差异可能反映测量误差。",
-        "en": "The difference may reflect a measurement error."
+        "en": "Better measurement can change our view of economic growth.",
+        "zh": "更好的测量方法可能改变我们对经济增长的看法。",
+        "origin": "reading-original"
       },
       {
         "zh": "用另一台仪器重复测量。",
-        "en": "Repeat the measurement with another instrument."
+        "en": "Repeat the measurement with another instrument.",
+        "origin": "transfer-original"
       }
     ],
-    "gloss": "测量"
+    "gloss": "测量",
+    "originalExample": "The difference may reflect a measurement error.",
+    "context": {
+      "kind": "reading",
+      "scene": "Krugman｜数据与合理性（10月9日）",
+      "sourceId": "buongiorno",
+      "focus": "生产率数据如何测算"
+    },
+    "explanation": "这里讨论生产率数据如何测算；测量或量化的过程；这里关注数据如何得到。"
   },
   "V20261012-116": {
     "examples": [
       {
-        "zh": "紧急请求可能挤占长期改进工作。",
-        "en": "Urgent requests can crowd out work on long-term improvements."
+        "en": "Spending on data centers can crowd out investment in other industries.",
+        "zh": "数据中心支出可能挤压其他行业的投资。",
+        "origin": "reading-original"
       },
       {
         "zh": "租金可能挤占培训支出。",
-        "en": "Rent can crowd out spending on training."
+        "en": "Rent can crowd out spending on training.",
+        "origin": "transfer-original"
       }
     ],
-    "gloss": "挤占"
+    "gloss": "挤占",
+    "originalExample": "Urgent requests can crowd out work on long-term improvements.",
+    "context": {
+      "kind": "reading",
+      "scene": "Krugman｜资源与影响（10月11日公开预览）",
+      "sourceId": "will-ai-crowd-out-jobs",
+      "focus": "数据中心投资挤压其他投资"
+    },
+    "explanation": "这里讨论数据中心投资挤压其他投资；因占用有限资源而挤压其他活动的空间。",
+    "chunk": "crowd out other investment"
   },
   "V20261012-117": {
     "examples": [
       {
-        "zh": "评审活动占剩余工作的大部分。",
-        "en": "Review activities account for most of the remaining work."
+        "en": "Servers may account for much of a data center's initial cost.",
+        "zh": "服务器可能占数据中心初始成本的很大一部分。",
+        "origin": "reading-original"
       },
       {
         "zh": "出口占我们收入的一半。",
-        "en": "Exports account for half our revenue."
+        "en": "Exports account for half our revenue.",
+        "origin": "transfer-original"
       }
     ],
-    "gloss": "占比"
+    "gloss": "占比",
+    "originalExample": "Review activities account for most of the remaining work.",
+    "context": {
+      "kind": "reading",
+      "scene": "Krugman｜资源与影响（10月11日公开预览）",
+      "sourceId": "will-ai-crowd-out-jobs",
+      "focus": "硬件软件占数据中心成本的比例"
+    },
+    "explanation": "这里讨论硬件软件占数据中心成本的比例；占总量中的某一部分；本条取占比义。"
   },
   "V20261012-118": {
     "examples": [
       {
-        "zh": "新的报告流程下周应能正常运作。",
-        "en": "The new reporting process should be up and running next week."
+        "en": "Once a data center is up and running, its staffing needs may be modest.",
+        "zh": "数据中心投入运行后，用工需求可能不大。",
+        "origin": "reading-original"
       },
       {
         "zh": "备用系统已正常运作。",
-        "en": "The backup system is up and running."
+        "en": "The backup system is up and running.",
+        "origin": "transfer-original"
       }
     ],
-    "gloss": "正常运作的"
+    "gloss": "正常运作的",
+    "originalExample": "The new reporting process should be up and running next week.",
+    "context": {
+      "kind": "reading",
+      "scene": "Krugman｜资源与影响（10月11日公开预览）",
+      "sourceId": "will-ai-crowd-out-jobs",
+      "focus": "数据中心建成投入运行"
+    },
+    "explanation": "这里讨论数据中心建成投入运行；已经建立并能正常运作的。",
+    "chunk": "a data center is up and running"
   },
   "V20261012-119": {
     "examples": [
       {
-        "zh": "请与你在采购部门的对应人员确认交接。",
-        "en": "Please confirm the handover with your counterpart in purchasing."
+        "en": "Workers in one economy may use more capital than their counterparts abroad.",
+        "zh": "一个经济体的劳动者可能比国外同类劳动者使用更多资本。",
+        "origin": "reading-original"
       },
       {
         "zh": "我的对口同事负责海外订单。",
-        "en": "My counterpart handles the overseas orders."
+        "en": "My counterpart handles the overseas orders.",
+        "origin": "transfer-original"
       }
     ],
-    "gloss": "对应岗位的人"
+    "gloss": "同类对应者",
+    "originalExample": "Please confirm the handover with your counterpart in purchasing.",
+    "context": {
+      "kind": "reading",
+      "scene": "Krugman｜资源与影响（10月11日公开预览）",
+      "sourceId": "will-ai-crowd-out-jobs",
+      "focus": "美国与其他国家劳动者的比较"
+    },
+    "explanation": "这里讨论美国与其他国家劳动者的比较；处于另一国家或环境中的同类对应者；这里比较的是劳动者，不是部门对接人。",
+    "chunk": "workers and their counterparts abroad",
+    "meaning": "另一国家或环境中处于相应位置的同类对象；此处指其他国家的劳动者"
   },
   "V20261012-120": {
     "examples": [
       {
-        "zh": "额外步骤只带来微小改善。",
-        "en": "The extra step offers only a marginal improvement."
+        "en": "A small change in investment is not necessarily a marginal issue for wages.",
+        "zh": "投资的小幅变化对工资而言未必是微不足道的问题。",
+        "origin": "reading-original"
       },
       {
         "zh": "价格差异很小。",
-        "en": "The price difference is marginal."
+        "en": "The price difference is marginal.",
+        "origin": "transfer-original"
       }
     ],
-    "gloss": "微小的；有限的"
+    "gloss": "微小的；有限的",
+    "originalExample": "The extra step offers only a marginal improvement.",
+    "context": {
+      "kind": "reading",
+      "scene": "Krugman｜资源与影响（10月11日公开预览）",
+      "sourceId": "will-ai-crowd-out-jobs",
+      "focus": "AI对劳动需求的影响是否微小"
+    },
+    "explanation": "这里讨论AI对劳动需求的影响是否微小；很小的、有限的；本条取程度义。",
+    "chunk": "not a marginal effect"
   },
   "V20261012-121": {
     "examples": [
       {
-        "zh": "如果推迟这项任务，我们可把资源用于别处。",
-        "en": "If this task is deferred, we can use the resources elsewhere."
+        "en": "Capital committed to one industry cannot simultaneously be invested elsewhere.",
+        "zh": "投入一个行业的资本不能同时投向其他地方。",
+        "origin": "reading-original"
       },
       {
         "zh": "我们在别处找到了合适仓库。",
-        "en": "We found suitable storage elsewhere."
+        "en": "We found suitable storage elsewhere.",
+        "origin": "transfer-original"
       }
     ],
-    "gloss": "在别处"
+    "gloss": "在别处",
+    "originalExample": "If this task is deferred, we can use the resources elsewhere.",
+    "context": {
+      "kind": "reading",
+      "scene": "Krugman｜资源与影响（10月11日公开预览）",
+      "sourceId": "will-ai-crowd-out-jobs",
+      "focus": "资本在非AI行业的其他用途"
+    },
+    "explanation": "这里讨论资本在非AI行业的其他用途；在别处或其他环节。",
+    "chunk": "invest capital elsewhere"
   },
   "V20261012-122": {
     "examples": [
       {
-        "zh": "团队对所提议的节省表达了怀疑。",
-        "en": "The team expressed skepticism about the proposed savings."
+        "en": "The author recalls earlier skepticism about AI harming workers, then explains why his view became more pessimistic.",
+        "zh": "作者回顾了自己此前对AI伤害劳动者的怀疑，随后解释了为何看法变得更加悲观。",
+        "origin": "reading-original"
       },
       {
         "zh": "这项预测遭到质疑。",
-        "en": "The forecast met with skepticism."
+        "en": "The forecast met with skepticism.",
+        "origin": "transfer-original"
       }
     ],
-    "gloss": "怀疑态度"
+    "gloss": "怀疑态度",
+    "originalExample": "The team expressed skepticism about the proposed savings.",
+    "context": {
+      "kind": "reading",
+      "scene": "Krugman｜资源与影响（10月11日公开预览）",
+      "sourceId": "will-ai-crowd-out-jobs",
+      "focus": "作者此前对AI伤害劳动者的怀疑，以及后来转向悲观的判断"
+    },
+    "explanation": "作者回顾自己此前对AI严重伤害劳动者的说法持怀疑态度，但随后改变了判断，转向更悲观；skepticism 指先前的怀疑，不是他在这篇文章中的最终立场。"
   },
   "V20261012-123": {
     "examples": [
       {
-        "zh": "需求降低可能对价格形成下行压力。",
-        "en": "Lower demand may put downward pressure on prices."
+        "en": "Weaker demand for labor can put downward pressure on wages.",
+        "zh": "劳动需求减弱可能给工资带来下行压力。",
+        "origin": "reading-original"
       },
       {
         "zh": "库存过剩对价格形成下行压力。",
-        "en": "Excess stock creates downward pressure on prices."
+        "en": "Excess stock creates downward pressure on prices.",
+        "origin": "transfer-original"
       }
     ],
-    "gloss": "下行压力"
+    "gloss": "下行压力",
+    "originalExample": "Lower demand may put downward pressure on prices.",
+    "context": {
+      "kind": "reading",
+      "scene": "Krugman｜资源与影响（10月11日公开预览）",
+      "sourceId": "will-ai-crowd-out-jobs",
+      "focus": "劳动需求减少对工资的压力"
+    },
+    "explanation": "这里讨论劳动需求减少对工资的压力；促使价格、数量或指标下降的压力。"
   },
   "V20261012-124": {
     "examples": [
       {
-        "zh": "回应前，我们需要了解问题的规模。",
-        "en": "We need to understand the scale of the problem before responding."
+        "en": "The scale of data-center construction matters for the wider economy.",
+        "zh": "数据中心建设的规模关系到更广泛的经济活动。",
+        "origin": "reading-original"
       },
       {
         "zh": "投资规模令我们惊讶。",
-        "en": "The scale of investment surprised us."
+        "en": "The scale of investment surprised us.",
+        "origin": "transfer-original"
       }
     ],
-    "gloss": "规模"
+    "gloss": "规模",
+    "originalExample": "We need to understand the scale of the problem before responding.",
+    "context": {
+      "kind": "reading",
+      "scene": "Krugman｜资源与影响（10月11日公开预览）",
+      "sourceId": "will-ai-crowd-out-jobs",
+      "focus": "AI资本投入的规模"
+    },
+    "explanation": "这里讨论AI资本投入的规模；数量、规模或影响的大小。"
   },
   "V20261012-125": {
     "examples": [
       {
-        "zh": "提案需要在下一财年进行资本支出。",
-        "en": "The proposal requires capital expenditure in the next financial year."
+        "en": "Capital expenditure creates assets, but not every asset requires many workers.",
+        "zh": "资本支出形成资产，但并不是每种资产都需要大量劳动者。",
+        "origin": "reading-original"
       },
       {
         "zh": "本季度差旅支出下降了。",
-        "en": "Travel expenditure fell this quarter."
+        "en": "Travel expenditure fell this quarter.",
+        "origin": "transfer-original"
       }
     ],
-    "gloss": "支出"
+    "gloss": "支出",
+    "originalExample": "The proposal requires capital expenditure in the next financial year.",
+    "context": {
+      "kind": "reading",
+      "scene": "Krugman｜资源与影响（10月11日公开预览）",
+      "sourceId": "will-ai-crowd-out-jobs",
+      "focus": "建设数据中心的资本支出"
+    },
+    "explanation": "这里讨论建设数据中心的资本支出；用于某项用途的支出。"
   }
 }

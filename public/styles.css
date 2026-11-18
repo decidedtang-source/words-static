@@ -76,3 +76,6 @@ button.mask-toggle{display:inline-block;position:relative;max-width:100%;min-hei
 
 .face-hidden{visibility:hidden;pointer-events:none}.flip-preview{box-sizing:border-box}
 .learning-mask[data-mask-key="ipa"] .mask-toggle,.learning-mask[data-mask-key="pos"] .mask-toggle{min-width:min(100%,84px)}
+
+.context-source a { overflow-wrap:anywhere; }
+.example-origin { margin-bottom:.35rem; }
