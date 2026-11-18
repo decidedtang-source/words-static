@@ -21,3 +21,8 @@ button.mask-toggle{display:inline-block;position:relative;max-width:100%;min-hei
 .learning-mask[data-masked="true"] .mask-hint{display:flex;position:absolute;inset:0;align-items:center;justify-content:center;font-size:12px;line-height:1.3;padding:4px}
 .learning-mask[data-masked="false"] .mask-toggle:hover{background:#edf1e8}
 .target-word{text-decoration:underline;text-decoration-thickness:1.5px;text-underline-offset:4px}
+
+.study-quick-actions{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin:0 0 8px}
+.study-quick-actions button{min-height:44px;padding:7px 8px;font-size:14px;line-height:1.4}
+.study-shell .page{padding-bottom:calc(220px + env(safe-area-inset-bottom))}
+.study .card [data-reading-section],.study .card .example{scroll-margin-bottom:calc(220px + env(safe-area-inset-bottom))}

@@ -49,6 +49,15 @@ test('reading controls persist, keep audio operable, reveal individually and nev
     await english.locator('button').focus();await page.keyboard.press('Enter');
     assert.equal(await english.getAttribute('data-masked'),'false');assert.equal(await chinese.getAttribute('data-masked'),'true');
     await english.locator('button').press('Space');assert.equal(await english.getAttribute('data-masked'),'true');
+    const savedPreferences=await page.evaluate(()=>localStorage.getItem('words-static-reading-v2'));
+    await page.getByRole('button',{name:'全部展开',exact:true}).click();
+    assert.equal(await page.locator('.study .card details:not([open])').count(),0);
+    assert.equal(await english.getAttribute('data-masked'),'true','expanding does not unmask');
+    await page.getByRole('button',{name:'取消全部遮挡',exact:true}).click();
+    assert.equal(await page.locator('.study .card [data-masked="true"]').count(),0);
+    await page.getByRole('button',{name:'取消全部遮挡',exact:true}).click();
+    assert.equal(await page.locator('.study .card [data-masked="true"]').count(),0,'repeat does not hide text again');
+    assert.equal(await page.evaluate(()=>localStorage.getItem('words-static-reading-v2')),savedPreferences);
     assert.equal(await page.getByRole('button',{name:'认识',exact:true}).count(),1);
     mkdirSync('local-evidence',{recursive:true});await page.screenshot({path:'local-evidence/reading-masks-mobile.png',fullPage:true});
     await page.goto(url+'#stats');assert.equal(await page.getByTestId('answer-count').textContent(),'0');
