@@ -34,3 +34,16 @@ button.mask-toggle{display:inline-block;position:relative;max-width:100%;min-hei
 .module-order .is-dragging{outline:2px solid #5e8055;background:#e8eee4}
 .module-order .order-step:disabled{opacity:.3;cursor:default}
 .module-order li>span{overflow-wrap:anywhere}
+
+.module-preview{grid-column:1/-1;min-width:0;padding:8px}
+.preview-controls{display:flex;flex-wrap:wrap;gap:4px 16px;border-bottom:1px solid #dce4d5;padding-bottom:8px}
+.preview-controls .readlabel{white-space:normal;font-size:14px;min-height:40px}
+.preview-controls input[type=radio]{width:20px;height:20px;min-height:20px;accent-color:#245d45}
+.preview-controls input{flex-shrink:0}
+.module-order li.is-front{border-color:#739665;box-shadow:inset 3px 0 #739665}
+.preview-module{border:0;padding:4px 0}
+.preview-module .word{font-size:30px;margin:12px 0}
+.preview-module p{margin:10px 0}
+.preview-module .mask-toggle{font-size:15px}
+.reading-editor [data-dictionary-preview]{padding:8px;background:#f7f9f3;border-radius:8px;margin:8px 0}
+.module-order{overflow-anchor:none}

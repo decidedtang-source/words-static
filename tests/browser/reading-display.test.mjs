@@ -17,11 +17,11 @@ test('reading controls persist, keep audio operable, reveal individually and nev
     const context=await browser.newContext({viewport:{width:390,height:750}});
     await context.addInitScript(()=>{
       window.spoken=[];
-      Object.defineProperty(window,'speechSynthesis',{value:{getVoices:()=>[{lang:'en-US',localService:true,voiceURI:'local',name:'English'}],addEventListener(){},removeEventListener(){},cancel(){},speak(u){window.spoken.push(u.text)}}});
+      Object.defineProperty(window,'speechSynthesis',{value:{getVoices:()=>[{lang:'en-US',localService:true,voiceURI:'local',name:'English'}],addEventListener(){},removeEventListener(){},cancel(){window.stopped=(window.stopped||0)+1},speak(u){window.spoken.push(u.text)}}});
       window.SpeechSynthesisUtterance=class{constructor(text){this.text=text}};
     });
     const page=await context.newPage(),errors=[];page.on('pageerror',e=>errors.push(e.message));
-    await page.goto(url+'#backup');
+    await page.goto(url+'#backup');await page.setViewportSize({width:1440,height:2800});
     const setting=key=>page.locator(`[data-reading-setting="${key}"]`);
     await page.locator('.module-order').evaluate(el=>el.scrollIntoView({block:'center'}));
     const from=await page.locator('[data-module-key="examples"] .order-handle').boundingBox();
@@ -43,11 +43,12 @@ test('reading controls persist, keep audio operable, reveal individually and nev
     await cdp.send('Input.dispatchTouchEvent',{type:'touchEnd',touchPoints:[]});
     assert.equal(await page.locator('.module-order li').first().getAttribute('data-module-key'),'context','touch drag moves context first');
     await page.getByRole('button',{name:'上移例句',exact:true}).click();
-    mkdirSync('local-evidence',{recursive:true});await page.screenshot({path:'local-evidence/module-order-mobile.png'});
+    mkdirSync('local-evidence',{recursive:true});await page.screenshot({path:'local-evidence/module-order-desktop.png'});
     for(const key of ['term','meaning','foundation','context'])await setting(key).uncheck();
-    for(const key of ['maskChinese','maskEnglish','underline','examples'])await setting(key).check();
-    await page.reload();assert.equal(await setting('term').isChecked(),false);assert.equal(await setting('maskEnglish').isChecked(),true);
-    await page.goto(url+'#today');await page.getByRole('button',{name:'开始学习',exact:true}).click();
+    await page.setViewportSize({width:390,height:750});
+    for(const key of ['mask:meaning','mask:foundation','mask:context','mask:translation','mask:dictionary','mask:example','underline','examples'])await setting(key).check();
+    await page.reload();assert.equal(await setting('term').isChecked(),false);assert.equal(await setting('mask:example').isChecked(),true);
+    await page.goto(url+'#today');await page.getByRole('button',{name:'开始学习',exact:true}).click();await page.getByRole('button',{name:'显示释义',exact:true}).waitFor();
     assert.equal(await page.locator('.term-detail').evaluate(e=>e.open),false);
     await page.locator('.term-detail>summary').focus();await page.keyboard.press('Space');
     assert.equal(await page.locator('.term-detail').evaluate(e=>e.open),true,'keyboard opens term without revealing answers');
@@ -56,7 +57,7 @@ test('reading controls persist, keep audio operable, reveal individually and nev
     assert.equal(await page.locator('.term-detail').evaluate(e=>e.open),true,'manual opening survives reveal on the same card');
     assert.equal(await page.locator('.study .card').evaluate(el=>el.firstElementChild.dataset.readingSection),'examples','study renders saved order');
     await page.goto(url+'#backup');await setting('term').check();
-    await page.goto(url+'#today');await page.getByRole('button',{name:'开始学习',exact:true}).click();
+    await page.goto(url+'#today');await page.getByRole('button',{name:'开始学习',exact:true}).click();await page.getByRole('button',{name:'显示释义',exact:true}).waitFor();
     await page.locator('.term-detail>summary').click();await page.evaluate(()=>{spoken.length=0});
     await page.getByRole('button',{name:'显示释义',exact:true}).click();
     assert.equal(await page.locator('.term-detail').evaluate(e=>e.open),false,'manual folding survives reveal on the same card');
@@ -99,7 +100,7 @@ test('reading controls persist, keep audio operable, reveal individually and nev
     assert.ok(await page.locator('dialog [data-learning-text="zh"][data-masked="true"]').count()>0);
     assert.equal(await page.getByRole('button',{name:'返回原页面',exact:true}).isVisible(),true);
     await page.getByRole('button',{name:'返回原页面',exact:true}).click();await page.locator('dialog').waitFor({state:'detached'});
-    await page.goto(url+'#backup');await setting('maskEnglish').uncheck();await setting('underline').uncheck();
+    await page.goto(url+'#backup');await setting('mask:example').uncheck();await setting('underline').uncheck();
     await page.goto(url+'#library?q=scope');await page.locator('.panel>details>summary').first().click();
     assert.equal(await page.locator('.example-english .learning-mask').count(),0);assert.equal(await page.locator('.example-english u').count(),0);
     assert.ok(await page.locator('.example-translation .learning-mask').count()>0);
@@ -110,10 +111,51 @@ test('reading controls persist, keep audio operable, reveal individually and nev
     for(const width of [320,390,768,1440]){await page.setViewportSize({width,height:750});assert.ok(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth));}
     await page.goto(url+'#backup');await page.getByRole('button',{name:'恢复原顺序',exact:true}).click();
     assert.equal(await page.locator('.module-order li').first().getAttribute('data-module-key'),'term');
+    await setting('mask:meaning').check();await setting('mask:context').uncheck();
+    await setting('mask:foundation').uncheck();await setting('mask:dictionary').check();
+    await setting('mask:example').check();await setting('mask:translation').uncheck();
+    await setting('examples').check();await setting('context').check();await setting('meaning').check();
+    await page.locator('input[name="frontModule"][value="examples"]').check();
+    assert.equal(await page.locator('[data-module-key="examples"] [data-mask-key="example"]').getAttribute('data-masked'),'true','sample masks update immediately');
+    assert.equal(await page.locator('[data-module-key="examples"] [data-mask-key="translation"]').getAttribute('data-masked'),null,'sample translation remains independent');
+    await page.reload();assert.equal(await page.locator('input[name="frontModule"][value="examples"]').isChecked(),true);
+    await page.setViewportSize({width:390,height:750});
+    await page.locator('[data-module-key="examples"]').evaluate(el=>el.scrollIntoView({block:'center'}));
+    await page.screenshot({path:'local-evidence/front-card-settings-mobile.png'});
+    await page.locator('[data-module-key="examples"] .order-handle').evaluate(el=>el.scrollIntoView({block:'center'}));
+    const mobileHandle=await page.locator('[data-module-key="examples"] .order-handle').boundingBox(),beforeDragY=await page.evaluate(()=>scrollY);
+    await cdp.send('Input.dispatchTouchEvent',{type:'touchStart',touchPoints:[{x:mobileHandle.x+20,y:mobileHandle.y+20}]});
+    await cdp.send('Input.dispatchTouchEvent',{type:'touchMove',touchPoints:[{x:mobileHandle.x+20,y:30}]});
+    await page.waitForTimeout(700);
+    await cdp.send('Input.dispatchTouchEvent',{type:'touchEnd',touchPoints:[]});
+    assert.ok(await page.evaluate(()=>scrollY)<beforeDragY,'mobile dragging near edge scrolls the long preview');
+    await page.goto(url+'#today');await page.getByRole('button',{name:'开始学习',exact:true}).click();await page.getByRole('button',{name:'显示释义',exact:true}).waitFor();
+    assert.equal(await page.locator('.study .card [data-reading-section]').count(),1);
+    assert.equal(await page.locator('.study .card [data-reading-section]').getAttribute('data-reading-section'),'examples');
+    assert.equal(await page.locator('.study .term-detail').count(),0,'front examples do not leak the word header');
+    const stops=await page.evaluate(()=>window.stopped||0);await page.getByRole('button',{name:'停止朗读',exact:true}).click();assert.equal(await page.evaluate(()=>window.stopped),stops+1);
+    assert.equal(await page.getByRole('button',{name:'认识',exact:true}).count(),0,'front practice cannot grade yet');
+    await page.getByRole('button',{name:'播放例句1',exact:true}).click();
+    assert.equal(await page.locator('.example-english .learning-mask').first().getAttribute('data-masked'),'true');
+    await page.locator('.example-english .mask-toggle').first().click();
+    await page.getByRole('button',{name:'显示释义',exact:true}).click();
+    assert.equal(await page.locator('.example-english .learning-mask').first().getAttribute('data-masked'),'false','front reveal survives full card');
+    assert.equal(await page.locator('.context-detail .learning-mask').count(),0);
+    assert.ok(await page.locator('.meaning-block .learning-mask').count()>0);
+    await page.evaluate(()=>scrollTo(0,120));const previousY=await page.evaluate(()=>scrollY);
+    await page.getByRole('button',{name:'认识',exact:true}).click();await page.getByRole('button',{name:'显示释义',exact:true}).waitFor();
+    assert.equal(await page.evaluate(()=>scrollY),previousY,'next example-front card retains reading position');
+    assert.equal(await page.locator('.example-english .learning-mask').first().getAttribute('data-masked'),'true','next card restores mask defaults');
+    for(const key of ['meaning','context','foundation','term']){
+      await page.goto(url+'#backup');await page.locator(`input[name="frontModule"][value="${key}"]`).check();
+      await page.goto(url+'#today');await page.getByRole('button',{name:'开始学习',exact:true}).click();await page.getByRole('button',{name:'显示释义',exact:true}).waitFor();
+      const sections=await page.locator('.study .card [data-reading-section]').evaluateAll(els=>els.map(el=>el.dataset.readingSection));
+      assert.ok(sections.length===1&&sections[0]===key||key==='foundation'&&sections.length===0,'only selected module appears on front');
+    }
     const legacy=await browser.newContext();await legacy.addInitScript(()=>localStorage.setItem('words-static-content-expanded','false'));
     const lp=await legacy.newPage();await lp.goto(url+'#backup');assert.equal(await lp.locator('[data-reading-setting="examples"]').isChecked(),false);assert.equal(await lp.locator('[data-reading-setting="term"]').isChecked(),true);
     const denied=await browser.newContext();await denied.addInitScript(()=>{Storage.prototype.getItem=()=>{throw Error('blocked')};Storage.prototype.setItem=()=>{throw Error('blocked')};});
-    const dp=await denied.newPage();await dp.goto(url+'#backup');await dp.locator('[data-reading-setting="maskChinese"]').check();await dp.getByText('浏览器拒绝保存显示偏好，本次仍可使用。',{exact:true}).waitFor();
+    const dp=await denied.newPage();await dp.goto(url+'#backup');await dp.locator('[data-reading-setting="mask:meaning"]').check();await dp.getByText('浏览器拒绝保存显示偏好，本次仍可使用。',{exact:true}).waitFor();
     assert.deepEqual(errors,[]);
   }finally{await browser.close();await new Promise(r=>server.close(r));}
 });

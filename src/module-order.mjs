@@ -9,14 +9,15 @@ export function applyModuleOrder(container) {
 }
 
 export function moduleOrderSettings() {
-  return '<fieldset class="reading-settings"><legend>词卡模块顺序</legend><p class="hint">拖动左侧手柄调整顺序，也可使用上移、下移按钮。适用于背单词和词库；词典详情中的对应模块也使用此顺序。</p><ol class="module-order" aria-label="词卡模块顺序"></ol><button type="button" class="secondary" data-reset-order>恢复原顺序</button><p class="hint" role="status" data-order-status></p></fieldset>';
+  return '<fieldset class="reading-settings"><legend>在示例词卡上调整</legend><p class="hint">拖动手柄或点击箭头排序；选择正面内容，再分别设置展开和遮罩。下面使用 scope 的示例，不计入学习记录。点击示例文字可试读，勾选项会保存到本浏览器。</p><ol class="module-order" aria-label="词卡模块顺序"></ol><button type="button" class="secondary" data-reset-order>恢复原顺序</button><p class="hint" role="status" data-order-status></p></fieldset>';
 }
 
-export function bindModuleOrder() {
+export function bindModuleOrder(renderPreview=()=>'',onDraw=()=>{}) {
   const list=document.querySelector('.module-order');if(!list)return;
-  const status=document.querySelector('[data-order-status]');let drag=null;
+  const status=document.querySelector('[data-order-status]');let drag=null,scrollFrame=0;
   const draw=()=>{
-    list.innerHTML=readingPreferences().order.map((key,i)=>`<li data-module-key="${key}"><button type="button" class="order-handle" aria-label="拖动${sectionLabels[key]}调整顺序">⠿</button><span>${sectionLabels[key]}</span><button type="button" class="order-step" data-step="-1" aria-label="上移${sectionLabels[key]}" ${i===0?'disabled':''}>↑</button><button type="button" class="order-step" data-step="1" aria-label="下移${sectionLabels[key]}" ${i===readingPreferences().order.length-1?'disabled':''}>↓</button></li>`).join('');
+    list.innerHTML=readingPreferences().order.map((key,i)=>`<li data-module-key="${key}" class="${readingPreferences().frontModule===key?'is-front':''}"><button type="button" class="order-handle" aria-label="拖动${sectionLabels[key]}调整顺序">⠿</button><span>${sectionLabels[key]}</span><button type="button" class="order-step" data-step="-1" aria-label="上移${sectionLabels[key]}" ${i===0?'disabled':''}>↑</button><button type="button" class="order-step" data-step="1" aria-label="下移${sectionLabels[key]}" ${i===readingPreferences().order.length-1?'disabled':''}>↓</button><div class="module-preview">${renderPreview(key)}</div></li>`).join('');
+    onDraw();
   };
   const finish=(order,key)=>{
     const saved=saveReadingPreference('order',order);draw();
@@ -30,22 +31,31 @@ export function bindModuleOrder() {
   };
   list.onclick=e=>{const button=e.target.closest('[data-step]');if(button)move(button.closest('li'),Number(button.dataset.step));};
   list.onkeydown=e=>{if(e.target.closest('.order-handle')&&['ArrowUp','ArrowDown'].includes(e.key)){e.preventDefault();move(e.target.closest('li'),e.key==='ArrowUp'?-1:1);}};
+  const reorderAtPointer=()=>{
+    const row=document.elementFromPoint(drag.x,drag.y)?.closest('[data-module-key]');
+    if(row&&row.parentElement===list&&row!==drag.row){const box=row.getBoundingClientRect();list.insertBefore(drag.row,drag.y<box.top+box.height/2?row:row.nextSibling);}
+  };
+  const autoScroll=()=>{
+    if(!drag)return;if(!list.isConnected){drag=null;return;}
+    const delta=drag.y<65?-10:drag.y>innerHeight-100?10:0;
+    if(delta){window.scrollBy(0,delta);reorderAtPointer();}
+    scrollFrame=requestAnimationFrame(autoScroll);
+  };
   list.onpointerdown=e=>{
     const handle=e.target.closest('.order-handle');if(!handle||e.button!==0||drag)return;
-    e.preventDefault();drag={row:handle.closest('li'),id:e.pointerId};drag.row.classList.add('is-dragging');list.setPointerCapture(e.pointerId);
+    e.preventDefault();drag={row:handle.closest('li'),id:e.pointerId,x:e.clientX,y:e.clientY};drag.row.classList.add('is-dragging');list.setPointerCapture(e.pointerId);cancelAnimationFrame(scrollFrame);scrollFrame=requestAnimationFrame(autoScroll);
   };
   list.onpointermove=e=>{
     if(!drag||drag.id!==e.pointerId)return;e.preventDefault();
-    const row=document.elementFromPoint(e.clientX,e.clientY)?.closest('[data-module-key]');
-    if(row&&row.parentElement===list&&row!==drag.row){const box=row.getBoundingClientRect();list.insertBefore(drag.row,e.clientY<box.top+box.height/2?row:row.nextSibling);}
-    if(e.clientY<55)window.scrollBy(0,-12);else if(e.clientY>innerHeight-55)window.scrollBy(0,12);
+    drag.x=e.clientX;drag.y=e.clientY;reorderAtPointer();
   };
   list.onpointerup=e=>{
     if(!drag||drag.id!==e.pointerId)return;
-    const key=drag.row.dataset.moduleKey,order=[...list.children].map(row=>row.dataset.moduleKey);drag=null;
+    const key=drag.row.dataset.moduleKey,order=[...list.children].map(row=>row.dataset.moduleKey);drag=null;cancelAnimationFrame(scrollFrame);
     if(list.hasPointerCapture(e.pointerId))list.releasePointerCapture(e.pointerId);finish(order,key);
   };
-  const cancel=()=>{if(drag){drag=null;draw();}};
+  const cancel=()=>{if(drag){drag=null;cancelAnimationFrame(scrollFrame);draw();}};
   list.onpointercancel=cancel;list.onlostpointercapture=cancel;
   document.querySelector('[data-reset-order]').onclick=()=>finish([...defaultModuleOrder],'term');draw();
+  return draw;
 }

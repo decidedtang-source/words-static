@@ -24,6 +24,20 @@ test('module order removes invalid and duplicate modules and keeps missing modul
   assert.deepEqual(normalizePreferences({order:'examples'}).order,normalizePreferences(null).order);
 });
 
+test('front module and independent masks migrate legacy preferences without coupling new choices',()=>{
+  const migrated=normalizePreferences({maskChinese:true,maskEnglish:false});
+  assert.equal(migrated.frontModule,'term');
+  assert.equal(migrated.masks.meaning,true);
+  assert.equal(migrated.masks.translation,true);
+  assert.equal(migrated.masks.example,false);
+  const custom=normalizePreferences({frontModule:'examples',maskChinese:true,masks:{meaning:false,context:false,example:true,translation:true}});
+  assert.equal(custom.frontModule,'examples');
+  assert.equal(custom.masks.meaning,false);assert.equal(custom.masks.context,false);
+  assert.equal(custom.masks.dictionary,true);assert.equal(custom.masks.example,true);
+  assert.equal(normalizePreferences({frontModule:'bad',masks:{meaning:'yes'}}).frontModule,'term');
+  assert.equal(normalizePreferences({masks:{meaning:'yes'}}).masks.meaning,false);
+});
+
 test('underlines mark whole expressions without changing or interpreting source text',()=>{
   assert.equal(underlineTarget('Scope and telescope; SCOPE.','scope',true),'<u class="target-word">Scope</u> and telescope; <u class="target-word">SCOPE</u>.');
   assert.equal(underlineTarget('Clear problem  ownership.','problem ownership',true),'Clear <u class="target-word">problem  ownership</u>.');
