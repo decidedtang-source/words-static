@@ -63,3 +63,5 @@ button.mask-toggle{display:inline-block;position:relative;max-width:100%;min-hei
 .batch-counts dt{font-size:12px;color:#68785f}.batch-counts dd{margin:0;font-size:20px;font-weight:600}
 .batch-progress-row .actions{gap:12px;font-size:14px}.batch-progress-row button{padding:8px 12px}
 .list li{gap:12px;flex-wrap:wrap}.list li>span{font-size:13px;color:#68785f}
+
+.study-audio-progress{display:flex;align-items:center;justify-content:center;gap:8px;font-size:12px;color:#56614f}.study-audio-progress .textbutton{font-size:12px;padding:6px;min-height:36px}.study-progress{margin:8px 0;font-size:13px}.study-progress p{margin:2px 0}.study-shell .page{padding-bottom:calc(260px + env(safe-area-inset-bottom))}

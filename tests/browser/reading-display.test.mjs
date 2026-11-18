@@ -61,13 +61,13 @@ test('reading controls persist, keep audio operable, reveal individually and nev
     await page.locator('.term-detail>summary').click();await page.evaluate(()=>{spoken.length=0});
     await page.getByRole('button',{name:'显示释义',exact:true}).click();
     assert.equal(await page.locator('.term-detail').evaluate(e=>e.open),false,'manual folding survives reveal on the same card');
-    assert.equal(await page.evaluate(()=>spoken.length),0,'folded term must not be spoken automatically');
+    assert.equal(await page.evaluate(()=>spoken.length),1,'automatic speech is independent of folding');
     assert.equal(await page.locator('.meaning-block').evaluate(e=>e.open),false);
     assert.equal(await page.locator('.examples-detail').evaluate(e=>e.open),true);
     const english=page.locator('.example-english .learning-mask').first(),chinese=page.locator('.example-translation .learning-mask').first();
     assert.equal(await english.getAttribute('data-masked'),'true');
     await page.getByRole('button',{name:'播放例句1',exact:true}).click();
-    assert.equal(await page.evaluate(()=>spoken.length),1);
+    assert.equal(await page.evaluate(()=>spoken.length),2);
     assert.equal(await english.getAttribute('data-masked'),'true');
     await english.locator('button').focus();await page.keyboard.press('Enter');
     assert.equal(await english.getAttribute('data-masked'),'false');assert.equal(await chinese.getAttribute('data-masked'),'true');
