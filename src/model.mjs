@@ -3,7 +3,8 @@ const engine=fsrs(generatorParameters({request_retention:.9,maximum_interval:365
 const clone=x=>JSON.parse(JSON.stringify(x));
 const check=(ok,message='记录格式无效')=>{if(!ok)throw Error(message)};
 const validId=s=>typeof s==='string'&&/^[A-Za-z0-9:_-]{1,100}$/.test(s)&&!['__proto__','constructor','prototype'].includes(s);
-export const day=at=>new Intl.DateTimeFormat('en-CA',{timeZone:'Asia/Taipei',year:'numeric',month:'2-digit',day:'2-digit'}).format(new Date(at));
+const dayFormatter=new Intl.DateTimeFormat('en-CA',{timeZone:'Asia/Taipei',year:'numeric',month:'2-digit',day:'2-digit'});
+export const day=at=>dayFormatter.format(new Date(at));
 export const empty=()=>({schema:1,cards:{},events:[],marks:{},settings:{target:20}});
 export const validTarget=value=>value===null||(Number.isSafeInteger(value)&&value>=0);
 export const cardState=(s,id)=>s.cards[id]||{version:0,state:clone(createEmptyCard(new Date(0)))};

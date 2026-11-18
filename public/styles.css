@@ -65,3 +65,7 @@ button.mask-toggle{display:inline-block;position:relative;max-width:100%;min-hei
 .list li{gap:12px;flex-wrap:wrap}.list li>span{font-size:13px;color:#68785f}
 
 .study-audio-progress{display:flex;align-items:center;justify-content:center;gap:8px;font-size:12px;color:#56614f}.study-audio-progress .textbutton{font-size:12px;padding:6px;min-height:36px}.study-progress{margin:8px 0;font-size:13px}.study-progress p{margin:2px 0}.study-shell .page{padding-bottom:calc(260px + env(safe-area-inset-bottom))}
+
+.goal-feedback progress{width:100%;height:12px;accent-color:#245d45}.goal-feedback label{font-size:15px}.goal-encouragement{font-size:14px;color:#245d45;font-weight:600}.metric small{display:block;color:#6c7a6a;font-size:12px}.daily-target-controls{border-top:1px solid #e0e4d8;margin-top:16px}.daily-target-controls input[type=number]{max-width:180px}#today-feedback .metrics{margin:10px 0}#today-feedback .metric strong{font-size:clamp(18px,4vw,26px);overflow-wrap:anywhere}
+
+#today-feedback .metric{padding:14px 8px}#today-feedback .metric span{font-size:13px}#today-feedback .metric small{font-size:11px}
