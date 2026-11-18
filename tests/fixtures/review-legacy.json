@@ -1,0 +1,49 @@
+{
+  "schema": 1,
+  "cards": {
+    "legacy": {
+      "version": 3,
+      "state": {
+        "due": "2026-11-15T00:00:00.000Z",
+        "stability": 11.9910269,
+        "difficulty": 2.1043314,
+        "scheduled_days": 12,
+        "reps": 3,
+        "lapses": 0,
+        "learning_steps": 0,
+        "state": 2,
+        "last_review": "2026-11-03T00:00:00.000Z"
+      }
+    }
+  },
+  "events": [
+    {
+      "type": "grade",
+      "eventId": "legacy-0",
+      "cardId": "legacy",
+      "rating": 3,
+      "at": 1793491200000,
+      "version": 0
+    },
+    {
+      "type": "grade",
+      "eventId": "legacy-1",
+      "cardId": "legacy",
+      "rating": 3,
+      "at": 1793577600000,
+      "version": 1
+    },
+    {
+      "type": "grade",
+      "eventId": "legacy-2",
+      "cardId": "legacy",
+      "rating": 3,
+      "at": 1793664000000,
+      "version": 2
+    }
+  ],
+  "marks": {},
+  "settings": {
+    "target": 20
+  }
+}
