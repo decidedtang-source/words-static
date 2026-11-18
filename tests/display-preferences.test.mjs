@@ -3,6 +3,14 @@ import assert from 'node:assert/strict';
 import {normalizePreferences} from '../src/display-preferences.mjs';
 import {underlineTarget} from '../src/reading-display.mjs';
 
+test('both face contents are independent multi-selects, including an intentionally empty face',()=>{
+ assert.deepEqual(normalizePreferences({frontModule:'examples'}).frontModules,['examples']);
+ const p=normalizePreferences({frontModules:['meaning','examples','meaning','bad'],backModules:[]});
+ assert.deepEqual(p.frontModules,['meaning','examples']);assert.deepEqual(p.backModules,[]);
+ assert.deepEqual(normalizePreferences({frontModules:[]}).frontModules,[]);
+ assert.deepEqual(normalizePreferences({backModules:'bad'}).backModules,['term','meaning','foundation','context','examples']);
+});
+
 test('flip actions default to preserving state and independently validate sections and masks',()=>{
  const initial=normalizePreferences(null);assert.equal(initial.keepFace,false);assert.equal(initial.scrollMode,'module');assert.equal(normalizePreferences({keepFace:true,scrollMode:'top'}).keepFace,true);assert.equal(normalizePreferences({keepFace:'yes',scrollMode:'bad'}).scrollMode,'module');assert.deepEqual(Object.values(initial.flipSections),Array(5).fill('keep'));assert.deepEqual(Object.values(initial.flipMasks),Array(5).fill(false));
  const p=normalizePreferences({expanded:{meaning:false},masks:{meaning:true,example:true},flipSections:{meaning:'open',term:'closed',examples:'bad'},flipMasks:{meaning:true,example:false,translation:'yes'}});

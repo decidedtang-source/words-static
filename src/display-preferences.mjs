@@ -6,6 +6,9 @@ export const normalizeModuleOrder=value=>[...new Set([...(Array.isArray(value)?v
 export function normalizePreferences(value, legacyExpanded=true) {
   const result={expanded:{term:true,meaning:true,foundation:true,context:legacyExpanded,examples:legacyExpanded,dictionary:legacyExpanded,analysis:legacyExpanded},maskChinese:false,maskEnglish:false,underline:false,order:normalizeModuleOrder(value?.order)};
   result.frontModule=defaultModuleOrder.includes(value?.frontModule)?value.frontModule:'term';
+  const faceList=(items,fallback)=>Array.isArray(items)?[...new Set(items.filter(key=>defaultModuleOrder.includes(key)))]:[...fallback];
+  result.frontModules=faceList(value?.frontModules,[result.frontModule]);
+  result.backModules=faceList(value?.backModules,defaultModuleOrder);
   result.keepFace=value?.keepFace===true;
   result.scrollMode=['position','top'].includes(value?.scrollMode)?value.scrollMode:'module';
   result.flipSections=Object.fromEntries(defaultModuleOrder.map(key=>[key,['open','closed'].includes(value?.flipSections?.[key])?value.flipSections[key]:'keep']));
@@ -23,7 +26,8 @@ export const readingPreferences=()=>preferences;
 export const contentExpanded=(section='context')=>preferences.expanded[section];
 export function saveReadingPreference(key,value) {
   if(key==='order')preferences.order=normalizeModuleOrder(value);
-  else if(key==='frontModule'&&defaultModuleOrder.includes(value))preferences.frontModule=value;
+  else if(key==='frontModule'&&defaultModuleOrder.includes(value)){preferences.frontModule=value;preferences.frontModules=[value];}
+  else if((key.startsWith('front-visible:')||key.startsWith('back-visible:'))&&defaultModuleOrder.includes(key.split(':')[1])){const face=key.startsWith('front')?'frontModules':'backModules',module=key.split(':')[1];preferences[face]=defaultModuleOrder.filter(k=>k===module?value===true:preferences[face].includes(k));}
   else if(key==='keepFace')preferences.keepFace=value===true;
   else if(key==='scrollMode')preferences.scrollMode=['position','top'].includes(value)?value:'module';
   else if(key.startsWith('flip-section:')&&defaultModuleOrder.includes(key.slice(13)))preferences.flipSections[key.slice(13)]=['open','closed'].includes(value)?value:'keep';

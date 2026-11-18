@@ -73,3 +73,5 @@ button.mask-toggle{display:inline-block;position:relative;max-width:100%;min-hei
 .flip-section-controls{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:8px 16px}.flip-section-controls label{margin:4px 0}.flip-preview{margin-top:16px;border:1px solid #d9e0d2;border-radius:12px;padding:12px}.flip-preview .word{font-size:28px}.flip-preview details{margin:10px 0}.flip-settings{min-width:0}
 
 .study-quick-actions{grid-template-columns:repeat(3,minmax(0,1fr))}.study-quick-actions button{font-size:12px;padding:8px 4px}
+
+.face-hidden{visibility:hidden;pointer-events:none}.flip-preview{box-sizing:border-box}

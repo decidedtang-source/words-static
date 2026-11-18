@@ -130,9 +130,9 @@ test('reading controls persist, keep audio operable, reveal individually and nev
     await cdp.send('Input.dispatchTouchEvent',{type:'touchEnd',touchPoints:[]});
     assert.ok(await page.evaluate(()=>scrollY)<beforeDragY,'mobile dragging near edge scrolls the long preview');
     await page.goto(url+'#today');await page.getByRole('button',{name:'开始学习',exact:true}).click();await page.getByRole('button',{name:'显示释义',exact:true}).waitFor();
-    assert.equal(await page.locator('.study .card [data-reading-section]').count(),1);
-    assert.equal(await page.locator('.study .card [data-reading-section]').getAttribute('data-reading-section'),'examples');
-    assert.equal(await page.locator('.study .term-detail').count(),0,'front examples do not leak the word header');
+    assert.equal(await page.locator('.study .card [data-reading-section]:visible').count(),1);
+    assert.equal(await page.locator('.study .card [data-reading-section]:visible').getAttribute('data-reading-section'),'examples');
+    assert.equal(await page.locator('.study .term-detail').isVisible(),false,'front examples do not leak the word header');
     const stops=await page.evaluate(()=>window.stopped||0);await page.getByRole('button',{name:'停止朗读',exact:true}).click();assert.equal(await page.evaluate(()=>window.stopped),stops+1);
     assert.equal(await page.getByRole('button',{name:'认识',exact:true}).count(),0,'front practice cannot grade yet');
     await page.getByRole('button',{name:'播放例句1',exact:true}).click();
@@ -149,7 +149,7 @@ test('reading controls persist, keep audio operable, reveal individually and nev
     for(const key of ['meaning','context','foundation','term']){
       await page.goto(url+'#backup');await page.locator(`input[name="frontModule"][value="${key}"]`).check();
       await page.goto(url+'#today');await page.getByRole('button',{name:'开始学习',exact:true}).click();await page.getByRole('button',{name:'显示释义',exact:true}).waitFor();
-      const sections=await page.locator('.study .card [data-reading-section]').evaluateAll(els=>els.map(el=>el.dataset.readingSection));
+      const sections=await page.locator('.study .card [data-reading-section]:visible').evaluateAll(els=>els.map(el=>el.dataset.readingSection));
       assert.ok(sections.length===1&&sections[0]===key||key==='foundation'&&sections.length===0,'only selected module appears on front');
     }
     const legacy=await browser.newContext();await legacy.addInitScript(()=>localStorage.setItem('words-static-content-expanded','false'));
