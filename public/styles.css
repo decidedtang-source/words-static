@@ -26,3 +26,11 @@ button.mask-toggle{display:inline-block;position:relative;max-width:100%;min-hei
 .study-quick-actions button{min-height:44px;padding:7px 8px;font-size:14px;line-height:1.4}
 .study-shell .page{padding-bottom:calc(220px + env(safe-area-inset-bottom))}
 .study .card [data-reading-section],.study .card .example{scroll-margin-bottom:calc(220px + env(safe-area-inset-bottom))}
+
+.module-order{list-style:none;margin:12px 0;padding:0;display:grid;gap:8px}
+.module-order li{display:grid;grid-template-columns:44px minmax(0,1fr) 40px 40px;gap:6px;align-items:center;padding:6px;border:1px solid #dce4d5;border-radius:10px;background:#f7f9f3}
+.module-order .order-handle,.module-order .order-step{padding:4px;min-height:44px;color:#34513f;background:#e8eee4;border-radius:7px}
+.module-order .order-handle{touch-action:none;cursor:grab;font-size:24px;user-select:none}
+.module-order .is-dragging{outline:2px solid #5e8055;background:#e8eee4}
+.module-order .order-step:disabled{opacity:.3;cursor:default}
+.module-order li>span{overflow-wrap:anywhere}

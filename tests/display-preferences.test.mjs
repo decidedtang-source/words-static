@@ -18,6 +18,12 @@ test('display preferences preserve old collapse choice and reject invalid values
   assert.equal(normalizePreferences({maskChinese:'true',expanded:null}).maskChinese,false);
 });
 
+test('module order removes invalid and duplicate modules and keeps missing modules',()=>{
+  assert.deepEqual(normalizePreferences(null).order,['term','meaning','foundation','context','examples']);
+  assert.deepEqual(normalizePreferences({order:['examples','examples','unknown','term']}).order,['examples','term','meaning','foundation','context']);
+  assert.deepEqual(normalizePreferences({order:'examples'}).order,normalizePreferences(null).order);
+});
+
 test('underlines mark whole expressions without changing or interpreting source text',()=>{
   assert.equal(underlineTarget('Scope and telescope; SCOPE.','scope',true),'<u class="target-word">Scope</u> and telescope; <u class="target-word">SCOPE</u>.');
   assert.equal(underlineTarget('Clear problem  ownership.','problem ownership',true),'Clear <u class="target-word">problem  ownership</u>.');

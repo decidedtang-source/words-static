@@ -23,6 +23,27 @@ test('reading controls persist, keep audio operable, reveal individually and nev
     const page=await context.newPage(),errors=[];page.on('pageerror',e=>errors.push(e.message));
     await page.goto(url+'#backup');
     const setting=key=>page.locator(`[data-reading-setting="${key}"]`);
+    await page.locator('.module-order').evaluate(el=>el.scrollIntoView({block:'center'}));
+    const from=await page.locator('[data-module-key="examples"] .order-handle').boundingBox();
+    const target=await page.locator('[data-module-key="term"]').boundingBox();
+    await page.mouse.move(from.x+from.width/2,from.y+from.height/2);await page.mouse.down();
+    await page.mouse.move(target.x+20,target.y+8,{steps:20});await page.mouse.up();
+    assert.equal(await page.locator('.module-order li').first().getAttribute('data-module-key'),'examples','mouse drag moves examples first');
+    await page.reload();assert.equal(await page.locator('.module-order li').first().getAttribute('data-module-key'),'examples');
+    await page.getByRole('button',{name:'下移例句',exact:true}).click();
+    assert.equal(await page.locator('.module-order li').nth(1).getAttribute('data-module-key'),'examples');
+    await page.locator('[data-module-key="examples"] .order-handle').press('ArrowUp');
+    assert.equal(await page.locator('.module-order li').first().getAttribute('data-module-key'),'examples','keyboard reorder');
+    await page.locator('.module-order').evaluate(el=>el.scrollIntoView({block:'center'}));
+    const touchFrom=await page.locator('[data-module-key="context"] .order-handle').boundingBox();
+    const touchTarget=await page.locator('[data-module-key="examples"]').boundingBox();
+    const cdp=await context.newCDPSession(page);
+    await cdp.send('Input.dispatchTouchEvent',{type:'touchStart',touchPoints:[{x:touchFrom.x+20,y:touchFrom.y+20}]});
+    await cdp.send('Input.dispatchTouchEvent',{type:'touchMove',touchPoints:[{x:touchTarget.x+20,y:touchTarget.y+8}]});
+    await cdp.send('Input.dispatchTouchEvent',{type:'touchEnd',touchPoints:[]});
+    assert.equal(await page.locator('.module-order li').first().getAttribute('data-module-key'),'context','touch drag moves context first');
+    await page.getByRole('button',{name:'上移例句',exact:true}).click();
+    mkdirSync('local-evidence',{recursive:true});await page.screenshot({path:'local-evidence/module-order-mobile.png'});
     for(const key of ['term','meaning','foundation','context'])await setting(key).uncheck();
     for(const key of ['maskChinese','maskEnglish','underline','examples'])await setting(key).check();
     await page.reload();assert.equal(await setting('term').isChecked(),false);assert.equal(await setting('maskEnglish').isChecked(),true);
@@ -33,6 +54,7 @@ test('reading controls persist, keep audio operable, reveal individually and nev
     assert.equal(await page.getByRole('button',{name:'显示释义',exact:true}).count(),1);
     await page.getByRole('button',{name:'显示释义',exact:true}).click();
     assert.equal(await page.locator('.term-detail').evaluate(e=>e.open),true,'manual opening survives reveal on the same card');
+    assert.equal(await page.locator('.study .card').evaluate(el=>el.firstElementChild.dataset.readingSection),'examples','study renders saved order');
     await page.goto(url+'#backup');await setting('term').check();
     await page.goto(url+'#today');await page.getByRole('button',{name:'开始学习',exact:true}).click();
     await page.locator('.term-detail>summary').click();await page.evaluate(()=>{spoken.length=0});
@@ -65,6 +87,7 @@ test('reading controls persist, keep audio operable, reveal individually and nev
     await page.goto(url+'#library?q=scope');await page.locator('.panel>details>summary').first().click();
     assert.ok(!(await page.locator('.panel>details>summary').first().textContent()).toLowerCase().includes('scope'));
     const example=page.locator('.example-english').first();assert.ok(await example.locator('u').count()>0);
+    assert.equal(await page.locator('.panel>details').first().evaluate(el=>el.children[1].dataset.readingSection),'examples','library renders saved order');
     await example.locator('.mask-toggle').click();
     await page.locator('.examples-detail>summary').first().click();
     const outer=page.locator('.panel>details>summary').first();await outer.click();await outer.click();
@@ -72,6 +95,7 @@ test('reading controls persist, keep audio operable, reveal individually and nev
     assert.equal(await example.locator('.learning-mask').getAttribute('data-masked'),'true','reopening card restores masks');
     await page.getByRole('button',{name:'词典与语境',exact:true}).first().click();
     assert.equal(await page.locator('dialog [data-reading-section="term"]').evaluate(e=>e.open),false);
+    assert.equal(await page.locator('dialog>[data-reading-section]').first().getAttribute('data-reading-section'),'examples','dialog renders saved order');
     assert.ok(await page.locator('dialog [data-learning-text="zh"][data-masked="true"]').count()>0);
     assert.equal(await page.getByRole('button',{name:'返回原页面',exact:true}).isVisible(),true);
     await page.getByRole('button',{name:'返回原页面',exact:true}).click();await page.locator('dialog').waitFor({state:'detached'});
@@ -84,6 +108,8 @@ test('reading controls persist, keep audio operable, reveal individually and nev
     await page.locator('.term-detail>summary').first().click();
     assert.ok(!(await page.locator('.panel>details>summary').first().textContent()).toLowerCase().includes('scope'),'open card heading cannot leak folded term');
     for(const width of [320,390,768,1440]){await page.setViewportSize({width,height:750});assert.ok(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth));}
+    await page.goto(url+'#backup');await page.getByRole('button',{name:'恢复原顺序',exact:true}).click();
+    assert.equal(await page.locator('.module-order li').first().getAttribute('data-module-key'),'term');
     const legacy=await browser.newContext();await legacy.addInitScript(()=>localStorage.setItem('words-static-content-expanded','false'));
     const lp=await legacy.newPage();await lp.goto(url+'#backup');assert.equal(await lp.locator('[data-reading-setting="examples"]').isChecked(),false);assert.equal(await lp.locator('[data-reading-setting="term"]').isChecked(),true);
     const denied=await browser.newContext();await denied.addInitScript(()=>{Storage.prototype.getItem=()=>{throw Error('blocked')};Storage.prototype.setItem=()=>{throw Error('blocked')};});
