@@ -12,7 +12,7 @@ test('both face contents are independent multi-selects, including an intentional
 });
 
 test('flip actions default to preserving state and independently validate sections and masks',()=>{
- const initial=normalizePreferences(null);assert.equal(initial.keepFace,false);assert.equal(initial.scrollMode,'module');assert.equal(normalizePreferences({keepFace:true,scrollMode:'top'}).keepFace,true);assert.equal(normalizePreferences({keepFace:'yes',scrollMode:'bad'}).scrollMode,'module');assert.deepEqual(Object.values(initial.flipSections),Array(5).fill('keep'));assert.deepEqual(Object.values(initial.flipMasks),Array(5).fill(false));
+ const initial=normalizePreferences(null);assert.equal(initial.keepFace,false);assert.equal(initial.scrollMode,'module');assert.equal(normalizePreferences({keepFace:true,scrollMode:'top'}).keepFace,true);assert.equal(normalizePreferences({keepFace:'yes',scrollMode:'bad'}).scrollMode,'module');assert.deepEqual(Object.values(initial.flipSections),Array(5).fill('keep'));assert.deepEqual(Object.values(initial.flipMasks),Array(7).fill(false));
  const p=normalizePreferences({expanded:{meaning:false},masks:{meaning:true,example:true},flipSections:{meaning:'open',term:'closed',examples:'bad'},flipMasks:{meaning:true,example:false,translation:'yes'}});
  assert.equal(p.flipSections.meaning,'open');assert.equal(p.flipSections.term,'closed');assert.equal(p.flipSections.examples,'keep');assert.equal(p.flipMasks.meaning,true);assert.equal(p.flipMasks.example,false);assert.equal(p.flipMasks.translation,false);assert.equal(p.expanded.meaning,false);assert.equal(p.masks.meaning,true);
 });
@@ -59,3 +59,5 @@ test('underlines mark whole expressions without changing or interpreting source 
   assert.equal(underlineTarget('Taking responsibility.','take responsibility',true),'Taking responsibility.');
   assert.equal(underlineTarget('scopé scope2 scope','scope',true),'scopé scope2 <u class="target-word">scope</u>');
 });
+
+test('phonetics and part-of-speech masks are independent and do not inherit legacy Chinese masking',()=>{const old=normalizePreferences({maskChinese:true});assert.equal(old.masks.ipa,false);assert.equal(old.masks.pos,false);const p=normalizePreferences({masks:{ipa:true,pos:false},flipMasks:{ipa:true}});assert.equal(p.masks.ipa,true);assert.equal(p.masks.pos,false);assert.equal(p.flipMasks.ipa,true);assert.equal(p.flipMasks.pos,false);});
