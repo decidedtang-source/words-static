@@ -1,0 +1,84 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import http from 'node:http';
+import {readFileSync,mkdirSync} from 'node:fs';
+import {chromium} from '@playwright/test';
+
+test('reading controls persist, keep audio operable, reveal individually and never change progress',async()=>{
+  const server=http.createServer((req,res)=>{
+    const name=new URL(req.url,'http://localhost').pathname.split('/').at(-1)||'index.html';
+    if(!['index.html','app.js','styles.css','vocabulary.json'].includes(name)){res.writeHead(404);res.end();return;}
+    res.setHeader('Content-Type',name.endsWith('.js')?'text/javascript':name.endsWith('.css')?'text/css':name.endsWith('.json')?'application/json':'text/html');res.end(readFileSync('dist/'+name));
+  });
+  await new Promise(r=>server.listen(0,'127.0.0.1',r));
+  const url=process.env.READING_LIVE_URL||`http://127.0.0.1:${server.address().port}/`;
+  const browser=await chromium.launch({executablePath:process.env.CHROMIUM_PATH||(process.env.LOCALAPPDATA+'/ms-playwright/chromium-1234/chrome-win64/chrome.exe')});
+  try{
+    const context=await browser.newContext({viewport:{width:390,height:750}});
+    await context.addInitScript(()=>{
+      window.spoken=[];
+      Object.defineProperty(window,'speechSynthesis',{value:{getVoices:()=>[{lang:'en-US',localService:true,voiceURI:'local',name:'English'}],addEventListener(){},removeEventListener(){},cancel(){},speak(u){window.spoken.push(u.text)}}});
+      window.SpeechSynthesisUtterance=class{constructor(text){this.text=text}};
+    });
+    const page=await context.newPage(),errors=[];page.on('pageerror',e=>errors.push(e.message));
+    await page.goto(url+'#backup');
+    const setting=key=>page.locator(`[data-reading-setting="${key}"]`);
+    for(const key of ['term','meaning','foundation','context'])await setting(key).uncheck();
+    for(const key of ['maskChinese','maskEnglish','underline','examples'])await setting(key).check();
+    await page.reload();assert.equal(await setting('term').isChecked(),false);assert.equal(await setting('maskEnglish').isChecked(),true);
+    await page.goto(url+'#today');await page.getByRole('button',{name:'开始学习',exact:true}).click();
+    assert.equal(await page.locator('.term-detail').evaluate(e=>e.open),false);
+    await page.locator('.term-detail>summary').focus();await page.keyboard.press('Space');
+    assert.equal(await page.locator('.term-detail').evaluate(e=>e.open),true,'keyboard opens term without revealing answers');
+    assert.equal(await page.getByRole('button',{name:'显示释义',exact:true}).count(),1);
+    await page.getByRole('button',{name:'显示释义',exact:true}).click();
+    assert.equal(await page.locator('.term-detail').evaluate(e=>e.open),true,'manual opening survives reveal on the same card');
+    await page.goto(url+'#backup');await setting('term').check();
+    await page.goto(url+'#today');await page.getByRole('button',{name:'开始学习',exact:true}).click();
+    await page.locator('.term-detail>summary').click();await page.evaluate(()=>{spoken.length=0});
+    await page.getByRole('button',{name:'显示释义',exact:true}).click();
+    assert.equal(await page.locator('.term-detail').evaluate(e=>e.open),false,'manual folding survives reveal on the same card');
+    assert.equal(await page.evaluate(()=>spoken.length),0,'folded term must not be spoken automatically');
+    assert.equal(await page.locator('.meaning-block').evaluate(e=>e.open),false);
+    assert.equal(await page.locator('.examples-detail').evaluate(e=>e.open),true);
+    const english=page.locator('.example-english .learning-mask').first(),chinese=page.locator('.example-translation .learning-mask').first();
+    assert.equal(await english.getAttribute('data-masked'),'true');
+    await page.getByRole('button',{name:'播放例句1',exact:true}).click();
+    assert.equal(await page.evaluate(()=>spoken.length),1);
+    assert.equal(await english.getAttribute('data-masked'),'true');
+    await english.locator('button').focus();await page.keyboard.press('Enter');
+    assert.equal(await english.getAttribute('data-masked'),'false');assert.equal(await chinese.getAttribute('data-masked'),'true');
+    await english.locator('button').press('Space');assert.equal(await english.getAttribute('data-masked'),'true');
+    assert.equal(await page.getByRole('button',{name:'认识',exact:true}).count(),1);
+    mkdirSync('local-evidence',{recursive:true});await page.screenshot({path:'local-evidence/reading-masks-mobile.png',fullPage:true});
+    await page.goto(url+'#stats');assert.equal(await page.getByTestId('answer-count').textContent(),'0');
+    await page.goto(url+'#backup');await setting('term').uncheck();
+    await page.goto(url+'#library?q=scope');await page.locator('.panel>details>summary').first().click();
+    assert.ok(!(await page.locator('.panel>details>summary').first().textContent()).toLowerCase().includes('scope'));
+    const example=page.locator('.example-english').first();assert.ok(await example.locator('u').count()>0);
+    await example.locator('.mask-toggle').click();
+    await page.locator('.examples-detail>summary').first().click();
+    const outer=page.locator('.panel>details>summary').first();await outer.click();await outer.click();
+    assert.equal(await page.locator('.examples-detail').first().evaluate(e=>e.open),true,'reopening card restores section defaults');
+    assert.equal(await example.locator('.learning-mask').getAttribute('data-masked'),'true','reopening card restores masks');
+    await page.getByRole('button',{name:'词典与语境',exact:true}).first().click();
+    assert.equal(await page.locator('dialog [data-reading-section="term"]').evaluate(e=>e.open),false);
+    assert.ok(await page.locator('dialog [data-learning-text="zh"][data-masked="true"]').count()>0);
+    assert.equal(await page.getByRole('button',{name:'返回原页面',exact:true}).isVisible(),true);
+    await page.getByRole('button',{name:'返回原页面',exact:true}).click();await page.locator('dialog').waitFor({state:'detached'});
+    await page.goto(url+'#backup');await setting('maskEnglish').uncheck();await setting('underline').uncheck();
+    await page.goto(url+'#library?q=scope');await page.locator('.panel>details>summary').first().click();
+    assert.equal(await page.locator('.example-english .learning-mask').count(),0);assert.equal(await page.locator('.example-english u').count(),0);
+    assert.ok(await page.locator('.example-translation .learning-mask').count()>0);
+    await page.goto(url+'#backup');await setting('term').check();
+    await page.goto(url+'#library?q=scope');await page.locator('.panel>details>summary').first().click();
+    await page.locator('.term-detail>summary').first().click();
+    assert.ok(!(await page.locator('.panel>details>summary').first().textContent()).toLowerCase().includes('scope'),'open card heading cannot leak folded term');
+    for(const width of [320,390,768,1440]){await page.setViewportSize({width,height:750});assert.ok(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth));}
+    const legacy=await browser.newContext();await legacy.addInitScript(()=>localStorage.setItem('words-static-content-expanded','false'));
+    const lp=await legacy.newPage();await lp.goto(url+'#backup');assert.equal(await lp.locator('[data-reading-setting="examples"]').isChecked(),false);assert.equal(await lp.locator('[data-reading-setting="term"]').isChecked(),true);
+    const denied=await browser.newContext();await denied.addInitScript(()=>{Storage.prototype.getItem=()=>{throw Error('blocked')};Storage.prototype.setItem=()=>{throw Error('blocked')};});
+    const dp=await denied.newPage();await dp.goto(url+'#backup');await dp.locator('[data-reading-setting="maskChinese"]').check();await dp.getByText('浏览器拒绝保存显示偏好，本次仍可使用。',{exact:true}).waitFor();
+    assert.deepEqual(errors,[]);
+  }finally{await browser.close();await new Promise(r=>server.close(r));}
+});
