@@ -26,8 +26,12 @@
 - [x] Integrate explicit learning-text markup and section controls in `src/app.mjs` and `src/lexical-ui.mjs`; add CSS and cache version.
 - [x] Add browser coverage for sentence-first/listening-first, independent masks, keyboard reveal, reload, audio without reveal, underlines off/on and unchanged progress. Adapt existing mobile assertion to new term section.
 - [x] Run Node tests, build and browser suite; inspect mobile screenshot. Review diff and source data preservation.
-- [ ] Commit, integrate latest remote main, publish with existing Actions workflow and verify public behavior in a disposable browser.
+- [x] Commit, integrate latest remote main, publish with existing Actions workflow and verify public behavior in a disposable browser.
 
 ## Review focus
 
 Storage corrupt/denied; old false expansion preference; duplicate and substring target matches; keyboard events accidentally triggering grading; hidden term leaking through auto speech or library heading; dictionary explanations and UI controls correctly separated. Test these in unit/browser coverage.
+
+## Completion evidence
+
+Release commit `c37590025b9064b69de853095fe55189b17d8616`; Pages run `44241800306` succeeded. The reading-controls browser scenario also passed against the actual public URL using a disposable browser context. Local validation: 16 unit tests and 4 browser tests passed. Rollback tag and release tag are both verified on origin.
