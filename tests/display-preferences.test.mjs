@@ -3,6 +3,12 @@ import assert from 'node:assert/strict';
 import {normalizePreferences} from '../src/display-preferences.mjs';
 import {underlineTarget} from '../src/reading-display.mjs';
 
+test('flip actions default to preserving state and independently validate sections and masks',()=>{
+ const initial=normalizePreferences(null);assert.equal(initial.keepFace,false);assert.equal(initial.scrollMode,'module');assert.equal(normalizePreferences({keepFace:true,scrollMode:'top'}).keepFace,true);assert.equal(normalizePreferences({keepFace:'yes',scrollMode:'bad'}).scrollMode,'module');assert.deepEqual(Object.values(initial.flipSections),Array(5).fill('keep'));assert.deepEqual(Object.values(initial.flipMasks),Array(5).fill(false));
+ const p=normalizePreferences({expanded:{meaning:false},masks:{meaning:true,example:true},flipSections:{meaning:'open',term:'closed',examples:'bad'},flipMasks:{meaning:true,example:false,translation:'yes'}});
+ assert.equal(p.flipSections.meaning,'open');assert.equal(p.flipSections.term,'closed');assert.equal(p.flipSections.examples,'keep');assert.equal(p.flipMasks.meaning,true);assert.equal(p.flipMasks.example,false);assert.equal(p.flipMasks.translation,false);assert.equal(p.expanded.meaning,false);assert.equal(p.masks.meaning,true);
+});
+
 test('display preferences preserve old collapse choice and reject invalid values',()=>{
   const p=normalizePreferences(null,false);
   assert.equal(p.expanded.term,true);

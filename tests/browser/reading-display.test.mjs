@@ -21,7 +21,7 @@ test('reading controls persist, keep audio operable, reveal individually and nev
       window.SpeechSynthesisUtterance=class{constructor(text){this.text=text}};
     });
     const page=await context.newPage(),errors=[];page.on('pageerror',e=>errors.push(e.message));
-    await page.goto(url+'#backup');await page.setViewportSize({width:1440,height:2800});
+    await page.goto(url+'#backup');await page.locator('[data-reading-setting=scrollMode]').selectOption('position');await page.setViewportSize({width:1440,height:2800});
     const setting=key=>page.locator(`[data-reading-setting="${key}"]`);
     await page.locator('.module-order').evaluate(el=>el.scrollIntoView({block:'center'}));
     const from=await page.locator('[data-module-key="examples"] .order-handle').boundingBox();
