@@ -1,0 +1,17 @@
+import {learningProgress} from './progress.mjs';
+const esc=v=>String(v??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const label=(value,text)=>`<div><dt>${text}</dt><dd>${value}</dd></div>`;
+export function progressView(state,data,hash,now=Date.now()) {
+  const raw=hash.split('?')[1]||'7',params=new URLSearchParams(raw.includes('=')?raw:`days=${raw}`);
+  const candidate=Number(params.get('days')||7),days=[1,7,30,36500].includes(candidate)?candidate:7;
+  const batch=data.batches.some(b=>b.date===params.get('batch'))?params.get('batch'):'';
+  const p=learningProgress(state,data.words,{now,days,batch}),dates=p.batches.filter(row=>!batch||row.date===batch);
+  const href=n=>'#stats?'+new URLSearchParams({days:String(n),...(batch?{batch}:{})});
+  return {days,batch,body:`<div class="actions">${[[1,'今日'],[7,'7日'],[30,'30日'],[36500,'全部']].map(([n,t])=>`<a href="${href(n)}" ${days===n?'aria-current="page"':''}>${t}</a>`).join('')}</div>
+  <label for="stats-batch">按词表日期查看</label><select id="stats-batch"><option value="">全部词表日期</option>${p.batches.map(b=>`<option value="${esc(b.date)}" ${batch===b.date?'selected':''}>${esc(b.date)}</option>`).join('')}</select>
+  <div class="metrics"><div class="metric"><strong data-testid="answer-count">${p.answers}</strong><span>本期作答次数</span></div><div class="metric"><strong data-testid="new-count">${p.newCount}</strong><span>本期新学词数</span></div><div class="metric"><strong data-testid="review-count">${p.reviewCount}</strong><span>本期复习次数</span></div></div>
+  <p class="hint">本期涉及 ${p.words} 个不同单词。“新学”只计算首次作答，之后再次作答计为复习；已撤销的评分不计入。</p>
+  <section class="panel"><h2>按实际学习日期</h2><p class="muted">日期按台北时间计算。同一批词可以分多天学习，进度会累计保留。</p><div class="table-scroll" tabindex="0" role="region" aria-label="每日学习记录"><table class="table"><thead><tr><th>学习日期</th><th>新学词数</th><th>复习次数</th><th>不同单词</th><th>作答次数</th></tr></thead><tbody>${p.daily.map(r=>`<tr data-study-date="${r.date}"><td>${r.date}</td><td>${r.newCount}</td><td>${r.reviewCount}</td><td>${r.words}</td><td>${r.answers}</td></tr>`).join('')||'<tr><td colspan="5">本期还没有学习记录。</td></tr>'}</tbody></table></div></section>
+  <section class="panel"><h2>按词表日期的累计进度</h2><p class="muted">“已开始”表示至少有一次有效评分，不代表已经掌握；仅勾选“已读”不会计入。累计进度不受上面的时间范围影响。</p><div class="batch-progress-grid">${dates.map(b=>`<article class="batch-progress-row" data-batch-progress="${b.date}"><header><h3>${b.date}</h3><span data-batch-started>${b.started} / ${b.total} 已开始</span></header><progress value="${b.started}" max="${b.total}" aria-label="${b.date}词表已开始进度"></progress><dl class="batch-counts">${label(b.remaining,'未开始')}${label(b.due,'当前到期')}${label(b.answers,'累计作答')}${label(b.newCount,'本期新学')}${label(b.reviewCount,'本期复习')}</dl><p class="hint">最近学习：${b.lastStudiedAt===null?'尚未开始':new Date(b.lastStudiedAt).toLocaleString('zh-CN',{timeZone:'Asia/Taipei',year:'numeric',month:'2-digit',day:'2-digit',hour:'2-digit',minute:'2-digit',hour12:false})}</p><div class="actions"><a href="#library?batch=${b.date}">查看词表</a><a href="#stats?days=${days}&batch=${b.date}">逐日明细</a><button class="secondary" data-start-batch="${b.date}">学习这批</button></div></article>`).join('')}</div></section>
+  <section class="panel"><h2>本期评分分布</h2><div class="statsbreak">${[1,2,3].map(n=>`<div>${({1:'不认识',2:'模糊',3:'认识'})[n]}<br><strong>${p.counts[n]}</strong></div>`).join('')}</div></section>${p.unmatchedAnswers?'<p class="hint">部分历史作答来自当前词库未收录的词，保留在总计与每日记录中。</p>':''}`};
+}

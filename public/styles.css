@@ -47,3 +47,19 @@ button.mask-toggle{display:inline-block;position:relative;max-width:100%;min-hei
 .preview-module .mask-toggle{font-size:15px}
 .reading-editor [data-dictionary-preview]{padding:8px;background:#f7f9f3;border-radius:8px;margin:8px 0}
 .module-order{overflow-anchor:none}
+
+.batch-options{display:grid;grid-template-columns:repeat(auto-fit,minmax(225px,1fr));gap:8px;margin:12px 0;max-height:320px;overflow:auto}
+.batch-options .readlabel{white-space:normal;font-size:14px;align-items:flex-start}
+.batch-options input{flex-shrink:0;margin-top:8px}
+.batch-picker{margin:12px 0}
+.table-scroll{max-width:100%;overflow-x:auto}
+.table-scroll th,.table-scroll td{white-space:nowrap}
+.batch-progress-grid{display:grid;gap:16px;grid-template-columns:repeat(auto-fit,minmax(min(100%,300px),1fr))}
+.batch-progress-row{padding:16px;border:1px solid #dce4d5;border-radius:12px;background:#f8faf5;min-width:0}
+.batch-progress-row header{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:8px}
+.batch-progress-row h3{margin:0;font-size:17px}
+.batch-progress-row header span{font-size:13px;color:#56614f}
+.batch-counts{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;margin:12px 0}
+.batch-counts dt{font-size:12px;color:#68785f}.batch-counts dd{margin:0;font-size:20px;font-weight:600}
+.batch-progress-row .actions{gap:12px;font-size:14px}.batch-progress-row button{padding:8px 12px}
+.list li{gap:12px;flex-wrap:wrap}.list li>span{font-size:13px;color:#68785f}
