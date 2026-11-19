@@ -1,0 +1,78 @@
+# PROPOSED ONLY — NOT AN ACTIVE GITHUB ACTION.
+# This file lives under docs/codex/workflows/, NOT .github/workflows/.
+# To activate, Codex first needs to IMPLEMENT scripts/validate-reviewed-content.mjs
+# and prove it checks exact candidate + independent reviewer receipts, public privacy,
+# license, stable source/card IDs, source snapshots and 10-stage compact analysis.
+# Then, and only with Owner approval, move/adapt this proposal to .github/workflows.
+# It intentionally has NO pages:write, id-token:write, auto-merge or deploy step.
+# PR validation does not authorize release. The EXISTING pages.yml on main
+# independently auto-deploys after merge, so release requires a separate Owner gate.
+
+name: Proposed Wordbook Pull Request Quality Gate
+on:
+  pull_request:
+    branches:
+      - main
+    paths:
+      - src/**
+      - content/**
+      - dictionary/**
+      - public/**
+      - scripts/**
+      - tests/**
+      - package.json
+      - package-lock.json
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: proposed-wordbook-quality
+  cancel-in-progress: false
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - name: Checkout PR without publishing
+        uses: actions/checkout@v4
+
+      - name: Setup Node 24
+        uses: actions/setup-node@v4
+        with:
+          node-version: "24"
+          cache: npm
+
+      - name: Install locked dependencies
+        run: npm ci
+
+      - name: Verify existing source, model and lexical tests
+        run: npm test
+
+      - name: Verify content source/reviewer evidence
+        # FAIL CLOSED: this validator does not yet exist. Implement and test it
+        # before activating this workflow in .github/workflows/.
+        run: node scripts/validate-reviewed-content.mjs --strict
+
+      - name: Build preview assets
+        run: npm run build
+
+      - name: Install Playwright Chromium for browser regressions
+        run: npx playwright install --with-deps chromium
+
+      - name: Set Chromium executable for existing browser tests
+        shell: bash
+        run: |
+          CHROME=$(node --input-type=module -e 'import { chromium } from "@playwright/test"; process.stdout.write(chromium.executablePath())')
+          printf 'CHROMIUM_PATH=%s\n' "$CHROME" >> "$GITHUB_ENV"
+
+      - name: Validate real browser flows (no production user data)
+        run: npm run test:browser
+
+      - name: Publish human-readable test summary only
+        if: always()
+        run: |
+          echo "This is a proposed PR CI run, not a full semantic or product acceptance."
+          echo "No GitHub Pages deployment or Notion mutation is performed here."

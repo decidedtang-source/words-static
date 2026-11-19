@@ -1,0 +1,65 @@
+{
+  "schemaVersion": "selection-packet/v0.1-proposal",
+  "status": "EXAMPLE_ONLY_NOT_ACTUAL_NOTION_EXPORT",
+  "packetId": "DEMO-2026-10-31-01",
+  "selectionSource": {
+    "kind": "manual_example",
+    "notionMode": "selection_only",
+    "privateSourceLocatorStoredOutsideRepo": true,
+    "automaticNotionImport": false
+  },
+  "entries": [
+    {
+      "selectionKey": "DEMO:shift:001",
+      "displayText": "shift",
+      "entryType": "word",
+      "existingCardId": null,
+      "sourceDate": null,
+      "context": {
+        "text": "The supplier needs a work instruction before the next shift.",
+        "kind": "generated_example",
+        "sourceVerified": false
+      },
+      "privacyClass": "public",
+      "rights": {
+        "targetShareApproved": true,
+        "contextShareApproved": true,
+        "evidence": "synthetic teaching example only"
+      },
+      "note": "This is an example input, not a record of an actual Notion selection."
+    },
+    {
+      "selectionKey": "DEMO:working-definition:002",
+      "displayText": "working definition",
+      "entryType": "compositional_phrase",
+      "existingCardId": null,
+      "sourceDate": null,
+      "context": {
+        "text": "Let us agree on a working definition of a critical defect.",
+        "kind": "generated_example",
+        "sourceVerified": false
+      },
+      "privacyClass": "public",
+      "rights": {
+        "targetShareApproved": true,
+        "contextShareApproved": true,
+        "evidence": "synthetic teaching example only"
+      }
+    },
+    {
+      "selectionKey": "DEMO:private-placeholder:003",
+      "displayText": "example restricted expression",
+      "entryType": "unverified_candidate",
+      "existingCardId": null,
+      "sourceDate": null,
+      "context": null,
+      "privacyClass": "private",
+      "rights": {
+        "targetShareApproved": false,
+        "contextShareApproved": false,
+        "evidence": "none"
+      },
+      "disposition": "QUARANTINE_DO_NOT_PUBLISH"
+    }
+  ]
+}
